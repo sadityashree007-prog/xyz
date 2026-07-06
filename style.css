@@ -319,7 +319,7 @@ body.home-page {
 }
 .q-meta { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; flex-wrap: wrap; }
 .tag {
-  background: var(--navy); color: #fff; font-size: 0.75rem;
+  background: var(--navy); color: #ffeb3b; font-size: 0.75rem;
   padding: 4px 10px; border-radius: 20px; font-weight: 600;
 }
 .tag-gold { background: var(--gold); color: var(--navy-dark); }
