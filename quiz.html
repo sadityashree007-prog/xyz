@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>XYZ Quiz</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
+</head>
+<body>
+  <div class="watermark" aria-hidden="true">
+    <img id="watermarkImg" src="ashoka.jpg" alt="Ashoka Stambh Watermark" />
+  </div>
+
+  <header class="topbar">
+    <div class="topbar-left">
+      <button id="hamburgerBtn" class="icon-btn hamburger" aria-label="Open Question Palette">☰</button>
+      <a href="index.html" class="icon-btn home-link" aria-label="Home">⌂</a>
+    </div>
+    <div class="exam-title">
+      <span id="examName">XYZ Quiz</span>
+    </div>
+    <div class="timer-box">
+      <span class="timer-label">Stopwatch</span>
+      <span id="timerDisplay">00:00:00</span>
+    </div>
+  </header>
+
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-header">
+      <h3>Question Palette</h3>
+      <button id="closeSidebarBtn" class="icon-btn">✕</button>
+    </div>
+
+    <div class="legend">
+      <div><span class="dot not-visited"></span> Not Visited</div>
+      <div><span class="dot not-answered"></span> Not Answered</div>
+      <div><span class="dot answered"></span> Answered</div>
+      <div><span class="dot flagged"></span> Marked for Review</div>
+      <div><span class="dot flagged-answered"></span> Answered &amp; Marked</div>
+    </div>
+
+    <div id="paletteGrid" class="palette-grid"></div>
+
+    <div class="sidebar-footer">
+      <button id="endTestBtn" class="btn btn-gold btn-block">End &amp; Submit Quiz</button>
+    </div>
+  </aside>
+  <div id="sidebarOverlay" class="sidebar-overlay"></div>
+
+  <main id="quizView" class="quiz-view">
+    <div class="quiz-card">
+      <div class="q-meta">
+        <span id="qIndexLabel" class="tag">Question 1 / Q1</span>
+        <span id="qSubjectTag" class="tag tag-gold"></span>
+        <button id="flagBtn" class="btn btn-outline btn-flag">🚩 Flag</button>
+      </div>
+
+      <div id="passageBlock" class="passage-block" style="display:none;">
+        <p class="passage-hi"></p>
+        <p class="passage-en"></p>
+      </div>
+
+      <div id="statementsBlock" class="statements-block" style="display:none;"></div>
+
+      <div class="question-block">
+        <p id="questionHi" class="question-hi"></p>
+        <p id="questionEn" class="question-en"></p>
+      </div>
+
+      <div id="optionsBlock" class="options-block"></div>
+    </div>
+
+    <div class="nav-buttons">
+      <button id="prevBtn" class="btn btn-outline">◀ Previous</button>
+      <button id="clearBtn" class="btn btn-outline">Clear Response</button>
+      <button id="saveNextBtn" class="btn btn-navy">Save &amp; Next ▶</button>
+    </div>
+  </main>
+
+  <section id="dashboardView" class="dashboard-view" style="display:none;">
+    <div id="dashboardError" class="dash-error" style="display:none;color:#c0392b;padding:16px;border:1px solid #f1c0c0;background:#fff6f6;margin:12px 0;border-radius:6px;"></div>
+
+    <h1 class="dash-title">Result Dashboard</h1>
+
+    <div id="scorecardGrid" class="scorecard-grid"></div>
+
+    <div class="charts-grid">
+      <div class="chart-card"><h3>Subject-wise Accuracy</h3><div id="chartSubject" class="chart-canvas"></div></div>
+      <div class="chart-card"><h3>Correct vs Incorrect vs Skipped</h3><div id="chartPie" class="chart-canvas"></div></div>
+      <div class="chart-card"><h3>Difficulty Analysis</h3><div id="chartDifficulty" class="chart-canvas"></div></div>
+      <div id="chartTimeCard" class="chart-card chart-card-clickable"><h3>Time per Question</h3><div id="chartTime" class="chart-canvas"></div><div id="timeQuestionList" class="chart-detail-list" style="display:none;"></div></div>
+      <div id="timeDetailView" class="detail-view" style="display:none;">
+        <div class="detail-view-card">
+          <div class="detail-view-header">
+            <h3>Detailed Time Analysis</h3>
+            <button id="closeTimeDetailBtn" class="btn btn-outline">Close</button>
+          </div>
+          <div id="timeDetailChart" class="chart-canvas"></div>
+          <div id="timeDetailList" class="chart-detail-list"></div>
+        </div>
+      </div>
+      <div class="chart-card"><h3>Performance Trend</h3><div id="chartTrend" class="chart-canvas"></div></div>
+      <div class="chart-card"><h3>Accuracy vs Attempt %</h3><div id="chartScatter" class="chart-canvas"></div></div>
+      <div class="chart-card"><h3>Marks Distribution</h3><div id="chartHistogram" class="chart-canvas"></div></div>
+      <div class="chart-card"><h3>Subject Contribution</h3><div id="chartSubjectPie" class="chart-canvas"></div></div>
+    </div>
+
+    <div class="chart-card heatmap-card">
+      <h3>Topic Heatmap (Accuracy %)</h3>
+      <div id="topicHeatmap" class="heatmap-grid"></div>
+    </div>
+
+    <div class="insights-grid">
+      <div class="insight-card">
+        <h3>Personal Insights</h3>
+        <p id="insightPersonal"></p>
+      </div>
+      <div class="insight-card">
+        <h3>Smart Recommendations</h3>
+        <ul id="insightRecommendations"></ul>
+      </div>
+      <div class="insight-card">
+        <h3>Weakest &amp; Strongest Topics</h3>
+        <div class="two-col">
+          <div><strong>Strongest</strong><ul id="strongTopics"></ul></div>
+          <div><strong>Weakest</strong><ul id="weakTopics"></ul></div>
+        </div>
+      </div>
+      <div class="insight-card">
+        <h3>Negative Mark Analysis</h3>
+        <div id="negativeAnalysisTable"></div>
+      </div>
+      <div class="insight-card">
+        <h3>Time Efficiency</h3>
+        <div id="timeEfficiencyTable"></div>
+      </div>
+    </div>
+
+    <div class="answer-sheet">
+      <h2>Answer Sheet</h2>
+      <div id="answerSheetList"></div>
+    </div>
+
+    <button id="restartBtn" class="btn btn-navy btn-block">Retry Quiz</button>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>

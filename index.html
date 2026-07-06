@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>XYZ | Home</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="home-page">
+  <div class="hero-shell">
+    <header class="hero-header">
+      <div class="brand-block">
+        <img src="ashoka.jpg" alt="Ashoka Logo" class="brand-logo">
+        <div>
+          <p class="brand-kicker">Official Learning Platform</p>
+          <h1>XYZ</h1>
+        </div>
+      </div>
+      <nav class="hero-nav">
+        <a href="index.html">Home</a>
+      </nav>
+    </header>
+
+    <main class="hero-content">
+      <section class="hero-copy">
+        <p class="section-label">Smart Practice Hub</p>
+        <h2>Explore multiple quizzes with one clean experience.</h2>
+        <p class="hero-text">Choose a quiz set below to begin. Each quiz is loaded from its own JSON file and can be renamed easily.</p>
+      </section>
+
+      <section class="quiz-grid" id="quizGrid"></section>
+    </main>
+  </div>
+
+  <script>
+    const quizzes = [
+      { name: 'SET-A', file: 'SET-A.json', link: 'quiz.html?quiz=SET-A.json' },
+      { name: 'SET-D', file: 'SET-D.json', link: 'quiz.html?quiz=SET-D.json' }
+    ];
+
+    const grid = document.getElementById('quizGrid');
+    grid.innerHTML = quizzes.map(q => `
+      <a class="quiz-card" href="${q.link}">
+        <h3>${q.name}</h3>
+        <p>Quiz file: ${q.file}</p>
+        <span>Start Quiz →</span>
+      </a>
+    `).join('');
+  </script>
+</body>
+</html>
