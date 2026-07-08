@@ -983,18 +983,18 @@
     "correctAnswer": "D",
     "explanation": {
       "hi": "LAF (तरलता समायोजन सुविधा) RBI का वह टूल है जिससे बैंक अपनी रोजमर्रा की पैसों की कमी को पूरा करते हैं (उधार लेते हैं) या अतिरिक्त पैसा जमा करते हैं। इसके दो मुख्य हथियार 'रेपो रेट' (लोन लेना) और 'रिवर्स रेपो/SDF' (पैसा जमा करना) हैं। इसका रोज़ का काम सिर्फ बैंकों में कैश की मात्रा (तरलता) को सेट करना है, यह सीधे तौर पर महंगाई कम करने का बटन नहीं है (यद्यपि परोक्ष रूप से मदद करता है)। अतः तीनों कथन सही हैं।\n\nसरल भाषा में: हर दिन शाम को किसी बैंक के पास पैसे खत्म हो जाते हैं, तो किसी बैंक के पास बहुत ज्यादा पैसे बच जाते हैं। इस रोज़-रोज़ की समस्या को सुलझाने के लिए RBI ने 'LAF' नाम की एक खिड़की खोली है (कथन 1 सही)। इस खिड़की पर दो बोर्ड लगे हैं: एक 'रेपो रेट' (पैसे उधार लो) और दूसरा 'रिवर्स रेपो' (एक्स्ट्रा पैसे जमा करो) (कथन 2 सही)। इस खिड़की का काम सिर्फ कैश को मैनेज करना है, यह खिड़की सीधे महंगाई कम करने के लिए नहीं बनाई गई है (कथन 3 सही)।",
-      "en": "The Liquidity Adjustment Facility (LAF) is an operational window established by the RBI to help commercial banks manage their daily mismatch in cash flows. Banks can borrow money through Repo auctions or park excess money through Reverse Repo (or SDF). While the rates used here```json
-  {
-    "id": 22,
-    "subject": "Economics",
-    "topic": "Monetary Policy Committee (MPC)",
-    "difficulty": "Medium",
-    "type": "mcq",
-    "passage": null,
-    "statements": null,
-    "question": {
-      "hi": "यदि MPC (मौद्रिक नीति समिति) में सदस्यों के बीच किसी प्रस्ताव पर मतभेद होता है और पक्ष-विपक्ष में समान मत प्राप्त होते हैं, तो निम्नलिखित में से कौन सा कथन सही है?",
-      "en": "If there is a difference of opinion among members in the MPC on a proposal and there is a tie in votes, which of the following statements is correct?"
+      "en": 
+      {
+       "id": 22,
+       "subject": "Economics",
+       "topic": "Monetary Policy Committee (MPC)",
+       "difficulty": "Medium",
+       "type": "mcq",
+       "passage": null,
+       "statements": null,
+       "question": {
+          "hi": "यदि MPC (मौद्रिक नीति समिति) में सदस्यों के बीच किसी प्रस्ताव पर मतभेद होता है और पक्ष-विपक्ष में समान मत प्राप्त होते हैं, तो निम्नलिखित में से कौन सा कथन सही है?",
+          "en": "If there is a difference of opinion among members in the MPC on a proposal and there is a tie in votes, which of the following statements is correct?"
     },
     "options": [
       {
