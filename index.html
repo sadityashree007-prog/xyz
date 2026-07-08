@@ -5,51 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>XYZ | Home</title>
   <link rel="stylesheet" href="style.css">
-  <style>
-    /* कैटेगरी बॉक्स और बटन को सुंदर बनाने के लिए CSS */
-    .category-container {
-      display: flex;
-      gap: 20px;
-      margin-bottom: 40px;
-      justify-content: center;
-      flex-wrap: wrap;
-    }
-    .category-card {
-      background: #f0f4f8;
-      border: 2px solid #0076d6;
-      padding: 30px 40px;
-      border-radius: 12px;
-      cursor: pointer;
-      font-size: 22px;
-      font-weight: bold;
-      color: #0076d6;
-      transition: 0.3s;
-      text-align: center;
-      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-    }
-    .category-card:hover {
-      background: #0076d6;
-      color: white;
-      transform: translateY(-5px);
-    }
-    .hidden {
-      display: none !important;
-    }
-    .back-btn {
-      background: #333;
-      color: white;
-      padding: 10px 20px;
-      border-radius: 5px;
-      cursor: pointer;
-      display: inline-block;
-      margin-bottom: 25px;
-      font-weight: bold;
-      transition: 0.3s;
-    }
-    .back-btn:hover {
-      background: #555;
-    }
-  </style>
 </head>
 <body class="home-page">
   <div class="hero-shell">
@@ -69,87 +24,38 @@
     <main class="hero-content">
       <section class="hero-copy">
         <p class="section-label">Smart Practice Hub</p>
-        <h2 id="pageTitle">Choose a Quiz Category</h2>
-        <p class="hero-text" id="pageSubtitle">Select a folder below to explore multiple quizzes with one clean experience.</p>
+        <h2>Explore multiple quizzes with one clean experience.</h2>
+        <p class="hero-text">Choose a quiz set below to begin. Each quiz is loaded from its own JSON file and can be renamed easily.</p>
       </section>
 
-      <!-- कैटेगरी वाले डिब्बे (Folders) -->
-      <div id="categorySection" class="category-container">
-        <div class="category-card" onclick="showQuizzes('mentorship')">
-          📚 Mentorship 2026-27
-        </div>
-        <div class="category-card" onclick="showQuizzes('economy')">
-          📈 Indian Economy
-        </div>
-      </div>
-
-      <!-- क्विज़ ग्रिड (जो शुरुआत में छुपी रहेगी) -->
-      <div id="quizSection" class="hidden">
-        <div class="back-btn" onclick="showCategories()">← Back to Categories</div>
-        <section class="quiz-grid" id="quizGrid"></section>
-      </div>
+      <section class="quiz-grid" id="quizGrid"></section>
     </main>
   </div>
 
   <script>
-    // तुम्हारी फाइल के अनुसार क्विज़ का डेटा, जिसे दो भागों में बांट दिया गया है
-    const quizData = {
-      Mentorship: [
-        { name: 'Mentorship 2026-27 SET-A', file: 'SET-A.json', link: 'quiz.html?quiz=SET-A.json' },
-        { name: 'Mentorship 2026-27 SET-D', file: 'SET-D.json', link: 'quiz.html?quiz=SET-D.json' },
-        { name: 'Mentorship 2026-27 SET-C', file: 'SET-C.json', link: 'quiz.html?quiz=SET-C.json' }
-      ],
-     Indian Economy: [
-        { name: 'National Income (50 MCQs)', file: 'National Income 50 MCQs.json', link: 'quiz.html?quiz=National Income 50 MCQs.json' },
-        { name: 'Growth vs Development (50 MCQs)', file: 'growth vs devlopment 50 MCQs.json', link: 'quiz.html?quiz=growth vs devlopment 50 MCQs.json' },
-        { name: 'Basic Introduction of Economics (50 MCQs)', file: 'Basic Introduction of economics 50 MCQs.json', link: 'quiz.html?quiz=Basic Introduction of economics 50 MCQs.json' },
-        { name: 'Money and Money Supply (50 MCQs)', file: 'Money and Money Supply 50 MCQs.json', link: 'quiz.html?quiz=Money and Money Supply 50 MCQs.json' },
-        { name: 'Banking (50 MCQs)', file: 'Banking 50 MCQs.json', link: 'quiz.html?quiz=Banking 50 MCQs.json' },
-        { name: 'Monetary Policy (50 MCQs)', file: 'monetary policy 50 MCQs.json', link: 'quiz.html?quiz=monetary policy 50 MCQs.json' },
-        { name: 'Inflation (50 MCQs)', file: 'Inflation 50 MCQs.json', link: 'quiz.html?quiz=Inflation 50 MCQs.json' },
-        { name: 'Tax (50 MCQs)', file: 'Tax 50 MCQs.json', link: 'quiz.html?quiz=Tax 50 MCQs.json' },
-        { name: 'India\'s Securities Market (50 MCQs)', file: 'India\'s securities market 50 MCQs.json', link: 'quiz.html?quiz=India\'s securities market 50 MCQs.json' }
-      ]
-    };
+    const quizzes = [
+      { name: 'Mentorship 2026-27 SET-A', file: 'SET-A.json', link: 'quiz.html?quiz=SET-A.json' },
+      { name: 'Mentorship 2026-27 SET-D', file: 'SET-D.json', link: 'quiz.html?quiz=SET-D.json' },
+      { name: 'Mentorship 2026-27 SET-C', file: 'SET-C.json', link: 'quiz.html?quiz=SET-C.json' },
+      { name: 'Indian Economy National Income (50 MCQs)', file: 'National Income 50 MCQs.json', link: 'quiz.html?quiz=National Income 50 MCQs.json' },
+      { name: 'Indian Economy Growth vs Development (50 MCQs)', file: 'growth vs devlopment 50 MCQs.json', link: 'quiz.html?quiz=growth vs devlopment 50 MCQs.json' },
+      { name: 'Indian Economy Basic Introduction of Economics (50 MCQs)', file: 'Basic Introduction of economics 50 MCQs.json', link: 'quiz.html?quiz=Basic Introduction of economics 50 MCQs.json' },
+      { name: 'Indian Economy Money and Money Supply (50 MCQs)', file: 'Money and Money Supply 50 MCQs.json', link: 'quiz.html?quiz=Money and Money Supply 50 MCQs.json' },
+      { name: 'Indian Economy Banking (50 MCQs)', file: 'Banking 50 MCQs.json', link: 'quiz.html?quiz=Banking 50 MCQs.json' },
+      { name: 'Indian Economy Monetary Policy (50 MCQs)', file: 'monetary policy 50 MCQs.json', link: 'quiz.html?quiz=monetary policy 50 MCQs.json' },
+      { name: 'Indian Economy Inflation (50 MCQs)', file: 'Inflation 50 MCQs.json', link: 'quiz.html?quiz=Inflation 50 MCQs.json' },
+      { name: 'Indian Economy Tax (50 MCQs)', file: 'Tax 50 MCQs.json', link: 'quiz.html?quiz=Tax 50 MCQs.json' },
+      { name: 'Indian Economy India\'s Securities Market (50 MCQs)', file: 'India\'s securities market 50 MCQs.json', link: 'quiz.html?quiz=India\'s securities market 50 MCQs.json' }
+      ];
 
-    const categorySection = document.getElementById('categorySection');
-    const quizSection = document.getElementById('quizSection');
     const grid = document.getElementById('quizGrid');
-    const pageTitle = document.getElementById('pageTitle');
-    const pageSubtitle = document.getElementById('pageSubtitle');
-
-    // कैटेगरी बॉक्स पर क्लिक करने पर क्विज़ दिखाने वाला फंक्शन
-    function showQuizzes(category) {
-      categorySection.classList.add('hidden');
-      quizSection.classList.remove('hidden');
-
-      // हेडिंग बदलना
-      if(category === 'mentorship') {
-        pageTitle.innerText = "Mentorship 2026-27 Quizzes";
-        pageSubtitle.innerText = "Practice your mentorship sets below.";
-      } else {
-        pageTitle.innerText = "Indian Economy Quizzes";
-        pageSubtitle.innerText = "Master Indian Economy concepts with these MCQ sets.";
-      }
-
-      // क्विज़ कार्ड्स बनाना
-      const selectedQuizzes = quizData[category];
-      grid.innerHTML = selectedQuizzes.map(q => `
-        <a class="quiz-card" href="${q.link}">
-          <h3>${q.name}</h3>
-          <p>Quiz file: ${q.file}</p>
-          <span>Start Quiz →</span>
-        </a>
-      `).join('');
-    }
-
-    // 'Back' बटन दबाने पर वापस कैटेगरी पेज पर ले जाने वाला फंक्शन
-    function showCategories() {
-      quizSection.classList.add('hidden');
-      categorySection.classList.remove('hidden');
-      pageTitle.innerText = "Choose a Quiz Category";
-      pageSubtitle.innerText = "Select a folder below to explore multiple quizzes with one clean experience.";
-    }
+    grid.innerHTML = quizzes.map(q => `
+      <a class="quiz-card" href="${q.link}">
+        <h3>${q.name}</h3>
+        <p>Quiz file: ${q.file}</p>
+        <span>Start Quiz →</span>
+      </a>
+    `).join('');
   </script>
 </body>
 </html>
