@@ -1,0 +1,2526 @@
+[
+  {
+    "id": 1,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक वृद्धि का संबंध मुख्यतः वास्तविक राष्ट्रीय आय में वृद्धि से है।",
+        "en": "Economic growth is primarily related to an increase in real national income."
+      },
+      {
+        "id": 2,
+        "hi": "आर्थिक विकास में संरचनात्मक एवं संस्थागत परिवर्तन भी शामिल होते हैं।",
+        "en": "Economic development also includes structural and institutional changes."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "दोनों कथन सही हैं: आर्थिक वृद्धि एक मात्रात्मक (Quantitative) प्रक्रिया है जो देश की वास्तविक आय या GDP में बढ़ोतरी को दर्शाती है। आर्थिक विकास (Development) एक व्यापक अवधारणा है जिसमें आय बढ़ने के साथ-साथ गरीबी में कमी, साक्षरता और संस्थागत सुधार शामिल होते हैं। सरल भाषा में: आर्थिक वृद्धि का मतलब है सिर्फ आपकी जेब में पैसों का बढ़ना। लेकिन आर्थिक विकास का मतलब है पैसे बढ़ने के साथ-साथ आपका अच्छा स्कूल जाना, बीमार होने पर अच्छा अस्पताल मिलना और आपका समझदार बनना।",
+      "en": "Both statements are correct: Economic growth is a quantitative process reflecting an increase in real income or GDP. Economic development is a broader concept that includes poverty reduction, literacy, and institutional reforms alongside income growth. In simple terms: Growth is just more money in your pocket, while development means better education, healthcare, and overall well-being along with that money."
+    }
+  },
+  {
+    "id": 2,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक वृद्धि आर्थिक विकास के बिना भी संभव है।",
+        "en": "Economic growth is possible without economic development."
+      },
+      {
+        "id": 2,
+        "hi": "आर्थिक विकास सदैव आर्थिक वृद्धि को सम्मिलित करता है।",
+        "en": "Economic development always encompasses economic growth."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "दोनों कथन सही हैं: किसी देश की आय (GDP) तेल या प्राकृतिक संसाधनों के कारण अचानक बढ़ सकती है, लेकिन हो सकता है वहां शिक्षा या स्वास्थ्य का स्तर न सुधरे (विकास के बिना वृद्धि)। वास्तविक विकास के लिए उत्पादन और आय का बढ़ना (वृद्धि) एक आवश्यक प्राथमिक शर्त है। सरल भाषा में: ऐसा हो सकता है कि लॉटरी लगने से किसी के पास बहुत पैसा आ जाए (वृद्धि), पर वह उसे अच्छी चीज़ों में खर्च न करे तो उसका विकास नहीं होगा। लेकिन अगर कोई सच में तरक्की (विकास) कर रहा है, तो उसके पास पैसा तो बढ़ेगा ही।",
+      "en": "Both statements are correct: A country's GDP can spike due to natural resources without improving education or health (growth without development). However, real development inherently requires an increase in production and income as a primary condition. In simple terms: You can get rich from a lottery (growth) without improving your life (development), but true progress (development) naturally includes making more money."
+    }
+  },
+  {
+    "id": 3,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "साक्षरता दर",
+        "en": "Literacy rate"
+      },
+      {
+        "id": 2,
+        "hi": "जीवन प्रत्याशा",
+        "en": "Life expectancy"
+      },
+      {
+        "id": 3,
+        "hi": "प्रति व्यक्ति आय",
+        "en": "Per capita income"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा आर्थिक विकास का उपयुक्त संकेतक माना जाता है?\nनीचे दिए गए कूट का प्रयोग कीजिए:",
+      "en": "Which of the following is considered an appropriate indicator of economic development?\nSelect the correct answer using the code below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "तीनों संकेतक सही हैं: आर्थिक विकास को मापने के लिए जीवन की गुणवत्ता और आर्थिक स्थिति दोनों देखी जाती है। साक्षरता दर (शिक्षा), जीवन प्रत्याशा (स्वास्थ्य) और प्रति व्यक्ति आय (आर्थिक स्थिति) इसके तीनों प्रमुख स्तंभ हैं। सरल भाषा में: कोई देश कितना विकसित है, यह देखने के लिए हम तीन चीजें देखते हैं: वहां के लोग कितने पढ़े-लिखे हैं (साक्षरता), वे कितना लंबा और स्वस्थ जीते हैं (जीवन प्रत्याशा), और वे औसतन कितना कमाते हैं।",
+      "en": "All three indicators are correct: Measuring economic development requires looking at both quality of life and economic status. Literacy rate, life expectancy, and per capita income together form the main pillars of the Human Development Index (HDI). In simple terms: To see how developed a country is, we check how educated its people are, how long and healthy they live, and how much they earn on average."
+    }
+  },
+  {
+    "id": 4,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यदि GDP बढ़ रही हो तो यह आवश्यक नहीं कि गरीबी घट रही हो।",
+        "en": "If GDP is increasing, it is not necessary that poverty is decreasing."
+      },
+      {
+        "id": 2,
+        "hi": "आर्थिक विकास में आय वितरण की गुणवत्ता भी महत्त्वपूर्ण है।",
+        "en": "The quality of income distribution is also important in economic development."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 উভয়",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "दोनों कथन सही हैं: यदि देश की GDP बढ़ रही है लेकिन सारा पैसा केवल कुछ अमीर लोगों के पास जा रहा है, तो गरीबी नहीं घटेगी। विकास का मतलब ही यह है कि आय का वितरण समाज के सभी वर्गों में न्यायपूर्ण और बेहतर तरीके से हो। सरल भाषा में: अगर देश में बहुत सारा नया पैसा आ रहा है, तो जरूरी नहीं कि हर गरीब का पेट भर जाए। हो सकता है वह सारा पैसा कुछ ही लोगों के पास चला जाए। इसलिए विकास के लिए पैसे का सही बंटवारा जरूरी है।",
+      "en": "Both statements are correct: If GDP is rising but all the wealth is concentrated among a few rich individuals, poverty will not decrease. Development inherently means that income distribution is just and equitable across all sections of society. In simple terms: Just because a country makes more money doesn't mean every poor person gets fed; fair distribution is key to real development."
+    }
+  },
+  {
+    "id": 5,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "प्रति व्यक्ति आय में वृद्धि आर्थिक विकास का पर्याप्त संकेतक है।",
+        "en": "An increase in per capita income is a sufficient indicator of economic development."
+      },
+      {
+        "id": 2,
+        "hi": "उच्च प्रति व्यक्ति आय के बावजूद मानव विकास निम्न हो सकता है।",
+        "en": "Despite high per capita income, human development can be low."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "केवल कथन 2 सही है: कुछ देशों की प्रति व्यक्ति आय बहुत अधिक हो सकती है, लेकिन वहां शिक्षा या स्वास्थ्य का स्तर पिछड़ा हो सकता है। कथन 1 गलत है क्योंकि प्रति व्यक्ति आय केवल एक औसत संख्या है, यह यह नहीं बताती कि पैसा किसके पास है, इसलिए यह विकास का 'पर्याप्त' (Sufficient) संकेतक नहीं है। सरल भाषा में: अगर किसी क्लास के बच्चों की औसत पॉकेट मनी बहुत ज्यादा है, तो इसका मतलब यह नहीं कि सब बच्चे खुश और स्वस्थ हैं।",
+      "en": "Only statement 2 is correct: Some countries may have very high per capita income but lag in education or health. Statement 1 is incorrect because per capita income is just an average and does not show income distribution, making it an insufficient indicator of development. In simple terms: A high class-average in pocket money doesn't mean everyone is well-fed; a few kids might hold all the wealth."
+    }
+  },
+  {
+    "id": 6,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक वृद्धि मात्रात्मक (Quantitative) अवधारणा है।",
+        "en": "Economic growth is a quantitative concept."
+      },
+      {
+        "id": 2,
+        "hi": "आर्थिक विकास गुणात्मक (Qualitative) एवं मात्रात्मक दोनों अवधारणाओं को समाहित करता है।",
+        "en": "Economic development incorporates both qualitative and quantitative concepts."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "दोनों कथन सही हैं: आर्थिक वृद्धि केवल मात्रा (जैसे- उत्पादन के आंकड़े, टन, रुपये) को मापती है। आर्थिक विकास मात्रा के साथ-साथ जीवन के गुणों (जैसे- खुशहाली, समानता, स्वतंत्रता) को भी अपने अंदर समेटता है। सरल भाषा में: वृद्धि का मतलब है आपका वजन या लंबाई का बढ़ना (जिसे स्केल से नाप सकते हैं)। विकास का मतलब है आपकी लंबाई बढ़ने के साथ-साथ आपका दिमाग तेज होना और अच्छे संस्कार आना।",
+      "en": "Both statements are correct: Economic growth only measures quantity (like production figures and monetary value). Economic development includes both quantitative growth and qualitative improvements in life (like happiness, equality, and freedom). In simple terms: Growth is like gaining height or weight, while development is gaining height alongside becoming smarter and more responsible."
+    }
+  },
+  {
+    "id": 7,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कृषि पर निर्भरता में कमी",
+        "en": "Decrease in dependence on agriculture"
+      },
+      {
+        "id": 2,
+        "hi": "औद्योगिकीकरण में वृद्धि",
+        "en": "Increase in industrialization"
+      },
+      {
+        "id": 3,
+        "hi": "सेवा क्षेत्र का विस्तार",
+        "en": "Expansion of the service sector"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा आर्थिक विकास का लक्षण है?\nनीचे दिए गए कूट का प्रयोग कीजिए:",
+      "en": "Which of the following is a characteristic of economic development?\nSelect the correct answer using the code below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "तीनों लक्षण सही हैं: संरचनात्मक परिवर्तन के तहत जैसे-जैसे कोई देश विकसित होता है, वहां के लोग खेती (कृषि) छोड़कर उद्योगों और सेवा क्षेत्र (बैंकिंग, आईटी, शिक्षा) की तरफ बढ़ते हैं, जिससे कृषि पर निर्भरता कम होती है। सरल भाषा में: जब कोई देश तरक्की करता है, तो वहां के लोग सिर्फ खेती पर निर्भर नहीं रहते। वहां नई फैक्ट्रियां खुलती हैं और कंप्यूटर, बैंक जैसी नौकरियां बहुत ज्यादा बढ़ जाती हैं।",
+      "en": "All three characteristics are correct: Under structural transformation, as a country develops, its workforce shifts from agriculture to industries and the service sector, thus reducing agricultural dependency. In simple terms: When a country progresses, people don't just farm; new factories open, and jobs in banking and technology expand massively."
+    }
+  },
+  {
+    "id": 8,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक विकास की अवधारणा विकसित एवं विकासशील दोनों देशों पर लागू होती है।",
+        "en": "The concept of economic development applies to both developed and developing countries."
+      },
+      {
+        "id": 2,
+        "hi": "आर्थिक वृद्धि का मापन सामान्यतः GDP वृद्धि दर से किया जाता है।",
+        "en": "Economic growth is generally measured by the GDP growth rate."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "दोनों कथन सही हैं: विकास की जरूरत सबको है; विकसित देश अपने पर्यावरण और तकनीक को सुधारना चाहते हैं और विकासशील देश गरीबी हटाना चाहते हैं। वृद्धि दर को हम सीधे GDP के प्रतिशत बदलाव से मापते हैं। सरल भाषा में: तरक्की की जरूरत हर देश को होती है, चाहे वह अमीर हो या गरीब। और देश की कमाई कितनी रफ्तार से बढ़ रही है, इसे नापने के लिए हम 'GDP ग्रोथ रेट' का इस्तेमाल কার্যকলাপ हैं।",
+      "en": "Both statements are correct: Everyone needs development; developed countries want to improve technology and environment, while developing countries aim to eradicate poverty. Economic growth is directly measured by the percentage change in GDP. In simple terms: Every country needs progress, rich or poor, and we use the 'GDP growth rate' to measure how fast a country is making money."
+    }
+  },
+  {
+    "id": 9,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "HDI आर्थिक विकास का मापक है।",
+        "en": "HDI is a measure of economic development."
+      },
+      {
+        "id": 2,
+        "hi": "HDI में आय, स्वास्थ्य और शिक्षा को शामिल किया जाता है।",
+        "en": "HDI includes income, health, and education."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "दोनों कथन सही हैं: HDI (मानव विकास सूचकांक) संयुक्त राष्ट्र द्वारा जारी किया जाता है जो विकास को मापता है। इसके तीन मुख्य संकेतक हैं- प्रति व्यक्ति आय (आय), जन्म के समय जीवन प्रत्याशा (स्वास्थ्य), और स्कूल जाने के औसत वर्ष (शिक्षा)। सरल भाषा में: HDI एक रिपोर्ट कार्ड की तरह है जो दुनिया के देशों को नंबर देता है। यह नंबर लोगों की कमाई, उनकी सेहत और उनकी पढ़ाई को देखकर दिया जाता है।",
+      "en": "Both statements are correct: HDI (Human Development Index) is released by the UN to measure development. Its three main indicators are per capita income, life expectancy, and average years of schooling. In simple terms: HDI is like a report card for countries based on their people's earnings, health, and education."
+    }
+  },
+  {
+    "id": 10,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक वृद्धि का लाभ समाज के सभी वर्गों तक समान रूप से पहुँचता है।",
+        "en": "The benefits of economic growth reach all sections of society equally."
+      },
+      {
+        "id": 2,
+        "hi": "समावेशी वृद्धि (Inclusive Growth) आर्थिक विकास का एक महत्त्वपूर्ण आयाम है।",
+        "en": "Inclusive Growth is an important dimension of economic development."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "केवल कथन 2 सही है: समावेशी वृद्धि का मतलब है ऐसी ग्रोथ जिसका फायदा समाज के सबसे निचले पायदान पर खड़े व्यक्ति तक पहुंचे। कथन 1 गलत है क्योंकि आर्थिक वृद्धि का लाभ अपने आप सबको समान रूप से नहीं मिलता (इसे 'ट्रिकल-डाउन थ्योरी' कहते हैं जो अक्सर पूरी तरह काम नहीं करती)। सरल भाषा में: जब देश अमीर होता है, तो ऐसा जादू नहीं होता कि सबके पास अपने आप बराबर पैसे आ जाएं। इसलिए सरकार को कोशिश करनी पड़ती है कि तरक्की का फायदा सबको मिले, इसी को समावेशी वृद्धि कहते हैं।",
+      "en": "Only statement 2 is correct: Inclusive growth ensures benefits reach the most marginalized in society. Statement 1 is incorrect because economic growth doesn't automatically trickle down equally to everyone. In simple terms: A country getting richer doesn't magically distribute wealth equally. The government must actively ensure everyone benefits, which is called inclusive growth."
+    }
+  },
+  {
+    "id": 11,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "किसी देश की GDP में तीव्र वृद्धि हो रही है, लेकिन बेरोजगारी और असमानता भी बढ़ रही है। उपरोक्त स्थिति किसे दर्शाती है?",
+      "en": "A country's GDP is increasing rapidly, but unemployment and inequality are also increasing. What does the above situation represent?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "आर्थिक विकास",
+        "en": "Economic development"
+      },
+      {
+        "id": "B",
+        "hi": "सतत विकास",
+        "en": "Sustainable development"
+      },
+      {
+        "id": "C",
+        "hi": "केवल आर्थिक वृद्धि",
+        "en": "Only economic growth"
+      },
+      {
+        "id": "D",
+        "hi": "मानव विकास",
+        "en": "Human development"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "केवल आर्थिक वृद्धि सही है: प्रश्न में दी गई स्थिति (तेज GDP वृद्धि लेकिन साथ में बेरोजगारी और असमानता का बढ़ना) को रोजगारविहीन वृद्धि (Jobless Growth) कहा जाता है। यह केवल आर्थिक वृद्धि है, विकास नहीं, क्योंकि विकास में बेरोजगारी और असमानता कम होनी चाहिए। सरल भाषा में: अगर किसी देश में खूब सारा पैसा बन रहा है, लेकिन वहां लोगों के पास नौकरियां नहीं हैं और अमीर-गरीब के बीच की खाई बढ़ रही है, तो उसे हम असली तरक्की नहीं कहेंगे। वह सिर्फ 'पैसों की वृद्धि' है।",
+      "en": "Only economic growth is correct: Rapid GDP growth alongside rising unemployment and inequality is termed 'Jobless Growth'. It represents mere economic growth, not development, because true development requires reducing inequalities and generating employment. In simple terms: If a country is making money but jobs are scarce and the rich-poor gap widens, it's just 'wealth growth', not real progress."
+    }
+  },
+  {
+    "id": 12,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सतत विकास (Sustainable Development) वर्तमान पीढ़ी की आवश्यकताओं को पूरा करते हुए भविष्य की पीढ़ियों के हितों से समझौता नहीं करता।",
+        "en": "Sustainable Development meets the needs of the present generation without compromising the interests of future generations."
+      },
+      {
+        "id": 2,
+        "hi": "आर्थिक विकास की आधुनिक अवधारणा में पर्यावरणीय पहलू भी शामिल हैं।",
+        "en": "The modern concept of economic development also includes environmental aspects."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "दोनों कथन सही हैं: सतत विकास की यह ब्रंटलैंड रिपोर्ट (1987) की मानक परिभाषा है। आधुनिक अर्थशास्त्र मानता है कि अगर पर्यावरण नष्ट हो गया तो आर्थिक विकास टिक नहीं पाएगा। सरल भाषा में: सतत विकास का मतलब है कि हम आज पानी, कोयला या जंगल का इस्तेमाल इस तरह करें कि हमारी जरूरतें भी पूरी हो जाएं और हमारे बच्चों के लिए भी ये चीजें बची रहें।",
+      "en": "Both statements are correct: Statement 1 is the standard definition of sustainable development from the Brundtland Report (1987). Modern economics recognizes that if the environment is destroyed, economic development cannot be sustained. In simple terms: Sustainable development means using resources like water and coal today in a way that leaves enough for our children tomorrow."
+    }
+  },
+  {
+    "id": 13,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "प्राकृतिक संसाधनों का अत्यधिक दोहन",
+        "en": "Over-exploitation of natural resources"
+      },
+      {
+        "id": 2,
+        "hi": "आय का कुछ व्यक्तियों के हाथों में केंद्रित होना",
+        "en": "Concentration of income in the hands of a few individuals"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा आर्थिक वृद्धि को बढ़ा सकता है, परंतु आवश्यक रूप से आर्थिक विकास नहीं?\nनीचे दिए गए कूट का प्रयोग कीजिए:",
+      "en": "Which of the following can increase economic growth, but not necessarily economic development?\nSelect the correct answer using the code below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "1 और 2 दोनों सही हैं: जंगलों को काटकर या कोयला जलाकर अल्पकाल में GDP (वृद्धि) बढ़ाई जा सकती है, पर यह पर्यावरण नष्ट कर देगा। पैसा कुछ ही लोगों के हाथ में आने से फैक्ट्रियों का उत्पादन तो बढ़ सकता है, पर समाज का विकास रुक जाएगा। सरल भाषा में: अगर हम सारे पेड़ काट दें और फैक्ट्रियां लगा लें, तो हमारे पास बहुत सारा सामान और पैसा (वृद्धि) तो आ जाएगा, लेकिन सांस लेने के लिए हवा नहीं बचेगी। इसे हम विकास नहीं कह सकते।",
+      "en": "Both 1 and 2 are correct: Exploiting forests or burning excessive coal can temporarily boost GDP, but it destroys the environment. Concentrating wealth can boost factory output, but societal development halts. In simple terms: Cutting all trees to build factories brings money (growth) but leaves no clean air to breathe; this cannot be called development."
+    }
+  },
+  {
+    "id": 14,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक विकास की अवधारणा अमर्त्य सेन के 'Capability Approach' से प्रभावित है।",
+        "en": "The concept of economic development is influenced by Amartya Sen's 'Capability Approach'."
+      },
+      {
+        "id": 2,
+        "hi": "विकास का अर्थ लोगों की स्वतंत्रताओं और अवसरों का विस्तार भी है।",
+        "en": "Development also means expanding people's freedoms and opportunities."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "दोनों कथन सही हैं: नोबेल पुरस्कार विजेता अमर्त्य सेन का 'क्षमता दृष्टिकोण' (Capability Approach) कहता है कि विकास का असली मतलब केवल आय बढ़ाना नहीं, बल्कि लोगों को विकल्प चुनने की आजादी और अवसर देना है। सरल भाषा में: एक बड़े वैज्ञानिक अमर्त्य सेन ने कहा था कि असली आजादी या विकास का मतलब यह है कि लोगों के पास यह चुनने का मौका हो कि वे क्या बनना चाहते हैं और उन्हें अपनी जिंदगी बेहतर बनाने के पूरे अवसर मिलें।",
+      "en": "Both statements are correct: Nobel laureate Amartya Sen's 'Capability Approach' argues that development is not just about increasing income, but about giving people the freedom to choose and expanding their opportunities. In simple terms: True development means people have the freedom to choose what they want to become and have the opportunities to improve their lives."
+    }
+  },
+  {
+    "id": 15,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उच्च GDP वृद्धि दर किसी देश के विकास का पर्याप्त प्रमाण है।",
+        "en": "A high GDP growth rate is sufficient evidence of a country's development."
+      },
+      {
+        "id": 2,
+        "hi": "मानव पूंजी में निवेश आर्थिक विकास को प्रोत्साहित करता है।",
+        "en": "Investment in human capital encourages economic development."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "केवल कथन 2 सही है: मानव पूंजी (शिक्षा, कौशल, स्वास्थ्य) में निवेश करने से लोगों की कार्यक्षमता बढ़ती है, जिससे देश का आर्थिक विकास तेजी से और टिकाऊ तरीके से होता है। कथन 1 गलत है क्योंकि उच्च GDP वृद्धि केवल उत्पादन बढ़ने का प्रमाण है; जब तक वह पैसा स्वास्थ्य और शिक्षा में नहीं बदलता, वह संपूर्ण विकास का प्रमाण नहीं हो सकता। सरल भाषा में: अगर हम बच्चों की पढ़ाई और लोगों की सेहत पर पैसा खर्च करेंगे (मानव पूंजी), तो वे आगे चलकर देश को बहुत आगे ले जाएंगे। सिर्फ फैक्ट्रियों में सामान का उत्पादन बढ़ जाना ही तरक्की का पक्का सबूत नहीं है।",
+      "en": "Only statement 2 is correct: Investing in human capital (education, health, skills) improves efficiency, driving sustained development. Statement 1 is incorrect because high GDP growth merely indicates increased production; it isn't proof of holistic development unless invested in welfare. In simple terms: Spending on kids' schooling and people's health pushes a country forward; just producing more factory goods isn't guaranteed progress."
+    }
+  },
+  {
+    "id": 16,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक विकास में सामाजिक न्याय एक महत्त्वपूर्ण तत्व है।",
+        "en": "Social justice is an important element in economic development."
+      },
+      {
+        "id": 2,
+        "hi": "आर्थिक वृद्धि के मापन में सामाजिक न्याय को सीधे शामिल नहीं किया जाता।",
+        "en": "Social justice is not directly included in the measurement of economic growth."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "दोनों कथन सही हैं: सामाजिक न्याय का अर्थ है सबको समान अधिकार और भेदभाव से मुक्ति, जो विकास का मूल है। आर्थिक वृद्धि केवल उत्पादन के गणितीय आंकड़ों को देखती है, इसमें सामाजिक न्याय का कोई सीधा फॉर्मूला नहीं होता। सरल भाषा में: वृद्धि को इस बात से कोई फर्क नहीं पड़ता कि समाज में किसी के साथ भेदभाव हो रहा है या नहीं, वह सिर्फ कुल पैसा गिनती है। लेकिन विकास के लिए जरूरी है कि समाज में सबके साथ न्याय और बराबरी का व्यवहार हो।",
+      "en": "Both statements are correct: Social justice means equal rights and freedom from discrimination, which is central to development. Economic growth only looks at mathematical data of production and lacks a direct formula for social justice. In simple terms: Growth just counts the total money without caring about discrimination. But for real development, justice and equality in society are required."
+    }
+  },
+  {
+    "id": 17,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यदि किसी देश की जनसंख्या वृद्धि दर GDP दर से अधिक हो, तो प्रति व्यक्ति आय घट सकती है।",
+        "en": "If the population growth rate of a country is higher than the GDP rate, the per capita income may decrease."
+      },
+      {
+        "id": 2,
+        "hi": "प्रति व्यक्ति आय में गिरावट आर्थिक विकास के लिए चुनौती हो सकती है।",
+        "en": "A decline in per capita income can be a challenge for economic development."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "दोनों कथन सही हैं: प्रति व्यक्ति आय का सूत्र है: कुल GDP / कुल जनसंख्या। यदि नीचे की संख्या (जनसंख्या) ऊपर की संख्या (GDP) से तेज बढ़ेगी, तो उत्तर (प्रति व्यक्ति आय) कम हो जाएगा। प्रति व्यक्ति आय गिरना विकास के लिए बड़ी चुनौती है। सरल भाषा में: मान लो घर में एक बड़ा पिज्जा (GDP) आता है, लेकिन उसे खाने वाले लोग (जनसंख्या) बहुत ज्यादा बढ़ जाते हैं, तो हर एक के हिस्से में छोटा टुकड़ा (प्रति व्यक्ति आय) आएगा। इससे सबका पेट नहीं भरेगा।",
+      "en": "Both statements are correct: The formula for per capita income is (Total GDP / Total Population). If population grows faster than GDP, per capita income drops, posing a major challenge to development. In simple terms: If a family gets one big pizza (GDP) but the number of members (population) doubles, everyone gets a smaller slice, leaving people hungry."
+    }
+  },
+  {
+    "id": 18,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक विकास की प्रक्रिया में उत्पादकता वृद्धि महत्त्वपूर्ण भूमिका निभाती है।",
+        "en": "Productivity growth plays an important role in the process of economic development."
+      },
+      {
+        "id": 2,
+        "hi": "तकनीकी प्रगति आर्थिक वृद्धि और विकास दोनों को प्रभावित कर सकती है।",
+        "en": "Technological progress can affect both economic growth and development."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "दोनों कथन सही हैं: उत्पादकता (Productivity) बढ़ने का मतलब है कम संसाधनों में ज्यादा और बेहतर काम होना, जो विकास की रीढ़ है। नई तकनीक (जैसे कंप्यूटर या एआई) से उत्पादन भी बढ़ता है (वृद्धि) और लोगों का जीवन भी आसान होता है (विकास)। सरल भाषा में: अगर हम हाथ से कपड़ा बुनने की जगह अच्छी मशीन (तकनीक) का इस्तेमाल करें, तो कपड़ा जल्दी और ज्यादा बनेगा (वृद्धि) और कपड़े सस्ते होने से सब लोग अच्छे कपड़े पहन पाएंगे (विकास)।",
+      "en": "Both statements are correct: Increased productivity means getting more and better work done with fewer resources, which is the backbone of development. New technology (like AI) boosts production (growth) and makes lives easier (development). In simple terms: Using a machine instead of hand-weaving makes cloth faster (growth), and cheaper cloth allows everyone to dress well (development)."
+    }
+  },
+  {
+    "id": 19,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक वृद्धि का संबंध उत्पादन की मात्रा से है।",
+        "en": "Economic growth is related to the volume of production."
+      },
+      {
+        "id": 2,
+        "hi": "आर्थिक विकास का संबंध जीवन की गुणवत्ता से भी है।",
+        "en": "Economic development is also related to the quality of life."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "दोनों कथन सही हैं: आर्थिक वृद्धि केवल यह देखती है कि इस साल कितने टन स्टील या कितने लाख फोन बने (मात्रा)। आर्थिक विकास यह देखता है कि उन फोन या स्टील से लोगों का जीवन कितना सुरक्षित और आरामदायक हुआ (गुणवत्ता)। सरल भाषा में: वृद्धि का मतलब है दुकान में बहुत सारा सामान होना। विकास का मतलब है कि उस सामान को खरीदकर लोगों की जिंदगी कितनी आसान और खुशहाल बनी।",
+      "en": "Both statements are correct: Economic growth looks at how many tons of steel or phones were made (quantity). Economic development checks how safe and comfortable people's lives became due to those phones or steel (quality). In simple terms: Growth means having lots of goods in a shop. Development means those goods actually making people's lives happier and easier."
+    }
+  },
+  {
+    "id": 20,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्थिक विकास की अवधारणा में लैंगिक समानता का भी महत्त्व है।",
+        "en": "Gender equality is also important in the concept of economic development."
+      },
+      {
+        "id": 2,
+        "hi": "केवल प्रति व्यक्ति आय के आधार पर किसी देश के विकास स्तर का पूर्ण आकलन किया जा सकता है।",
+        "en": "The level of development of a country can be fully assessed solely on the basis of per capita income."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "केवल कथन 1 सही है: लैंगिक समानता विकास का एक अनिवार्य अंग है क्योंकि जब तक आधी आबादी (महिलाएं) पीछे रहेगी, तब तक समाज का पूर्ण विकास नहीं हो सकता। कथन 2 गलत है क्योंकि केवल प्रति व्यक्ति आय से देश के विकास का पूर्ण आकलन नहीं हो सकता, यह आय की असमानता, स्वास्थ्य, स्वतंत्रता और लैंगिक समानता जैसे महत्वपूर्ण मुद्दों को छुपा देती है। सरल भाषा में: लड़के और लड़कियों को बराबर मौके मिलना तरक्की के लिए बहुत जरूरी है; सिर्फ पैसा गिनना काफी नहीं, यह भी देखना होगा कि लड़कियां स्कूल जा पा रही हैं या नहीं।",
+      "en": "Only statement 1 is correct: Gender equality is vital for development because full societal progress is impossible if half the population is left behind. Statement 2 is incorrect because per capita income alone hides income inequality, health, and freedom metrics. In simple terms: Equal opportunities for boys and girls are essential for progress; just counting national money isn't enough without ensuring girls can go to school."
+    }
+  },
+  {
+    "id": 21,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सभी 17 सतत विकास लक्ष्य (SDGs) विकासशील देशों के लिए ही बनाए गए हैं।",
+        "en": "All 17 Sustainable Development Goals (SDGs) are made only for developing countries."
+      },
+      {
+        "id": 2,
+        "hi": "SDGs कानूनी रूप से बाध्यकारी (Legally Binding) लक्ष्य हैं।",
+        "en": "SDGs are Legally Binding targets."
+      },
+      {
+        "id": 3,
+        "hi": "SDGs का मूल सिद्धांत 'किसी को पीछे न छोड़ना' (Leave No One Behind) है।",
+        "en": "The core principle of SDGs is 'Leave No One Behind'."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements:\nWhich of the above statements are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "केवल कथन 3 सही है: SDGs का मुख्य नारा ही है 'Leave No One Behind'। कथन 1 गलत है क्योंकि ये लक्ष्य विकसित और विकासशील दोनों देशों पर लागू होते हैं। कथन 2 गलत है क्योंकि ये कानूनी रूप से बाध्यकारी नहीं, बल्कि स्वैच्छिक नैतिक प्रतिबद्धता हैं। सरल भाषा में: दुनिया के देशों ने मिलकर जो 17 नियम बनाए हैं, उनका सबसे बड़ा नियम है सबका साथ देना।",
+      "en": "Only statement 3 is correct: The core motto of SDGs is 'Leave No One Behind'. Statement 1 is wrong because these goals apply universally to both developed and developing nations. Statement 2 is wrong because they are voluntary moral commitments, not legally binding. In simple terms: The biggest rule among the 17 global goals is to support everyone and leave no one behind."
+    }
+  },
+  {
+    "id": 22,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDG 5",
+        "en": "SDG 5"
+      },
+      {
+        "id": 2,
+        "hi": "SDG 10",
+        "en": "SDG 10"
+      },
+      {
+        "id": 3,
+        "hi": "SDG 16",
+        "en": "SDG 16"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा लक्ष्य प्रत्यक्ष रूप से 'समानता' (Equality) की अवधारणा से संबंधित है?\nनीचे दिए गए कूट का प्रयोग कीजिए:",
+      "en": "Which of the following goals is directly related to the concept of 'Equality'?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "तीनों लक्ष्य सही हैं: SDG 5 लैंगिक समानता से, SDG 10 असमानताओं को कम करने से, और SDG 16 शांति, न्याय और न्यायपूर्ण अवसरों (समानता) से जुड़ा है। सरल भाषा में: नंबर 5 कहता है लड़का-लड़की एक समान। नंबर 10 कहता है अमीर-गरीब का भेद कम करो। नंबर 16 कहता है सबको बराबर न्याय मिले।",
+      "en": "All three targets are correct: SDG 5 relates to Gender Equality, SDG 10 to Reduced Inequalities, and SDG 16 talks about Peace, Justice, and equal opportunities. In simple terms: Goal 5 is for gender parity, Goal 10 bridges the rich-poor gap, and Goal 16 ensures equal justice for all."
+    }
+  },
+  {
+    "id": 23,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDG 8 आर्थिक वृद्धि को बढ़ावा देता है。",
+        "en": "SDG 8 promotes economic growth."
+      },
+      {
+        "id": 2,
+        "hi": "SDG 8 केवल रोजगार सृजन तक सीमित है。",
+        "en": "SDG 8 is limited only to job creation."
+      },
+      {
+        "id": 3,
+        "hi": "SDG 8 उत्पादक रोजगार और सम्मानजनक कार्य (Decent Work) को भी प्रोत्साहित करता है।",
+        "en": "SDG 8 also encourages productive employment and Decent Work."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements:\nWhich of the above statements are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कथन 1 और 3 सही हैं: SDG 8 का आधिकारिक शीर्षक ही 'सभ्य कार्य और आर्थिक वृद्धि' है। कथन 2 गलत है क्योंकि यह केवल रोजगार की संख्या नहीं, बल्कि उसकी गुणवत्ता (सम्मानजनक कार्य) पर भी जोर देता है। सरल भाषा में: लक्ष्य 8 कहता है कि नौकरियां बढ़नी चाहिए, लेकिन ऐसी नौकरियां जहां लोगों को पूरा सम्मान और सही वेतन मिले।",
+      "en": "Statements 1 and 3 are correct: The official title of SDG 8 is 'Decent Work and Economic Growth'. Statement 2 is incorrect because it focuses not just on the quantity of jobs, but also their quality (decent work). In simple terms: Goal 8 isn't just about giving anyone a job; it's about providing respectful and fairly paid employment."
+    }
+  },
+  {
+    "id": 24,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDG 12 का संबंध उत्तरदायी उपभोग एवं उत्पादन से है।",
+        "en": "SDG 12 relates to responsible consumption and production."
+      },
+      {
+        "id": 2,
+        "hi": "SDG 12 का उद्देश्य केवल औद्योगिक प्रदूषण को कम करना है।",
+        "en": "The objective of SDG 12 is only to reduce industrial pollution."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "केवल कथन 1 सही है: SDG 12 'Responsible Consumption and Production' से संबंधित है। कथन 2 गलत है क्योंकि यह केवल औद्योगिक प्रदूषण तक सीमित नहीं है, इसमें घरेलू कचरा प्रबंधन और भोजन की बर्बादी रोकना भी शामिल है। सरल भाषा में: नंबर 12 हमें सिखाता है कि चीजों को बर्बाद न करें, चाहे वह बड़ी फैक्ट्री हो या हमारी खाने की थाली।",
+      "en": "Only statement 1 is correct: SDG 12 is about Responsible Consumption and Production. Statement 2 is incorrect because it is not limited to industrial pollution; it also includes managing domestic waste and reducing food waste. In simple terms: Goal 12 teaches us not to waste resources, whether in large factories or on our dinner plates."
+    }
+  },
+  {
+    "id": 25,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDG 13",
+        "en": "SDG 13"
+      },
+      {
+        "id": 2,
+        "hi": "SDG 14",
+        "en": "SDG 14"
+      },
+      {
+        "id": 3,
+        "hi": "SDG 15",
+        "en": "SDG 15"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-से SDGs सीधे पर्यावरणीय स्थिरता से संबंधित हैं?\nनीचे दिए गए कूट का प्रयोग कीजिए:",
+      "en": "Which of the following SDGs are directly related to environmental sustainability?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "तीनों लक्ष्य सही हैं: SDG 13 जलवायु कार्रवाई, SDG 14 पानी के नीचे जीवन (महासागर), और SDG 15 भूमि पर जीवन (जंगल व जैव विविधता) से जुड़ा है। सरल भाषा में: नंबर 13 मौसम को बचाता है, नंबर 14 समुद्र की रक्षा करता है और नंबर 15 जमीन के जंगलों को बचाता है। ये तीनों पर्यावरण के रक्षक हैं।",
+      "en": "All three targets are correct: SDG 13 is Climate Action, SDG 14 is Life Below Water, and SDG 15 is Life on Land. In simple terms: Goal 13 protects the weather, Goal 14 saves the oceans, and Goal 15 protects forests and land animals. All three are environmental guardians."
+    }
+  },
+  {
+    "id": 26,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDG 1 का लक्ष्य अत्यधिक गरीबी का उन्मूलन है।",
+        "en": "The goal of SDG 1 is the eradication of extreme poverty."
+      },
+      {
+        "id": 2,
+        "hi": "SDG 2 का उद्देश्य केवल खाद्यान्न उत्पादन बढ़ाना है।",
+        "en": "The objective of SDG 2 is only to increase food production."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "केवल कथन 1 सही है: SDG 1 हर प्रकार की गरीबी को खत्म करने की बात करता है। कथन 2 गलत है क्योंकि SDG 2 (Zero Hunger) का लक्ष्य केवल अनाज उगाना नहीं, बल्कि कुपोषण को खत्म करना और खाद्य सुरक्षा सुनिश्चित करना भी है। सरल भाषा में: नंबर 2 का काम सिर्फ खेतों में अनाज उगाना नहीं है, यह देखना भी है कि कोई बच्चा कुपोषण का शिकार न हो।",
+      "en": "Only statement 1 is correct: SDG 1 aims to eradicate all forms of poverty. Statement 2 is incorrect because SDG 2 (Zero Hunger) isn't just about growing food; it's about ending malnutrition and ensuring food security. In simple terms: Goal 2 is not just about farming more crops; it ensures that no child suffers from malnutrition."
+    }
+  },
+  {
+    "id": 27,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDG 7 सभी के लिए सस्ती, विश्वसनीय एवं सतत ऊर्जा की बात करता है।",
+        "en": "SDG 7 talks about affordable, reliable, and sustainable energy for all."
+      },
+      {
+        "id": 2,
+        "hi": "SDG 7 केवल नवीकरणीय ऊर्जा स्रोतों तक सीमित है।",
+        "en": "SDG 7 is limited only to renewable energy sources."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "केवल कथन 1 सही है: SDG 7 का उद्देश्य हर व्यक्ति तक सस्ती और स्वच्छ ऊर्जा पहुंचाना है। कथन 2 गलत है क्योंकि यह केवल नवीकरणीय ऊर्जा तक सीमित नहीं है, बल्कि पारंपरिक ऊर्जा स्रोतों को भी अधिक कुशल बनाने की वकालत करता है। सरल भाषा में: नंबर 7 का मतलब है घर में बिजली आए और सस्ती हो। इसमें सोलर पैनल के साथ गैस-बिजली को भी बेहतर बनाने की बात है।",
+      "en": "Only statement 1 is correct: SDG 7 aims to ensure affordable and clean energy access for all. Statement 2 is incorrect because it is not restricted to just renewables; it also advocates making traditional energy sources more efficient and cleaner. In simple terms: Goal 7 ensures everyone can afford electricity, pushing for both solar panels and cleaner traditional energy."
+    }
+  },
+  {
+    "id": 28,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDG 6 - स्वच्छ जल एवं स्वच्छता",
+        "en": "SDG 6 - Clean Water and Sanitation"
+      },
+      {
+        "id": 2,
+        "hi": "SDG 9 - उद्योग, नवाचार एवं अवसंरचना",
+        "en": "SDG 9 - Industry, Innovation and Infrastructure"
+      },
+      {
+        "id": 3,
+        "hi": "SDG 11 - सतत शहर एवं समुदाय",
+        "en": "SDG 11 - Sustainable Cities and Communities"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा युग्म सही सुमेलित है?",
+      "en": "Which of the following pairs is correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "तीनों युग्म सही सुमेलित हैं: कोई भी युग्म गलत नहीं है। यूपीएससी परीक्षा के लिए इन महत्वपूर्ण लक्ष्यों के नंबर और उनके विषय याद होना बेहद जरूरी है।",
+      "en": "All three pairs are correctly matched. It is crucial to memorize the SDG numbers and their respective themes for the UPSC examination."
+    }
+  },
+  {
+    "id": 29,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDGs की समय-सीमा वर्ष 2030 है।",
+        "en": "The timeline for SDGs is the year 2030."
+      },
+      {
+        "id": 2,
+        "hi": "SDGs ने MDGs का स्थान लिया है。",
+        "en": "SDGs have replaced the MDGs."
+      },
+      {
+        "id": 3,
+        "hi": "SDGs वर्ष 2015 में अपनाए गए थे।",
+        "en": "SDGs were adopted in the year 2015."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements:\nWhich of the above statements are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "तीनों कथन सही हैं: SDG को सितंबर 2015 में संयुक्त राष्ट्र महासभा में अपनाया गया था। इन्होंने 'सहस्राब्दी विकास लक्ष्यों' (MDGs) की जगह ली और इन्हें हासिल करने का समय 2030 तय किया गया है। सरल भाषा में: 2015 में सभी देशों ने 2030 तक के लिए कुछ वादे किए। पुराने नियमों को MDG कहते थे, नए को SDG कहते हैं।",
+      "en": "All three statements are correct: SDGs were adopted by the UN General Assembly in September 2015. They replaced the Millennium Development Goals (MDGs) with a target achievement year of 2030. In simple terms: In 2015, world leaders made promises to be kept by 2030, swapping out the old MDGs for the new SDGs."
+    }
+  },
+  {
+    "id": 30,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDG 16 शांति, न्याय एवं मजबूत संस्थाओं से संबंधित है।",
+        "en": "SDG 16 is related to Peace, Justice, and Strong Institutions."
+      },
+      {
+        "id": 2,
+        "hi": "भ्रष्टाचार को कम करना SDG 16 के उद्देश्यों में शामिल है।",
+        "en": "Reducing corruption is included in the objectives of SDG 16."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "दोनों कथन सही हैं: SDG 16 का मुख्य उद्देश्य शांतिपूर्ण समाज का निर्माण और मजबूत कानूनी संस्थाएं बनाना है। भ्रष्टाचार कम करना और पारदर्शिता बढ़ाना इसके सीधे उप-लक्ष्यों में शामिल है। सरल भाषा में: नंबर 16 कहता है कि देश में चोरी-भ्रष्टाचार बंद होना चाहिए और पुलिस-अदालत मजबूत होनी चाहिए।",
+      "en": "Both statements are correct: SDG 16 aims to build peaceful societies and strong legal institutions. Reducing corruption and increasing transparency are direct sub-goals. In simple terms: Goal 16 focuses on stopping corruption and ensuring strong courts and police to serve justice."
+    }
+  },
+  {
+    "id": 31,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDGs में आर्थिक, सामाजिक और पर्यावरणीय आयामों का एकीकरण किया गया है।",
+        "en": "The SDGs integrate economic, social, and environmental dimensions."
+      },
+      {
+        "id": 2,
+        "hi": "किसी एक SDG की प्राप्ति अन्य SDGs की प्राप्ति से पूर्णतः स्वतंत्र होती है।",
+        "en": "The achievement of one SDG is completely independent of the achievement of other SDGs."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "केवल कथन 1 सही है: SDGs विकास के तीनों रूपों (पैसा, समाज और पर्यावरण) को एक साथ लेकर चलते हैं। कथन 2 गलत है क्योंकि ये लक्ष्य स्वतंत्र नहीं बल्कि परस्पर निर्भर (Interlinked) हैं। सरल भाषा में: सारे लक्ष्य दोस्तों की तरह जुड़े हैं। अच्छी पढ़ाई (शिक्षा) मिलेगी तो अच्छी नौकरी (कमाई) मिलेगी और गरीबी दूर होगी।",
+      "en": "Only statement 1 is correct: SDGs comprehensively address economic, social, and environmental development. Statement 2 is wrong because the goals are highly interlinked, not independent. In simple terms: All goals are connected. Good education leads to better jobs, which in turn wipes out poverty."
+    }
+  },
+  {
+    "id": 32,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा लक्ष्य 'भागीदारी' (Partnership) पर केंद्रित है?",
+      "en": "Which of the following goals is focused on 'Partnership'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "SDG 15",
+        "en": "SDG 15"
+      },
+      {
+        "id": "B",
+        "hi": "SDG 16",
+        "en": "SDG 16"
+      },
+      {
+        "id": "C",
+        "hi": "SDG 17",
+        "en": "SDG 17"
+      },
+      {
+        "id": "D",
+        "hi": "SDG 13",
+        "en": "SDG 13"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "SDG 17 सही है: SDG 17 का नाम ही 'Partnerships for the Goals' है। इसका मतलब है कि लक्ष्यों को पूरा करने के लिए दुनिया के सभी देशों को आपस में मिलकर काम करना होगा। सरल भाषा में: इतने बड़े लक्ष्यों को कोई एक देश अकेले पूरा नहीं कर सकता, सबको मिलकर एक टीम की तरह काम करना होगा।",
+      "en": "SDG 17 is correct: The title of SDG 17 is 'Partnerships for the Goals'. It signifies that to achieve these global goals, all countries must collaborate, sharing funds and technology. In simple terms: Goal 17 is about teamwork; no single country can achieve these massive targets alone."
+    }
+  },
+  {
+    "id": 33,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDG 13 केवल जलवायु परिवर्तन के प्रभावों के अनुकूलन (Adaptation) पर केंद्रित है।",
+        "en": "SDG 13 is focused only on adaptation to the effects of climate change."
+      },
+      {
+        "id": 2,
+        "hi": "SDG 13 शमन (Mitigation) तथा अनुकूलन (Adaptation) উভয় को प्रोत्साहित करता है।",
+        "en": "SDG 13 encourages both Mitigation and Adaptation."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": "Both"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "केवल कथन 2 सही है: SDG 13 दोनों पर काम करता है- शमन (ग्रीनहाउस गैसों को कम करना) और अनुकूलन (बदलते मौसम के अनुसार खुद को ढालना)। कथन 1 गलत है क्योंकि 'केवल' अनुकूलन की बात करता है। सरल भाषा में: लक्ष्य 13 कहता है कि हमें प्रदूषण बढ़ने से भी रोकना है और बदलते मौसम से बचने की तैयारी भी करनी है।",
+      "en": "Only statement 2 is correct: SDG 13 actively addresses both mitigation (reducing greenhouse gases) and adaptation (adjusting to changing weather patterns). Statement 1 is incorrect because it uses the word 'only' for adaptation. In simple terms: Goal 13 says we must both stop making pollution worse and prepare for the weather changes already happening."
+    }
+  },
+  {
+    "id": 34,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा SDG प्रत्यक्ष रूप से महासागरों एवं समुद्री संसाधनों के संरक्षण से संबंधित है?",
+      "en": "Which of the following SDGs is directly related to the conservation of oceans and marine resources?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "SDG 13",
+        "en": "SDG 13"
+      },
+      {
+        "id": "B",
+        "hi": "SDG 14",
+        "en": "SDG 14"
+      },
+      {
+        "id": "C",
+        "hi": "SDG 15",
+        "en": "SDG 15"
+      },
+      {
+        "id": "D",
+        "hi": "SDG 17",
+        "en": "SDG 17"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "SDG 14 सही है: SDG 14 का शीर्षक 'Life Below Water' है। यह समुद्री प्रदूषण रोकने और समुद्री जीवों के संरक्षण पर केंद्रित है। सरल भाषा में: नंबर 14 नीले समुद्र का रक्षक है, जो मछलियों और कछुओं को बचाने के लिए समुद्र में प्लास्टिक कचरा फेंकने से रोकता है।",
+      "en": "SDG 14 is correct: Titled 'Life Below Water', this goal is squarely aimed at preventing marine pollution and conserving marine ecosystems. In simple terms: Goal 14 is the guardian of the blue oceans, ensuring we don't throw plastic waste into the sea so fish and turtles remain safe."
+    }
+  },
+  {
+    "id": 35,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDGs में मानवाधिकारों की भावना निहित है।",
+        "en": "The spirit of human rights is inherent in the SDGs."
+      },
+      {
+        "id": 2,
+        "hi": "SDGs का उद्देश्य केवल आर्थिक वृद्धि को बढ़ावा देना है।",
+        "en": "The objective of SDGs is only to promote economic growth."
+      },
+      {
+        "id": 3,
+        "hi": "SDGs समावेशी एवं सतत विकास पर बल देते हैं।",
+        "en": "SDGs emphasize inclusive and sustainable development."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements:\nWhich of the above statements are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कथन 1 और 3 सही हैं: SDGs का मूल आधार ही मानवीय गरिमा और अधिकारों की रक्षा करना है, तथा यह पूरी तरह समावेशी व सतत विकास पर केंद्रित है। कथन 2 गलत है क्योंकि यह केवल आर्थिक वृद्धि (पैसे) की बात नहीं करता, बल्कि पर्यावरण और न्याय को भी महत्व देता है। सरल भाषा में: ये नियम इंसानों की भलाई के लिए बने हैं, इनका मकसद सिर्फ फैक्ट्रियों से पैसा कमाना नहीं है।",
+      "en": "Statements 1 and 3 are correct: Human dignity and rights are the core foundation of SDGs, and they heavily promote inclusive, sustainable growth. Statement 2 is incorrect because SDGs aren't just about making money (economic growth); they equally value environmental and social justice. In simple terms: These rules exist to make the world better for humans, not just to generate factory profits."
+    }
+  },
+  {
+    "id": 36,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा कथन SDGs के संदर्भ में सर्वाधिक उपयुक्त है?",
+      "en": "Which of the following statements is most appropriate in the context of SDGs?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "आर्थिक वृद्धि ही विकास का एकमात्र मापक है।",
+        "en": "Economic growth is the sole measure of development."
+      },
+      {
+        "id": "B",
+        "hi": "पर्यावरणीय संरक्षण विकास के विपरीत है।",
+        "en": "Environmental protection is contradictory to development."
+      },
+      {
+        "id": "C",
+        "hi": "सामाजिक न्याय, आर्थिक समृद्धि और पर्यावरणीय संरक्षण परस्पर पूरक हैं।",
+        "en": "Social justice, economic prosperity, and environmental protection are mutually complementary."
+      },
+      {
+        "id": "D",
+        "hi": "SDGs मुख्यतः विकसित देशों के लिए हैं।",
+        "en": "SDGs are primarily for developed countries."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "विकल्प (c) सबसे उपयुक्त है: सतत विकास का मूल दर्शन ही यही है कि सामाजिक न्याय (लोग), आर्थिक समृद्धि (पैसा) और पर्यावरणीय संरक्षण (पृथ्वी) एक-दूसरे के विरोधी नहीं, बल्कि पूरक हैं। सरल भाषा में: सबसे अच्छी बात यह है कि हम अमीर भी बन सकते हैं, गरीबों की मदद भी कर सकते हैं और पेड़ों को भी बचा सकते हैं। ये सब एक साथ हो सकते हैं।",
+      "en": "Option (c) is the most appropriate: The core philosophy of sustainable development is that social justice (people), economic prosperity (profit), and environmental protection (planet) are complementary, not contradictory. In simple terms: It shows we can build wealth, help the poor, and save trees all at the same time."
+    }
+  },
+  {
+    "id": 37,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SDG 5 की प्राप्ति SDG 1 और SDG 8 की प्राप्ति में भी योगदान दे सकती है।",
+        "en": "The achievement of SDG 5 can also contribute to the achievement of SDG 1 and SDG 8."
+      },
+      {
+        "id": 2,
+        "hi": "SDGs की प्रकृति परस्पर निर्भर (Interdependent) है।",
+        "en": "The nature of SDGs is mutually interdependent."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the above statement(s) is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "दोनों कथन सही हैं: जब हम लैंगिक समानता (SDG 5) लाएंगे और महिलाओं को पढ़ाएंगे व काम देंगे, तो देश की गरीबी (SDG 1) दूर होगी और आर्थिक वृद्धि (SDG 8) बढ़ेगी। यह SDGs की 'इंटरडिपेंडेंट' प्रकृति को साबित करता है। सरल भाषा में: अगर देश की महिलाएं भी काम करेंगी, तो घर में ज्यादा पैसे आएंगे, जिससे गरीबी भागेगी और देश भी मजबूत होगा।",
+      "en": "Both statements are correct: Promoting gender equality (SDG 5) and giving women jobs directly helps eradicate poverty (SDG 1) and boosts economic growth (SDG 8). This proves the interdependent nature of the goals. In simple terms: When women work, household incomes rise, chasing away poverty and making the nation financially stronger."
+    }
+  },
+  {
+    "id": 38,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Hard",
+    "type": "passage",
+    "passage": {
+      "hi": "एक देश ने अपनी GDP वृद्धि दर को बढ़ाने के लिए बड़े पैमाने पर कोयला आधारित उद्योगों को प्रोत्साहन दिया। इससे अल्पकाल में उत्पादन एवं रोजगार बढ़ा, किंतु वायु प्रदूषण, कार्बन उत्सर्जन तथा जनस्वास्थ्य संबंधी समस्याएँ भी बढ़ गईं।",
+      "en": "A country heavily promoted coal-based industries to boost its GDP growth rate. This increased production and employment in the short run, but also led to increased air pollution, carbon emissions, and public health issues."
+    },
+    "statements": null,
+    "question": {
+      "hi": "उपरोक्त गद्यांश के आधार पर निम्नलिखित में से कौन-सा निष्कर्ष सर्वाधिक उपयुक्त है?",
+      "en": "Based on the above passage, which of the following conclusions is the most appropriate?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "आर्थिक वृद्धि ही आर्थिक विकास का पर्याप्त संकेतक है।",
+        "en": "Economic growth is a sufficient indicator of economic development."
+      },
+      {
+        "id": "B",
+        "hi": "SDGs आर्थिक वृद्धि को पर्यावरणीय चिंताओं से ऊपर रखते हैं।",
+        "en": "SDGs place economic growth above environmental concerns."
+      },
+      {
+        "id": "C",
+        "hi": "सतत विकास के लिए आर्थिक वृद्धि और पर्यावरण संरक्षण के बीच संतुलन आवश्यक है।",
+        "en": "For sustainable development, a balance between economic growth and environmental protection is essential."
+      },
+      {
+        "id": "D",
+        "hi": "SDG 13 का आर्थिक विकास से कोई संबंध नहीं है।",
+        "en": "SDG 13 has no relationship with economic development."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "विकल्प (c) गद्यांश का सबसे सटीक निष्कर्ष है: गद्यांश दिखाता है कि कोयले से सिर्फ उद्योग लगाने (वृद्धि) से बीमारियां और प्रदूषण बढ़ा। अतः विकास को टिकाऊ रखने के लिए पर्यावरण और आर्थिक वृद्धि के बीच संतुलन जरूरी है। सरल भाषा में: पैसा कमाने के लिए बहुत सारा धुआं फैलाओगे, तो लोग बीमार हो जाएंगे। इसलिए पैसा और साफ हवा दोनों जरूरी हैं।",
+      "en": "Option (c) is the most accurate conclusion: The passage illustrates that merely setting up coal industries (growth) caused diseases and pollution. Thus, a balance between the environment and economic growth is vital for sustainability. In simple terms: Making money by causing heavy pollution will only make people sick. You need a balance of money and clean air."
+    }
+  },
+  {
+    "id": 39,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "राष्ट्रीय संकेतक ढाँचा (National Indicator Framework - NIF) भारत में SDGs की प्रगति मापने हेतु विकसित किया गया है।",
+        "en": "The National Indicator Framework (NIF) has been developed to measure the progress of SDGs in India."
+      },
+      {
+        "id": 2,
+        "hi": "NIF को मुख्यतः NITI Aayog द्वारा तैयार किया जाता है तथा सांख्यिकीय सहयोग Ministry of Statistics and Programme Implementation प्रदान करता है।",
+        "en": "The NIF is primarily prepared by NITI Aayog, and statistical support is provided by the Ministry of Statistics and Programme Implementation."
+      },
+      {
+        "id": 3,
+        "hi": "NIF के सभी संकेतक संयुक्त राष्ट्र के वैश्विक संकेतकों के समान हैं।",
+        "en": "All indicators of the NIF are identical to the UN's global indicators."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements:\nWhich of the above statements are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कथन 1 और 2 सही हैं: भारत में NIF नीति आयोग और MOSPI मिलकर संभालते हैं। कथन 3 गलत है क्योंकि NIF के सभी संकेतक यूएन के समान नहीं हैं; भारत ने अपनी स्थानीय प्राथमिकताओं और समस्याओं के अनुसार अपने खुद के कुछ संकेतक चुने हैं। सरल भाषा में: नीति आयोग जो लिस्ट बनाता है, उसमें भारत ने अपनी जरूरतों के हिसाब से कुछ बातें अलग से जोड़ी हैं, जो दुनिया की लिस्ट में नहीं हैं।",
+      "en": "Statements 1 and 2 are correct: In India, the NIF is managed jointly by NITI Aayog and MOSPI. Statement 3 is incorrect because not all NIF indicators match the UN's perfectly; India tailored specific indicators to suit its local priorities and issues. In simple terms: NITI Aayog's checklist includes some unique points specifically designed for India's ground realities, differing slightly from the global UN list."
+    }
+  },
+  {
+    "id": 40,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "स्वैच्छिक राष्ट्रीय समीक्षा (Voluntary National Review - VNR) रिपोर्ट संयुक्त राष्ट्र को प्रस्तुत की जाती है।",
+        "en": "The Voluntary National Review (VNR) report is submitted to the United Nations."
+      },
+      {
+        "id": 2,
+        "hi": "VNR रिपोर्ट प्रस्तुत करना सदस्य देशों के लिए कानूनी रूप से अनिवार्य है।",
+        "en": "Submitting the VNR report is legally mandatory for member states."
+      },
+      {
+        "id": 3,
+        "hi": "VNR रिपोर्ट SDGs की दिशा में हुई प्रगति, चुनौतियों एवं सर्वोत्तम प्रथाओं का विवरण देती है।",
+        "en": "The VNR report details the progress, challenges, and best practices regarding SDGs."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements:\nWhich of the above statements are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कथन 1 और 3 सही हैं: VNR एक ऐसी रिपोर्ट है जिसमें देश यूएन को बताते हैं कि उन्होंने विकास लक्ष्यों में क्या अच्छा किया और क्या चुनौतियां आईं। कथन 2 गलत है क्योंकि इसके नाम में ही 'स्वैच्छिक' (Voluntary) है, यह कानूनी रूप से अनिवार्य नहीं है। सरल भाषा में: VNR एक स्वैच्छिक रिपोर्ट कार्ड की तरह है जो देश खुद बनाकर यूएन को दिखाते हैं, यह कोई मजबूरी नहीं है।",
+      "en": "Statements 1 and 3 are correct: A VNR is a report where nations inform the UN of their successes and hurdles regarding the development goals. Statement 2 is wrong because the word 'Voluntary' itself implies it is not legally mandatory. In simple terms: The VNR is like an optional report card that countries willingly submit to show the UN how well they are doing."
+    }
+  },
+  {
+    "id": 41,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत ने अपनी पहली VNR रिपोर्ट वर्ष 2020 में प्रस्तुत की थी।",
+        "en": "India presented its first VNR report in the year 2020."
+      },
+      {
+        "id": 2,
+        "hi": "VNR रिपोर्ट का प्रस्तुतीकरण United Nations High-Level Political Forum में किया जाता है।",
+        "en": "The presentation of the VNR report is done at the United Nations High-Level Political Forum."
+      },
+      {
+        "id": 3,
+        "hi": "VNR रिपोर्ट केवल विकसित देशों द्वारा प्रस्तुत की जाती है।",
+        "en": "VNR reports are submitted only by developed countries."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements:\nWhich of the above statements are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कथन 1 और 2 सही हैं: भारत ने 2020 में अपनी पहली विस्तृत VNR रिपोर्ट यूएन के सबसे बड़े मंच HLPF में पेश की थी। कथन 3 गलत है क्योंकि यह रिपोर्ट विकसित और विकासशील दोनों तरह के देशों द्वारा प्रस्तुत की जा सकती है। सरल भाषा में: भारत ने 2020 में यूएन के मंच पर सबको अपना काम दिखाया था। ऐसी रिपोर्ट अमीर-गरीब दोनों तरह के देश पेश करते हैं।",
+      "en": "Statements 1 and 2 are correct: India presented its first detailed VNR to the UN's premier platform, the HLPF, in 2020. Statement 3 is incorrect because these reports are presented by both developed and developing nations alike. In simple terms: India showed off its progress at the UN in 2020. Both rich and poor countries can present this report."
+    }
+  },
+  {
+    "id": 42,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "NIF मुख्यतः डेटा संग्रह एवं निगरानी का उपकरण है।",
+        "en": "NIF is primarily a tool for data collection and monitoring."
+      },
+      {
+        "id": 2,
+        "hi": "भारत SDG सूचकांक राज्यों के बीच प्रतिस्पर्धी एवं सहकारी संघवाद को बढ़ावा देता है।",
+        "en": "The India SDG Index fosters competitive and cooperative federalism among states."
+      },
+      {
+        "id": 3,
+        "hi": "VNR रिपोर्ट राज्यों की रैंकिंग निर्धारित करती है।",
+        "en": "The VNR report determines the ranking of states."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements:\nWhich of the above statements are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कथन 1 और 2 सही हैं: NIF डेटा इकट्ठा करता है, और नीति आयोग का 'SDG इंडिया इंडेक्स' राज्यों को रैंक देकर उनमें होड़ (प्रतिस्पर्धा) मचाता है। कथन 3 गलत है क्योंकि VNR रिपोर्ट वैश्विक स्तर पर देशों की प्रगति बताती है, राज्यों की रैंकिंग नीति आयोग का सूचकांक करता है। सरल भाषा में: नीति आयोग राज्यों का टेस्ट लेकर रैंक देता है, जिससे राज्यों में अच्छा काम करने का कॉम्पिटिशन बढ़ता है।",
+      "en": "Statements 1 and 2 are correct: The NIF collects data, and NITI Aayog's SDG India Index ranks states, spurring competitive federalism. Statement 3 is wrong because the VNR report is a global progress report for the country, not a domestic state-ranking tool. In simple terms: NITI Aayog tests and ranks states to create a healthy competition on who keeps their citizens happier."
+    }
+  },
+  {
+    "id": 43,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उच्च आर्थिक वृद्धि दर स्वतः समावेशी वृद्धि सुनिश्चित करती है।",
+        "en": "A high economic growth rate automatically ensures inclusive growth."
+      },
+      {
+        "id": 2,
+        "hi": "समावेशी वृद्धि के अभाव में आर्थिक असमानताएँ बढ़ सकती हैं।",
+        "en": "In the absence of inclusive growth, economic inequalities can increase."
+      },
+      {
+        "id": 3,
+        "hi": "बढ़ती असमानताएँ सतत विकास के उद्देश्यों के विपरीत हो सकती हैं।",
+        "en": "Increasing inequalities can be contrary to the objectives of sustainable development."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements:\nWhich of the above statements are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कथन 2 और 3 सही हैं: अगर विकास में सबको साथ नहीं लिया गया तो अमीर और अमीर हो जाएंगे (असमानता बढ़ेगी), जो सतत विकास के खिलाफ है। कथन 1 गलत है क्योंकि उच्च आर्थिक वृद्धि स्वतः (Automatically) समावेशी वृद्धि नहीं लाती; सरकार को योजनाएं लागू करनी पड़ती हैं। सरल भाषा में: देश की कमाई बढ़ने से अपने आप सबका भला नहीं होता। ध्यान नहीं दिया गया तो अमीर बहुत आगे निकल जाएंगे और गरीब पीछे छूट जाएंगे।",
+      "en": "Statements 2 and 3 are correct: Without inclusion, the rich get richer (inequality rises), which fundamentally opposes sustainable development. Statement 1 is incorrect because high growth doesn't automatically 'trickle down' to ensure inclusive growth; active government welfare is needed. In simple terms: National wealth going up doesn't magically help everyone. If ignored, the gap between rich and poor simply widens."
+    }
+  },
+  {
+    "id": 44,
+    "subject": "Economics",
+    "topic": "Sustainable Development Goals",
+    "difficulty": "Hard",
+    "type": "passage",
+    "passage": {
+      "hi": "यह वैश्विक मंच संयुक्त राष्ट्र के आर्थिक एवं सामाजिक परिषद (ECOSOC) के तत्वावधान में कार्य करता है। इसका प्रमुख उद्देश्य सतत विकास लक्ष्यों की प्रगति की समीक्षा करना तथा सदस्य देशों द्वारा प्रस्तुत स्वैच्छिक राष्ट्रीय समीक्षाओं (VNRs) पर विचार करना है।",
+      "en": "This global forum operates under the auspices of the United Nations Economic and Social Council (ECOSOC). Its main objective is to review the progress of the Sustainable Development Goals and consider the Voluntary National Reviews (VNRs) presented by member states."
+    },
+    "statements": null,
+    "question": {
+      "hi": "उपरोक्त गद्यांश किस संस्था की ओर संकेत करता है?",
+      "en": "Which institution does the above passage refer to?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "United Nations Environment Programme",
+        "en": "United Nations Environment Programme"
+      },
+      {
+        "id": "B",
+        "hi": "High-Level Political Forum on Sustainable Development",
+        "en": "High-Level Political Forum on Sustainable Development"
+      },
+      {
+        "id": "C",
+        "hi": "United Nations Children's Fund",
+        "en": "United Nations Children's Fund"
+      },
+      {
+        "id": "D",
+        "hi": "World Bank",
+        "en": "World Bank"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "विकल्प (b) सही है: सतत विकास लक्ष्यों की प्रगति की जांच करने और VNR रिपोर्ट की समीक्षा करने वाली यूएन की मुख्य संस्था का नाम High-Level Political Forum (HLPF) है। UNEP पर्यावरण, UNICEF बच्चों और विश्व बैंक ऋण से संबंधित हैं। सरल भाषा में: गद्यांश में जिस मंच की बात की जा रही है वह HLPF है, जो यूएन की वह क्लास है जहां सब देश आकर अपने विकास का होमवर्क दिखाते हैं।",
+      "en": "Option (b) is correct: The High-Level Political Forum (HLPF) is the primary UN institution for checking SDG progress and reviewing VNR reports. UNEP is for environment, UNICEF for children, and World Bank for loans. In simple terms: The forum mentioned is the HLPF, serving as the UN's 'classroom' where all countries come to present their development 'homework'."
+    }
+  },
+  {
+    "id": 45,
+    "subject": "Economics",
+    "topic": "National Income Accounting",
+    "difficulty": "Medium",
+    "type": "passage",
+    "passage": {
+      "hi": "एक गाँव में किसान राम ने वर्ष के दौरान गेहूँ का उत्पादन किया। उसने अपने उत्पादन का एक भाग बाजार में बेचा, कुछ भाग अपने परिवार द्वारा उपभोग के लिए रखा तथा शेष भाग अगले वर्ष बीज के रूप में उपयोग करने हेतु सुरक्षित रखा।",
+      "en": "In a village, farmer Ram produced wheat during the year. He sold a part of his produce in the market, kept a part for consumption by his family, and preserved the remaining part to be used as seeds for the next year."
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बाजार में बेचे गए गेहूँ का मूल्य GDP में शामिल होगा।",
+        "en": "The value of wheat sold in the market will be included in the GDP."
+      },
+      {
+        "id": 2,
+        "hi": "परिवार द्वारा स्व-उपभोग (Self-consumption) हेतु रखे गए गेहूँ का मूल्य भी राष्ट्रीय आय लेखांकन में शामिल किया जा सकता है।",
+        "en": "The value of wheat kept for self-consumption by the family can also be included in national income accounting."
+      },
+      {
+        "id": 3,
+        "hi": "अगले वर्ष बीज के रूप में उपयोग हेतु रखा गया गेहूँ पूरी तरह GDP से बाहर रहेगा।",
+        "en": "The wheat preserved to be used as seeds for the next year will remain completely outside the GDP."
+      }
+    ],
+    "question": {
+      "hi": "उपरोक्त गद्यांश के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:\nउपरोक्त में से कौन-से कथन सही हैं?",
+      "en": "With reference to the above passage, consider the following statements:\nWhich of the above statements are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कथन 1 और 2 सही हैं: बाजार में बिका गेहूं और खुद खाने के लिए रखा गया गेहूं, दोनों वर्तमान उत्पादन हैं, इसलिए इन्हें GDP में गिना जाता है। कथन 3 गलत है क्योंकि जो गेहूं बीज के लिए रखा गया है वह इस साल के लिए 'स्टॉक/इन्वेस्टमेंट' का हिस्सा बनकर GDP में गिना जाता है, पूरी तरह बाहर नहीं रहता। सरल भाषा में: किसान की पूरी फसल इस साल की मेहनत (GDP) है, चाहे वह उसे बेचे या खुद खाए।",
+      "en": "Statements 1 and 2 are correct: Both the wheat sold in the market and the wheat kept for family consumption are current production, hence included in GDP. Statement 3 is incorrect because the wheat saved for seeds acts as inventory/investment for this year and is therefore counted in GDP. In simple terms: The farmer's entire crop reflects this year's hard work (GDP), regardless of whether it was sold or eaten at home."
+    }
+  },
+  {
+    "id": 46,
+    "subject": "Economics",
+    "topic": "National Income Accounting",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "एक अर्थव्यवस्था में केवल एक वस्तु का उत्पादन होता है। आधार वर्ष में उत्पादन 100 इकाई और कीमत ₹20 प्रति इकाई थी। वर्तमान वर्ष में उत्पादन 120 इकाई और कीमत ₹30 प्रति इकाई है। निम्नलिखित में से वर्तमान वर्ष के वास्तविक GDP (Real GDP) का सही मान क्या होगा?",
+      "en": "An economy produces only one good. In the base year, production was 100 units at a price of ₹20 per unit. In the current year, production is 120 units at a price of ₹30 per unit. Which of the following will be the correct value of the Real GDP for the current year?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "₹2,000",
+        "en": "₹2,000"
+      },
+      {
+        "id": "B",
+        "hi": "₹2,400",
+        "en": "₹2,400"
+      },
+      {
+        "id": "C",
+        "hi": "₹3,000",
+        "en": "₹3,000"
+      },
+      {
+        "id": "D",
+        "hi": "₹3,600",
+        "en": "₹3,600"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "₹2,400 सही उत्तर है: वास्तविक GDP (Real GDP) निकालने का सूत्र है- वर्तमान वर्ष का उत्पादन x आधार वर्ष की कीमत। गणना: 120 इकाई x ₹20 = ₹2,400। ₹3,600 (120 x 30) नॉमिनल GDP है जिसमें महंगाई शामिल है। सरल भाषा में: असली तरक्की (Real GDP) जानने के लिए हम इस साल बने सामान को पुरानी तय कीमत से गुणा करते हैं, जिससे महंगाई का धोखा नहीं होता।",
+      "en": "₹2,400 is the correct answer: The formula for Real GDP is Current Year Production x Base Year Price. Calculation: 120 units x ₹20 = ₹2,400. ₹3,600 (120 x 30) is the Nominal GDP, which includes inflation. In simple terms: To figure out real growth (Real GDP), we multiply this year's goods by older fixed prices to remove the illusion of inflation."
+    }
+  },
+  {
+    "id": 47,
+    "subject": "Economics",
+    "topic": "National Income Accounting",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए और गलत विकल्प/कथनों का चयन कीजिए:\nA. भारत की GDP वृद्धि दर में पिछले 5 वर्षों के दौरान निरंतर वृद्धि (Persistent Increment) देखने को मिली है।\nB. भारत ने पिछले 5 वर्षों में अपनी वार्षिक आर्थिक वृद्धि दर में कभी भी अवमंदन (Economic Slowdown) का अनुभव नहीं किया है।\nC. GDP की गणना में निजी अंतिम उपभोग व्यय (PFCE) का हिस्सा सर्वाधिक है।\nD. किसी अर्थव्यवस्था का GDP, उसके NDP से कभी कम नहीं हो सकता।",
+      "en": "Consider the following statements and select the incorrect option/statements:\nA. India's GDP growth rate has witnessed a persistent increment over the last 5 years.\nB. India has never experienced an economic slowdown in its annual economic growth rate in the last 5 years.\nC. The share of Private Final Consumption Expenditure (PFCE) is highest in the calculation of GDP.\nD. The GDP of an economy can never be less than its NDP."
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल A और B",
+        "en": "A and B only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल B और C",
+        "en": "B and C only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल C और D",
+        "en": "C and D only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल A, B और D",
+        "en": "A, B and D only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कथन A और B दोनों गलत हैं: भारत की वृद्धि दर कोविड-19 महामारी के कारण ऋणात्मक भी हुई थी, इसलिए 'निरंतर वृद्धि' या 'कभी अवमंदन नहीं' कहना गलत है। कथन C (PFCE का हिस्सा ~55-60% है) और D (NDP हमेशा GDP माइनस मूल्यह्रास होता है) सही हैं। सरल भाषा में: अर्थव्यवस्था में चीजें हमेशा ऊपर नहीं जातीं। कोरोना के समय देश की कमाई भी कम हुई थी, इसलिए पिछले 5 सालों में सिर्फ बढ़ोतरी होने का दावा गलत है।",
+      "en": "Statements A and B are both incorrect: India's growth rate turned negative during the COVID-19 pandemic, so claiming 'persistent increment' or 'never experienced a slowdown' is factually wrong. Statements C (PFCE is ~55-60%) and D (NDP is GDP minus depreciation) are correct. In simple terms: The economy doesn't just continuously go up. Wealth dropped during COVID, making the claim of 5 years of non-stop growth completely false."
+    }
+  },
+  {
+    "id": 48,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "पर्यावरणीय क्षरण की लागत",
+        "en": "Cost of environmental degradation"
+      },
+      {
+        "id": 2,
+        "hi": "प्राकृतिक संसाधनों का ह्रास",
+        "en": "Depletion of natural resources"
+      }
+    ],
+    "question": {
+      "hi": "ग्रीन GDP (Green GDP) की अवधारणा में GDP की गणना करते समय निम्नलिखित में से किसे घटाया जाता है?\nनीचे दिए गए कूट का प्रयोग कीजिए:",
+      "en": "In the concept of Green GDP, which of the following is deducted while calculating the GDP?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "दोनों कथन सही हैं: ग्रीन GDP की गणना पारंपरिक GDP में से पर्यावरणीय नुकसान और प्राकृतिक संसाधनों की कमी की लागत को घटाकर की जाती है। यह आर्थिक विकास की एक अधिक टिकाऊ और वास्तविक तस्वीर प्रस्तुत करता है।",
+      "en": "Both statements are correct: Green GDP is calculated by subtracting the costs of environmental damage and the depletion of natural resources from the traditional GDP. This presents a more sustainable and realistic picture of economic development."
+    }
+  },
+  {
+    "id": 49,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "आर्थिक विकास के संदर्भ में, गिन्नी गुणांक (Gini Coefficient) का उपयोग मुख्य रूप से क्या मापने के लिए किया जाता है?",
+      "en": "In the context of economic development, what is the Gini Coefficient primarily used to measure?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "गरीबी रेखा",
+        "en": "Poverty Line"
+      },
+      {
+        "id": "B",
+        "hi": "आय की असमानता",
+        "en": "Income Inequality"
+      },
+      {
+        "id": "C",
+        "hi": "मुद्रास्फीति दर",
+        "en": "Inflation Rate"
+      },
+      {
+        "id": "D",
+        "hi": "मानव विकास सूचकांक",
+        "en": "Human Development Index"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "गिन्नी गुणांक (Gini Coefficient) का उपयोग किसी राष्ट्र के भीतर आय की असमानता मापने के लिए किया जाता है। इसका मान 0 (पूर्ण समानता) से 1 (पूर्ण असमानता) के बीच होता है।",
+      "en": "The Gini coefficient is used to measure income inequality within a nation. Its value ranges from 0 (representing perfect equality) to 1 (representing perfect inequality)."
+    }
+  },
+  {
+    "id": 50,
+    "subject": "Economics",
+    "topic": "Growth and Development",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "निम्नलिखित में से किस देश ने सबसे पहले 'सकल राष्ट्रीय खुशहाली' (Gross National Happiness - GNH) को अपनी प्रगति के आधिकारिक माप के रूप में अपनाया?",
+      "en": "Which of the following countries was the first to adopt 'Gross National Happiness' (GNH) as an official measure of its progress?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भारत",
+        "en": "India"
+      },
+      {
+        "id": "B",
+        "hi": "भूटान",
+        "en": "Bhutan"
+      },
+      {
+        "id": "C",
+        "hi": "स्विट्ज़रलैंड",
+        "en": "Switzerland"
+      },
+      {
+        "id": "D",
+        "hi": "न्यूजीलैंड",
+        "en": "New Zealand"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भूटान ने 1970 के दशक में सबसे पहले GDP के विकल्प के रूप में 'सकल राष्ट्रीय खुशहाली' (GNH) को अपनाया था। यह आर्थिक वृद्धि के साथ-साथ समग्र विकास, सांस्कृतिक संरक्षण और पर्यावरण सुरक्षा पर जोर देता है।",
+      "en": "Bhutan was the first to introduce 'Gross National Happiness' (GNH) in the 1970s as an alternative to GDP. It emphasizes holistic development, cultural preservation, and environmental conservation alongside economic growth."
+    }
+  }
+]

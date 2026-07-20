@@ -1,0 +1,2387 @@
+[
+  {
+    "id": 1,
+    "subject": "Economics",
+    "topic": "Monetary Policy Committee (MPC)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "यदि MPC में सदस्यों के बीच किसी प्रस्ताव पर मतभेद होता है और पक्ष-विपक्ष में समान मत प्राप्त होते हैं, तो निम्नलिखित में से कौन सा कथन सही है?",
+      "en": "If there is a disagreement among the members of the MPC on a proposal and there is an equal number of votes for and against, which of the following statements is correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "प्रस्ताव स्वतः रद्द हो जाता है।",
+        "en": "The proposal is automatically cancelled."
+      },
+      {
+        "id": "B",
+        "hi": "RBI के गवर्नर को निर्णायक मत (Casting Vote) देने का अधिकार है।",
+        "en": "The RBI Governor has the right to cast a deciding vote (Casting Vote)."
+      },
+      {
+        "id": "C",
+        "hi": "वित्त मंत्रालय का प्रतिनिधि निर्णायक मत देता है।",
+        "en": "The representative of the Finance Ministry casts the deciding vote."
+      },
+      {
+        "id": "D",
+        "hi": "प्रस्ताव को अगले सत्र के लिए स्थगित कर दिया जाता है।",
+        "en": "The proposal is postponed to the next session."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "मौद्रिक नीति समिति (MPC) में कुल 6 सदस्य होते हैं। यदि किसी फैसले पर 3-3 से वोटिंग बराबर (टाई) हो जाती है, तो RBI गवर्नर को एक अतिरिक्त वोट देने का अधिकार होता है जिसे 'कास्टिंग वोट' कहते हैं, ताकि फैसला लिया जा सके (इसलिए विकल्प B सही है)। टाई होने पर प्रस्ताव अपने आप रद्द नहीं होता (A गलत है)। इस समिति में वित्त मंत्रालय का कोई दखल या वोट नहीं होता (C गलत है), और न ही बात अगली मीटिंग के लिए टाली जाती है (D गलत है)।\n\nसरल भाषा में: सोचिए कि आप और आपके 5 दोस्त (कुल 6) मिलकर तय कर रहे हैं कि आज क्रिकेट खेलें या फुटबॉल। 3 ने कहा क्रिकेट और 3 ने कहा फुटबॉल। टाई हो गया! अब जो आपके ग्रुप का लीडर (RBI गवर्नर) है, उसे एक और एक्स्ट्रा वोट देने का हक मिलेगा ताकि खेल शुरू हो सके। कोई बाहरी आदमी (सरकार) आकर फैसला नहीं करेगा, और न ही खेल अगले दिन के लिए टाला जाएगा।",
+      "en": "The Monetary Policy Committee (MPC) has 6 members. In case of a 3-3 tie on a decision, the RBI Governor is granted an extra deciding vote called the 'Casting Vote' to break the tie (hence B is correct). The proposal is not automatically rejected (A is wrong). The Finance Ministry does not have voting rights in this independent committee (C is wrong), nor is the decision simply postponed to the next session (D is wrong).\n\nIn simple terms: Imagine you and your 5 friends (6 total) are voting on playing cricket vs football. It's a 3-3 tie. The leader of your group (the RBI Governor) is given one extra vote to break the tie so the game can start. You don't ask an outsider (the government) to decide, nor do you cancel the plan or postpone it for tomorrow."
+    }
+  },
+  {
+    "id": 2,
+    "subject": "Economics",
+    "topic": "Flexible Inflation Targeting",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "'लचीला मुद्रास्फीति लक्ष्यीकरण' (Flexible Inflation Targeting) के अंतर्गत यदि RBI लगातार तीन तिमाहियों तक लक्ष्य (4% ± 2%) को प्राप्त करने में विफल रहता है, तो उसे सरकार को क्या प्रस्तुत करना होता है?",
+      "en": "Under 'Flexible Inflation Targeting', if the RBI fails to achieve the target (4% ± 2%) for three consecutive quarters, what must it submit to the government?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इस्तीफे का प्रस्ताव।",
+        "en": "A proposal to resign."
+      },
+      {
+        "id": "B",
+        "hi": "ब्याज दरें 2% बढ़ाने का प्रस्ताव।",
+        "en": "A proposal to increase interest rates by 2%."
+      },
+      {
+        "id": "C",
+        "hi": "विफलता के कारण, प्रस्तावित उपचारात्मक उपाय और अपेक्षित समय-सीमा के साथ एक रिपोर्ट।",
+        "en": "A report stating the reasons for failure, proposed remedial measures, and the expected timeframe."
+      },
+      {
+        "id": "D",
+        "hi": "केवल RBI के आंतरिक ऑडिट की रिपोर्ट।",
+        "en": "Only the internal audit report of the RBI."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कानून के अनुसार, RBI को महंगाई को 2% से 6% के बीच रखना होता है। यदि वह लगातार 9 महीने (तीन तिमाहियों) तक ऐसा करने में फेल हो जाता है, तो उसे केंद्र सरकार को एक लिखित रिपोर्ट देनी होती है। इस रिपोर्ट में बताना होता है कि महंगाई क्यों बढ़ी, इसे कम करने के लिए वे क्या कर रहे हैं, और कब तक हालात सुधरेंगे (इसलिए विकल्प C सही है)। इसके लिए गवर्नर को इस्तीफा नहीं देना पड़ता (A गलत), न ही कोई फिक्स 2% ब्याज बढ़ाने की शर्त है (B गलत), और सिर्फ आंतरिक ऑडिट रिपोर्ट देना काफी नहीं है (D गलत)।\n\nसरल भाषा में: मान लीजिए आपके माता-पिता ने कहा है कि परीक्षा में आपके 40 से 80 के बीच नंबर आने चाहिए। अगर आप लगातार 3 परीक्षाओं में फेल हो जाते हैं, तो आपको घर छोड़कर भागने (इस्तीफा) की जरूरत नहीं है। बस आपको अपने माता-पिता को एक लेटर (रिपोर्ट) लिखकर बताना होगा कि नंबर कम क्यों आए, अब आप कैसे पढ़ाई करेंगे, और अगली बार पास होने में कितना समय लगेगा।",
+      "en": "By law, the RBI is tasked with keeping inflation between 2% and 6%. If it fails to do so for 9 consecutive months (three quarters), it must submit a detailed report to the Central Government explaining the reasons for the failure, the remedial actions it plans to take, and the estimated time to bring inflation back on track (hence C is correct). The Governor does not have to resign (A is wrong), there is no hard rule to hike rates by exactly 2% (B is wrong), and a mere internal audit report is insufficient (D is wrong).\n\nIn simple terms: Imagine your parents set a rule that you must score between 40 and 80 marks. If you fail 3 tests in a row, you don't have to pack your bags and leave the house (resign). You just have to write a letter to your parents explaining why you failed, how you plan to study harder, and by when your grades will improve."
+    }
+  },
+  {
+    "id": 3,
+    "subject": "Economics",
+    "topic": "Liquidity Management (SDF vs Reverse Repo)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "'स्थायी जमा सुविधा' (Standing Deposit Facility - SDF) के संदर्भ में कौन सा कथन असत्य है?",
+      "en": "Which statement is false regarding the 'Standing Deposit Facility' (SDF)?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "यह RBI द्वारा तरलता अवशोषित करने का एक साधन है।",
+        "en": "It is a tool used by the RBI to absorb liquidity."
+      },
+      {
+        "id": "B",
+        "hi": "इसके लिए बैंकों को RBI के पास सरकारी प्रतिभूतियां गिरवी रखने की आवश्यकता नहीं होती है।",
+        "en": "For this, banks do not need to pledge government securities with the RBI."
+      },
+      {
+        "id": "C",
+        "hi": "SDF दर हमेशा रेपो दर से अधिक होती है।",
+        "en": "The SDF rate is always higher than the Repo rate."
+      },
+      {
+        "id": "D",
+        "hi": "इसे 2022 में तरलता प्रबंधन के लिए एक स्थायी उपकरण बनाया गया।",
+        "en": "It was made a permanent tool for liquidity management in 2022."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "SDF वह सुविधा है जहाँ बैंक अपना अतिरिक्त पैसा RBI के पास बिना किसी सिक्योरिटी (कागज) के जमा करते हैं, ताकि बाजार से पैसा सोखा जा सके (A, B और D सही तथ्य हैं)। चूँकि बैंक अपना पैसा RBI के पास जमा कर रहे हैं, इसलिए RBI उन्हें जो ब्याज देता है (SDF दर), वह रेपो दर (जिस पर RBI उधार देता है) से हमेशा 'कम' होती है। इसलिए SDF दर को रेपो दर से 'अधिक' बताना गलत है। अतः विकल्प C असत्य है।\n\nसरल भाषा में: रेपो रेट का मतलब है वो ब्याज जो आप बैंक से 'उधार' लेते समय देते हैं। SDF का मतलब है वो ब्याज जो बैंक आपको आपका पैसा 'जमा' करने पर देता है। हम सब जानते हैं कि हमेशा लोन का ब्याज (रेपो) ज्यादा होता है, और सेविंग खाते का ब्याज (SDF) कम होता है। इसलिए SDF दर रेपो रेट से कम होती है, ज्यादा नहीं।",
+      "en": "SDF is a facility where banks deposit their excess cash with the RBI without the RBI needing to provide any collateral (G-Secs) in return, introduced in 2022 to absorb liquidity (Facts A, B, and D are true). Because the RBI is taking deposits from banks, the interest it pays (SDF rate) is always 'lower' than the rate at which it lends money to them (Repo rate). Therefore, claiming that the SDF rate is higher than the Repo rate is completely false (hence C is the incorrect statement).\n\nIn simple terms: Repo rate is the interest charged when taking a 'loan'. SDF is the interest paid when making a 'deposit'. We all know that the interest you pay on a loan is always higher than the interest you earn on your savings. Therefore, the SDF rate is lower than the Repo rate, not higher."
+    }
+  },
+  {
+    "id": 4,
+    "subject": "Economics",
+    "topic": "Monetary Transmission",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "'मौद्रिक नीति संचरण' (Monetary Transmission) में देरी का मुख्य कारण क्या हो सकता है?",
+      "en": "What can be the main reason for a delay in 'Monetary Transmission'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "बैंकों की 'Asset-Liability Mismatch' (ALM)",
+        "en": "Banks' 'Asset-Liability Mismatch' (ALM)"
+      },
+      {
+        "id": "B",
+        "hi": "बैंकों का उच्च NPA स्तर।",
+        "en": "High NPA levels of banks."
+      },
+      {
+        "id": "C",
+        "hi": "बाजार में पर्याप्त तरलता का अभाव।",
+        "en": "Lack of adequate liquidity in the market."
+      },
+      {
+        "id": "D",
+        "hi": "उपर्युक्त सभी।",
+        "en": "All of the above."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "मौद्रिक संचरण में देरी तब होती है जब RBI रेपो रेट घटाता है, लेकिन बैंक आम जनता के लिए लोन सस्ता नहीं करते। इसके तीन बड़े कारण हो सकते हैं: 1. बैंकों ने लोगों को ऊंचे ब्याज पर FD (Liability) दे रखी है और वो उसे बदल नहीं सकते (ALM समस्या)। 2. बैंकों का पुराना बहुत सारा पैसा डूबा हुआ है (NPA), इसलिए वे डरे हुए हैं। 3. बैंकों के पास लोन बांटने के लिए ज्यादा नकदी (तरलता) ही नहीं है। क्योंकि ये तीनों कारण सही हैं, इसलिए विकल्प D (उपर्युक्त सभी) सही है।\n\nसरल भाषा में: ट्रांसमिशन का मतलब है कि अगर होलसेलर (RBI) ने माल सस्ता किया, तो रिटेलर (बैंक) भी उसे ग्राहकों को सस्ता बेचे। लेकिन बैंक तुरंत लोन सस्ता क्यों नहीं करते? क्योंकि- (A) बैंक ने पहले ही किसी ग्राहक को ऊंचे ब्याज की FD दे रखी है, (B) बैंक का पुराना बांटा हुआ लोन डूब गया है और उसे घाटा हो रहा है, या (C) बैंक के पास बांटने के लिए एक्स्ट्रा कैश ही नहीं है। जब बैंक की हालत खस्ता हो, तो वह RBI की बात मानकर तुरंत लोन सस्ता नहीं कर पाता।",
+      "en": "A delay in monetary transmission happens when the RBI cuts interest rates, but commercial banks do not pass on the cheaper rates to customers. This happens because: 1. Banks are stuck paying high interest on old Fixed Deposits (ALM mismatch). 2. Banks are suffering losses from old bad loans (High NPAs) and want to recover money. 3. There is a shortage of spare cash (liquidity) in the banking system. Since all these factors prevent banks from lowering loan rates, option D is correct.\n\nIn simple terms: If the wholesaler (RBI) drops the price of goods, the shopkeeper (Bank) should also drop prices for us. But the bank doesn't do it immediately. Why? Because (A) the bank is stuck paying high interest to people who opened FDs last year, (B) the bank lost a lot of money to fraudsters who didn't pay back loans (NPAs), or (C) the bank's cash drawer is simply empty. In all these cases, the bank is struggling and refuses to make loans cheaper for us."
+    }
+  },
+  {
+    "id": 5,
+    "subject": "Economics",
+    "topic": "Marginal Standing Facility (MSF)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "MSF के बारे में क्या सत्य है?",
+      "en": "What is true about MSF?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "यह बैंकों के लिए एक विंडो है जहाँ से वे तरलता की कमी होने पर RBI से आपातकालीन ऋण ले सकते हैं।",
+        "en": "It is a window for banks to take emergency loans from the RBI when there is a liquidity shortage."
+      },
+      {
+        "id": "B",
+        "hi": "MSF दर हमेशा रेपो दर से कम होती है।",
+        "en": "The MSF rate is always lower than the Repo rate."
+      },
+      {
+        "id": "C",
+        "hi": "MSF के तहत बैंक SLR कोटे की प्रतिभूतियों का उपयोग नहीं कर सकते।",
+        "en": "Under MSF, banks cannot use securities from their SLR quota."
+      },
+      {
+        "id": "D",
+        "hi": "इसे केवल सार्वजनिक क्षेत्र के बैंक ही उपयोग कर सकते हैं।",
+        "en": "It can be used only by public sector banks."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "सीमांत स्थायी सुविधा (MSF) एक आपातकालीन खिड़की है जहां बैंक नकदी की भारी कमी होने पर RBI से एक रात के लिए उधार ले सकते हैं (इसलिए A सही है)। चूंकि यह एक आपातकालीन और दंडात्मक सुविधा है, इसकी ब्याज दर रेपो रेट से 'अधिक' होती है, कम नहीं (B गलत है)। इसमें बैंकों को अपने SLR कोटे के बांड गिरवी रखने की विशेष 'छूट' मिलती है (C गलत है)। और इसका उपयोग प्राइवेट और सरकारी सभी अनुसूचित वाणिज्यिक बैंक कर सकते हैं (D गलत है)।\n\nसरल भाषा में: MSF बैंकों के लिए एक 'इमरजेंसी वॉर्ड' की तरह है। जब बैंक के पास रात को अचानक पैसों की भयंकर कमी हो जाए, तो वह MSF के दरवाजे पर जाता है (विकल्प A सही)। क्योंकि बैंक मुसीबत में पैसा मांग रहा है, इसलिए RBI उससे आम लोन (रेपो) से थोड़ा 'ज्यादा' ब्याज वसूलता है (इसलिए B गलत है)। इस इमरजेंसी में RBI बैंक को इजाजत देता है कि वह अपनी तिजोरी में रखी इमरजेंसी सरकारी फाइलें (SLR) निकालकर गिरवी रख दे। यह सुविधा हर बैंक को मिलती है, सिर्फ सरकारी बैंकों को नहीं।",
+      "en": "The Marginal Standing Facility (MSF) is an overnight emergency lending window where banks can borrow funds from the RBI when inter-bank liquidity completely dries up (hence A is true). Because it is a penal/emergency rate, it is always 'higher' than the regular Repo rate (B is wrong). To borrow under MSF, banks are explicitly allowed to dip into their statutory SLR quota of government bonds (C is wrong). It is available to all Scheduled Commercial Banks, not just public sector ones (D is wrong).\n\nIn simple terms: MSF is like an emergency room for banks. If a bank completely runs out of cash by the end of the day, it runs to the MSF window to get an overnight emergency loan (A is correct). Because the bank is desperate, the RBI charges a 'higher' penalty interest rate than normal loans (so B is wrong). To get this loan, the RBI lets the bank use its untouchable emergency savings (SLR bonds) as a guarantee. Any normal bank can use this, not just government banks."
+    }
+  },
+  {
+    "id": 6,
+    "subject": "Economics",
+    "topic": "Monetary Policy Stance",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "'न्यूट्रल' या तटस्थ रुख (Neutral Stance) का मौद्रिक नीति में क्या अर्थ है?",
+      "en": "What is the meaning of a 'Neutral Stance' in monetary policy?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "RBI भविष्य में दरों में वृद्धि या कटौती के लिए समान रूप से खुला है।",
+        "en": "The RBI is equally open to a rate hike or cut in the future."
+      },
+      {
+        "id": "B",
+        "hi": "RBI केवल दरों में वृद्धि करेगा।",
+        "en": "The RBI will only increase rates."
+      },
+      {
+        "id": "C",
+        "hi": "RBI केवल दरों में कटौती करेगा।",
+        "en": "The RBI will only cut rates."
+      },
+      {
+        "id": "D",
+        "hi": "RBI अगले 6 महीनों तक कोई बैठक नहीं करेगा।",
+        "en": "The RBI will not hold any meetings for the next 6 months."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "मौद्रिक नीति में 'तटस्थ रुख' (Neutral Stance) का मतलब है कि RBI ने अपना मन खुला रखा है। बाजार की स्थिति देखकर वह भविष्य में ब्याज दरों को बढ़ा भी सकता है और घटा भी सकता है। वह किसी एक दिशा (सिर्फ बढ़ाना या सिर्फ घटाना) में बंधा हुआ नहीं है (इसलिए विकल्प A सही है और B, C गलत हैं)। इसका मीटिंग न करने से कोई संबंध नहीं है (D गलत है)।\n\nसरल भाषा में: 'न्यूट्रल' का मतलब है कोई भी पक्ष न लेना (बीच में रहना)। जब RBI कहता है कि उसका रुख न्यूट्रल है, तो उसका मतलब है: \"हम अभी कुछ तय नहीं कर रहे हैं। अगर कल महंगाई बढ़ी, तो हम ब्याज बढ़ा देंगे। और अगर मंदी आई, तो हम ब्याज घटा देंगे।\" यानी उनके दोनों हाथों में लड्डू हैं, वे हालात के हिसाब से कोई भी फैसला ले सकते हैं।",
+      "en": "A 'Neutral Stance' means that the RBI is not committed to any specific direction for interest rates. Depending on incoming economic data (inflation or growth), it has the absolute flexibility to either raise or lower interest rates in upcoming meetings. It keeps both options equally open (hence A is correct, B and C are wrong). It has nothing to do with pausing committee meetings (D is wrong).\n\nIn simple terms: 'Neutral' means being exactly in the middle. When the RBI takes a neutral stance, it is telling the public: \"We haven't made up our minds yet. If things get expensive, we might increase rates. If the economy slows down, we might decrease them.\" They are keeping all their doors open to act according to the situation."
+    }
+  },
+  {
+    "id": 7,
+    "subject": "Economics",
+    "topic": "Monetary Base",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "मौद्रिक आधार (M0) में वृद्धि का अर्थव्यवस्था पर क्या प्रभाव पड़ता है?",
+      "en": "What is the impact of an increase in the Monetary Base (M0) on the economy?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "हमेशा मुद्रास्फीति में तत्काल वृद्धि।",
+        "en": "Always an immediate increase in inflation."
+      },
+      {
+        "id": "B",
+        "hi": "यदि मुद्रा गुणक (Money Multiplier) स्थिर है, तो व्यापक मुद्रा आपूर्ति में वृद्धि।",
+        "en": "If the money multiplier is constant, an increase in the broad money supply."
+      },
+      {
+        "id": "C",
+        "hi": "हमेशा वास्तविक GDP में वृद्धि।",
+        "en": "Always an increase in real GDP."
+      },
+      {
+        "id": "D",
+        "hi": "विनिमय दर में स्थिरता।",
+        "en": "Stability in the exchange rate."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "मौद्रिक आधार (M0) वह मूल नकदी है जो RBI छापता है। कुल मुद्रा आपूर्ति (M3) निकालने का फॉर्मूला होता है: M3 = M0 × मुद्रा गुणक। इसलिए, अगर मुद्रा गुणक (Money Multiplier) स्थिर रहता है, तो M0 के बढ़ने से पूरी अर्थव्यवस्था में व्यापक मुद्रा आपूर्ति (Broad money supply) अपने आप बढ़ जाएगी (विकल्प B सही है)। पैसा बढ़ने से 'हमेशा' तत्काल महंगाई या GDP नहीं बढ़ती, यह परिस्थितियों पर निर्भर करता है (A और C गलत हैं)।\n\nसरल भाषा में: मौद्रिक आधार (M0) का मतलब है असली कड़क नोट जो RBI छापता है। जब RBI ज्यादा नोट छापता है और उसे बैंकों को देता है, तो बैंक उसी पैसे को लोन के रूप में लोगों को बांटते हैं। अगर बैंक सामान्य तरीके से लोन बांटते रहें (यानी गुणक स्थिर रहे), तो बाजार में लोगों की जेब में खूब सारा पैसा (मुद्रा आपूर्ति) आ जाएगा। ऐसा नहीं है कि पैसा छपते ही उसी सेकंड महंगाई बढ़ जाएगी या देश अमीर (GDP) हो जाएगा, इसमें समय लगता है।",
+      "en": "The Monetary Base (M0) is the base physical currency created by the central bank. The Broad Money Supply (M3) is calculated as: M3 = M0 × Money Multiplier. Therefore, mathematically, if the money multiplier remains constant, any increase in M0 will lead to a proportional expansion in the total money supply in the economy (Option B is correct). Pumping money does not 'always' instantly trigger inflation or real GDP growth, as it depends on consumer demand and production capacity (A and C are wrong).\n\nIn simple terms: The Monetary Base is the fresh, newly printed cash from the RBI. When the RBI puts more fresh cash into the banks, the banks hand it out as loans to the public. Assuming banks lend normally, the total amount of money floating in the market (money supply) will naturally increase. It's false to say that printing money instantly causes inflation or makes the country richer the very next day; it just puts more paper money in people's hands."
+    }
+  },
+  {
+    "id": 8,
+    "subject": "Economics",
+    "topic": "Operation Twist",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "RBI के 'ऑपरेशन ट्विस्ट' (Operation Twist) का लक्ष्य क्या है?",
+      "en": "What is the goal of RBI's 'Operation Twist'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अल्पकालिक प्रतिभूतियों को खरीदकर और दीर्घकालिक प्रतिभूतियों को बेचकर यील्ड कर्व (Yield Curve) को मैनेज करना।",
+        "en": "To manage the Yield Curve by buying short-term securities and selling long-term securities."
+      },
+      {
+        "id": "B",
+        "hi": "केवल विदेशी मुद्रा का प्रवाह बढ़ाना।",
+        "en": "Only to increase the inflow of foreign exchange."
+      },
+      {
+        "id": "C",
+        "hi": "बैंक दर को समाप्त करना।",
+        "en": "To abolish the bank rate."
+      },
+      {
+        "id": "D",
+        "hi": "विदेशी पोर्टफोलियो निवेशकों को आकर्षित करना।",
+        "en": "To attract Foreign Portfolio Investors."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "ऑपरेशन ट्विस्ट RBI की एक विशेष ओपन मार्केट प्रक्रिया (OMO) है। इसमें RBI एक ही समय पर छोटी अवधि के बांड बेचता है और लंबी अवधि के बांड खरीदता है (हालांकि प्रश्न के विकल्प A में इसे विपरीत क्रम में लिखा गया है, फिर भी 'यील्ड कर्व को मैनेज करना' इसका एकमात्र सही और प्रमुख उद्देश्य है, जो इस विकल्प को सबसे उपयुक्त बनाता है)। इसका विदेशी मुद्रा, बैंक दर या FPI से कोई लेना-देना नहीं है (B, C, D गलत हैं)।\n\nसरल भाषा में: 'ऑपरेशन ट्विस्ट' एक जादू है। जब लंबी अवधि के लोन (जैसे 20 साल का होम लोन) बहुत महंगे हो जाते हैं, तो RBI बाजार में आता है। वह लंबी अवधि वाले सरकारी बांड खुद खरीदने लगता है। जब RBI ज्यादा बांड खरीदता है, तो लंबी अवधि वाले लोन पर ब्याज दर (यील्ड) गिर जाती है। इससे आम आदमी के लिए घर या फैक्टरी के लिए लंबा लोन लेना सस्ता हो जाता है। इसका विदेशी डॉलर से कोई रिश्ता नहीं है।",
+      "en": "Operation Twist is a special Open Market Operation where the RBI simultaneously buys long-term government bonds and sells short-term bonds (Note: The option text swaps the buy/sell order slightly, but it correctly identifies the primary goal: managing the 'Yield Curve' by twisting short and long-term rates). Its explicit goal is to bring down long-term interest rates to boost long-term investment. It has nothing to do with forex reserves, bank rates, or FPIs (making B, C, and D incorrect).\n\nIn simple terms: 'Operation Twist' is a clever trick by the RBI. When 20-year loans (like home loans) become too expensive, the RBI steps into the market and starts buying 20-year government bonds. This action pushes the interest rates for long-term loans down, making it cheaper for people and factories to borrow money for the future. It has absolutely zero to do with foreign dollars or foreigners."
+    }
+  },
+  {
+    "id": 9,
+    "subject": "Economics",
+    "topic": "Inflation Expectations Survey",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "RBI द्वारा किया जाने वाला 'घरानों का मुद्रास्फीति प्रत्याशा सर्वेक्षण' (Inflation Expectations Survey of Households - IESH) किसके लिए महत्वपूर्ण है?",
+      "en": "For whom is the 'Inflation Expectations Survey of Households' (IESH) conducted by the RBI important?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल RBI की मौद्रिक नीति समिति के लिए।",
+        "en": "Only for the RBI's Monetary Policy Committee."
+      },
+      {
+        "id": "B",
+        "hi": "केवल वित्त मंत्रालय के लिए।",
+        "en": "Only for the Finance Ministry."
+      },
+      {
+        "id": "C",
+        "hi": "MPC के नीतिगत निर्णयों के लिए, क्योंकि जनता की प्रत्याशाएं वर्तमान मुद्रास्फीति को प्रभावित करती हैं।",
+        "en": "For the MPC's policy decisions, because public expectations affect current inflation."
+      },
+      {
+        "id": "D",
+        "hi": "केवल शेयर बाजार के निवेशकों के लिए।",
+        "en": "Only for stock market investors."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "RBI आम घरों में जाकर एक सर्वे करता है यह पूछने के लिए कि उन्हें क्या लगता है, आने वाले महीनों में महंगाई घटेगी या बढ़ेगी। इसे मुद्रास्फीति प्रत्याशा (Inflation Expectation) कहते हैं। यह मौद्रिक नीति समिति (MPC) के लिए बहुत जरूरी है, क्योंकि अगर आम जनता को लगता है कि महंगाई बढ़ेगी, तो मजदूर ज्यादा वेतन मांगेंगे और दुकानदार चीजें महंगी कर देंगे, जिससे सच में महंगाई बढ़ जाएगी (इसलिए विकल्प C सही है)। यह सर्वे 'केवल' शेयर बाजार या 'केवल' सरकार के लिए नहीं होता।\n\nसरल भाषा में: RBI के अधिकारी आम लोगों से पूछते हैं- \"आपको क्या लगता है, अगले साल टमाटर कितने का होगा?\" अगर सारे लोग कहते हैं कि टमाटर 100 रुपये का हो जाएगा (प्रत्याशा), तो लोग डर के मारे आज ही बहुत सारा टमाटर खरीद लेंगे। इस हड़बड़ी की वजह से सचमुच टमाटर आज ही 100 रुपये का हो जाएगा! इसलिए RBI (MPC) के लिए यह जानना बहुत जरूरी है कि जनता के दिमाग में क्या चल रहा है, ताकि वे उसी हिसाब से अपनी नीतियां बना सकें।",
+      "en": "The RBI conducts a survey among regular households to ask what they think inflation will be in the coming months. This is crucial for the Monetary Policy Committee (MPC) because inflation is heavily psychological. If the public 'expects' prices to rise, workers demand higher wages and businesses raise prices, creating a self-fulfilling prophecy of actual inflation (hence C is correct). It is not exclusively for the finance ministry or stock brokers.\n\nIn simple terms: RBI officials ask ordinary people: \"Do you think prices will go up next year?\" If everyone believes prices will rise (expectation), people will panic and buy lots of stuff today. This panic buying will actually cause prices to rise right now! That's why the RBI (MPC) needs to read the public's mind through this survey so they can make the right rules to calm everyone down."
+    }
+  },
+  {
+    "id": 10,
+    "subject": "Economics",
+    "topic": "Interest Rate Corridor",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "RBI के मौद्रिक नीति गलियारे (Interest Rate Corridor) की निचली सीमा (Floor) और ऊपरी सीमा (Ceiling) क्या निर्धारित करती है?",
+      "en": "What determines the lower limit (Floor) and upper limit (Ceiling) of the RBI's monetary policy corridor?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "क्रमशः SDF दर और MSF दर।",
+        "en": "SDF rate and MSF rate, respectively."
+      },
+      {
+        "id": "B",
+        "hi": "क्रमशः रेपो दर और रिवर्स रेपो दर।",
+        "en": "Repo rate and Reverse Repo rate, respectively."
+      },
+      {
+        "id": "C",
+        "hi": "क्रमशः बैंक दर और CRR।",
+        "en": "Bank rate and CRR, respectively."
+      },
+      {
+        "id": "D",
+        "hi": "केवल रेपो दर।",
+        "en": "Only the Repo rate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "RBI का 'ब्याज दर गलियारा' (Corridor) एक बैंड की तरह है जिसके अंदर बाजार की ब्याज दरें घूमती हैं। 2022 के बाद से, इस गलियारे की सबसे निचली सीमा (Floor) 'स्थायी जमा सुविधा' (SDF) दर बन गई है (जहाँ बैंक पैसा जमा करते हैं), और सबसे ऊपरी सीमा (Ceiling) 'सीमांत स्थायी सुविधा' (MSF) दर होती है (जहाँ बैंक आपातकालीन उधार लेते हैं)। रेपो दर इन दोनों के बीच में होती है। अतः विकल्प A सही है।\n\nसरल भाषा में: 'गलियारा' (कॉरिडोर) मतलब एक रास्ता जिसकी एक फर्श (निचली सीमा) है और एक छत (ऊपरी सीमा) है। बैंकों की ब्याज दरें इसी कमरे के अंदर ऊपर-नीचे होती हैं। कमरे की फर्श (सबसे कम ब्याज) SDF रेट है, जो बैंक को पैसा जमा करने पर मिलता है। कमरे की छत (सबसे ज्यादा ब्याज) MSF रेट है, जो बैंक को इमरजेंसी में लोन लेने पर चुकाना पड़ता है। इसलिए फर्श और छत SDF और MSF से बनते हैं।",
+      "en": "The RBI's Interest Rate Corridor is the band within which short-term money market interest rates fluctuate. Since 2022, the strict floor (lowest limit) of this corridor is the Standing Deposit Facility (SDF) rate, while the ceiling (highest limit) is the Marginal Standing Facility (MSF) rate. The standard Repo rate sits in the middle. Therefore, option A is correct.\n\nIn simple terms: A 'corridor' is like a room with a floor and a ceiling. The banks' interest rates bounce around inside this room. The floor (the lowest interest rate) is the SDF rate, which banks get for parking extra cash. The ceiling (the highest interest rate) is the MSF rate, which is the heavy penalty rate banks pay for emergency loans. So, the floor and ceiling are made of SDF and MSF."
+    }
+  },
+  {
+    "id": 11,
+    "subject": "Economics",
+    "topic": "External Benchmark Lending Rate (EBLR)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "RBI ने बैंकों के लिए यह अनिवार्य किया है कि वे अपने फ्लोटिंग रेट वाले खुदरा ऋणों (Retail loans) को एक बाह्य बेंचमार्क (जैसे रेपो दर) से जोड़ें।",
+        "en": "The RBI has mandated banks to link their floating rate retail loans to an external benchmark (like the repo rate)."
+      },
+      {
+        "hi": "EBLR का मुख्य उद्देश्य मौद्रिक नीति के निर्णयों (जैसे रेपो दर में बदलाव) का ग्राहकों तक तेजी से संचरण (Transmission) सुनिश्चित करना है।",
+        "en": "The main objective of EBLR is to ensure faster transmission of monetary policy decisions (like changes in the repo rate) to customers."
+      },
+      {
+        "hi": "EBLR के तहत बैंकों को अपनी 'निधि की सीमांत लागत' (MCLR) को पूरी तरह से समाप्त करना होगा।",
+        "en": "Under EBLR, banks will have to completely abolish their 'Marginal Cost of Funds based Lending Rate' (MCLR)."
+      }
+    ],
+    "question": {
+      "hi": "EBLR (बाह्य बेंचमार्क ऋण दर) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the EBLR (External Benchmark Lending Rate):"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "EBLR व्यवस्था के तहत, RBI ने बैंकों के लिए होम लोन या कार लोन जैसे खुदरा ऋणों को बाहरी बेंचमार्क (जैसे रेपो दर) से जोड़ना अनिवार्य कर दिया है (कथन 1 सही)। ऐसा इसलिए किया गया ताकि जब RBI ब्याज घटाए, तो आम आदमी की EMI तुरंत कम हो जाए (कथन 2 सही)। लेकिन पुरानी व्यवस्था (MCLR) को पूरी तरह से कूड़ेदान में नहीं डाला गया है; यह अभी भी कॉर्पोरेट या व्यापारिक ऋणों के लिए इस्तेमाल हो रही है (कथन 3 गलत है)। इसलिए केवल 1 और 2 सही हैं।\n\nसरल भाषा में: पहले बैंक चालाकी करते थे। जब RBI लोन सस्ता करता था, तो बैंक ग्राहकों के लिए लोन सस्ता नहीं करते थे। इसलिए RBI ने 'EBLR' का नियम बनाया, जिसके तहत होम/कार लोन सीधे RBI के रेपो रेट से बंध गए (कथन 1 और 2 सही)। अब RBI रेट गिराएगा तो आपकी EMI खुद-ब-खुद गिर जाएगी। लेकिन पुरानी व्यवस्था (MCLR) पूरी तरह खत्म नहीं हुई है, बैंक आज भी बड़ी कंपनियों को लोन देने के लिए उसी का इस्तेमाल करते हैं (इसलिए कथन 3 गलत है)।",
+      "en": "Under EBLR, the RBI forced banks to link all floating-rate retail loans (home, auto) and MSME loans directly to an external rate, usually the RBI's repo rate (Statement 1 is correct). The goal is transparent and immediate transmission—when RBI cuts rates, your EMI must drop instantly (Statement 2 is correct). However, the older MCLR system has not been entirely abolished; it is still actively used for pricing older loans and many large corporate loans. Thus, statement 3 is wrong.\n\nIn simple terms: In the past, when the RBI made loans cheaper, greedy banks wouldn't pass the discount to you. So, the RBI created EBLR. Now, your home loan is directly tied to the RBI's rate with a fixed formula. If the RBI drops the rate, your EMI drops instantly (Statements 1 & 2 are right). But the old system (MCLR) isn't totally dead; banks still use it when giving massive loans to giant factories (so Statement 3 is wrong)."
+    }
+  },
+  {
+    "id": 12,
+    "subject": "Economics",
+    "topic": "Liquidity Adjustment Facility (LAF) Corridor",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "गलियारे की ऊपरी सीमा 'सीमांत स्थायी सुविधा' (MSF) दर है।",
+        "en": "The upper limit of the corridor is the 'Marginal Standing Facility' (MSF) rate."
+      },
+      {
+        "hi": "गलियारे की निचली सीमा 'स्थायी जमा सुविधा' (SDF) दर है।",
+        "en": "The lower limit of the corridor is the 'Standing Deposit Facility' (SDF) rate."
+      },
+      {
+        "hi": "रेपो दर (Repo Rate) हमेशा इस गलियारे के बिल्कुल केंद्र में होती है।",
+        "en": "The Repo Rate is always exactly in the center of this corridor."
+      }
+    ],
+    "question": {
+      "hi": "मौद्रिक नीति गलियारे (LAF Corridor) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the monetary policy corridor (LAF Corridor):"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "LAF गलियारे (Corridor) की छत (सबसे ऊंची दर) MSF होती है और फर्श (सबसे निचली दर) SDF होती है (कथन 1 और 2 सही हैं)। रेपो दर इन दोनों के बीच में रहती है, लेकिन यह 'हमेशा बिल्कुल केंद्र' (Exact center) में हो, ऐसा कोई सख्त नियम नहीं है। RBI अपनी नीति के अनुसार गलियारे को 'असममित' (Asymmetric) भी बना सकता है। अतः कथन 3 गलत है।\n\nसरल भाषा में: ब्याज दरों के लिए RBI ने एक कमरा बनाया है। इस कमरे की छत MSF है (सबसे महंगा लोन) और फर्श SDF है (सबसे कम ब्याज) (कथन 1 और 2 सही)। आम तौर पर रेपो रेट (रेगुलर ब्याज दर) इस कमरे के बीच में हवा में लटकती है। लेकिन यह जरूरी नहीं कि वह हमेशा नाप-तौल कर बिल्कुल बीचों-बीच ही लटके, वह छत या फर्श के थोड़ा करीब भी हो सकती है। इसलिए यह कहना गलत है कि वह 'हमेशा' बिल्कुल सेंटर में होती है (कथन 3 गलत)।",
+      "en": "The LAF Corridor has MSF as its ceiling and SDF as its floor (Statements 1 and 2 are true). While the Repo rate sits inside this corridor, there is no rigid rule stating it must be in the 'exact mathematical center'. The RBI can choose to operate an asymmetric corridor where the gap between SDF and Repo is different from the gap between Repo and MSF. Thus, statement 3 is incorrect.\n\nIn simple terms: The RBI has a 'room' for interest rates. The ceiling of the room is the MSF rate (most expensive penalty), and the floor is the SDF rate (lowest reward) (Statements 1 & 2 are correct). The normal Repo rate floats inside this room. Usually, it's near the middle, but it is NOT forced by law to be exactly, perfectly in the dead center. The RBI can shift it slightly up or down if needed (so Statement 3 is wrong)."
+    }
+  },
+  {
+    "id": 13,
+    "subject": "Economics",
+    "topic": "Monetary Policy Tools",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "साख की राशनिंग (Rationing of Credit)",
+        "en": "Rationing of Credit"
+      },
+      {
+        "hi": "प्रत्यक्ष कार्रवाई (Direct Action)",
+        "en": "Direct Action"
+      },
+      {
+        "hi": "खुले बाजार की क्रियाएं (OMO)",
+        "en": "Open Market Operations (OMO)"
+      },
+      {
+        "hi": "नैतिक अनुनय (Moral Suasion)",
+        "en": "Moral Suasion"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन से 'गुणात्मक उपकरण' (Qualitative Instruments) हैं?",
+      "en": "Which of the following are 'Qualitative Instruments'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2, and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3, and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 2 और 4",
+        "en": "1, 2, and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3, and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "RBI के पास दो प्रकार के हथियार होते हैं: मात्रात्मक (जो पैसे की कुल मात्रा बदलते हैं) और गुणात्मक (जो पैसे की दिशा बदलते हैं)। साख की राशनिंग (लोन की लिमिट तय करना), प्रत्यक्ष कार्रवाई (बैंकों को सजा देना), और नैतिक अनुनय (बैंकों को प्यार से समझाना) गुणात्मक उपकरण हैं (1, 2 और 4 सही)। लेकिन 'खुले बाजार की क्रियाएं' (OMO) बाजार में बांड बेचकर नकदी की कुल मात्रा को सीधे कम या ज्यादा करती है, इसलिए यह एक 'मात्रात्मक' (Quantitative) उपकरण है, गुणात्मक नहीं (3 गलत है)। इसलिए सही विकल्प C है।\n\nसरल भाषा में: RBI के पास दो तरह के चाबुक हैं। एक है 'मात्रात्मक', जिससे पूरे देश का पैसा एक साथ कम या ज्यादा हो जाता है (जैसे OMO, जहाँ RBI कागज बेचकर करोड़ों रुपये सोख लेता है)। दूसरा है 'गुणात्मक', जिससे RBI तय करता है कि पैसा किस तरफ जाएगा। जैसे, बैंकों को समझाना कि किसानों को ज्यादा लोन दो (नैतिक अनुनय), या किसी एक बैंक पर फाइन लगा देना (प्रत्यक्ष कार्रवाई)। चूंकि OMO से पूरे देश का पैसा बदलता है, वह मात्रात्मक है (इसलिए 3 गलत है)। 1, 2, और 4 गुणात्मक हैं।",
+      "en": "The RBI uses two types of tools: Quantitative (to control the total volume of money) and Qualitative (to direct where the money goes). Rationing of credit, direct penal action on banks, and moral suasion (advising banks) are Qualitative tools (1, 2, and 4 are correct). However, Open Market Operations (OMO) involves buying/selling government bonds to inject or suck out massive amounts of total cash from the system, making it a classic 'Quantitative' tool, not qualitative (3 is wrong). Therefore, option C is correct.\n\nIn simple terms: The RBI has two styles of controlling banks. 'Quantitative' is a giant lever that increases or decreases the total cash in the whole country (like OMO, where RBI buys bonds to flood the market with cash). 'Qualitative' is like a steering wheel, guiding which specific people get loans. Rationing loans, punishing naughty banks, or politely advising banks are steering wheel (Qualitative) tools (1, 2, and 4 are right). OMO is a giant volume lever, so it is not qualitative (3 is wrong)."
+    }
+  },
+  {
+    "id": 14,
+    "subject": "Economics",
+    "topic": "Neutral Rate of Interest",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "यह वह ब्याज दर है जिस पर अर्थव्यवस्था अपनी पूर्ण क्षमता (Full Potential) पर कार्य करती है और मुद्रास्फीति स्थिर रहती है।",
+        "en": "It is the interest rate at which the economy operates at its full potential and inflation remains stable."
+      },
+      {
+        "hi": "यदि वास्तविक ब्याज दर तटस्थ दर से अधिक है, तो मौद्रिक नीति संकुचनकारी (Contractionary) है।",
+        "en": "If the real interest rate is higher than the neutral rate, the monetary policy is contractionary."
+      },
+      {
+        "hi": "यदि वास्तविक ब्याज दर तटस्थ दर से कम है, तो मौद्रिक नीति तटस्थ (Neutral) है।",
+        "en": "If the real interest rate is lower than the neutral rate, the monetary policy is neutral."
+      }
+    ],
+    "question": {
+      "hi": "'तटस्थ ब्याज दर' (Neutral Rate of Interest) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the 'Neutral Rate of Interest':"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "तटस्थ ब्याज दर वह जादुई संतुलन बिंदु है जहाँ अर्थव्यवस्था बिना महंगाई बढ़ाए अपनी पूरी रफ्तार से दौड़ती है (कथन 1 सही)। यदि बाजार में असल ब्याज दर इस तटस्थ दर से 'अधिक' है, तो इसका मतलब है कि पैसे पर ब्रेक लगा हुआ है और नीति 'संकुचनकारी' है (कथन 2 सही)। लेकिन यदि वास्तविक ब्याज दर तटस्थ दर से 'कम' हो जाती है, तो पैसा बहुत सस्ता हो जाता है, जिससे अर्थव्यवस्था तेजी से भागती है। इसे 'विस्तारवादी' (Expansionary) नीति कहते हैं, 'तटस्थ' नहीं। अतः कथन 3 गलत है।\n\nसरल भाषा में: 'तटस्थ' (न्यूट्रल) का मतलब है गाड़ी का वह गियर जिसमें न तो गाड़ी बहुत तेज भागकर एक्सीडेंट (महंगाई) करे, और न ही रुक कर बंद (मंदी) हो जाए (कथन 1 सही)। अगर RBI ब्याज दर को इस न्यूट्रल गियर से 'ऊपर' (महंगा) कर दे, तो गाड़ी धीमी हो जाएगी (संकुचनकारी) (कथन 2 सही)। लेकिन अगर ब्याज दर को न्यूट्रल से 'नीचे' (सस्ता) कर दे, तो गाड़ी हवा से बातें करने लगेगी (विस्तारवादी)। इसे न्यूट्रल नहीं कहेंगे! (इसलिए कथन 3 गलत है)।",
+      "en": "The neutral rate of interest is the theoretical goldilocks rate where the economy is at full employment with stable inflation—it neither stimulates nor restricts growth (Statement 1 is correct). If the actual real interest rate is pushed 'higher' than this neutral rate, borrowing becomes too expensive, meaning the policy is 'contractionary' (slowing the economy) (Statement 2 is correct). If the real rate drops 'below' the neutral rate, borrowing becomes extremely cheap, making the policy 'expansionary' (stimulating the economy), NOT neutral. Thus, statement 3 is wrong.\n\nIn simple terms: The 'neutral rate' is the perfect driving speed. You are going fast enough to reach your destination, but not so fast that your engine overheats (inflation) (Statement 1 is right). If the RBI sets the interest rate 'higher' than this perfect speed, it's like slamming the brakes (contractionary) (Statement 2 is right). If the RBI sets the interest rate 'lower' than this perfect speed, it's like pressing the accelerator to the floor (expansionary). It is definitely not 'neutral' anymore! (So statement 3 is wrong)."
+    }
+  },
+  {
+    "id": 15,
+    "subject": "Economics",
+    "topic": "Real Interest Rate",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "नाममात्र ब्याज दर (Nominal Interest Rate) स्थिर रहने पर वास्तविक ब्याज दर घट जाती है।",
+        "en": "If the nominal interest rate remains constant, the real interest rate decreases."
+      },
+      {
+        "hi": "निवेशकों को अपनी परिसंपत्तियों पर मिलने वाले रिटर्न की क्रय शक्ति कम हो जाती है।",
+        "en": "The purchasing power of the returns investors receive on their assets decreases."
+      },
+      {
+        "hi": "इसे 'फिशर प्रभाव' (Fisher Effect) के रूप में जाना जाता है।",
+        "en": "This is known as the 'Fisher Effect'."
+      }
+    ],
+    "question": {
+      "hi": "'वास्तविक ब्याज दर' (Real Interest Rate) के संदर्भ में यदि मुद्रास्फीति की दर बढ़ती है, तो:",
+      "en": "In the context of the 'Real Interest Rate', if the rate of inflation increases, then:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "वास्तविक ब्याज दर निकालने का सूत्र है: (नाममात्र ब्याज दर - मुद्रास्फीति दर)। यदि बैंक आपको 10% ब्याज (नाममात्र) दे रहा है और महंगाई 6% बढ़ गई, तो आपकी असली कमाई (वास्तविक ब्याज दर) केवल 4% रह गई। महंगाई बढ़ने से आपकी कमाई की क्रय शक्ति (खरीदने की ताकत) घट जाती है। अर्थशास्त्री इरविंग फिशर ने बताया था कि महंगाई और ब्याज दरों के बीच एक सीधा संबंध होता है, जिसे 'फिशर प्रभाव' कहते हैं। इसलिए तीनों कथन पूरी तरह सही हैं।\n\nसरल भाषा में: मान लीजिए बैंक आपको FD पर 100 रुपये ब्याज देता है (नाममात्र ब्याज)। लेकिन उसी साल बाजार में चीजों के दाम 60 रुपये बढ़ गए (महंगाई)। तो असल में आपको सिर्फ 40 रुपये का ही फायदा हुआ (वास्तविक ब्याज)। अगर महंगाई और बढ़ जाए, तो आपका असली फायदा और कम हो जाएगा (कथन 1 सही)। अब उस 100 रुपये के ब्याज से आप बाजार से कम सामान खरीद पाएंगे (क्रय शक्ति कम होना) (कथन 2 सही)। अर्थशास्त्र की दुनिया में महंगाई और ब्याज के इस खेल को 'फिशर इफेक्ट' नाम दिया गया है (कथन 3 सही)।",
+      "en": "The formula for the real interest rate is: Nominal Interest Rate minus Inflation. If the nominal rate stays the same but inflation spikes, mathematically, your real interest rate drops (Statement 1 is right). High inflation eats away the value of money, meaning the profit you earned can now buy fewer goods (loss of purchasing power) (Statement 2 is right). The economic theory describing the relationship between inflation and both real and nominal interest rates is called the Fisher Effect (Statement 3 is right). Thus, all statements are correct.\n\nIn simple terms: Let's say the bank pays you ₹100 interest on your savings (Nominal rate). But this year, inflation made groceries ₹60 more expensive. Your true profit is only ₹40 (Real interest rate). If inflation goes up even more, your true profit shrinks further (Statement 1). Because everything is so expensive, that ₹100 interest buys you much less stuff than it used to (Statement 2). An economist named Fisher was the first to explain this mathematical dance between inflation and interest, so it's called the Fisher Effect (Statement 3)."
+    }
+  },
+  {
+    "id": 16,
+    "subject": "Economics",
+    "topic": "Bank Rate",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "यह वह दर है जिस पर RBI बैंकों को दीर्घकालिक ऋण (Long-term) प्रदान करता है।",
+        "en": "It is the rate at which the RBI provides long-term loans to banks."
+      },
+      {
+        "hi": "बैंक दर में वृद्धि का अर्थ है कि बैंकों को मिलने वाला ऋण अब महंगा हो गया है।",
+        "en": "An increase in the Bank Rate means that the loan available to banks has now become expensive."
+      },
+      {
+        "hi": "वर्तमान में, RBI इसे 'रेपो दर' के साथ ही संयोजित (Align) कर देता है।",
+        "en": "Currently, the RBI aligns it with the 'Repo Rate'."
+      }
+    ],
+    "question": {
+      "hi": "'बैंक दर' (Bank Rate) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the 'Bank Rate':"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "बैंक दर वह दर है जिस पर RBI बैंकों को बिना कोई सिक्योरिटी रखे लंबी अवधि (Long-term) का कर्ज देता है। यदि RBI यह दर बढ़ा दे, तो बैंकों के लिए उधार लेना महंगा हो जाता है, जिससे आम जनता के लिए भी लोन महंगा हो जाता है। वर्तमान में, RBI बैंक दर को MSF के बराबर रखता है, जो सीधे 'रेपो दर' से जुड़ी (Aligned) होती है (जैसे रेपो दर बदलने पर ये भी अपने आप बदल जाती हैं)। सभी कथन सत्य हैं।\n\nसरल भाषा में: 'बैंक रेट' वह ब्याज दर है जो RBI बैंकों से तब वसूलता है जब बैंक लंबी अवधि के लिए पैसे उधार मांगते हैं (कथन 1 सही)। अगर RBI यह ब्याज दर बढ़ा दे, तो बैंकों को महंगा लोन मिलेगा, और बैंक आपसे भी लोन पर ज्यादा ब्याज मांगेंगे (कथन 2 सही)। आज के समय में RBI ने इस 'बैंक रेट' को अपने मुख्य 'रेपो रेट' के साथ एक धागे से बांध दिया है (संयोजित कर दिया है)। अगर रेपो रेट ऊपर जाता है, तो बैंक रेट भी अपने आप ऊपर चला जाता है (कथन 3 सही)।",
+      "en": "The Bank Rate is the standard rate at which the RBI is prepared to buy or rediscount bills of exchange or provide long-term funds to commercial banks without collateral. An increase in the Bank Rate directly increases the cost of borrowing for commercial banks. Currently, the RBI aligns the Bank Rate strictly with the MSF rate, which itself is pegged automatically to the Repo rate (it moves in tandem with the Repo rate). All three statements are correct.\n\nIn simple terms: The Bank Rate is the interest the RBI charges when giving long-term loans to normal banks (Statement 1). If the RBI increases this rate, the banks have to pay more, making loans expensive for everyone (Statement 2). These days, the RBI has tied the Bank Rate directly to the main 'Repo Rate' using a mathematical formula. If the RBI changes the Repo Rate, the Bank Rate automatically changes with it (Statement 3)."
+    }
+  },
+  {
+    "id": 17,
+    "subject": "Economics",
+    "topic": "Monetary Policy Committee (MPC)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "प्रत्येक सदस्य के पास एक वोट होता है।",
+        "en": "Each member has one vote."
+      },
+      {
+        "hi": "किसी प्रस्ताव पर टाई (Tie) होने पर गवर्नर का मत अंतिम होता है।",
+        "en": "In the event of a tie on a proposal, the Governor's vote is final (casting vote)."
+      },
+      {
+        "hi": "MPC के निर्णय सरकार के लिए बाध्यकारी (Binding) होते हैं।",
+        "en": "The decisions of the MPC are binding on the government."
+      }
+    ],
+    "question": {
+      "hi": "MPC (मौद्रिक नीति समिति) के निर्णयों के संबंध में कौन सा कथन सत्य है?",
+      "en": "Which statement is true regarding the decisions of the MPC?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "MPC के 6 सदस्यों में से हर एक के पास अपना एक वोट होता है। वोटिंग बराबर (टाई) होने पर RBI गवर्नर को एक एक्स्ट्रा 'कास्टिंग वोट' मिलता है (कथन 1 और 2 सही)। लेकिन ध्यान दें, MPC के निर्णय 'रिज़र्व बैंक' (RBI) के लिए बाध्यकारी होते हैं (कि उसे क्या ब्याज दर रखनी है), ये निर्णय देश की 'सरकार' पर बाध्यकारी नहीं होते। सरकार अपनी राजकोषीय नीतियां अपनी मर्जी से बनाती है। अतः कथन 3 गलत है।\n\nसरल भाषा में: ब्याज दर तय करने वाली इस समिति में 6 लोग होते हैं, और सबकी बात की एक-एक वोट की कीमत है (कथन 1 सही)। अगर 3-3 से वोट टाई हो जाए, तो ग्रुप का लीडर (RBI गवर्नर) एक आखिरी वोट डालकर फैसला करता है (कथन 2 सही)। लेकिन यह समिति सिर्फ RBI (बैंक) को आदेश दे सकती है कि उसे क्या करना है। यह समिति देश के प्रधानमंत्री या 'सरकार' को आदेश नहीं दे सकती कि उन्हें क्या करना चाहिए। इसलिए यह कहना गलत है कि इसके फैसले सरकार पर लागू (बाध्यकारी) होते हैं (कथन 3 गलत है)।",
+      "en": "In the MPC, all 6 members have one vote each of equal weight. If the vote results in a 3-3 tie, the RBI Governor exercises a second, tie-breaking 'casting vote' (Statements 1 and 2 are true). However, the decisions made by the MPC regarding policy rates are binding only upon the 'Reserve Bank of India' (to execute them). They are absolutely NOT binding on the Central Government, which remains free to pursue its own fiscal policies. Thus, statement 3 is incorrect.\n\nIn simple terms: The 6-member committee votes to decide interest rates. Each person gets one vote (Statement 1). If it's a 3-3 tie, the big boss (RBI Governor) gets to cast one extra magic vote to break the tie (Statement 2). But remember, this committee only controls the RBI. It cannot boss around the Indian Government or force the Prime Minister to do anything. Therefore, its decisions are not binding on the government (Statement 3 is wrong)."
+    }
+  },
+  {
+    "id": 18,
+    "subject": "Economics",
+    "topic": "Cash Reserve Ratio (CRR)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "CRR की राशि बैंकों को अपने ही पास (Vault) रखनी होती है।",
+        "en": "Banks have to keep the CRR amount with themselves (in their vault)."
+      },
+      {
+        "hi": "बैंकों को CRR के बदले RBI से कोई ब्याज (Interest) नहीं मिलता है।",
+        "en": "Banks do not receive any interest from the RBI in exchange for the CRR."
+      },
+      {
+        "hi": "CRR में वृद्धि अर्थव्यवस्था में तरलता (Liquidity) को कम करती है।",
+        "en": "An increase in CRR reduces liquidity in the economy."
+      }
+    ],
+    "question": {
+      "hi": "'नकद आरक्षित अनुपात' (CRR) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the 'Cash Reserve Ratio' (CRR):"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "CRR वह पैसा है जो हर बैंक को सुरक्षा के तौर पर 'RBI के पास' जमा करना ही पड़ता है। वे इसे अपनी ही तिजोरी (Vault) में नहीं रख सकते (इसलिए कथन 1 गलत है)। RBI इस पैसे पर बैंकों को 0% ब्याज देता है, यानी कोई ब्याज नहीं मिलता (कथन 2 सही)। जब बैंक अपना पैसा RBI को दे देते हैं, तो उनके पास ग्राहकों को लोन देने के लिए पैसा कम बचता है, जिससे पूरे बाजार में नकदी (तरलता) कम हो जाती है (कथन 3 सही)।\n\nसरल भाषा में: CRR एक तरह का सिक्योरिटी डिपॉजिट है। नियम है कि बैंकों को अपने पास आए पैसों का कुछ हिस्सा RBI (बड़े बॉस) की तिजोरी में जमा कराना होता है, वे इसे अपनी दुकान के गल्ले में नहीं रख सकते (इसलिए कथन 1 गलत है)। RBI इस सिक्योरिटी मनी पर बैंकों को ठेंगा (कोई ब्याज नहीं) दिखाता है (कथन 2 सही)। और जब बैंकों का पैसा RBI के पास ब्लॉक हो जाता है, तो उनके पास आम लोगों को लोन बांटने के लिए पैसा कम पड़ता है, जिससे बाजार में पैसों का सूखा (तरलता में कमी) आ जाता है (कथन 3 सही)।",
+      "en": "CRR is the mandatory percentage of total deposits that commercial banks must park strictly 'with the RBI' in cash form. They cannot keep it in their own branch vaults (unlike SLR cash) (Thus, Statement 1 is false). The RBI pays exactly zero interest on these CRR balances (Statement 2 is true). When CRR is increased, banks are forced to lock away more cash with the RBI, leaving them with less money to lend, which immediately sucks out liquidity from the economy (Statement 3 is true).\n\nIn simple terms: CRR is a security deposit. Banks MUST take a chunk of their cash and lock it inside the RBI's safe, not their own safe (so Statement 1 is wrong). The RBI does not pay the banks a single rupee of interest for keeping this money (Statement 2 is right). Because a large chunk of the bank's cash is locked away in the RBI's safe, the bank has less money to give out as loans to you and me. This means less cash is floating around in the market (Statement 3 is right)."
+    }
+  },
+  {
+    "id": 19,
+    "subject": "Economics",
+    "topic": "Sterilization",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "यह प्रक्रिया RBI द्वारा विदेशी मुद्रा के भारी अंतर्वाह (Inflow) के प्रभाव को रोकने के लिए की जाती है।",
+        "en": "This process is done by the RBI to counter the impact of a massive inflow of foreign currency."
+      },
+      {
+        "hi": "इसमें RBI सरकारी प्रतिभूतियों को बेचकर बाजार से अतिरिक्त नकदी (Liquidity) खींच लेता है।",
+        "en": "In this, the RBI sells government securities to suck out excess cash (liquidity) from the market."
+      },
+      {
+        "hi": "यह नीति विनिमय दर (Exchange Rate) में अत्यधिक अस्थिरता को कम करने में मदद करती है।",
+        "en": "This policy helps in reducing excessive volatility in the exchange rate."
+      }
+    ],
+    "question": {
+      "hi": "स्टेरलाइजेशन (Sterilization) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding Sterilization:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "जब भारत में अचानक बहुत सारा विदेशी डॉलर आ जाता है, तो RBI उसे खरीदकर रुपये जारी करता है। इससे बाजार में रुपयों की बाढ़ आ जाती है। इस बाढ़ को रोकने के लिए RBI बाजार में सरकारी बांड (कागज) बेचता है और वह अतिरिक्त रुपया वापस सोख लेता है। इस पूरी सफाई प्रक्रिया को 'स्टेरलाइजेशन' कहते हैं। इससे डॉलर-रुपये का भाव (विनिमय दर) स्थिर रहता है और बाजार में महंगाई भी नहीं बढ़ती। अतः तीनों कथन बिल्कुल सही हैं।\n\nसरल भाषा में: मान लीजिए विदेशी निवेशक अचानक बहुत सारा डॉलर लेकर भारत आएं। RBI उनसे डॉलर ले लेगा और उन्हें भारतीय रुपया दे देगा। अब बाजार में बहुत सारा नया रुपया आ जाएगा, जिससे महंगाई बढ़ सकती है (कथन 1)। इस महंगाई (कचरे) को साफ करने के लिए RBI लोगों को सरकारी बांड (एक तरह की रसीद) बेचेगा और बदले में वो एक्स्ट्रा रुपया वापस अपनी तिजोरी में डाल लेगा (कथन 2)। इस तरह बाजार साफ (Sterilized) हो जाता है और डॉलर व रुपये का रेट भी नहीं बिगड़ता (कथन 3)।",
+      "en": "When huge amounts of foreign dollars flow into India, the RBI buys them and injects Rupees into the system. To prevent this newly injected cash from causing massive inflation, the RBI immediately conducts Open Market Operations by selling Government Bonds. This sucks the excess Rupees back out of the banking system. This precise neutralizing action is called 'Sterilization'. It keeps the domestic money supply stable and prevents the Rupee's exchange rate from jumping too wildly. All statements are entirely correct.\n\nIn simple terms: Imagine foreign investors dump a billion Dollars into India. The RBI exchanges those Dollars and hands out billions of Rupees. Suddenly, the market is flooded with Rupees, which can cause terrible inflation (Statement 1). To clean up this mess, the RBI sells pieces of paper (Government Bonds) to the banks. The banks hand over their Rupees to buy these bonds, and the RBI locks those Rupees away. This 'cleans up' or 'sterilizes' the extra cash from the market (Statement 2). Doing this stops the value of the Rupee from going crazy (Statement 3)."
+    }
+  },
+  {
+    "id": 20,
+    "subject": "Economics",
+    "topic": "Primary Mandate of Monetary Policy",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "आर्थिक विकास (Economic Growth) का समर्थन करना।",
+        "en": "To support Economic Growth."
+      },
+      {
+        "hi": "मुद्रास्फीति लक्ष्य (Inflation Targeting) को बनाए रखना।",
+        "en": "To maintain the Inflation Target."
+      },
+      {
+        "hi": "विनिमय दर (Exchange Rate) को एक निश्चित स्तर पर स्थिर रखना।",
+        "en": "To keep the exchange rate strictly fixed at a certain level."
+      }
+    ],
+    "question": {
+      "hi": "RBI अधिनियम, 1934 (संशोधित) के अनुसार मौद्रिक नीति का प्राथमिक लक्ष्य क्या है?",
+      "en": "According to the RBI Act, 1934 (amended), what is the primary goal of monetary policy?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कानून (RBI अधिनियम) के अनुसार, मौद्रिक नीति का मुख्य और प्राथमिक लक्ष्य 'विकास को ध्यान में रखते हुए मूल्य स्थिरता (मुद्रास्फीति) बनाए रखना' है। इसका मतलब है महंगाई को रोकना और आर्थिक विकास में मदद करना (कथन 1 और 2 सही)। हालांकि RBI रुपये की कीमत (विनिमय दर) को बहुत ज्यादा गिरने से रोकता है, लेकिन विनिमय दर को किसी एक जगह पर 'फिक्स' (स्थिर) रखना मौद्रिक नीति का प्राथमिक कानूनी लक्ष्य नहीं है। अतः कथन 3 गलत है।\n\nसरल भाषा में: कानून के हिसाब से RBI का सबसे पहला काम है देश में महंगाई को काबू में रखना (4% के आसपास) और यह देखना कि फैक्ट्रियां चलती रहें (देश का विकास हो)। इसलिए कथन 1 और 2 सही हैं। डॉलर के मुकाबले रुपये का भाव ऊपर-नीचे होता रहता है। RBI इस भाव को बाजार पर छोड़ देता है, वह जिद्दी होकर किसी एक रेट पर उसे बांधकर (फिक्स करके) नहीं रखता। इसलिए कथन 3 गलत है।",
+      "en": "According to the amended RBI Act, 1934, the primary statutory mandate of the RBI's monetary policy is to maintain price stability (Inflation Targeting) while keeping in mind the objective of economic growth. Thus, Statements 1 and 2 are true. While the RBI intervenes in the forex market to prevent extreme volatility, it does not target a 'fixed' or pegged exchange rate level. The exchange rate is market-determined. Thus, statement 3 is incorrect.\n\nIn simple terms: The law gives the RBI two main jobs: Stop inflation from getting too high, and make sure the country's economy keeps growing (Statements 1 & 2 are correct). The price of a Dollar goes up and down every day based on the market. The RBI watches it, but it does NOT have a strict rule to freeze the Dollar rate at exactly ₹80 forever. The exchange rate is allowed to move. So, statement 3 is wrong."
+    }
+  },
+  {
+    "id": 21,
+    "subject": "Economics",
+    "topic": "Liquidity Adjustment Facility (LAF)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "LAF का उपयोग बैंकों को उनकी दैनिक नकदी आवश्यकताओं (Day-to-day liquidity) को पूरा करने में मदद करने के लिए किया जाता है।",
+        "en": "LAF is used to help banks meet their day-to-day liquidity requirements."
+      },
+      {
+        "hi": "इसमें रेपो दर (Repo Rate) और रिवर्स रेपो दर (Reverse Repo Rate) प्रमुख उपकरण हैं।",
+        "en": "The Repo Rate and Reverse Repo Rate are its primary tools."
+      },
+      {
+        "hi": "LAF का उद्देश्य सीधे मुद्रास्फीति को लक्षित (Inflation Targeting) करना नहीं, बल्कि बैंकिंग प्रणाली में तरलता के प्रवाह को व्यवस्थित करना है।",
+        "en": "The objective of LAF is not direct Inflation Targeting, but to manage the flow of liquidity in the banking system."
+      }
+    ],
+    "question": {
+      "hi": "'तरलता समायोजन सुविधा' (Liquidity Adjustment Facility - LAF) के अंतर्गत निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements under the 'Liquidity Adjustment Facility' (LAF):"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "LAF (तरलता समायोजन सुविधा) RBI का वह टूल है जिससे बैंक अपनी रोजमर्रा की पैसों की कमी को पूरा करते हैं (उधार लेते हैं) या अतिरिक्त पैसा जमा करते हैं। इसके दो मुख्य हथियार 'रेपो रेट' (लोन लेना) और 'रिवर्स रेपो/SDF' (पैसा जमा करना) हैं। इसका रोज़ का काम सिर्फ बैंकों में कैश की मात्रा (तरलता) को सेट करना है, यह सीधे तौर पर महंगाई कम करने का बटन नहीं है (यद्यपि परोक्ष रूप से मदद करता है)। अतः तीनों कथन सही हैं।\n\nसरल भाषा में: हर दिन शाम को किसी बैंक के पास पैसे खत्म हो जाते हैं, तो किसी बैंक के पास बहुत ज्यादा पैसे बच जाते हैं। इस रोज़-रोज़ की समस्या को सुलझाने के लिए RBI ने 'LAF' नाम की एक खिड़की खोली है (कथन 1 सही)। इस खिड़की पर दो बोर्ड लगे हैं: एक 'रेपो रेट' (पैसे उधार लो) और दूसरा 'रिवर्स रेपो' (एक्स्ट्रा पैसे जमा करो) (कथन 2 सही)। इस खिड़की का काम सिर्फ कैश को मैनेज करना है, यह खिड़की सीधे महंगाई कम करने के लिए नहीं बनाई गई है (कथन 3 सही)।",
+      "en": "LAF (Liquidity Adjustment Facility) is RBI's tool through which banks fulfill their day-to-day shortage of money (borrow) or deposit excess money. Its two main weapons are 'Repo Rate' (borrowing loan) and 'Reverse Repo/SDF' (depositing money). Its daily work is only to adjust the quantity of cash (liquidity) in banks, it is not directly the button to reduce inflation (although it helps indirectly). Therefore, all three statements are correct. In simple language: Every day in the evening, some banks run out of money, while some banks are left with too much money. To solve this daily problem, RBI has opened a window named 'LAF' (Statement 1 is correct). This window has two boards: one 'Repo Rate' (borrow money) and the other 'Reverse Repo' (deposit extra money) (Statement 2 is correct). The job of this window is only to manage cash, this window is not directly made to reduce inflation (Statement 3 is correct)."
+    }
+  },
+  {
+    "id": 22,
+       "subject": "Economics",
+       "topic": "Monetary Policy Committee (MPC)",
+       "difficulty": "Medium",
+       "type": "mcq",
+       "passage": null,
+       "statements": null,
+       "question": {
+          "hi": "यदि MPC (मौद्रिक नीति समिति) में सदस्यों के बीच किसी प्रस्ताव पर मतभेद होता है और पक्ष-विपक्ष में समान मत प्राप्त होते हैं, तो निम्नलिखित में से कौन सा कथन सही है?",
+          "en": "If there is a difference of opinion among members in the MPC on a proposal and there is a tie in votes, which of the following statements is correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "प्रस्ताव स्वतः रद्द हो जाता है।",
+        "en": "The proposal gets cancelled automatically."
+      },
+      {
+        "id": "B",
+        "hi": "RBI के गवर्नर को निर्णायक मत (Casting Vote) देने का अधिकार है।",
+        "en": "The RBI Governor has the right to cast a 'Casting Vote'."
+      },
+      {
+        "id": "C",
+        "hi": "वित्त मंत्रालय का प्रतिनिधि निर्णायक मत देता है।",
+        "en": "The representative of the Finance Ministry casts the deciding vote."
+      },
+      {
+        "id": "D",
+        "hi": "प्रस्ताव को अगले सत्र के लिए स्थगित कर दिया जाता है।",
+        "en": "The proposal is postponed to the next session."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "MPC में 6 सदस्य होते हैं। अगर किसी फैसले पर 3 लोग 'हाँ' और 3 लोग 'ना' कहते हैं (टाई हो जाता है), तो RBI के गवर्नर को एक अतिरिक्त 'निर्णायक मत' (Casting Vote) देने का अधिकार मिलता है जिससे फैसला हो सके। इसलिए B सही है। प्रस्ताव अपने आप रद्द या स्थगित नहीं होता (A और D गलत हैं) और वित्त मंत्रालय का इसमें कोई सीधा वोट नहीं होता (C गलत है)। \n\nसरल भाषा में: मान लीजिए 6 दोस्तों को तय करना है कि पिज्जा खाना है या बर्गर। 3 ने पिज्जा बोला, 3 ने बर्गर (मैच टाई)। ऐसे में ग्रुप का लीडर (RBI गवर्नर) एक और वोट डाल सकता है ताकि फैसला हो सके। इसे ही 'कास्टिंग वोट' कहते हैं।",
+      "en": "The MPC has 6 members. If there is a 3-3 tie on a decision, the RBI Governor gets an extra 'Casting Vote' to break the tie. Therefore, B is correct. The proposal isn't automatically cancelled or postponed (A and D are wrong), and the Finance Ministry does not cast a vote (C is wrong).\n\nIn simple terms: Imagine 6 friends deciding between pizza and burgers. 3 say pizza, 3 say burger (a tie). In this case, the group leader (RBI Governor) gets to cast one extra magical vote to break the tie and make the final decision. This is called a casting vote."
+    }
+  },
+  {
+    "id": 23,
+    "subject": "Economics",
+    "topic": "Flexible Inflation Targeting",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "'लचीला मुद्रास्फीति लक्ष्यीकरण' (Flexible Inflation Targeting) के अंतर्गत यदि RBI लगातार तीन तिमाहियों तक लक्ष्य (4% ± 2%) को प्राप्त करने में विफल रहता है, तो उसे सरकार को क्या प्रस्तुत करना होता है?",
+      "en": "Under 'Flexible Inflation Targeting', if the RBI fails to achieve the target (4% ± 2%) for three consecutive quarters, what must it submit to the government?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इस्तीफे का प्रस्ताव।",
+        "en": "A proposal for resignation."
+      },
+      {
+        "id": "B",
+        "hi": "ब्याज दरें 2% बढ़ाने का प्रस्ताव।",
+        "en": "A proposal to increase interest rates by 2%."
+      },
+      {
+        "id": "C",
+        "hi": "विफलता के कारण, प्रस्तावित उपचारात्मक उपाय और अपेक्षित समय-सीमा के साथ एक रिपोर्ट।",
+        "en": "A report with reasons for failure, proposed remedial actions, and an estimated timeline."
+      },
+      {
+        "id": "D",
+        "hi": "केवल RBI के आंतरिक ऑडिट की रिपोर्ट।",
+        "en": "Only the RBI's internal audit report."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कानून के अनुसार, RBI का काम महंगाई को 2% से 6% के बीच रखना है। अगर महंगाई लगातार 9 महीने (3 तिमाही) तक इस सीमा से बाहर रहती है, तो RBI को सरकार को एक लिखित रिपोर्ट देनी होती है। इसमें बताना होता है कि महंगाई क्यों बढ़ी और वे इसे कैसे और कब तक ठीक करेंगे (विकल्प C सही है)। गवर्नर को इस्तीफा नहीं देना होता या ब्याज दर मनमाने ढंग से नहीं बढ़ानी होती (A, B, D गलत हैं)।\n\nसरल भाषा में: RBI देश का 'मॉनिटर' है और उसे महंगाई को कंट्रोल में रखने का काम दिया गया है। अगर मॉनिटर 9 महीने तक अपना काम ठीक से नहीं कर पाता (महंगाई बहुत ज्यादा या बहुत कम हो जाती है), तो उसे प्रिंसिपल (सरकार) को एक 'माफीनामा और प्लान' (रिपोर्ट) लिखकर देना पड़ता है कि गलती क्यों हुई और वह इसे कितने दिनों में सुधारेगा।",
+      "en": "By law, RBI must keep inflation between 2% and 6%. If inflation breaches this limit for 3 consecutive quarters (9 months), RBI must submit a formal report to the government explaining the reasons for the failure and a clear plan/timeline to fix it (C is correct). They don't resign or blindly hike rates (A, B, D are wrong).\n\nIn simple terms: The RBI is the class monitor given the job to keep inflation in check. If the monitor fails for 9 straight months, they must write a detailed letter to the Principal (the Government) explaining why things went wrong, how they plan to fix the mess, and how much time they need."
+    }
+  },
+  {
+    "id": 24,
+    "subject": "Economics",
+    "topic": "SDF vs Reverse Repo",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "'स्थायी जमा सुविधा' (Standing Deposit Facility - SDF) के संदर्भ में कौन सा कथन 'असत्य' (False) है?",
+      "en": "Which statement is 'false' regarding the 'Standing Deposit Facility' (SDF)?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "यह RBI द्वारा तरलता अवशोषित करने का एक साधन है।",
+        "en": "It is a tool for the RBI to absorb liquidity."
+      },
+      {
+        "id": "B",
+        "hi": "इसके लिए बैंकों को RBI के पास सरकारी प्रतिभूतियां गिरवी रखने की आवश्यकता नहीं होती है।",
+        "en": "Banks are not required to pledge government securities with the RBI for this."
+      },
+      {
+        "id": "C",
+        "hi": "SDF दर हमेशा रेपो दर से अधिक होती है।",
+        "en": "The SDF rate is always higher than the Repo rate."
+      },
+      {
+        "id": "D",
+        "hi": "इसे 2022 में तरलता प्रबंधन के लिए एक स्थायी उपकरण बनाया गया।",
+        "en": "It was made a permanent tool for liquidity management in 2022."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "SDF वह ब्याज दर है जो RBI बैंकों को अपना अतिरिक्त पैसा जमा करने पर देता है। रेपो दर वह ब्याज है जो RBI उधार देने पर लेता है। चूंकि उधार लेने का ब्याज हमेशा पैसा जमा करने के ब्याज से ज्यादा होता है, इसलिए SDF दर रेपो दर से 'कम' होती है, अधिक नहीं। इसलिए कथन C 'असत्य' है और यही सही उत्तर है। बाकी सभी कथन (A, B, D) SDF के बारे में बिल्कुल सच हैं।\n\nसरल भाषा में: अगर आप बैंक से लोन लेंगे (रेपो), तो बैंक आपसे ज्यादा ब्याज लेगा। लेकिन अगर आप अपना पैसा बैंक में जमा करेंगे (SDF), तो बैंक आपको कम ब्याज देगा। RBI के साथ भी ऐसा ही है। RBI बैंकों को पैसा जमा करने (SDF) पर कम ब्याज देता है और लोन देने (रेपो) पर ज्यादा लेता है। इसलिए SDF दर रेपो से हमेशा 'कम' होती है, ज्यादा नहीं।",
+      "en": "SDF is the interest rate RBI pays banks to park their excess cash. Repo rate is what RBI charges to lend money. A lending rate (Repo) is naturally higher than a deposit rate (SDF). Thus, the SDF rate is always 'lower' than the Repo rate, making statement C mathematically false (hence it is the correct answer). Statements A, B, and D are true facts about SDF.\n\nIn simple terms: When you take a loan from a bank, they charge high interest (Repo). When you deposit money, they give you lower interest (SDF). Similarly, the RBI gives banks a lower interest rate for depositing their extra cash (SDF) compared to what it charges for loans. So, SDF is always lower, not higher, making option C the false statement."
+    }
+  },
+  {
+    "id": 25,
+    "subject": "Economics",
+    "topic": "Monetary Transmission",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "'मौद्रिक नीति संचरण' (Monetary Transmission) में देरी का मुख्य कारण क्या हो सकता है?",
+      "en": "What can be the main reason for a delay in 'Monetary Transmission'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "बैंकों की 'Asset-Liability Mismatch' (ALM)",
+        "en": "Banks' 'Asset-Liability Mismatch' (ALM)"
+      },
+      {
+        "id": "B",
+        "hi": "बैंकों का उच्च NPA स्तर",
+        "en": "High NPA level of banks"
+      },
+      {
+        "id": "C",
+        "hi": "बाजार में पर्याप्त तरलता का अभाव",
+        "en": "Lack of adequate liquidity in the market"
+      },
+      {
+        "id": "D",
+        "hi": "उपर्युक्त सभी",
+        "en": "All of the above"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "मौद्रिक संचरण का अर्थ है RBI द्वारा ब्याज दर घटाने पर आम बैंकों का भी ग्राहकों के लिए लोन सस्ता करना। लेकिन बैंक अक्सर तुरंत लोन सस्ता नहीं करते (देरी करते हैं) क्योंकि: उनके पास पुरानी महंगी FD (ALM Mismatch) का बोझ होता है, उनके बहुत सारे लोन डूब चुके होते हैं (NPA), या बाजार में नकदी की कमी (Liquidity) होती है। इसलिए ये सभी कारण सही हैं (D)।\n\nसरल भाषा में: मान लीजिए RBI ने लोन सस्ता कर दिया और बैंकों से कहा कि आप भी जनता का होम लोन सस्ता कर दो। लेकिन बैंक बोलते हैं: 'हम अभी लोन सस्ता नहीं कर सकते, क्योंकि 1. हमें पुराने ग्राहकों को FD पर ज्यादा ब्याज देना पड़ रहा है (ALM), 2. हमारे पुराने लोन डूब गए हैं और हमें घाटा हो रहा है (NPA), 3. हमारे पास नया लोन बांटने के लिए कैश ही नहीं है (तरलता की कमी)।' इन सभी कारणों से आपको सस्ता लोन मिलने में देरी होती है।",
+      "en": "Monetary transmission means when the RBI cuts interest rates, commercial banks should also make public loans cheaper. However, banks delay this because: they are stuck paying high interest on old Fixed Deposits (ALM Mismatch), they are suffering losses from Bad Loans (NPAs), or they simply lack cash to lend (Low Liquidity). Thus, all options are correct reasons (D).\n\nIn simple terms: When the RBI boss announces, 'Loans are cheaper now!', your bank might still not lower your home loan EMI. Why? Because the bank says: 'We are stuck paying high interest to old FD holders, our past borrowers aren't repaying us (NPAs), and we don't have enough spare cash anyway.' All these excuses together cause a delay in you getting a cheaper loan."
+    }
+  },
+  {
+    "id": 26,
+    "subject": "Economics",
+    "topic": "Marginal Standing Facility (MSF)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "MSF के बारे में क्या सत्य है?",
+      "en": "What is true about MSF (Marginal Standing Facility)?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "यह बैंकों के लिए एक विंडो है जहाँ से वे तरलता की कमी होने पर RBI से आपातकालीन ऋण ले सकते हैं।",
+        "en": "It is a window for banks from where they can take emergency loans from RBI in case of liquidity shortage."
+      },
+      {
+        "id": "B",
+        "hi": "MSF दर हमेशा रेपो दर से कम होती है।",
+        "en": "The MSF rate is always lower than the Repo rate."
+      },
+      {
+        "id": "C",
+        "hi": "MSF के तहत बैंक SLR कोटे की प्रतिभूतियों का उपयोग नहीं कर सकते।",
+        "en": "Under MSF, banks cannot use securities from their SLR quota."
+      },
+      {
+        "id": "D",
+        "hi": "इसे केवल सार्वजनिक क्षेत्र के बैंक ही उपयोग कर सकते हैं।",
+        "en": "Only public sector banks can use it."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "MSF (Marginal Standing Facility) बैंकों के लिए केवल एक रात (Overnight) का आपातकालीन लोन है जब उन्हें तुरंत पैसों की जरूरत होती है (A सही है)। क्योंकि यह 'इमरजेंसी' लोन है, इसलिए इसकी ब्याज दर आम रेपो दर से 'अधिक' (पेनल्टी) होती है (B गलत है)। इसमें बैंक अपनी इमरजेंसी वाली SLR प्रतिभूतियों को गिरवी रख सकते हैं (C गलत है)। और इसका इस्तेमाल सभी कमर्शियल बैंक कर सकते हैं, सिर्फ सरकारी नहीं (D गलत है)।\n\nसरल भाषा में: MSF बैंकों के लिए एक 'इमरजेंसी वार्ड' की तरह है। जब बैंक के पास दिन के अंत में पैसे बिल्कुल खत्म हो जाते हैं और कहीं से जुगाड़ नहीं होता, तो वे भागकर RBI के पास जाते हैं और रातों-रात कर्ज लेते हैं। क्योंकि यह इमरजेंसी है, इसलिए RBI आम ब्याज (रेपो) से ज्यादा ब्याज (पेनल्टी) वसूलता है, और बैंक अपने रिजर्व (SLR) के कागजात भी गिरवी रख सकते हैं।",
+      "en": "MSF is an overnight emergency borrowing window for banks facing severe cash shortages (A is true). Because it is an emergency facility, the interest rate is a penalty rate, meaning it is always 'higher' than the standard Repo rate (B is false). Banks are uniquely allowed to dip into their statutory SLR quota to pledge bonds under MSF (C is false). It is open to all scheduled commercial banks, not just government ones (D is false).\n\nIn simple terms: MSF is the 911 emergency hotline for banks. When a bank runs completely out of cash at the end of the day, it calls the RBI for an emergency overnight loan. Because it's an emergency, the RBI charges a higher 'penalty' interest rate than usual, but allows the bank to use its emergency lockbox bonds (SLR) as a guarantee."
+    }
+  },
+  {
+    "id": 27,
+    "subject": "Economics",
+    "topic": "Monetary Policy Stance",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "'न्यूट्रल' या तटस्थ रुख (Neutral Stance) का मौद्रिक नीति में क्या अर्थ है?",
+      "en": "What is the meaning of a 'Neutral Stance' in monetary policy?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "RBI भविष्य में दरों में वृद्धि या कटौती के लिए समान रूप से खुला है।",
+        "en": "RBI is equally open to increasing or cutting rates in the future."
+      },
+      {
+        "id": "B",
+        "hi": "RBI केवल दरों में वृद्धि करेगा।",
+        "en": "RBI will only increase the rates."
+      },
+      {
+        "id": "C",
+        "hi": "RBI केवल दरों में कटौती करेगा।",
+        "en": "RBI will only cut the rates."
+      },
+      {
+        "id": "D",
+        "hi": "RBI अगले 6 महीनों तक कोई बैठक नहीं करेगा।",
+        "en": "RBI will not hold any meetings for the next 6 months."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "मौद्रिक नीति में 'न्यूट्रल' (तटस्थ) रुख का मतलब है कि RBI ने पहले से कोई कसम नहीं खाई है। अगर महंगाई बढ़ेगी तो वह ब्याज दरें बढ़ा सकता है, और अगर मंदी आएगी तो दरें घटा सकता है। यानी वह दोनों रास्तों के लिए खुला है (A सही है)। केवल बढ़ाना 'हॉकिश' (Hawkish) और केवल घटाना 'डोविश' (Dovish) रुख कहलाता है (B और C गलत हैं)।\n\nसरल भाषा में: 'न्यूट्रल' गाड़ी के उस गियर की तरह है जिसमें आप गाड़ी को आगे (दरें बढ़ाना) या पीछे (दरें घटाना), कहीं भी ले जाने के लिए तैयार रहते हैं। RBI न्यूट्रल का बोर्ड लगाकर बाजार को बताता है कि 'हम हालात देखकर फैसला करेंगे, अभी से कुछ तय नहीं है।'",
+      "en": "A 'Neutral' stance implies that the RBI has no pre-set bias. It has the flexibility to either hike interest rates or cut them in future meetings, entirely depending on upcoming economic data (A is correct). Promising to only hike is a 'Hawkish' stance, and promising to only cut is an 'Accommodative/Dovish' stance (B and C are wrong).\n\nIn simple terms: Being 'Neutral' is like standing at a crossroads without deciding your path yet. The RBI is telling everyone: 'We haven't promised to make loans cheaper or more expensive yet. We will look at the situation next month and do whatever is needed.'"
+    }
+  },
+  {
+    "id": 28,
+    "subject": "Economics",
+    "topic": "Monetary Base (M0)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "मौद्रिक आधार (M0) में वृद्धि का अर्थव्यवस्था पर क्या प्रभाव पड़ता है?",
+      "en": "What is the impact of an increase in the Monetary Base (M0) on the economy?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "हमेशा मुद्रास्फीति में तत्काल वृद्धि।",
+        "en": "Always an immediate increase in inflation."
+      },
+      {
+        "id": "B",
+        "hi": "यदि मुद्रा गुणक (Money Multiplier) स्थिर है, तो व्यापक मुद्रा आपूर्ति में वृद्धि।",
+        "en": "If the Money Multiplier is stable, an increase in broad money supply."
+      },
+      {
+        "id": "C",
+        "hi": "हमेशा वास्तविक GDP में वृद्धि।",
+        "en": "Always an increase in real GDP."
+      },
+      {
+        "id": "D",
+        "hi": "विनिमय दर में स्थिरता।",
+        "en": "Stability in the exchange rate."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "मौद्रिक आधार (M0) वह 'कच्चा पैसा' है जो RBI छापता है। यदि बैंक इस पैसे से लोन बांटना जारी रखते हैं (यानी मुद्रा गुणक काम कर रहा है), तो बाजार में कुल पैसा (व्यापक मुद्रा आपूर्ति/M3) बढ़ जाता है (B सही है)। नया पैसा हमेशा तुरंत महंगाई नहीं लाता या देश की असली तरक्की (GDP) नहीं बढ़ाता; यह इस बात पर निर्भर करता है कि लोग पैसे का क्या करते हैं (A और C गलत हैं)।\n\nसरल भाषा में: मौद्रिक आधार (M0) वह असली कैश है जो रिजर्व बैंक की छपाई मशीन से निकलता है। अगर RBI खूब सारा नया कैश छापकर बैंकों को दे दे, और बैंक उसे लोन के रूप में लोगों को बांट दें, तो पूरे देश के बाजार में पैसों की बाढ़ आ जाएगी (व्यापक मुद्रा आपूर्ति बढ़ जाएगी)। लेकिन यह जरूरी नहीं कि इससे उसी दिन महंगाई आ जाए या देश सच में अमीर (GDP) हो जाए।",
+      "en": "The Monetary Base (M0) is the raw, high-powered physical cash created by the RBI. If the Money Multiplier (banks creating credit) remains stable, injecting more raw cash into the system mathematically increases the total broad money supply (M3) floating in the economy (B is correct). Printing money does not 'always' instantly cause inflation (A is wrong) nor does it magically create real economic growth or GDP (C is wrong).\n\nIn simple terms: The Monetary Base is the fresh ink-smelling cash printed by the central bank. If the RBI prints a mountain of cash and gives it to banks, and banks give it to people as loans, the total money flying around in the country's markets will massively increase. But just printing money doesn't instantly build real factories (GDP) or always instantly raise tomato prices (Inflation)."
+    }
+  },
+  {
+    "id": 29,
+    "subject": "Economics",
+    "topic": "Operation Twist",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "RBI के 'ऑपरेशन ट्विस्ट' (Operation Twist) का लक्ष्य क्या है?",
+      "en": "What is the goal of RBI's 'Operation Twist'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अल्पकालिक प्रतिभूतियों को खरीदकर और दीर्घकालिक प्रतिभूतियों को बेचकर यील्ड कर्व (Yield Curve) को मैनेज करना।",
+        "en": "To manage the Yield Curve by buying short-term securities and selling long-term securities."
+      },
+      {
+        "id": "B",
+        "hi": "केवल विदेशी मुद्रा का प्रवाह बढ़ाना।",
+        "en": "Only to increase the inflow of foreign exchange."
+      },
+      {
+        "id": "C",
+        "hi": "बैंक दर को समाप्त करना।",
+        "en": "To abolish the bank rate."
+      },
+      {
+        "id": "D",
+        "hi": "विदेशी पोर्टफोलियो निवेशकों को आकर्षित करना।",
+        "en": "To attract foreign portfolio investors."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "नोट: स्रोत की उत्तर कुंजी में 'A' को सही माना गया है, लेकिन असल 'ऑपरेशन ट्विस्ट' में RBI दीर्घकालिक (Long-term) बांड 'खरीदता' है और अल्पकालिक (Short-term) बांड 'बेचता' है ताकि दीर्घकालिक ब्याज दरें कम हो सकें। यहां विकल्प A में शब्द थोड़े उलट हैं, लेकिन दिए गए विकल्पों में यही यील्ड कर्व मैनेजमेंट (Yield Curve Management) की पूरी प्रक्रिया को दर्शाता है, इसलिए इसे ही सही माना जाएगा। इसका विदेशी मुद्रा या बैंक दर से कोई लेना-देना नहीं है (B, C, D गलत)।\n\nसरल भाषा में: 'ऑपरेशन ट्विस्ट' RBI का एक जादू है। जब लंबी अवधि के लोन (जैसे 20 साल का होम लोन) बहुत महंगे हो जाते हैं, तो RBI बाजार से लंबी अवधि के सरकारी कागज खरीदता है और छोटी अवधि के कागज बेच देता है। इस 'ट्विस्ट' (घुमाव) से लंबे समय वाले लोन सस्ते हो जाते हैं और लोग घर या फैक्ट्री बनाने के लिए आसानी से कर्ज ले पाते हैं।",
+      "en": "Note: While the source key marks 'A' as correct, actual Operation Twist involves BUYING long-term bonds and SELLING short-term bonds to flatten the yield curve and reduce long-term borrowing costs. Option A loosely describes the simultaneous buying/selling manipulation of the yield curve, which is the core concept, making it the best fit among the absurd alternatives. It has absolutely nothing to do with forex, abolishing bank rates, or FPIs (B, C, D are wrong).\n\nIn simple terms: Operation Twist is a market trick. When 20-year home loans become too expensive for normal people, the RBI 'twists' the market. It buys up long-term government bonds to force their interest rates down. This makes long-term loans cheaper for everyone, helping businesses and home-buyers."
+    }
+  },
+  {
+    "id": 30,
+    "subject": "Economics",
+    "topic": "Inflation Expectations Survey",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "RBI द्वारा किया जाने वाला 'घरानों का मुद्रास्फीति प्रत्याशा सर्वेक्षण' (Inflation Expectations Survey of Households - IESH) किसके लिए महत्वपूर्ण है?",
+      "en": "For whom is the 'Inflation Expectations Survey of Households' (IESH) conducted by the RBI important?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल RBI की मौद्रिक नीति समिति के लिए।",
+        "en": "Only for the Monetary Policy Committee of RBI."
+      },
+      {
+        "id": "B",
+        "hi": "केवल वित्त मंत्रालय के लिए।",
+        "en": "Only for the Finance Ministry."
+      },
+      {
+        "id": "C",
+        "hi": "MPC के नीतिगत निर्णयों के लिए, क्योंकि जनता की प्रत्याशाएं वर्तमान मुद्रास्फीति को प्रभावित करती हैं।",
+        "en": "For the policy decisions of the MPC, because public expectations affect current inflation."
+      },
+      {
+        "id": "D",
+        "hi": "केवल शेयर बाजार के निवेशकों के लिए।",
+        "en": "Only for stock market investors."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "RBI आम लोगों से सर्वे करके पूछता है कि उन्हें क्या लगता है, 3 महीने या 1 साल बाद महंगाई बढ़ेगी या घटेगी। यह सर्वे मौद्रिक नीति समिति (MPC) के लिए बहुत जरूरी है (C सही है)। अर्थशास्त्र का नियम है कि अगर लोगों को 'लगता' है कि कल चीजें महंगी होंगी, तो वे आज ही ज्यादा सामान खरीदने लगते हैं और अपनी पगार बढ़ाने की मांग करते हैं, जिससे महंगाई 'सच में' बढ़ जाती है।\n\nसरल भाषा में: RBI घर-घर जाकर लोगों से पूछता है: 'आपको क्या लगता है, अगले साल टमाटर महंगा होगा या सस्ता?' अगर सबको लगता है कि टमाटर महंगा होगा, तो सब लोग आज ही टमाटर खरीदकर स्टॉक करने लगेंगे। इससे आज ही टमाटर सच में महंगा हो जाएगा! इसलिए RBI (MPC) के लिए यह जानना बहुत जरूरी है कि आम जनता के दिमाग में महंगाई को लेकर क्या चल रहा है, ताकि वे पहले से ही ब्याज दरें तय कर सकें।",
+      "en": "The RBI conducts this survey to gauge what normal households expect inflation to be in the future. It is vital for the MPC's policy decisions (C is correct). In economics, if people 'expect' high inflation tomorrow, they demand higher wages and buy goods today, which ironically causes actual inflation today. The MPC uses this psychological data to adjust interest rates early.\n\nIn simple terms: The RBI surveys random households asking: 'Do you think prices will go up next year?' If everyone believes prices will rise, workers will demand higher salaries, and shopkeepers will raise prices right now in anticipation. Expecting inflation actually causes inflation! The RBI needs to know the public's mood so it can hike interest rates to calm everyone down."
+    }
+  },
+  {
+    "id": 31,
+    "subject": "Economics",
+    "topic": "Interest Rate Corridor",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "RBI के मौद्रिक नीति गलियारे (Interest Rate Corridor) की निचली सीमा (Floor) और ऊपरी सीमा (Ceiling) क्या निर्धारित करती है?",
+      "en": "What determines the lower limit (Floor) and the upper limit (Ceiling) of the RBI's monetary policy corridor?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "क्रमशः SDF दर और MSF दर।",
+        "en": "Respectively the SDF rate and MSF rate."
+      },
+      {
+        "id": "B",
+        "hi": "क्रमशः रेपो दर और रिवर्स रेपो दर।",
+        "en": "Respectively the Repo rate and Reverse Repo rate."
+      },
+      {
+        "id": "C",
+        "hi": "क्रमशः बैंक दर और CRR।",
+        "en": "Respectively the Bank rate and CRR."
+      },
+      {
+        "id": "D",
+        "hi": "केवल रेपो दर।",
+        "en": "Only the Repo rate."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "वर्तमान में, RBI के नीति गलियारे की सबसे निचली सीमा (फर्श) SDF (Standing Deposit Facility) दर है, जिस पर बैंक अपना पैसा जमा करते हैं। इसकी सबसे ऊपरी सीमा (छत) MSF (Marginal Standing Facility) दर है, जिस पर बैंक आपातकालीन लोन लेते हैं। इन दोनों के ठीक बीच में 'रेपो दर' (Repo Rate) रहती है। इसलिए विकल्प A सही है।\n\nसरल भाषा में: RBI का ब्याज का सिस्टम एक कमरे की तरह है। इस कमरे का फर्श 'SDF' है (सबसे कम ब्याज, जो बैंक को जमा करने पर मिलता है)। इस कमरे की छत 'MSF' है (सबसे ज्यादा ब्याज, जो बैंक को पेनल्टी के रूप में इमरजेंसी लोन पर देना पड़ता है)। और इस कमरे के बीचो-बीच 'रेपो दर' लटकी रहती है जो आम लोन का रेट है। तो गलियारे (कमरे) की सीमाएं SDF और MSF तय करती हैं।",
+      "en": "Currently, the floor (bottom) of the RBI's liquidity corridor is the SDF rate (the interest RBI pays to absorb excess liquidity). The ceiling (top) is the MSF rate (the penal interest RBI charges for emergency loans). The Repo rate typically sits between these two. Therefore, A is the correct answer.\n\nIn simple terms: The RBI's interest rate system is like a room. The floor of the room is 'SDF' (the lowest interest rate, given when banks deposit cash). The ceiling of the room is 'MSF' (the highest penalty interest rate, charged when banks beg for emergency cash). Floating in the middle of the room is the standard 'Repo rate'. So, SDF and MSF define the borders of this room."
+    }
+  },
+  {
+    "id": 32,
+    "subject": "Economics",
+    "topic": "External Benchmark Lending Rate (EBLR)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "RBI ने बैंकों के लिए यह अनिवार्य किया है कि वे अपने फ्लोटिंग रेट वाले खुदरा ऋणों (Retail loans) को एक बाह्य बेंचमार्क (जैसे रेपो दर) से जोड़ें।",
+        "en": "RBI has made it mandatory for banks to link their floating rate retail loans to an external benchmark (like the repo rate)."
+      },
+      {
+        "hi": "EBLR का मुख्य उद्देश्य मौद्रिक नीति के निर्णयों (जैसे रेपो दर में बदलाव) का ग्राहकों तक तेजी से संचरण (Transmission) सुनिश्चित करना है।",
+        "en": "The main objective of EBLR is to ensure swift transmission of monetary policy decisions (like changes in the repo rate) to customers."
+      },
+      {
+        "hi": "EBLR के तहत बैंकों को अपनी 'निधि की सीमांत लागत' (MCLR) को पूरी तरह से समाप्त करना होगा।",
+        "en": "Under EBLR, banks will have to completely abolish their 'Marginal Cost of Funds based Lending Rate' (MCLR)."
+      }
+    ],
+    "question": {
+      "hi": "बाह्य बेंचमार्क ऋण दर (External Benchmark Lending Rate - EBLR) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the External Benchmark Lending Rate (EBLR):"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "EBLR (जैसे रेपो-लिंक्ड लोन) इसलिए लाया गया ताकि जैसे ही RBI ब्याज दर घटाए, ग्राहकों के होम लोन या कार लोन की EMI तुरंत कम हो जाए (कथन 1 और 2 सही)। हालांकि, EBLR ने पुरानी MCLR प्रणाली को 'पूरी तरह समाप्त' नहीं किया है; कॉर्पोरेट लोन (बड़ी कंपनियों के लोन) आज भी MCLR के आधार पर ही दिए जाते हैं। अतः कथन 3 गलत है।\n\nसरल भाषा में: पहले जब RBI लोन सस्ता करता था, तो बैंक अपनी मर्जी से महीनों तक आपके होम लोन की किस्त कम नहीं करते थे। इसलिए RBI ने 'EBLR' का नया नियम बनाया: अब जैसे ही RBI की रेपो रेट गिरेगी, आपके होम लोन का ब्याज ऑटोमैटिक रूप से कम हो जाएगा (1 और 2 सही)। लेकिन यह जादू सिर्फ आम लोगों (Retail) के लिए है। बड़ी फैक्ट्रियों को दिया जाने वाला लोन आज भी पुराने 'MCLR' तरीके से ही चलता है, वह खत्म नहीं हुआ है (इसलिए 3 गलत है)।",
+      "en": "EBLR was introduced to directly link retail floating loans (like home loans) to an external benchmark like the Repo Rate. This forces banks to immediately pass on the benefits of RBI rate cuts to consumers (Statements 1 and 2 are correct). However, EBLR did not completely kill the old MCLR system; large corporate loans are still priced using MCLR. Thus, statement 3 is incorrect.\n\nIn simple terms: In the past, if the RBI made loans cheaper, greedy banks would wait months before lowering your home loan EMI. So the RBI invented EBLR. Now, your home loan is tied directly to the RBI's rate with an invisible string. If the RBI drops its rate, your EMI instantly drops automatically (1 & 2 are correct). However, this rule is only for normal people. Big corporate factory loans still use the old 'MCLR' system, so it's not totally dead (Statement 3 is wrong)."
+    }
+  },
+  {
+    "id": 33,
+    "subject": "Economics",
+    "topic": "LAF Corridor",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "गलियारे की ऊपरी सीमा 'सीमांत स्थायी सुविधा' (MSF) दर है।",
+        "en": "The upper limit of the corridor is the 'Marginal Standing Facility' (MSF) rate."
+      },
+      {
+        "hi": "गलियारे की निचली सीमा 'स्थायी जमा सुविधा' (SDF) दर है।",
+        "en": "The lower limit of the corridor is the 'Standing Deposit Facility' (SDF) rate."
+      },
+      {
+        "hi": "रेपो दर (Repo Rate) हमेशा इस गलियारे के बिल्कुल केंद्र में होती है।",
+        "en": "The Repo rate is always exactly in the center of this corridor."
+      }
+    ],
+    "question": {
+      "hi": "'तरलता समायोजन सुविधा' (LAF Corridor) मौद्रिक नीति गलियारे के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the monetary policy corridor ('Liquidity Adjustment Facility' - LAF Corridor):"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "LAF गलियारे (Corridor) की छत MSF दर है और फर्श SDF दर है (कथन 1 और 2 सही)। रेपो दर (Repo Rate) इस गलियारे के अंदर रहती है, लेकिन यह 'हमेशा' बिल्कुल बीचों-बीच (केंद्र में) हो, यह कोई सख्त कानूनी नियम नहीं है। कई बार RBI इस गलियारे को 'असममित' (Asymmetric) भी बना देता है। अतः कथन 3 गलत है।\n\nसरल भाषा में: RBI की ब्याज दरों का एक 'कमरा' (गलियारा) होता है। इसकी छत है 'MSF' (सबसे ज्यादा ब्याज) और इसका फर्श है 'SDF' (सबसे कम ब्याज)। जो आम ब्याज दर (रेपो दर) है, वह इस कमरे के अंदर हवा में लटकी रहती है। हालांकि आमतौर पर RBI इसे ठीक बीचों-बीच रखता है, लेकिन ऐसा कोई पत्थर की लकीर वाला नियम नहीं है कि वह हमेशा इंच-टेप से नापकर बिल्कुल 'बीच' (केंद्र) में ही रहेगी। कभी-कभी वह छत या फर्श के करीब भी हो सकती है। इसलिए कथन 3 गलत है।",
+      "en": "The LAF corridor is bounded by the MSF rate at the top and the SDF rate at the bottom (Statements 1 and 2 are true). While the RBI currently aims to keep the Repo rate in the middle, creating a symmetric corridor (e.g., Repo is 6.5%, SDF is 6.25%, MSF is 6.75%), there is no rigid rule that it must 'always' be exactly in the mathematical center. Asymmetric corridors have existed in the past. Thus, statement 3 is incorrect.\n\nIn simple terms: The RBI's interest rates live in a 'room'. The ceiling is MSF (highest rate) and the floor is SDF (lowest rate). The normal Repo Rate floats inside this room. While the RBI usually likes to hang the Repo Rate exactly in the dead center of the room, there is no strict law forcing them to do so. Sometimes it can hang a little lower or higher. So saying it is 'always' exactly in the center is wrong."
+    }
+  },
+  {
+    "id": 34,
+    "subject": "Economics",
+    "topic": "Qualitative vs Quantitative Tools",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "साख की राशनिंग (Rationing of Credit)",
+        "en": "Rationing of Credit"
+      },
+      {
+        "hi": "प्रत्यक्ष कार्रवाई (Direct Action)",
+        "en": "Direct Action"
+      },
+      {
+        "hi": "खुले बाजार की क्रियाएं (OMO)",
+        "en": "Open Market Operations (OMO)"
+      },
+      {
+        "hi": "नैतिक अनुनय (Moral Suasion)",
+        "en": "Moral Suasion"
+      }
+    ],
+    "question": {
+      "hi": "मौद्रिक नीति के उपकरणों के संदर्भ में, निम्नलिखित में से कौन से 'गुणात्मक उपकरण' (Qualitative Instruments) हैं?",
+      "en": "In the context of monetary policy tools, which of the following are 'Qualitative Instruments'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2, and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3, and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 2 और 4",
+        "en": "1, 2, and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3, and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "मौद्रिक नीति के उपकरण दो प्रकार के होते हैं: 1. मात्रात्मक (Quantitative) जो पूरी अर्थव्यवस्था में पैसे की कुल 'मात्रा' को घटाते-बढ़ाते हैं (जैसे CRR, रेपो रेट, और OMO)। 2. गुणात्मक (Qualitative) जो पैसे की दिशा तय करते हैं या बैंकों को चेतावनी देते हैं (जैसे साख की राशनिंग, प्रत्यक्ष कार्रवाई, और नैतिक अनुनय)। इसलिए OMO (कथन 3) एक मात्रात्मक उपकरण है, गुणात्मक नहीं। अतः 1, 2 और 4 सही हैं।\n\nसरल भाषा में: RBI के पास बैंकों को कंट्रोल करने के दो तरीके हैं। पहला 'मात्रात्मक', जिससे पूरे बाजार में पैसों की नदी का पानी कम या ज्यादा किया जाता है (जैसे OMO में कागजात बेचकर पैसा सोखना)। दूसरा तरीका 'गुणात्मक' है, जिसमें RBI बैंकों को डांटता है (प्रत्यक्ष कार्रवाई), प्यार से समझाता है (नैतिक अनुनय), या कहता है कि 'अमीरों को कम और किसानों को ज्यादा लोन दो' (राशनिंग)। तो OMO पैसे की मात्रा (मात्रात्मक) का खेल है, इसलिए वह इस लिस्ट (गुणात्मक) से बाहर है।",
+      "en": "Monetary policy has two types of tools. Quantitative tools (like Repo rate, CRR, and OMO) control the overall 'volume' of money in the entire economy. Qualitative tools focus on directing credit to specific sectors or using persuasion/threats (like Rationing of credit, Direct Action, Moral Suasion). Since Open Market Operations (OMO) is a Quantitative tool, it is not the correct answer here. Thus, 1, 2, and 4 are correct.\n\nIn simple terms: The RBI has two sets of tools. 'Quantitative' tools are like a giant tap that increases or decreases the total water (cash) in the whole country (OMO does exactly this). 'Qualitative' tools are like a teacher's stick: the RBI scolds bad banks (Direct Action), gives friendly advice (Moral Suasion), or tells banks to give loans to farmers instead of rich builders (Rationing). Since OMO is the giant tap, it doesn't belong in the teacher's stick group."
+    }
+  },
+  {
+    "id": 35,
+    "subject": "Economics",
+    "topic": "Neutral Rate of Interest",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "यह वह ब्याज दर है जिस पर अर्थव्यवस्था अपनी पूर्ण क्षमता (Full Potential) पर कार्य करती है और मुद्रास्फीति स्थिर रहती है।",
+        "en": "It is the interest rate at which the economy operates at its full potential and inflation remains stable."
+      },
+      {
+        "hi": "यदि वास्तविक ब्याज दर तटस्थ दर से अधिक है, तो मौद्रिक नीति संकुचनकारी (Contractionary) है।",
+        "en": "If the real interest rate is higher than the neutral rate, the monetary policy is contractionary."
+      },
+      {
+        "hi": "यदि वास्तविक ब्याज दर तटस्थ दर से कम है, तो मौद्रिक नीति तटस्थ (Neutral) है।",
+        "en": "If the real interest rate is lower than the neutral rate, the monetary policy is neutral."
+      }
+    ],
+    "question": {
+      "hi": "'तटस्थ ब्याज दर' (Neutral Rate of Interest) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the 'Neutral Rate of Interest':"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "तटस्थ ब्याज दर (Neutral Rate) वह आदर्श दर है जहां न तो महंगाई बढ़ती है और न ही विकास रुकता है (कथन 1 सही)। यदि बाजार में असल ब्याज दर इस आदर्श 'तटस्थ दर' से ज्यादा हो जाए, तो मतलब है कि कर्ज महंगा हो गया है और अर्थव्यवस्था सिकुड़ रही है (संकुचनकारी - कथन 2 सही)। लेकिन यदि असल ब्याज दर तटस्थ दर से 'कम' हो जाए, तो इसका मतलब है कर्ज सस्ता हो गया है और अर्थव्यवस्था तेजी से भागेगी (विस्तारवादी/Expansionary)। यह 'तटस्थ' नहीं कहलाएगा। अतः कथन 3 गलत है।\n\nसरल भाषा में: 'तटस्थ दर' एक आदर्श स्पीड लिमिट (जैसे 60 किमी/घंटा) की तरह है जहां गाड़ी (देश) बिना ज्यादा तेल (महंगाई) पिए बेहतरीन चलती है (1 सही)। अगर आप 60 से ऊपर की स्पीड (ब्याज दर) कर देंगे, तो इंजन पर दबाव पड़ेगा और गाड़ी की रफ्तार को ब्रेक लग जाएगा (संकुचनकारी - 2 सही)। लेकिन अगर आप स्पीड 60 से कम कर देंगे, तो एक्सीलेटर दब जाएगा और गाड़ी बेकाबू होकर भागेगी (विस्तारवादी)। 60 से कम को हम 'तटस्थ' (न्यूट्रल) नहीं कह सकते। इसलिए कथन 3 गलत है।",
+      "en": "The neutral rate of interest is the theoretical sweet spot where the economy grows perfectly without triggering high inflation (Statement 1 is right). If the central bank sets the actual real interest rate 'higher' than this neutral rate, borrowing becomes too expensive, choking growth (contractionary policy - Statement 2 is right). If the actual rate is set 'lower' than the neutral rate, cheap money floods the system, causing an economic boom (Expansionary policy). It is NOT called 'neutral' policy. Thus, statement 3 is wrong.\n\nIn simple terms: The 'Neutral rate' is like the perfect AC temperature (24°C) where you don't feel too hot or too cold. If you raise the temp above 24°C (higher interest), the room gets uncomfortably hot and you sweat (Contractionary - hurting the economy). If you lower it below 24°C (lower interest), the AC blasts freezing air, speeding up everyone's shivers (Expansionary - turbocharging the economy). Lowering it below 24°C does NOT keep the room 'neutral'. So, statement 3 is wrong."
+    }
+  },
+  {
+    "id": 36,
+    "subject": "Economics",
+    "topic": "Real Interest Rate",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "नाममात्र ब्याज दर (Nominal Interest Rate) स्थिर रहने पर वास्तविक ब्याज दर घट जाती है।",
+        "en": "If the Nominal Interest Rate remains constant, the real interest rate decreases."
+      },
+      {
+        "hi": "निवेशकों को अपनी परिसंपत्तियों पर मिलने वाले रिटर्न की क्रय शक्ति कम हो जाती है।",
+        "en": "The purchasing power of the return that investors get on their assets decreases."
+      },
+      {
+        "hi": "इसे 'फिशर प्रभाव' (Fisher Effect) के रूप में जाना जाता है।",
+        "en": "This is known as the 'Fisher Effect'."
+      }
+    ],
+    "question": {
+      "hi": "'वास्तविक ब्याज दर' (Real Interest Rate) के संदर्भ में यदि मुद्रास्फीति (Inflation) की दर बढ़ती है, तो:",
+      "en": "In the context of 'Real Interest Rate', if the rate of inflation increases, then:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "वास्तविक ब्याज दर निकालने का फॉर्मूला है: (बैंक का ब्याज) - (महंगाई)। अगर बैंक 8% ब्याज दे रहा है (नाममात्र दर) और महंगाई 5% से बढ़कर 7% हो जाए, तो आपकी असली कमाई (वास्तविक दर) 3% से गिरकर सिर्फ 1% रह जाएगी (कथन 1 सही)। इससे आपकी पैसों की वैल्यू (क्रय शक्ति) घट जाएगी (कथन 2 सही)। अर्थशास्त्री इरविंग फिशर ने बताया था कि महंगाई और ब्याज दरों के बीच एक गणितीय संबंध होता है, जिसे 'फिशर प्रभाव' (Fisher equation) कहते हैं (कथन 3 सही)। इसलिए सभी कथन सत्य हैं।\n\nसरल भाषा में: मान लीजिए आपने बैंक की FD में 100 रुपये रखे जिस पर 8 रुपये का ब्याज मिलेगा। अगर बाज़ार में महंगाई तेजी से बढ़ गई, तो जो सामान पहले 100 का था, अब 107 का हो गया। 1 साल बाद बैंक से आपको 108 रुपये मिले, पर महंगाई के कारण आपका असली फायदा सिर्फ 1 रुपये (108-107) का हुआ! यानी आपकी 'वास्तविक' कमाई घट गई (1 सही) और आपकी खरीदने की ताकत खत्म हो गई (2 सही)। इस पूरी गणित को बताने वाले वैज्ञानिक का नाम 'फिशर' था, इसलिए इसे 'फिशर प्रभाव' कहते हैं (3 सही)।",
+      "en": "The formula for Real Interest Rate is: (Nominal Interest Rate) - (Inflation). If inflation jumps up while your bank's FD rate stays the same, your Real Interest Rate mathematically shrinks (Statement 1 is true). Because inflation eats away your profit, the actual purchasing power of your money declines (Statement 2 is true). The famous economic equation linking nominal rates, real rates, and inflation was coined by Irving Fisher, known as the Fisher Effect (Statement 3 is true). Thus, all statements are correct.\n\nIn simple terms: Imagine you put ₹100 in an FD that pays ₹8 interest. But terrible inflation hits, and the cost of groceries goes up by ₹7. A year later, you have ₹108, but groceries now cost ₹107. Your actual true profit is just ₹1! So, rising inflation brutally eats away your 'real' interest and destroys your purchasing power (1 & 2 are right). The economist who discovered this cruel math was named Fisher, hence the 'Fisher Effect' (3 is right)."
+    }
+  },
+  {
+    "id": 37,
+    "subject": "Economics",
+    "topic": "Bank Rate",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "यह वह दर है जिस पर RBI बैंकों को दीर्घकालिक ऋण (Long-term) प्रदान करता है।",
+        "en": "It is the rate at which the RBI provides long-term loans to banks."
+      },
+      {
+        "hi": "बैंक दर में वृद्धि का अर्थ है कि बैंकों को मिलने वाला ऋण अब महंगा हो गया है।",
+        "en": "An increase in the Bank Rate means that the loan available to banks has now become expensive."
+      },
+      {
+        "hi": "वर्तमान में, RBI इसे 'रेपो दर' के साथ ही संयोजित (Align) कर देता है।",
+        "en": "Currently, the RBI aligns it with the 'Repo Rate'."
+      }
+    ],
+    "question": {
+      "hi": "'बैंक दर' (Bank Rate) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the 'Bank Rate':"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "बैंक दर वह ब्याज दर है जिस पर RBI बिना कोई सरकारी कागज गिरवी रखे कमर्शियल बैंकों को लंबे समय के लिए उधार देता है (कथन 1 सही)। अगर यह दर बढ़ती है, तो बैंकों के लिए उधार लेना महंगा हो जाता है (कथन 2 सही)। आज के समय में, RBI ने बैंक दर को 'रेपो दर' के साथ जोड़ (Align) दिया है; आमतौर पर यह रेपो दर से 0.25% ऊपर होती है और रेपो के साथ ही घटती-बढ़ती है (कथन 3 सही)। इसलिए सभी विकल्प सही हैं।\n\nसरल भाषा में: जब आप बैंक से लोन लेते हैं, तो ब्याज देते हैं। जब बैंक को पैसों की जरूरत होती है, तो वह RBI (सबका बॉस) से लंबे समय के लिए लोन लेता है और जिस रेट पर ब्याज चुकाता है, उसे 'बैंक दर' कहते हैं (1 सही)। जाहिर है अगर बॉस ब्याज दर बढ़ाएगा, तो बैंकों को लोन महंगा पड़ेगा (2 सही)। आजकल RBI ने नियम बना दिया है कि 'रेपो दर' (छोटे समय का लोन) जिधर जाएगी, बैंक दर भी उसी के पीछे-पीछे चलेगी (Align कर दी गई है)। इसलिए 3 भी सही है।",
+      "en": "Bank Rate is the standard rate at which the RBI buys or discounts bills of exchange, effectively providing long-term, collateral-free loans to commercial banks (Statement 1 is right). Naturally, hiking this rate makes borrowing incredibly expensive for banks (Statement 2 is right). In modern policy, the RBI has permanently aligned the Bank Rate with the Repo Rate (typically keeping it 0.25% higher than Repo), so they move up and down together automatically (Statement 3 is right). All are correct.\n\nIn simple terms: The Bank Rate is the interest rate the RBI charges when giving long-term loans to regular banks (Statement 1). If the RBI raises this rate, banks suffer because borrowing becomes super expensive for them (Statement 2). Nowadays, the RBI doesn't change the Bank Rate separately. It has tied it directly to the Repo Rate (the short-term loan rate) like a trailer to a car. Where the Repo rate goes, the Bank rate automatically follows. (Statement 3)."
+    }
+  },
+  {
+    "id": 38,
+    "subject": "Economics",
+    "topic": "MPC Decisions",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "प्रत्येक सदस्य के पास एक वोट होता है।",
+        "en": "Each member has one vote."
+      },
+      {
+        "hi": "किसी प्रस्ताव पर टाई (Tie) होने पर गवर्नर का मत अंतिम होता है।",
+        "en": "In case of a tie on a proposal, the Governor's vote is final."
+      },
+      {
+        "hi": "MPC के निर्णय सरकार के लिए बाध्यकारी (Binding) होते हैं।",
+        "en": "MPC's decisions are binding on the Government."
+      }
+    ],
+    "question": {
+      "hi": "मौद्रिक नीति समिति (MPC) के निर्णयों के संबंध में कौन सा कथन सत्य है?",
+      "en": "Which statement is true regarding the decisions of the Monetary Policy Committee (MPC)?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "MPC की बैठकों में ब्याज दरें तय करने के लिए 6 सदस्यों में से हर एक के पास अपना एक वोट होता है (कथन 1 सही)। अगर वोट 3-3 से बराबर हो जाएं (टाई), तो RBI गवर्नर को एक एक्स्ट्रा वोट (कास्टिंग वोट) डालकर फैसला करने का अधिकार होता है (कथन 2 सही)। लेकिन MPC जो भी फैसला लेती है, वह 'भारतीय रिज़र्व बैंक' (RBI) के लिए बाध्यकारी (Binding) होता है, देश की चुनी हुई 'सरकार' के लिए नहीं। सरकार पर MPC हुक्म नहीं चला सकती। अतः कथन 3 गलत है।\n\nसरल भाषा में: RBI की उस टीम (MPC) में 6 लोग होते हैं जो तय करते हैं कि लोन सस्ता होगा या महंगा। हर आदमी का 1 वोट होता है। अगर 3 लोग कहते हैं 'सस्ता करो' और 3 कहते हैं 'मत करो', तो टीम का लीडर (RBI गवर्नर) अपनी मर्जी से टाई-ब्रेकर वोट डालकर फैसला सुनाता है (1 और 2 सही)। यह टीम RBI के अंदर काम करती है, इसलिए इसका हुक्म RBI को मानना ही पड़ता है। लेकिन यह टीम देश के प्रधानमंत्री या वित्त मंत्री (सरकार) को कोई आदेश नहीं दे सकती। इसलिए कथन 3 गलत है।",
+      "en": "In the MPC, all 6 members have one equal vote to decide interest rates (Statement 1 is right). If there is a 3-3 deadlock, the RBI Governor acts as the tie-breaker using a Casting Vote (Statement 2 is right). However, whatever the MPC decides is legally binding ONLY on the Reserve Bank of India (RBI) to execute. The MPC cannot issue binding orders to the democratically elected Central Government. Thus, statement 3 is entirely false.\n\nIn simple terms: The MPC is a 6-person team that sets the country's interest rates. Everyone gets one vote. If the vote is a 3-3 tie, the RBI Governor gets to cast the winning tie-breaker vote (1 & 2 are correct). Now, whatever this team decides, the RBI MUST obey it. But this team has zero power to command the Central Government. The Government does not have to obey the MPC's policy rules. So, statement 3 is wrong."
+    }
+  },
+  {
+    "id": 39,
+    "subject": "Economics",
+    "topic": "Inflation Targeting - CPI vs WPI",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "यह थोक बाजार के बजाय उपभोक्ता के स्तर पर कीमतों में बदलाव को बेहतर दर्शाता है।",
+        "en": "It better reflects price changes at the consumer level rather than the wholesale market."
+      },
+      {
+        "hi": "भारत के सभी राज्यों में WPI का डेटा उपलब्ध नहीं है, जबकि CPI का डेटा अधिक विस्तृत है।",
+        "en": "WPI data is not available across all states in India, whereas CPI data is more comprehensive."
+      },
+      {
+        "hi": "CPI में 'विनिर्मित वस्तुओं' (Manufactured items) का भारांश WPI से अधिक है।",
+        "en": "The weightage of 'Manufactured items' is higher in CPI than in WPI."
+      }
+    ],
+    "question": {
+      "hi": "भारत में मुद्रास्फीति लक्ष्यीकरण के लिए CPI (Combined) को चुनने का मुख्य कारण क्या है?[cite: 5]",
+      "en": "What is the main reason for choosing CPI (Combined) for inflation targeting in India?[cite: 5]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "RBI ने महंगाई मापने के लिए थोक मूल्य सूचकांक (WPI) की जगह उपभोक्ता मूल्य सूचकांक (CPI) को चुना है क्योंकि CPI यह बताता है कि एक आम आदमी जो बाजार से सामान खरीदता है, वह कितना महंगा हुआ है (कथन 1 और 2 सही हैं)। WPI में फैक्ट्रियों में बनने वाले सामान (Manufactured items) का महत्व (भारांश) ज्यादा होता है, जबकि CPI में खाने-पीने की चीजों (Food) का महत्व ज्यादा होता है। इसलिए यह कहना कि CPI में विनिर्मित वस्तुओं का भारांश अधिक है, गलत है (कथन 3 असत्य)।\n\nसरल भाषा में: मान लीजिए आप बाजार से टमाटर खरीदते हैं। WPI (थोक) बताता है कि मंडी में टमाटर के दाम कितने बढ़े, और CPI (उपभोक्ता) बताता है कि ठेले वाले ने आपको टमाटर कितने का दिया। RBI को आम आदमी (उपभोक्ता) की चिंता है, इसलिए वह CPI का इस्तेमाल करता है। खाने-पीने की चीजें आम आदमी के लिए सबसे जरूरी हैं, इसलिए CPI में खाने का वजन ज्यादा होता है, फैक्टरी के सामान का नहीं (इसलिए कथन 3 गलत है)।[cite: 5]",
+      "en": "The RBI chose the Consumer Price Index (CPI) over the Wholesale Price Index (WPI) because CPI reflects the actual prices paid by normal consumers in retail shops, and its data is broadly available across states (Statements 1 and 2 are true). WPI assigns a much higher weight to manufactured goods, whereas CPI gives the highest weight to food articles. Therefore, stating that CPI has a higher weight for manufactured items is incorrect (Statement 3 is false).\n\nIn simple terms: WPI checks prices at the big wholesale market, but CPI checks the prices you and I pay at the local grocery store. The RBI cares about what normal people pay, so they use CPI. Since ordinary people spend a big chunk of their income on food, CPI focuses heavily on food prices, not factory-made machines (so Statement 3 is wrong).[cite: 5]"
+    }
+  },
+  {
+    "id": 40,
+    "subject": "Economics",
+    "topic": "Real vs Nominal Interest Rate",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "यदि नाममात्र ब्याज दर 8% है और मुद्रास्फीति 5% है, तो 'वास्तविक ब्याज दर' (Real Interest Rate) क्या होगी?[cite: 5]",
+      "en": "If the nominal interest rate is 8% and inflation is 5%, what will be the 'Real Interest Rate'?[cite: 5]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "13%",
+        "en": "13%"
+      },
+      {
+        "id": "B",
+        "hi": "3%",
+        "en": "3%"
+      },
+      {
+        "id": "C",
+        "hi": "40%",
+        "en": "40%"
+      },
+      {
+        "id": "D",
+        "hi": "8%",
+        "en": "8%"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "वास्तविक ब्याज दर (Real Interest Rate) निकालने का बहुत ही सीधा फॉर्मूला है: (नाममात्र ब्याज दर) माइनस (मुद्रास्फीति)। यहाँ बैंक आपको 8% का ब्याज (नाममात्र) दे रहा है, लेकिन महंगाई 5% की दर से बढ़ रही है। इसलिए आपकी असल कमाई (8% - 5%) केवल 3% रह गई। अतः विकल्प B सही है। अन्य सभी विकल्प गणितीय रूप से गलत हैं।\n\nसरल भाषा में: सोचिए आपने बैंक में 100 रुपये जमा किए। बैंक ने कहा कि 1 साल बाद वह आपको 8 रुपये एक्स्ट्रा देगा (टोटल 108 रुपये)। लेकिन इस 1 साल में बाजार में हर चीज 5 रुपये महंगी हो गई (महंगाई)। तो असल में आपको कितना फायदा हुआ? 8 रुपये बैंक से मिले और 5 रुपये महंगाई खा गई, तो आपकी जेब में असली फायदा सिर्फ 3 रुपये का हुआ! यही 3% आपकी 'वास्तविक' (Real) कमाई है।[cite: 5]",
+      "en": "The formula for the Real Interest Rate is straightforward: (Nominal Interest Rate) minus (Inflation Rate). Here, the bank offers an 8% nominal rate, but inflation is eating away 5% of its value. So, your actual real return is 8% - 5% = 3%. Therefore, Option B is correct. All other options are mathematically incorrect.\n\nIn simple terms: Imagine you put ₹100 in the bank, and they promise to give you ₹8 extra after a year. But over that year, the cost of the toys you want to buy goes up by ₹5 (because of inflation). So, effectively, your true profit is just the remaining ₹3. That 3% is your 'Real' profit.[cite: 5]"
+    }
+  },
+  {
+    "id": 41,
+    "subject": "Economics",
+    "topic": "CASA Ratio",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "CASA का अर्थ है 'चालू खाता' (Current Account) और 'बचत खाता' (Savings Account)।",
+        "en": "CASA stands for 'Current Account' and 'Savings Account'."
+      },
+      {
+        "hi": "उच्च CASA अनुपात बैंकों के लिए एक सकारात्मक संकेत माना जाता है क्योंकि यह बैंकों की 'निधि की लागत' (Cost of Funds) को कम रखता है।",
+        "en": "A high CASA ratio is considered a positive sign for banks because it keeps the banks' 'Cost of Funds' low."
+      },
+      {
+        "hi": "चालू खातों पर बैंक द्वारा कोई ब्याज नहीं दिया जाता, जबकि बचत खातों पर बैंक द्वारा कुछ ब्याज दिया जाता है।",
+        "en": "No interest is paid by the bank on current accounts, whereas some interest is paid on savings accounts."
+      }
+    ],
+    "question": {
+      "hi": "'कसा' (CASA) अनुपात के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:[cite: 5]",
+      "en": "Consider the following statements regarding the 'CASA' ratio:[cite: 5]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "CASA का मतलब Current Account (चालू खाता) और Savings Account (बचत खाता) होता है (कथन 1 सही)। चालू खाते में ग्राहकों को कोई ब्याज (0%) नहीं मिलता और बचत खाते में बहुत कम (जैसे 3-4%) ब्याज मिलता है (कथन 3 सही)। इसलिए अगर किसी बैंक के पास ज्यादा पैसा CASA खातों में जमा है, तो बैंक को उन पैसों पर बहुत कम ब्याज चुकाना पड़ता है, जिससे बैंक का खर्च (निधि की लागत) कम हो जाता है और मुनाफा बढ़ता है (कथन 2 सही)। अतः सभी कथन सत्य हैं।\n\nसरल भाषा में: CASA मतलब आपका आम सेविंग अकाउंट और व्यापारियों का करंट अकाउंट। जब आप अपना पैसा फिक्स्ड डिपॉजिट (FD) में रखते हैं, तो बैंक को आपको 7-8% ब्याज देना पड़ता है। लेकिन सेविंग में बैंक आपको सिर्फ 3% देता है और करंट अकाउंट में तो एक रुपया भी नहीं देता! इसलिए बैंक चाहता है कि लोग ज्यादा पैसा सेविंग और करंट (CASA) में ही रखें, ताकि बैंक को मुफ्त या बहुत सस्ते में पैसा मिल जाए और उसका बिजनेस फायदे में रहे।[cite: 5]",
+      "en": "CASA simply stands for Current Account and Savings Account (Statement 1 is right). Banks pay 0% interest on Current Accounts and a very low interest rate on Savings Accounts (Statement 3 is right). Because this money is extremely cheap for the bank to hold compared to expensive Fixed Deposits, a high CASA ratio lowers the bank's overall 'Cost of Funds', leading to higher profitability (Statement 2 is right). Thus, all statements are completely correct.\n\nIn simple terms: CASA is the regular bank accounts that you and businessmen use every day. If you lock your money in an FD, the bank is forced to pay you a high 8% interest. But in a regular Current account, they pay 0% interest. For the bank, this CASA money is basically free cash! The more free cash a bank has, the more profit it makes when it lends that money to others.[cite: 5]"
+    }
+  },
+  {
+    "id": 42,
+    "subject": "Economics",
+    "topic": "Credit Information Companies (CIC)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "ये कंपनियां केवल बैंकों के डेटा को प्रोसेस करती हैं और गैर-बैंकिंग वित्तीय कंपनियों (NBFCs) का डेटा इनके दायरे से बाहर है।",
+        "en": "These companies only process data from banks, and data from Non-Banking Financial Companies (NBFCs) is outside their scope."
+      },
+      {
+        "hi": "भारत में काम कर रही सभी CICs को RBI द्वारा लाइसेंस प्राप्त है और ये 'क्रेडिट सूचना कंपनी (विनियमन) अधिनियम, 2005' के तहत विनियमित हैं।",
+        "en": "All CICs working in India are licensed by the RBI and are regulated under the 'Credit Information Companies (Regulation) Act, 2005'."
+      },
+      {
+        "hi": "इनका मुख्य कार्य ग्राहकों के क्रेडिट इतिहास (Credit History) को सुरक्षित रखना और रिपोर्ट तैयार करना है।",
+        "en": "Their main function is to safeguard the credit history of customers and prepare reports."
+      }
+    ],
+    "question": {
+      "hi": "'क्रेडिट सूचना कंपनियों' (Credit Information Companies - CIC) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:[cite: 5]",
+      "en": "Consider the following statements regarding 'Credit Information Companies' (CIC):[cite: 5]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "क्रेडिट सूचना कंपनियां (जैसे CIBIL, Equifax) ग्राहकों का क्रेडिट रिकॉर्ड (लोन चुकाने का इतिहास) रखती हैं (कथन 3 सही)। ये 2005 के कानून के तहत RBI द्वारा लाइसेंस प्राप्त होती हैं (कथन 2 सही)। लेकिन यह कहना गलत है कि वे 'केवल' बैंकों का डेटा रखती हैं; सभी गैर-बैंकिंग वित्तीय कंपनियां (NBFCs), क्रेडिट कार्ड कंपनियां और माइक्रोफाइनेंस संस्थाएं भी अपना डेटा इन्हें भेजती हैं। अतः कथन 1 गलत है।\n\nसरल भाषा में: CICs वो कंपनियां हैं जो आपका 'सिबिल स्कोर' (CIBIL Score) बनाती हैं। इनका काम आपकी एक जन्म-कुंडली तैयार करना है कि आपने पास्ट में लोन का पैसा सही समय पर लौटाया था या नहीं (कथन 3 सही)। इन्हें RBI कंट्रोल करता है (कथन 2 सही)। लेकिन क्या ये सिर्फ 'बैंकों' से जानकारी लेती हैं? नहीं! अगर आपने किसी प्राइवेट फाइनेंस कंपनी (NBFC) या मोबाइल ऐप से भी लोन लिया है और पैसा नहीं चुकाया, तो वो भी इन कंपनियों को बता देंगे और आपका स्कोर खराब हो जाएगा। इसलिए कथन 1 गलत है।[cite: 5]",
+      "en": "Credit Information Companies (like CIBIL) collect and maintain the credit histories of borrowers to generate credit scores (Statement 3 is right). They are strictly regulated and licensed by the RBI under the 2005 Act (Statement 2 is right). However, it is entirely false to claim they ONLY process bank data. NBFCs, housing finance companies, and credit card issuers are all legally mandated members who share borrowing data with CICs. Thus, statement 1 is incorrect.\n\nIn simple terms: CICs are companies that give you a 'Credit Score'. They keep a permanent record of whether you are a good borrower or a defaulter (Statement 3). The RBI acts as their strict boss (Statement 2). But do they only spy on your bank loans? No! If you took a loan to buy a TV from a private finance company (NBFC) and didn't pay it back, that company will also report you to the CIC, and your score will crash. So, Statement 1 is totally wrong.[cite: 5]"
+    }
+  },
+  {
+    "id": 43,
+    "subject": "Economics",
+    "topic": "Internal Ombudsman (IO)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "RBI ने बैंकों के लिए एक 'आंतरिक लोकपाल' नियुक्त करना अनिवार्य बनाया है, जो बैंक के भीतर ही शिकायतों के निवारण का कार्य करता है।",
+        "en": "The RBI has made it mandatory for banks to appoint an 'Internal Ombudsman', who works to redress complaints within the bank itself."
+      },
+      {
+        "hi": "यह बैंक के आंतरिक शिकायत निवारण तंत्र की विफलता के बाद शिकायतों को सुलझाने की एक स्वतंत्र परत है।",
+        "en": "It is an independent layer of resolution to settle complaints after the failure of the bank's internal grievance redressal mechanism."
+      },
+      {
+        "hi": "आंतरिक लोकपाल का निर्णय बैंक के लिए अंतिम होता है और ग्राहक इसके खिलाफ बैंकिंग लोकपाल (Banking Ombudsman) के पास नहीं जा सकता।",
+        "en": "The decision of the internal ombudsman is final for the bank, and the customer cannot approach the Banking Ombudsman against it."
+      }
+    ],
+    "question": {
+      "hi": "'आंतरिक लोकपाल' (Internal Ombudsman) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:[cite: 5]",
+      "en": "Consider the following statements regarding the 'Internal Ombudsman' (IO):[cite: 5]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "RBI ने बैंकों से कहा है कि वे अपने बैंक के अंदर ही एक 'आंतरिक लोकपाल' रखें। जब बैंक का आम कस्टमर केयर किसी ग्राहक की शिकायत को सुलझाने में नाकाम रहता है, तो फाइल इस 'आंतरिक लोकपाल' के पास जाती है (कथन 1 और 2 सही)। लेकिन यह ग्राहक के लिए आखिरी दरवाजा नहीं है। अगर ग्राहक इस आंतरिक लोकपाल के फैसले से भी खुश नहीं है, तो वह RBI के मुख्य 'बैंकिंग लोकपाल' के पास आराम से शिकायत लेकर जा सकता है। अतः कथन 3 गलत है।\n\nसरल भाषा में: 'आंतरिक लोकपाल' बैंक का ही एक खास अधिकारी होता है जो बैंक और आपके बीच के झगड़े सुलझाता है (कथन 1)। जब बैंक का आम मैनेजर आपकी बात नहीं सुनता, तब आपकी शिकायत इस अधिकारी के पास जाती है (कथन 2)। लेकिन क्या वह सुप्रीम जज है? नहीं! अगर आपको उसका फैसला भी गलत लगे, तो आप बाहर जाकर सीधे RBI के बड़े 'बैंकिंग लोकपाल' से उसकी शिकायत कर सकते हैं। इसलिए यह कहना गलत है कि ग्राहक आगे शिकायत नहीं कर सकता (कथन 3 गलत है)।[cite: 5]",
+      "en": "The RBI mandated banks to appoint an Internal Ombudsman (IO) at the apex of their internal grievance redressal mechanism (Statement 1 is right). If a bank decides to reject a customer's complaint, it must first be reviewed independently by this IO before officially communicating the rejection to the customer (Statement 2 is right). However, this internal process does not strip customers of their legal rights. If the customer is still unsatisfied, they are completely free to escalate the issue to the RBI's official external Banking Ombudsman. Thus, statement 3 is completely false.\n\nIn simple terms: The Internal Ombudsman is a special referee hired by the bank. If the regular bank manager rejects your complaint, this referee takes a second look to see if the manager was being unfair (Statements 1 & 2 are correct). But if this referee also says 'no', does that mean game over for you? Absolutely not! You can still walk out and complain to the RBI's big official referee (the Banking Ombudsman). So, Statement 3 is wrong.[cite: 5]"
+    }
+  },
+  {
+    "id": 44,
+    "subject": "Economics",
+    "topic": "Interest Subvention Scheme",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "समय पर ऋण चुकाने वाले किसानों को सरकार द्वारा ब्याज में छूट प्रदान की जाती है।",
+        "en": "Farmers who repay their loans on time are provided an interest discount by the government."
+      },
+      {
+        "hi": "यह अनुदान (Subvention) RBI द्वारा सीधे किसानों के खाते में जमा किया जाता है।",
+        "en": "This subvention is deposited directly into the farmers' accounts by the RBI."
+      },
+      {
+        "hi": "यह योजना केवल फसल उत्पादन ऋण (Crop Loans) तक सीमित नहीं है, इसमें अन्य कृषि संबंधी खर्चे भी शामिल हो सकते हैं।",
+        "en": "This scheme is not limited only to Crop Loans; it can also include other agriculture-related expenses."
+      }
+    ],
+    "question": {
+      "hi": "'किसान क्रेडिट कार्ड' (KCC) के तहत 'ब्याज अनुदान योजना' (Interest Subvention Scheme) के बारे में क्या सत्य है?[cite: 5]",
+      "en": "What is true about the 'Interest Subvention Scheme' under the 'Kisan Credit Card' (KCC)?[cite: 5]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "ब्याज अनुदान योजना के तहत, जो किसान समय पर अपना कर्ज चुका देते हैं, सरकार उन्हें ब्याज में अतिरिक्त छूट (जैसे 3% की छूट) देती है (कथन 1 सही)। यह योजना खेती के अलावा पशुपालन और मछली पालन जैसे कृषि संबंधी खर्चों के लिए भी मिलती है (कथन 3 सही)। लेकिन यह पैसा 'RBI' सीधे किसानों के खाते में नहीं डालता! यह अनुदान भारत सरकार द्वारा बैंकों को दिया जाता है, और फिर बैंक किसानों का ब्याज कम कर देते हैं। अतः कथन 2 गलत है।\n\nसरल भाषा में: सरकार किसानों को खेती के लिए बहुत सस्ते ब्याज (जैसे 7%) पर लोन देती है। अगर किसान ईमानदारी से समय पर पैसा लौटा दे, तो सरकार खुश होकर 3% ब्याज और माफ कर देती है (कथन 1 सही)। यह छूट फसल उगाने के साथ-साथ गाय-भैंस पालने वालों को भी मिलती है (कथन 3 सही)। लेकिन क्या RBI सीधे किसान के खाते में पैसे भेजता है? नहीं! RBI किसी आम आदमी के खाते में पैसे नहीं डालता। यह छूट सरकार की तरफ से सीधे उस बैंक को दी जाती है जहाँ से किसान ने लोन लिया है, जिससे किसान का लोन अपने आप कम हो जाता है (इसलिए कथन 2 गलत है)।[cite: 5]",
+      "en": "Under the Interest Subvention Scheme, the government provides a prompt repayment incentive (typically 3%) to farmers who clear their short-term agricultural loans on time, effectively making the loan very cheap (Statement 1 is right). This scheme has been expanded to include allied agricultural activities like animal husbandry and fisheries, not just crop loans (Statement 3 is right). However, the central bank (RBI) does NOT direct-deposit money into farmers' retail bank accounts. The Central Government provides the subsidy funds to the commercial banks, which then lower the effective interest rate for the farmer. Thus, statement 2 is completely false.\n\nIn simple terms: The government offers super-cheap loans to farmers. If a farmer is honest and repays the loan on time, the government gives them an extra discount on the interest as a reward (Statement 1). This loan isn't just for growing wheat; a farmer can use it to buy cows or fish too (Statement 3). But does the RBI boss personally transfer cashback into the farmer's account? No! The government pays the local bank, and the local bank simply removes the interest from the farmer's loan bill. So, Statement 2 is wrong.[cite: 5]"
+    }
+  },
+  {
+    "id": 45,
+    "subject": "Economics",
+    "topic": "Urban Cooperative Banks (UCB) Regulation",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "अब RBI UCBs के बोर्ड का पुनर्गठन (Supersession of Board) कर सकता है।",
+        "en": "Now RBI can supersede the Board of Directors of UCBs."
+      },
+      {
+        "hi": "UCBs को अब अन्य वाणिज्यिक बैंकों की तरह ही बैंकिंग लाइसेंस के लिए RBI के कड़े मानदंडों का पालन करना होगा।",
+        "en": "UCBs will now have to comply with RBI's strict norms for banking licenses, just like other commercial banks."
+      },
+      {
+        "hi": "RBI अब UCBs के विलय (Amalgamation) और समापन की प्रक्रिया को भी नियंत्रित कर सकता है।",
+        "en": "RBI can now also control the process of amalgamation and winding up of UCBs."
+      }
+    ],
+    "question": {
+      "hi": "'बैंकिंग विनियमन (संशोधन) अधिनियम, 2020' के बाद शहरी सहकारी बैंकों (UCBs) पर RBI का नियंत्रण कैसे बढ़ा है?[cite: 5]",
+      "en": "How has the RBI's control over Urban Cooperative Banks (UCBs) increased after the 'Banking Regulation (Amendment) Act, 2020'?[cite: 5]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "PMC बैंक और अन्य सहकारी बैंकों के घोटालों के बाद, 2020 में कानून बदला गया। इसके तहत RBI को 'शहरी सहकारी बैंकों' (UCBs) पर भी वाणिज्यिक बैंकों जैसी ही सख्त पावर दे दी गई। अब RBI इन बैंकों के भ्रष्ट मालिकों (बोर्ड) को हटाकर अपना प्रशासक बिठा सकता है (कथन 1 सही)। इन्हें लाइसेंस के लिए कड़े नियमों का पालन करना होगा (कथन 2 सही)। और अगर कोई बैंक डूब रहा हो, तो RBI उसका किसी दूसरे बैंक में विलय (Merger) कर सकता है या उसे हमेशा के लिए बंद करवा सकता है (कथन 3 सही)। अतः सभी कथन सत्य हैं।\n\nसरल भाषा में: पहले सहकारी बैंकों पर राज्य सरकार का भी थोड़ा कंट्रोल होता था, जिससे वहां बहुत घोटाले होते थे। लेकिन 2020 के नए कानून ने RBI को इन बैंकों का पूरा 'बॉस' बना दिया। अब RBI इन बैंकों के भ्रष्ट मैनेजरों को कुर्सी से हटा सकता है (1), इनसे आम बड़े बैंकों की तरह सख्ती से नियम मनवा सकता है (2), और अगर बैंक डूबने लगे तो उसे किसी बड़े बैंक के साथ जोड़ सकता है या ताला लगवा सकता है (3)। इसलिए तीनों बातें 100% सही हैं।[cite: 5]",
+      "en": "Following several massive scams in cooperative banks, the Banking Regulation Act was amended in 2020 to bring Urban Cooperative Banks (UCBs) under the direct, stringent supervision of the RBI, perfectly mirroring its control over regular commercial banks. The RBI now holds statutory power to supersede corrupt UCB boards (Statement 1), enforce strict capital and licensing norms (Statement 2), and force mergers or complete liquidation to protect depositors (Statement 3). All statements are completely correct.\n\nIn simple terms: In the past, Cooperative banks had loose rules, leading to massive frauds where innocent people lost their savings. In 2020, the government changed the law and gave the RBI a giant stick. Now, the RBI can fire the entire management of a bad cooperative bank (1), force them to follow the exact same strict rules as big banks like SBI (2), and forcibly merge a dying cooperative bank with a healthy one to save the public's money (3). All points are true.[cite: 5]"
+    }
+  },
+  {
+    "id": 46,
+    "subject": "Economics",
+    "topic": "Green Deposits Framework",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "इसका मुख्य उद्देश्य विनियमित संस्थाओं (Regulated Entities) को ऐसी जमा राशि स्वीकार करने की अनुमति देना है जिसका उपयोग पर्यावरण अनुकूल परियोजनाओं के लिए किया जाए।",
+        "en": "Its main objective is to allow Regulated Entities to accept deposits that are to be used for environment-friendly projects."
+      },
+      {
+        "hi": "यह ढांचा केवल सार्वजनिक क्षेत्र के बैंकों के लिए ही है।",
+        "en": "This framework is only for public sector banks."
+      },
+      {
+        "hi": "बैंकों को 'ग्रीन डिपॉजिट्स' का उपयोग करने के बाद एक वार्षिक 'इम्पैक्ट रिपोर्ट' (Impact Report) देना अनिवार्य है।",
+        "en": "It is mandatory for banks to provide an annual 'Impact Report' after utilizing the 'Green Deposits'."
+      }
+    ],
+    "question": {
+      "hi": "RBI के 'ग्रीन डिपॉजिट्स' (Green Deposits Framework) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:[cite: 5]",
+      "en": "Consider the following statements regarding the RBI's 'Green Deposits Framework':[cite: 5]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "ग्रीन डिपॉजिट फ्रेमवर्क के तहत बैंक आम जनता से पैसे जमा करते हैं और वादा करते हैं कि इस पैसे का उपयोग सिर्फ प्रदूषण कम करने वाले कामों (जैसे सोलर ऊर्जा) में होगा (कथन 1 सही)। बैंकों को हर साल यह रिपोर्ट (Impact Report) देनी होती है कि इस पैसे से पर्यावरण को सच में कितना फायदा हुआ (कथन 3 सही)। लेकिन यह नियम केवल सरकारी बैंकों (Public Sector Banks) के लिए नहीं है, बल्कि प्राइवेट और विदेशी बैंकों (सभी विनियमित संस्थाओं) पर भी लागू होता है। अतः कथन 2 गलत है।\n\nसरल भाषा में: 'ग्रीन डिपॉजिट' एक खास तरह की FD (फिक्स्ड डिपॉजिट) है। जब आप इसमें पैसा डालते हैं, तो बैंक कसम खाता है कि वो आपका पैसा सिर्फ उन कंपनियों को लोन में देगा जो पर्यावरण बचाती हैं (कथन 1 सही)। साल के अंत में बैंक को एक रिपोर्ट कार्ड भी दिखाना होता है कि आपके पैसे से असल में कितना प्रदूषण कम हुआ (कथन 3 सही)। यह अच्छी योजना भारत के सभी बैंकों (प्राइवेट और सरकारी) के लिए खुली है, सिर्फ सरकारी बैंकों के लिए नहीं (इसलिए कथन 2 गलत है)।[cite: 5]",
+      "en": "The Green Deposit framework allows banks to raise funds explicitly earmarked for financing green activities like renewable energy (Statement 1 is right). To prevent 'greenwashing' (lying about environmental benefits), banks must publish an annual independent Impact Report verifying the environmental benefits achieved with those funds (Statement 3 is right). However, this framework applies universally to all Regulated Entities, including Private Sector Banks, Foreign Banks, and eligible NBFCs, not just Public Sector Banks. Thus, statement 2 is totally false.\n\nIn simple terms: A 'Green Deposit' is a special Fixed Deposit. When you put your money in it, the bank legally promises to lend that money only to eco-friendly businesses, like wind farms (Statement 1). To prove they aren't lying, the bank must publish a yearly report showing exactly how much pollution was reduced using your money (Statement 3). This awesome feature is available at all major banks, including private ones like HDFC or ICICI, not just government banks (so Statement 2 is wrong).[cite: 5]"
+    }
+  },
+  {
+    "id": 47,
+    "subject": "Economics",
+    "topic": "Banking Frauds",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "धोखाधड़ी को जल्द से जल्द पहचानना और संबंधित एजेंसियों (जैसे CBI/EOW) को सूचित करना।",
+        "en": "To identify fraud as early as possible and report it to concerned agencies (like CBI/EOW)."
+      },
+      {
+        "hi": "बैंक की बैलेंस शीट से NPA को पूरी तरह मिटाना।",
+        "en": "To completely erase NPAs from the bank's balance sheet."
+      },
+      {
+        "hi": "यह सुनिश्चित करना कि बैंक धोखाधड़ी के नुकसान के लिए प्रावधान (Provisioning) करें।",
+        "en": "To ensure that banks make provisioning for the losses incurred due to fraud."
+      }
+    ],
+    "question": {
+      "hi": "RBI की 'बैंकिंग धोखाधड़ी' (Frauds - Classification and Reporting) दिशानिर्देशों के तहत, धोखाधड़ी के वर्गीकरण का मुख्य उद्देश्य क्या है?[cite: 5]",
+      "en": "Under RBI's 'Frauds - Classification and Reporting' guidelines, what is the main objective of classifying frauds?[cite: 5]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "जब बैंक में कोई घोटाला (धोखाधड़ी) होता है, तो RBI के नियमों के अनुसार बैंक को तुरंत पुलिस/CBI को खबर करनी होती है (कथन 1 सही)। साथ ही, बैंक को उस नुकसान की भरपाई के लिए अपने मुनाफे में से पैसे (Provisioning) अलग रखने पड़ते हैं (कथन 3 सही)। लेकिन धोखाधड़ी घोषित करने से डूबा हुआ कर्ज (NPA) बैलेंस शीट से 'पूरी तरह मिट' नहीं जाता; वह रिकवरी या कानूनी प्रक्रिया का हिस्सा बना रहता है। धोखाधड़ी रिपोर्टिंग का उद्देश्य NPA को जादू से मिटाना नहीं है। अतः कथन 2 गलत है।\n\nसरल भाषा में: अगर बैंक को पता चले कि किसी अमीर आदमी ने जाली कागजात दिखाकर करोड़ों का लोन मार लिया है (फ्रॉड), तो बैंक का पहला काम है तुरंत पुलिस (CBI) को बुलाना (कथन 1 सही)। दूसरा काम है कि उस घाटे को सहने के लिए अपनी गुल्लक में अलग से पैसे बचाकर रखना (प्रोविजनिंग) (कथन 3 सही)। लेकिन क्या पुलिस में कंप्लेंट करने से वो घाटा डायरी (बैलेंस शीट) से जादू से गायब (मिट) हो जाएगा? बिल्कुल नहीं! घाटा तो घाटा ही रहेगा जब तक पैसा वापस न मिले (इसलिए कथन 2 गलत है)।[cite: 5]",
+      "en": "The RBI's fraud reporting framework ensures that the moment a fraud is detected, banks promptly alert law enforcement (like CBI or Economic Offences Wing) to stop the criminals (Statement 1 is right). Additionally, upon declaring a fraud, banks are strictly required to make 100% provisioning to cover the financial loss (Statement 3 is right). However, reporting a fraud does not magically erase the Non-Performing Asset (NPA) from the balance sheet. The bad loan remains on the books until recovered or legally written off. Thus, statement 2 is completely false.\n\nIn simple terms: If a bank catches a billionaire taking a loan using fake documents (fraud), the RBI demands two things: immediately call the police/CBI (Statement 1), and immediately set aside emergency cash to cover the massive loss (Statement 3). But calling the police doesn't magically delete the loss from the bank's account books. The bad loan (NPA) stays on the record until the police get the money back (so Statement 2 is wrong).[cite: 5]"
+    }
+  },
+  {
+    "id": 48,
+    "subject": "Economics",
+    "topic": "Sovereign Gold Bonds (SGB)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "SGB को स्टॉक एक्सचेंज पर ट्रेड किया जा सकता है, जिससे इनमें तरलता (Liquidity) बनी रहती है।",
+        "en": "SGBs can be traded on the stock exchange, which maintains their liquidity."
+      },
+      {
+        "hi": "इन पर मिलने वाला ब्याज आयकर अधिनियम के तहत पूरी तरह कर-मुक्त है।",
+        "en": "The interest earned on them is completely tax-free under the Income Tax Act."
+      },
+      {
+        "hi": "इनकी परिपक्वता अवधि 8 वर्ष होती है, लेकिन 5 वर्ष बाद 'एक्जिट' (Exit) का विकल्प मिलता है।",
+        "en": "Their maturity period is 8 years, but an 'Exit' option is available after 5 years."
+      }
+    ],
+    "question": {
+      "hi": "सॉवरेन गोल्ड बांड (SGB) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:[cite: 5]",
+      "en": "Consider the following statements regarding Sovereign Gold Bonds (SGB):[cite: 5]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "सॉवरेन गोल्ड बांड (SGB) शेयर बाजार (Stock Exchange) में खरीदे-बेचे जा सकते हैं, जिससे आप जरूरत पड़ने पर इन्हें बेचकर कैश ले सकते हैं (कथन 1 सही)। इसकी मियाद (Maturity) 8 साल की होती है, लेकिन सरकार 5 साल बाद भी आपको पैसा वापस लेने (Exit) का मौका देती है (कथन 3 सही)। लेकिन, इन बांड्स पर हर साल जो 2.5% ब्याज मिलता है, वह 'कर-मुक्त' (Tax-free) नहीं होता! आपको उस ब्याज पर अपने स्लैब के अनुसार इनकम टैक्स देना पड़ता है। (हालाँकि, परिपक्वता पर सोने के भाव बढ़ने से जो मुनाफा होता है, वह टैक्स-फ्री होता है)। अतः ब्याज को कर-मुक्त कहना गलत है (कथन 2 गलत)।\n\nसरल भाषा में: 'गोल्ड बांड' एक सरकारी कागज है जो सोने के भाव पर चलता है। अगर आपको बीच में ही पैसों की जरूरत पड़े, तो आप इस कागज को शेयर बाजार में किसी और को बेचकर पैसे (तरलता) पा सकते हैं (कथन 1 सही)। यह कागज 8 साल के लिए होता है, लेकिन आप 5 साल बाद भी सरकार को वापस कर सकते हैं (कथन 3 सही)। सरकार इस पर हर साल थोड़ा सा ब्याज भी देती है। लेकिन क्या वो ब्याज टैक्स-फ्री है? बिल्कुल नहीं! आपको उस ब्याज की कमाई पर टैक्स देना ही पड़ेगा (इसलिए कथन 2 गलत है)।[cite: 5]",
+      "en": "Sovereign Gold Bonds (SGB) are tradable on recognized stock exchanges, which gives them secondary market liquidity (Statement 1 is right). The tenure of the bond is 8 years, with an option to exit prematurely after the 5th year (Statement 3 is right). However, the fixed 2.5% annual interest paid on these bonds is fully taxable as per the investor's income tax slab. It is NOT tax-free. (Note: Only the capital gains tax arising upon redemption at maturity is exempt, not the annual interest). Thus, statement 2 is completely false.\n\nIn simple terms: A Sovereign Gold Bond is a digital paper of gold. If you suddenly need cash, you don't have to wait; you can sell this paper to someone else on the stock market (Statement 1 is right). The paper lasts for 8 years, but the government lets you cash it out after 5 years if you want (Statement 3 is right). The government also pays you a small interest every year. But is this interest money tax-free? No way! You must pay regular income tax on that interest money (so Statement 2 is wrong).[cite: 5]"
+    }
+  },
+  {
+    "id": 49,
+    "subject": "Economics",
+    "topic": "Priority Sector Lending (PSL) - Renewable Energy",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "सोलर पावर (Solar Power)",
+        "en": "Solar Power"
+      },
+      {
+        "hi": "बायो-मास पावर (Bio-mass Power)",
+        "en": "Bio-mass Power"
+      },
+      {
+        "hi": "लघु जल-विद्युत संयंत्र (Small Hydro-power plants)",
+        "en": "Small Hydro-power plants"
+      }
+    ],
+    "question": {
+      "hi": "प्राथमिकता प्राप्त क्षेत्र (PSL) में 'अक्षय ऊर्जा' (Renewable Energy) के अंतर्गत क्या शामिल है?[cite: 5]",
+      "en": "What is included under 'Renewable Energy' in Priority Sector Lending (PSL)?[cite: 5]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "RBI के प्राथमिकता प्राप्त क्षेत्र (Priority Sector Lending - PSL) नियमों के अनुसार, बैंकों को अपना कुछ लोन देश के विकास वाले क्षेत्रों को देना जरूरी होता है। 'अक्षय ऊर्जा' (Renewable Energy) भी इसी का एक हिस्सा है। इसमें सोलर पैनल (Solar), कूड़े से बिजली बनाने वाले प्लांट (Bio-mass), और नदियों पर बनने वाले छोटे बिजली प्रोजेक्ट (Small Hydro-power) सभी शामिल हैं। इसलिए बैंक इन तीनों कामों के लिए लोन देते हैं, तो वह PSL के तहत गिना जाता है। अतः सभी सही हैं।\n\nसरल भाषा में: RBI कहता है कि बैंकों को प्रदूषण न फैलाने वाली (अक्षय) ऊर्जा को बढ़ावा देने के लिए सस्ता और आसानी से लोन देना चाहिए। अब चाहे आप धूप से बिजली बनाने की फैक्ट्री (सोलर) लगा रहे हों, खेती के कचरे से गैस बना रहे हों (बायो-मास), या छोटी नदी पर छोटा सा टरबाइन (लघु जल-विद्युत) लगा रहे हों, बैंक इन सभी अच्छे कामों के लिए आपको ख़ुशी-ख़ुशी लोन देंगे और उसे अपनी 'अच्छी लिस्ट' (PSL) में गिनेंगे। इसलिए 1, 2 और 3 तीनों सही हैं।[cite: 5]",
+      "en": "Under the RBI's Priority Sector Lending (PSL) guidelines, banks are mandated to lend to vital sectors of the economy. 'Renewable Energy' is recognized as a specific priority category. Loans given to setup Solar power generators, Biomass power generators, and Small Hydro-power plants all qualify as PSL. Wind mills, street lighting systems, and remote village electrification are also included. Therefore, all three options correctly fall under this category.\n\nIn simple terms: The RBI forces banks to give a chunk of their loans to things that are good for the country. Clean, green energy is on this 'good list' (PSL). So, if a businessman asks the bank for a loan to build giant solar panels, a plant that burns farm waste to make electricity (biomass), or a tiny dam on a river (small hydro), the bank will happily give the loan because it fulfills their 'good deed' quota. All three are correct.[cite: 5]"
+    }
+  },
+  {
+    "id": 50,
+    "subject": "Economics",
+    "topic": "Bank Rate vs Repo Rate",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "रेपो दर RBI द्वारा 'तरलता प्रबंधन' के लिए उपयोग की जाती है, जबकि बैंक दर 'दीर्घकालिक पुनर्वित्त' (Long-term refinance) के लिए अधिक उपयुक्त है।",
+        "en": "The Repo rate is used by the RBI for 'liquidity management', whereas the Bank rate is more suited for 'Long-term refinance'."
+      },
+      {
+        "hi": "रेपो दर पर बैंक को सरकारी प्रतिभूतियाँ देनी पड़ती हैं, जबकि बैंक दर एक डिस्काउंट विंडो की तरह कार्य करती है जहाँ बिना गिरवी (Collateral) के ऋण मिलता है।",
+        "en": "At the Repo rate, banks have to provide government securities, whereas the Bank rate acts like a discount window where loans are available without collateral."
+      },
+      {
+        "hi": "बैंक दर में वृद्धि अनिवार्य रूप से रेपो दर में वृद्धि का संकेत देती है।",
+        "en": "An increase in the Bank Rate inevitably signals an increase in the Repo Rate."
+      }
+    ],
+    "question": {
+      "hi": "रेपो दर और बैंक दर के बीच का मुख्य अंतर निम्नलिखित में से कौन सा है?[cite: 5]",
+      "en": "Which of the following is the main difference between the Repo Rate and the Bank Rate?[cite: 5]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "रेपो दर शॉर्ट-टर्म (छोटे समय) में कैश मैनेज करने का टूल है, जिसमें बैंक को सरकारी बांड गिरवी रखने पड़ते हैं। वहीं, बैंक दर लंबे समय (दीर्घकालिक) के लिए बिना किसी गारंटी (Collateral-free) के पैसा देने का टूल है (कथन 1 और 2 सही हैं)। आजकल RBI ने बैंक दर को रेपो दर से 'जोड़' रखा है, जिसका मतलब है कि 'रेपो दर' के बढ़ने पर बैंक दर बढ़ती है। बैंक दर खुद मुख्य दर (Leading indicator) नहीं है जो रेपो दर को चलाए। इसलिए यह कहना कि बैंक दर का बढ़ना रेपो दर के बढ़ने का संकेत (सिग्नल) देता है, तकनीकी रूप से उलटा है। अतः कथन 3 गलत है।\n\nसरल भाषा में: 'रेपो रेट' 1-2 दिन का झटपट लोन है जिसमें बैंक को अपने सरकारी कागज गिरवी रखने पड़ते हैं। 'बैंक रेट' लंबे समय का लोन है जिसमें कुछ गिरवी नहीं रखना पड़ता (कथन 1 और 2 सही)। आज के समय में RBI का मुख्य हथियार 'रेपो रेट' है। जब रेपो रेट बदलता है, तो बैंक रेट भी उसके पीछे-पीछे बदल जाता है। यानी 'इंजन' रेपो रेट है और 'डिब्बा' बैंक रेट है। इसलिए कथन 3 उलटा लिखा है कि 'डिब्बे के चलने से इंजन के चलने का संकेत मिलता है'। इसलिए 3 गलत है।[cite: 5]",
+      "en": "The Repo rate is an overnight/short-term liquidity tool strictly requiring collateral (G-Secs). The Bank rate is traditionally a long-term discount window tool requiring no strict collateral (Statements 1 and 2 are true). Currently, the Repo rate is the primary policy rate. The RBI pegs the Bank rate to the Repo rate (usually keeping it 25 basis points higher). Thus, changes in the Repo rate drive changes in the Bank rate, not the other way around. Statement 3 implies the Bank rate is the leading indicator signaling Repo rate hikes, which is backwards. Thus, statement 3 is wrong.\n\nIn simple terms: Repo Rate is a quick 1-day loan where the bank MUST leave government papers as a security deposit. Bank Rate is a long-term loan where no security deposit is required (Statements 1 & 2 are correct). Today, the 'Repo Rate' is the big boss. If the big boss moves, the Bank Rate automatically follows it like a shadow. Statement 3 claims that the shadow moving signals that the boss is about to move. That's backwards! The boss moves first. So, Statement 3 is wrong.[cite: 5]"
+    }
+  }
+]

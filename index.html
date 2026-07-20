@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>XYZ | Home</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="home-page">
+  <div class="hero-shell">
+    <header class="hero-header">
+      <div class="brand-block">
+        <img src="ashoka.jpg" alt="Ashoka Logo" class="brand-logo">
+        <div>
+          <p class="brand-kicker">Official Learning Platform</p>
+          <h1>XYZ</h1>
+        </div>
+      </div>
+      <nav class="hero-nav">
+        <a href="index.html">Home</a>
+      </nav>
+    </header>
+
+    <main class="hero-content">
+      <section class="hero-copy">
+        <p class="section-label">Smart Practice Hub</p>
+        <h2>Explore multiple quizzes with one clean experience.</h2>
+        <p class="hero-text">Choose a quiz set below to begin. Filter by exam type or sort as per your preference.</p>
+      </section>
+
+      <div class="controls-wrapper">
+        <div class="filter-tabs" id="filterTabs">
+          <button class="tab-btn active" onclick="handleFilter('All')">All Tests</button>
+          <button class="tab-btn" onclick="handleFilter('Mentorship')">Mentorship Tests</button>
+          <button class="tab-btn" onclick="handleFilter('PYQ')">PYQs</button>
+          <button class="tab-btn" onclick="handleFilter('Subject-wise')">Subject-wise</button>
+          <button class="tab-btn" onclick="handleFilter('Test Series')">Test Series</button>
+        </div>
+        
+        <div class="sort-box">
+          <label for="quizSort">Sort By: </label>
+          <select id="quizSort" onchange="handleSort(this.value)">
+            <option value="latest">Last Updated (नवीनतम)</option>
+            <option value="az">Alphabetical (A - Z)</option>
+            <option value="za">Alphabetical (Z - A)</option>
+          </select>
+        </div>
+      </div>
+
+      <section class="quiz-grid" id="quizGrid"></section>
+    </main>
+  </div>
+
+  <script>
+    const quizzes = [
+      { name: 'Mentorship 2026-27 SET-A', file: 'SET-A.json', link: 'quiz.html?quiz=SET-A.json', category: 'Mentorship', lastUpdated: '2026-03-01' },
+      { name: 'Mentorship 2026-27 SET-D', file: 'SET-D.json', link: 'quiz.html?quiz=SET-D.json', category: 'Mentorship', lastUpdated: '2026-03-04' },
+      { name: 'Mentorship 2026-27 SET-C', file: 'SET-C.json', link: 'quiz.html?quiz=SET-C.json', category: 'Mentorship', lastUpdated: '2026-03-03' },
+      { name: 'Indian Economy National Income (50 MCQs)', file: 'National Income 50 MCQs.json', link: 'quiz.html?quiz=National Income 50 MCQs.json', category: 'Subject-wise', lastUpdated: '2026-02-15' },
+      { name: 'Indian Economy Growth vs Development (50 MCQs)', file: 'growth vs devlopment 50 MCQs.json', link: 'quiz.html?quiz=growth vs devlopment 50 MCQs.json', category: 'Subject-wise', lastUpdated: '2026-02-20' },
+      { name: 'Indian Economy Basic Introduction of Economics (50 MCQs)', file: 'Basic Introduction of economics 50 MCQs.json', link: 'quiz.html?quiz=Basic Introduction of economics 50 MCQs.json', category: 'Subject-wise', lastUpdated: '2026-02-18' },
+      { name: 'Indian Economy Money and Money Supply (50 MCQs)', file: 'Money and Money Supply 50 MCQs.json', link: 'quiz.html?quiz=Money and Money Supply 50 MCQs.json', category: 'Subject-wise', lastUpdated: '2026-02-22' },
+      { name: 'Indian Economy Banking (50 MCQs)', file: 'Banking 50 MCQs.json', link: 'quiz.html?quiz=Banking 50 MCQs.json', category: 'Subject-wise', lastUpdated: '2026-07-16' },
+      { name: 'Indian Economy Inflation (50 MCQs)', file: 'Inflation 50 MCQs.json', link: 'quiz.html?quiz=Inflation 50 MCQs.json', category: 'Subject-wise', lastUpdated: '2026-02-18' },
+      { name: 'Indian Economy Tax (50 MCQs)', file: 'Tax 50 MCQs.json', link: 'quiz.html?quiz=Tax 50 MCQs.json', category: 'Subject-wise', lastUpdated: '2026-02-12' },
+      { name: 'Indian Economy India\'s Securities Market (50 MCQs)', file: 'India\'s securities market 50 MCQs.json', link: 'quiz.html?quiz=India\'s securities market 50 MCQs.json', category: 'Subject-wise', lastUpdated: '2026-02-25' },
+      { name: 'Indian Economy Monetary Policy (50 MCQs)', file: 'Monetary policy 50 MCQs.json', link: 'quiz.html?quiz=Monetary policy 50 MCQs.json', category: 'Subject-wise', lastUpdated: '2026-03-01' },
+      { name: 'DTS 2701', file: 'Drishti Test series UPSC (P) 2701.json', link: 'quiz.html?quiz=Drishti Test series UPSC (P) 2701.json', category: 'Test Series', lastUpdated: '2026-07-12' }
+    ];
+
+    let currentCategory = 'All';
+    let currentSortOrder = 'latest';
+    const grid = document.getElementById('quizGrid');
+
+    function renderQuizzes() {
+      let result = currentCategory === 'All' 
+        ? [...quizzes] 
+        : quizzes.filter(q => q.category === currentCategory);
+
+      if (currentSortOrder === 'az') {
+        result.sort((a, b) => a.name.localeCompare(b.name));
+      } else if (currentSortOrder === 'za') {
+        result.sort((a, b) => b.name.localeCompare(a.name));
+      } else if (currentSortOrder === 'latest') {
+        result.sort((a, b) => new Date(b.lastUpdated) - new Date(a.lastUpdated));
+      }
+
+      if (result.length === 0) {
+        grid.innerHTML = `<p class="no-tests">इस श्रेणी में अभी कोई टेस्ट उपलब्ध नहीं है।</p>`;
+        return;
+      }
+
+      grid.innerHTML = result.map(q => `
+        <a class="quiz-card" href="${q.link}">
+          <span class="card-badge">${q.category}</span>
+          <h3>${q.name}</h3>
+          <p>Updated: ${q.lastUpdated}</p>
+          <span>Start Quiz →</span>
+        </a>
+      `).join('');
+    }
+
+    function handleFilter(category) {
+      currentCategory = category;
+      const buttons = document.querySelectorAll('.tab-btn');
+      buttons.forEach(btn => btn.classList.remove('active'));
+      event.target.classList.add('active');
+      renderQuizzes();
+    }
+
+    function handleSort(order) {
+      currentSortOrder = order;
+      renderQuizzes();
+    }
+
+    renderQuizzes();
+  </script>
+</body>
+</html>

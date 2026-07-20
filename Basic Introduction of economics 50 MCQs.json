@@ -1,0 +1,2656 @@
+[
+  {
+    "id": 1,
+    "subject": "Economics",
+    "topic": "Sectors of Economy",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "यह क्षेत्रक मुख्यतः ज्ञान-आधारित आर्थिक गतिविधियों जैसे अनुसंधान एवं विकास (R&D), सूचना प्रौद्योगिकी (IT) और उच्च-स्तरीय परामर्श पर केंद्रित है।",
+        "en": "This sector mainly focuses on knowledge-based economic activities like Research and Development (R&D), Information Technology (IT), and high-level consulting."
+      },
+      {
+        "hi": "यह तृतीयक क्षेत्रक (Tertiary Sector) का ही एक विशेष भाग है, जिसे कभी-कभी 'ज्ञान अर्थव्यवस्था' (Knowledge Economy) भी कहा जाता है।",
+        "en": "It is a specialized part of the Tertiary Sector, which is sometimes also called the 'Knowledge Economy'."
+      },
+      {
+        "hi": "इसमें प्राथमिक और द्वितीयक क्षेत्र की गतिविधियों के लिए केवल कच्चा माल (Raw Material) उपलब्ध कराया जाता है।",
+        "en": "It only provides raw materials for the activities of the primary and secondary sectors."
+      }
+    ],
+    "question": {
+      "hi": "चतुर्थक क्षेत्रक (Quaternary Sector) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the Quaternary Sector:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "चतुर्थक क्षेत्र ज्ञान और अनुसंधान पर आधारित है, जिसे अक्सर 'ज्ञान अर्थव्यवस्था' कहा जाता है, इसलिए कथन 1 और 2 सही हैं। प्राथमिक क्षेत्र (जैसे कृषि) कच्चे माल का उत्पादन करता है, न कि चतुर्थक क्षेत्र, इसलिए कथन 3 गलत है।\n\nसरल भाषा में: सोचिए कि जो लोग खेतों में काम करते हैं, वे हमें कच्चा माल (जैसे कपास) देते हैं, जो 'प्राथमिक क्षेत्र' है (इसलिए कथन 3 गलत है)। लेकिन जो लोग एसी कमरों या लैब में बैठकर नई दवाइयाँ खोजते हैं या कंप्यूटर पर सॉफ्टवेयर बनाते हैं, वे 'चतुर्थक' या ज्ञान वाले क्षेत्र में आते हैं। चूँकि इसमें सिर्फ दिमाग का काम होता है, इसलिए इसे 'ज्ञान की अर्थव्यवस्था' कहते हैं (कथन 1 और 2 बिल्कुल सही हैं)।",
+      "en": "The quaternary sector is based on knowledge and research, often called the 'knowledge economy', making statements 1 and 2 correct. The primary sector (like agriculture) produces raw materials, not the quaternary sector, making statement 3 incorrect.\n\nIn simple terms: Imagine farmers working in fields; they give us raw materials (like cotton), which is the 'Primary Sector' (so statement 3 is wrong). But people who sit in labs inventing new medicines or making computer software belong to the 'Quaternary' sector. Since this requires pure brainpower, it is called the 'Knowledge Economy' (so statements 1 and 2 are absolutely right)."
+    }
+  },
+  {
+    "id": 2,
+    "subject": "Economics",
+    "topic": "Color-based Economy",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "नीली अर्थव्यवस्था (Blue Economy): जल-आधारित आर्थिक गतिविधियाँ (जैसे मत्स्य पालन, समुद्री परिवहन)।",
+        "en": "Blue Economy: Water-based economic activities (e.g., fisheries, maritime transport)."
+      },
+      {
+        "hi": "ग्रे इकोनॉमी (Grey Economy): पूर्णतः पंजीकृत और कर-अनुपालन करने वाली औपचारिक आर्थिक गतिविधियाँ।",
+        "en": "Grey Economy: Fully registered and tax-compliant formal economic activities."
+      },
+      {
+        "hi": "हरित अर्थव्यवस्था (Green Economy): पर्यावरण अनुकूल और निम्न कार्बन उत्सर्जन वाली आर्थिक गतिविधियाँ।",
+        "en": "Green Economy: Environmentally friendly and low-carbon emission economic activities."
+      }
+    ],
+    "question": {
+      "hi": "अर्थव्यवस्था के विभिन्न रंगों के वर्गीकरण के संदर्भ में निम्नलिखित सुमेलनों पर विचार कीजिए:",
+      "en": "Consider the following matches regarding the classification of various colors of the economy:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "नीली अर्थव्यवस्था का संबंध समुद्र और पानी से है, और हरित अर्थव्यवस्था का संबंध पर्यावरण बचाने से है (कथन 1 और 3 सही हैं)। ग्रे अर्थव्यवस्था (Grey Economy) उन अनौपचारिक गतिविधियों को कहते हैं जो टैक्स से बचती हैं। पूरी तरह से पंजीकृत गतिविधियों को 'श्वेत अर्थव्यवस्था' (White Economy) कहते हैं, इसलिए कथन 2 गलत है।\n\nसरल भाषा में: 'नीला' रंग पानी का होता है, तो समुद्र से जुड़ा व्यापार नीली अर्थव्यवस्था है। 'हरा' रंग पेड़ों का होता है, तो पर्यावरण को बचाने वाला व्यापार हरित अर्थव्यवस्था है (कथन 1 और 3 सही)। लेकिन 'ग्रे' (धूसर) का मतलब कुछ ऐसा जो न पूरा काला हो न सफेद; यह वो व्यापार है जो सरकार की नजरों से छिपकर होता है और टैक्स नहीं देता। जो पूरी तरह कानूनी और टैक्स भरने वाला काम होता है उसे 'सफेद' (White) कहते हैं (इसलिए कथन 2 गलत है)।",
+      "en": "The Blue economy relates to oceans, and the Green economy relates to protecting the environment (Statements 1 and 3 are correct). The Grey economy refers to informal activities that evade taxes. Fully registered and compliant activities are called the 'White Economy', so statement 2 is wrong.\n\nIn simple terms: Water is 'blue', so ocean business is the Blue economy. Trees are 'green', so eco-friendly business is the Green economy (Statements 1 & 3 are right). But 'Grey' means something hiding in the shadows; it is business done off-the-books to avoid tax. The fully legal, tax-paying business is called the 'White' economy (so statement 2 is wrong)."
+    }
+  },
+  {
+    "id": 3,
+    "subject": "Economics",
+    "topic": "Factors of Production",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "भूमि (Land) के बदले प्राप्त आय को 'लगान' (Rent) कहा जाता है।",
+        "en": "The income received in exchange for Land is called 'Rent'."
+      },
+      {
+        "hi": "पूंजी (Capital) का तात्पर्य केवल मौद्रिक मुद्रा (Cash) से है, मशीनरी या अवसंरचना से नहीं।",
+        "en": "Capital refers only to monetary currency (Cash), not machinery or infrastructure."
+      },
+      {
+        "hi": "उद्यमी (Entrepreneur) वह कारक है जो उत्पादन के अन्य तीन कारकों (भूमि, श्रम, पूंजी) को संयोजित करता है और जोखिम उठाता है।",
+        "en": "An Entrepreneur is the factor that combines the other three factors of production (land, labor, capital) and bears the risk."
+      }
+    ],
+    "question": {
+      "hi": "उत्पादन के कारकों (Factors of Production) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the Factors of Production:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "अर्थशास्त्र में भूमि के बदले लगान मिलता है, और उद्यमी जोखिम उठाकर बाकी चीजों को मिलाता है (कथन 1 और 3 सही हैं)। अर्थशास्त्र में 'पूंजी' का मतलब सिर्फ नकद पैसा नहीं होता, बल्कि मशीनें, औजार, और इमारतें भी पूंजी का हिस्सा होती हैं, इसलिए कथन 2 गलत है।\n\nसरल भाषा में: अगर आप अपनी जमीन किसी को देते हैं, तो वह आपको 'किराया या लगान' देगा (कथन 1 सही)। एक मालिक (उद्यमी) ही होता है जो जमीन, पैसे और मजदूरों को मिलाकर काम शुरू करता है और डूबने का रिस्क लेता है (कथन 3 सही)। लेकिन बिजनेस में 'पूंजी' का मतलब सिर्फ गल्ले में रखा कैश नहीं होता; आपकी सिलाई मशीन, ट्रैक्टर या दुकान की अलमारियां भी आपकी पूंजी (Capital) हैं (इसलिए कथन 2 गलत है)।",
+      "en": "In economics, land earns rent, and an entrepreneur combines resources by taking risks (Statements 1 and 3 are correct). 'Capital' is not just cash; it includes machinery, tools, and buildings, making statement 2 wrong.\n\nIn simple terms: If you let someone use your land, they pay you 'rent' (Statement 1 is right). A boss (entrepreneur) brings together land, money, and workers to start a business and takes the risk of failing (Statement 3 is right). But in a business, 'Capital' isn't just the physical cash in the drawer; your sewing machine, tractor, or factory building is also your Capital (so statement 2 is wrong)."
+    }
+  },
+  {
+    "id": 4,
+    "subject": "Economics",
+    "topic": "Perfect Competition",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "इस बाज़ार में उत्पादित वस्तुएं गुणवत्ता, आकार और विशेषताओं के आधार पर 'विविध' (Differentiated) होती हैं।",
+        "en": "The goods produced in this market are 'differentiated' based on quality, size, and features."
+      },
+      {
+        "hi": "इसमें प्रत्येक फर्म 'मूल्य-स्वीकर्ता' (Price Taker) होती है, अर्थात वह बाजार द्वारा निर्धारित कीमत पर ही उत्पाद बेच सकती है।",
+        "en": "Each firm here is a 'Price Taker', meaning it can only sell products at the price determined by the market."
+      },
+      {
+        "hi": "इस बाज़ार में नए फर्मों के प्रवेश और निकास पर कोई बाधा नहीं होती।",
+        "en": "There are no barriers to the entry and exit of new firms in this market."
+      }
+    ],
+    "question": {
+      "hi": "'पूर्ण प्रतिस्पर्धा' (Perfect Competition) बाज़ार की एक आदर्श स्थिति है। इसके संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "'Perfect Competition' is an ideal market situation. Consider the following statements regarding this:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "पूर्ण प्रतिस्पर्धा में सभी फर्में बाजार द्वारा तय कीमत मानती हैं (Price Taker) और कोई भी बाज़ार में आ या जा सकता है (कथन 2 और 3 सही हैं)। इस बाजार की सबसे बड़ी पहचान यह है कि सभी वस्तुएं बिल्कुल एक जैसी (समरूप/Homogeneous) होती हैं, वे अलग-अलग (विविध) नहीं होतीं। अतः कथन 1 गलत है।\n\nसरल भाषा में: 'पूर्ण प्रतिस्पर्धा' का मतलब है जैसे गेहूं की मंडी। वहाँ हर किसान का गेहूं एक जैसा (समरूप) दिखता है, अलग-अलग (विविध) नहीं (इसलिए कथन 1 गलत है)। क्योंकि सबका माल एक जैसा है, कोई भी किसान अपनी मर्जी से ज्यादा दाम नहीं मांग सकता, उसे मंडी का रेट ही मानना पड़ता है (कथन 2 सही)। और कल कोई भी नया आदमी आकर मंडी में गेहूं बेच सकता है, कोई रोक-टोक नहीं है (कथन 3 सही)।",
+      "en": "In perfect competition, all firms accept the market price (Price Takers) and there is free entry/exit (Statements 2 and 3 are correct). The biggest hallmark of this market is that all products are exactly identical (homogeneous), not differentiated. Thus, statement 1 is incorrect.\n\nIn simple terms: 'Perfect competition' is like a wheat market. Every farmer's wheat looks exactly the same; there are no special or 'different' features (so statement 1 is wrong). Because everyone's product is identical, no farmer can demand a higher price; they have to accept the ongoing market rate (Statement 2 is right). And tomorrow, anyone can start selling wheat there without any restrictions (Statement 3 is right)."
+    }
+  },
+  {
+    "id": 5,
+    "subject": "Economics",
+    "topic": "Circular Flow of Income",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "घरेलू क्षेत्रक (Households) फर्मों को उत्पादन के कारक (भूमि, श्रम, पूंजी) प्रदान करते हैं।",
+        "en": "Households provide factors of production (land, labor, capital) to firms."
+      },
+      {
+        "hi": "फर्में घरेलू क्षेत्रक को वस्तुओं और सेवाओं के बदले में 'कारक भुगतान' (Factor Payment) प्रदान करती हैं।",
+        "en": "Firms provide 'factor payments' to households in exchange for goods and services."
+      },
+      {
+        "hi": "सरकारी क्षेत्रक (Government Sector) इस प्रवाह में 'रिसाव' (Leakage - कर के रूप में) और 'अंतःक्षेपण' (Injection - सरकारी व्यय के रूप में) दोनों पैदा कर सकता है।",
+        "en": "The Government Sector can create both 'Leakages' (in the form of taxes) and 'Injections' (in the form of government expenditure) in this flow."
+      }
+    ],
+    "question": {
+      "hi": "अर्थव्यवस्था के 'आय के चक्रीय प्रवाह' (Circular Flow of Income) मॉडल के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the 'Circular Flow of Income' model of the economy:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "आय के चक्रीय प्रवाह में आम लोग (Household) कंपनियों को अपनी मेहनत और जमीन देते हैं, और कंपनियां बदले में उन्हें वेतन या किराया (कारक भुगतान) देती हैं। सरकार इस चक्र से टैक्स के रूप में पैसा बाहर निकालती है (रिसाव) और सड़क-पुल बनाकर पैसा वापस डालती है (अंतःक्षेपण)। अतः सभी कथन सही हैं।\n\nसरल भाषा में: यह पैसों के गोल-गोल घूमने की कहानी है। आप कंपनी में काम (श्रम) करते हैं (कथन 1 सही)। कंपनी आपको पगार (पैसा) देती है जिससे आप उसी कंपनी का साबुन खरीदते हैं (कथन 2 सही)। बीच में सरकार आपसे 'टैक्स' लेकर पैसा अपने पास खींच लेती है (लीकेज), और फिर उसी पैसे से आपके लिए पार्क बनाकर पैसा वापस बाजार में डाल देती है (इंजैक्शन)। तो तीनों बातें बिल्कुल सही हैं!",
+      "en": "In the circular flow, households provide labor and land to firms, and firms pay them wages and rent (factor payments). The government extracts money through taxes (leakages) and puts money back into the economy through infrastructure spending (injections). Thus, all statements are true.\n\nIn simple terms: This is the story of how money goes round and round. You go to work for a company (Statement 1 is right). The company pays you a salary so you can buy their products (Statement 2 is right). The government steps in, takes some 'tax' money away from this circle (Leakage), and then spends it on building roads, pumping the money back into the circle (Injection). So, all three points are perfectly correct!"
+    }
+  },
+  {
+    "id": 6,
+    "subject": "Economics",
+    "topic": "Micro vs Macro Economics",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "किसी एक फर्म के उत्पादन का निर्धारण।",
+        "en": "Determining the output of a single firm."
+      },
+      {
+        "hi": "देश की कुल बेरोजगारी दर (Unemployment Rate)।",
+        "en": "The total unemployment rate of the country."
+      },
+      {
+        "hi": "सामान्य मूल्य स्तर और मुद्रास्फीति (Inflation)।",
+        "en": "General price level and inflation."
+      },
+      {
+        "hi": "किसी वस्तु विशेष की कीमत का निर्धारण।",
+        "en": "Determining the price of a specific commodity."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-से विषय 'समष्टि अर्थशास्त्र' (Macro Economics) के अध्ययन का भाग हैं?",
+      "en": "Which of the following topics are part of the study of 'Macro Economics'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3, and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "2, 3 और 4",
+        "en": "2, 3, and 4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "समष्टि अर्थशास्त्र (Macro) पूरी अर्थव्यवस्था का बड़े पैमाने पर अध्ययन करता है, जैसे पूरे देश की बेरोजगारी और कुल महंगाई (कथन 2 और 3 सही)। जबकि किसी 'एक फर्म' का उत्पादन या 'एक वस्तु' की कीमत का अध्ययन व्यष्टि अर्थशास्त्र (Micro) का हिस्सा है (कथन 1 और 4 गलत)।\n\nसरल भाषा में: 'समष्टि' (Macro) का मतलब होता है 'बड़ा' और 'व्यष्टि' (Micro) का मतलब 'छोटा'। अगर आप पूरे देश की बेरोजगारी या पूरे बाजार की महंगाई की बात कर रहे हैं, तो यह बड़ी बात (समष्टि) है (कथन 2 और 3)। लेकिन अगर आप सिर्फ 'एक दुकान' की बिक्री या 'एक सेब' की कीमत की बात कर रहे हैं, तो यह छोटी बात (व्यष्टि) है। इसलिए 1 और 4 गलत हैं।",
+      "en": "Macroeconomics studies the economy on a large scale as a whole, such as national unemployment and overall inflation (Statements 2 and 3 are correct). Whereas studying the output of a 'single firm' or the price of a 'single product' belongs to Microeconomics (Statements 1 and 4 are wrong).\n\nIn simple terms: 'Macro' means 'big' and 'Micro' means 'small'. If you are talking about the joblessness of an entire country or the inflation everywhere, that is a Big picture (Macro) (Statements 2 and 3). But if you are only checking how many shirts 'one single shop' sold or the price of 'one apple', that is a Small picture (Micro). So, 1 and 4 are wrong."
+    }
+  },
+  {
+    "id": 7,
+    "subject": "Economics",
+    "topic": "Monopolistic Competition",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "इस बाजार में बहुत सारे विक्रेता होते हैं लेकिन उत्पाद एक-दूसरे से थोड़े भिन्न (Differentiated) होते हैं।",
+        "en": "There are many sellers in this market, but the products are slightly differentiated from each other."
+      },
+      {
+        "hi": "इस बाजार संरचना में विज्ञापन (Advertising) और ब्रांडिंग की भूमिका बहुत महत्वपूर्ण होती है।",
+        "en": "The role of advertising and branding is very important in this market structure."
+      },
+      {
+        "hi": "इस बाजार में किसी भी फर्म का कीमतों पर पूर्ण नियंत्रण होता है (Price Maker)।",
+        "en": "Any firm in this market has complete control over prices (Price Maker)."
+      }
+    ],
+    "question": {
+      "hi": "'एकाधिकार प्रतिस्पर्धा' (Monopolistic Competition) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding 'Monopolistic Competition':"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "एकाधिकार प्रतिस्पर्धा में कई कंपनियां होती हैं जो एक जैसा लेकिन थोड़ा अलग उत्पाद बेचती हैं (जैसे अलग-अलग ब्रांड के साबुन), और इसमें विज्ञापन बहुत जरूरी होता है (कथन 1 और 2 सही)। चूंकि बाजार में कई प्रतिद्वंद्वी होते हैं, इसलिए कोई भी एक कंपनी कीमत पर 'पूर्ण' नियंत्रण नहीं रख सकती; उसका कीमतों पर केवल 'आंशिक' (थोड़ा) नियंत्रण होता है। अतः कथन 3 गलत है।\n\nसरल भाषा में: इसका सबसे अच्छा उदाहरण है टूथपेस्ट का बाजार। पेप्सोडेंट, कोलगेट, पतंजलि- सब पेस्ट ही हैं, पर सबके स्वाद और फायदे थोड़े अलग हैं (कथन 1 सही)। इसीलिए टीवी पर इनके खूब विज्ञापन आते हैं (कथन 2 सही)। लेकिन कोलगेट अपने पेस्ट की कीमत 500 रुपये नहीं रख सकता, क्योंकि लोग तुरंत दूसरा पेस्ट खरीद लेंगे। इसलिए इनका कीमत पर 'पूरा कंट्रोल' नहीं होता (कथन 3 गलत है)।",
+      "en": "In monopolistic competition, many firms sell similar but slightly differentiated products (like different soap brands), making advertising crucial (Statements 1 and 2 are correct). Because there are many competitors, no single firm can have 'complete' control over the price; they only have 'partial' control. Thus, statement 3 is incorrect.\n\nIn simple terms: Think of the toothpaste market. Pepsodent, Colgate, Patanjali—they are all toothpastes but taste slightly different (Statement 1 is right). That's why you see so many TV ads for them (Statement 2 is right). But Colgate cannot suddenly charge ₹500 for a tube, because people will just switch to another brand. So, they do not have 'complete control' over their prices (Statement 3 is wrong)."
+    }
+  },
+  {
+    "id": 8,
+    "subject": "Economics",
+    "topic": "Real vs Financial Economy",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "वास्तविक अर्थव्यवस्था वस्तुओं और सेवाओं के उत्पादन से संबंधित है।",
+        "en": "The real economy is concerned with the production of goods and services."
+      },
+      {
+        "hi": "वित्तीय अर्थव्यवस्था (जैसे शेयर बाजार, बैंकिंग) वास्तविक अर्थव्यवस्था के लिए पूंजी जुटाने और निवेश का प्रबंधन करने का कार्य करती है।",
+        "en": "The financial economy (like the stock market, banking) functions to raise capital and manage investments for the real economy."
+      },
+      {
+        "hi": "यदि वित्तीय अर्थव्यवस्था में उछाल हो, तो यह हमेशा वास्तविक अर्थव्यवस्था में उत्पादन वृद्धि की गारंटी देता है।",
+        "en": "If there is a boom in the financial economy, it always guarantees production growth in the real economy."
+      }
+    ],
+    "question": {
+      "hi": "'वास्तविक अर्थव्यवस्था' (Real Economy) और 'वित्तीय अर्थव्यवस्था' (Financial Economy) के बीच संबंधों के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the relationship between the 'Real Economy' and the 'Financial Economy':"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "वास्तविक अर्थव्यवस्था में असल सामान (जैसे कार, फोन) बनते हैं और वित्तीय अर्थव्यवस्था (शेयर बाजार) इन्हें बनाने के लिए पैसा देती है (कथन 1 और 2 सही)। लेकिन वित्तीय बाजार में उछाल (Asset bubble) हमेशा उत्पादन वृद्धि की गारंटी नहीं देता, क्योंकि कई बार शेयर बाजार अफवाहों पर उड़ता है जबकि असली फैक्ट्रियां बंद पड़ी होती हैं। अतः कथन 3 गलत है।\n\nसरल भाषा में: 'वास्तविक अर्थव्यवस्था' का मतलब है फैक्टरी जहाँ असली कारें बनती हैं। 'वित्तीय अर्थव्यवस्था' का मतलब है शेयर बाजार, जहाँ लोग कार बनाने के लिए पैसा लगाते हैं (कथन 1 और 2 सही)। लेकिन कभी-कभी शेयर बाजार में लोग सट्टा खेलकर शेयर के दाम बहुत बढ़ा देते हैं, जबकि असल में फैक्टरी में एक भी नई कार नहीं बन रही होती। इसलिए शेयर बाजार का ऊपर जाना 'हमेशा' यह साबित नहीं करता कि देश में सच में असली तरक्की हो रही है (कथन 3 गलत है)।",
+      "en": "The real economy produces actual goods (like cars, phones), and the financial economy (stock market) provides the funding for it (Statements 1 and 2 are correct). However, a boom in financial markets (asset bubbles) does not guarantee real production growth, as stock prices can soar on speculation while real factories remain shut. Thus, statement 3 is wrong.\n\nIn simple terms: The 'Real economy' is the factory making actual cars. The 'Financial economy' is the stock market where people give money to build the factory (Statements 1 & 2 are right). But sometimes, people gamble in the stock market and push prices sky-high, even though the factory isn't producing any extra cars. So, a rising stock market does 'not always' guarantee that true development is happening on the ground (Statement 3 is wrong)."
+    }
+  },
+  {
+    "id": 9,
+    "subject": "Economics",
+    "topic": "Monopsony",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "यह ऐसी स्थिति है जहाँ बहुत सारे विक्रेता होते हैं लेकिन खरीदार केवल एक होता है।",
+        "en": "This is a situation where there are many sellers but only one buyer."
+      },
+      {
+        "hi": "इसका सबसे बड़ा उदाहरण कृषि क्षेत्र में 'गन्ना किसान' और 'चीनी मिल' का संबंध हो सकता है।",
+        "en": "The biggest example of this can be the relationship between 'sugarcane farmers' and a 'sugar mill' in the agricultural sector."
+      },
+      {
+        "hi": "इस स्थिति में खरीदार (क्रेता) के पास कीमतें तय करने की बहुत अधिक शक्ति होती है।",
+        "en": "In this situation, the buyer has a lot of power to determine prices."
+      }
+    ],
+    "question": {
+      "hi": "'क्रेताधिकार' (Monopsony) के बाज़ार के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding a 'Monopsony' market:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "क्रेताधिकार (Monopsony) बाज़ार का वह रूप है जहाँ बेचने वाले कई होते हैं, लेकिन खरीदने वाला सिर्फ एक होता है। क्योंकि खरीदार अकेला है, इसलिए उसकी सौदेबाजी की शक्ति (Bargaining power) बहुत ज्यादा होती है। चीनी मिल इसका एक क्लासिक उदाहरण है। सभी कथन सत्य हैं।\n\nसरल भाषा में: 'एकाधिकार' (Monopoly) में एक आदमी सामान बेचता है, लेकिन 'क्रेताधिकार' (Monopsony) में एक आदमी सामान खरीदता है। सोचिए एक गाँव में 100 किसान गन्ना उगाते हैं (बहुत सारे विक्रेता), लेकिन पूरे गाँव में चीनी बनाने की फैक्टरी सिर्फ एक है (एक खरीदार)। अब क्योंकि किसानों के पास और कोई विकल्प नहीं है, फैक्टरी का मालिक जो दाम तय करेगा, किसानों को उसी दाम पर गन्ना बेचना पड़ेगा। तो यहाँ सारी पावर 'खरीदार' के पास होती है!",
+      "en": "A Monopsony is a market structure where there are many sellers but only one single buyer. Because the buyer is a monopoly in purchasing, they have immense bargaining power to set low prices. A local sugar mill buying from many farmers is a classic example. All statements are true.\n\nIn simple terms: In a 'Monopoly', there is only one seller. But in a 'Monopsony', there is only one buyer. Imagine 100 farmers growing sugarcane in a village (many sellers), but there is only one sugar factory to buy it (one buyer). Since farmers have nowhere else to go, the factory owner dictates the price, and farmers must accept it. Here, the 'buyer' holds all the power!"
+    }
+  },
+  {
+    "id": 10,
+    "subject": "Economics",
+    "topic": "Entrepreneurship",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "उद्यमी अन्य तीन कारकों (भूमि, श्रम, पूंजी) को संयोजित करने की जिम्मेदारी लेता है।",
+        "en": "The entrepreneur takes the responsibility of combining the other three factors (land, labor, capital)."
+      },
+      {
+        "hi": "उद्यमी अनिश्चितता और जोखिम (Risk-taking) का सामना करता है।",
+        "en": "The entrepreneur faces uncertainty and takes risks."
+      },
+      {
+        "hi": "उद्यमी का मुख्य प्रतिफल 'वेतन' (Salary) होता है, न कि लाभ (Profit)।",
+        "en": "The main reward of an entrepreneur is 'Salary', not 'Profit'."
+      }
+    ],
+    "question": {
+      "hi": "'उद्यमी' (Entrepreneur) को उत्पादन का एक महत्वपूर्ण कारक क्यों माना जाता है?",
+      "en": "Why is an 'Entrepreneur' considered an important factor of production?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "उद्यमी (मालिक) वह व्यक्ति है जो भूमि, श्रम और पूंजी को एक साथ लाता है और व्यवसाय के डूबने का जोखिम उठाता है (कथन 1 और 2 सही)। बदले में उसे जो इनाम मिलता है वह निश्चित 'वेतन' नहीं होता, बल्कि बचा हुआ 'लाभ' (Profit) होता है। अतः कथन 3 गलत है।\n\nसरल भाषा में: उद्यमी मतलब बिजनेस का मालिक। वह जमीन किराये पर लेता है, पैसे लगाता है और मजदूरों को काम पर रखता है (कथन 1 सही)। कल को बिजनेस डूब भी सकता है, यह रिस्क वह खुद लेता है (कथन 2 सही)। मजदूर को फिक्स 'सैलरी' मिलती है, लेकिन मालिक को सैलरी नहीं मिलती; सारा खर्च निकालने के बाद जो पैसा बचता है (मुनाफा/लाभ), वही उसका इनाम होता है। इसलिए कथन 3 गलत है।",
+      "en": "An entrepreneur brings together land, labor, and capital and assumes the financial risk of the business (Statements 1 and 2 are correct). In return for taking this risk, their reward is the residual 'Profit', not a fixed 'Salary'. Thus, statement 3 is incorrect.\n\nIn simple terms: The entrepreneur is the boss or owner. He rents the land, invests the money, and hires workers (Statement 1 is right). If the business fails, he takes the hit (Statement 2 is right). Workers get a fixed 'salary' every month, but the boss doesn't. After paying everyone, whatever money is left over (the profit) goes into his pocket. So, his reward is profit, not salary (Statement 3 is wrong)."
+    }
+  },
+  {
+    "id": 11,
+    "subject": "Economics",
+    "topic": "Circular Flow of Income",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "घरेलू क्षेत्रक फर्मों को उत्पादन के कारक (भूमि, श्रम, पूंजी, उद्यमिता) प्रदान करते हैं।",
+        "en": "Households provide factors of production (land, labor, capital, entrepreneurship) to firms."
+      },
+      {
+        "hi": "फर्में घरेलू क्षेत्रक को वस्तुओं और सेवाओं के उत्पादन के बदले 'कारक आय' (Factor Income) का भुगतान करती हैं।",
+        "en": "Firms pay 'Factor Income' to the household sector in exchange for producing goods and services."
+      },
+      {
+        "hi": "इस मॉडल में बचत और निवेश को 'रिसाव' (Leakage) और 'अंतःक्षेपण' (Injection) माना जाता है।",
+        "en": "In this model, savings and investments are considered 'Leakages' and 'Injections'."
+      }
+    ],
+    "question": {
+      "hi": "एक सरल दो-क्षेत्रीय अर्थव्यवस्था (घरेलू और फर्म) के आय के चक्रीय प्रवाह के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the circular flow of income in a simple two-sector economy (households and firms):"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "एक 'सरल दो-क्षेत्रीय' मॉडल में केवल घर (Household) और कंपनियां (Firms) होती हैं। इसमें यह मान लिया जाता है कि लोग अपनी पूरी आय खर्च कर देते हैं और कुछ भी नहीं बचाते हैं। इसलिए इस मॉडल में 'बचत' (Saving) और 'निवेश' (Investment) शामिल नहीं होते हैं (ये बैंक या वित्तीय प्रणाली के आने पर जुड़ते हैं)। अतः कथन 3 गलत है।\n\nसरल भाषा में: अर्थशास्त्र की किताब के सबसे पहले (सरल) पाठ में माना जाता है कि दुनिया में सिर्फ दो ही लोग हैं: एक आम आदमी और एक कंपनी। आम आदमी कंपनी में काम करता है और कंपनी उसे पैसे देती है (कथन 1 और 2 सही)। आम आदमी वो पूरा का पूरा पैसा कंपनी का सामान खरीदने में उड़ा देता है। वह गुल्लक में 1 रुपये की भी 'बचत' नहीं करता। क्योंकि कोई बचत ही नहीं है, इसलिए पैसा कहीं 'लीक' नहीं होता। तो इस सरल कहानी में बचत और निवेश नहीं होते!",
+      "en": "In a strict 'simple two-sector' model, there are only households and firms. A fundamental assumption of this basic model is that households spend all their income on consumption and save nothing. Therefore, 'Savings' and 'Investments' (which require a financial sector) do not exist in this specific model. Thus, statement 3 is incorrect.\n\nIn simple terms: In the simplest economics story, there are only normal people and factories. People work in the factory and get paid (Statements 1 & 2 are right). The story assumes that people immediately spend 100% of their salary buying things from the factory. Nobody saves even a single penny in a piggy bank. Because there are no 'savings', no money leaks out of the cycle. So, savings and investments don't exist in this basic story!"
+    }
+  },
+  {
+    "id": 12,
+    "subject": "Economics",
+    "topic": "Economic Agents and Central Bank",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "यह एक आर्थिक एजेंट के रूप में मौद्रिक नीति का संचालन करता है।",
+        "en": "As an economic agent, it conducts the monetary policy."
+      },
+      {
+        "hi": "यह अर्थव्यवस्था में मुद्रा आपूर्ति को नियंत्रित करके मूल्य स्थिरता बनाए रखने का कार्य करता है।",
+        "en": "It functions to maintain price stability by controlling the money supply in the economy."
+      },
+      {
+        "hi": "यह घरेलू क्षेत्रक (Households) के साथ सीधे व्यापारिक लेनदेन और ऋण प्रदान करने का कार्य करता है।",
+        "en": "It conducts direct commercial transactions and provides loans to the household sector."
+      }
+    ],
+    "question": {
+      "hi": "अर्थव्यवस्था में 'केंद्रीय बैंक' (Central Bank) की भूमिका के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the role of the 'Central Bank' in the economy:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "केंद्रीय बैंक (जैसे भारत में RBI) देश की मौद्रिक नीति बनाता है और महंगाई (मूल्य स्थिरता) को कंट्रोल करता है (कथन 1 और 2 सही)। लेकिन केंद्रीय बैंक 'बैंकों का बैंक' है। आम जनता (घरेलू क्षेत्रक) केंद्रीय बैंक में अपना खाता नहीं खोल सकती और न ही वहां से सीधा लोन ले सकती है। अतः कथन 3 गलत है।\n\nसरल भाषा में: रिजर्व बैंक (RBI) हमारे देश का सबसे बड़ा बैंक है। इसका काम देश में नोट छापना, महंगाई को रोकना और छोटे बैंकों के नियम बनाना है (कथन 1 और 2 सही)। लेकिन क्या आपने कभी RBI की बिल्डिंग में जाकर अपना सेविंग अकाउंट खुलवाया है? नहीं! क्योंकि RBI आम आदमियों से कोई सीधा लेन-देन नहीं करता, वह सिर्फ बड़े बैंकों और सरकार से डील करता है (इसलिए कथन 3 गलत है)।",
+      "en": "The Central Bank (like RBI in India) formulates monetary policy and controls inflation/money supply to maintain price stability (Statements 1 and 2 are correct). However, the central bank is the 'banker's bank'. The general public (households) cannot open accounts there or take direct loans from it. Thus, statement 3 is incorrect.\n\nIn simple terms: The Reserve Bank (RBI) is the boss of all banks. Its job is to print money, stop inflation, and make rules (Statements 1 & 2 are right). But have you ever walked into an RBI building to open a personal savings account? No! Because the RBI does not deal with normal citizens; it only deals with commercial banks and the government (so statement 3 is wrong)."
+    }
+  },
+  {
+    "id": 13,
+    "subject": "Economics",
+    "topic": "Oligopoly",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "इस बाजार में विक्रेताओं की संख्या बहुत कम होती है, और प्रत्येक फर्म का निर्णय अन्य फर्मों को प्रभावित करता है।",
+        "en": "The number of sellers in this market is very small, and the decision of each firm affects the other firms."
+      },
+      {
+        "hi": "इसमें 'प्रवेश की बाधाएं' (Barriers to entry) बहुत अधिक होती हैं, जैसे कि पेटेंट, बड़े पैमाने की मितव्ययिता आदि।",
+        "en": "There are very high 'barriers to entry' in this, such as patents, economies of scale, etc."
+      },
+      {
+        "hi": "इसमें फर्में एक-दूसरे के साथ प्रतिस्पर्धा करने के बजाय अक्सर 'कार्टेल' (Cartel) बनाकर कीमतों का निर्धारण करती हैं।",
+        "en": "In this, firms often form a 'Cartel' to determine prices instead of competing with each other."
+      }
+    ],
+    "question": {
+      "hi": "'अल्पाधिकार' (Oligopoly) बाजार संरचना के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the 'Oligopoly' market structure:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "अल्पाधिकार (Oligopoly) में कुछ ही बड़ी कंपनियाँ होती हैं जो पूरे बाजार पर राज करती हैं। क्योंकि वे कम हैं, एक का फैसला दूसरे को प्रभावित करता है। इसमें नया बिजनेस शुरू करना बहुत महंगा और मुश्किल होता है। कई बार ये कंपनियाँ आपस में लड़कर नुकसान उठाने के बजाय, चोरी-छिपे गुट (Cartel) बना लेती हैं और मिलकर दाम बढ़ा देती हैं। सभी कथन सही हैं।\n\nसरल भाषा में: इसका सबसे अच्छा उदाहरण हमारे मोबाइल के सिम कार्ड की कंपनियाँ हैं- जैसे जियो, एयरटेल और वीआई। पूरे देश में सिर्फ ये 3-4 कंपनियाँ ही हैं (कथन 1)। कल कोई नया आदमी उठकर रातों-रात अपनी टेलीकॉम कंपनी नहीं खोल सकता क्योंकि इसमें अरबों रुपये लगते हैं (कथन 2)। और कई बार ये कंपनियाँ आपस में लड़ना बंद करके अंदर ही अंदर दोस्ती (कार्टेल) कर लेती हैं और एक साथ अपने रिचार्ज महंगे कर देती हैं (कथन 3)। इसलिए तीनों बातें सही हैं।",
+      "en": "In an Oligopoly, a few large firms dominate the market, making them highly interdependent. High barriers like massive capital requirements prevent new entrants. Instead of brutal price wars, these few firms often secretly collude to form 'cartels' to fix high prices and maximize mutual profits. All statements are true.\n\nIn simple terms: A perfect example is telecom companies like Jio, Airtel, and VI. There are only 3 or 4 big players in the whole country (Statement 1). A regular person cannot easily start a new telecom company tomorrow because it costs billions of dollars to build towers (Statement 2). Sometimes, instead of fighting, these companies secretly become friends (a cartel) and decide to make everyone's phone recharge expensive at the same time (Statement 3). All three are correct."
+    }
+  },
+  {
+    "id": 14,
+    "subject": "Economics",
+    "topic": "Capital and Investment",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "पूंजी एक 'स्टॉक' (Stock) अवधारणा है, जबकि निवेश एक 'प्रवाह' (Flow) अवधारणा है।",
+        "en": "Capital is a 'Stock' concept, whereas investment is a 'Flow' concept."
+      },
+      {
+        "hi": "निवेश का तात्पर्य नई पूंजीगत वस्तुओं (जैसे मशीनरी, कारखाने) के उत्पादन से है जो भविष्य में उत्पादन क्षमता बढ़ाते हैं।",
+        "en": "Investment implies the production of new capital goods (like machinery, factories) that increase future production capacity."
+      },
+      {
+        "hi": "पूंजी की स्टॉक में वृद्धि केवल निवेश के माध्यम से ही हो सकती है, मूल्यह्रास (Depreciation) के माध्यम से नहीं।",
+        "en": "An increase in the capital stock can happen only through investment, not through depreciation."
+      }
+    ],
+    "question": {
+      "hi": "अर्थशास्त्र में 'पूंजी' (Capital) और 'निवेश' (Investment) के बीच अंतर के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the difference between 'Capital' and 'Investment' in economics:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "अर्थशास्त्र में किसी एक समय पर आपके पास जो कुल मशीनें हैं, वह 'स्टॉक' (पूंजी) है, और हर साल जो नई मशीनें आती हैं, वह 'प्रवाह' (निवेश) है (कथन 1 और 2 सही)। प्रश्न के स्रोत के अनुसार कथन 3 को यहाँ गलत माना गया है क्योंकि मूल्यह्रास (चीजों का घिसना) तो असल में पूंजी को 'कम' करता है। निवेश से मशीनें बढ़ती हैं, लेकिन टूट-फूट (मूल्यह्रास) से उनकी कीमत घटती है, इसलिए इसे वृद्धि के संदर्भ में इस तरह जोड़ना भ्रामक माना गया है।\n\nसरल भाषा में: मान लीजिए आपके पास आज की तारीख में 5 सिलाई मशीनें हैं। यह आपकी 'पूंजी' (स्टॉक) है। आप हर महीने 1 नई मशीन खरीदते हैं, यह आपका 'निवेश' (फ्लो) है (कथन 1 और 2 सही)। लेकिन पुरानी मशीनें चलते-चलते घिस भी तो रही हैं? इस घिसावट को 'मूल्यह्रास' कहते हैं। मूल्यह्रास आपकी मशीनों की वैल्यू को घटाता है, बढ़ाता नहीं है। इसलिए कथन 3 को उत्तर में सही नहीं माना गया है।",
+      "en": "In economics, the total machinery you own at a given point is a 'Stock' (Capital), while the new machinery you buy over a period is a 'Flow' (Investment) (Statements 1 and 2 are correct). Based on the source's answer key, statement 3 is treated as misleading/incorrect in this context. While it's true that investment adds to capital, depreciation actively destroys or reduces the capital stock (wear and tear). The phrasing of statement 3 makes it tricky and it's excluded from the correct option.\n\nIn simple terms: Imagine you own 5 sewing machines today. That's your 'Capital' (Stock). Buying 1 new machine every month is your 'Investment' (Flow) (Statements 1 & 2 are correct). But what happens to the old machines? They break down and lose value. This breaking down is called 'Depreciation'. Depreciation actively shrinks your wealth, it doesn't increase it. So the source marks statement 3 as problematic."
+    }
+  },
+  {
+    "id": 15,
+    "subject": "Economics",
+    "topic": "Tertiary vs Quaternary Sector",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "तृतीयक क्षेत्रक मुख्य रूप से सेवा-आधारित है, जबकि चतुर्थक क्षेत्रक ज्ञान-आधारित सेवाओं पर केंद्रित है।",
+        "en": "The tertiary sector is mainly service-based, whereas the quaternary sector focuses on knowledge-based services."
+      },
+      {
+        "hi": "तृतीयक क्षेत्र में परिवहन और बैंकिंग आते हैं, जबकि चतुर्थक क्षेत्र में शिक्षा और सूचना प्रौद्योगिकी अनुसंधान आते हैं।",
+        "en": "Transport and banking fall under the tertiary sector, while education and IT research fall under the quaternary sector."
+      },
+      {
+        "hi": "चतुर्थक क्षेत्र की गतिविधियाँ तृतीयक क्षेत्र की तुलना में कम कुशल और कम मूल्यवान होती हैं।",
+        "en": "The activities of the quaternary sector are less skilled and less valuable compared to the tertiary sector."
+      }
+    ],
+    "question": {
+      "hi": "तृतीयक (Tertiary) और चतुर्थक (Quaternary) क्षेत्रक के अंतर के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the difference between the Tertiary and Quaternary sectors:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "तृतीयक क्षेत्र में सामान्य सेवाएँ (जैसे ट्रांसपोर्ट, बैंकिंग) आती हैं। इसी के अंदर का एक खास हिस्सा चतुर्थक क्षेत्र कहलाता है जिसमें ज्ञान और दिमाग वाले काम (जैसे सॉफ्टवेयर बनाना, रिसर्च) आते हैं (कथन 1 और 2 सही)। क्योंकि चतुर्थक क्षेत्र में वैज्ञानिकों और बड़े शोधकर्ताओं की जरूरत होती है, इसलिए यह काम बहुत ज्यादा 'कुशल' (Highly Skilled) और मूल्यवान होता है, कम कुशल नहीं। अतः कथन 3 गलत है।\n\nसरल भाषा में: जो बस चला रहा है या बैंक में पैसे जमा कर रहा है, वह तीसरे (तृतीयक) क्षेत्र में काम कर रहा है। लेकिन जो वैज्ञानिक लैब में बैठकर कोरोना की वैक्सीन बना रहा है, वह चौथे (चतुर्थक) क्षेत्र में है। अब आप ही सोचिए, क्या एक वैज्ञानिक का काम 'कम कुशल' (Low skilled) होता है? बिल्कुल नहीं! वह बहुत ज्यादा पढ़ा-लिखा और कीमती काम है। इसलिए कथन 3 गलत है।",
+      "en": "The tertiary sector encompasses general services like banking and transport. The quaternary sector is a specialized slice of it focusing on pure knowledge, like IT software and complex research (Statements 1 and 2 are true). Because it involves scientists, analysts, and researchers, the quaternary sector requires exceptionally 'high' skills and is very valuable, not less skilled. Thus, statement 3 is incorrect.\n\nIn simple terms: A bus driver or a bank teller works in the third (Tertiary) sector. A scientist inventing a new COVID vaccine works in the fourth (Quaternary) sector. Now think about it, is a top scientist's job 'less skilled' or less valuable? No way! It requires massive education and high skills. That makes statement 3 totally wrong."
+    }
+  },
+  {
+    "id": 16,
+    "subject": "Economics",
+    "topic": "Factor vs Transfer Income",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "कारक आय उत्पादन की प्रक्रिया में योगदान देने के बदले प्राप्त होती है (जैसे वेतन, लगान)।",
+        "en": "Factor income is received in exchange for contributing to the production process (e.g., salary, rent)."
+      },
+      {
+        "hi": "हस्तांतरण आय बिना किसी उत्पादक कार्य के प्राप्त होती है (जैसे वृद्धावस्था पेंशन, छात्रवृत्ति)।",
+        "en": "Transfer income is received without any productive work (e.g., old age pension, scholarship)."
+      },
+      {
+        "hi": "राष्ट्रीय आय (National Income) की गणना में कारक आय और हस्तांतरण आय दोनों को समान रूप से जोड़ा जाता है।",
+        "en": "In the calculation of National Income, both factor income and transfer income are added equally."
+      }
+    ],
+    "question": {
+      "hi": "'कारक आय' (Factor Income) और 'हस्तांतरण आय' (Transfer Income) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding 'Factor Income' and 'Transfer Income':"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कारक आय वह पैसा है जो आप मेहनत करके (उत्पादन में हिस्सा लेकर) कमाते हैं। हस्तांतरण आय वह 'फ्री' का पैसा है जिसके बदले में आपने देश के लिए कुछ बनाया नहीं है (जैसे सरकार से मिलने वाली पेंशन या पॉकेट मनी) (कथन 1 और 2 सही)। देश की कुल कमाई (राष्ट्रीय आय) में केवल मेहनत की कमाई (कारक आय) जुड़ती है, फ्री में मिला पैसा (हस्तांतरण आय) नहीं जुड़ता। अतः कथन 3 गलत है।\n\nसरल भाषा में: 'कारक आय' का मतलब है आपकी पगार, जिसके लिए आपने महीने भर दफ्तर में काम किया। 'हस्तांतरण आय' का मतलब है दादाजी की पेंशन या आपको मिली स्कॉलरशिप, जिसके बदले आपने कोई सामान या सर्विस नहीं बनाई। जब देश की कुल कमाई (National Income) गिनी जाती है, तो उसमें सिर्फ पगार या मुनाफे को गिना जाता है, खैरात या गिफ्ट वाले पैसे को नहीं गिना जाता।",
+      "en": "Factor income is the money earned by providing labor or capital for actual production. Transfer income is unearned money received without producing any new goods or services (like charity, pensions) (Statements 1 and 2 are correct). Since National Income only counts the value of newly produced goods and services, free transfer payments are completely ignored. Thus, statement 3 is wrong.\n\nIn simple terms: 'Factor income' is your hard-earned salary for working all month. 'Transfer income' is like the free pocket money you get from your uncle, or an old-age pension from the government, where you produced nothing in return. When the government calculates the country's total wealth (National Income), it only counts the money generated by actual hard work and production, never the free gift money."
+    }
+  },
+  {
+    "id": 17,
+    "subject": "Economics",
+    "topic": "Colors of Economy",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "रजत अर्थव्यवस्था का तात्पर्य वृद्ध आबादी की आर्थिक जरूरतों और सेवाओं से संबंधित गतिविधियों से है।",
+        "en": "The silver economy refers to economic activities related to the needs and services of the elderly population."
+      },
+      {
+        "hi": "श्वेत अर्थव्यवस्था (White Economy) का संबंध औपचारिक या आधिकारिक तौर पर दर्ज आर्थिक गतिविधियों से है।",
+        "en": "The White Economy is related to formal or officially recorded economic activities."
+      },
+      {
+        "hi": "ये दोनों वर्गीकरण प्राथमिक क्षेत्र की गतिविधियों को परिभाषित करने के लिए उपयोग किए जाते हैं।",
+        "en": "Both these classifications are used to define the activities of the primary sector."
+      }
+    ],
+    "question": {
+      "hi": "'रजत अर्थव्यवस्था' (Silver Economy) और 'श्वेत अर्थव्यवस्था' (White Economy) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the 'Silver Economy' and 'White Economy':"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "रजत (Silver) अर्थव्यवस्था का संबंध बुजुर्गों की देखभाल (हेल्थकेयर, दवाइयां) से है, और श्वेत (White) अर्थव्यवस्था का मतलब पूरी तरह से कानूनी और टैक्स भरने वाले काम हैं (कथन 1 और 2 सही)। इन अर्थव्यवस्थाओं का संबंध केवल खेती या खदानों (प्राथमिक क्षेत्र) से नहीं है, बल्कि अस्पताल, फैक्टरी और IT कंपनियों से भी है। अतः कथन 3 गलत है।\n\nसरल भाषा में: 'रजत' यानी चांदी, जो बुजुर्गों के सफेद बालों के रंग जैसी होती है, इसलिए बुजुर्गों की जरूरतों वाले बिजनेस को रजत अर्थव्यवस्था कहते हैं। 'श्वेत' मतलब सफेद, यानी वह बिजनेस जो पूरी तरह ईमानदारी से हो रहा है और सरकार को टैक्स दे रहा है। ये सारे काम सिर्फ खेती-बाड़ी (प्राथमिक) से नहीं जुड़े हैं, बल्कि शहरों के अस्पतालों और ऑफिसों (तृतीयक) में ज्यादा होते हैं। इसलिए कथन 3 गलत है।",
+      "en": "The Silver Economy caters exclusively to the senior citizens (healthcare, specialized housing). The White economy refers to completely legal, formal, and tax-compliant business activities (Statements 1 and 2 are true). However, these classifications apply to all sectors (especially services/tertiary like hospitals and offices), not just the primary sector (farming/mining). Thus, statement 3 is incorrect.\n\nIn simple terms: 'Silver' represents the grey/white hair of old people, so the Silver Economy is the business of selling medicines and services to the elderly. 'White' means clean and legal, representing businesses that pay their taxes honestly. These businesses exist everywhere (like city hospitals and tech parks), not just in farming fields (Primary sector). So, statement 3 is wrong."
+    }
+  },
+  {
+    "id": 18,
+    "subject": "Economics",
+    "topic": "Monopoly",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "इसमें किसी वस्तु या सेवा का केवल एक ही विक्रेता होता है और कोई निकट स्थानापन्न (Close Substitute) वस्तु उपलब्ध नहीं होती।",
+        "en": "In this, there is only one seller of a good or service, and no close substitute product is available."
+      },
+      {
+        "hi": "एकाधिकार फर्म 'मूल्य-निर्माता' (Price Maker) होती है, इसलिए वह अत्यधिक लाभ कमा सकती है।",
+        "en": "A monopoly firm is a 'Price Maker', so it can earn excessive profits."
+      },
+      {
+        "hi": "प्राकृतिक एकाधिकार (Natural Monopoly) अक्सर उच्च प्रारंभिक निवेश और अवसंरचना (जैसे बिजली ग्रिड) के कारण उत्पन्न होते हैं।",
+        "en": "Natural Monopolies often arise due to high initial investment and infrastructure (e.g., power grids)."
+      }
+    ],
+    "question": {
+      "hi": "'एकाधिकार' (Monopoly) बाजार की स्थिति के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the 'Monopoly' market situation:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "एकाधिकार (Monopoly) में पूरे बाजार में केवल एक ही कंपनी का राज होता है, जिसका कोई विकल्प नहीं होता। चूंकि वह अकेली होती है, वह अपनी मर्जी से दाम तय करती है (Price maker) और खूब मुनाफा कमाती है। 'प्राकृतिक एकाधिकार' तब बनता है जब किसी बिजनेस को शुरू करने में इतना ज्यादा पैसा (जैसे पूरे शहर में बिजली के तार बिछाना) लगता है कि कोई दूसरी कंपनी आ ही नहीं पाती। सभी कथन सही हैं।\n\nसरल भाषा में: एकाधिकार का मतलब है पूरे बाजार का इकलौता राजा, जैसे भारतीय रेलवे। अगर आपको ट्रेन से सफर करना है, तो रेलवे का कोई दूसरा विकल्प (स्थानापन्न) नहीं है (कथन 1)। रेलवे खुद अपना टिकट रेट तय करती है (कथन 2)। अब कोई नया आदमी उठकर अपनी ट्रेन कंपनी नहीं खोल सकता क्योंकि पूरे देश में पटरी बिछाने में खरबों रुपये लगेंगे। इस बड़ी लागत के कारण रेलवे का 'प्राकृतिक' एकाधिकार बन जाता है (कथन 3)।",
+      "en": "In a monopoly, a single firm controls the entire market for a product with no close substitutes. Because there's no competition, the firm acts as a price maker, setting high prices to gain supernormal profits. A 'Natural Monopoly' happens in industries with massive setup costs (like water or power grids) where it's financially impossible for a second company to build parallel infrastructure. All statements are entirely correct.\n\nIn simple terms: A monopoly is when one company is the sole king of the market, like Indian Railways. You can't choose another train company (Statement 1). Because they are the only ones, they set their own ticket prices and make huge money (Statement 2). It's called a 'Natural' monopoly because an ordinary person can't start a rival train company—laying tracks across India costs too many billions. The massive cost naturally blocks competitors (Statement 3)."
+    }
+  },
+  {
+    "id": 19,
+    "subject": "Economics",
+    "topic": "Economic Agent: Firm",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "फर्म का मुख्य उद्देश्य संसाधनों का उपयोग करके उत्पादन करना और लाभ (Profit) को अधिकतम करना है।",
+        "en": "The main objective of a firm is to use resources to produce and maximize profit."
+      },
+      {
+        "hi": "फर्म निर्णय लेती है कि क्या उत्पादन करना है, कैसे उत्पादन करना है और किसके लिए उत्पादन करना है।",
+        "en": "The firm decides what to produce, how to produce, and for whom to produce."
+      },
+      {
+        "hi": "फर्म का उद्देश्य सामाजिक कल्याण (Social Welfare) करना है, भले ही इसके लिए लाभ का बलिदान करना पड़े।",
+        "en": "The objective of a firm is to do social welfare, even if it has to sacrifice its profit for it."
+      }
+    ],
+    "question": {
+      "hi": "अर्थव्यवस्था में 'फर्म' (Firm) नामक आर्थिक एजेंट के मुख्य उद्देश्यों के संदर्भ में विचार कीजिए:",
+      "en": "Consider the main objectives of an economic agent called a 'Firm' in the economy:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "पारंपरिक अर्थशास्त्र के अनुसार, किसी भी फर्म (कंपनी) का सबसे मुख्य लक्ष्य सामान बनाकर अपना 'लाभ' (मुनाफा) अधिकतम करना होता है (कथन 1 सही)। वही तय करती है कि क्या बनाना है और कैसे बनाना है (कथन 2 सही)। फर्म कोई चैरिटी (दान-धर्म) संस्था नहीं होती कि वह अपना मुनाफा छोड़कर सिर्फ समाज सेवा करे। अतः कथन 3 गलत है।\n\nसरल भाषा में: 'फर्म' का मतलब है एक बिजनेस या कंपनी। कोई भी आदमी बिजनेस क्यों खोलता है? पैसे (मुनाफा) कमाने के लिए! वह खुद सोचता है कि मैं बिस्किट बनाऊं या कपड़े (क्या उत्पादन करें)। लेकिन एक आम प्राइवेट कंपनी का मकसद अपना घाटा करवाकर लोगों की मुफ्त में भलाई (सामाजिक कल्याण) करना नहीं होता। समाज सेवा का काम सरकार या NGO का है, प्राइवेट कंपनी का नहीं।",
+      "en": "According to classic economics, a private firm exists purely to maximize its profits by transforming inputs into outputs efficiently (Statement 1). The firm answers the central economic questions: what to produce, how, and for whom (Statement 2). A standard capitalist firm does not sacrifice its profits to do pure social welfare; that is the role of the government or charities. Thus, statement 3 is incorrect.\n\nIn simple terms: A 'firm' is just a private business. Why does someone open a business? To make maximum money (profit)! The owner decides whether to bake cakes or build phones (Statement 1 & 2 are right). But a normal private business does not intentionally lose its own money just to do free charity work for the public (social welfare). Charity is not a factory's main goal. So, statement 3 is wrong."
+    }
+  },
+  {
+    "id": 20,
+    "subject": "Economics",
+    "topic": "Microeconomics",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "एक व्यक्तिगत उपभोक्ता के व्यवहार का अध्ययन।",
+        "en": "Study of the behavior of an individual consumer."
+      },
+      {
+        "hi": "किसी विशिष्ट उद्योग या फर्म के आउटपुट का निर्धारण।",
+        "en": "Determination of the output of a specific industry or firm."
+      },
+      {
+        "hi": "देश की कुल राष्ट्रीय आय (National Income) का स्तर।",
+        "en": "The level of the country's total National Income."
+      }
+    ],
+    "question": {
+      "hi": "व्यष्टि अर्थशास्त्र (Microeconomics) के अध्ययन का मुख्य केंद्र क्या है?",
+      "en": "What is the main focus of study in Microeconomics?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "व्यष्टि (Micro) अर्थशास्त्र छोटी इकाइयों का अध्ययन करता है, जैसे कोई एक आदमी कैसे खरीदारी करता है या कोई एक कंपनी कैसे सामान बनाती है (कथन 1 और 2 सही)। 'राष्ट्रीय आय' (National Income) पूरे देश की कुल कमाई होती है, जो 'समष्टि अर्थशास्त्र' (Macroeconomics) का हिस्सा है, व्यष्टि का नहीं। अतः कथन 3 गलत है।\n\nसरल भाषा में: 'व्यष्टि' (माइक्रो) का मतलब है माइक्रोस्कोप से बहुत छोटी चीजों को देखना। अगर आप सिर्फ एक आदमी की जेब या सिर्फ एक दुकान के गल्ले पर नजर रख रहे हैं, तो यह व्यष्टि अर्थशास्त्र है। लेकिन अगर आप पूरे भारत देश की कमाई (राष्ट्रीय आय) को गिन रहे हैं, तो वह बहुत बड़ी बात हो गई, जिसे 'समष्टि' (मैक्रो) अर्थशास्त्र कहते हैं।",
+      "en": "Microeconomics focuses on the microscopic parts of the economy, analyzing the choices of single individuals, single households, or single firms (Statements 1 and 2 are correct). Studying the total 'National Income' encompasses the entire country, which belongs to Macroeconomics, not Microeconomics. Thus, statement 3 is incorrect.\n\nIn simple terms: 'Micro' means small. Looking at how one single guy spends his pocket money or how one small factory makes toys is Microeconomics. But trying to count the total wealth and income of the entire country (National Income) is a giant task. That giant task belongs to Macro (Big) economics, not Micro."
+    }
+  },
+  {
+    "id": 21,
+    "subject": "Economics",
+    "topic": "Market Structure: Barriers to Entry",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "पूर्ण प्रतिस्पर्धा (Perfect Competition) में प्रवेश की बाधाएं शून्य होती हैं।",
+        "en": "Barriers to entry are zero in Perfect Competition."
+      },
+      {
+        "hi": "एकाधिकार (Monopoly) में प्रवेश की बाधाएं अत्यंत उच्च होती हैं, जैसे कि कानूनी या तकनीकी प्रतिबंध।",
+        "en": "Barriers to entry are extremely high in a Monopoly, such as legal or technical restrictions."
+      },
+      {
+        "hi": "एकाधिकार प्रतिस्पर्धा (Monopolistic Competition) में प्रवेश की बाधाएं बहुत कम या न के बराबर होती हैं।",
+        "en": "Barriers to entry are very low or negligible in Monopolistic Competition."
+      }
+    ],
+    "question": {
+      "hi": "विभिन्न बाजार संरचनाओं में 'प्रवेश की बाधाओं' (Barriers to Entry) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding 'Barriers to Entry' in various market structures:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "प्रवेश की बाधाओं का मतलब है कि किसी नए व्यक्ति के लिए कोई बिजनेस शुरू करना कितना मुश्किल है। पूर्ण प्रतिस्पर्धा में कोई रोक नहीं होती। एकाधिकार में सरकार या भारी खर्च के कारण कोई नया व्यक्ति बिजनेस में नहीं आ सकता। एकाधिकार प्रतिस्पर्धा में भी आना बहुत आसान होता है। तीनों कथन बिल्कुल सही हैं।\n\nसरल भाषा में: 'पूर्ण प्रतिस्पर्धा' मतलब गेहूं उगाना; कल कोई भी खेत खरीदकर गेहूं उगा सकता है (जीरो रुकावट)। 'एकाधिकार' मतलब रेलवे; कोई नया आदमी अपनी ट्रेन नहीं चला सकता क्योंकि इसमें खरबों रुपये लगेंगे और सरकार की मनाही है (बहुत बड़ी रुकावट)। 'एकाधिकार प्रतिस्पर्धा' मतलब फास्ट-फूड की दुकान; कोई भी ठेला लगाकर बर्गर बेच सकता है (बहुत कम रुकावट)।",
+      "en": "Barriers to entry dictate how difficult it is for a new player to start a business. In perfect competition, entry is totally free. In a monopoly, massive costs or strict government patents make it nearly impossible to enter. In monopolistic competition (like opening a restaurant), anyone can easily start. All statements are perfectly correct.\n\nIn simple terms: 'Perfect competition' is farming wheat; anyone can do it tomorrow with zero obstacles. A 'Monopoly' is like running the national train network; you can't just buy a train and lay tracks, it's too expensive and the government won't let you (huge obstacles). 'Monopolistic competition' is opening a pizza stall; anyone can buy a cart and start selling pizza with very few obstacles. All points are true."
+    }
+  },
+  {
+    "id": 22,
+    "subject": "Economics",
+    "topic": "Economic Activity: Distribution",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "उत्पादित वस्तुओं और सेवाओं को उपभोक्ताओं तक पहुंचाना।",
+        "en": "Transporting the produced goods and services to the consumers."
+      },
+      {
+        "hi": "उत्पादन प्रक्रिया से प्राप्त आय (Income) को उत्पादन के कारकों (भूमि, श्रम, पूंजी, उद्यमी) के बीच बांटना।",
+        "en": "Distributing the income received from the production process among the factors of production (land, labor, capital, entrepreneur)."
+      },
+      {
+        "hi": "सरकार द्वारा करों (Taxes) के माध्यम से आय का पुनर्वितरण करना।",
+        "en": "Redistributing income by the government through taxes."
+      }
+    ],
+    "question": {
+      "hi": "अर्थव्यवस्था में 'वितरण' (Distribution) के कार्य का मुख्य अर्थ क्या है?",
+      "en": "What is the main meaning of the function of 'Distribution' in the economy?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "अर्थशास्त्र में 'वितरण' का मतलब ट्रकों में सामान लादकर लोगों तक पहुंचाना नहीं होता (अतः कथन 1 गलत है)। इसका अर्थ होता है कि जो भी कमाई हुई है, उसे मजदूरों के वेतन, जमीन के किराये और मालिक के मुनाफे के रूप में कैसे बाँटा जाए। इसके अलावा, सरकार टैक्स लगाकर अमीरों का पैसा गरीबों में 'पुनर्वितरित' (Redistribute) भी करती है। अतः कथन 2 और 3 सही हैं।\n\nसरल भाषा में: जब हम बिजनेस की भाषा में 'वितरण' बोलते हैं, तो उसका मतलब डिलीवरी बॉय वाला काम नहीं होता। इसका मतलब है 'पैसों का बंटवारा'। अगर एक कंपनी ने 100 रुपये कमाए, तो उसमें से मजदूर को पगार कितनी मिली और मालिक ने मुनाफा कितना रखा, इसे 'वितरण' कहते हैं। सरकार जो टैक्स लेकर गरीबों को राशन देती है, वह भी पैसों का एक तरह का बंटवारा ही है।",
+      "en": "In pure economics, 'Distribution' does not refer to the physical logistics or transport of delivering goods in trucks (so statement 1 is false). It strictly refers to how the national income is divided among those who helped produce it (wages for labor, rent for land, profit for owners). Government taxation is also a form of income redistribution. Thus, statements 2 and 3 are correct.\n\nIn simple terms: When economists say 'Distribution', they don't mean a delivery guy driving a truck to drop off Amazon packages. They mean 'sharing the money'. If a factory makes ₹100, how much goes to the worker as salary, and how much goes to the boss as profit? That sharing of wealth is what economics calls distribution. The government taking taxes from the rich to help the poor is also a way of sharing wealth."
+    }
+  },
+  {
+    "id": 23,
+    "subject": "Economics",
+    "topic": "Factor of Production: Land",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "अर्थशास्त्र में भूमि का अर्थ केवल कृषि योग्य मिट्टी नहीं, बल्कि सभी प्राकृतिक संसाधन (जैसे खनिज, जल, वन) हैं।",
+        "en": "In economics, land means not only cultivable soil but all natural resources (e.g., minerals, water, forests)."
+      },
+      {
+        "hi": "भूमि की कुल आपूर्ति (Supply) को बदला या बढ़ाया जा सकता है।",
+        "en": "The total supply of land can be changed or increased."
+      },
+      {
+        "hi": "भूमि का प्रतिफल 'लगान' (Rent) कहलाता है।",
+        "en": "The reward for land is called 'Rent'."
+      }
+    ],
+    "question": {
+      "hi": "अर्थशास्त्र में 'भूमि' (Land) के कारक के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the factor of 'Land' in economics:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "अर्थशास्त्र में 'भूमि' का अर्थ प्रकृति द्वारा दिया गया हर एक मुफ्त उपहार है (जैसे हवा, पानी, कोयला, मिट्टी)। इसके उपयोग के बदले जो पैसा मिलता है उसे लगान (Rent) कहते हैं (कथन 1 और 3 सही)। लेकिन इंसान कभी भी प्रकृति की कुल भूमि या प्राकृतिक संसाधनों को खुद पैदा करके नहीं बढ़ा सकता; इसकी मात्रा स्थिर (Fixed) है। अतः कथन 2 गलत है।\n\nसरल भाषा में: 'भूमि' का मतलब सिर्फ खेत नहीं है, बल्कि पहाड़ों के अंदर का लोहा, नदियां और जंगल भी अर्थशास्त्र में 'भूमि' कहलाते हैं। लेकिन क्या इंसान अपनी मर्जी से जादू करके धरती का आकार या पानी की मात्रा बढ़ा सकता है? नहीं! कुदरत ने जितनी चीजें दी हैं, वे फिक्स हैं। इसलिए हम 'भूमि' की सप्लाई को बढ़ा नहीं सकते (कथन 2 गलत है)।",
+      "en": "In economics, 'Land' includes every single free gift of nature, like water, forests, and mineral ores. The income earned from owning these natural resources is called rent (Statements 1 and 3 are correct). However, humans cannot magically create more earth or raw natural resources; the total supply provided by nature is permanently fixed. Thus, statement 2 is wrong.\n\nIn simple terms: In economics, 'Land' doesn't just mean a muddy field. It means the rivers, the coal under the mountains, and the forests too. But can a human being wave a magic wand and create a brand-new mountain or add extra water to the planet? No. Nature's gifts are fixed in amount, meaning we absolutely cannot increase the supply of 'Land' (so statement 2 is wrong)."
+    }
+  },
+  {
+    "id": 24,
+    "subject": "Economics",
+    "topic": "Circular Flow: Leakages",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "बचत (Savings)",
+        "en": "Savings"
+      },
+      {
+        "hi": "कर (Taxes)",
+        "en": "Taxes"
+      },
+      {
+        "hi": "आयात (Imports)",
+        "en": "Imports"
+      }
+    ],
+    "question": {
+      "hi": "'आय के चक्रीय प्रवाह' मॉडल में निम्नलिखित में से कौन से 'रिसाव' (Leakages) के उदाहरण हैं?",
+      "en": "Which of the following are examples of 'Leakages' in the 'Circular Flow of Income' model?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "आय के चक्रीय प्रवाह में 'रिसाव' (Leakage) का अर्थ है वह पैसा जो देश के मुख्य बाजार में खर्च होने से बच जाता है या बाहर चला जाता है। जब लोग पैसा बचाते हैं (बचत), सरकार को टैक्स देते हैं, या विदेशों से सामान खरीदते हैं (आयात), तो वह पैसा आपके देश के लोकल बाजार से निकल जाता है। इसलिए ये तीनों रिसाव हैं।\n\nसरल भाषा में: सोचिए देश का बाजार एक बाल्टी है जिसमें पैसों का पानी घूम रहा है। अगर आप अपना पैसा बैंक की गुल्लक में बंद कर लें (बचत), या सरकार आपसे वो पैसा टैक्स में छीन ले, या आप वह पैसा चीन का खिलौना खरीदने (आयात) में विदेश भेज दें, तो वो पैसा आपकी बाल्टी से बाहर छलक गया। इसी बाहर निकलने को अर्थशास्त्र में 'रिसाव' (लीकेज) कहते हैं। इसलिए तीनों ऑप्शन सही हैं।",
+      "en": "A 'Leakage' in the circular flow refers to money that is removed from the core domestic spending cycle. When households save money instead of spending it, when the government extracts taxes, or when money is sent to a foreign country to buy imported goods, that money 'leaks' out of the local business cycle. Therefore, all three are classic examples of leakages.\n\nIn simple terms: Imagine the country's economy is a bucket of swirling water (money). If you hide your money in a piggy bank (Savings), or the government takes it as tax, or you send it to America to buy an iPhone (Imports), that money spills out of the local bucket. Because the money leaves the local shopping cycle, it is called a 'leakage'. So, all three are correct."
+    }
+  },
+  {
+    "id": 25,
+    "subject": "Economics",
+    "topic": "Duopoly",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "यह अल्पाधिकार (Oligopoly) का ही एक विशेष रूप है जिसमें केवल दो विक्रेता होते हैं।",
+        "en": "It is a special form of oligopoly in which there are only two sellers."
+      },
+      {
+        "hi": "द्वयाधिकार में फर्में अक्सर कीमत-युद्ध (Price War) या गठबंधन (Collusion) का सहारा लेती हैं।",
+        "en": "In a duopoly, firms often resort to price wars or collusion."
+      },
+      {
+        "hi": "इस बाजार में प्रवेश करना बहुत आसान होता है।",
+        "en": "It is very easy to enter this market."
+      }
+    ],
+    "question": {
+      "hi": "'द्वयाधिकार' (Duopoly) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding 'Duopoly':"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "द्वयाधिकार (Duopoly) अल्पाधिकार का वह रूप है जहां पूरे बाजार पर केवल दो बड़ी कंपनियों का कब्जा होता है। क्योंकि वे सिर्फ दो हैं, वे या तो ग्राहकों को खींचने के लिए कीमतें गिराकर आपस में लड़ती हैं (कीमत युद्ध) या फिर गुपचुप तरीके से हाथ मिलाकर कीमतें बढ़ा देती हैं (गठबंधन)। लेकिन ऐसी कंपनियों को टक्कर देना बहुत महंगा होता है, इसलिए नए लोगों का इस बाजार में आना 'आसान' नहीं होता। अतः कथन 3 गलत है।\n\nसरल भाषा में: फूड डिलीवरी में 'जोमैटो' और 'स्विगी' या कोल्ड ड्रिंक में 'कोका-कोला' और 'पेप्सी' को देखें। पूरे बाजार में बस यही दो दादा हैं, इसे द्वयाधिकार कहते हैं (कथन 1 सही)। या तो ये दोनों आपस में भारी डिस्काउंट देकर लड़ते हैं, या फिर चुपचाप एक-दूसरे से हाथ मिलाकर दोनों अपनी बोतल 40 रुपये की कर देते हैं (कथन 2 सही)। अब अगर आप सोचें कि कल आप अपनी खुद की एक नई पेप्सी कंपनी खोल लेंगे, तो वो नामुमकिन है क्योंकि इसमें करोड़ों रुपये लगेंगे। इसलिए इस बाजार में घुसना 'आसान' बिल्कुल नहीं है (कथन 3 गलत है)।",
+      "en": "A Duopoly is a strict subset of an oligopoly dominated by exactly two giant firms. They intensely watch each other, leading either to brutal price wars to steal customers or illegal secret handshakes (collusion) to raise prices mutually. Because these two firms hold massive market power and capital, the barriers for a new start-up to enter are incredibly high, not easy. Thus, statement 3 is incorrect.\n\nIn simple terms: Think of Zomato and Swiggy, or Coca-Cola and Pepsi. There are exactly two giant bosses controlling the whole market (Statement 1). They either fight fiercely by giving massive discounts, or they secretly become friends and raise their prices together (Statement 2). If you try to start your own brand-new cola company tomorrow to fight Pepsi, you will fail because it takes billions of dollars. So, entering this market is extremely difficult, definitely not 'easy' (Statement 3 is wrong)."
+    }
+  },
+  {
+    "id": 26,
+    "subject": "Economics",
+    "topic": "Monopolistic Competition",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "समरूप उत्पादों (Homogeneous products) का होना।",
+        "en": "Having homogeneous products."
+      },
+      {
+        "hi": "उत्पाद विभेदीकरण (Product differentiation) का होना।",
+        "en": "Having product differentiation."
+      },
+      {
+        "hi": "केवल एक विक्रेता का होना।",
+        "en": "Having only one seller."
+      }
+    ],
+    "question": {
+      "hi": "'एकाधिकार प्रतिस्पर्धा' (Monopolistic Competition) की सबसे प्रमुख विशेषता क्या है?",
+      "en": "What is the most prominent feature of 'Monopolistic Competition'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "एकाधिकार प्रतिस्पर्धा में उत्पाद एक-दूसरे से थोड़े अलग (उत्पाद विभेदीकरण) होते हैं (इसलिए कथन 2 सही है)। पूर्ण प्रतिस्पर्धा की तरह इसमें वस्तुएं बिल्कुल एक जैसी (समरूप) नहीं होतीं (इसलिए कथन 1 गलत है)। और एकाधिकार की तरह इसमें सिर्फ एक विक्रेता नहीं होता, बल्कि कई विक्रेता होते हैं (इसलिए कथन 3 गलत है)। सरल भाषा में: सोचिए नहाने के साबुन का बाजार। लक्स, डव, पियर्स सब साबुन हैं पर सबके रंग और खुशबू अलग-अलग हैं। इसी अलगपन (उत्पाद विभेदीकरण) को एकाधिकार प्रतिस्पर्धा कहते हैं। यह न तो पूरी तरह एक जैसा है (इसलिए 1 गलत), और न ही इसे बेचने वाला कोई एक अकेला आदमी है (इसलिए 3 गलत)।",
+      "en": "In monopolistic competition, products are slightly different from each other (Product differentiation) (so statement 2 is correct). Unlike perfect competition, products are not exactly identical (homogeneous) (so statement 1 is incorrect). And unlike a monopoly, there are many sellers, not just one (so statement 3 is incorrect). In simple terms: Think of the bath soap market. Lux, Dove, and Pears are all soaps, but they have different colors and scents. This uniqueness (differentiation) is called monopolistic competition. They are not identical (so 1 is wrong), and there isn't just one single guy selling them (so 3 is wrong)."
+    }
+  },
+  {
+    "id": 27,
+    "subject": "Economics",
+    "topic": "Economic Agent: Firm",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "फर्म का प्राथमिक निर्णय यह होता है कि उत्पादन की किस तकनीक (Production Function) का उपयोग करना है।",
+        "en": "The primary decision of a firm is which production technique (Production Function) to use."
+      },
+      {
+        "hi": "फर्म इस निर्णय के आधार पर श्रम (Labour) और पूंजी (Capital) के बीच अनुपात तय करती है।",
+        "en": "Based on this decision, the firm decides the ratio between labor and capital."
+      },
+      {
+        "hi": "फर्म का निर्णय हमेशा उपभोक्ता की मांग के विपरीत होता है।",
+        "en": "The firm's decision is always opposite to consumer demand."
+      }
+    ],
+    "question": {
+      "hi": "एक 'फर्म' (Firm) के रूप में एक आर्थिक एजेंट के निर्णय लेने के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the decision-making of an economic agent as a 'Firm':"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कोई भी कंपनी (फर्म) सबसे पहले यह तय करती है कि उसे अपना सामान मशीनों से बनाना है या मजदूरों से (तकनीक और अनुपात)। इसलिए कथन 1 और 2 सही हैं। एक सफल फर्म हमेशा वही बनाती है जो ग्राहक चाहता है (मांग के अनुसार), न कि मांग के विपरीत। इसलिए कथन 3 गलत है। सरल भाषा में: अगर आप जूतों की फैक्टरी खोलेंगे, तो सबसे पहले सोचेंगे कि काम सिलाई मशीनों (पूंजी) से कराएं या दर्जी (श्रम) से (कथन 1 और 2 सही)। लेकिन आप वही जूते बनाएंगे जो लोग खरीदना चाहते हैं। अगर लोग काले जूते मांग रहे हैं, तो आप लाल जूते बनाकर अपना नुकसान नहीं करेंगे। इसलिए फर्म कभी भी ग्राहकों की मांग के उल्टा नहीं चलती (कथन 3 गलत है)।",
+      "en": "A firm must first decide whether to produce goods using more machines or more workers (technique and ratio). Thus, statements 1 and 2 are correct. A successful firm always produces according to consumer demand, never opposite to it. Thus, statement 3 is incorrect. In simple terms: If you open a shoe factory, you will first decide whether to use big machines (capital) or cobblers (labor) to make the shoes (Statements 1 & 2 are right). But you will only make the shoes that people actually want to buy. If people demand black shoes, you won't make red shoes just to go opposite to their demand. So, a firm never works against consumer demand (Statement 3 is wrong)."
+    }
+  },
+  {
+    "id": 28,
+    "subject": "Economics",
+    "topic": "Factor Income",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "वेतन (Wages)",
+        "en": "Wages"
+      },
+      {
+        "hi": "लाभ (Profit)",
+        "en": "Profit"
+      },
+      {
+        "hi": "बेरोजगारी भत्ता (Unemployment Allowance)",
+        "en": "Unemployment Allowance"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से किसे 'कारक आय' (Factor Income) माना जा सकता है?",
+      "en": "Which of the following can be considered as 'Factor Income'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कारक आय वह कमाई है जो अर्थव्यवस्था में कुछ उत्पादन करने (काम करने या निवेश करने) के बदले मिलती है। वेतन (श्रम के लिए) और लाभ (उद्यम के लिए) कारक आय हैं (कथन 1 और 2 सही)। बेरोजगारी भत्ता बिना किसी काम या उत्पादन के सरकार द्वारा मुफ्त में दिया जाता है, जिसे 'हस्तांतरण आय' (Transfer Income) कहते हैं। अतः कथन 3 गलत है। सरल भाषा में: जो पैसा आपने मेहनत करके या अपना बिजनेस चलाकर कमाया है (जैसे पगार या मुनाफा), उसे अर्थशास्त्र में 'कारक आय' कहते हैं (1 और 2 सही)। लेकिन जो पैसा सरकार घर बैठे बेरोजगारों को मदद के तौर पर देती है, उसके बदले में देश में कोई नया सामान नहीं बनता। ऐसे फ्री के पैसे को अर्थशास्त्र में कमाई नहीं माना जाता (इसलिए 3 गलत है)।",
+      "en": "Factor income is earned in exchange for contributing to production (like working or investing). Wages (for labor) and Profit (for enterprise) are factor incomes (Statements 1 and 2 are right). Unemployment allowance is given for free by the government without any productive work in return, making it a 'Transfer Income'. Thus, statement 3 is wrong. In simple terms: Money you earn by sweating at a job or running a business (salary and profit) is called 'Factor Income' because you earned it (1 and 2 are right). But the free money the government gives to jobless people is charity. Since the jobless person produced nothing in return, it is not considered earned income in economics (so 3 is wrong)."
+    }
+  },
+  {
+    "id": 29,
+    "subject": "Economics",
+    "topic": "Macroeconomics",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "समग्र मांग (Aggregate Demand)",
+        "en": "Aggregate Demand"
+      },
+      {
+        "hi": "राजकोषीय नीति (Fiscal Policy)",
+        "en": "Fiscal Policy"
+      },
+      {
+        "hi": "एक व्यक्तिगत फर्म का लाभ का स्तर",
+        "en": "The profit level of an individual firm"
+      }
+    ],
+    "question": {
+      "hi": "समष्टि अर्थशास्त्र (Macroeconomics) के दायरे में निम्नलिखित में से किसका अध्ययन किया जाता है?",
+      "en": "Which of the following is studied within the scope of Macroeconomics?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "समष्टि (Macro) अर्थशास्त्र पूरी अर्थव्यवस्था का एक साथ अध्ययन करता है। देश की कुल 'समग्र मांग' और सरकार की 'राजकोषीय नीति' (टैक्स और खर्च) पूरे देश को प्रभावित करते हैं (कथन 1 और 2 सही)। किसी 'एक व्यक्तिगत फर्म' (Single firm) का मुनाफा सूक्ष्म स्तर की बात है, जो व्यष्टि (Micro) अर्थशास्त्र का हिस्सा है। अतः कथन 3 गलत है। सरल भाषा में: 'समष्टि' (मैक्रो) का मतलब है बहुत बड़ा। जब हम पूरे देश के लोगों की कुल खरीदारी (समग्र मांग) या भारत सरकार के पूरे बजट (राजकोषीय नीति) की बात करते हैं, तो यह मैक्रो है (1 और 2 सही)। लेकिन किसी मोहल्ले की एक छोटी सी दुकान कितना मुनाफा कमा रही है, यह 'व्यष्टि' (माइक्रो) अर्थशास्त्र है (इसलिए 3 गलत है)।",
+      "en": "Macroeconomics studies the economy as a whole entity. The country's total 'Aggregate Demand' and the government's 'Fiscal Policy' (taxing and spending) affect the entire nation (Statements 1 and 2 are correct). The profit of 'one individual firm' is a small-scale issue, which falls under Microeconomics. Thus, statement 3 is wrong. In simple terms: 'Macro' means massive. When we look at what the entire country's population is buying (Aggregate Demand) or the Indian Government's national budget (Fiscal Policy), it's Macro (1 and 2 are right). But looking at how much profit one single bakery makes is very small-scale, so it belongs to 'Micro' economics (hence 3 is wrong)."
+    }
+  },
+  {
+    "id": 30,
+    "subject": "Economics",
+    "topic": "Perfect Competition",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "यह फर्म द्वारा स्वयं निर्धारित की जाती है।",
+        "en": "It is determined by the firm itself."
+      },
+      {
+        "hi": "यह उद्योग की मांग (Market Demand) और उद्योग की आपूर्ति (Market Supply) की शक्तियों द्वारा निर्धारित होती है।",
+        "en": "It is determined by the forces of market demand and market supply."
+      },
+      {
+        "hi": "यह सरकार द्वारा हर उत्पाद के लिए निर्धारित की जाती है।",
+        "en": "It is determined by the government for every product."
+      }
+    ],
+    "question": {
+      "hi": "पूर्ण प्रतिस्पर्धा की स्थिति में 'कीमत' (Price) का निर्धारण कैसे होता है?",
+      "en": "How is the 'Price' determined in a state of perfect competition?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "पूर्ण प्रतिस्पर्धा में कीमत बाजार की कुल मांग और कुल आपूर्ति द्वारा तय होती है (इसलिए कथन 2 सही है)। इसमें कोई अकेली कंपनी अपनी मर्जी से कीमत तय नहीं कर सकती क्योंकि प्रतिस्पर्धा बहुत ज्यादा होती है (इसलिए कथन 1 गलत है)। और इस बाजार में सरकार भी हर चीज का रेट फिक्स करने नहीं आती (इसलिए कथन 3 गलत है)। सरल भाषा में: सोचिए एक बड़ी सब्ज़ी मंडी है जहाँ 100 लोग टमाटर बेच रहे हैं और 1000 लोग खरीदने आए हैं। टमाटर का दाम इस बात पर तय होगा कि मंडी में कितने टमाटर आए हैं (सप्लाई) और कितने लोग उसे खरीदना चाहते हैं (डिमांड) (कथन 2 सही)। कोई एक दुकानदार खुद से टमाटर 100 रुपये किलो नहीं बेच सकता, क्योंकि ग्राहक दूसरे के पास चला जाएगा (कथन 1 गलत)। और सरकार भी आकर हर ठेले वाले का रेट फिक्स नहीं करती (कथन 3 गलत)।",
+      "en": "In perfect competition, the price is purely determined by the total market demand and market supply forces (so statement 2 is correct). A single firm cannot set the price on its own because there is too much competition (so statement 1 is incorrect). Also, the government does not fix prices for every product in a free market (so statement 3 is incorrect). In simple terms: Imagine a huge vegetable market where 100 people are selling tomatoes. The price is decided automatically based on how many tomatoes are available (supply) and how many buyers are hungry for them (demand) (Statement 2 is right). One single seller cannot suddenly charge ₹100 per kg because buyers will just buy from the guy next to him (Statement 1 is wrong). And the government doesn't roam around fixing prices for every vegetable cart (Statement 3 is wrong)."
+    }
+  },
+  {
+    "id": 31,
+    "subject": "Economics",
+    "topic": "Inflation and Bond Market",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "सरकारी प्रतिभूतियों की कीमतें गिरती हैं क्योंकि बांडों पर मिलने वाला निश्चित ब्याज अब कम आकर्षक हो जाता है।",
+        "en": "The prices of government securities fall because the fixed interest earned on bonds now becomes less attractive."
+      },
+      {
+        "hi": "सरकारी प्रतिभूतियों की यील्ड (Yield) बढ़ती है क्योंकि निवेशक अधिक रिटर्न की मांग करते हैं।",
+        "en": "The yield on government securities increases because investors demand higher returns."
+      },
+      {
+        "hi": "मुद्रास्फीति का बांड बाजार पर कोई प्रभाव नहीं पड़ता है।",
+        "en": "Inflation has no effect on the bond market."
+      }
+    ],
+    "question": {
+      "hi": "जब अर्थव्यवस्था में मुद्रास्फीति (Inflation) बढ़ती है, तो सरकारी प्रतिभूतियों (Government Securities - G-Secs) की कीमतों और यील्ड (Yield) पर क्या प्रभाव पड़ता है?",
+      "en": "When inflation increases in the economy, what is the impact on the prices and yield of Government Securities (G-Secs)?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "जब महंगाई (मुद्रास्फीति) बढ़ती है, तो पैसों की ताकत (क्रय शक्ति) कम हो जाती है। ऐसे में पुराने बांड का फिक्स ब्याज लोगों को पसंद नहीं आता, जिससे वे बांड बेचने लगते हैं और बांड की कीमतें गिर जाती हैं। कीमत गिरने के कारण गणितीय रूप से बांड की यील्ड (प्रभावी रिटर्न) बढ़ जाती है (कथन 1 और 2 सही)। यह कहना कि महंगाई का बांड बाजार पर कोई असर नहीं होता, पूरी तरह गलत है (कथन 3 गलत)। सरल भाषा में: मान लीजिए आपने एक बांड खरीदा जो साल का 100 रुपये ब्याज देता है। अचानक बाजार में भयानक महंगाई आ गई और 100 रुपये में सिर्फ एक ब्रेड आने लगी। अब वो 100 रुपये का ब्याज आपके किसी काम का नहीं रहा। इसलिए आप वो बांड सस्ते में बेच देंगे (कीमत गिरेगी)। जब कीमत गिरती है, तो बांड की यील्ड (कमाई का प्रतिशत) अपने आप ऊपर चली जाती है। महंगाई का बांड पर बहुत गहरा असर पड़ता है (इसलिए 3 गलत है)।",
+      "en": "When inflation rises, the purchasing power of money falls. This makes the fixed interest from old bonds unattractive, causing investors to sell them, which drops bond prices. When bond prices fall, their mathematical yield (effective return) automatically increases (Statements 1 and 2 are correct). Saying inflation has no effect on bonds is completely absurd (Statement 3 is wrong). In simple terms: Suppose you have a bond giving ₹100 interest yearly. Suddenly, massive inflation hits, and ₹100 can only buy one loaf of bread. That ₹100 interest becomes useless to you. So, you'll sell that bond for cheap (prices drop). When the price drops, the yield (profit percentage for the new buyer) goes up. Inflation totally destroys the value of old bonds (so 3 is wrong)."
+    }
+  },
+  {
+    "id": 32,
+    "subject": "Economics",
+    "topic": "Monetary Policy and G-Secs",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "बैंकों के लिए ऋण लेने की लागत कम हो जाती है, जिससे वे अधिक सरकारी प्रतिभूतियां खरीदते हैं।",
+        "en": "The cost of borrowing for banks decreases, causing them to buy more government securities."
+      },
+      {
+        "hi": "सरकारी प्रतिभूतियों की कीमतों में वृद्धि होती है और उनकी यील्ड (Yield) घट जाती है।",
+        "en": "The prices of government securities increase and their yield decreases."
+      },
+      {
+        "hi": "बांड बाजार में तरलता (Liquidity) में कमी आती है।",
+        "en": "Liquidity in the bond market decreases."
+      }
+    ],
+    "question": {
+      "hi": "भारतीय रिज़र्व बैंक (RBI) द्वारा रेपो दर (Repo Rate) में कमी करने का प्रतिभूति बाजार पर क्या प्रभाव पड़ता है?",
+      "en": "What is the impact on the securities market when the Reserve Bank of India (RBI) decreases the Repo Rate?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "जब RBI रेपो दर घटाता है, तो बैंकों को RBI से सस्ता लोन मिलने लगता है। बैंक इस सस्ते पैसे का उपयोग करके बाजार से ज्यादा सरकारी बांड (G-Secs) खरीदते हैं (कथन 1 सही)। ज्यादा मांग होने से बांड की कीमतें बढ़ जाती हैं, और कीमत बढ़ने से यील्ड नीचे आ जाती है (कथन 2 सही)। चूंकि बाजार में सस्ता पैसा आ रहा है, इसलिए तरलता (Liquidity) बढ़ती है, कम नहीं होती (अतः कथन 3 गलत है)। सरल भाषा में: रेपो रेट घटने का मतलब है RBI द्वारा बैंकों को सस्ते में पैसा (लोन) देना। जब बैंकों के हाथ में खूब सारा सस्ता पैसा आता है, तो वे बाजार में दौड़कर सरकारी कागज (बांड) खरीदते हैं। जिस चीज को ज्यादा लोग खरीदना चाहते हैं, उसका दाम बढ़ जाता है और फायदा (यील्ड) कम हो जाता है। क्योंकि बैंकों के पास खूब पैसा है, इसलिए बाजार में पैसों की बाढ़ (तरलता) आ जाती है, सूखा नहीं पड़ता (इसलिए 3 गलत है)।",
+      "en": "When the RBI cuts the repo rate, borrowing becomes cheaper for banks. Banks use these cheap funds to buy more government bonds (G-Secs) (Statement 1 is right). High demand pushes bond prices up, which mathematically drives the yields down (Statement 2 is right). Because cheap money is entering the system, liquidity in the market actually increases, it does not decrease (Thus, statement 3 is wrong). In simple terms: A repo rate cut means the RBI is giving cheap loans to banks. Flooded with cheap cash, banks rush to buy safe government bonds. When many people want to buy the same bond, its price shoots up, causing its yield (return) to drop. Because there is so much cash flying around, market liquidity goes up, not down (so 3 is wrong)."
+    }
+  },
+  {
+    "id": 33,
+    "subject": "Economics",
+    "topic": "External Sector and Securities",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "इन्हें भारत में पंजीकृत होने के इच्छुक विदेशी निवेशकों को FPIs द्वारा जारी किया जाता है।",
+        "en": "They are issued by FPIs to foreign investors wishing to be registered in India."
+      },
+      {
+        "hi": "ये भारतीय शेयर बाजार में प्रत्यक्ष निवेश का एक माध्यम हैं।",
+        "en": "They are a medium for direct investment in the Indian stock market."
+      },
+      {
+        "hi": "सेबी (SEBI) ने P-Notes के माध्यम से होने वाले निवेशों पर कड़ी निगरानी रखने के लिए कई बार नियम सख्त किए हैं।",
+        "en": "SEBI has tightened rules several times to keep a strict watch on investments made through P-Notes."
+      }
+    ],
+    "question": {
+      "hi": "'विदेशी पोर्टफोलियो निवेश' (Foreign Portfolio Investment - FPI) के संदर्भ में 'पार्टिसिपेटरी नोट्स' (Participatory Notes - P-Notes) के बारे में निम्नलिखित में से कौन सा कथन सही है?",
+      "en": "Which of the following statements is correct regarding 'Participatory Notes' (P-Notes) in the context of 'Foreign Portfolio Investment' (FPI)?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "दिए गए स्रोत के अनुसार, ये तीनों कथन सही माने गए हैं। FPIs इन नोट्स को विदेशी निवेशकों को जारी करते हैं ताकि वे भारतीय बाजार का हिस्सा बन सकें। इसके जरिए विदेशी पैसा भारतीय बाजार में आता है। क्योंकि इसमें असली निवेशक की पहचान छिप सकती है, इसलिए SEBI ने काले धन को रोकने के लिए P-Notes के नियमों को बहुत सख्त कर दिया है। सरल भाषा में: P-Notes एक तरह का पास या रसीद है। अगर कोई विदेशी आदमी भारत के शेयर बाजार में पैसा लगाना चाहता है, लेकिन वह यहां के नियम-कानून के झंझट में नहीं पड़ना चाहता, तो वह किसी दलाल (FPI) को पैसा देता है। दलाल भारत में शेयर खरीदता है और विदेशी आदमी को एक रसीद (P-Note) दे देता है। क्योंकि इसमें विदेशी आदमी का नाम छुप जाता है, इसलिए सेबी (SEBI) ने इस पर बहुत कड़ी निगरानी और सख्त नियम लगा रखे हैं ताकि कोई आतंकवादी या भ्रष्ट आदमी इसका गलत इस्तेमाल न कर सके।",
+      "en": "According to the provided source, all three statements are considered correct. FPIs issue these notes to foreign investors to allow them exposure to Indian markets. It acts as a channel for foreign capital into the Indian stock market. Because the actual identity of the investor can remain hidden behind the FPI, SEBI has heavily tightened the KYC rules on P-Notes to prevent black money routing. In simple terms: A P-Note is like a VIP pass. If a foreigner wants to buy Indian shares but hates paperwork, they give money to a registered broker (FPI). The broker buys the shares and gives the foreigner a receipt called a P-Note. Because this hides the real foreigner's identity, the Indian watchdog (SEBI) has made extremely strict rules for it so that criminals don't use it to hide dirty money."
+    }
+  },
+  {
+    "id": 34,
+    "subject": "Economics",
+    "topic": "Fiscal Policy and Securities",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "सरकार द्वारा बहुत अधिक मात्रा में G-Secs जारी करने से निजी क्षेत्र के लिए उधार लेना महंगा हो जाता है।",
+        "en": "Issuing a massive amount of G-Secs by the government makes borrowing expensive for the private sector."
+      },
+      {
+        "hi": "निजी कंपनियों के बांडों की मांग में कमी आती है क्योंकि निवेशक सुरक्षित सरकारी बांडों की ओर आकर्षित होते हैं।",
+        "en": "The demand for corporate bonds falls because investors get attracted to safer government bonds."
+      },
+      {
+        "hi": "इसका अर्थव्यवस्था के कुल निवेश (Gross Investment) पर सकारात्मक प्रभाव पड़ता है।",
+        "en": "This has a positive effect on the gross investment of the economy."
+      }
+    ],
+    "question": {
+      "hi": "सरकार के 'बाजार उधार' (Market Borrowing) कार्यक्रम का प्रतिभूति बाजार में 'क्राउडिंग आउट' (Crowding Out Effect) प्रभाव से क्या तात्पर्य है?",
+      "en": "What is meant by the 'Crowding Out Effect' of the government's 'Market Borrowing' program in the securities market?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "क्राउडिंग आउट का मतलब है कि जब सरकार बाजार से बहुत सारा पैसा (लोन) खुद सोख लेती है, तो प्राइवेट कंपनियों के लिए उधार लेना बहुत महंगा हो जाता है। लोग प्राइवेट कंपनियों को पैसा देने के बजाय सुरक्षित सरकारी बांड खरीदना पसंद करते हैं (कथन 1 और 2 सही)। चूंकि प्राइवेट कंपनियों को लोन नहीं मिलता, वे नई फैक्ट्रियां नहीं लगा पातीं, जिससे देश के कुल निवेश पर 'नकारात्मक' (बुरा) असर पड़ता है, सकारात्मक नहीं। अतः कथन 3 गलत है। सरल भाषा में: मान लीजिए बैंक के पास लोन देने के लिए 100 रुपये हैं। सरकार ने आकर 90 रुपये खुद लोन ले लिए। अब प्राइवेट कंपनियों के लिए सिर्फ 10 रुपये बचे। पैसों की कमी से बैंक ब्याज दर बढ़ा देंगे (लोन महंगा होगा)। प्राइवेट कंपनियां महंगा लोन लेकर काम नहीं कर पाएंगी और देश में नई फैक्ट्रियां खुलना बंद हो जाएंगी। इसे क्राउडिंग आउट (बाहर धकेलना) कहते हैं। इसका असर बुरा होता है, अच्छा (सकारात्मक) नहीं।",
+      "en": "Crowding out happens when the government borrows so much money from the market that there's barely any left for private companies. This forces banks to raise interest rates, making loans expensive for private firms. Investors also prefer buying safe government bonds over risky corporate ones (Statements 1 and 2 are right). Because private firms cannot afford loans, they stop building new factories, which negatively impacts the country's overall gross investment. Thus, statement 3 is wrong. In simple terms: Imagine a bank only has ₹100 to lend. The government comes and takes a ₹90 loan. Now only ₹10 is left for private businesses. Because cash is low, the bank charges crazy high interest rates. Businesses can't afford this, so they stop expanding. The government has 'crowded out' private business. This has a bad (negative) effect on the economy, not a positive one."
+    }
+  },
+  {
+    "id": 35,
+    "subject": "Economics",
+    "topic": "Corporate Governance and Securities",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "वे बोर्ड की बैठकों में केवल बहुमत का समर्थन करने के लिए होते हैं।",
+        "en": "They are there only to support the majority in board meetings."
+      },
+      {
+        "hi": "उनका मुख्य कार्य छोटे शेयरधारकों (Minority Shareholders) के हितों की रक्षा करना और प्रबंधन पर नियंत्रण रखना है।",
+        "en": "Their main task is to protect the interests of minority shareholders and keep a check on the management."
+      },
+      {
+        "hi": "वे कंपनी के दैनिक संचालन (Day-to-day operations) के लिए सीधे उत्तरदायी होते हैं।",
+        "en": "They are directly responsible for the day-to-day operations of the company."
+      }
+    ],
+    "question": {
+      "hi": "सेबी (SEBI) द्वारा 'लिस्टिंग ऑब्लिगेशन एंड डिस्क्लोजर रिक्वायरमेंट्स' (LODR) नियमों के अनुसार स्वतंत्र निदेशकों (Independent Directors) की क्या भूमिका है?",
+      "en": "As per SEBI's 'Listing Obligations and Disclosure Requirements' (LODR) regulations, what is the role of Independent Directors?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1 और 3",
+        "en": "1 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "स्वतंत्र निदेशक वे लोग होते हैं जिनका कंपनी के प्रमोटरों (मालिकों) से कोई सीधा रिश्ता नहीं होता। उनका मुख्य काम आम जनता और छोटे शेयरधारकों (Minority Shareholders) के हितों को बचाना होता है, ताकि कंपनी के मालिक कोई धोखाधड़ी न कर सकें (कथन 2 सही)। वे मालिकों की हां में हां मिलाने के लिए नहीं होते (इसलिए 1 गलत), और वे रोजमर्रा का ऑफिस का काम नहीं संभालते, वे सिर्फ निगरानी करते हैं (इसलिए 3 गलत)। सरल भाषा में: स्वतंत्र निदेशक (Independent Director) एक तरह से क्लास के मॉनिटर या अंपायर की तरह होते हैं। वे कंपनी के मालिक के सगे-संबंधी नहीं होते। उनका काम बस यह देखना है कि कंपनी के मालिक आम जनता (छोटे शेयरधारकों) का पैसा किसी गलत जगह न लगा दें। वे रोज़ाना ऑफिस जाकर फाइलें चेक नहीं करते, और न ही वे मालिक के चमचे होते हैं। वे निष्पक्ष अंपायर होते हैं।",
+      "en": "Independent directors have no material or familial ties to the company's promoters. Their primary mandate is to provide unbiased judgment, protect minority retail investors, and prevent fraud by the management (Statement 2 is correct). They are definitely not there to just blindly agree with the majority owners (so 1 is wrong), nor do they sit in the office doing daily operational tasks like regular managers (so 3 is wrong). In simple terms: An independent director is like a neutral cricket umpire inside a company. They are not relatives or friends of the company owner. Their job is to ensure the owner doesn't cheat the small, regular people who bought shares. They don't do the daily office work, and they certainly don't just blindly nod 'yes' to whatever the boss says. They watch out for foul play."
+    }
+  },
+  {
+    "id": 36,
+    "subject": "Economics",
+    "topic": "FinTech and Securities",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "इसमें बहुत कम समय में (मिलीसेकंड्स) हजारों ट्रेड (Trades) करने के लिए शक्तिशाली एल्गोरिदम का उपयोग किया जाता है।",
+        "en": "It uses powerful algorithms to execute thousands of trades in a very short time (milliseconds)."
+      },
+      {
+        "hi": "यह बाजार में तरलता (Liquidity) प्रदान करता है, लेकिन अत्यधिक अस्थिरता (Volatility) का कारण भी बन सकता है।",
+        "en": "It provides liquidity in the market, but can also cause extreme volatility."
+      },
+      {
+        "hi": "सेबी (SEBI) ने इसके लिए कोई विनियमन (Regulation) नहीं बनाया है।",
+        "en": "SEBI has not created any regulation for it."
+      }
+    ],
+    "question": {
+      "hi": "'हाई फ्रीक्वेंसी ट्रेडिंग' (High-Frequency Trading - HFT) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding 'High-Frequency Trading' (HFT):"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "HFT में सुपर कंप्यूटर पलक झपकते ही (मिलीसेकंड) में हजारों शेयर खरीदते और बेचते हैं (कथन 1 सही)। इससे बाजार में ट्रेडिंग (तरलता) तो बहुत होती है, लेकिन कभी-कभी कंप्यूटर की गलती से अचानक बाजार क्रैश (अस्थिरता) भी हो सकता है (कथन 2 सही)। चूंकि यह खतरनाक हो सकता है, इसलिए SEBI ने इसके लिए बहुत कड़े नियम बनाए हैं। यह कहना कि कोई नियम नहीं है, गलत है (कथन 3 गलत)। सरल भाषा में: 'हाई फ्रीक्वेंसी ट्रेडिंग' में इंसान नहीं बल्कि सुपर-फास्ट रोबोट (कंप्यूटर) ट्रेडिंग करते हैं। ये रोबोट एक सेकंड के हजारवें हिस्से में शेयर खरीद-बेच कर मुनाफा कमा लेते हैं। क्योंकि रोबोट बहुत तेज होते हैं, इससे बाजार में हर समय शेयर उपलब्ध रहते हैं। लेकिन अगर रोबोट का दिमाग खराब हो जाए, तो वे सेकंडों में पूरा बाजार गिरा भी सकते हैं। इसी खतरे को देखकर सेबी ने रोबोट ट्रेडिंग के सख्त नियम बना रखे हैं।",
+      "en": "HFT uses supercomputers and algorithms to execute thousands of orders in milliseconds (Statement 1 is right). While it floods the market with buyers and sellers (providing liquidity), algorithmic glitches can cause sudden flash crashes (extreme volatility) (Statement 2 is right). Because of these massive risks, SEBI has implemented very strict regulations and audits for algorithmic trading. Thus, statement 3 is completely false. In simple terms: In HFT, humans don't trade; super-fast computer robots do. These robots buy and sell shares in the blink of an eye. This is great because there is always someone ready to buy your share (liquidity). But if the robot gets a virus or makes a mistake, it can crash the entire stock market in seconds. Because of this danger, the Indian watchdog (SEBI) has created very strict rules for these robots."
+    }
+  },
+  {
+    "id": 37,
+    "subject": "Economics",
+    "topic": "Green Finance and Securities",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "केवल राजकोषीय घाटे (Fiscal Deficit) को कम करना।",
+        "en": "Only to reduce the Fiscal Deficit."
+      },
+      {
+        "hi": "जलवायु परिवर्तन (Climate Change) और पर्यावरण अनुकूल परियोजनाओं (Environment-friendly projects) के लिए धन जुटाना।",
+        "en": "To raise funds for climate change and environment-friendly projects."
+      },
+      {
+        "hi": "देश के शेयर बाजार सूचकांक (Sensex/Nifty) को ऊपर उठाना।",
+        "en": "To lift the country's stock market index (Sensex/Nifty)."
+      }
+    ],
+    "question": {
+      "hi": "'सॉवरेन ग्रीन बांड' (Sovereign Green Bonds) जारी करने का मुख्य उद्देश्य क्या है?",
+      "en": "What is the main objective of issuing 'Sovereign Green Bonds'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "सॉवरेन ग्रीन बांड सरकार द्वारा केवल उन खास परियोजनाओं के लिए जारी किए जाते हैं जो पर्यावरण को फायदा पहुंचाती हैं, जैसे सौर ऊर्जा (Solar Power) या इलेक्ट्रिक वाहन (इसलिए कथन 2 सही है)। इसका उद्देश्य सरकार के आम घाटे को कम करना या शेयर बाजार को ऊपर उठाना बिल्कुल नहीं होता (इसलिए 1 और 3 गलत हैं)। सरल भाषा में: 'ग्रीन' का मतलब है हरा-भरा पर्यावरण। जब सरकार को प्रदूषण कम करने वाले काम करने होते हैं (जैसे पवन चक्की या सोलर पैनल लगाना), तो वह जनता से जो पैसा उधार लेती है, उसे 'ग्रीन बांड' कहते हैं। यह पैसा सिर्फ और सिर्फ पर्यावरण को बचाने में ही खर्च होता है, सरकार इसे अपने किसी दूसरे घाटे या शेयर बाजार के कामों में खर्च नहीं कर सकती।",
+      "en": "Sovereign Green Bonds are strictly earmarked debt instruments issued by the government specifically to fund eco-friendly infrastructure like solar parks or electric public transport (Statement 2 is correct). The funds raised cannot be used simply to plug the general fiscal deficit or manipulate the stock market indices like Sensex (Statements 1 and 3 are wrong). In simple terms: 'Green' means nature. When the government needs money to build things that fight pollution (like wind turbines or electric buses), they issue a 'Green Bond' to borrow money. The government promises that this specific money will ONLY be used to save the environment, not to pay off their old debts or play in the stock market."
+    }
+  },
+  {
+    "id": 38,
+    "subject": "Economics",
+    "topic": "External Capital and Securities",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "ये बांड एक विदेशी मुद्रा में जारी किए जाते हैं और इन्हें एक निश्चित अवधि के बाद शेयर (Equity) में बदला जा सकता है।",
+        "en": "These bonds are issued in a foreign currency and can be converted into equity shares after a certain period."
+      },
+      {
+        "hi": "ये भारतीय कंपनियों द्वारा अंतरराष्ट्रीय बाजार से पूंजी जुटाने के लिए उपयोग किए जाते हैं।",
+        "en": "They are used by Indian companies to raise capital from the international market."
+      },
+      {
+        "hi": "इन्हें केवल घरेलू निवेशकों (Domestic Investors) द्वारा ही खरीदा जा सकता है।",
+        "en": "They can only be purchased by domestic investors."
+      }
+    ],
+    "question": {
+      "hi": "'फॉरेन करेंसी कन्वर्टिबल बांड' (Foreign Currency Convertible Bonds - FCCB) क्या हैं?",
+      "en": "What are 'Foreign Currency Convertible Bonds' (FCCB)?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "FCCB नाम से ही स्पष्ट है: 'Foreign Currency' (विदेशी मुद्रा में जारी), 'Convertible' (जिसे बाद में शेयर में बदला जा सके), 'Bond' (उधार)। यह भारतीय कंपनियों द्वारा विदेशों से डॉलर में पैसा जुटाने का तरीका है (कथन 1 और 2 सही)। चूंकि यह विदेशी बाजार में जारी होता है, इसलिए इसे विदेशी निवेशक खरीदते हैं, भारत के 'घरेलू' निवेशक नहीं। अतः कथन 3 गलत है। सरल भाषा में: मान लीजिए रिलायंस को अमेरिका से डॉलर में उधार चाहिए। वह अमेरिका में एक कागज (बांड) बेचेगी। इस बांड की खासियत यह होती है कि 5 साल बाद विदेशी निवेशक चाहे तो अपना पैसा ब्याज समेत वापस ले ले, या फिर उस पैसे के बदले रिलायंस कंपनी के शेयर (मालिकी) ले ले। क्योंकि यह विदेशों में विदेशियों को बेचा जाता है, इसलिए कोई आम भारतीय नागरिक इसे नहीं खरीद सकता (इसलिए 3 गलत है)।",
+      "en": "The name FCCB explains it perfectly: 'Foreign Currency' (issued in Dollars/Euros), 'Convertible' (investors can swap the bond for company shares later), and 'Bond' (a loan). Indian companies use them to borrow cheaply from international markets (Statements 1 and 2 are right). Because they are specifically designed to tap into foreign capital markets, they are bought by global investors, not domestic Indian investors. Thus, statement 3 is wrong. In simple terms: Imagine Tata wants to borrow US Dollars from Americans. Tata sells them a special ticket (FCCB). After 5 years, the American can either take their Dollars back with interest, or say 'keep the money and give me Tata shares instead'. Because this ticket is sold overseas to foreigners, regular Indians living in India don't buy them (so 3 is wrong)."
+    }
+  },
+  {
+    "id": 39,
+    "subject": "Economics",
+    "topic": "Derivatives and Risk Management",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "सट्टेबाजी (Speculation) के जरिए रातों-रात बहुत अधिक पैसा कमाना।",
+        "en": "Making a lot of money overnight through speculation."
+      },
+      {
+        "hi": "अंतर्निहित परिसंपत्ति (Underlying Asset) की कीमतों में होने वाले प्रतिकूल परिवर्तनों से संभावित नुकसान को कम करना।",
+        "en": "Reducing the potential loss from adverse changes in the prices of the underlying asset."
+      },
+      {
+        "hi": "केवल शेयर बाजार में गिरावट के समय लाभ कमाना।",
+        "en": "Making a profit only when the stock market falls."
+      }
+    ],
+    "question": {
+      "hi": "'हेजिंग' (Hedging) के लिए डेरिवेटिव्स (Derivatives) का उपयोग करने का क्या अर्थ है?",
+      "en": "What is the meaning of using derivatives for 'Hedging'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "अर्थशास्त्र में 'हेजिंग' (Hedging) का अर्थ है बीमा (Insurance) की तरह अपने जोखिम या संभावित नुकसान को कम करना (कथन 2 सही)। इसका उद्देश्य सट्टेबाजी (Speculation) करके रातों-रात अमीर बनना नहीं होता (इसलिए 1 गलत)। और हेजिंग का उपयोग बाजार के गिरने या उठने, दोनों स्थितियों के जोखिम से बचने के लिए किया जाता है, 'केवल' गिरावट के समय नहीं (इसलिए 3 गलत)। सरल भाषा में: 'हेजिंग' का मतलब है सुरक्षा कवच। मान लीजिए आप एक किसान हैं और आपको डर है कि फसल कटने पर गेहूं सस्ता हो जाएगा। आप आज ही एक व्यापारी से एग्रीमेंट (डेरिवेटिव) कर लेते हैं कि वो 3 महीने बाद आपका गेहूं 2000 रुपये में ही खरीदेगा। अब अगर दाम गिर भी जाए, तो आपको नुकसान नहीं होगा। आपने खुद को सुरक्षित कर लिया। इसे ही हेजिंग कहते हैं। यह कोई जुआ या सट्टा नहीं है, यह एक तरह का बीमा है।",
+      "en": "In finance, 'Hedging' means taking an investment position to offset or reduce the risk of adverse price movements in an asset, acting much like an insurance policy (so statement 2 is correct). Its purpose is pure protection, not wild speculation to get rich overnight (so statement 1 is wrong). Also, hedging protects against BOTH sudden price drops and sudden price spikes, not just market crashes (so statement 3 is wrong). In simple terms: Hedging is like buying an umbrella. Imagine you are a farmer worried that tomato prices will crash next month. You sign a contract today with a ketchup factory to sell tomatoes at a fixed price next month. If the market crashes, you are safe! You 'hedged' your risk. Hedging is not gambling to get rich; it is an insurance policy to ensure you don't go broke."
+    }
+  },
+  {
+    "id": 40,
+    "subject": "Economics",
+    "topic": "Bank Credit and Securities",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "कंपनियां बैंक से ऋण न मिल पाने के कारण बांड बाजार (Corporate Bond Market) से धन जुटाने का प्रयास करती हैं।",
+        "en": "Unable to get loans from banks, companies try to raise funds from the corporate bond market."
+      },
+      {
+        "hi": "कॉर्पोरेट बांडों की मांग बढ़ने से उनकी कीमतों में तेजी आती है।",
+        "en": "Due to increased demand for corporate bonds, their prices rise."
+      },
+      {
+        "hi": "इससे प्रतिभूति बाजार में नई लिस्टिंग्स (IPOs) की संख्या कम हो जाती है क्योंकि आर्थिक गतिविधि धीमी हो जाती है।",
+        "en": "This reduces the number of new listings (IPOs) in the securities market because economic activity slows down."
+      }
+    ],
+    "question": {
+      "hi": "'क्रेडिट क्रंच' (Credit Crunch) की स्थिति में प्रतिभूति बाजार पर क्या प्रभाव पड़ता है?",
+      "en": "What is the impact on the securities market during a 'Credit Crunch' situation?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "क्रेडिट क्रंच वह स्थिति है जब बैंकों के पास पैसे की भारी कमी हो जाती है और वे लोन देना बंद कर देते हैं। ऐसे में कंपनियां पैसा जुटाने के लिए सीधे बाजार में बांड बेचती हैं। जब बैंकों में पैसा नहीं होता, तो बड़े निवेशक भी कॉर्पोरेट बांड में पैसा लगाते हैं जिससे बांड की मांग और कीमत बढ़ जाती है। वहीं दूसरी ओर, बाजार में सुस्ती के कारण नई कंपनियां अपना IPO लाने से डरती हैं। इसलिए सभी कथन सही हैं। सरल भाषा में: 'क्रेडिट क्रंच' का मतलब है बाजार में कैश (पैसों) का सूखा पड़ जाना। जब बैंक कंपनियों को लोन देने से मना कर देते हैं, तो कंपनियां सीधे आम जनता और निवेशकों के पास जाकर एक पर्ची (बांड) बेचकर पैसा मांगती हैं (कथन 1 और 2 सही)। चूंकि पूरे बाजार में पैसों की तंगी और मंदी होती है, इसलिए कोई भी नया बिजनेसमैन शेयर बाजार में अपनी नई कंपनी (IPO) उतारने की हिम्मत नहीं करता (कथन 3 सही)।",
+      "en": "A Credit Crunch happens when banks suddenly tighten lending. Starved of bank loans, companies turn to the Corporate Bond market to borrow money directly from investors. Investors looking for yields drive up the demand and prices of these bonds. Meanwhile, due to the severe lack of cash and slow economy, companies delay launching new IPOs because they fear people won't have the money to buy their new shares. All statements describe valid consequences. In simple terms: A Credit Crunch is a severe cash drought. When banks shut their doors and refuse to give loans, desperate companies print out 'bonds' (IOUs) and sell them to wealthy investors to survive (Statements 1 & 2). Because the whole country is struggling with a cash shortage, nobody dares to launch a brand-new company (IPO) in the stock market (Statement 3)."
+    }
+  },
+  {
+    "id": 41,
+    "subject": "Economics",
+    "topic": "Market Structure and Banking",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "भारत के बैंकिंग क्षेत्र में कुछ सार्वजनिक और निजी क्षेत्र के बड़े बैंकों का दबदबा है, जो बाजार की बड़ी हिस्सेदारी रखते हैं।",
+        "en": "The Indian banking sector is dominated by a few large public and private sector banks that hold a major market share."
+      },
+      {
+        "hi": "बड़े बैंक ब्याज दरों और ऋण शर्तों के निर्धारण में अक्सर एक-दूसरे का अनुसरण करते हैं।",
+        "en": "Large banks often follow each other in setting interest rates and loan terms."
+      },
+      {
+        "hi": "बैंकिंग क्षेत्र में 'पूर्ण प्रतिस्पर्धा' (Perfect Competition) मौजूद है क्योंकि प्रवेश की कोई बाधा नहीं है।",
+        "en": "There is 'Perfect Competition' in the banking sector because there are no barriers to entry."
+      }
+    ],
+    "question": {
+      "hi": "भारत में बैंकिंग क्षेत्र के संदर्भ में 'अल्पाधिकार' (Oligopoly) के क्या लक्षण हैं?",
+      "en": "What are the features of 'Oligopoly' in the context of the banking sector in India?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "अल्पाधिकार (Oligopoly) का मतलब है कि बाजार में सिर्फ कुछ बड़ी कंपनियों का राज होना। भारत में SBI, HDFC और ICICI जैसे कुछ गिने-चुने बड़े बैंक ही पूरे बाजार को चलाते हैं और एक-दूसरे को देखकर अपनी ब्याज दरें तय करते हैं (कथन 1 और 2 सही)। बैंक खोलना बहुत मुश्किल काम है क्योंकि RBI से लाइसेंस लेना पड़ता है और करोड़ों रुपये चाहिए होते हैं। इसलिए इसमें प्रवेश की बाधाएं बहुत बड़ी हैं और यह 'पूर्ण प्रतिस्पर्धा' बिल्कुल नहीं है (अतः कथन 3 गलत है)। सरल भाषा में: भारत में लाखों दुकानें हो सकती हैं (पूर्ण प्रतिस्पर्धा), लेकिन बड़े बैंक सिर्फ 10-15 ही हैं (अल्पाधिकार)। अगर SBI अपना होम लोन सस्ता करता है, तो HDFC भी मजबूर होकर सस्ता कर देता है (कथन 1 और 2 सही)। लेकिन कल आप उठकर अपना खुद का नया बैंक नहीं खोल सकते क्योंकि RBI आपको आसानी से लाइसेंस नहीं देगा (इसलिए कथन 3 गलत है)।",
+      "en": "An Oligopoly is a market dominated by a few giant players. In India, massive banks like SBI and HDFC control most of the money. Because they are so few, if one lowers interest rates, the others quickly copy them so they don't lose customers (Statements 1 and 2 are right). Opening a bank requires extreme regulatory licensing from RBI and massive capital. Therefore, there are huge barriers to entry, making it impossible to be 'Perfect Competition'. Thus, statement 3 is wrong. In simple terms: You can find a million grocery stores (perfect competition), but only a handful of giant banks exist in India (Oligopoly). They constantly watch each other's moves. If SBI drops loan rates, ICICI quickly copies it (Statements 1 & 2 are correct). But you and I can't just wake up and open a new bank tomorrow because the government rules are brutally tough (so Statement 3 is wrong)."
+    }
+  },
+  {
+    "id": 42,
+    "subject": "Economics",
+    "topic": "Factors of Production and Capital Market",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "शेयर बाजार में IPO के माध्यम से जुटाई गई राशि 'वित्तीय पूंजी' है, जिसे फर्म 'वास्तविक पूंजी' (जैसे मशीनरी) में बदलती है।",
+        "en": "The amount raised through an IPO in the stock market is 'financial capital', which the firm converts into 'real capital' (like machinery)."
+      },
+      {
+        "hi": "निवेश (Investment) वह प्रक्रिया है जो वित्तीय पूंजी को वास्तविक पूंजी में परिवर्तित करने का कार्य करती है।",
+        "en": "Investment is the process that functions to convert financial capital into real capital."
+      },
+      {
+        "hi": "वित्तीय अर्थव्यवस्था (Financial Economy) में केवल वास्तविक पूंजी का ही व्यापार होता है, वित्तीय पूंजी का नहीं।",
+        "en": "In the financial economy, only real capital is traded, not financial capital."
+      }
+    ],
+    "question": {
+      "hi": "पूंजी (Capital) के कारक के रूप में 'वित्तीय पूंजी' (Financial Capital) और 'वास्तविक पूंजी' (Real Capital) के बीच संबंध के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the relationship between 'Financial Capital' and 'Real Capital' as a factor of capital:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "वित्तीय पूंजी वह नकद पैसा (कैश या फंड) है जो कंपनी शेयर बाजार (IPO) से जुटाती है। जब कंपनी उस पैसे से फैक्टरी या मशीनें (वास्तविक पूंजी) खरीदती है, तो इस प्रक्रिया को 'निवेश' कहते हैं (कथन 1 और 2 सही)। वित्तीय अर्थव्यवस्था (शेयर बाजार) में केवल कागजी पैसों, शेयरों और बांड्स (वित्तीय पूंजी) का व्यापार होता है, वहां असली ट्रैक्टर या मशीन (वास्तविक पूंजी) नहीं बेचे जाते। अतः कथन 3 उल्टा लिखा है और गलत है। सरल भाषा में: मान लीजिए एक कंपनी ने शेयर बाजार से 100 करोड़ रुपये का 'कैश' इकट्ठा किया। इस कैश को 'वित्तीय पूंजी' कहते हैं। फिर कंपनी ने इस कैश से एक बड़ी रोबोटिक मशीन खरीदी, मशीन को 'वास्तविक पूंजी' कहते हैं। कैश को मशीन में बदलने को ही 'निवेश' कहते हैं (1 और 2 सही)। शेयर बाजार (वित्तीय अर्थव्यवस्था) में लोग सिर्फ कागज के शेयर और पैसे का लेन-देन करते हैं, कोई वहां असली रोबोटिक मशीन या ईंट-गारा (वास्तविक पूंजी) नहीं बेचता (इसलिए 3 गलत है)।",
+      "en": "Financial capital is the raw money/funds raised via shares or loans. When a firm uses this money to buy physical assets like factories and machines (real capital), this exact act is defined as 'Investment' (Statements 1 and 2 are true). The financial economy (Wall Street/Dalal Street) trades exclusively in paper assets like stocks and bonds (financial capital), it absolutely does NOT trade physical factories and bulldozers (real capital). Thus, statement 3 is completely backward. In simple terms: When a company sells shares to the public, it collects raw cash ('Financial Capital'). It then uses that cash to buy a giant truck ('Real Capital'). This magic trick of turning cash into a truck is called 'Investment' (Statements 1 & 2). The stock market is a place where people trade paper shares and cash. Nobody brings a giant physical truck to sell on the stock exchange floor (so Statement 3 is wrong)."
+    }
+  },
+  {
+    "id": 43,
+    "subject": "Economics",
+    "topic": "Monopolistic Competition and Securities Market",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "उस कंपनी के उत्पाद बाज़ार में विशिष्ट (Differentiated) होते हैं, जो उसके शेयरों की ब्रांड वैल्यू और डिमांड को प्रभावित करते हैं।",
+        "en": "The products of that company are differentiated in the market, which influences the brand value and demand for its shares."
+      },
+      {
+        "hi": "ऐसी कंपनियां विज्ञापन और मार्केटिंग पर बहुत अधिक खर्च करती हैं, जिससे उनकी प्रतिभूति (Share) कीमत पर प्रभाव पड़ता है।",
+        "en": "Such companies spend heavily on advertising and marketing, which impacts their security (Share) prices."
+      },
+      {
+        "hi": "ये कंपनियां कीमतों को मनमाने ढंग से तय कर सकती हैं क्योंकि बाजार में कोई स्थानापन्न (Substitute) नहीं होता।",
+        "en": "These companies can set prices arbitrarily because there are no substitutes in the market."
+      }
+    ],
+    "question": {
+      "hi": "एकाधिकार प्रतिस्पर्धा (Monopolistic Competition) वाले बाजार में एक सूचीबद्ध (Listed) कंपनी के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding a listed company in a Monopolistic Competition market:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "एकाधिकार प्रतिस्पर्धा में कंपनियां अपने उत्पाद को दूसरों से अलग (विशिष्ट) दिखाने की कोशिश करती हैं, जिसके लिए वे टीवी और अखबारों में भारी विज्ञापन देती हैं। इससे उनकी ब्रांड वैल्यू बढ़ती है जो अंततः शेयर बाजार में उनके शेयरों की कीमत बढ़ाती है (कथन 1 और 2 सही)। लेकिन वे मनमाने दाम नहीं वसूल सकतीं क्योंकि बाजार में उनके जैसे कई और विकल्प (स्थानापन्न) मौजूद होते हैं (जैसे पेप्सी का विकल्प कोका-कोला)। अतः कथन 3 गलत है। सरल भाषा में: एक रेस्टोरेंट या साबुन की कंपनी (एकाधिकार प्रतिस्पर्धा) अपने प्रोडक्ट को खास दिखाने के लिए शाहरुख खान या विराट कोहली से करोड़ों का विज्ञापन कराती है। इससे कंपनी का नाम (ब्रांड) बड़ा होता है और शेयर बाजार में उसके शेयर महंगे हो जाते हैं (1 और 2 सही)। लेकिन वो साबुन की कीमत 1000 रुपये नहीं रख सकती, क्योंकि अगर उसने ऐसा किया तो लोग बगल वाली दुकान से दूसरा सस्ता साबुन (विकल्प) खरीद लेंगे (इसलिए 3 गलत है)।",
+      "en": "In monopolistic competition, firms rely heavily on product differentiation and aggressive advertising to build a strong brand, which directly boosts investor confidence and their stock prices (Statements 1 and 2 are true). However, because there are dozens of fierce competitors selling very similar close substitutes, they absolutely cannot charge arbitrarily high prices without losing all their customers. Thus, statement 3 is false. In simple terms: A shampoo company spends millions on TV ads to prove their shampoo is 'special'. This builds a great brand, making stock market investors happily buy their shares (1 & 2 are correct). But they can't suddenly price a small shampoo bottle at ₹500. Why? Because the supermarket shelf is full of 20 other cheaper shampoos (substitutes). If they get greedy, customers will just buy another brand (so 3 is wrong)."
+    }
+  },
+  {
+    "id": 44,
+    "subject": "Economics",
+    "topic": "Economic Agents and Central Bank",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "'खुले बाजार की क्रियाओं' (OMO) के माध्यम से केंद्रीय बैंक प्रतिभूति बाजार में लिक्विडिटी को नियंत्रित करता है।",
+        "en": "Through 'Open Market Operations' (OMO), the central bank controls liquidity in the securities market."
+      },
+      {
+        "hi": "जब केंद्रीय बैंक सरकारी प्रतिभूतियां (G-Secs) बेचता है, तो बाजार में तरलता कम हो जाती है।",
+        "en": "When the central bank sells government securities (G-Secs), liquidity in the market decreases."
+      },
+      {
+        "hi": "केंद्रीय बैंक का लक्ष्य प्रतिभूति बाजार के निवेशकों के लिए अधिकतम लाभ (Maximum Profit) सुनिश्चित करना है।",
+        "en": "The goal of the central bank is to ensure maximum profit for investors in the securities market."
+      }
+    ],
+    "question": {
+      "hi": "केंद्रीय बैंक (Central Bank) और प्रतिभूति बाजार के अंतर्संबंधों के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the interrelationship between the Central Bank and the Securities Market:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "केंद्रीय बैंक (RBI) 'खुले बाजार की क्रियाओं' (OMO) के जरिए बाजार में पैसों की मात्रा (तरलता) घटाता या बढ़ाता है। जब RBI सरकारी बांड (G-Secs) बेचता है, तो बैंक वो बांड खरीदते हैं और अपना नकद पैसा RBI को दे देते हैं, जिससे बाजार में पैसा (तरलता) कम हो जाता है (कथन 1 और 2 सही)। RBI का मुख्य काम महंगाई को रोकना और देश को स्थिर रखना है; उसका काम शेयर बाजार के सटोरियों को 'अधिकतम मुनाफा' कमाकर देना नहीं है। अतः कथन 3 गलत है। सरल भाषा में: जब बाजार में बहुत ज्यादा पैसा उड़ने लगता है और महंगाई बढ़ती है, तो RBI एक चाल चलता है (OMO)। वह बैंकों को सरकारी बांड (कागज) बेचता है। बैंक खुशी-खुशी वे बांड खरीदते हैं और अपना सारा नकद पैसा RBI की तिजोरी में डाल देते हैं। इससे बाजार में पैसा कम हो जाता है (तरलता घट जाती है)। RBI यह सब देश की भलाई के लिए करता है, शेयर बाजार के सेठों को अमीर बनाने के लिए नहीं (इसलिए 3 गलत है)।",
+      "en": "The Central Bank uses Open Market Operations (OMO) as a primary tool to manage the money supply. When it SELLS government bonds, it absorbs cash from commercial banks, thereby sucking liquidity out of the market (Statements 1 and 2 are correct). The mandate of any central bank is macroeconomic stability and controlling inflation; it is completely against their mandate to artificially pump the stock market just to make private investors rich. Thus, statement 3 is absurd and incorrect. In simple terms: The RBI uses OMO to control how much cash is floating in the country. If there is too much cash causing inflation, the RBI sells paper bonds to banks. The banks hand over their cash to the RBI, drying up the extra cash in the market. The RBI does this tough job to keep the country's economy safe, not to help stock market gamblers make maximum profits (so 3 is wrong)."
+    }
+  },
+  {
+    "id": 45,
+    "subject": "Economics",
+    "topic": "Economic Activities: Quaternary Sector",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "स्टॉक एक्सचेंज में काम करने वाली कंपनियां (FinTech/Data analytics) चतुर्थक क्षेत्र का हिस्सा हैं।",
+        "en": "Companies working in the stock exchange (FinTech/Data analytics) are part of the Quaternary sector."
+      },
+      {
+        "hi": "चतुर्थक क्षेत्रक में निवेश करने वाली कंपनियों के शेयर, 'ज्ञान अर्थव्यवस्था' (Knowledge Economy) की वृद्धि के संकेतक माने जाते हैं।",
+        "en": "Shares of companies investing in the quaternary sector are considered indicators of the growth of the 'Knowledge Economy'."
+      },
+      {
+        "hi": "इस क्षेत्रक की गतिविधियों का पर्यावरण पर कोई प्रभाव नहीं पड़ता है।",
+        "en": "The activities of this sector have no impact on the environment."
+      }
+    ],
+    "question": {
+      "hi": "चतुर्थक क्षेत्रक (Quaternary Sector) की गतिविधियों के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the activities of the Quaternary Sector:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "चतुर्थक क्षेत्र (Quaternary) पूरी तरह से दिमागी और ज्ञान वाले कामों (रिसर्च, सॉफ्टवेयर, डेटा) से जुड़ा है। फिनटेक और डेटा कंपनियां इसी 'ज्ञान अर्थव्यवस्था' का हिस्सा हैं (कथन 1 और 2 सही)। हालांकि यह क्षेत्र धुआं उगलने वाली फैक्ट्रियां नहीं लगाता, लेकिन इसके विशाल डेटा सेंटर्स और सुपर कंप्यूटर चलाने में बहुत भारी मात्रा में बिजली खर्च होती है, जिससे पर्यावरण पर असर जरूर पड़ता है। अतः कथन 3 गलत है। सरल भाषा में: जो कंपनियां कंप्यूटर पर बैठकर नए-नए ऐप, सॉफ्टवेयर या डेटा का काम करती हैं, वे चौथे (चतुर्थक) क्षेत्र में आती हैं। इन्हें ही 'ज्ञान की अर्थव्यवस्था' कहते हैं क्योंकि यहां सिर्फ दिमाग लगता है (1 और 2 सही)। लेकिन यह सोचना गलत है कि ये पर्यावरण को कोई नुकसान नहीं पहुंचाते। फेसबुक या गूगल जैसी कंपनियों के विशाल कंप्यूटर सर्वर दिन-रात चलते हैं और इतनी बिजली पीते हैं जितनी एक पूरा शहर पीता है। इसलिए पर्यावरण पर उनका असर पड़ता है (कथन 3 गलत है)।",
+      "en": "The Quaternary sector involves high-end intellectual activities like software development, data analytics, and FinTech. These purely form the core of the modern 'Knowledge Economy' (Statements 1 and 2 are true). While it doesn't involve smokestack factories, the massive IT server farms and supercomputers required to run these tech operations consume gigawatts of electricity, leaving a massive carbon footprint. Claiming they have ZERO environmental impact is false. Thus, statement 3 is wrong. In simple terms: The Quaternary sector is all about brain-power, like writing computer code or analyzing big data. This is exactly what the 'Knowledge Economy' is (1 & 2 are right). But don't be fooled into thinking computers are 100% green. The giant air-conditioned buildings housing millions of internet servers use as much electricity as a small country! So they definitely do impact the environment (Statement 3 is wrong)."
+    }
+  },
+  {
+    "id": 46,
+    "subject": "Economics",
+    "topic": "Government as an Economic Agent",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "सरकार का व्यय अर्थव्यवस्था में 'अंतःक्षेपण' (Injection) का कार्य करता है।",
+        "en": "Government expenditure acts as an 'Injection' into the economy."
+      },
+      {
+        "hi": "यह व्यय फर्मों से वस्तुओं और सेवाओं की खरीद के माध्यम से होता है।",
+        "en": "This expenditure happens through the purchase of goods and services from firms."
+      },
+      {
+        "hi": "सरकारी व्यय का बाजार में प्रतिभूतियों की मांग पर कोई असर नहीं पड़ता।",
+        "en": "Government expenditure has no effect on the demand for securities in the market."
+      }
+    ],
+    "question": {
+      "hi": "आय के चक्रीय प्रवाह में सरकार की 'व्यय' (Government Expenditure) भूमिका के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the 'Expenditure' role of the government in the circular flow of income:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "जब सरकार सड़कें या अस्पताल बनाती है, तो वह प्राइवेट कंपनियों (फर्मों) से सीमेंट, स्टील या सेवाएं खरीदती है। यह पैसा वापस बाजार में आ जाता है, जिसे 'अंतःक्षेपण' (Injection) कहते हैं (कथन 1 और 2 सही)। लेकिन इतना ज्यादा खर्च करने के लिए सरकार को बाजार से उधार भी लेना पड़ता है, जिसके लिए वह बांड (प्रतिभूतियां) जारी करती है। इससे बांड बाजार पर बहुत गहरा असर पड़ता है। अतः कथन 3 गलत है। सरल भाषा में: जब सरकार आपसे टैक्स लेती है तो उसे 'लीकेज' (पैसे का बाहर जाना) कहते हैं। लेकिन जब सरकार उसी पैसे से प्राइवेट कंपनियों को ठेका देकर हाईवे बनवाती है, तो वह पैसा वापस बाजार में इंजेक्ट (अंतःक्षेपण) हो जाता है (1 और 2 सही)। अब हाईवे बनाने के लिए अगर सरकार के पास पैसा कम पड़े, तो वह शेयर बाजार/बांड बाजार से उधार मांगती है। सरकार के उधार मांगने से पूरे बाजार में हलचल मच जाती है (इसलिए यह कहना कि कोई असर नहीं पड़ता, बिल्कुल गलत है)।",
+      "en": "Government spending pumps fresh money back into the economic cycle, serving as a powerful 'Injection'. It does this by buying concrete, steel, and services directly from private firms (Statements 1 and 2 are correct). However, to fund massive expenditures, the government often borrows heavily by issuing government bonds (securities). This massive borrowing deeply impacts and alters the demand/supply dynamics of the entire securities market. Thus, statement 3 is wrong. In simple terms: When the government taxes you, it sucks money out. But when it hires private companies to build giant bridges, it injects that cash right back into the economy (Statements 1 & 2 are correct). Where does the government get extra money to build bridges? It borrows it by selling bonds in the financial market. So, government spending heavily affects the bond market, making statement 3 wrong."
+    }
+  },
+  {
+    "id": 47,
+    "subject": "Economics",
+    "topic": "Factor Income and Banking",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "यह पूंजी (Capital) के कारक के रूप में प्राप्त होने वाली 'कारक आय' (Factor Income) है।",
+        "en": "It is a 'Factor Income' received for the factor of 'Capital'."
+      },
+      {
+        "hi": "इसे राष्ट्रीय आय लेखांकन में 'परिचालन अधिशेष' (Operating Surplus) के अंतर्गत गिना जाता है।",
+        "en": "It is counted under 'Operating Surplus' in national income accounting."
+      },
+      {
+        "hi": "यह एक 'हस्तांतरण भुगतान' (Transfer Payment) है।",
+        "en": "It is a 'Transfer Payment'."
+      }
+    ],
+    "question": {
+      "hi": "बैंकिंग क्षेत्र में बैंकों को प्राप्त 'ब्याज' (Interest) क्या है?",
+      "en": "What is the 'Interest' received by banks in the banking sector?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "अर्थशास्त्र में, उत्पादन के चार कारक होते हैं: भूमि, श्रम, पूंजी और उद्यमी। 'पूंजी' (Capital) का उपयोग करने पर जो रिटर्न मिलता है, उसे 'ब्याज' (Interest) कहा जाता है। इसलिए बैंक जो ब्याज कमाते हैं, वह 'कारक आय' है और इसे राष्ट्रीय आय में 'ऑपरेटिंग सरप्लस' (परिचालन अधिशेष) का हिस्सा माना जाता है (कथन 1 और 2 सही)। चूंकि यह एक जायज कमाई है, यह कोई मुफ्त का 'हस्तांतरण भुगतान' (Transfer Payment - जैसे दान या पेंशन) नहीं है। अतः कथन 3 गलत है। सरल भाषा में: बैंक जब किसी को लोन के रूप में अपना पैसा (पूंजी) देता है, तो उसके बदले में बैंक को 'ब्याज' मिलता है। यह ब्याज बैंक की मेहनत की कमाई (कारक आय) है (1 और 2 सही)। यह कोई फ्री की खैरात या गिफ्ट नहीं है। अर्थशास्त्र में फ्री के पैसे को 'हस्तांतरण भुगतान' कहते हैं, इसलिए ब्याज को हस्तांतरण भुगतान कहना बिल्कुल गलत है।",
+      "en": "In economics, Interest is the precise reward earned by the factor of production known as 'Capital'. Therefore, it is a legitimate 'Factor Income' and forms a core part of the 'Operating Surplus' when calculating National Income (Statements 1 and 2 are true). A 'Transfer Payment' is unearned money given without any productive service in return (like welfare or charity). Since banks provide a productive service (capital lending), interest is definitely not a transfer payment. Thus, statement 3 is wrong. In simple terms: When a bank lets you use its money (Capital), you pay a fee called 'Interest'. This is the bank's hard-earned business income (1 & 2 are correct). A 'Transfer payment' is free charity money where you do nothing in return. Since the bank provided you a valuable service, the interest they earn is NOT charity. So, statement 3 is wrong."
+    }
+  },
+  {
+    "id": 48,
+    "subject": "Economics",
+    "topic": "Monopsony in Labour Market",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "कंपनी वेतन (Wages) को प्रतिस्पर्धी स्तर से कम रखने की शक्ति रखती है।",
+        "en": "The company has the power to keep wages below the competitive level."
+      },
+      {
+        "hi": "यह श्रमिकों की सौदेबाजी की शक्ति (Bargaining power) को कम कर देता है।",
+        "en": "This reduces the bargaining power of the workers."
+      },
+      {
+        "hi": "बाजार में श्रमिकों को अपनी पसंद का नियोक्ता चुनने की पूर्ण स्वतंत्रता होती है।",
+        "en": "Workers in the market have complete freedom to choose their preferred employer."
+      }
+    ],
+    "question": {
+      "hi": "यदि श्रम बाजार (Labour Market) में एक ही बड़ी कंपनी (Monopsony) है जो रोजगार देती है, तो इसका क्या प्रभाव होगा?",
+      "en": "If there is only one large company (Monopsony) that provides employment in the labor market, what will be its impact?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "जब पूरे इलाके में काम देने वाली सिर्फ एक ही कंपनी (Monopsony) होती है, तो मजदूरों के पास कोई दूसरा विकल्प नहीं होता। इसका फायदा उठाकर कंपनी मजदूरों को बहुत कम पगार देती है और मजदूर उसके खिलाफ सौदेबाजी (Bargaining) नहीं कर पाते (कथन 1 और 2 सही)। चूंकि कोई दूसरी कंपनी है ही नहीं, इसलिए मजदूरों के पास अपनी पसंद का मालिक (नियोक्ता) चुनने की 'पूर्ण स्वतंत्रता' बिल्कुल नहीं होती, वे उसी एक कंपनी के गुलाम बन जाते हैं। अतः कथन 3 गलत है। सरल भाषा में: मान लीजिए आप कोयले की खदान वाले एक छोटे से गांव में रहते हैं। पूरे गांव में सिर्फ एक ही खदान का मालिक है जो नौकरी देता है। अब वो मालिक बोलेगा कि मैं दिन के सिर्फ 100 रुपये दूंगा। आपको चुपचाप मानना पड़ेगा क्योंकि दूसरी कोई जगह नौकरी है ही नहीं (1 और 2 सही)। आप ये नहीं कह सकते कि 'मैं किसी और के पास काम कर लूंगा', क्योंकि कोई और मालिक है ही नहीं! इसलिए आपके पास नौकरी चुनने की कोई आज़ादी नहीं है (कथन 3 गलत है)।",
+      "en": "A monopsony in a labor market occurs when there is only one single employer. Because workers have nowhere else to go, the sole employer holds immense monopoly-like power to ruthlessly suppress wages and crush any worker bargaining power (Statements 1 and 2 are true). By definition, if there is only one employer, workers have absolutely zero freedom to 'choose' among different employers. Thus, statement 3 is completely false. In simple terms: Imagine living in a remote mining town where the only place to get a job is the one coal mine. The mine boss can offer terrible, extremely low wages, and the workers can't argue or protest (1 & 2 are correct). Why? Because if they quit, there are literally zero other businesses to hire them. So, the idea that workers have 'complete freedom to choose their boss' is completely untrue (Statement 3 is wrong)."
+    }
+  },
+  {
+    "id": 49,
+    "subject": "Economics",
+    "topic": "Primary Sector and Securities Market",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "इनका प्रदर्शन अक्सर मानसून और वैश्विक कमोडिटी कीमतों से प्रभावित होता है।",
+        "en": "Their performance is often affected by the monsoon and global commodity prices."
+      },
+      {
+        "hi": "ये शेयर हमेशा 'चतुर्थक क्षेत्रक' के शेयरों की तुलना में अधिक अस्थिर (Volatile) होते हैं।",
+        "en": "These stocks are always more volatile than the stocks of the 'Quaternary sector'."
+      },
+      {
+        "hi": "इनमें निवेश करने का अर्थ द्वितीयक क्षेत्र में निवेश करना है।",
+        "en": "Investing in them means investing in the secondary sector."
+      }
+    ],
+    "question": {
+      "hi": "प्राथमिक क्षेत्रक (Primary Sector) के स्टॉक (जैसे एग्री-कॉर्पोरेट शेयर) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the stocks of the Primary Sector (like agri-corporate shares):"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "प्राथमिक क्षेत्र (Primary Sector) सीधे प्रकृति से जुड़ा होता है, जैसे खेती या खदानें। इसलिए ऐसी कंपनियों के शेयर बारिश (मानसून) और अंतरराष्ट्रीय कमोडिटी के दामों से बहुत ज्यादा प्रभावित होते हैं (कथन 1 सही)। यह कहना कि ये 'हमेशा' IT कंपनियों (चतुर्थक क्षेत्र) से ज्यादा अस्थिर होते हैं, गलत है; अक्सर IT कंपनियों के शेयर ज्यादा तेजी से ऊपर-नीचे होते हैं। और प्राथमिक क्षेत्र (खेती) में पैसा लगाना द्वितीयक क्षेत्र (विनिर्माण/Manufacturing) में पैसा लगाना नहीं है। अतः कथन 2 और 3 गलत हैं। सरल भाषा में: अगर आप किसी ऐसी कंपनी के शेयर खरीदते हैं जो खेती के बीज या चायपत्ती बनाती है (प्राथमिक क्षेत्र), तो कंपनी का मुनाफा इस बात पर निर्भर करेगा कि इस साल बारिश कैसी हुई (कथन 1 सही)। लेकिन यह सोचना कि खेती वाले शेयर 'हमेशा' कंप्यूटर वाली कंपनियों से ज्यादा रिस्की होते हैं, गलत है। और खेती वाले शेयर 'प्राथमिक' होते हैं, फैक्ट्रियों (द्वितीयक) वाले नहीं। इसलिए 2 और 3 गलत हैं।",
+      "en": "The primary sector involves direct extraction from nature (agriculture, mining). Naturally, agri-stocks are heavily dependent on unpredictable factors like the monsoon and global crop prices (Statement 1 is correct). However, it is a myth that they are 'always' more volatile than tech/software stocks (Quaternary), as tech stocks can be wildly explosive. Also, investing in raw agriculture (Primary) is definitely not the same as investing in manufacturing factories (Secondary). Thus, statements 2 and 3 are wrong. In simple terms: If you buy shares in a tea plantation company (Primary sector), your profits depend heavily on whether it rains properly this year (Statement 1 is right). But it is wrong to say that farming stocks are 'always' crazier and riskier than Silicon Valley computer tech stocks. Also, farming is the 'Primary' sector, not the factory/manufacturing 'Secondary' sector. So, 2 and 3 are totally wrong."
+    }
+  },
+  {
+    "id": 50,
+    "subject": "Economics",
+    "topic": "Objective of a Firm: Profit vs Social Welfare",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "hi": "पारंपरिक अर्थशास्त्र के अनुसार फर्म का मुख्य लक्ष्य 'लाभ को अधिकतम करना' (Profit Maximization) है।",
+        "en": "According to traditional economics, the main goal of a firm is 'Profit Maximization'."
+      },
+      {
+        "hi": "आधुनिक दृष्टिकोण में 'कॉर्पोरेट सामाजिक उत्तरदायित्व' (CSR) भी एक महत्वपूर्ण लक्ष्य है।",
+        "en": "In the modern approach, 'Corporate Social Responsibility' (CSR) is also an important goal."
+      },
+      {
+        "hi": "एक सूचीबद्ध (Listed) कंपनी के लिए लाभ और सामाजिक कल्याण के बीच संतुलन बनाना कोई अनिवार्यता नहीं है।",
+        "en": "There is no compulsion for a listed company to strike a balance between profit and social welfare."
+      }
+    ],
+    "question": {
+      "hi": "आधुनिक फर्म (Corporate Firm) के लक्ष्यों के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए:",
+      "en": "Consider the following statements regarding the goals of a modern corporate firm:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "किताबी अर्थशास्त्र मानता है कि कोई भी कंपनी सिर्फ पैसा कमाने (लाभ अधिकतम करने) के लिए बनी है (कथन 1 सही)। लेकिन आज के आधुनिक युग में कंपनियों को समाज की भलाई (CSR) भी करनी पड़ती है (कथन 2 सही)। भारत में यह कोई मर्जी का काम नहीं है; कानून के अनुसार बड़ी और सूचीबद्ध (Listed) कंपनियों को अपने मुनाफे का 2% सामाजिक कल्याण (जैसे स्कूल या अस्पताल बनाने) पर अनिवार्य रूप से खर्च करना होता है। इसलिए कथन 3 गलत है। सरल भाषा में: पुरानी सोच यह थी कि 'बिजनेस का काम सिर्फ धंधा करना और जेब भरना है' (कथन 1 सही)। लेकिन आजकल दुनिया बदल गई है, कंपनियों को पर्यावरण और गरीबों का भी ध्यान रखना पड़ता है, जिसे CSR कहते हैं (कथन 2 सही)। अब सरकार ने नियम बना दिया है कि अगर रिलायंस या टाटा जैसी बड़ी कंपनियां करोड़ों कमाती हैं, तो उन्हें जबरदस्ती अपने मुनाफे का कुछ हिस्सा अनाथालयों या स्कूलों पर खर्च करना ही पड़ेगा। यह उनकी मर्जी नहीं, बल्कि 'कानूनी मजबूरी' है। इसलिए 3 गलत है।",
+      "en": "Traditional economic theory states that a firm exists solely to maximize shareholder profits (Statement 1 is true). However, modern corporate philosophy firmly integrates Corporate Social Responsibility (CSR) to give back to the community (Statement 2 is true). In countries like India, balancing profit with welfare is NOT optional; the law strictly mandates that large listed companies must spend 2% of their net profits on CSR activities. Therefore, stating there is 'no compulsion' is entirely false (Statement 3 is wrong). In simple terms: Old-school thinking was that a company only cares about getting insanely rich (Statement 1 is correct). But modern thinking says huge companies must also help the society they operate in (CSR) (Statement 2 is correct). The Indian government actually passed a strict law saying big profitable companies MUST donate 2% of their profits to build things like rural schools or hospitals. They don't have a choice; it is legally mandatory! So, Statement 3 is wrong."
+    }
+  }
+]
