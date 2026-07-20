@@ -2616,5 +2616,1276 @@
       "hi": "<b>कथन 1 गलत है:</b> भारत का महत्वाकांक्षी डीप ओशन मिशन (Deep Ocean Mission) पत्तन मंत्रालय द्वारा नहीं, बल्कि भारत सरकार के <b>पृथ्वी विज्ञान मंत्रालय (Ministry of Earth Sciences - MoES)</b> द्वारा नोडल मिशन के रूप में संचालित किया जा रहा है।\n\n<b>कथन 2 और 3 सही हैं:</b> इस मिशन के तहत चलने वाले मानवयुक्त मिशन का नाम <b>समुद्रयान (Samudrayaan)</b> है। इस परियोजना के तहत <b>'मत्स्य-6000' (Matsya-6000)</b> नाम की एक विशेष पनडुब्बी (Deep Submergence Vehicle) बनाई गई है जो समुद्र के नीचे 6,000 मीटर की गहराई तक तीन वैज्ञानिकों को सुरक्षित ले जा सकती है ताकि वहां कीमती धातुओं (जैसे पॉलीमेटेलिक नोड्यूल) की खोज की जा सके।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> जैसे हम अंतरिक्ष में इंसानों को 'गगनयान' से भेज रहे हैं, वैसे ही समुद्र की अथाह गहराई और अंधेरे रहस्यों को जानने के लिए भारत वैज्ञानिकों को पानी के नीचे 'समुद्रयान' से भेज रहा है। इसके लिए एक बहुत ही मज़बूत स्टील-कैप्सूल जैसी पनडुब्बी बनाई गई है जिसका नाम है 'मत्स्य-6000'। इसमें बैठकर तीन लोग समुद्र के सबसे निचले तल तक जा सकते हैं जहाँ सूरज की रोशनी भी नहीं पहुँचती!",
       "en": "<b>Statement 1 is incorrect:</b> India's Deep Ocean Mission is a central sector mission led by the <b>Ministry of Earth Sciences (MoES)</b>, not the Ministry of Ports and Shipping.\n\n<b>Statements 2 and 3 are correct:</b> Under this mission, the flagship crewed deep-ocean exploration initiative is named project <b>Samudrayaan</b>. For this, NIOT developed an indigenous deep-submergence vehicle named <b>Matsya-6000</b>. It is engineered with a special titanium-alloy crew sphere to safely carry 3 personnel down to a depth of 6,000 meters to study hydrothermal vents and deep-sea minerals.\n\n<b>In simple terms (for a 10-year-old):</b> You know how astronauts go to outer space in rockets? Well, India is sending 'aquanauts' to the pitch-black bottom of the deep ocean in project 'Samudrayaan'! Scientists have built a super-strong spherical submarine capsule named 'Matsya-6000'. It can carry 3 brave scientists 6 kilometers straight down into the deep sea, where the water pressure is heavy enough to crush a regular car, to find rare deep-sea treasures!"
     }
+  },
+  {
+    "id": 51,
+    "subject": "Public Administration",
+    "topic": "Ethics and Governance",
+    "difficulty": "Medium",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "श्री X, एक वरिष्ठ अधिकारी हैं, जो किसी महामारी के दौरान एक निर्णायक टीकाकरण कार्यक्रम का निरीक्षण कर रहे थे। उन्होंने पाया कि टीके के वितरण के लिए उत्तरदायी एक निजी सेवा प्रदाता, लाभ अर्जित करने के लिए गुणवत्ता से समझौता कर रहा है। निहित स्वार्थों के कारण, इस मामले को निपटाने हेतु अत्यधिक दबाव होने के बावजूद, अपने जीविका (कैरियर) के विविध प्रशिक्षण कार्यक्रमों में भागीदारी के दौरान सीखे गए लोक प्रशासन के सिद्धांतों के आधार पर उन्होंने अपनी आवाज़ उठाई। उन्होंने इस मामले को समुचित सतर्कता प्राधिकारी को प्रतिवेदित किया और नागरिकों के कल्याण को सुनिश्चित करने के लिए उस संविदा को रोक दिया।\nश्री X की कार्रवाई से लोक प्रशासन के निम्नलिखित सिद्धांतों में से कौन-सा सर्वाधिक प्रभावी रूप से प्रदर्शित होता है ?",
+      "en": "Mr. X, a senior officer, was overseeing a critical vaccination programme during a pandemic. He found that a private service provider responsible for vaccine distribution was compromising on quality to make profits. Despite immense pressure to manage the issue due to vested interests, he raised his voice based on the principles of public administration which he learnt during various training programmes attended across his career. He reported the issue to the appropriate vigilance authority and halted the contract to ensure citizen welfare.\nWhich one among the following principles of public administration was most strongly demonstrated by Mr. X's actions?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "दल भावना (Esprit de corps)",
+        "en": "Esprit de corps"
+      },
+      {
+        "id": "B",
+        "hi": "समता (Equity)",
+        "en": "Equity"
+      },
+      {
+        "id": "C",
+        "hi": "उत्तरदायित्व (Accountability)",
+        "en": "Accountability"
+      },
+      {
+        "id": "D",
+        "hi": "प्रत्यायोजन (Delegation)",
+        "en": "Delegation"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "श्री X ने दबाव के बावजूद जनता के स्वास्थ्य से समझौता नहीं किया और संबंधित अधिकारियों को रिपोर्ट करके अनुबंध रोक दिया। यह लोक प्रशासन में <b>उत्तरदायित्व (Accountability)</b> का सबसे मजबूत उदाहरण है, जिसका अर्थ है कि एक अधिकारी अपने कार्यों और जनता के कल्याण के प्रति पूरी तरह से जवाबदेह है।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> जब आप क्लास मॉनिटर होते हैं और कोई बच्चा क्लास का नियम तोड़ता है, तो आपकी ज़िम्मेदारी होती है कि आप टीचर को सच बताएं, चाहे वह बच्चा आपका दोस्त ही क्यों न हो। इसे ही 'जवाबदेही' (Accountability) कहते हैं। श्री X ने भी बिल्कुल ऐसा ही किया, उन्होंने गलत काम को छिपाने के बजाय उसकी शिकायत की ताकि लोगों की जान बच सके।",
+      "en": "Mr. X halted a compromised contract and reported the irregularities to the vigilance authority despite facing immense pressure. This action best demonstrates the principle of <b>Accountability</b>, which requires public officials to take full responsibility for their actions and ensure that public resources are used ethically for the welfare of the citizens.\n\n<b>In simple terms (for a 10-year-old):</b> Accountability means being brave enough to take responsibility and do the right thing, even when people pressure you to look the other way. Just like a good team captain reporting a broken rule to keep everyone safe, Mr. X reported the bad company to save people's lives during the pandemic."
+    }
+  },
+  {
+    "id": 52,
+    "subject": "Governance",
+    "topic": "Conflict Resolution and Environmental Impact",
+    "difficulty": "Medium",
+    "type": "statement",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "तकनीकी विकल्पों पर चर्चा करने से पहले, विरोध करने वाले जनजाति समुदाय की सांस्कृतिक चिंताओं को स्वीकार करने के साथ ही, एक सफल संघर्ष समाधान प्रक्रिया अवश्य आरंभ की जानी चाहिए।",
+        "en": "A successful conflict resolution process must begin with acknowledging the cultural concerns of the protesting tribal community before discussing technical alternatives."
+      },
+      {
+        "id": 2,
+        "hi": "शहरी स्वास्थ्य चिंताओं के समाधान के लिए, सरकार को अविलंब परियोजना को आगे बढ़ाना चाहिए, जो कि किसी लघु वर्ग की भावनाओं से कहीं अधिक महत्त्वपूर्ण है।",
+        "en": "The Government should move ahead with the project without delay to address urban health concerns, which outweigh the sentiments of a small group."
+      },
+      {
+        "id": 3,
+        "hi": "पारस्परिक समझ विकसित करने और तनावों को कम करने में सहायता के लिए जनजाति नेताओं, पर्यावरण विशेषज्ञों, और नगर पालिका के प्रतिनिधियों को सम्मिलित करते हुए एक बहु-हितधारक संवाद मंच का गठन करना ।",
+        "en": "Creating a multi-stakeholder dialogue platform — including tribal leaders, environmental experts, and municipal representatives — to build mutual understanding and help de-escalate tensions."
+      },
+      {
+        "id": 4,
+        "hi": "साक्ष्य-आधारित निर्णयन को सुकर बनाने के लिए एक स्वतंत्र पर्यावरणीय और सामाजिक प्रभाव मूल्यांकन (ESIA) को संचालित करना और प्राप्त निष्कर्षों को दोनों पक्षों के साथ पारदर्शी रूप से साझा करना।",
+        "en": "Conducting an independent Environmental and Social Impact Assessment (ESIA) and sharing findings transparently with both sides to facilitate evidence-based decision-making."
+      }
+    ],
+    "question": {
+      "hi": "एक बहुजातीय ज़िले में, जहाँ आर्थिक प्रतिस्पर्धा और ऐतिहासिक शिकायतों के परिणामस्वरूप प्रायः सामुदायिक तनाव उत्पन्न होते हैं, वहाँ एक जनजातीय उपग्राम के निकट एक अपशिष्ट प्रबंधन सुविधा केंद्र के लिए भूमि आबंटित करने संबंधी एक सरकारी निर्णय से एक चिंगारी निकली और जनजातीय समुदाय का विरोध भड़क उठा, जिसमें दावा किया गया है कि यह भूमि उनकी सांस्कृतिक पहचान के लिए पवित्र और महत्त्वपूर्ण है। उसी समय, शहरी निवासी और स्थानीय उद्योग समूह एक उपयुक्त निपटान स्थल के न होने के कारण उत्पन्न ठोस अपशिष्ट की गंभीर चुनौतियों और स्वास्थ्य चिंताओं का हवाला देते हुए इस परियोजना का समर्थन करते हैं। यह संघर्ष सड़क अवरोध, सोशल मीडिया अभियानों, और पुलिस के अतिरेक के आरोपों के चलते तीव्र हो गया।\nएक ज़िम्मेदार सरकारी अधिकारी के रूप में, आपको मध्यस्थता के माध्यम से इस स्थिति का समाधान करने एवं पर्यावरणीय आवश्यकताओं, जनजाति के अधिकारों, और शहरी जन-स्वास्थ्य के बीच संतुलन बनाते हुए एक संधारणीय परिणाम सुनिश्चित करने का कार्य सौंपा गया है।\nउपर्युक्त के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए :\nउपर्युक्त कथनों में से कौन-से, इस समाधान प्रक्रिया में योगदान देंगे ?",
+      "en": "In a multi-ethnic district where both economic competition and historical grievances frequently led to community tensions, a flashpoint has arisen with a Government decision to allocate land for a waste management facility near a tribal hamlet, sparking protests by the tribal community, which claimed that the land was sacred and critical to their cultural identity. At the same time, urban residents and local industries supported the project, citing severe solid waste challenges and health concerns due to lack of a proper disposal site. The conflict has escalated with road blockades, social media campaigns, and allegations of police excesses.\nAs a responsible Government official, you are tasked with resolving the situation through mediation, ensuring a sustainable outcome that balances environmental needs, tribal rights, and urban public health.\nConsider the following statements with reference to the above :\nWhich of the statements given above would contribute to the resolution process ?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "एक जिम्मेदार अधिकारी के रूप में मध्यस्थता (Mediation) के लिए सभी पक्षों को सुनना आवश्यक है। <b>कथन 1, 3 और 4</b> समस्या सुलझाने के लोकतांत्रिक, पारदर्शी और वैज्ञानिक तरीके हैं (सांस्कृतिक सम्मान, बातचीत और निष्पक्ष पर्यावरण रिपोर्ट)। \n<b>कथन 2 गलत है</b> क्योंकि 'लघु वर्ग की भावनाओं' को दरकिनार करके जबरन परियोजना थोपने से तनाव और हिंसा और भड़केगी, जिससे कोई स्थायी समाधान नहीं निकलेगा।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> अगर दो दोस्तों में किसी खिलौने को लेकर लड़ाई हो जाए, तो क्या टीचर को बिना किसी की बात सुने ज़बरदस्ती एक को खिलौना दे देना चाहिए? नहीं! टीचर को दोनों की बात सुननी चाहिए (कथन 1 और 3) और यह जांचना चाहिए कि सही क्या है (कथन 4)। अगर टीचर किसी एक की बात को छोटा मानकर इग्नोर कर दे (कथन 2), तो लड़ाई और बड़ी हो जाएगी। इसलिए 1, 3 और 4 सही तरीके हैं।",
+      "en": "As a mediator, effective conflict resolution requires inclusivity, transparency, and evidence-based planning. <b>Statements 1, 3, and 4</b> reflect these democratic values by respecting cultural rights, establishing multi-stakeholder dialogues, and conducting an independent ESIA.\n<b>Statement 2 is incorrect</b> because forcefully bulldozing the project by dismissing tribal sentiments as 'outweighed by a small group' is a coercive approach. It would further alienate the marginalized community, violate their rights, and permanently damage public trust.\n\n<b>In simple terms (for a 10-year-old):</b> Imagine two groups of students arguing over where to build a playground. A good principal wouldn't just ignore one group and force the construction (Statement 2). That would make everyone angrier! Instead, a good principal would listen to both sides respectfully (Statement 1), make them sit and talk together (Statement 3), and find a fair, safe spot for everyone (Statement 4)."
+    }
+  },
+  {
+    "id": 53,
+    "subject": "Governance",
+    "topic": "Public Service Ethics and Decision Making",
+    "difficulty": "Medium",
+    "type": "statement",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "परियोजना समिति और जनता के समक्ष तत्काल सूचना को प्रकट करना चाहिए",
+        "en": "Immediately disclose the information to the project committee and the public"
+      },
+      {
+        "id": 2,
+        "hi": "परियोजना की संपूर्णता (integrity) के संरक्षण के लिए चयनित सूची से संविदाकार को हटाने की अनुशंसा करनी चाहिए",
+        "en": "Recommend removing the contractor from the shortlist to protect the project's integrity"
+      },
+      {
+        "id": 3,
+        "hi": "कुछ समय के लिए जनता से इस सूचना को गोपनीय रखते हुए, किसी निरीक्षण समिति को एक 'सीमित प्रकटीकरण' प्रस्तावित करना चाहिए",
+        "en": "Propose a 'limited disclosure' to an oversight committee, while keeping the information confidential from the public for the time being"
+      }
+    ],
+    "question": {
+      "hi": "सुश्री X, एक मध्यम-स्तरीय सिविल सेवा अधिकारी हैं, जो एक प्रमुख नगर के शहरी विकास विभाग में कार्यरत हैं। हाल ही में, वे एक सार्वजनिक अवसंरचना परियोजना — नए सामुदायिक उद्यान हेतु संविदा की अनुमोदन प्रक्रिया में सम्मिलित थीं । अनुमोदन प्रक्रिया के दौरान, उन्हें एक गोपनीय सूचना प्राप्त होती है, जिसमें इसका उल्लेख है कि चयनित सूची में सम्मिलित एक संविदाकार के अन्य नगरों में घटिया कार्य-शैली और भ्रष्टाचार के आरोपों का पूर्ववृत्त रहा है, यद्यपि विधि द्वारा कुछ भी प्रमाणित नहीं हुआ है। विभागाध्यक्ष श्री Y, उन्हें इस सूचना को परियोजना समिति अथवा जनता के समक्ष प्रकट न करने की सलाह देते हैं, क्योंकि इससे परियोजना में विलंब हो सकता है और नगर की प्रतिष्ठा को हानि हो सकती है। हालाँकि, सुश्री X का मानना है कि ऐसी सूचना को रोकना, पारदर्शिता और जनता के विश्वास से समझौता करना होगा।\nअब, सुश्री X को निम्नलिखित में से क्या करना चाहिए ?\nनीचे दिए गए कूट का प्रयोग कर उत्तर चुनिए :",
+      "en": "Ms. X is a mid-level civil service official working in the urban development department of a major city. Recently, she was involved in approving a contract for a public infrastructure project — a new community park. During the approval process, she received a piece of confidential information indicating that one of the shortlisted contractors had a history of poor workmanship and allegations of corruption in other cities, though nothing had been legally proven. The Head of the Department, Mr. Y, advised her not to disclose this information to the project committee or the public because it could delay the project and damage the city's reputation. However, Ms. X believed that withholding such information compromised transparency and public trust.\nWhat amongst the following should Ms. X do now ?\nSelect the answer using the code given below :"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "इस स्थिति में, <b>आरोप केवल 'अफवाहें' हैं और कानूनी रूप से प्रमाणित नहीं हुए हैं।</b> \n<b>विकल्प 1 गलत है:</b> अप्रमाणित गोपनीय जानकारी को सीधे जनता के सामने लाने से ठेकेदार की मानहानि (Defamation) हो सकती है और बेवजह घबराहट फैल सकती है।\n<b>विकल्प 2 गलत है:</b> बिना किसी ठोस कानूनी सबूत के ठेकेदार को सूची से हटाना अनुचित और प्राकृतिक न्याय (Natural Justice) के खिलाफ होगा।\n<b>विकल्प 3 सही है:</b> 'सीमित प्रकटीकरण' (Limited Disclosure) के तहत इस मामले को एक आंतरिक निगरानी या निरीक्षण समिति (Oversight Committee) के सामने रखना चाहिए ताकि वे आरोपों की गुप्त जांच कर सकें और पारदर्शिता भी बनी रहे।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> मान लो किसी ने कहा कि एक लड़के ने दूसरे स्कूल में चीटिंग की थी, लेकिन इसका कोई पक्का सबूत नहीं है। तो क्या टीचर को सबके सामने उसे चोर कहना चाहिए? नहीं! न ही बिना सबूत के उसे टेस्ट से बाहर निकालना चाहिए। सही तरीका यह है कि टीचर चुपचाप किसी बड़े अधिकारी (निरीक्षण समिति) से उसकी जांच करवाएं। इसलिए केवल तीसरा तरीका सही है।",
+      "en": "In this ethical dilemma, the allegations against the contractor are <b>unproven legally</b>.\n<b>Option 1 is incorrect:</b> Whistleblowing unverified confidential info to the public could lead to defamation lawsuits, panic, and unnecessary damage to the project's reputation.\n<b>Option 2 is incorrect:</b> Removing a contractor purely based on unproven rumors violates the principles of natural justice and due process.\n<b>Option 3 is correct:</b> A 'limited disclosure' to an internal oversight/vigilance committee strikes the perfect balance. It ensures that the red flags are formally investigated without causing a public scandal over unverified claims, thus maintaining both transparency and fairness.\n\n<b>In simple terms (for a 10-year-old):</b> Imagine you hear a rumor that a kid cheated at his old school, but nobody has any proof. It would be wrong to yell it out to the whole class (Option 1), and it would be unfair to kick him out of a game without proof (Option 2). The smartest and fairest thing to do is to quietly tell the principal so they can investigate it secretly. That's exactly what Option 3 means!"
+    }
+  },
+  {
+    "id": 54,
+    "subject": "Polity",
+    "topic": "Fundamental Rights - Article 13",
+    "difficulty": "Medium",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "'X', भारत के संविधान के भाग III के अनुच्छेद 13 में यथा उपबंधित, 'विधि' शब्द के अर्थ पर एक संगोष्ठी को संबोधित कर रहा था। 'X' ने स्पष्ट किया कि भारत के संविधान में 'विधि' शब्द का अर्थ अत्यधिक व्यापक है। इसमें अध्यादेश, आदेश तथा नियम और विनियम भी सम्मिलित हैं। 'Y' ने ध्यान दिलाया कि अनुच्छेद 13 में 'विधि' शब्द के अंतर्गत भारत के राज्यक्षेत्र में विधि का बल रखने वाली रूढ़ि या प्रथा (custom or usage) भी सम्मिलित है, जिससे 'X' सहमत नहीं था।\nउपर्युक्त के आधार पर, नीचे दिए गए विकल्पों में से सही निष्कर्ष को चुनिए :",
+      "en": "'X' was addressing a seminar on the meaning of the term 'law' as provided under Article 13, Part III of the Constitution of India. 'X' explained that the meaning of the term 'law' in the Constitution of India was very comprehensive. It included ordinances, orders and even rules and regulations. 'Y' pointed out that the term 'law' in Article 13 also included custom or usage having in the territory of India the force of law, to which 'X' was not convinced.\nBased on the above, select the correct conclusion from the options given below :"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "विधि की व्याख्या में, 'X' सही है, जिसमें रूढ़ि को सम्मिलित न किए जाने के बारे में उसके विचार भी सम्मिलित हैं।",
+        "en": "'X' is correct in the interpretation of law, including the view on non-inclusion of custom."
+      },
+      {
+        "id": "B",
+        "hi": "'Y' का यह विचार कि 'विधि' में रूढ़ि सम्मिलित है, सही नहीं है।",
+        "en": "The view of 'Y' that 'law' included custom is not correct."
+      },
+      {
+        "id": "C",
+        "hi": "'X' और 'Y' दोनों के विचार सही हैं।",
+        "en": "The views of both 'X' and 'Y' are correct."
+      },
+      {
+        "id": "D",
+        "hi": "केवल 'Y' का विचार सही है।",
+        "en": "The view of only 'Y' is correct."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "भारत के संविधान के <b>अनुच्छेद 13(3)(a)</b> के अनुसार, 'विधि' (Law) के अंतर्गत कोई भी अध्यादेश, आदेश, उपविधि, नियम, विनियम, अधिसूचना, और <b>\"भारत के राज्यक्षेत्र में विधि का बल रखने वाली कोई रूढ़ि या प्रथा\" (Custom or Usage)</b> शामिल है। चूँकि 'Y' का यह कथन बिल्कुल सही है कि 'विधि' में रूढ़ि (Custom) भी आती है, और 'X' इससे सहमत नहीं था (अर्थात X गलत था), इसलिए केवल 'Y' का विचार सही है।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> हमारे संविधान में 'कानून' का मतलब सिर्फ वो नियम नहीं हैं जो सरकार कागज़ पर लिखती है। पुराने ज़माने से चली आ रही कुछ परंपराएँ (प्रथाएँ) भी 'कानून' मानी जाती हैं अगर सब उन्हें मानते हों। 'Y' ने बिल्कुल यही बात कही, जबकि 'X' इस बात को नहीं मान रहा था। इसलिए यहाँ सिर्फ 'Y' ही सही है!",
+      "en": "According to <b>Article 13(3)(a)</b> of the Indian Constitution, the term 'law' includes any Ordinance, order, bye-law, rule, regulation, notification, and <b>\"custom or usage having in the territory of India the force of law.\"</b> Since 'Y' correctly pointed out that customs/usages are included in the definition of law, and 'X' disagreed with this fact (making X's stance incorrect), only the view of 'Y' is correct.\n\n<b>In simple terms (for a 10-year-old):</b> In our rulebook (the Constitution), a 'law' isn't just something the government prints on paper. Old traditions and customs that people have followed for a long time are also considered 'laws'. Person 'Y' correctly said that customs are laws, but Person 'X' didn't believe it. So, only Person 'Y' is right!"
+    }
+  },
+  {
+    "id": 55,
+    "subject": "Polity",
+    "topic": "Constitution - Short Title, Commencement and Repeals",
+    "difficulty": "Hard",
+    "type": "statement",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत के संविधान में ऐसा कोई भी अनुच्छेद नहीं है, जो यह विनिर्दिष्ट करता हो कि भारत के संविधान को आधिकारिक रूप से 'भारत का संविधान' कहा जाएगा।",
+        "en": "There is no Article in the Constitution of India that specifies that the Constitution of India will be officially called the 'Constitution of India'."
+      },
+      {
+        "id": 2,
+        "hi": "भारत के संविधान में ऐसा कोई भी अनुच्छेद नहीं है, जो यह विनिर्दिष्ट करता हो कि भारतीय स्वतंत्रता अधिनियम, 1947 (इंडियन इंडिपेंडेन्स एक्ट, 1947) और भारत सरकार अधिनियम, 1935, (गवर्नमेंट ऑफ़ इंडिया एक्ट, 1935) को निरसित किया गया।",
+        "en": "There is no Article in the Constitution of India that specifies that the Indian Independence Act, 1947 and the Government of India Act, 1935 stand repealed."
+      },
+      {
+        "id": 3,
+        "hi": "भारत के संविधान में ऐसा कोई भी अनुच्छेद नहीं है, जिसमें भारत के संविधान के प्रारंभ होने की तारीख के रूप में 26 जनवरी, 1950 का उल्लेख है।",
+        "en": "There is no Article in the Constitution of India that mentions 26th January, 1950 as the date of the commencement of the Constitution of India."
+      }
+    ],
+    "question": {
+      "hi": "भारत के संविधान के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिए :\nउपर्युक्त कथनों पर आधारित निम्नलिखित में से कौन-सा निष्कर्ष सही है ?",
+      "en": "Consider the following statements with reference to the Constitution of India :\nWhich one of the following conclusions based on the above statements is correct ?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सभी तीन कथन सही हैं।",
+        "en": "All three statements are correct."
+      },
+      {
+        "id": "B",
+        "hi": "कोई भी कथन सही नहीं है।",
+        "en": "There is no correct statement."
+      },
+      {
+        "id": "C",
+        "hi": "दो कथन सही हैं, जिनमें कथन 3 सम्मिलित है।",
+        "en": "There are two correct statements that include statement 3."
+      },
+      {
+        "id": "D",
+        "hi": "केवल एक कथन सही है।",
+        "en": "There is only one correct statement."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "प्रश्न के तीनों कथन कह रहे हैं कि संविधान में ऐसा \"कोई अनुच्छेद नहीं है\" (There is no Article...), जो कि बिल्कुल <b>गलत</b> है।\n1. <b>अनुच्छेद 393 (Short Title):</b> यह स्पष्ट करता है कि \"इस संविधान का संक्षिप्त नाम 'भारत का संविधान' है।\"\n2. <b>अनुच्छेद 395 (Repeals):</b> यह स्पष्ट करता है कि भारतीय स्वतंत्रता अधिनियम, 1947 और भारत सरकार अधिनियम, 1935 को निरसित (रद्द) किया जाता है।\n3. <b>अनुच्छेद 394 (Commencement):</b> इसमें स्पष्ट रूप से लिखा है कि संविधान के शेष प्रावधान '26 जनवरी, 1950' को लागू होंगे और इसी दिन को संविधान का प्रारंभ (Commencement) कहा जाएगा।\nचूँकि ये सभी बातें संविधान के अनुच्छेदों में लिखी गई हैं, अतः सभी तीनों कथन गलत हैं। इसलिए <b>'कोई भी कथन सही नहीं है'</b>।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> प्रश्न में तीन बातें कही गई हैं कि \"संविधान की किताब में ऐसा कहीं नहीं लिखा है...\"। लेकिन असल में, संविधान के सबसे आखिरी पन्नों (Articles 393, 394, 395) पर ये तीनों बातें साफ-साफ लिखी हुई हैं! इसका मतलब प्रश्न में दिए गए तीनों कथन झूठ बोल रहे हैं। इसलिए सही जवाब है: 'कोई भी कथन सही नहीं है' (सब गलत हैं)।",
+      "en": "All three statements claim that \"There is no Article...\" specifying certain facts. This is factually <b>incorrect</b>.\n1. <b>Article 393 (Short Title):</b> Explicitly states, \"This Constitution may be called the Constitution of India.\"\n2. <b>Article 395 (Repeals):</b> Explicitly states that the Indian Independence Act, 1947, and the Government of India Act, 1935, are hereby repealed.\n3. <b>Article 394 (Commencement):</b> Explicitly mentions that the remaining provisions shall come into force on \"the twenty-sixth day of January, 1950\", which is referred to as the commencement of this Constitution.\nBecause specific Articles absolutely DO exist for all three points, all three statements are false. Therefore, <b>There is no correct statement.</b>\n\n<b>In simple terms (for a 10-year-old):</b> The statements claim that the Constitution rulebook forgot to mention its own name, the date it started (Jan 26, 1950), and that the old British rules were canceled. But if you look at the very last pages of the rulebook, ALL of these things are clearly written there! So, all three statements are completely wrong."
+    }
+  },
+  {
+    "id": 56,
+    "subject": "Governance",
+    "topic": "Social Justice - Persons with Disabilities",
+    "difficulty": "Medium",
+    "type": "statement",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत की संसद द्वारा वर्ष 2018 में पारित दिव्यांगजन अधिकार अधिनियम, शिक्षा और नियोजन में आरक्षण अनिवार्य करता है, पहुँच और विभेद न करने को सुनिश्चित करने के सरकारों के विधिक कर्तव्य को स्थापित करता है।",
+        "en": "The Rights of Persons with Disabilities Act, an Act passed by the Parliament of India in 2018, mandates reservation in education and employment, places a legal duty on Governments to ensure accessibility and non-discrimination."
+      },
+      {
+        "id": 2,
+        "hi": "सुगम्य भारत अभियान तीन प्रमुख क्षेत्रों यथा, निर्मित बुनियादी ढाँचा, परिवहन प्रणाली और सूचना एवं संचार प्रौद्योगिकी में दिव्यांगजनों की सार्वभौमिक पहुँच प्राप्त करने पर केंद्रित है।",
+        "en": "The Sugamya Bharat Abhiyan focuses on achieving universal accessibility for Persons with Disabilities across three key domains — built infrastructure, transport systems and information and communication technology."
+      },
+      {
+        "id": 3,
+        "hi": "राष्ट्रीय दिव्यांगजन वित्त और विकास निगम (NDFDC) कारपोरेट कार्य मंत्रालय द्वारा स्थापित एक सार्वजनिक क्षेत्र संगठन है, जो दिव्यांगजनों (PwDs) में उद्यमिता के संवर्धन के लिए एक अलाभकारी कंपनी है।",
+        "en": "The National Divyangjan Finance and Development Corporation (NDFDC) is a public sector organisation set up by the Ministry of Corporate Affairs as a not-for-profit company to promote entrepreneurship among Persons with Disabilities (PwDs)."
+      }
+    ],
+    "question": {
+      "hi": "भारत में दिव्यांगजनों के संबंध में निम्नलिखित में से कौन-सा/कौन-से कथन सही है/हैं ?\nनीचे दिए गए कूट का प्रयोग कर उत्तर चुनिए :",
+      "en": "Which of the following statements with regard to the persons with disabilities in India is/are correct ?\nSelect the answer using the code given below :"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 3",
+        "en": "1 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1",
+        "en": "1 only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "<b>कथन 1 गलत है:</b> दिव्यांगजन अधिकार अधिनियम (Rights of Persons with Disabilities Act) संसद द्वारा वर्ष <b>2016</b> में पारित किया गया था, न कि 2018 में।\n\n<b>कथन 2 सही है:</b> 'सुगम्य भारत अभियान' (Accessible India Campaign) का लक्ष्य इमारतों, परिवहन (बसों/ट्रेनों) और कंप्यूटर/वेबसाइट (ICT) को दिव्यांगों के लिए आसान (Accessible) बनाना है।\n\n<b>कथन 3 गलत है:</b> राष्ट्रीय दिव्यांगजन वित्त और विकास निगम (NDFDC) 'सामाजिक न्याय और अधिकारिता मंत्रालय' (Ministry of Social Justice and Empowerment) के अधीन काम करता है, <b>कारपोरेट कार्य मंत्रालय</b> के अधीन नहीं।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> भारत में जो लोग शारीरिक रूप से कमज़ोर हैं (दिव्यांग), उनकी मदद के लिए सरकार ने 'सुगम्य भारत' नाम की एक योजना चलाई है। इस योजना का काम है कि बस स्टैंड, रेलवे स्टेशन, बिल्डिंग्स और वेबसाइट्स को ऐसा बनाया जाए कि वे लोग बिना किसी परेशानी के उनका इस्तेमाल कर सकें (यह बात बिल्कुल सही है)। लेकिन कानून 2016 में बना था (2018 में नहीं) और लोन देने वाली संस्था 'सामाजिक न्याय' विभाग के अंदर आती है।",
+      "en": "<b>Statement 1 is incorrect:</b> The Rights of Persons with Disabilities (RPwD) Act was passed by the Parliament in the year <b>2016</b>, not 2018.\n\n<b>Statement 2 is correct:</b> The Sugamya Bharat Abhiyan (Accessible India Campaign) rests precisely on three pillars of universal accessibility: the Built Environment (buildings), Transportation Systems, and Information & Communication Technology (ICT) ecosystems.\n\n<b>Statement 3 is incorrect:</b> The National Divyangjan Finance and Development Corporation (NDFDC) operates under the aegis of the <b>Ministry of Social Justice and Empowerment</b>, NOT the Ministry of Corporate Affairs.\n\n<b>In simple terms (for a 10-year-old):</b> To help people with physical challenges, the government started the 'Accessible India' campaign. Its main job is to add ramps to buildings, make buses easier to board, and create friendly websites so that nobody feels left out. This fact is true! But the other facts mention the wrong year for a law and the wrong government department."
+    }
+  },
+  {
+    "id": 57,
+    "subject": "Polity",
+    "topic": "Provisions for SC and STs",
+    "difficulty": "Medium",
+    "type": "statement",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत के संविधान की पाँचवीं अनुसूची में असम, मेघालय, त्रिपुरा और मिज़ोरम राज्यों में जनजाति क्षेत्रों के प्रशासन के संबंध में उपबंध हैं ।",
+        "en": "Provisions regarding the administration of the Tribal Areas in the States of Assam, Meghalaya, Tripura and Mizoram are given in the Fifth Schedule of the Constitution of India."
+      },
+      {
+        "id": 2,
+        "hi": "भारत की कुछ जनजातियाँ कतिपय आय पर आयकर के भुगतान से छूट का दावा करने की हकदार हैं ।",
+        "en": "Some tribes of India are entitled to exemption from paying Income Tax on certain incomes."
+      },
+      {
+        "id": 3,
+        "hi": "भारत के संविधान में अनुसूचित जातियों और अनुसूचित जनजातियों की स्त्रियों के लिए पंचायतों में स्थानों (सीटों) के आरक्षण का उपबंध है ।",
+        "en": "The Constitution of India provides for reservation of seats in Panchayats for women belonging to the Scheduled Castes and the Scheduled Tribes."
+      }
+    ],
+    "question": {
+      "hi": "भारत में अनुसूचित जातियों और अनुसूचित जनजातियों से संबंधित उपबंधों के बारे में निम्नलिखित कथनों पर विचार कीजिए :\nउपर्युक्त कथनों पर आधारित निम्नलिखित निष्कर्षों में से कौन-सा सही है ?",
+      "en": "Consider the following statements about the provisions pertaining to the Scheduled Castes and the Scheduled Tribes in India:\nWhich one of the following conclusions based on the above statements is correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "दो कथन सही हैं, जिनमें कथन 2 सम्मिलित है ।",
+        "en": "There are two correct statements, that include statement 2."
+      },
+      {
+        "id": "B",
+        "hi": "दो कथन सही हैं, जो कि कथन 1 और कथन 3 हैं ।",
+        "en": "There are two correct statements, that are statements 1 and 3."
+      },
+      {
+        "id": "C",
+        "hi": "केवल एक कथन सही है ।",
+        "en": "There is only one correct statement."
+      },
+      {
+        "id": "D",
+        "hi": "सभी तीन कथन सही हैं ।",
+        "en": "All three statements are correct."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "<b>कथन 1 गलत है:</b> असम, मेघालय, त्रिपुरा और मिज़ोरम राज्यों (AMTM) के जनजातीय क्षेत्रों का प्रशासन संविधान की <b>छठी अनुसूची (Sixth Schedule)</b> के तहत आता है, पाँचवीं अनुसूची में नहीं।\n\n<b>कथन 2 सही है:</b> आयकर अधिनियम (Income Tax Act) की धारा 10(26) के तहत, उत्तर-पूर्व भारत (छठी अनुसूची वाले क्षेत्रों) और लद्दाख आदि में रहने वाले अनुसूचित जनजातियों (ST) के सदस्यों को उनके क्षेत्र से होने वाली आय पर आयकर (Income Tax) में छूट प्राप्त है।\n\n<b>कथन 3 सही है:</b> संविधान का <b>अनुच्छेद 243D</b> साफ तौर पर कहता है कि पंचायतों में अनुसूचित जातियों (SC) और अनुसूचित जनजातियों (ST) के लिए आरक्षित कुल सीटों में से कम से कम एक-तिहाई सीटें उन्हीं वर्गों की महिलाओं (Women) के लिए आरक्षित होंगी।\n\nअतः, <b>कथन 2 और 3 सही हैं</b>, जिसका मतलब है कि \"दो कथन सही हैं, जिनमें कथन 2 सम्मिलित है\" (विकल्प a)।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> भारत के कुछ खास आदिवासी इलाकों (जैसे नॉर्थ-ईस्ट) के लोगों को अपनी कमाई पर सरकार को टैक्स नहीं देना पड़ता। इसके अलावा, गाँवों की पंचायत के चुनावों में आदिवासी और दलित महिलाओं के लिए कुछ सीटें पक्की तौर पर रिज़र्व (सुरक्षित) होती हैं। ये दोनों बातें सही हैं। लेकिन पहला पॉइंट गलत है क्योंकि असम-मेघालय का नाम 'छठीं' लिस्ट में आता है, 'पाँचवीं' में नहीं।",
+      "en": "<b>Statement 1 is incorrect:</b> The administration of Tribal Areas in the states of Assam, Meghalaya, Tripura, and Mizoram (AMTM) is governed by the <b>Sixth Schedule</b> of the Constitution, not the Fifth Schedule.\n\n<b>Statement 2 is correct:</b> Under Section 10(26) of the Income Tax Act, members of Scheduled Tribes residing in specific areas (like the Sixth Schedule areas of Northeast India, Ladakh, etc.) are granted a special exemption from paying income tax on income generated within those areas.\n\n<b>Statement 3 is correct:</b> Article 243D of the Constitution explicitly mandates that not less than one-third of the total seats reserved for SCs and STs in Panchayats shall be reserved for women belonging to the Scheduled Castes and Scheduled Tribes.\n\nTherefore, <b>Statements 2 and 3 are correct</b>. The conclusion is: \"There are two correct statements, that include statement 2.\"\n\n<b>In simple terms (for a 10-year-old):</b> The government has made special rules to protect tribal communities. For example, people from certain tribal areas don't have to pay income tax on the money they earn there. Also, in village elections, some seats are strictly reserved only for women from tribal and lower-caste communities so they get a chance to be leaders. Both of these are true! But the first point is wrong because Assam and Meghalaya are put in the 'Sixth' chapter of the rulebook, not the Fifth."
+    }
+  },
+  {
+    "id": 58,
+    "subject": "Polity",
+    "topic": "Parliamentary Proceedings - Question Hour",
+    "difficulty": "Medium",
+    "type": "statement",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अतारांकित प्रश्न ऐसे प्रश्न हैं, जिन पर कोई सदस्य सदन में मौखिक उत्तर चाहता है ।",
+        "en": "Unstarred questions are those to which a Member desires an oral answer in the House."
+      },
+      {
+        "id": 2,
+        "hi": "तारांकित प्रश्न ऐसे प्रश्न हैं, जिन पर कोई सदस्य लिखित उत्तर चाहता है ।",
+        "en": "Starred questions are those to which a Member desires a written answer."
+      },
+      {
+        "id": 3,
+        "hi": "किसी अतारांकित प्रश्न पर कोई अनुपूरक प्रश्न नहीं पूछा जा सकता है ।",
+        "en": "No supplementary question can be asked on an unstarred question."
+      }
+    ],
+    "question": {
+      "hi": "भारत की संसद में सदस्यों द्वारा पूछे जाने वाले प्रश्नों के संबंध में निम्नलिखित कथनों पर विचार कीजिए :\nउपर्युक्त कथनों पर आधारित निम्नलिखित निष्कर्षों में से कौन-सा सही है ?",
+      "en": "Consider the following statements in respect of questions asked by the Members in the Parliament of India:\nWhich one of the following conclusions based on the above statements is correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सभी तीन कथन सही हैं ।",
+        "en": "All the three statements are correct."
+      },
+      {
+        "id": "B",
+        "hi": "दो कथन सही हैं, जिनमें कथन 2 सम्मिलित है ।",
+        "en": "There are two correct statements, that include statement 2."
+      },
+      {
+        "id": "C",
+        "hi": "केवल एक कथन सही है ।",
+        "en": "There is only one correct statement."
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी कथन सही नहीं है ।",
+        "en": "There is no correct statement."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "<b>कथन 1 गलत है:</b> <b>अतारांकित (Unstarred)</b> प्रश्नों का उत्तर मंत्री द्वारा कागज़ पर <b>लिखित (Written)</b> रूप में दिया जाता है, मौखिक (बोलकर) नहीं।\n\n<b>कथन 2 गलत है:</b> <b>तारांकित (Starred)</b> प्रश्नों का उत्तर सदन में <b>मौखिक (Oral)</b> रूप से दिया जाता है। (कथन 1 और 2 की परिभाषाओं को आपस में बदल दिया गया है)।\n\n<b>कथन 3 सही है:</b> चूंकि अतारांकित प्रश्नों का उत्तर लिखित रूप में दिया जाता है, इसलिए उन पर तत्काल कोई <b>अनुपूरक (Supplementary / Cross) प्रश्न</b> नहीं पूछा जा सकता। केवल मौखिक (तारांकित) प्रश्नों के बाद ही क्रॉस-क्वेश्चन किए जा सकते हैं।\nअतः केवल कथन 3 सही है।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> संसद में सांसद मंत्रियों से दो तरह के सवाल पूछते हैं: 'स्टार वाले' और 'बिना स्टार वाले'। स्टार वाले सवालों का जवाब मंत्री को माइक पर बोलकर देना होता है, और इसके बाद उनसे क्रॉस-क्वेश्चन (अनुपूरक) भी पूछे जा सकते हैं। बिना स्टार वाले सवालों का जवाब मंत्री एक कागज़ पर लिखकर दे देते हैं, इसलिए उन पर तुरंत क्रॉस-क्वेश्चन नहीं किया जा सकता। यहाँ सिर्फ तीसरी बात सच लिखी है!",
+      "en": "<b>Statement 1 is incorrect:</b> <b>Unstarred questions</b> are those for which a <b>written answer</b> is desired by the member, not an oral one.\n\n<b>Statement 2 is incorrect:</b> <b>Starred questions</b> (distinguished by an asterisk) require an <b>oral answer</b> on the floor of the House. (The definitions in statements 1 and 2 have been swapped).\n\n<b>Statement 3 is correct:</b> Because the answer to an unstarred question is provided in writing and laid on the table, it cannot be immediately followed by <b>supplementary (cross) questions</b>. Supplementary questions can only follow Starred (oral) questions.\nThus, only Statement 3 is correct.\n\n<b>In simple terms (for a 10-year-old):</b> In the Parliament, when leaders ask 'Starred' questions, the minister has to stand up and answer out loud, which allows the leader to ask follow-up questions right away. But for 'Unstarred' questions, the minister just hands over a written paper with the answer, so no one can ask a quick follow-up question. Out of the three sentences, only the third one tells the truth!"
+    }
+  },
+  {
+    "id": 59,
+    "subject": "Polity",
+    "topic": "Parliamentary Committees",
+    "difficulty": "Hard",
+    "type": "statement",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यद्यपि इस समिति के सदस्यों को संसद के दोनों सदनों से निर्वाचित किया जाता है, तथापि राज्य सभा के सभापति द्वारा इस समिति के अध्यक्ष की नियुक्ति की जाती है ।",
+        "en": "Although members of this Committee are elected from both Houses of Parliament, the Chairperson of this Committee is appointed by the Chairman of the Rajya Sabha."
+      },
+      {
+        "id": 2,
+        "hi": "राज्य सभा द्वारा बीस सदस्यों और लोक सभा द्वारा दस सदस्यों को निर्वाचित किया जाता है ।",
+        "en": "Twenty members are elected by the Rajya Sabha and ten members by the Lok Sabha."
+      },
+      {
+        "id": 3,
+        "hi": "केंद्रीय सामाजिक न्याय और अधिकारिता मंत्री के अतिरिक्त, कोई अन्य मंत्री इस समिति का सदस्य होने का पात्र नहीं है ।",
+        "en": "No Minister, except for the Union Minister of Social Justice and Empowerment, is eligible to be a member of this Committee."
+      },
+      {
+        "id": 4,
+        "hi": "सदस्यों को उनके पद ग्रहण करने की तारीख से 2 वर्ष की नियत पदावधि के लिए निर्वाचित किया जाता है ।",
+        "en": "Members are elected for a fixed term of two years from the date they enter their office."
+      }
+    ],
+    "question": {
+      "hi": "भारत की संसद की अनुसूचित जातियों और अनुसूचित जनजातियों के कल्याण संबंधी समिति के बारे में निम्नलिखित कथनों पर विचार कीजिए :\nउपर्युक्त कथनों पर आधारित निम्नलिखित निष्कर्षों में से कौन-सा सही है ?",
+      "en": "Consider the following statements about the Committee on the Welfare of Scheduled Castes and Scheduled Tribes of the Parliament of India:\nWhich one of the following conclusions based on the above statements is correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "चारों कथन सही हैं ।",
+        "en": "There are four correct statements."
+      },
+      {
+        "id": "B",
+        "hi": "केवल एक कथन सही है, जो कि कथन 2 है ।",
+        "en": "There is only one correct statement, that is statement 2."
+      },
+      {
+        "id": "C",
+        "hi": "दो कथन सही हैं, जिनमें कथन 1 सम्मिलित है ।",
+        "en": "There are two correct statements, that include statement 1."
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी कथन सही नहीं है ।",
+        "en": "There is no correct statement."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "<b>कथन 1 गलत है:</b> इस समिति के अध्यक्ष (Chairperson) की नियुक्ति <b>लोकसभा के अध्यक्ष (Speaker of Lok Sabha)</b> द्वारा की जाती है, राज्यसभा के सभापति द्वारा नहीं।\n<b>कथन 2 गलत है:</b> इस समिति में कुल 30 सदस्य होते हैं, जिनमें <b>20 लोकसभा से और 10 राज्यसभा से</b> होते हैं (कथन में इसे उल्टा कर दिया गया है)।\n<b>कथन 3 गलत है:</b> संसदीय समितियों के नियमों के अनुसार <b>कोई भी मंत्री (Minister)</b> इस समिति का सदस्य नहीं बन सकता। सामाजिक न्याय मंत्री के लिए भी कोई अपवाद नहीं है।\n<b>कथन 4 गलत है:</b> इस समिति के सदस्यों का कार्यकाल <b>1 वर्ष (One year)</b> का होता है, 2 वर्ष का नहीं।\nचूंकि सभी कथन गलत हैं, सही उत्तर है: 'कोई भी कथन सही नहीं है'।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> संसद में एक खास टीम (कमेटी) होती है जो अनुसूचित जाति/जनजाति के भले के लिए काम देखती है। इस टीम में कुल 30 लोग होते हैं (ज़्यादातर लोकसभा से)। इस टीम का लीडर लोकसभा का 'स्पीकर' चुनता है। इसमें कोई भी 'मंत्री' शामिल नहीं हो सकता और यह टीम सिर्फ 1 साल के लिए बनती है। ऊपर लिखी गई चारों बातें बिल्कुल उल्टी और गलत हैं!",
+      "en": "<b>Statement 1 is incorrect:</b> The Chairperson of this Joint Parliamentary Committee is appointed by the <b>Speaker of the Lok Sabha</b>, not the Chairman of the Rajya Sabha.\n<b>Statement 2 is incorrect:</b> The Committee consists of 30 members: <b>20 elected from the Lok Sabha and 10 from the Rajya Sabha</b>. The statement flips these numbers.\n<b>Statement 3 is incorrect:</b> A strict rule for this (and most financial/standing committees) is that <b>a Minister is NOT eligible</b> to be elected as a member. There are no exceptions for any specific minister.\n<b>Statement 4 is incorrect:</b> The term of office for the members of this Committee is strictly <b>one year</b>, not two years.\nSince every single statement contains a factual error, the correct conclusion is 'There is no correct statement.'\n\n<b>In simple terms (for a 10-year-old):</b> There is a special team in Parliament to look after the welfare of SCs and STs. This team has 30 members (most are from the Lok Sabha), their boss is picked by the Lok Sabha Speaker, no 'Ministers' are allowed to join, and the team only lasts for 1 year before a new one is picked. All four sentences in the question got these facts completely wrong!"
+    }
+  },
+  {
+    "id": 60,
+    "subject": "Defense and Security",
+    "topic": "Indian Defense Systems and Projects",
+    "difficulty": "Medium",
+    "type": "statement",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इसका उद्देश्य भारत की वायु रक्षा, बैलिस्टिक मिसाइल सुरक्षा और हवाई आक्रमण क्षमताओं में वृद्धि करना है।",
+        "en": "It aims to enhance India's air defence, ballistic missile defence and aerial offensive capabilities."
+      },
+      {
+        "id": 2,
+        "hi": "इस मिशन को त्वरित, सटीक, और शक्तिशाली रक्षा (defence) प्रतिक्रिया में वृद्धि करने के लिए डिज़ाइन किया जा रहा है, जो भारत की रणनीतिक स्वायत्तता को सशक्त बनाएगी।",
+        "en": "This Mission is being designed to enhance rapid, precise, and powerful defence responses, reinforcing India's strategic autonomy."
+      },
+      {
+        "id": 3,
+        "hi": "इस मिशन के उद्देश्यों में से एक है - वर्ष 2035 तक, भारत के सभी सार्वजनिक स्थानों को एक विस्तारित राष्ट्रव्यापी सुरक्षा कवच के द्वारा सुरक्षा प्रदान करना है।",
+        "en": "One of the aims of this Mission is to cover all public places of India by an expanded nationwide security shield by 2035."
+      }
+    ],
+    "question": {
+      "hi": "भारत के मिशन सुदर्शन चक्र के बारे में निम्नलिखित कथनों पर विचार कीजिए :\nउपर्युक्त कथनों में से कौन-सा/कौन-से सही है/हैं ?",
+      "en": "Consider the following statements about Mission Sudarshan Chakra of India:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1",
+        "en": "1 only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "<b>मिशन सुदर्शन चक्र (Mission Sudarshan Chakra)</b> भारत का एक अत्यंत महत्वाकांक्षी, बहुस्तरीय वायु और मिसाइल रक्षा ढाल (Air and Missile Defence Shield) कार्यक्रम है, जिसे 2035 तक पूरी तरह से लागू करने का लक्ष्य रखा गया है।\n<b>कथन 1 और 2 सही हैं:</b> यह मिशन एआई-सक्षम (AI-enabled) नेटवर्क का उपयोग करते हुए ड्रोन, क्रूज़ मिसाइलों और विमानों के खिलाफ भारत की रक्षा (Defence) और जवाबी हमले (Offensive) दोनों क्षमताओं को मजबूत करेगा।\n<b>कथन 3 सही है:</b> इसका उद्देश्य एक ऐसा एकीकृत राष्ट्रव्यापी 'कवच' (Shield) बनाना है जो केवल सैन्य ठिकानों को ही नहीं, बल्कि नागरिक आबादी, महत्वपूर्ण बुनियादी ढांचे और प्रमुख सार्वजनिक स्थानों (Public places/population centres) को भी हवाई खतरों से बचाएगा।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> 'मिशन सुदर्शन चक्र' भारत के ऊपर एक अदृश्य, हाई-टेक जादुई छतरी (Shield) बनाने का बहुत बड़ा प्लान है। अगर कोई दुश्मन देश हम पर मिसाइल या ड्रोन से हमला करता है, तो यह छतरी तुरंत उसे हवा में ही पकड़कर नष्ट कर देगी! इसका लक्ष्य 2035 तक पूरे देश के शहरों और अहम जगहों को पूरी तरह से सुरक्षित करना है ताकि हम बेखौफ रह सकें।",
+      "en": "<b>Mission Sudarshan Chakra</b> is India's most ambitious indigenous, AI-enabled, multi-layered air and missile defence architecture, projected to be fully operational by 2035.\n<b>Statements 1 and 2 are correct:</b> The mission goes beyond mere defense; it integrates anti-drone, anti-ballistic (BMD), and offensive counterstrike capabilities into a single networked grid to ensure rapid, automated retaliatory responses.\n<b>Statement 3 is correct:</b> Unlike older systems focused solely on military bases, this integrated 'Kavach' aims to provide an expanded nationwide security umbrella to protect critical civilian infrastructure, population centers, and public spaces against modern hybrid aerial threats by 2035.\n\n<b>In simple terms (for a 10-year-old):</b> Imagine putting a giant, invisible, super-smart forcefield over the entire country! 'Mission Sudarshan Chakra' is a futuristic defense plan. By 2035, if any enemy tries to shoot missiles or send bad drones towards Indian cities or bases, this high-tech system will automatically spot them and shoot them down in the sky long before they can reach us."
+    }
+  },
+  {
+    "id": 61,
+    "subject": "Geography",
+    "topic": "Infrastructure and Connectivity",
+    "difficulty": "Medium",
+    "type": "statement",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "फेनी नदी पर निर्मित 'मैत्री सेतु', भारत के रामगढ़ को बांग्लादेश के सबरूम से जोड़ता है ।",
+        "en": "'Maitri Setu', built over Feni river, connects Ramgarh in India with Sabroom in Bangladesh."
+      },
+      {
+        "id": 2,
+        "hi": "झूलाघाट का झूला सेतु (सस्पेंशन ब्रिज) भारत को म्यांमार से जोड़ता है ।",
+        "en": "Jhulaghat suspension bridge connects India with Myanmar."
+      },
+      {
+        "id": 3,
+        "hi": "मेची सेतु और उसके पहुँच मार्ग, भारत के पानीटंकी बाइपास को नेपाल के काकरविट्ठा से जोड़ते हैं ।",
+        "en": "Mechi bridge and its approaches connect Panitanki Bypass in India with Kakarvitta in Nepal."
+      }
+    ],
+    "question": {
+      "hi": "भारत को पड़ोसी देशों से जोड़ने वाले नदी सेतुओं के बारे में निम्नलिखित कथनों पर विचार कीजिए :\nउपर्युक्त में से कौन-सा/कौन-से कथन सही है/हैं ?",
+      "en": "Consider the following statements about river bridges connecting India with neighbouring countries:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "<b>कथन 1 गलत है:</b> फेनी नदी पर बना 'मैत्री सेतु' (Maitri Setu) <b>भारत के 'सबरूम' (त्रिपुरा)</b> को <b>बांग्लादेश के 'रामगढ़'</b> से जोड़ता है। कथन में इन दोनों जगहों के नाम उल्टे लिखे गए हैं (सबरूम भारत में है)।\n\n<b>कथन 2 गलत है:</b> झूलाघाट सस्पेंशन ब्रिज पिथौरागढ़ (उत्तराखंड) में महाकाली नदी पर बना है, जो <b>भारत को 'नेपाल'</b> से जोड़ता है, म्यांमार से नहीं।\n\n<b>कथन 3 सही है:</b> मेची नदी पर बना 'मेची ब्रिज' (Mechi Bridge) पश्चिम बंगाल (भारत) के पानीटंकी (Panitanki) को नेपाल के काकरविट्ठा (Kakarvitta) से जोड़ता है।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> 'मैत्री सेतु' भारत के सबरूम से बांग्लादेश के रामगढ़ जाता है, लेकिन पहले वाक्य में इसे उल्टा लिख दिया गया है! इसी तरह 'झूलाघाट' वाला पुल भारत से नेपाल जाता है, म्यांमार नहीं। सिर्फ तीसरी बात सही है कि मेची पुल भारत के पानीटंकी से नेपाल जाता है।",
+      "en": "<b>Statement 1 is incorrect:</b> The 'Maitri Setu' (Bridge of Friendship) over the Feni River connects <b>Sabroom in India</b> (Tripura) with <b>Ramgarh in Bangladesh</b>. The statement incorrectly swaps the locations.\n\n<b>Statement 2 is incorrect:</b> The Jhulaghat suspension bridge crosses the Mahakali River and connects the Pithoragarh district of Uttarakhand in <b>India with Nepal</b>, not Myanmar.\n\n<b>Statement 3 is correct:</b> The Mechi Bridge over the Mechi River forms a crucial transit point connecting <b>Panitanki in India</b> (West Bengal) with <b>Kakarvitta in Nepal</b>.\n\n<b>In simple terms (for a 10-year-old):</b> The 'Maitri Setu' bridge starts at Sabroom in India and goes to Ramgarh in Bangladesh. Statement 1 got it completely backward! The 'Jhulaghat' bridge goes from India to our neighbor Nepal, not Myanmar. Only the third fact about the Mechi bridge connecting India's Panitanki to Nepal is correct."
+    }
+  },
+  {
+    "id": 62,
+    "subject": "Polity",
+    "topic": "Criminal Justice System (BNSS)",
+    "difficulty": "Hard",
+    "type": "statement",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "ज़मीरो एफ़आईआर (Zero FIR) किसी भी पुलिस स्टेशन में दर्ज कराई जा सकती है, भले ही संज्ञेय/असंज्ञेय अपराध किए जाने का स्थान, उस पुलिस स्टेशन की क्षेत्रीय अधिकारिता से बाहर हो ।",
+        "en": "A Zero FIR can be lodged at any police station, even though the place of commission of a cognizable/non-cognizable offence is outside the territorial jurisdiction of that police station."
+      },
+      {
+        "id": 2,
+        "hi": "किसी पुलिस स्टेशन, जहाँ ज़ीरो एफ़आईआर (Zero FIR) दर्ज की गई है, वहाँ के प्रभारी अधिकारी सक्षम प्राधिकारी की अनुमति से प्राथमिक अन्वेषण आरंभ कर सकता है ।",
+        "en": "The Officer-in-Charge of the police station where a Zero FIR has been lodged may, with the permission of the competent authority, initiate a preliminary enquiry."
+      },
+      {
+        "id": 3,
+        "hi": "ज़ीरो एफ़आईआर (Zero FIR) के अंतर्गत, सूचना देने वाले के लिए यह अनिवार्य है कि वह सूचना इलेक्ट्रॉनिक प्ररूप में दे ।",
+        "en": "Under Zero FIR, it is obligatory for the informant to furnish information electronically."
+      }
+    ],
+    "question": {
+      "hi": "भारतीय नागरिक सुरक्षा संहिता (BNSS), 2023 के अधीन ज़ीरो प्रथम सूचना रिपोर्ट (Zero FIR) के बारे में निम्नलिखित में से कौन-सा/कौन-से कथन सही है/हैं ?\nनीचे दिए गए कूट का प्रयोग कर उत्तर चुनिए :",
+      "en": "Which of the following statements about a Zero First Information Report (Zero FIR) under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 is/are correct?\nSelect the answer using the code given below :"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 2",
+        "en": "2 only"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "<b>कथन 1 गलत है:</b> नए कानून (BNSS 2023) के तहत 'ज़ीरो एफआईआर' (Zero FIR) को वैधानिक मान्यता दी गई है, लेकिन यह केवल <b>संज्ञेय अपराधों (Cognizable offences - गंभीर अपराध)</b> के लिए दर्ज की जा सकती है, <b>असंज्ञेय (Non-cognizable)</b> अपराधों के लिए नहीं।\n\n<b>कथन 2 सही है:</b> जहाँ ज़ीरो एफआईआर दर्ज की गई है, वहाँ का पुलिस प्रभारी अधिकारी, मामले को संबंधित पुलिस स्टेशन में ट्रांसफर करने से पहले, सक्षम प्राधिकारी की अनुमति से प्राथमिक जाँच (Preliminary enquiry) कर सकता है।\n\n<b>कथन 3 गलत है:</b> BNSS के तहत <b>इलेक्ट्रॉनिक (e-FIR)</b> के माध्यम से सूचना देने की 'सुविधा' जोड़ी गई है, लेकिन यह <b>अनिवार्य (Obligatory)</b> नहीं है। शिकायतकर्ता अभी भी मौखिक या लिखित रूप में शिकायत दर्ज कर सकता है।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> 'ज़ीरो एफआईआर' का मतलब है कि अगर आपके साथ कोई घटना हुई है, तो आप देश के किसी भी पुलिस स्टेशन में जाकर रिपोर्ट लिखवा सकते हैं, पुलिस यह नहीं कह सकती कि 'यह हमारा इलाका नहीं है'। लेकिन यह सिर्फ मर्डर या चोरी जैसे गंभीर (संज्ञेय) मामलों में होता है, छोटे-मोटे झगड़ों में नहीं। इसके लिए शिकायत इंटरनेट से ही देना 'ज़रूरी' नहीं है, आप थाने जाकर बोलकर भी रिपोर्ट लिखवा सकते हैं।",
+      "en": "<b>Statement 1 is incorrect:</b> The Bharatiya Nagarik Suraksha Sanhita (BNSS) formalizes the concept of 'Zero FIR', meaning an FIR can be filed at any police station regardless of jurisdiction. However, an FIR (including Zero FIR) can only be registered for <b>Cognizable offences</b> (serious crimes), NOT for non-cognizable offences.\n\n<b>Statement 2 is correct:</b> The officer-in-charge at the station where the Zero FIR is lodged may initiate a preliminary enquiry with prior permission from a competent authority (like a senior officer) before transferring the case to the jurisdictional station.\n\n<b>Statement 3 is incorrect:</b> While BNSS introduces the option to file an FIR electronically (e-FIR), it is entirely an optional facility. It is <b>NOT obligatory</b>; an informant can still walk in and provide information orally or in writing.\n\n<b>In simple terms (for a 10-year-old):</b> A 'Zero FIR' is an awesome rule that says if a serious crime happens to you, you can run into ANY police station to report it, and the police cannot send you away saying 'this is outside our area'. But this is only for big crimes, not tiny arguments. Also, you don't *have* to use a computer to file it; you can just talk to the police officer face-to-face."
+    }
+  },
+  {
+    "id": 63,
+    "subject": "Governance",
+    "topic": "Government Organizations and Ministries",
+    "difficulty": "Medium",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "भारत सरकार के अधीन संगठनों के संदर्भ में, निम्नलिखित विवरणों पर विचार कीजिए :\n1. केंद्रीय आर्थिक आसूचना ब्यूरो (CEIB) - विविध विधि प्रवर्तन अभिकरणों के बीच समन्वय करना - गृह मंत्रालय\n2. गंभीर कपट अन्वेषण कार्यालय (SFIO) - जटिल निगमित कपटों का अन्वेषण करना - वित्त मंत्रालय\n3. केंद्रीय अन्वेषण ब्यूरो (CBI) - सार्वजनिक जीवन में नैतिक मूल्यों को परिरक्षित करना और राष्ट्रीय अर्थव्यवस्था की दशा को सुनिश्चित करना - कार्मिक, लोक शिकायत और पेंशन मंत्रालय\nउपर्युक्त कितनी पंक्तियों में, दिए गए विवरण सही सुमेलित हैं ?",
+      "en": "With reference to the organisations under the Government of India, consider the following details:\n1. Central Economic Intelligence Bureau (CEIB) - To coordinate between various law enforcement agencies - Ministry of Home Affairs\n2. Serious Fraud Investigation Office (SFIO) - To investigate complex corporate frauds - Ministry of Finance\n3. Central Bureau of Investigation (CBI) - To preserve values in public life and ensure the health of the national economy - Ministry of Personnel, Public Grievances and Pension\nIn how many of the above rows are the given details correctly matched ?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1",
+        "en": "1"
+      },
+      {
+        "id": "B",
+        "hi": "2",
+        "en": "2"
+      },
+      {
+        "id": "C",
+        "hi": "3",
+        "en": "3"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "<b>पंक्ति 1 गलत है:</b> केंद्रीय आर्थिक आसूचना ब्यूरो (CEIB) <b>वित्त मंत्रालय (Ministry of Finance)</b> के राजस्व विभाग के अधीन काम करता है, न कि गृह मंत्रालय के। यह आर्थिक अपराधों से निपटने वाली एजेंसियों के बीच तालमेल बनाता है।\n\n<b>पंक्ति 2 गलत है:</b> गंभीर कपट अन्वेषण कार्यालय (SFIO) बड़ी कंपनियों (कॉरपोरेट) के घोटालों की जाँच करता है, और यह <b>कॉरपोरेट कार्य मंत्रालय (Ministry of Corporate Affairs)</b> के अधीन काम करता है, वित्त मंत्रालय के नहीं।\n\n<b>पंक्ति 3 सही है:</b> केंद्रीय अन्वेषण ब्यूरो (CBI) भारत की प्रमुख जाँच एजेंसी है, जो <b>कार्मिक, लोक शिकायत और पेंशन मंत्रालय (Ministry of Personnel, Public Grievances and Pensions)</b> के अधीन आती है। इसका उद्देश्य सार्वजनिक जीवन में भ्रष्टाचार मिटाना और मूल्यों की रक्षा करना है।\nचूँकि केवल 1 पंक्ति सही सुमेलित है, उत्तर '1' होगा।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> CBI भारत की सबसे मशहूर जासूसी एजेंसी है, जो 'कार्मिक मंत्रालय' के अंदर आती है (यह बात बिल्कुल सही है)। लेकिन SFIO (जो कंपनियों के बड़े घोटालों की जाँच करता है) 'कॉरपोरेट मामलों के मंत्रालय' में आता है, और CEIB (जो पैसों के हेरफेर पर नज़र रखता है) 'वित्त मंत्रालय' में आता है। ऊपर वाले टेबल में इन दोनों के मंत्रालय गलत लिखे गए हैं।",
+      "en": "<b>Row 1 is incorrect:</b> The Central Economic Intelligence Bureau (CEIB) functions under the Department of Revenue, <b>Ministry of Finance</b>, not the Ministry of Home Affairs. It acts as the nodal agency for economic intelligence.\n\n<b>Row 2 is incorrect:</b> The Serious Fraud Investigation Office (SFIO) investigates major white-collar corporate crimes and operates under the jurisdiction of the <b>Ministry of Corporate Affairs</b>, not the Ministry of Finance.\n\n<b>Row 3 is correct:</b> The Central Bureau of Investigation (CBI) is the premier investigating police agency in India and functions under the <b>Ministry of Personnel, Public Grievances and Pensions</b>. Its motto aligns with preserving integrity in public life.\nThus, only 1 row is correctly matched.\n\n<b>In simple terms (for a 10-year-old):</b> The CBI is India's top detective agency that catches corrupt officials, and it works under the 'Ministry of Personnel' (this row is totally correct). But the SFIO (which investigates cheating inside big companies) belongs to the 'Ministry of Corporate Affairs', and CEIB (which tracks illegal money) belongs to the 'Finance Ministry'. The table mixed up their boss ministries!"
+    }
+  },
+  {
+    "id": 64,
+    "subject": "International Relations",
+    "topic": "International Conventions",
+    "difficulty": "Hard",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "निम्नलिखित में से किन अंतर्राष्ट्रीय कन्वेंशनों का भारत ने अनुसमर्थन <b>नहीं</b> किया है?\n1. रोज़गार नीति पर कन्वेंशन (Employment Policy Convention)\n2. बलात्श्रम के अंत पर कन्वेंशन (Abolition of Forced Labour Convention)\n3. सभी प्रवासी श्रमिकों और उनके परिवार के सदस्यों के अधिकारों के संरक्षण पर अंतर्राष्ट्रीय कन्वेंशन (Convention on Migrant Workers)\n4. युद्ध के समय सिविलियन व्यक्तियों के संरक्षण से संबंधित जिनेवा कन्वेंशन\n5. राज्यविहीनता (Statelessness) को कम करने पर कन्वेंशन\nनीचे दिए गए कूट का प्रयोग कर उत्तर चुनिए :",
+      "en": "Which of the following international conventions have <b>not</b> been ratified by India ?\n1. Employment Policy Convention\n2. Abolition of Forced Labour Convention\n3. International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families\n4. Geneva Convention Relative to the Protection of Civilian Persons in Time of War\n5. Convention on Reduction of Statelessness\nSelect the answer using the code given below :"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "2 और 4",
+        "en": "2 and 4"
+      },
+      {
+        "id": "B",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3 और 4",
+        "en": "3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "3, 4 और 5",
+        "en": "3, 4 and 5"
+      }
+    ],
+    "correctAnswer": "X",
+    "explanation": {
+      "hi": "<i>नोट: UPSC द्वारा इस प्रश्न को रद्द (Dropped) कर दिया गया था क्योंकि विकल्पों में सही कूट उपलब्ध नहीं था।</i>\n\nभारत ने <b>कन्वेंशन 1 (1998 में), कन्वेंशन 2 (2000 में)</b> और <b>कन्वेंशन 4 (1950 में)</b> का अनुसमर्थन (Ratification) किया हुआ है। \nभारत ने <b>कन्वेंशन 3</b> (प्रवासी श्रमिकों के अधिकार) और <b>कन्वेंशन 5</b> (राज्यविहीनता कम करने पर कन्वेंशन 1961) पर हस्ताक्षर या अनुसमर्थन <b>नहीं</b> किया है।\nसही उत्तर '3 और 5' होना चाहिए था, जो किसी भी विकल्प में मौजूद नहीं है।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> भारत ने दुनिया भर के कई अच्छे नियमों (Conventions) पर हस्ताक्षर किए हैं, जैसे मज़बूरी में काम न करवाना (Forced Labour) और युद्ध में आम लोगों को बचाना (Geneva)। लेकिन भारत ने प्रवासियों के नियमों और बिना देश वाले लोगों (Statelessness) के नियमों पर दस्तखत नहीं किए हैं। चूँकि ऑप्शंस में सही जोड़ी (3 और 5) नहीं थी, इसलिए इस सवाल को हटा दिया गया।",
+      "en": "<i>Note: This question was officially dropped by UPSC because none of the provided options contained the correct combination.</i>\n\nIndia <b>has ratified</b> Convention 1 (Employment Policy C122, in 1998), Convention 2 (Abolition of Forced Labour C105, in 2000), and Convention 4 (1949 Geneva Conventions).\nIndia has <b>NOT ratified</b> Convention 3 (Migrant Workers Convention) and Convention 5 (1961 Convention on the Reduction of Statelessness).\nTherefore, the correct answer should be '3 and 5', which is not available in the given options.\n\n<b>In simple terms (for a 10-year-old):</b> India has signed and agreed to global rules about stopping forced labor and protecting innocent people during wars. However, India has NOT signed the specific international rules about Migrant Workers and Stateless people. Because the correct answer combo ('3 and 5') was missing from the multiple-choice options, the exam makers had to cancel this question!"
+    }
+  },
+  {
+    "id": 65,
+    "subject": "Current Affairs",
+    "topic": "Artificial Intelligence and Summits",
+    "difficulty": "Hard",
+    "type": "statement",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "शिखर सम्मेलन का बौद्धिक ढाँचा (फ्रेमवर्क) तीन बुनियादी सूत्रों : जन, आयोजना, और प्रगति पर आधारित था ।",
+        "en": "The Summit's intellectual framework was based on three foundational Sutras : People, Planning, and Progress."
+      },
+      {
+        "id": 2,
+        "hi": "शिखर सम्मेलन की प्रस्तावना में एआई संसाधनों के लोकतंत्रीकरण पर बल दिया गया है, जो राष्ट्रीय कानून का सम्मान करते हुए स्थानीय स्तर पर प्रासंगिक नवाचार का समर्थन करने और लचीले एआई पारिस्थितिकी तंत्रों को मज़बूत करने के लिए एक बाध्यकारी ढाँचे के रूप में एआई के लोकतांत्रिक प्रसार के लिए चार्टर को स्वीकार करती है।",
+        "en": "The Preamble of the Summit stresses Democratising AI Resources, which acknowledges the Charter for Democratic Diffusion of AI as a binding framework to support locally relevant innovation and strengthen resilient AI ecosystems while respecting national laws."
+      },
+      {
+        "id": 3,
+        "hi": "एआई प्रभाव पर नई दिल्ली घोषणा का प्रतिपादन सात चक्रों (स्तंभों) पर केंद्रित था, जिसमें सामाजिक सशक्तिकरण के लिए पहुँच, विज्ञान के लिए एआई, तथा सुरक्षित एवं विश्वसनीय एआई सम्मिलित है।",
+        "en": "The New Delhi Declaration on AI Impact was structured around seven Chakras (Pillars), which included Access for Social Empowerment, AI for Science, and Secure and Trusted AI."
+      }
+    ],
+    "question": {
+      "hi": "नई दिल्ली में आयोजित एआई प्रभाव शिखर सम्मेलन, 2026 (AI Impact Summit, 2026) के संबंध में, निम्नलिखित कथनों पर विचार कीजिए :\nउपर्युक्त कथनों में से कौन-सा/कौन-से सही है/हैं ?",
+      "en": "Consider the following statements with respect to the AI Impact Summit, 2026 held in New Delhi :\nWhich of the statements given above is/are correct ?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "<b>कथन 3 सही है:</b> नई दिल्ली में आयोजित 'एआई प्रभाव शिखर सम्मेलन 2026' में <b>नई दिल्ली घोषणा (New Delhi Declaration)</b> को अपनाया गया, जो 7 प्रमुख 'चक्रों' (Pillars) पर केंद्रित था। इनमें सामाजिक सशक्तिकरण, एआई फॉर साइंस, और सुरक्षित (Safe & Trusted) एआई शामिल हैं।\n<b>कथन 1 गलत है:</b> इसके 3 बुनियादी सूत्र 'पीपल, प्लानिंग और प्रोग्रेस' नहीं, बल्कि 'पीपल, प्लैनेट और प्रोस्पेरिटी' (People, Planet, Prosperity - लोग, ग्रह और समृद्धि) जैसे व्यापक वैश्विक विषयों पर आधारित थे।\n<b>कथन 2 गलत है:</b> अंतरराष्ट्रीय एआई संधियाँ और चार्टर सामान्यतः <b>गैर-बाध्यकारी (Non-binding / Voluntary)</b> होते हैं। इस चार्टर को एक सख्त कानूनी 'बाध्यकारी ढाँचे' (binding framework) के रूप में नहीं अपनाया गया था।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> नई दिल्ली में दुनिया भर के लोग यह चर्चा करने आए कि 'आर्टिफिशियल इंटेलिजेंस (AI)' का सुरक्षित इस्तेमाल कैसे हो। उन्होंने 7 खास नियम (चक्र) बनाए, जैसे AI से साइंस को कैसे फायदा हो और AI को कैसे सुरक्षित रखा जाए। लेकिन ये नियम किसी भी देश पर ज़बरदस्ती नहीं थोपे गए (ये 'बाध्यकारी' नहीं थे)।",
+      "en": "<b>Statement 3 is correct:</b> The <b>New Delhi Declaration</b> adopted at the AI Impact Summit 2026 was structured around 7 strategic 'Chakras' (Pillars), which notably included utilizing AI for Social Empowerment, accelerating AI for Science, and ensuring Secure & Trusted AI deployment globally.\n<b>Statement 1 is incorrect:</b> The foundational triad of such global summits generally revolves around broader sustainable themes like 'People, Planet, and Prosperity', not 'People, Planning, and Progress'.\n<b>Statement 2 is incorrect:</b> Global AI governance charters and declarations adopted at such summits are inherently <b>voluntary and non-binding</b>. Describing the Charter as a 'binding framework' is factually flawed.\n\n<b>In simple terms (for a 10-year-old):</b> Experts from around the world met in New Delhi to talk about how to use smart computer brains (AI) safely. They created 7 main pillars (Chakras) focused on using AI to help people and do cool science safely! However, the rules they wrote down are like friendly advice—they aren't strict laws that every country is forced to obey (they are non-binding)."
+    }
+  },
+  {
+    "id": 66,
+    "subject": "International Relations",
+    "topic": "India and Regional Groupings",
+    "difficulty": "Easy",
+    "type": "statement",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कलादान मल्टी-मॉडल ट्रांज़िट ट्रांसपोर्ट प्रोजेक्ट",
+        "en": "Kaladan Multi-Modal Transit Transport Project"
+      },
+      {
+        "id": 2,
+        "hi": "आईएमटी ट्राइलेटरल हाइवे",
+        "en": "IMT Trilateral Highway"
+      },
+      {
+        "id": 3,
+        "hi": "अगरतला-आखाउड़ा रेल लाइन",
+        "en": "Agartala-Akhaura Rail Line"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सी संपर्क (कनेक्टिविटी) परियोजनाएँ, भारत और आसियान (ASEAN) सदस्य देशों के बीच सहयोग का एक भाग है/हैं ?\nनीचे दिए गए कूट का प्रयोग कर उत्तर चुनिए :",
+      "en": "Which of the following connectivity projects is/are a part of cooperation between India and the ASEAN member countries ?\nSelect the answer using the code given below :"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 3",
+        "en": "1 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 2",
+        "en": "2 only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "<b>कथन 1 सही है:</b> कलादान मल्टी-मॉडल प्रोजेक्ट भारत के कोलकाता बंदरगाह को म्यांमार के सिटवे बंदरगाह से जोड़ता है। म्यांमार <b>आसियान (ASEAN)</b> का सदस्य है।\n<b>कथन 2 सही है:</b> IMT त्रिपक्षीय राजमार्ग (India-Myanmar-Thailand Trilateral Highway) भारत को म्यांमार और थाईलैंड से जोड़ता है। म्यांमार और थाईलैंड दोनों <b>आसियान</b> के सदस्य हैं।\n<b>कथन 3 गलत है:</b> अगरतला-अखौरा रेल लाइन भारत (त्रिपुरा) को <b>बांग्लादेश</b> से जोड़ती है। <b>बांग्लादेश आसियान (ASEAN) का सदस्य नहीं है</b> (वह सार्क/SAARC और बिम्सटेक/BIMSTEC का सदस्य है)।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> 'आसियान' (ASEAN) दक्षिण-पूर्व एशिया के 10 देशों का एक ग्रुप है, जिसमें म्यांमार और थाईलैंड शामिल हैं, लेकिन हमारा पड़ोसी बांग्लादेश इस ग्रुप में नहीं है। इसलिए, 'कलादान' और 'IMT हाइवे' आसियान देशों के साथ हमारे प्रोजेक्ट हैं, लेकिन 'अगरतला-अखौरा ट्रेन' (जो बांग्लादेश जाती है) आसियान का प्रोजेक्ट नहीं है।",
+      "en": "<b>Statement 1 is correct:</b> The Kaladan Multi-Modal Transit Transport Project connects India's Kolkata port with the Sittwe seaport in Myanmar. Myanmar is a core member of <b>ASEAN</b>.\n<b>Statement 2 is correct:</b> The IMT Trilateral Highway connects India to Thailand via Myanmar. Both Myanmar and Thailand are <b>ASEAN</b> member states, making this a flagship India-ASEAN connectivity project under the Act East Policy.\n<b>Statement 3 is incorrect:</b> The Agartala-Akhaura Rail Line connects India (Tripura) with <b>Bangladesh</b>. Bangladesh is a member of SAARC and BIMSTEC, but it is <b>NOT a member of ASEAN</b>.\n\n<b>In simple terms (for a 10-year-old):</b> 'ASEAN' is a special club of 10 countries in Southeast Asia. Myanmar and Thailand are in this club, but our neighbor Bangladesh is not! So, the Kaladan port and IMT Highway (which go to Myanmar and Thailand) are ASEAN projects. But the Agartala-Akhaura train goes to Bangladesh, so it's not an ASEAN project."
+    }
+  },
+  {
+    "id": 67,
+    "subject": "International Relations",
+    "topic": "India's Neighborhood First Policy",
+    "difficulty": "Medium",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सूची I को सूची II से सुमेलित कीजिए और सूचियों के नीचे दिए गए कूट का प्रयोग कर उत्तर चुनिए :\n\nसूची I (भारत से सहायता प्राप्त परियोजना)\nA. मंगदेछू पनबिजली परियोजना\nB. स्टोर पैलेस का जीर्णोद्धार\nC. डिकओया का ज़िला अस्पताल\nD. इंस्टिट्यूट ऑफ़ सिक्यूरिटी एंड लॉ एनफोर्समेंट स्टडीज़\n\nसूची II (देश)\n1. मालदीव\n2. अफ़ग़ानिस्तान\n3. भूटान\n4. श्रीलंका",
+      "en": "Match List I with List II and select the answer using the code given below the Lists :\n\nList I (Project Supported by India)\nA. Mangdechhu Hydroelectric Project\nB. Restoration of Stor Palace\nC. District Hospital at Dickoya\nD. Institute of Security and Law Enforcement Studies\n\nList II (Country)\n1. Maldives\n2. Afghanistan\n3. Bhutan\n4. Sri Lanka"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "A-1, B-4, C-2, D-3",
+        "en": "A-1, B-4, C-2, D-3"
+      },
+      {
+        "id": "B",
+        "hi": "A-3, B-2, C-4, D-1",
+        "en": "A-3, B-2, C-4, D-1"
+      },
+      {
+        "id": "C",
+        "hi": "A-3, B-4, C-2, D-1",
+        "en": "A-3, B-4, C-2, D-1"
+      },
+      {
+        "id": "D",
+        "hi": "A-1, B-2, C-4, D-3",
+        "en": "A-1, B-2, C-4, D-3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारत 'नेबरहुड फर्स्ट' नीति के तहत अपने पड़ोसी देशों में कई विकास परियोजनाओं का समर्थन करता है:\n- <b>मंगदेछू पनबिजली परियोजना (A-3):</b> यह भारत की मदद से <b>भूटान</b> में बनाई गई एक प्रमुख हाइड्रोइलेक्ट्रिक परियोजना है।\n- <b>स्टोर पैलेस का जीर्णोद्धार (B-2):</b> भारत ने काबुल, <b>अफगानिस्तान</b> में ऐतिहासिक 'स्टोर पैलेस' (Stor Palace) के जीर्णोद्धार में मदद की थी।\n- <b>डिकओया अस्पताल (C-4):</b> भारत सरकार की सहायता से <b>श्रीलंका</b> के डिकओया (Dickoya) में एक आधुनिक जिला अस्पताल का निर्माण किया गया।\n- <b>ISLES (D-1):</b> इंस्टिट्यूट ऑफ़ सिक्यूरिटी एंड लॉ एनफोर्समेंट स्टडीज़ भारत के सहयोग से <b>मालदीव</b> में बनाया गया एक प्रमुख प्रशिक्षण संस्थान है।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> भारत एक बहुत अच्छा पड़ोसी है जो अपने आस-पास के देशों की मदद करता है। भारत ने भूटान में बिजली बनाने वाला 'मंगदेछू' डैम बनाया। अफगानिस्तान में पुराने 'स्टोर महल' को फिर से नया किया। श्रीलंका में लोगों के इलाज के लिए 'डिकओया अस्पताल' बनवाया और मालदीव की पुलिस को ट्रेनिंग देने के लिए एक 'सिक्योरिटी इंस्टिट्यूट' बनाया।",
+      "en": "India heavily invests in infrastructure and capacity-building in its neighborhood under its 'Neighbourhood First' policy:\n- <b>Mangdechhu Hydroelectric Project (A-3):</b> A major run-of-river power plant built with Indian assistance in <b>Bhutan</b>.\n- <b>Restoration of Stor Palace (B-2):</b> India funded the restoration of the historic Stor Palace in Kabul, <b>Afghanistan</b>.\n- <b>District Hospital at Dickoya (C-4):</b> A state-of-the-art multi-specialty hospital built with Indian grant assistance in the Central Province of <b>Sri Lanka</b>.\n- <b>Institute of Security and Law Enforcement Studies (D-1):</b> A major training academy built for the police forces in the <b>Maldives</b> with Indian support.\n\n<b>In simple terms (for a 10-year-old):</b> India loves helping its neighbors! We helped build a giant water-power plant (Mangdechhu) in Bhutan to make electricity. We helped fix a beautiful old palace (Stor Palace) in Afghanistan. We built a big hospital for sick people in Dickoya, Sri Lanka. And we built a cool police training school in the Maldives!"
+    }
+  },
+  {
+    "id": 68,
+    "subject": "Defense and Security",
+    "topic": "Make in India Defense Projects",
+    "difficulty": "Easy",
+    "type": "statement",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "एसयू-30 एमकेआई लड़ाकू विमान (Su-30 MKI Fighter Jets)",
+        "en": "Su-30 MKI Fighter Jets"
+      },
+      {
+        "id": 2,
+        "hi": "टी-90 एमके-III टैंक (T-90 MK-III Tanks)",
+        "en": "T-90 MK-III Tanks"
+      },
+      {
+        "id": 3,
+        "hi": "आकुला श्रेणी पनडुब्बी (Akula Class Submarine)",
+        "en": "Akula Class Submarine"
+      }
+    ],
+    "question": {
+      "hi": "रक्षा हार्डवेयर की निम्नलिखित मदों में से किसका/किनका विनिर्माण भारत में किया जाता है ?\nनीचे दिए गए कूट का प्रयोग कर उत्तर चुनिए :",
+      "en": "Which of the following items of defence hardware is/are manufactured in India ?\nSelect the answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "1 और 3",
+        "en": "1 and 3"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 2",
+        "en": "2 only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "<b>कथन 1 सही है:</b> <b>Su-30 MKI</b> लड़ाकू विमानों का विनिर्माण (निर्माण) रूस के लाइसेंस के तहत भारत में <b>हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL)</b> द्वारा किया जाता है।\n<b>कथन 2 सही है:</b> <b>T-90 'भीष्म' टैंकों</b> का विनिर्माण भारत के अवाडी (चेन्नई) स्थित <b>हैवी व्हीकल्स फैक्ट्री (HVF)</b> में किया जाता है।\n<b>कथन 3 गलत है:</b> भारत ने <b>अकुला क्लास पनडुब्बी (जैसे INS चक्र)</b> को रूस से लीज़ (किराए) पर लिया था, इसका विनिर्माण भारत में नहीं किया गया।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> भारत अपनी सेना के लिए बहुत सारे हथियार खुद बनाता है! Su-30 MKI फाइटर जेट और T-90 'भीष्म' नाम के शक्तिशाली टैंक अब भारत की अपनी फैक्ट्रियों में ही बनाए जाते हैं। लेकिन 'अकुला क्लास' पनडुब्बी (जो पानी के अंदर चलती है) हमने रूस से कुछ सालों के लिए किराए पर ली थी, उसे हमने खुद नहीं बनाया।",
+      "en": "<b>Statement 1 is correct:</b> The <b>Su-30 MKI</b> is a twin-seater, multirole fighter jet that is manufactured in India by <b>Hindustan Aeronautics Limited (HAL)</b> under a technology transfer license from Russia's Sukhoi.\n<b>Statement 2 is correct:</b> The <b>T-90 MK-III (Bhishma)</b> Main Battle Tanks are manufactured indigenously by the <b>Heavy Vehicles Factory (HVF)</b> in Avadi, Chennai, under a licensed production agreement with Russia.\n<b>Statement 3 is incorrect:</b> The <b>Akula Class nuclear-powered attack submarines</b> (like INS Chakra) were leased directly from Russia for 10-year periods. They were built in Russia, not manufactured in Indian shipyards.\n\n<b>In simple terms (for a 10-year-old):</b> India makes a lot of its own awesome military gear now! The super-fast Su-30 MKI fighter jets and the heavy T-90 'Bhishma' tanks are built right here in Indian factories. But the giant 'Akula' nuclear submarine? We didn't build that; we just rented it from Russia for a few years!"
+    }
+  },
+  {
+    "id": 69,
+    "subject": "International Relations",
+    "topic": "Multilateral Co-operation Platforms",
+    "difficulty": "Medium",
+    "type": "statement",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "'कोलंबो प्रक्रिया' ('Colombo Process') एक क्षेत्रीय परामर्शदात्री प्रक्रिया है, जिसमें सदस्य देश सर्वसम्मति से बाध्यकारी निर्णय लेते हैं।",
+        "en": "The 'Colombo Process' is a regional consultative process in which member states take binding decisions by consensus."
+      },
+      {
+        "id": 2,
+        "hi": "'अबू धाबी संवाद (डायलॉग)' संविदा श्रमिकों के आवागमन पर क्षेत्रीय सहयोग को सुकर बनाने के लिए श्रमिकों के मूल-स्थान और गंतव्य-स्थान से जुड़े एशियाई देशों के मध्य एक स्वैच्छिक गैर-बाध्यकारी परामर्शदात्री प्रक्रिया है।",
+        "en": "The 'Abu Dhabi Dialogue' is a voluntary non-binding consultative process among Asian countries of labour origin and destination to facilitate regional cooperation on contractual labour mobility."
+      },
+      {
+        "id": 3,
+        "hi": "एक पूर्व संयुक्त राष्ट्र महासचिव के प्रस्ताव के अनुसार सृजित 'प्रवासन और विकास के लिए वैश्विक मंच' (Global Forum for Migration and Development), एक स्वैच्छिक मंच है, जिसके निर्णय बाध्यकारी स्वरूप के नहीं हैं।",
+        "en": "The 'Global Forum for Migration and Development', created upon the proposal of a former UN Secretary General, is a voluntary forum whose decisions are non-binding in nature."
+      }
+    ],
+    "question": {
+      "hi": "बहुपक्षीय सहयोग मंचों के बारे में निम्नलिखित कथनों पर विचार कीजिए :\nउपर्युक्त कथनों में से कौन-सा/कौन-से सही है/हैं ?",
+      "en": "Consider the following statements about platforms for multilateral co-operation:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 2",
+        "en": "2 only"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "<b>कथन 1 गलत है:</b> 'कोलंबो प्रक्रिया' (Colombo Process) एशियाई देशों का एक क्षेत्रीय समूह है जो प्रवासी श्रमिकों (migrant workers) के मुद्दों पर चर्चा करता है। यह पूरी तरह से एक <b>गैर-बाध्यकारी (non-binding)</b> और स्वैच्छिक मंच है। इसके निर्णय सदस्य देशों पर कानूनी रूप से लागू (बाध्यकारी) नहीं होते।\n<b>कथन 2 सही है:</b> 'अबू धाबी डायलॉग' उन देशों (जैसे भारत, फिलीपींस) और जहाँ मज़दूर जाते हैं (जैसे खाड़ी देश) के बीच बातचीत का एक मंच है, और यह भी पूरी तरह से स्वैच्छिक और <b>गैर-बाध्यकारी</b> है।\n<b>कथन 3 सही है:</b> GFMD (Global Forum for Migration and Development) को UN के बाहर एक अनौपचारिक और <b>गैर-बाध्यकारी</b> मंच के रूप में बनाया गया था, ताकि देश माइग्रेशन के मुद्दों पर खुलकर चर्चा कर सकें।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> दुनिया में मज़दूरों और प्रवासियों की मदद के लिए कई ग्रुप बने हैं। 'कोलंबो प्रक्रिया', 'अबू धाबी डायलॉग', और 'GFMD' ऐसे ही ग्रुप हैं जहाँ देश मिलकर सिर्फ सलाह-मशविरा (मीटिंग) करते हैं। इनमें से किसी भी ग्रुप के नियम किसी भी देश पर जबरदस्ती नहीं थोपे जा सकते (ये सब 'नॉन-बाइंडिंग' हैं)। इसलिए पहला पॉइंट गलत है क्योंकि वह कह रहा है कि इसके नियम मानना ज़रुरी (बाध्यकारी) है।",
+      "en": "<b>Statement 1 is incorrect:</b> The 'Colombo Process' is a Regional Consultative Process covering Asian countries of labour origin. Like most consultative forums on migration, its recommendations and decisions are strictly <b>voluntary and non-binding</b>, NOT binding.\n<b>Statement 2 is correct:</b> The 'Abu Dhabi Dialogue' brings together Asian countries of labor origin (like India) and destination countries (like the UAE). It functions purely as a voluntary, <b>non-binding</b> consultative platform to improve labor mobility and welfare.\n<b>Statement 3 is correct:</b> The Global Forum for Migration and Development (GFMD) was established outside the formal UN system (though proposed by Kofi Annan) specifically to be an informal, voluntary, and <b>non-binding</b> space for governments to discuss sensitive migration issues without legal obligations.\n\n<b>In simple terms (for a 10-year-old):</b> There are special clubs where countries meet to talk about how to protect people who travel abroad for work (like the Colombo Process and Abu Dhabi Dialogue). The most important rule of all these clubs is that their ideas are just friendly suggestions—they are NEVER strict laws that force a country to do something. Since Statement 1 says its rules are strict and 'binding', it is wrong!"
+    }
+  },
+  {
+    "id": 70,
+    "subject": "International Relations",
+    "topic": "International Organizations and Awards",
+    "difficulty": "Medium",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "निम्नलिखित संयुक्त राष्ट्र संगठनों/एजेंसियों पर विचार कीजिए :\n1. विश्व खाद्य कार्यक्रम (वर्ल्ड फूड प्रोग्राम - WFP)\n2. संयुक्त राष्ट्र बाल कोष (यूनाइटेड नेशन्स चिल्ड्रन्स फंड - UNICEF)\n3. शरणार्थियों के लिए संयुक्त राष्ट्र उच्चायुक्त (यूनाइटेड नेशन्स हाई कमीशनर फॉर रिफ्यूजीज़ - UNHCR)\n4. अंतर्राष्ट्रीय श्रम संगठन (इंटरनेशनल लेबर ऑर्गेनाइज़ेशन - ILO)\nउपर्युक्त में से कितनों को <b>दो बार</b> नोबेल पुरस्कार प्रदान किया गया है ?",
+      "en": "Consider the following UN organisations/agencies:\n1. World Food Programme\n2. United Nations Children's Fund\n3. United Nations High Commissioner for Refugees\n4. International Labour Organisation\nHow many of the above has/have been awarded the Nobel Prize <b>twice</b>?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1",
+        "en": "1"
+      },
+      {
+        "id": "B",
+        "hi": "2",
+        "en": "2"
+      },
+      {
+        "id": "C",
+        "hi": "3",
+        "en": "3"
+      },
+      {
+        "id": "D",
+        "hi": "4",
+        "en": "4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "दिए गए संयुक्त राष्ट्र (UN) संगठनों में से <b>केवल UNHCR</b> (शरणार्थियों के लिए संयुक्त राष्ट्र उच्चायुक्त) को ही <b>दो बार</b> नोबेल शांति पुरस्कार (1954 और 1981 में) मिला है।\n- <b>UNICEF</b> को एक बार (1965) मिला है।\n- <b>ILO</b> को एक बार (1969) मिला है।\n- <b>WFP</b> को एक बार (2020) मिला है।\nइसलिए, केवल 1 संगठन ने यह पुरस्कार दो बार जीता है।\n<i>अतिरिक्त जानकारी: रेड क्रॉस की अंतर्राष्ट्रीय समिति (ICRC) को तीन बार (1917, 1944, 1963) नोबेल शांति पुरस्कार मिला है, लेकिन वह विकल्प में नहीं है।</i>\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> नोबेल प्राइज़ दुनिया का सबसे बड़ा इनाम है। ऊपर दिए गए चारों संगठनों ने दुनिया की भलाई के लिए यह इनाम जीता है, लेकिन <b>UNHCR</b> (जो बेघर हुए शरणार्थियों की मदद करता है) इतना कमाल का है कि उसे यह इनाम <b>दो बार</b> मिला है! बाकियों को सिर्फ एक-एक बार मिला है।",
+      "en": "Among the given UN organizations, <b>only the UNHCR</b> (United Nations High Commissioner for Refugees) has been awarded the Nobel Peace Prize <b>twice</b> (in 1954 for its work in Europe post-WWII, and in 1981 for its worldwide assistance to refugees).\n- <b>UNICEF</b> won it once in 1965.\n- <b>ILO</b> won it once in 1969.\n- <b>WFP</b> won it once in 2020.\nTherefore, exactly 1 organization from the list fits the criteria.\n<i>(Note: The International Committee of the Red Cross (ICRC) has won it three times, but it is not on this list).</i>\n\n<b>In simple terms (for a 10-year-old):</b> The Nobel Peace Prize is the ultimate gold medal for helping the world. All four of these groups have won this amazing medal. However, only the <b>UNHCR</b> (the group that helps refugees who have lost their homes in wars) has been awesome enough to win it <b>twice</b>! The others have won it exactly once."
+    }
+  },
+  {
+    "id": 71,
+    "subject": "International Relations",
+    "topic": "UN Peacekeeping Operations",
+    "difficulty": "Hard",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सूची I को सूची II से सुमेलित कीजिए और सूचियों के नीचे दिए गए कूट का प्रयोग कर उत्तर चुनिए :\n\nसूची I (संयुक्त राष्ट्र शांति-स्थापना अभियान)\nA. यू एन एम आई एल (UNMIL)\nB. एम आई एन यू आर सी ए टी (MINURCAT)\nC. एम आई एन यू एस टी ए एच (MINUSTAH)\nD. यू एन एम आई एस ई टी (UNMISET)\n\nसूची II (अभियान की अवधि)\n1. 2007-2010\n2. 2002-2005\n3. 2003-2018\n4. 2004-2017",
+      "en": "Match List I with List II and select the answer using the code given below the Lists:\n\nList I (UN Peacekeeping Operation)\nA. UNMIL\nB. MINURCAT\nC. MINUSTAH\nD. UNMISET\n\nList II (Period of Operation)\n1. 2007-2010\n2. 2002-2005\n3. 2003-2018\n4. 2004-2017"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "A-3, B-4, C-1, D-2",
+        "en": "A-3, B-4, C-1, D-2"
+      },
+      {
+        "id": "B",
+        "hi": "A-3, B-1, C-4, D-2",
+        "en": "A-3, B-1, C-4, D-2"
+      },
+      {
+        "id": "C",
+        "hi": "A-2, B-1, C-4, D-3",
+        "en": "A-2, B-1, C-4, D-3"
+      },
+      {
+        "id": "D",
+        "hi": "A-2, B-4, C-1, D-3",
+        "en": "A-2, B-4, C-1, D-3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "संयुक्त राष्ट्र के कुछ प्रमुख शांति-स्थापना अभियान (UN Peacekeeping Missions) और उनका कार्यकाल इस प्रकार है:\n- <b>UNMIL (A-3):</b> लाइबेरिया में संयुक्त राष्ट्र मिशन, <b>2003 से 2018</b> तक चला।\n- <b>MINURCAT (B-1):</b> चाड और मध्य अफ्रीकी गणराज्य में मिशन, <b>2007 से 2010</b> तक चला।\n- <b>MINUSTAH (C-4):</b> हैती में स्थिरीकरण मिशन, <b>2004 से 2017</b> तक चला।\n- <b>UNMISET (D-2):</b> पूर्वी तिमोर में सहायता मिशन, <b>2002 से 2005</b> तक चला।\nअतः सही मिलान A-3, B-1, C-4, D-2 है (विकल्प B)।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> जब किसी देश में भयंकर युद्ध होता है, तो 'संयुक्त राष्ट्र' (UN) अपनी शांति-सेना (ब्लू हेलमेट वाले सैनिक) वहाँ भेजता है ताकि लोगों की जान बच सके। यह सवाल पूछ रहा है कि किस देश में यह सेना कब से कब तक रुकी थी। सही मिलान के अनुसार लाइबेरिया (UNMIL) में सेना सबसे लंबे समय (2003 से 2018) तक रही थी।",
+      "en": "The correct matching for the historical UN Peacekeeping Operations and their active periods is:\n- <b>UNMIL (A-3):</b> United Nations Mission in Liberia operated from <b>2003 to 2018</b> to support the implementation of the ceasefire agreement.\n- <b>MINURCAT (B-1):</b> Mission in the Central African Republic and Chad operated briefly from <b>2007 to 2010</b>.\n- <b>MINUSTAH (C-4):</b> UN Stabilisation Mission in Haiti operated from <b>2004 to 2017</b> following the 2004 rebellion.\n- <b>UNMISET (D-2):</b> UN Mission of Support in East Timor operated from <b>2002 to 2005</b>.\nThus, the correct code is A-3, B-1, C-4, D-2.\n\n<b>In simple terms (for a 10-year-old):</b> When a country is torn apart by war, the United Nations sends in special 'Peacekeeper' soldiers wearing blue helmets to stop the fighting and protect innocent people. This question matches the secret code names of these rescue missions to the exact years they happened. For example, UNMIL was their long mission in Liberia from 2003 to 2018!"
+    }
+  },
+  {
+    "id": 72,
+    "subject": "International Relations",
+    "topic": "Regional Groupings - BIMSTEC",
+    "difficulty": "Medium",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सूची I को सूची II से सुमेलित कीजिए और सूचियों के नीचे दिए गए कूट का प्रयोग कर उत्तर चुनिए :\n\nसूची I (बिम्सटेक केंद्र/स्थापना)\nA. बिम्सटेक सांस्कृतिक उद्योग प्रेक्षण-शाला (ऑब्जर्वेटरी)\nB. बिम्सटेक ऊर्जा केंद्र\nC. मौसम और जलवायु के लिए बिम्सटेक केंद्र\nD. बिम्सटेक प्रौद्योगिकी हस्तांतरण केंद्र\n\nसूची II (स्थान)\n1. नोएडा (NOIDA)\n2. बेंगलुरु\n3. कोलंबो\n4. थिम्पू",
+      "en": "Match List I with List II and select the answer using the code given below the Lists:\n\nList I (BIMSTEC Centre/Establishment)\nA. BIMSTEC Cultural Industries Observatory\nB. BIMSTEC Energy Centre\nC. BIMSTEC Centre for Weather and Climate\nD. BIMSTEC Technology Transfer Facility\n\nList II (Location)\n1. NOIDA\n2. Bengaluru\n3. Colombo\n4. Thimphu"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "A-3, B-4, C-1, D-2",
+        "en": "A-3, B-4, C-1, D-2"
+      },
+      {
+        "id": "B",
+        "hi": "A-4, B-1, C-3, D-2",
+        "en": "A-4, B-1, C-3, D-2"
+      },
+      {
+        "id": "C",
+        "hi": "A-4, B-2, C-1, D-3",
+        "en": "A-4, B-2, C-1, D-3"
+      },
+      {
+        "id": "D",
+        "hi": "A-3, B-2, C-1, D-4",
+        "en": "A-3, B-2, C-1, D-4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "बिम्सटेक (BIMSTEC) के सदस्य देशों ने विभिन्न क्षेत्रों में सहयोग के लिए विशेष केंद्र स्थापित किए हैं:\n- <b>A. बिम्सटेक सांस्कृतिक उद्योग प्रेक्षण-शाला:</b> यह भूटान की राजधानी <b>थिम्पू (4)</b> में स्थित है (पारो पहल 2006 के तहत).\n- <b>B. बिम्सटेक ऊर्जा केंद्र:</b> यह भारत में CPRI कैंपस, <b>बेंगलुरु (2)</b> में स्थित है.\n- <b>C. मौसम और जलवायु के लिए बिम्सटेक केंद्र (BCWC):</b> यह NCMRWF, <b>नोएडा (1)</b> (भारत) में स्थित है.\n- <b>D. बिम्सटेक प्रौद्योगिकी हस्तांतरण केंद्र (TTF):</b> यह <b>कोलंबो (3)</b>, श्रीलंका में स्थित है.\nइसलिए सही कूट A-4, B-2, C-1, D-3 (विकल्प C) है।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> 'बिम्सटेक' 7 पड़ोसी देशों का एक ग्रुप है जो मिलकर काम करते हैं। उन्होंने अपने अलग-अलग ऑफिस अलग-अलग शहरों में बनाए हैं। 'मौसम' का ऑफिस भारत के नोएडा में है, 'एनर्जी (बिजली)' का ऑफिस बेंगलुरु में है, 'संस्कृति (Culture)' का ऑफिस पहाड़ों वाले भूटान (थिम्पू) में है, और 'टेक्नोलॉजी' का ऑफिस श्रीलंका के कोलंबो में है!",
+      "en": "The Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) operates specialized centers across its member nations:\n- <b>A. BIMSTEC Cultural Industries Observatory:</b> Located in <b>Thimphu (4)</b>, Bhutan (proposed during the Paro Initiative).\n- <b>B. BIMSTEC Energy Centre (BEC):</b> Housed at the Central Power Research Institute (CPRI) in <b>Bengaluru (2)</b>, India.\n- <b>C. BIMSTEC Centre for Weather and Climate:</b> Located at NCMRWF in <b>NOIDA (1)</b>, India.\n- <b>D. BIMSTEC Technology Transfer Facility (TTF):</b> Situated in <b>Colombo (3)</b>, Sri Lanka.\nThe correct sequence is A-4, B-2, C-1, D-3.\n\n<b>In simple terms (for a 10-year-old):</b> BIMSTEC is a friendly club of 7 countries near the Bay of Bengal. To share their work, they built special offices in different cities! They track the 'Weather' from an office in Noida, India. They work on 'Energy' in Bengaluru, India. They celebrate 'Culture' in Thimphu, Bhutan. And they share cool 'Technology' from Colombo, Sri Lanka!"
+    }
+  },
+  {
+    "id": 73,
+    "subject": "Defense and Security",
+    "topic": "Indian Armed Forces - Organization",
+    "difficulty": "Medium",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा युग्म सही सुमेलित नहीं है ?\n(भारतीय सेना कोर) : (मुख्यालय)",
+      "en": "Which one of the following pairs is not correctly matched ?\n(Indian Army Corps) : (Headquarters)"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "3 कोर : दीमापुर",
+        "en": "3 Corps : Dimapur"
+      },
+      {
+        "id": "B",
+        "hi": "4 कोर : तेजपुर",
+        "en": "4 Corps : Tezpur"
+      },
+      {
+        "id": "C",
+        "hi": "14 कोर : लेह",
+        "en": "14 Corps : Leh"
+      },
+      {
+        "id": "D",
+        "hi": "33 कोर : श्रीनगर",
+        "en": "33 Corps : Srinagar"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "भारतीय सेना के कोर (Corps) और उनके मुख्यालय:\n- <b>3 कोर (III Corps):</b> दीमापुर (नागालैंड) - यह सही है।\n- <b>4 कोर (IV Corps):</b> तेजपुर (असम) - यह सही है।\n- <b>14 कोर (XIV Corps):</b> लेह (लद्दाख) - यह सही है (इसे फायर एंड फ्यूरी कोर भी कहते हैं)।\n- <b>33 कोर (XXXIII Corps):</b> <b>गलत है।</b> 33 कोर का मुख्यालय <b>सुकना (सिलीगुड़ी के पास, पश्चिम बंगाल)</b> में है, न कि श्रीनगर में। श्रीनगर में भारतीय सेना की <b>15 कोर (चिनार कोर)</b> का मुख्यालय है।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> भारतीय सेना बहुत बड़ी है, इसलिए इसे अलग-अलग 'टीमों' (Corps) में बाँटा गया है, और हर टीम का एक हेडक्वार्टर (बेस) होता है। 3, 4 और 14 नंबर की टीमों के बेस बिल्कुल सही लिखे हैं। लेकिन 33 नंबर की टीम का बेस श्रीनगर में नहीं, बल्कि पश्चिम बंगाल के सुकना में है। श्रीनगर में तो 15 नंबर की टीम (चिनार कोर) बैठती है!",
+      "en": "Indian Army Corps and their respective Headquarters:\n- <b>3 Corps (Spear Corps):</b> Dimapur, Nagaland - Correct.\n- <b>4 Corps (Gajraj Corps):</b> Tezpur, Assam - Correct.\n- <b>14 Corps (Fire and Fury Corps):</b> Leh, Ladakh - Correct.\n- <b>33 Corps (Trishakti Corps):</b> <b>Incorrectly matched.</b> Its headquarters is located in <b>Sukna (near Siliguri, West Bengal)</b>, not Srinagar. The headquarters in Srinagar belongs to the legendary <b>15 Corps (Chinar Corps)</b>.\n\n<b>In simple terms (for a 10-year-old):</b> The Indian Army is massive, so it is divided into huge groups called 'Corps', each with its own secret base (Headquarters). Teams 3, 4, and 14 are matched with their correct bases. But Team 33's base is actually in West Bengal, not in Srinagar! The base in Srinagar belongs to Team 15."
+    }
+  },
+  {
+    "id": 74,
+    "subject": "Governance",
+    "topic": "Government Schemes and Policies",
+    "difficulty": "Hard",
+    "type": "statement",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इसके कार्यान्वयन की अवधि 1 अप्रैल, 2021 से 31 मार्च, 2026 है",
+        "en": "The period of its implementation is 1st April, 2021 to 31st March, 2026."
+      },
+      {
+        "id": 2,
+        "hi": "संशोधित RGSA का मुख्य उद्देश्य सतत विकास लक्ष्यों की प्राप्ति हेतु पंचायती राज संस्थाओं की शासन क्षमताएँ विकसित करना है",
+        "en": "The key objective of the Revamped RGSA is to develop the governance capabilities of the Panchayati Raj Institutions to deliver on the Sustainable Development Goals."
+      },
+      {
+        "id": 3,
+        "hi": "सभी राज्यों और संघ राज्य क्षेत्रों के लिए संशोधित RGSA हेतु केंद्रीय वित्त पोषण का हिस्सा 100% है",
+        "en": "The share of the Central funding for the Revamped RGSA is 100% for all States and Union Territories."
+      }
+    ],
+    "question": {
+      "hi": "संशोधित राष्ट्रीय ग्राम स्वराज अभियान (RGSA) के संबंध में, निम्नलिखित में से कौन-सा/कौन-से कथन सही है/हैं?\nनीचे दिए गए कूट का प्रयोग कर उत्तर चुनिए :",
+      "en": "Which of the following statements with respect to the Revamped Rashtriya Gram Swaraj Abhiyan (RGSA) is/are correct?\nSelect the answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 3",
+        "en": "1 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "<b>कथन 1 गलत है:</b> संशोधित राष्ट्रीय ग्राम स्वराज अभियान (Revamped RGSA) की कार्यान्वयन अवधि <b>1 अप्रैल 2022 से 31 मार्च 2026</b> तक है, 2021 से नहीं।\n<b>कथन 2 सही है:</b> इस योजना का मुख्य उद्देश्य पंचायतों (PRIs) को इतना सक्षम बनाना है कि वे अपने गाँवों में 'सतत विकास लक्ष्यों' (SDGs) जैसे गरीबी मिटाना, स्वास्थ्य और पानी की व्यवस्था को खुद लागू कर सकें।\n<b>कथन 3 गलत है:</b> इसमें 100% फंडिंग सिर्फ <b>केंद्र शासित प्रदेशों (UTs)</b> के लिए है। सामान्य राज्यों के लिए केंद्र और राज्य का हिस्सा 60:40 है, और पहाड़ी/पूर्वोत्तर राज्यों के लिए यह 90:10 है।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> 'ग्राम स्वराज अभियान' का मतलब है गाँवों की पंचायत (सरपंचों) को इतना होशियार और ताकतवर बनाना कि वे अपने गाँव को साफ़, हरा-भरा और खुशहाल बना सकें (यह बात सही है)। लेकिन इस काम के लिए सारा पैसा केंद्र सरकार नहीं देती; राज्य सरकारों को भी अपनी जेब से कुछ पैसे मिलाने पड़ते हैं। और यह नई योजना 2022 में शुरू हुई थी, 2021 में नहीं।",
+      "en": "<b>Statement 1 is incorrect:</b> The Cabinet approved the Revamped Rashtriya Gram Swaraj Abhiyan (RGSA) for implementation from <b>01.04.2022 to 31.03.2026</b> (co-terminus with the 15th Finance Commission period), not starting in 2021.\n<b>Statement 2 is correct:</b> The primary objective of the Revamped RGSA is to empower and develop the governance capabilities of Panchayati Raj Institutions (PRIs) so they can effectively localize and achieve the Sustainable Development Goals (SDGs).\n<b>Statement 3 is incorrect:</b> The Central funding is NOT 100% for all. The funding pattern is <b>60:40</b> for normal states, <b>90:10</b> for Northeastern and Himalayan states, and 100% only for Union Territories.\n\n<b>In simple terms (for a 10-year-old):</b> The RGSA is a government plan to teach village leaders (the Panchayats) how to rule better so their villages can be clean, healthy, and happy! This part is totally true. But the central government doesn't pay for the WHOLE thing; state governments have to chip in some money too. Also, this new plan started in 2022, not 2021."
+    }
+  },
+  {
+    "id": 75,
+    "subject": "International Relations",
+    "topic": "International Organizations - European Union",
+    "difficulty": "Easy",
+    "type": "statement",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बेलारूस",
+        "en": "Belarus"
+      },
+      {
+        "id": 2,
+        "hi": "पोलैंड",
+        "en": "Poland"
+      },
+      {
+        "id": 3,
+        "hi": "जर्मनी",
+        "en": "Germany"
+      },
+      {
+        "id": 4,
+        "hi": "स्विट्ज़रलैंड",
+        "en": "Switzerland"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-से देश यूरोपीय संघ के सदस्य हैं?\nनीचे दिए गए कूट का प्रयोग कर उत्तर चुनिए :",
+      "en": "Which of the following countries are members of the European Union?\nSelect the answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 2 और 4",
+        "en": "1, 2 and 4"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 4",
+        "en": "1 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "यूरोपीय संघ (European Union - EU) यूरोप के 27 देशों का एक राजनीतिक और आर्थिक समूह है।\n- <b>जर्मनी (3)</b> और <b>पोलैंड (2)</b> यूरोपीय संघ (EU) के प्रमुख पूर्ण सदस्य हैं।\n- <b>बेलारूस (1)</b> रूस का करीबी सहयोगी है और EU का सदस्य नहीं है।\n- <b>स्विट्ज़रलैंड (4)</b> यूरोप के बिल्कुल बीच में होने के बावजूद, अपनी तटस्थता (Neutrality) की नीति के कारण EU का सदस्य <b>नहीं</b> है (हालांकि यह शेंगेन क्षेत्र का हिस्सा है)।\nअतः सही उत्तर 2 और 3 है।\n\n<b>सरल शब्दों में (10 साल के बच्चे के लिए):</b> 'यूरोपीय संघ' यूरोप के देशों का एक बड़ा ग्रुप है जहाँ वे एक साथ मिलकर व्यापार करते हैं। 'जर्मनी' और 'पोलैंड' इस ग्रुप के पक्के सदस्य हैं। लेकिन 'स्विट्ज़रलैंड' (जहाँ खूब बर्फ गिरती है) और 'बेलारूस' इस ग्रुप में शामिल नहीं हैं। स्विट्ज़रलैंड को अकेले रहना और किसी ग्रुप में शामिल होना पसंद नहीं है!",
+      "en": "The European Union (EU) is a political and economic union of 27 member states located primarily in Europe.\n- <b>Germany (3)</b> is a founding member of the EU, and <b>Poland (2)</b> joined the EU in 2004.\n- <b>Belarus (1)</b> is a close ally of Russia and is NOT an EU member.\n- <b>Switzerland (4)</b>, despite being located in the heart of Europe, fiercely maintains its historic neutrality and is <b>NOT</b> a member of the EU (though it participates in the single market through bilateral treaties).\nTherefore, only Poland and Germany are EU members.\n\n<b>In simple terms (for a 10-year-old):</b> The European Union is like a big team of 27 countries in Europe that share the same rules and often the same money (the Euro). Germany and Poland are definitely on the team. But Switzerland (famous for chocolates and mountains) likes to stay completely independent and refuses to join the team. Belarus isn't on the team either."
+    }
   }
 ]
