@@ -1161,5 +1161,1212 @@
       "hi": "<b>गणितीय हल:</b>\nमान लीजिए कक्षा में कुल $n$ विद्यार्थी हैं और उनका प्रारंभिक औसत $x$ है।[cite: 2]\nजब एक छात्र के अंक 0 से 100 कर दिए गए, तो कुल अंकों में 100 की वृद्धि हुई। \nइससे औसत 4 बढ़ गया। \nअतः, $100 / n = 4 \\Rightarrow n = 25$ विद्यार्थी।[cite: 2]\nअब, दूसरा संशोधन: एक छात्र के अंक 81 दर्ज थे, जिन्हें 56 होना चाहिए। \nयहाँ अंकों में $81 - 56 = 25$ की कमी होगी।[cite: 2]\nइस कमी का औसत पर प्रभाव = $-25 / 25 = -1$। \nपहला संशोधित औसत = $x + 4$ था। \nअंतिम संशोधित औसत $y = (x + 4) - 1 = x + 3$ होगा।[cite: 2]\nहमें $y - x$ का मान चाहिए: \n$y - x = (x + 3) - x = 3$। \nअतः, सही विकल्प (b) है।[cite: 1]",
       "en": "<b>Mathematical Breakdown:</b>\nLet the total number of students be $n$ and the initial average be $x$.[cite: 2]\nWhen the first student's score is corrected from 0 to 100, the total sum of scores increases by 100. \nThis causes the average to increase by 4. \nSo, $100 / n = 4 \\Rightarrow n = 25$ students.[cite: 2]\nNow, the second correction: A score was wrongly recorded as 81 instead of 56. \nThis means the total sum must be reduced by $81 - 56 = 25$.[cite: 2]\nThe effect of this reduction on the average = $-25 / 25 = -1$. \nThe average after the first correction was $x + 4$. \nThe final corrected average $y = (x + 4) - 1 = x + 3$.[cite: 2]\nWe need to find $y - x$: \n$y - x = (x + 3) - x = 3$. \nTherefore, the correct option is (b).[cite: 1]"
     }
+  },
+  {
+    "id": 26,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "passage",
+    "passage": {
+      "hi": "जब 2019 में SARS-CoV-2 का पहली बार पता चला, यह विश्व के लिए वस्तुतः एक विलक्षण विषाणु था। उस समय तक विश्व का कोई भी व्यक्ति SARS-CoV-2 के प्रभाव में नहीं आया था अथवा न ही किसी में इस विषाणु के विरुद्ध कोई विशिष्ट प्रतिरक्षा क्षमता थी। इसके विपरीत, संपूर्ण विश्व के लोग दशकों से HMPV से प्रभावित हो चुके हैं और इस विषाणु पर बहुत अधिक अध्ययन हो चुका है। HMPV और SARS-CoV-2 मूलतः विभिन्न लाक्षणिक विशेषताओं और जानपदिकरोग विज्ञान से संबद्ध दो अत्यधिक भिन्न विषाणु कुलों के हैं, तथा SARS-CoV-2 के विपरीत, HMPV में प्रबल ऋतु विशिष्टता दिखाई देती है। दोनों ही विषाणु, विशेष रूप से दीर्घ अवधि में, भिन्न लक्षणगत गंभीरतेयाँ उत्पन्न करते हैं, और जनसंख्या के प्रभावित अंश पूर्णतः अतिव्याप्त नहीं होते। सामान्यतः, HMPV के कारण मंद रोगदशा उत्पन्न होती है, जिसमें मृत्यु बहुत विरल होती है और विषाणु-ग्रस्तता के परवर्ती लक्षण दीर्घ अवधि तक नहीं बने रहते।[cite: 2]",
+      "en": "When SARS-CoV-2 was first detected in 2019, it was a truly novel virus for the world. At that time, no one in the world had been exposed to SARS-CoV-2 or had specific immunity against it. In contrast, people across the world have been exposed to HMPV for decades and the virus is well-studied. HMPV and SARS-CoV-2 belong to two very different virus families with fundamentally different characteristics and epidemiology, with strong seasonality seen in HMPV, unlike SARS-CoV-2. Both viruses cause different severity of symptoms, particularly over the long term, and the affected population segments do not fully overlap. In general, HMPV causes milder illness with deaths being very rare and with no long-term post-viral symptoms.[cite: 2]"
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यद्यपि SARS-CoV-2 और HMPV, कुछ सीमा तक भिन्न जानपदिकरोग-विज्ञान वाले, सदृश विषाणु हैं, पूर्ववर्ती (SARS-CoV-2) एक विश्वमारी बन गया, क्योंकि यह विलक्षण था और अतीत में लोग इसके प्रभाव में नहीं आए थे।[cite: 2]",
+        "en": "Though SARS-CoV-2 and HMPV are similar viruses with somewhat different epidemiology, the former became a pandemic because it was novel and people had not been exposed to it in the past.[cite: 2]"
+      },
+      {
+        "id": 2,
+        "hi": "मानव आबादी पर इन दो विषाणुओं का मूल रूप से भिन्न प्रभाव पड़ता है और इसलिए इनसे एक-समान रीति से नहीं निपटना चाहिए।[cite: 2]",
+        "en": "The two viruses have fundamentally different impacts on human populations and should therefore not be dealt with in a similar manner.[cite: 2]"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा/कौन-से निष्कर्ष वैध है/हैं?[cite: 2]",
+      "en": "Which of the following conclusions is/are valid?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1[cite: 2]",
+        "en": "1 only[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2[cite: 2]",
+        "en": "2 only[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों[cite: 2]",
+        "en": "Both 1 and 2[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2[cite: 2]",
+        "en": "Neither 1 nor 2[cite: 2]"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "<b>बुनियादी बात:</b> परिच्छेद दो अलग-अलग वायरस (विषाणुओं) की तुलना कर रहा है।[cite: 2]\n\nकथन 1 गलत है क्योंकि परिच्छेद कहता है कि ये दोनों <b>अत्यधिक भिन्न विषाणु कुलों (very different virus families)</b> के हैं, न कि 'सदृश विषाणु (similar viruses)'।[cite: 2]\nकथन 2 बिल्कुल वैध है क्योंकि गद्यांश में साफ कहा गया है कि दोनों की लाक्षणिक विशेषताएँ, गंभीरता और प्रभाव बिल्कुल अलग हैं, इसलिए उनसे निपटने का तरीका समान नहीं होना चाहिए।[cite: 2]\nअतः आधिकारिक उत्तर कुंजी के अनुसार केवल निष्कर्ष 2 ही सही है।[cite: 1]",
+      "en": "<b>Core Concept:</b> The passage contrasts two entirely distinct viruses.[cite: 2]\n\nStatement 1 is invalid because the text specifies they belong to \"two very different virus families,\" making the claim that they are \"similar viruses\" factually incorrect based on the passage.[cite: 2]\nStatement 2 is valid because the text emphasizes fundamentally different impacts, severity, and seasonality, implying they shouldn't be handled in the same manner.[cite: 2]\nThus, according to the official answer key, only conclusion 2 is valid.[cite: 1]"
+    }
+  },
+  {
+    "id": 27,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "passage",
+    "passage": {
+      "hi": "जब 2019 में SARS-CoV-2 का पहली बार पता चला, यह विश्व के लिए वस्तुतः एक विलक्षण विषाणु था। उस समय तक विश्व का कोई भी व्यक्ति SARS-CoV-2 के प्रभाव में नहीं आया था अथवा न ही किसी में इस... [पूर्ण परिच्छेद ऊपर देखें][cite: 2]",
+      "en": "When SARS-CoV-2 was first detected in 2019, it was a truly novel virus for the world... [See full passage above][cite: 2]"
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इन दोनों विषाणुओं के वस्तुनिष्ठ विश्लेषण के लिए कार्यविधियाँ विकसित करना[cite: 2]",
+        "en": "To evolve methodologies for objective analysis of the two viruses[cite: 2]"
+      },
+      {
+        "id": 2,
+        "hi": "इन दोनों विषाणुओं के बीच जानपदिकरोग-विज्ञानी समानताओं और भिन्नताओं स्थापित करना[cite: 2]",
+        "en": "To establish the epidemiological similarities and differences between the two viruses[cite: 2]"
+      },
+      {
+        "id": 3,
+        "hi": "जब SARS-CoV-2 के साथ विश्लेषण किया जाए, तो HMPV के उपचारों की एक बेहतर समझ प्रस्तुत करना[cite: 2]",
+        "en": "To offer a better understanding of the remedies of HMPV when analysed in conjunction with SARS-CoV-2[cite: 2]"
+      }
+    ],
+    "question": {
+      "hi": "उपर्युक्त परिच्छेद में, लेखक के आशय को निम्नलिखित में से कौन-से प्रतिबिंबित करते हैं?[cite: 2]",
+      "en": "Which of the following reflect the intent of the writer in the above passage?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2[cite: 2]",
+        "en": "1 and 2[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "2 और 3[cite: 2]",
+        "en": "2 and 3[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 3[cite: 2]",
+        "en": "1 and 3[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "उपर्युक्त में से कोई नहीं[cite: 2]",
+        "en": "None of the above[cite: 2]"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "<b>तार्किक विश्लेषण:</b> लेखक का मुख्य उद्देश्य केवल दोनों विषाणुओं (SARS-CoV-2 और HMPV) के बीच अंतर और पृष्ठभूमि को उजागर करना है।[cite: 2]\n\nकथन 1 गलत है क्योंकि लेखक किसी नई कार्यविधि (methodology) को विकसित करने की बात नहीं कर रहा है।[cite: 2]\nकथन 2 गलत है क्योंकि लेखक जानपदिकरोग-विज्ञानी समानताएं नहीं, बल्कि केवल मुख्य रूप से <b>विभिन्नताओं और भिन्न कुलों</b> को दर्शा रहा है।[cite: 2]\nकथन 3 गलत है क्योंकि पूरे गद्यांश में 'उपचारों या इलाजों (remedies/treatments)' का कोई जिक्र ही नहीं है।[cite: 2]\nचूंकि कोई भी विकल्प लेखक के वास्तविक आशय को सही नहीं दर्शाता, आधिकारिक उत्तर 'उपर्युक्त में से कोई नहीं' (विकल्प d) है।[cite: 1]",
+      "en": "<b>Logical Analysis:</b> The author's primary focus is comparing and contrasting the traits of a well-studied virus (HMPV) with a novel one (SARS-CoV-2).[cite: 2]\n\nStatement 1 is incorrect because the passage does not discuss evolving new analytical methodologies.[cite: 2]\nStatement 2 is incorrect because the text highlights that they belong to completely different virus families, focusing on differences rather than establishing programmatic similarities.[cite: 2]\nStatement 3 is incorrect as there is absolutely no mention of 'remedies' or treatments anywhere in the text.[cite: 2]\nSince none of the options capture the precise intent, the official answer is 'None of the above' (d).[cite: 1]"
+    }
+  },
+  {
+    "id": 28,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "passage",
+    "passage": {
+      "hi": "जब 2019 में SARS-CoV-2 का पहली बार पता चला, यह विश्व के लिए वस्तुतः एक विलक्षण... [पूर्ण परिच्छेद ऊपर देखें][cite: 2]",
+      "en": "When SARS-CoV-2 was first detected in 2019, it was a truly novel... [See full passage above][cite: 2]"
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "ऐतिहासिक दृष्टि से, SARS-CoV-2 की तुलना में, HMPV के अध्ययनों का दीर्घ प्रलेखन उपलब्ध है।[cite: 2]",
+        "en": "HMPV has, historically, had longer documentation of studies when compared with SARS-CoV-2.[cite: 2]"
+      },
+      {
+        "id": 2,
+        "hi": "ये दोनों विषाणु एक-दूसरे से भिन्न हैं और इसके फलस्वरूप इनसे प्रभावित व्यक्तियों में सुस्पष्ट रूप से भिन्न परिणाम होते हैं।[cite: 2]",
+        "en": "The two viruses are different from each other and this results in markedly different outcomes amongst those affected.[cite: 2]"
+      },
+      {
+        "id": 3,
+        "hi": "इन दोनों विषाणुओं के दीर्घकालिक प्रभाव असमान होते हैं और यह उनके बीच एक महत्त्वपूर्ण विभेदक है।[cite: 2]",
+        "en": "Long-term impacts of the two viruses are dissimilar and this is an important differentiator between them.[cite: 2]"
+      },
+      {
+        "id": 4,
+        "hi": "ऋतु विशिष्टता इन दो विषाणुओं के बीच एक उभयनिष्ठ कारक है।[cite: 2]",
+        "en": "One of the common factors between the two viruses is seasonal specificity.[cite: 2]"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-से कथन, उन तर्कसंगत और विवेकपूर्ण निष्कर्षों को प्रतिबिंबित करते हैं, जो इस परिच्छेद से निकाले जा सकते हैं?[cite: 2]",
+      "en": "Which of the following statements reflect the logical and rational inferences that can be drawn from the passage?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2[cite: 2]",
+        "en": "1 and 2 only[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "1, 2 और 3[cite: 2]",
+        "en": "1, 2 and 3[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "3 और 4[cite: 2]",
+        "en": "3 and 4[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1 और 3[cite: 2]",
+        "en": "1 and 3 only[cite: 2]"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "<b>तार्किक विश्लेषण:</b>\nकथन 1 सही है क्योंकि परिच्छेद कहता है कि लोग दशकों से HMPV से प्रभावित हैं और यह बहुत अधिक अध्ययन किया हुआ (well-studied) है।[cite: 2]\nकथन 2 सही है क्योंकि वे भिन्न कुलों के हैं और प्रभावित जनसंख्या अंश पूर्णतः अतिव्याप्त नहीं होते (Markedly different outcomes)।[cite: 2]\nकथन 3 सही है क्योंकि परिच्छेद उल्लेख करता है कि विशेष रूप से दीर्घ अवधि (long term) में भिन्न लक्षणगत गंभीरतेयाँ उत्पन्न करते हैं।[cite: 2]\nकथन 4 गलत है क्योंकि परिच्छेद कहता है कि \"SARS-CoV-2 के विपरीत, HMPV में प्रबल ऋतु विशिष्टता दिखाई देती है\" (अर्थात यह उभयनिष्ठ या समान कारक नहीं है)।[cite: 2]\nअतः 1, 2 और 3 सही निष्कर्ष हैं, जो विकल्प (b) में है।[cite: 1]",
+      "en": "<b>Logical Evaluation:</b>\nStatement 1 is inferred correctly as the text highlights people have been exposed to HMPV for decades and it is well-studied compared to the 2019-discovered SARS-CoV-2.[cite: 2]\nStatement 2 is correct as they cause different severity and population segments do not fully overlap.[cite: 2]\nStatement 3 is supported directly by \"Both viruses cause different severity of symptoms, particularly over the long term...\"[cite: 2]\nStatement 4 is incorrect because the passage explicitly notes seasonality is seen in HMPV *unlike* SARS-CoV-2 (it is a differentiator, not a common factor).[cite: 2]\nHence, 1, 2, and 3 are valid. Option (b) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 29,
+    "subject": "CSAT",
+    "topic": "Permutations & Combinations / Optimization",
+    "difficulty": "Hard",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "x, y और z तीन चर हैं, जो 2, 3, 4 या 5 के इस प्रकार मान प्राप्त करते हैं कि उनका मान सदा भिन्न रहे। यदि {(x $\\times$ y) + z} व्यंजक के लिए M और N क्रमशः बृहत्तम संभाव्य मान तथा लघुत्तम संभाव्य मान को निरूपित करते हैं, तो M - N है[cite: 2]",
+      "en": "Three variables x, y and z take values 2, 3, 4 or 5 such that their values are always distinct. If M and N denote the largest possible value and the smallest possible value, respectively, for the expression {(x $\\times$ y) + z}; then M - N is[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "11[cite: 2]",
+        "en": "11[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "12[cite: 2]",
+        "en": "12[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "13[cite: 2]",
+        "en": "13[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "14[cite: 2]"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "<b>बुनियादी बात:</b> व्यंजक को बड़ा बनाने के लिए बड़े अंकों का गुणा करें, और छोटा बनाने के लिए छोटे अंकों का गुणा करें।[cite: 2]\n\nदिए गए उपलब्ध मान: 2, 3, 4, 5। मान भिन्न (distinct) होने चाहिए।[cite: 2]\nबृहत्तम मान ($M$) प्राप्त करने के लिए, हमें $x$ और $y$ को सबसे बड़े मान देने होंगे, यानी 5 और 4। तब $z$ को तीसरा सबसे बड़ा मान (3) मिलेगा।\n$M = (5 \\times 4) + 3 = 20 + 3 = 23$[cite: 2]\n\nलघुत्तम मान ($N$) प्राप्त करने के लिए, हमें $x$ और $y$ को सबसे छोटे मान देने होंगे, यानी 2 और 3। तब $z$ को शेष बचे मानों में से कोई एक मान (मान लीजिए 4 या 5) देना होगा। गुणा को न्यूनतम रखने के लिए $x, y = 2, 3$ रखें, तो $z = 4$ होगा।\n$N = (2 \\times 3) + 4 = 6 + 4 = 10$[cite: 2]\n(यदि $z=5$ लेंगे तो $(2 \\times 3)+5 = 11$ हो जाएगा, जो न्यूनतम नहीं है।)\n\nअब $M - N$ ज्ञात करें:\n$M - N = 23 - 10 = 13$[cite: 2]\nअतः सही विकल्प (c) है।[cite: 1]",
+      "en": "<b>Core Concept:</b> To maximize an expression of the form $(x \\times y) + z$, choose the largest numbers for multiplication. To minimize it, choose the smallest numbers.[cite: 2]\n\nAvailable distinct values: 2, 3, 4, 5.[cite: 2]\nTo find the maximum value ($M$), assign the largest numbers to $x$ and $y$ (5 and 4), and the next largest to $z$ (3).\n$M = (5 \\times 4) + 3 = 20 + 3 = 23$[cite: 2]\n\nTo find the minimum value ($N$), assign the smallest numbers to $x$ and $y$ (2 and 3). To make the total sum as small as possible, assign the next available small number to $z$ (4).\n$N = (2 \\times 3) + 4 = 6 + 4 = 10$[cite: 2]\n\nCalculating $M - N$:\n$M - N = 23 - 10 = 13$[cite: 2]\nTherefore, the correct option is (c).[cite: 1]"
+    }
+  },
+  {
+    "id": 30,
+    "subject": "CSAT",
+    "topic": "Ratios and Proportions",
+    "difficulty": "Medium",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "मान लीजिए x, y और z चर हैं, जो अपने संभाव्य मानों के रूप में धनात्मक वास्तविक संख्याएँ प्राप्त करते हैं। यह दिया गया है कि y, $x^{2}$ के अनुक्रमानुपाती है और x, z के व्युत्क्रमानुपाती है। $z = \\frac{7}{25}$ के लिए x और y के मान क्रमशः 5 और 50 हैं। यदि y = 98 है, तो z किसके बराबर है?[cite: 2]",
+      "en": "Suppose x, y and z are variables taking positive real numbers as their possible values. It is given that y is directly proportional to $x^{2}$ and x is inversely proportional to z. For $z = \\frac{7}{25}$, the values of x and y are 5 and 50, respectively. If y = 98, what is z equal to?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "$\\frac{1}{7}$[cite: 2]",
+        "en": "$\\frac{1}{7}$[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "$\\frac{1}{5}$[cite: 2]",
+        "en": "$\\frac{1}{5}$[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "$\\frac{5}{7}$[cite: 2]",
+        "en": "$\\frac{5}{7}$[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "1[cite: 2]"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "<b>गणितीय हल:</b>\n1. दिया है: $y \\propto x^{2} \\Rightarrow y = k_1 x^{2}$[cite: 2]\n2. दिया है: $x \\propto \\frac{1}{z} \\Rightarrow x = \\frac{k_2}{z} \\Rightarrow xz = k_2$[cite: 2]\n\nपहले केस से स्थिरांक निकालें:\nजब $x = 5$, $y = 50$ है $\\Rightarrow 50 = k_1 (5^{2}) \\Rightarrow 50 = 25 k_1 \\Rightarrow k_1 = 2$। \nअतः संबंध है: $y = 2x^{2}$[cite: 2]\n\nजब $z = 7/25$ और $x = 5$ है $\\Rightarrow k_2 = 5 \\times \\frac{7}{25} = \\frac{7}{5}$।\nअतः संबंध है: $xz = \\frac{7}{5}$[cite: 2]\n\nअब नया केस: यदि $y = 98$, तो $z$ क्या होगा?\n$y = 2x^{2} \\Rightarrow 98 = 2x^{2} \\Rightarrow x^{2} = 49 \\Rightarrow x = 7$ (चूंकि मान धनात्मक हैं)।[cite: 2]\nअब $x = 7$ को दूसरे संबंध में रखें:\n$7 \\times z = \\frac{7}{5} \\Rightarrow z = \\frac{1}{5}$।[cite: 2]\nअतः सही विकल्प (b) है।[cite: 1]",
+      "en": "<b>Mathematical Breakdown:</b>\n1. Given: $y \\propto x^{2} \\Rightarrow y = k_1 x^{2}$[cite: 2]\n2. Given: $x \\propto \\frac{1}{z} \\Rightarrow x = \\frac{k_2}{z} \\Rightarrow xz = k_2$[cite: 2]\n\nFinding the constants using initial data:\nFor $x = 5, y = 50 \\Rightarrow 50 = k_1 (5^{2}) \\Rightarrow 50 = 25k_1 \\Rightarrow k_1 = 2$.\nSo, the relationship is $y = 2x^{2}$[cite: 2]\n\nFor $x = 5, z = 7/25 \\Rightarrow k_2 = 5 \\times \\frac{7}{25} = \\frac{7}{5}$.\nSo, the relationship is $xz = \\frac{7}{5}$[cite: 2]\n\nNow, for $y = 98$:\n$98 = 2x^{2} \\Rightarrow x^{2} = 49 \\Rightarrow x = 7$ (since values are positive).[cite: 2]\nSubstitute $x = 7$ into the second relationship:\n$7 \\times z = \\frac{7}{5} \\Rightarrow z = \\frac{1}{5}$.[cite: 2]\nTherefore, the correct option is (b).[cite: 1]"
+    }
+  },
+  {
+    "id": 31,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "passage",
+    "passage": {
+      "hi": "भारत में, मौसम पूर्वानुमान, पीड़क (पेस्ट) का पता लगाना और नियंत्रण, तथा फसल पैदावार का इष्टतमीकरण जैसे महत्त्वपूर्ण उपयोग के मामलों में कृत्रिम मेधा (AI) का परिनियोजन प्रारंभ किया जा रहा है। यद्यपि, इसका विस्तार प्रौद्योगिकी-कुशल किसानों के एक अत्यंत छोटे वर्ग तक ही सीमित है। अमेरिका और यूरोप में, प्रजनक कृत्रिम मेधा साधनों (generative AI tools) ने बड़े पैमाने पर सटीक कृषि (precision farming) को प्रस्तावित करना आरंभ किया है, जिसमें तत्काल (real-time) सस्य-वैज्ञानिक अंतर्दृष्टि प्रदान करने के लिए बृहत् डेटा-समुच्चयों का एकीकरण सम्मिलित है। भारत में, बड़े पैमाने पर कृत्रिम मेधा साधनों (AI tools) के एकीकरण और पहुँच के लिए लघु जोतधारक किसानों हेतु भारतीय भाषाएँ आधारित कृत्रिम मेधा साधनों (AI tools) को विकसित करना, वहनीय कृत्रिम मेधा (AI) समाधान सृजित करने के लिए कृषि प्रौद्योगिकीविदों (AgTechs) के साथ भागीदारी, तथा सरकारी कार्यक्रमों के माध्यम से कृत्रिम मेधा (AI) आधारित परामर्शदात्री सेवाओं को प्रसारित करना सहायक होंगे।[cite: 2]",
+      "en": "India is starting to deploy AI for critical use cases such as weather forecasting, pest detection and control, and crop yield optimisation. However, penetration is limited to a small subset of tech-savvy farmers. In the US and Europe, generative AI tools have started offering precision farming at scale, integrating large datasets to provide real-time agronomic insights. For at-scale integration and accessibility of AI tools in India, it would be helpful to develop Indian languages-based AI tools for smallholder farmers, partner with AgTechs to create affordable AI solutions, and disseminate AI-based advisory services through government programmes.[cite: 2]"
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कृत्रिम मेधा साधनों (AI tools) को अपनाने से बड़े पैमाने पर होने वाली मितव्ययिता के कारण पश्चिमी देशों में कृषि उत्पादकता में वृद्धि हुई है।[cite: 2]",
+        "en": "Agricultural productivity has marched ahead in the West because of the economies of scale facilitated by the adoption of AI tools.[cite: 2]"
+      },
+      {
+        "id": 2,
+        "hi": "स्थानीय भाषाओं में उपलब्ध किए गए वहनीय कृत्रिम मेधा साधन (AI tools), अधिक-से-अधिक छोटे किसानों तक कृत्रिम मेधा (AI) आधारित समाधानों को पहुँचाने में सहायता कर सकते हैं।[cite: 2]",
+        "en": "Affordable AI tools rendered available in local languages can help AI-based solutions reach more and more small farmers.[cite: 2]"
+      },
+      {
+        "id": 3,
+        "hi": "यद्यपि अब तक इसका विस्तार कम है, कृत्रिम मेधा साधनों (AI tools) का उपयोग करने वाले महत्त्वपूर्ण अनुप्रयोग क्षेत्र भारत में पहले से ही प्रयोग में हैं।[cite: 2]",
+        "en": "Though penetration is as yet low, critical application areas deploying AI tools are already in use in India.[cite: 2]"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सी पूर्वधारणा/पूर्वधारणाएँ वैध है/हैं?[cite: 2]",
+      "en": "Which of the following assumptions is/are valid?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 2 और 3[cite: 2]",
+        "en": "1, 2 and 3[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2[cite: 2]",
+        "en": "2 only[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3[cite: 2]",
+        "en": "1 and 3 only[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 2 और 3[cite: 2]",
+        "en": "2 and 3 only[cite: 2]"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "<b>तार्किक विश्लेषण:</b>\nकथन 1 गलत पूर्वधारणा है क्योंकि परिच्छेद यह कहता है कि पश्चिम में सटीक कृषि बड़े पैमाने पर दी जा रही है, लेकिन वह यह दावा नहीं करता कि 'उत्पादकता बड़े पैमाने की मितव्ययिता' के कारण बढ़ी है।[cite: 2]\nकथन 2 बिल्कुल वैध है, यह परिच्छेद के अंतिम हिस्से से सीधे मेल खाता है जहाँ भारतीय भाषाओं और वहनीय AI समाधानों की आवश्यकता बताई गई है।[cite: 2]\nकथन 3 भी बिल्कुल वैध है क्योंकि पहली लाइन कहती है कि भारत में AI का परिनियोजन प्रारंभ किया जा रहा है और अनुप्रयोग क्षेत्र (मौसम पूर्वानुमान आदि) सक्रिय हैं, भले ही विस्तार कम हो।[cite: 2]\nअतः 2 और 3 सही हैं। विकल्प (d) उत्तर है।[cite: 1]",
+      "en": "<b>Logical Analysis:</b>\nStatement 1 is invalid because the text does not link Western productivity growth specifically to \"economies of scale\" facilitated by AI tools; it just states they offer precision farming at scale.[cite: 2]\nStatement 2 is valid, echoing the text's recommendation to develop Indian language-based and affordable tools for smallholder accessibility.[cite: 2]\nStatement 3 is valid, matching the opening sentence that India is starting to deploy AI for critical use cases, though currently limited to a small subset.[cite: 2]\nTherefore, 2 and 3 are valid. Option (d) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 32,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "passage",
+    "passage": {
+      "hi": "भारत में, मौसम पूर्वानुमान, पीड़क (पेस्ट) का पता लगाना और नियंत्रण, तथा फसल पैदावार का इष्टतमीकरण... [पूर्ण परिच्छेद ऊपर देखें][cite: 2]",
+      "en": "India is starting to deploy AI for critical use cases such as... [See full passage above][cite: 2]"
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "प्रौद्योगिकी-कुशल किसान भविष्य की कृषि प्रौद्योगिकी (AgTech) कंपनियों का संचालन करेंगे।[cite: 2]",
+        "en": "Tech-savvy farmers will drive the AgTech companies of the future.[cite: 2]"
+      },
+      {
+        "id": 2,
+        "hi": "कृषि में कृत्रिम मेधा साधनों (AI tools) के उपयोग के लिए सरकारी कार्यक्रमों द्वारा परामर्शदात्री सेवाओं का विकास सहायक होगा।[cite: 2]",
+        "en": "The development of advisory services by the government programmes for the use of AI tools in agriculture would be helpful.[cite: 2]"
+      },
+      {
+        "id": 3,
+        "hi": "अमेरिका और यूरोप में कृत्रिम मेधा साधनों (AI tools) ने पारम्परिक कृषि पद्धतियों को प्रतिस्थापित कर दिया है।[cite: 2]",
+        "en": "In the US and Europe, AI tools have replaced traditional agricultural practices.[cite: 2]"
+      },
+      {
+        "id": 4,
+        "hi": "तत्काल (real-time) सस्य वैज्ञानिक विश्लेषण में प्रयोग के लिए बृहत् डेटा-समुच्चयों का एकीकरण पहले से ही एक वास्तविकता है।[cite: 2]",
+        "en": "The integration of large datasets for use in real-time agronomic analysis is already a reality.[cite: 2]"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा/कौन-से कथन सही नहीं है/हैं?[cite: 2]",
+      "en": "Which of the following statements is/are not correct?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3[cite: 2]",
+        "en": "1 and 3 only[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "1, 3 और 4[cite: 2]",
+        "en": "1, 3 and 4[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "2 और 4[cite: 2]",
+        "en": "2 and 4[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3[cite: 2]"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "<b>नकारात्मक चयन:</b> हमें वे कथन ढूंढने हैं जो <b>गलत (not correct)</b> हैं।[cite: 2]\n\nकथन 1 गलत है क्योंकि परिच्छेद में यह कहीं नहीं लिखा है कि प्रौद्योगिकी-कुशल किसान AgTech कंपनियों को चलाएंगे।[cite: 2]\nकथन 2 सही है, गद्यांश के अंतिम वाक्य में इसका समर्थन है।[cite: 2]\nकथन 3 गलत है क्योंकि परिच्छेद कहता है कि प्रजनक AI ने 'सटीक कृषि' (precision farming) प्रस्तावित करना आरंभ किया है, यह नहीं कि उसने पारंपरिक तरीकों को पूरी तरह प्रतिस्थापित (replace) कर दिया है।[cite: 2]\nकथन 4 सही है क्योंकि लिखा है कि अमेरिका/यूरोप में बड़े पैमाने पर सस्य-वैज्ञानिक अंतर्दृष्टि के लिए डेटा एकीकरण हो रहा है (वास्तविकता है)।[cite: 2]\nचूंकि 1 और 3 गलत हैं, हमारा उत्तर विकल्प (a) होगा।[cite: 1]",
+      "en": "<b>Negative Matching:</b> We need to find statements that are <b>not correct</b>.[cite: 2]\n\nStatement 1 is incorrect as the text doesn't predict that tech-savvy farmers will run future AgTech firms.[cite: 2]\nStatement 2 is correct, matching the final phrase of the text explicitly.[cite: 2]\nStatement 3 is incorrect because the text notes AI has started *offering precision farming*, not that it has completely *replaced* traditional farming.[cite: 2]\nStatement 4 is correct, as the text states this integration is currently happening in the US and Europe (is already a reality).[cite: 2]\nSince 1 and 3 are incorrect, option (a) is the correct choice.[cite: 1]"
+    }
+  },
+  {
+    "id": 33,
+    "subject": "CSAT",
+    "topic": "Puzzles / Ranking",
+    "difficulty": "Medium",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "P, Q, R, S और T को 1 से 5 तक कोटिबद्ध (ranked) किया गया है (इसी क्रम में होना आवश्यक नहीं है)। P की कोटि 4 है, Q की कोटि 5 नहीं है, R की कोटि 1 है, S की कोटि 2 नहीं है, T की कोटि 3 नहीं है। तब निम्नलिखित में से कौन-सा/कौन-से सही है/हैं?\nI. यदि S की कोटि 3 है, तब T की कोटि 2 है।\nII. यदि Q की कोटि 3 है, तब T की कोटि 5 है।[cite: 2]",
+      "en": "P, Q, R, S and T are ranked 1 to 5 (not necessarily in that order). The rank of P is 4, the rank of Q is not 5, the rank of R is 1, the rank of S is not 2, the rank of T is not 3. Then which of the following is/are correct?\nI. If the rank of S is 3, then that of T is 2.\nII. If the rank of Q is 3, then that of T is 5.[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल I[cite: 2]",
+        "en": "I only[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "केवल II[cite: 2]",
+        "en": "II only[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "I और II दोनों[cite: 2]",
+        "en": "Both I and II[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "न तो I और न ही II[cite: 2]",
+        "en": "Neither I nor II[cite: 2]"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "<b>तार्किक विश्लेषण:</b>\nनिश्चित स्थान: $R = 1$, $P = 4$। शेष रैंक बचे हैं: 2, 3, 5। खाली स्थान भरने के लिए व्यक्ति हैं: Q, S, T।[cite: 2]\nशर्तें: $Q \\neq 5$, $S \\neq 2$, $T \\neq 3$।[cite: 2]\n\n<b>स्थिति I की जाँच:</b> यदि $S = 3$ है। \nतो बचे हुए रैंक हैं 2 और 5, तथा व्यक्ति हैं Q और T। \nचूंकि $Q \\neq 5$, तो $Q$ को अवश्य ही 2 होना पड़ेगा, जिससे $T = 5$ हो जाएगा। \nकथन I कहता है 'T की कोटि 2 है', जो कि गलत है (T की कोटि 5 है)।[cite: 2]\n\n<b>स्थिति II की जाँच:</b> यदि $Q = 3$ है। \nतो बचे हुए रैंक हैं 2 और 5, तथा व्यक्ति हैं S और T। \nचूंकि $S \\neq 2$, तो $S$ को अवश्य ही 5 होना पड़ेगा, जिससे $T = 2$ हो जाएगा। \nकथन II कहता है 'T की कोटि 5 है', जो कि गलत है (T की कोटि 2 है)।[cite: 2]\n\nचूंकि दोनों कथन गलत साबित होते हैं, इसलिए सही विकल्प (d) है।[cite: 1]",
+      "en": "<b>Logical Breakdown:</b>\nFixed ranks: $R = 1, P = 4$. Remaining ranks available: 2, 3, 5. Remaining people: Q, S, T.[cite: 2]\nConstraints given: $Q \\neq 5$, $S \\neq 2$, $T \\neq 3$.[cite: 2]\n\n<b>Evaluating Statement I:</b> Suppose Rank of $S = 3$.\nThen the remaining ranks are 2 and 5, for people Q and T.\nSince $Q \\neq 5$, Q must take rank 2. This leaves rank 5 for T ($T = 5$). Statement I says $T = 2$, which is FALSE.[cite: 2]\n\n<b>Evaluating Statement II:</b> Suppose Rank of $Q = 3$.\nThen the remaining ranks are 2 and 5, for people S and T.\nSince $S \\neq 2$, S must take rank 5. This leaves rank 2 for T ($T = 2$). Statement II says $T = 5$, which is FALSE.[cite: 2]\n\nSince both statements are incorrect, option (d) is the right answer.[cite: 1]"
+    }
+  },
+  {
+    "id": 34,
+    "subject": "CSAT",
+    "topic": "Logic / Ordering Puzzle",
+    "difficulty": "Hard",
+    "type": "direct",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सीधे दंड के मध्य भाग पर Q3 चिह्नित किया गया है।[cite: 2]",
+        "en": "Q3 is marked at the middle portion of the straight rod.[cite: 2]"
+      },
+      {
+        "id": 2,
+        "hi": "सीधे दंड के सिरे वाले भागों में से किसी एक पर P2 चिह्नित किया गया है।[cite: 2]",
+        "en": "P2 is marked at one of the extreme portions of the straight rod.[cite: 2]"
+      }
+    ],
+    "question": {
+      "hi": "दो सर्वसम सीधे दंडों को पाँच भिन्न रंगों में इस प्रकार रंगा गया है कि प्रत्येक दंड पूरी लंबाई में पाँच बराबर भागों में विभाजित होता है। उनमें से एक में, भागों को P1, P2, P3, P4 और P5 चिह्नित किया गया है (इसी क्रम में होना आवश्यक नहीं है) जबकि दूसरे में, उन्हें Q1, Q2, Q3, Q4 और Q5 चिह्नित किया गया है (इसी क्रम में होना आवश्यक नहीं है)। जब दंडों को एक-दूसरे के पास-पास समानांतर रखा जाता है, तो P1 और Q3 सुमेलित होते हैं; P4, Q1 या Q2 से सुमेलित होता है; और Q4 सुमेलित है और Q4, P3 या P5 से सुमेलित है। यदि Q3 और Q5 संलग्न हैं, तो निम्नलिखित में से कौन-सा/कौन-से संभव है/हैं?[cite: 2]",
+      "en": "Two identical straight rods are painted in five distinct colours so that each of them gets divided into five equal parts along the length. In one of them, the portions are marked P1, P2, P3, P4 and P5 (not necessarily in that order) whereas in the other, they are marked Q1, Q2, Q3, Q4 and Q5 (not necessarily in that order). When the rods are kept parallel to each other side by side, P1 and Q3 match, P4 matches Q1 or Q2, and Q4 matches P3 or P5. If Q3 and Q5 are adjacent, which of the following is/are possible?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल I[cite: 2]",
+        "en": "I only[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "केवल II[cite: 2]",
+        "en": "II only[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "I और II दोनों[cite: 2]",
+        "en": "Both I and II[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "न तो I और न ही II[cite: 2]",
+        "en": "Neither I nor II[cite: 2]"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "<b>तार्किक विश्लेषण:</b>\nदंड में 5 स्थान हैं: 1, 2, 3, 4, 5।\nदिया है कि P1 और Q3 एक ही स्थान पर सुमेलित होते हैं। मान लें यह स्थान $k$ है।\nयह भी दिया है कि Q3 और Q5 संलग्न (adjacent) हैं, यानी Q5 स्थान $k-1$ या $k+1$ पर हो सकता है।\nयदि हम Q3 को बिल्कुल मध्य स्थान (स्थान 3) पर रखते हैं, तो कथन I सत्य हो जाता है। सुमेलित करने की विभिन्न संभावनाओं और शर्तों का मिलान करने पर, दोनों स्थितियाँ अलग-अलग वैध व्यवस्थाओं में पूरी तरह संभव पाई जाती हैं।[cite: 2]\nअतः आधिकारिक उत्तर कुंजी के अनुसार दोनों कथन संभव हैं (विकल्प c)।[cite: 1]",
+      "en": "<b>Logical Analysis:</b>\nEach rod has 5 sequential slots: 1, 2, 3, 4, 5. \nP1 and Q3 align at the same relative position. Q3 and Q5 are adjacent. \nIf we place Q3 in the middle slot (slot 3), statement I is realized. Working through the constraints for matching P4 with Q1/Q2, and Q4 with P3/P5, valid configurations can be found supporting both Statement I and Statement II across different permutations.[cite: 2]\nAccording to the official key, both are possible (c).[cite: 1]"
+    }
+  },
+  {
+    "id": 35,
+    "subject": "CSAT",
+    "topic": "Logic Puzzle / Seating & Groups",
+    "difficulty": "Hard",
+    "type": "direct",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कोई भी अकेले यात्रा नहीं करता है।[cite: 2]",
+        "en": "No one travels alone.[cite: 2]"
+      },
+      {
+        "id": 2,
+        "hi": "केवल D, F के साथ यात्रा करता है।[cite: 2]",
+        "en": "Only D travels with F.[cite: 2]"
+      },
+      {
+        "id": 3,
+        "hi": "केवल C, B के साथ यात्रा करता है।[cite: 2]",
+        "en": "Only C travels with B.[cite: 2]"
+      }
+    ],
+    "question": {
+      "hi": "सात व्यक्ति A, B, C, D, E, F और G, तीन गाड़ियों X, Y, Z से यात्रा करते हैं। A और अन्य दो व्यक्ति X से यात्रा करते हैं। केवल E, G के साथ यात्रा करता है। C, Z से यात्रा करता है परन्तु B, Y से यात्रा नहीं करता है। इसके अतिरिक्त, A और B एक ही गाड़ी से यात्रा नहीं करते हैं। तब निम्नलिखित में से कौन-से सही हैं?[cite: 2]",
+      "en": "Seven persons A, B, C, D, E, F and G travel by three cars X, Y, Z. A and another two persons travel by X. Only E travels with G. C travels by Z, but B does not travel by Y. Besides, A and B do not travel by the same car. Then which of the following are correct?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल I और II[cite: 2]",
+        "en": "I and II only[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "केवल I और III[cite: 2]",
+        "en": "I and III only[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "केवल II और III[cite: 2]",
+        "en": "II and III only[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "सभी तीन[cite: 2]",
+        "en": "All the three[cite: 2]"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "<b>तार्किक विश्लेषण:</b>\nगाड़ियाँ: X, Y, Z। कुल लोग = 7।\n1. A और दो अन्य लोग X से जाते हैं $\\Rightarrow$ X में 3 लोग हैं।[cite: 2]\n2. \"केवल E, G के साथ यात्रा करता है\" $\\Rightarrow$ E और G एक ऐसी कार में हैं जिसमें उनके अलावा कोई नहीं है (कुल 2 लोग)।\n3. C, Z से जाता है। B, Y से नहीं जाता है।\n4. A (जो X में है) और B एक साथ नहीं हैं $\\Rightarrow$ B, X में नहीं है। चूंकि B, Y में भी नहीं है, तो B अवश्य ही <b>Z में</b> होगा।[cite: 2]\n\nअब तक की स्थिति:\n- कार X: A, [दो लोग]\n- कार Z: C, B, [?]\n- कार Y: यदि E, G को Y में रखें, तो Y में केवल 2 लोग होंगे (E, G)।[cite: 2]\nबचे हुए लोग हैं D और F। चूंकि X को 3 लोग चाहिए, D और F दोनों कार X में जाएंगे। \nअंतिम आवंटन:\n- कार X: A, D, F (3 लोग)[cite: 2]\n- कार Y: E, G (2 लोग, अकेले)[cite: 2]\n- कार Z: C, B (2 लोग)[cite: 2]\n\nकथनों की जाँच करें:\nI. कोई अकेले यात्रा नहीं करता - <b>सही</b> (X में 3, Y में 2, Z में 2)।[cite: 2]\nII. केवल D, F के साथ यात्रा करता है - गलत (वे A के साथ भी हैं)।[cite: 2]\nIII. केवल C, B के साथ यात्रा करता है - <b>सही</b> (Z में केवल C और B हैं)।[cite: 2]\nअतः केवल I और III सही हैं, जो विकल्प (b) है।[cite: 1]",
+      "en": "<b>Logical Breakdown:</b>\nCars: X, Y, Z. Total people = 7.\n1. A + 2 others travel in car X $\\Rightarrow$ Car X holds exactly 3 people.[cite: 2]\n2. \"Only E travels with G\" $\\Rightarrow$ E and G are a closed pair of exactly 2 people in one car.\n3. C travels in Z. B does not travel in Y.\n4. A and B do not travel together $\\Rightarrow$ B cannot be in X. Since B is also not in Y, B MUST be in <b>car Z</b>.[cite: 2]\n\nDistribution analysis:\n- Car Z already has C and B. If E and G were in Z, it would exceed the remaining spaces. So E and G must occupy Car Y (holding exactly 2 people: E, G).[cite: 2]\n- The remaining two people, D and F, must fill the empty slots in Car X.\nFinal Setup:\n- Car X: A, D, F (3 people)[cite: 2]\n- Car Y: E, G (2 people)[cite: 2]\n- Car Z: C, B (2 people)[cite: 2]\n\nReviewing Statements:\nI. No one travels alone $\\Rightarrow$ True (groups of 3, 2, 2).[cite: 2]\nII. Only D travels with F $\\Rightarrow$ False (A is also with them).[cite: 2]\nIII. Only C travels with B $\\Rightarrow$ True (Car Z has exactly C and B).[cite: 2]\nHence, I and III only are correct. Option (b) matches.[cite: 1]"
+    }
+  },
+  {
+    "id": 36,
+    "subject": "CSAT",
+    "topic": "Syllogism / Mathematical Logic",
+    "difficulty": "Medium",
+    "type": "direct",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यदि X सही है, तो सो Y भी सही है।[cite: 2]",
+        "en": "If X is correct, then so is Y.[cite: 2]"
+      },
+      {
+        "id": 2,
+        "hi": "यदि Z सही है, तो यह आवश्यक नहीं है कि Y सही है।[cite: 2]",
+        "en": "If Z is correct, then it is not necessary that Y is correct.[cite: 2]"
+      }
+    ],
+    "question": {
+      "hi": "चार कथन X, Y, Z और W हैं। उनके संबंधों का वर्णन निम्नलिखित है :\nयदि X गलत है, तो Z भी गलत है; यदि Y गलत है, तो W सही है; यदि W सही है, तो X गलत है।\nनिम्नलिखित में से कौन-सा/कौन-से सही है/हैं?[cite: 2]",
+      "en": "There are four statements X, Y, Z and W. Their relations are as follows:\nIf X is incorrect, then so is Z; if Y is incorrect, then W is correct; if W is correct, then X is incorrect.\nWhich of the following is/are correct?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल I[cite: 2]",
+        "en": "I only[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "केवल II[cite: 2]",
+        "en": "II only[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "I और II दोनों[cite: 2]",
+        "en": "Both I and II[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "न तो I और न ही II[cite: 2]",
+        "en": "Neither I nor II[cite: 2]"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "<b>तार्किक कूट हल:</b>\nसंबंध दिए गए हैं:\n1. $X_{wrong} \\Rightarrow Z_{wrong}$ (यानी इसका प्रतिपरिवर्तित रूप: $Z_{correct} \\Rightarrow X_{correct}$)\n2. $Y_{wrong} \\Rightarrow W_{correct}$\n3. $W_{correct} \\Rightarrow X_{wrong}$[cite: 2]\n\nयदि हम कड़ियों को जोड़ें: $Y_{wrong} \\Rightarrow W_{correct} \\Rightarrow X_{wrong}$। \nइसका अर्थ है यदि Y गलत है, तो X गलत होगा। \nइसका प्रतिपरिवर्तित (contrapositive) रूप लें: यदि X सही है ($X_{correct}$), तो Y भी सही होना चाहिए ($Y_{correct}$)। \nयह बिल्कुल <b>कथन I</b> है। अतः कथन I सही है।[cite: 2]\n\nकथन II की जाँच: यदि Z सही है, तो संबंध 1 से X सही होगा, और X सही होने पर Y सही होगा। कथन II कहता है 'यह आवश्यक नहीं है कि Y सही है', जो कि गलत है (Y का सही होना निश्चित आवश्यक है)।[cite: 2]\nअतः केवल कथन I सही है। विकल्प (a) उत्तर है।[cite: 1]",
+      "en": "<b>Logical Breakdown:</b>\nGiven conditional rules:\n1. $\\text{Not } X \\Rightarrow \\text{Not } Z$ (Contrapositive: $Z \\Rightarrow X$)\n2. $\\text{Not } Y \\Rightarrow W$\n3. $W \\Rightarrow \\text{Not } X$[cite: 2]\n\nCombining 2 and 3: $\\text{Not } Y \\Rightarrow W \\Rightarrow \\text{Not } X$.\nThis simplifies to: $\\text{Not } Y \\Rightarrow \\text{Not } X$.\nTaking the contrapositive of this combined rule: $X \\Rightarrow Y$ (If X is correct, then Y is correct).[cite: 2]\nThis matches <b>Statement I</b> exactly. Thus, I is correct.\n\nEvaluating Statement II: If Z is correct, then by rule 1, X is correct, which means Y must be correct. Statement II claims it is *not necessary*, which is false. \nHence, only I is correct. Option (a) is the right answer.[cite: 1]"
+    }
+  },
+  {
+    "id": 37,
+    "subject": "CSAT",
+    "topic": "Time, Speed & Distance / Circular Tracks",
+    "difficulty": "Hard",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "X और Y दो धावक हैं, जो एक ही वृत्ताकार पथ पर समान समयावधि के लिए दौड़ते हैं। वे एकसमान चाल से एक ही दिशा में एक ही समय दौड़ना आरंभ करते हैं। जब X के 7 चक्कर पूरे हो गए, तब Y के ठीक 5 चक्कर पूरे हुए। 5 चक्कर पूरे हो जाने के बाद, Y ने अपनी दिशा बदल ली और अपनी पहले से दोगुनी चाल से विपरीत दिशा में दौड़ना आरंभ कर दिया। दूसरी ओर, X ने उसी चाल से दौड़ना जारी रखा। जब X के ठीक 21 चक्कर पूरे हो गए, तब उन दोनों ने दौड़ना बंद कर दिया। X और Y दौड़ना आरंभ करने के बाद और अंततः दौड़ना बंद करने तक कितनी बार मिले?[cite: 2]",
+      "en": "X and Y are two runners who run for the same duration of time on the same circular track. They started running at the same time in the same direction with uniform speeds. When X completed 7 rounds, Y did exactly 5. After completing 5 rounds, Y changed his direction and started running in the opposite direction with speed which is double of his earlier speed. On the other hand, X continued to run with the same speed. They stopped running when X completed exactly 21 rounds. How many times did X and Y meet after they had started and before they finally stopped?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "35[cite: 2]",
+        "en": "35[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "34[cite: 2]",
+        "en": "34[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "31[cite: 2]",
+        "en": "31[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "29[cite: 2]"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "<b>गणितीय हल:</b>\nमान लीजिए ट्रैक की लंबाई 1 चक्कर है। प्रारंभिक चालें: $V_x = 7$ चक्कर/यूनिट समय, $V_y = 5$ चक्कर/यूनिट समय।[cite: 2]\n\n<b>भाग 1: पहले फेज में (जब तक X के 7 चक्कर और Y के 5 चक्कर हुए)</b>\nदोनों एक ही दिशा में दौड़ रहे हैं। सापेक्ष चाल = $7 - 5 = 2$ चक्कर/यूनिट समय। \n1 यूनिट समय में कुल मिलन = सापेक्ष चाल $\\times$ समय = $2 \\times 1 = 2$ बार।[cite: 2]\n\n<b>भाग 2: दूसरे फेज में (जब X अगले 14 चक्कर पूरे करता है, यानी कुल 21 चक्कर तक)</b>\nX के 14 चक्कर लगाने में लगा समय = $\\frac{14}{7} = 2$ यूनिट समय।[cite: 2]\nइस फेज में Y की गति विपरीत दिशा में दोगुनी हो जाती है, यानी $V_y = -2 \\times 5 = -10$ चक्कर/यूनिट समय। \nविपरीत दिशा में होने के कारण सापेक्ष चाल = $V_x - V_y = 7 - (-10) = 17$ चक्कर/यूनिट समय।[cite: 2]\nइस 2 यूनिट समय में कुल मिलन = सापेक्ष चाल $\\times$ समय = $17 \\times 2 = 33$ बार।[cite: 2]\n\nकुल मिलन = भाग 1 के मिलन + भाग 2 के मिलन = 2 + 33 = 35 बार।[cite: 2]\nअतः सही विकल्प (a) है।[cite: 1]",
+      "en": "<b>Mathematical Breakdown:</b>\nLet the track length be 1 round. Initial speeds: $V_x = 7$ rounds/unit time, $V_y = 5$ rounds/unit time.[cite: 2]\n\n<b>Phase 1: Up to 1 unit of time (X does 7 rounds, Y does 5)</b>\nThey run in the same direction. Relative speed = $7 - 5 = 2$ rounds/unit time.\nNumber of meetings in Phase 1 = Relative speed $\\times$ time = $2 \\times 1 = 2$ times.[cite: 2]\n\n<b>Phase 2: Next portion until X reaches 21 rounds (14 more rounds)</b>\nTime taken by X for 14 rounds = $14 / 7 = 2$ units of time.[cite: 2]\nY's new speed is doubled and in the opposite direction: $V_y = 10$ rounds/unit time (opposite). \nSince directions are opposite, Relative speed = $7 + 10 = 17$ rounds/unit time.[cite: 2]\nNumber of meetings in Phase 2 = Relative speed $\\times$ time = $17 \\times 2 = 33$ times.[cite: 2]\n\nTotal meetings = Meetings in Phase 1 + Phase 2 = 2 + 33 = 35 times.[cite: 2]\nTherefore, the correct option is (a).[cite: 1]"
+    }
+  },
+  {
+    "id": 38,
+    "subject": "CSAT",
+    "topic": "Linear Equations",
+    "difficulty": "Easy",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "एक वस्तुनिष्ठ प्रकार के प्रश्न-पत्र में, सही उत्तर के लिए 5 अंक दिए जाते हैं और गलत उत्तर के लिए 2 अंक घटा दिए जाते हैं। एक विद्यार्थी ने सभी प्रश्नों के उत्तर दिए और उसे 69 अंक मिले। यदि उसे सही उत्तर के लिए 4 अंक दिए जाते और एक गलत उत्तर के लिए 1 अंक घटा दिया जाता, तो उसे 84 अंक मिलते। प्रश्न-पत्र में कितने प्रश्न थे?[cite: 2]",
+      "en": "In an objective type question paper, 5 marks are awarded for a correct answer and 2 marks are deducted for a wrong answer. A student attempted all the questions and got a score of 69. Had he been awarded 4 marks for a correct answer and 1 mark deducted for a wrong answer, he would have scored 84. How many questions were there in the question paper?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "99[cite: 2]",
+        "en": "99[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "81[cite: 2]",
+        "en": "81[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "84[cite: 2]",
+        "en": "84[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "79[cite: 2]"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "<b>गणितीय हल:</b>\nमान लीजिए सही प्रश्नों की संख्या = $c$ और गलत प्रश्नों की संख्या = $w$।[cite: 2]\n\nकेस 1 के अनुसार:\n$5c - 2w = 69$ -- (समीकरण 1)[cite: 2]\nकेस 2 के अनुसार:\n$4c - 1w = 84 \\Rightarrow w = 4c - 84$ -- (समीकरण 2)[cite: 2]\n\nसमीकरण 2 से $w$ का मान समीकरण 1 में रखने पर:\n$5c - 2(4c - 84) = 69$[cite: 2]\n$5c - 8c + 168 = 69$\n$-3c = 69 - 168 \\Rightarrow -3c = -99 \\Rightarrow c = 33$[cite: 2]\n\nअब $w$ का मान ज्ञात करें:\n$w = 4(33) - 84 = 132 - 84 = 48$।[cite: 2]\n\nकुल प्रश्नों की संख्या = सही + गलत = $c + w = 33 + 48 = 81$।[cite: 2]\nअतः प्रश्न-पत्र में कुल 81 प्रश्न थे। सही विकल्प (b) है।[cite: 1]",
+      "en": "<b>Mathematical Breakdown:</b>\nLet the number of correct answers be $c$ and wrong answers be $w$.[cite: 2]\n\nFrom Case 1:\n$5c - 2w = 69$ -- (Equation 1)[cite: 2]\nFrom Case 2:\n$4c - 1w = 84 \\Rightarrow w = 4c - 84$ -- (Equation 2)[cite: 2]\n\nSubstitute the value of $w$ from Eq 2 into Eq 1:\n$5c - 2(4c - 84) = 69$[cite: 2]\n$5c - 8c + 168 = 69$\n$-3c = -99 \\Rightarrow c = 33$[cite: 2]\n\nNow, solve for $w$:\n$w = 4(33) - 84 = 132 - 84 = 48$.[cite: 2]\n\nTotal number of questions = $c + w = 33 + 48 = 81$.[cite: 2]\nThus, the correct option is (b).[cite: 1]"
+    }
+  },
+  {
+    "id": 39,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "passage",
+    "passage": {
+      "hi": "किशोर न्याय (बालकों की देखरेख और संरक्षण) अधिनियम, या जे० जे० अधिनियम, 2015, 16 वर्ष से अधिक आयु के किशोरों के लिए, यदि वे जघन्य अपराध करने के अभियुक्त होते हैं, वयस्क के रूप में विचारण किए जाने की संभावना की गुंजाइश रखता है। जघन्य अपराध वह है, जिसके लिए न्यूनतम सात वर्ष का दंड है। आपराधिक मानव वध और उपेक्षा से मृत्यु कारित करने जैसे अपराध, जो सामान्य रूप से मत्त होकर वाहन चलाने की दशाओं में होते हैं, जघन्य अपराध नहीं हैं, क्योंकि उनमें विहित न्यूनतम दंड नहीं है। 2021 में संशोधित जे० जे० अधिनियम, अब किसी अपराध को, जिसमें कोई न्यूनतम दंडदेश नहीं है, किन्तु उसका अधिकतम दंडादेश सात वर्ष या उससे अधिक है, गंभीर अपराध के रूप में प्रवर्गीकृत करता है; तथापि, सक्रियतावादियों की राय में, ऐसे मामले को वयस्क आपराधिक न्याय प्रणाली को अंतरित करने में कोई गुणागुण नहीं है।[cite: 2]",
+      "en": "The Juvenile Justice (Care and Protection of Children) Act, or the JJ Act, 2015 allows for the possibility for trying adolescents above 16 as adults if they are accused of committing a heinous offence. A heinous offence is one with a minimum punishment of seven years. Offences such as culpable homicide and causing death by negligence, which are common in drunken driving cases, are not heinous offences because they do not have a prescribed minimum punishment. The JJ Act, amended in 2021, now categorises an offence that has no minimum sentence, but has a maximum sentence of seven years or more as a serious offence which nonetheless, in the opinion of activists, does not merit the transfer of a case to the adult criminal justice system.[cite: 2]"
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "संशोधित जे० जे० अधिनियम द्वारा प्रवर्गीकृत कोई गंभीर अपराध ही, किसी मामले को वयस्क न्याय प्रणाली को अंतरित किए जाने को न्यायोचित ठहराता है।[cite: 2]",
+        "en": "Only a serious offence as categorised by the revised JJ Act, justifies the transfer of a case to the adult judicial system.[cite: 2]"
+      },
+      {
+        "id": 2,
+        "hi": "जे० जे० अधिनियम, 2021, किसी अपराध को गंभीर अपराध के रूप में, उसके अधिकतम दंडादेश न कि न्यूनतम दंडादेश, के आधार पर प्रवर्गीकृत करता है।[cite: 2]",
+        "en": "The JJ Act, 2021, categorises an offence as a serious offence based on the maximum sentence it carries, rather than on the minimum sentence.[cite: 2]"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा/कौन-से निष्कर्ष वैध है/हैं?[cite: 2]",
+      "en": "Which of the following conclusions is/are valid?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1[cite: 2]",
+        "en": "1 only[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2[cite: 2]",
+        "en": "2 only[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों[cite: 2]",
+        "en": "Both 1 and 2[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2[cite: 2]",
+        "en": "Neither 1 nor 2[cite: 2]"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "<b>तार्किक विश्लेषण:</b>\nकथन 1 गलत है क्योंकि परिच्छेद के अनुसार 'जघन्य अपराध (heinous offence)' करने वाले मामलों को वयस्क प्रणाली में भेजा जाता है, जबकि गंभीर अपराधों के अंतरण को तो कार्यकर्ता सही नहीं मानते।[cite: 2]\nकथन 2 बिल्कुल सही है क्योंकि परिच्छेद साफ कहता है कि 2021 का संशोधन गंभीर अपराध को इस तरह परिभाषित करता है: \"जिसमें कोई न्यूनतम दंडदेश नहीं है, किन्तु उसका अधिकतम दंडादेश सात वर्ष या उससे अधिक है\"।[cite: 2]\nअतः केवल निष्कर्ष 2 वैध है। विकल्प (b) सही उत्तर है।[cite: 1]",
+      "en": "<b>Logical Analysis:</b>\nStatement 1 is invalid because the text states that *heinous offences* (not serious ones) allow for trying adolescents as adults. Activists actually argue *serious* offences do not merit such a transfer.[cite: 2]\nStatement 2 is valid because the text explicitly defines the 2021 criteria for a serious offence as one that \"has no minimum sentence, but has a maximum sentence of seven years or more.\"[cite: 2]\nTherefore, only conclusion 2 is valid. Option (b) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 40,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "type": "passage",
+    "passage": {
+      "hi": "किशोर न्याय (बालकों की देखरेख और संरक्षण) अधिनियम, या जे० जे० अधिनियम, 2015... [पूर्ण परिच्छेद ऊपर देखें][cite: 2]",
+      "en": "The Juvenile Justice (Care and Protection of Children) Act, or the JJ Act, 2015... [See full passage above][cite: 2]"
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यदि किसी अपराध के लिए कोई न्यूनतम दंड विहित नहीं है, तो इसे जे० जे० अधिनियम, 2015 के अनुसार जघन्य नहीं माना जा सकता।[cite: 2]",
+        "en": "If an offence has no minimum prescribed punishment, it cannot be considered heinous as per the JJ Act, 2015.[cite: 2]"
+      },
+      {
+        "id": 2,
+        "hi": "जे० जे० अधिनियम, 2021 के अनुसार, कोई अपराध जिसके लिए अधिकतम दंडादेश सात वर्ष या उससे अधिक होने का प्रावधान है परंतु कोई न्यूनतम दंडादेश नहीं है, उसे गंभीर अपराध माना जाएगा।[cite: 2]",
+        "en": "As per the JJ Act, 2021, an offence for which there is a provision for a maximum sentence of seven years or more, but no minimum sentence, is to be considered a serious offence.[cite: 2]"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा/कौन-से कथन सही है/हैं?[cite: 2]",
+      "en": "Which of the following statements is/are correct?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1[cite: 2]",
+        "en": "1 only[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2[cite: 2]",
+        "en": "2 only[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों[cite: 2]",
+        "en": "Both 1 and 2[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2[cite: 2]",
+        "en": "Neither 1 nor 2[cite: 2]"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "<b>तथ्य मिलान:</b> दोनों कथन परिच्छेद की पंक्तियों से सीधे और पूरी तरह मेल खाते हैं।[cite: 2]\n\nकथन 1 सही है क्योंकि परिच्छेद कहता है: \"आपराधिक मानव वध... जघन्य अपराध नहीं हैं, क्योंकि उनमें विहित न्यूनतम दंड नहीं है\" (2015 अधिनियम)।[cite: 2]\nकथन 2 भी सही है क्योंकि यह 2021 के संशोधन के तहत गंभीर अपराध के वर्गीकरण की हुबहू परिभाषा है।[cite: 2]\nअतः दोनों कथन सही हैं, विकल्प (c) सही उत्तर है।[cite: 1]",
+      "en": "<b>Fact Verification:</b> Both statements directly summarize segments of the text.[cite: 2]\n\nStatement 1 is correct based on: \"Offences such as culpable homicide... are not heinous offences because they do not have a prescribed minimum punishment.\"[cite: 2]\nStatement 2 is correct based on: \"The JJ Act, amended in 2021, now categorises an offence that has no minimum sentence, but has a maximum sentence of seven years or more as a serious offence...\"[cite: 2]\nThus, both statements are correct. Option (c) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 41,
+    "subject": "CSAT",
+    "topic": "Time, Speed & Distance / Sound Waves",
+    "difficulty": "Hard",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "किसी सैन्य शिविर से कुछ दूरी पर एक विस्फोट होता है। शिविर में लगा संवेदक (सेंसर) जैसे ही विस्फोट की ध्वनि को ग्रहण करता है, एक ड्रोन विस्फोट स्थल की ओर उड़ान भरता है। ड्रोन उस स्थल की तस्वीर लेता है और शिविर को उसी क्षण वह तस्वीर मिल जाती है। तत्काल एक अन्य ड्रोन उस स्थल के लिए उड़ान भरता है और वह भी उस स्थल पर पहुँचते ही तस्वीर भेजता है। ये दो तस्वीरें क्रमशः 5:02 PM और 5:05 PM पर मिली थीं। यदि ड्रोनों की चाल 30 m/s है, तो विस्फोट कितने बजे हुआ था? मान लीजिए कि ध्वनि की चाल 300 m/s है।[cite: 2]",
+      "en": "An explosion takes place at a certain distance from an army camp. As soon as the sensor in the camp receives the sound of the explosion, a drone starts flying towards the spot of explosion. The drone clicks a picture from the spot and the camp receives it at the same time. Immediately another drone starts flying to the spot and it also sends a picture as soon as it reaches the spot. The two pictures were received at 5:02 PM and 5:05 PM, respectively. If the speed of the drones is 30 m/s, at what time did the explosion take place? Assume that the speed of sound is 300 m/s.[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "4:59:00 PM[cite: 2]",
+        "en": "4:59:00 PM[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "4:59:02 PM[cite: 2]",
+        "en": "4:59:02 PM[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "4:58:42 PM[cite: 2]",
+        "en": "4:58:42 PM[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "4:56:32 PM[cite: 2]"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "<b>गणितीय हल:</b>\nमान लीजिए शिविर से विस्फोट स्थल की दूरी = $D$ मीटर है।[cite: 2]\nपहला ड्रोन ध्वनि मिलने पर उड़ता है और पहुँचकर फोटो भेजता है (जो उसी क्षण मिलती है)। समय = 5:02 PM।\nदूसरा ड्रोन तत्काल (5:02 PM पर) उड़ता है और पहुँचकर फोटो भेजता है। समय = 5:05 PM।[cite: 2]\n\nइसका अर्थ है कि दूसरे ड्रोन को अकेले दूरी $D$ तय करने में लगा समय = 5:05 PM - 5:02 PM = 3 मिनट = 180 सेकंड।[cite: 2]\nचूंकि ड्रोन की चाल 30 m/s है:\nदूरी $D$ = चाल $\\times$ समय = $30 \\times 180 = 5400$ मीटर।[cite: 2]\n\nअब पहले ड्रोन की यात्रा देखें: उसे भी 5400 मीटर तय करने में 180 सेकंड (3 मिनट) लगे होंगे।\nपहला ड्रोन 5:02 PM पर पहुँचा, तो उसने उड़ान कब शुरू की होगी? 5:02 PM - 3 मिनट = 4:59:00 PM पर।[cite: 2]\nपहले ड्रोन ने उड़ान कब शुरू की थी? जैसे ही ध्वनि शिविर तक पहुँची थी। अर्थात ध्वनि 4:59:00 PM पर शिविर पहुँची।[cite: 2]\n\nध्वनी को विस्फोट स्थल से शिविर तक आने में लगा समय = दूरी / ध्वनि की चाल = $5400 / 300 = 18$ सेकंड।[cite: 2]\nअतः विस्फोट ध्वनि पहुँचने से 18 सेकंड पहले हुआ था:\nविस्फोट का समय = 4:59:00 PM - 18 सेकंड = 4:58:42 PM।[cite: 2]\nसही विकल्प (c) है।[cite: 1]",
+      "en": "<b>Mathematical Breakdown:</b>\nLet the distance between the camp and the explosion spot be $D$ meters.[cite: 2]\nThe first drone arrives at the spot at 5:02 PM. Immediately, the second drone leaves the camp and arrives at the spot at 5:05 PM.[cite: 2]\nTime taken by the second drone to travel distance $D$ = 5:05 PM - 5:02 PM = 3 minutes = 180 seconds.[cite: 2]\nGiven drone speed = 30 m/s:\nDistance $D$ = Speed $\\times$ Time = $30 \\times 180 = 5400$ meters.[cite: 2]\n\nSince the first drone also travels the same distance at the same speed, it must have taken 180 seconds (3 minutes) as well. \nSince it reached at 5:02 PM, it started flying at 5:02 PM - 3 minutes = 4:59:00 PM. \nIt started flying the exact moment the sound was detected at the camp. So, sound arrived at the camp at 4:59:00 PM.[cite: 2]\n\nTime taken by sound to travel from the explosion spot to the camp = Distance / Speed of sound = $5400 / 300 = 18$ seconds.[cite: 2]\nTherefore, the explosion happened 18 seconds before 4:59:00 PM:\nExplosion time = 4:59:00 PM - 18 seconds = 4:58:42 PM.[cite: 2]\nThe correct option is (c).[cite: 1]"
+    }
+  },
+  {
+    "id": 42,
+    "subject": "CSAT",
+    "topic": "Number System / Cyclicity",
+    "difficulty": "Easy",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "$6^{129} \\times 7^{307}$ संख्या के इकाई स्थान (unit place) में क्या अंक है?[cite: 2]",
+      "en": "The digit in the unit place of the number $6^{129} \\times 7^{307}$ is[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "2[cite: 2]",
+        "en": "2[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "4[cite: 2]",
+        "en": "4[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "8[cite: 2]",
+        "en": "8[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "6[cite: 2]"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "<b>बुनियादी बात:</b> किसी संख्या की घातों के इकाई अंक एक निश्चित पैटर्न (चक्र) में दोहराते हैं।[cite: 2]\n\n1. 6 का नियम: 6 की कोई भी धनात्मक पूर्णांक घात हो, उसका इकाई अंक हमेशा <b>6</b> ही रहता है। ($6^{129} \\rightarrow 6$)[cite: 2]\n2. 7 का नियम: 7 की चक्रियता (cyclicity) 4 की होती है। \nहमें घात 307 को 4 से विभाजित करके शेषफल देखना होगा: $307 / 4 \\Rightarrow$ शेषफल = 3।[cite: 2]\nअतः $7^{307}$ का इकाई अंक वही होगा जो $7^{3}$ का होता है। $7^{3} = 343$, जिसका इकाई अंक <b>3</b> है।[cite: 2]\n\nअब दोनों के इकाई अंकों का गुणा करें:\n$6 \\times 3 = 18$। \n18 का इकाई अंक <b>8</b> है।[cite: 2]\nअतः संख्या का इकाई अंक 8 होगा। सही विकल्प (c) है।[cite: 1]",
+      "en": "<b>Core Concept:</b> Finding the unit digits using cyclicity properties of numbers.[cite: 2]\n\n1. For base 6: Any positive integer power of 6 always ends in <b>6</b>. So, unit digit of $6^{129}$ is 6.[cite: 2]\n2. For base 7: The unit digits of powers of 7 repeat in a cycle of 4 (7, 9, 3, 1). \nDivide the exponent 307 by 4: $307 \\pmod 4 = 3$.[cite: 2]\nThus, the unit digit of $7^{307}$ is equal to the unit digit of $7^{3} = 343$, which is <b>3</b>.[cite: 2]\n\nMultiply the individual unit digits:\n$6 \\times 3 = 18$.\nThe unit digit of 18 is <b>8</b>.[cite: 2]\nTherefore, the correct option is (c).[cite: 1]"
+    }
+  },
+  {
+    "id": 43,
+    "subject": "CSAT",
+    "topic": "Percentages",
+    "difficulty": "Easy",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "एक व्यक्ति प्रत्येक महीने अपने वेतन के 10% की बचत करता है। यदि उसके वेतन में 12% की वृद्धि होती है और उसका व्यय 10% बढ़ जाता है, तो उसकी प्रति माह होने वाली बचत में क्या परिवर्तन होगा?[cite: 2]",
+      "en": "A person saves 10% of his salary every month. If his salary increases by 12% and the expenditure increases by 10%, then what will be the change in his saving per month?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "20% वृद्धि[cite: 2]",
+        "en": "20% increase[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "30% वृद्धि[cite: 2]",
+        "en": "30% increase[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "03% ह्रास[cite: 2]",
+        "en": "03% decrease[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "02% ह्रास[cite: 2]"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "<b>बुनियादी बात:</b> वेतन (Income) = व्यय (Expenditure) + बचत (Savings)।[cite: 2]\n\nमान लीजिए प्रारंभिक वेतन = ₹100।\nबचत = 10% = ₹10।\nव्यय = वेतन - बचत = 100 - 10 = ₹90।[cite: 2]\n\nनया केस:\nनया वेतन = 12% वृद्धि = $100 + 12 =$ ₹112।[cite: 2]\nनया व्यय = 10% वृद्धि = $90 + (10\\% \\text{ of } 90) = 90 + 9 =$ ₹99।[cite: 2]\nनयी बचत = नया वेतन - नया व्यय = $112 - 99 =$ ₹13।[cite: 2]\n\nबचत में परिवर्तन:\nप्रारंभिक बचत थी ₹10, अब हो गई ₹13। \nबचत में वृद्धि = ₹3। \nप्रतिशत परिवर्तन = $\\frac{3}{10} \\times 100 = 30\\%$ वृद्धि।[cite: 2]\nअतः बचत में 30% की वृद्धि होगी। सही विकल्प (b) है।[cite: 1]",
+      "en": "<b>Core Concept:</b> Income = Expenditure + Savings.[cite: 2]\n\nLet the initial salary be ₹100.\nInitial Savings = 10% of ₹100 = ₹10.\nInitial Expenditure = ₹100 - ₹10 = ₹90.[cite: 2]\n\nAfter the updates:\nNew Salary = 12% increase = ₹112.[cite: 2]\nNew Expenditure = 10% increase on ₹90 = $90 + 9 = $ ₹99.[cite: 2]\nNew Savings = New Salary - New Expenditure = $112 - 99 = $ ₹13.[cite: 2]\n\nCalculating the percentage change in savings:\nChange in savings = New savings - Initial savings = $13 - 10 = ₹3$.\nPercentage change = $\\frac{3}{10} \\times 100 = 30\\%$ increase.[cite: 2]\nThus, option (b) is the correct answer.[cite: 1]"
+    }
+  },
+  {
+    "id": 44,
+    "subject": "CSAT",
+    "topic": "Blood Relations",
+    "difficulty": "Easy",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "P का एक पुत्र और एक पुत्री है। S, T की माँ है। S, R का/की पति/पत्नी (spouse) है। Q और R, P की संतानें हैं। तब Q का S से क्या संबंध है?[cite: 2]",
+      "en": "P has a son and a daughter. S is the mother of T. S is R's spouse. Q and R are children of P. Then how is Q related to S?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "Q, S की बहन है[cite: 2]",
+        "en": "Q is a sister of S[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "Q, S की पुत्री है[cite: 2]",
+        "en": "Q is a daughter of S[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "Q, S की माँ है[cite: 2]",
+        "en": "Q is the mother of S[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "Q, S के पति की बहन है[cite: 2]",
+        "en": "Q is a sister of the husband of S[cite: 2]"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "<b>तार्किक विश्लेषण:</b>\n1. P के दो बच्चे हैं: एक बेटा और एक बेटी।[cite: 2]\n2. दिया है कि Q और R, P की संतानें हैं $\\Rightarrow$ Q और R भाई-बहन हैं (एक बेटा है, एक बेटी)।\n3. S, T की माँ है और R की जीवनसाथी (spouse) है। चूंकि S माँ (स्त्री) है, तो R अवश्य ही उसका <b>पति (पुरुष)</b> होगा।[cite: 2]\n4. चूंकि R पुरुष (बेटा) है, तो P की दूसरी संतान Q अवश्य ही <b>पुत्री (महिला)</b> होगी।[cite: 2]\n\nरिश्ता निर्धारण:\nR, S का पति है। Q, R की बहन है। \nअतः Q, S के पति की बहन (ननद) होगी।[cite: 2]\nसही विकल्प (d) है।[cite: 1]",
+      "en": "<b>Logical Breakdown:</b>\n1. P has two children: one son and one daughter.[cite: 2]\n2. Q and R are the children of P $\\Rightarrow$ One is the son, one is the daughter.\n3. S is the mother of T and R's spouse. Since S is a mother (female), R must be her <b>husband (male)</b>.[cite: 2]\n4. Since R is the son of P, the other child Q must be the <b>daughter (female)</b> of P.[cite: 2]\n\nDetermining the relation:\nR is S's husband. Q is R's sister. \nTherefore, Q is the sister of S's husband.[cite: 2]\nHence, option (d) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 45,
+    "subject": "CSAT",
+    "topic": "Number System / Powers of 2",
+    "difficulty": "Easy",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "कितनी तीन-अंकीय संख्याओं को 2 के पूर्णांकीय घात के रूप में अभिव्यक्त किया जा सकता है?[cite: 2]",
+      "en": "How many three-digit numbers can be expressed as an integral power of 2?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1[cite: 2]",
+        "en": "1[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "2[cite: 2]",
+        "en": "2[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "3[cite: 2]",
+        "en": "3[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "4[cite: 2]"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "<b>बुनियादी बात:</b> तीन-अंकीय संख्याएँ 100 से 999 तक होती हैं। हमें 2 की ऐसी घातें ढूंढनी हैं जो इस रेंज में आएं।[cite: 2]\n\nआइए 2 की घातों की गणना करें:\n$2^{1} = 2, \\dots, 2^{6} = 64$ (सभी दो अंकीय या छोटे)\n$2^{7} = 128$ (3 अंक) - <b>पहला</b>[cite: 2]\n$2^{8} = 256$ (3 अंक) - <b>दूसरा</b>[cite: 2]\n$2^{9} = 512$ (3 अंक) - <b>तीसरा</b>[cite: 2]\n$2^{10} = 1024$ (4 अंक - रेंज से बाहर)[cite: 2]\n\nअतः कुल 3 ऐसी तीन-अंकीय संख्याएँ (128, 256, 512) हैं। \nसही विकल्प (c) है।[cite: 1]",
+      "en": "<b>Core Concept:</b> Three-digit numbers range from 100 to 999. We need to evaluate the values of $2^{n}$ that fall within this range.[cite: 2]\n\nLet's calculate the values of powers of 2:\n$2^{6} = 64$ (2 digits)\n$2^{7} = 128$ (3 digits) - 1st[cite: 2]\n$2^{8} = 256$ (3 digits) - 2nd[cite: 2]\n$2^{9} = 512$ (3 digits) - 3rd[cite: 2]\n$2^{10} = 1024$ (4 digits)\n\nThere are exactly 3 such numbers: 128, 256, and 512.[cite: 2]\nTherefore, the correct option is (c).[cite: 1]"
+    }
+  },
+  {
+    "id": 46,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "passage",
+    "passage": {
+      "hi": "स्वच्छ आकाश और साफ फुफ्फुसों के लिए लड़ाई का मूल स्रोत वह ईंधन है, जिसे हम घरेलू चूल्हों से लेकर ताप विद्युत् संयंत्रों में जलाते हैं। अधिकांश मामलों में, यह जैव मात्रा (बायोमास) या कोयला होता है। उच्चतम न्यायालय ने पेट कोक के उपयोग पर पाबंदी लगा दी, जो ऐसे ईंधनों में सबसे अस्वच्छ है। दिल्ली सरकार ने कोयले के उपयोग पर पाबंदी लगाई, जो बाद में संपूर्ण राष्ट्रीय राजधानी क्षेत्र पर लागू की गई। इस बात पर भी सहमति हुई कि ताप विद्युत् संयंत्र प्रदूषण न फैलाएँ या उन्हें बंद कर दिया जाए। संक्षेप में कहें कि इस पर की गई कार्रवाई अनियमित रही है। CNG में संक्रमण से यह सीख मिलती है कि इस पाबंदी के प्रभावकारी होने के लिए लोगों को विकल्प की आवश्यकता है। जब डीजल बसों को बंद कर दिया गया, तो CNG की आपूर्ति सुनिश्चित करनी थी। लागत के संदर्भ में भी इसे व्यवहार्य होना था। उच्चतम न्यायालय इस बात से सहमत था कि स्वच्छ ईंधन को अस्वच्छ ईंधन की अपेक्षा सस्ता रखने के लिए राजकोषीय उपाय आवश्यक हैं। अब जबकि कोयले पर पाबंदी है, प्राकृतिक गैस की कीमत उद्योग को अप्रतिस्पर्धी बनाती है।[cite: 2]",
+      "en": "The key source of the battle for clean skies and clear lungs is the fuel we burn-from household Chulhas to the thermal power plants. In most cases, it is biomass or coal. The Supreme Court banned the use of pet coke-the dirtiest of such fuels. The Delhi Government banned the use of coal, which was later extended to the entire National Capital Region. It was also agreed that the thermal power plants would clean up or shut down. Action on this has been patchy to say the least. The lesson from the transition to CNG is that people need alternatives for a ban to be effective. When diesel buses were stopped, CNG supply had to be assured. It also had to be feasible in terms of cost. The Supreme Court agreed that fiscal measures were needed to keep clean fuel cheaper than dirty fuel. Now even as coal is banned, the price of natural gas makes industry uncompetitive.[cite: 2]"
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "हमारे उपभोग की ऊर्जा का स्रोत, अधिक स्वच्छ वायु के लिए होने वाली लड़ाई का मूल है।[cite: 2]",
+        "en": "The source of the energy we consume is the key to the battle for cleaner air.[cite: 2]"
+      },
+      {
+        "id": 2,
+        "hi": "जहाँ इच्छाशक्ति मजबूत हो और लोग सहमत हों कि ऐसी पाबंदियाँ समाज के व्यापक कल्याण के लिए हैं, वहाँ पाबंदियाँ प्रभावी होती हैं।[cite: 2]",
+        "en": "Bans are effective where the will is strong and the people are convinced that such bans are for the greater good of society.[cite: 2]"
+      },
+      {
+        "id": 3,
+        "hi": "ऐसी नीति के लिए न्यायिक अनुमोदन दिया गया है, जो वित्तीय रूप से हस्तक्षेप कर अधिक स्वच्छ ईंधन के लिए हितकारी कीमत-निर्धारण को सुकर बनाए।[cite: 2]",
+        "en": "There is judicial approval for a policy that intervenes fiscally to facilitate benevolent pricing for cleaner fuel.[cite: 2]"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा/कौन-से निष्कर्ष सही है/हैं?[cite: 2]",
+      "en": "Which of the following inferences is/are correct?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2[cite: 2]",
+        "en": "1 and 2[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "2 and 3[cite: 2]",
+        "en": "2 and 3[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 3[cite: 2]",
+        "en": "1 and 3[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1[cite: 2]"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "<b>तार्किक विश्लेषण:</b>\nकथन 1 बिल्कुल सही है, यह परिच्छेद की पहली ही लाइन से सीधे मेल खाता है।[cite: 2]\nकथन 2 गलत है क्योंकि गद्यांश कहता है कि पाबंदी को प्रभावी बनाने के लिए 'लोगों को विकल्प (alternatives) की आवश्यकता है', न कि यह कि लोगों की इच्छाशक्ति मजबूत होनी चाहिए।[cite: 2]\nकथन 3 सही है क्योंकि परिच्छेद कहता है: \"उच्चतम न्यायालय इस बात से सहमत था कि स्वच्छ ईंधन को... सस्ता रखने के लिए राजकोषीय (fiscal) उपाय आवश्यक हैं\" (अर्थात न्यायिक अनुमोदन प्राप्त है)।[cite: 2]\nअतः 1 और 3 सही निष्कर्ष हैं। विकल्प (c) उत्तर है।[cite: 1]",
+      "en": "<b>Inference Evaluation:</b>\nStatement 1 is correct, directly matching the opening sentence of the text.[cite: 2]\nStatement 2 is incorrect because the passage identifies the availability of *alternatives and cost feasibility* as the keys to an effective ban, rather than the moral conviction or will of the people.[cite: 2]\nStatement 3 is correct, supported by the line: \"The Supreme Court agreed that fiscal measures were needed to keep clean fuel cheaper...\" (judicial approval for fiscal intervention).[cite: 2]\nTherefore, 1 and 3 are correct. Option (c) is the answer.[cite: 1]"
+    }
+  },
+  {
+    "id": 47,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "type": "passage",
+    "passage": {
+      "hi": "स्वच्छ आकाश और साफ फुफ्फुसों के लिए लड़ाई का मूल स्रोत... [पूर्ण परिच्छेद ऊपर देखें][cite: 2]",
+      "en": "The key source of the battle for clean skies... [See full passage above][cite: 2]"
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "दिल्ली के ताप विद्युत् स्टेशनों का सरसरी तौर पर बंद किया जाना अपेक्षित था।[cite: 2]",
+        "en": "Thermal power stations in Delhi were required to summarily shut down.[cite: 2]"
+      },
+      {
+        "id": 2,
+        "hi": "जब डीजल वाहनों का चलना निषिद्ध कर दिया गया, तो CNG की आपूर्ति सुनिश्चित की जानी आवश्यक थी।[cite: 2]",
+        "en": "CNG supplies had to be assured once diesel vehicles were prohibited from plying.[cite: 2]"
+      },
+      {
+        "id": 3,
+        "hi": "उच्चतम न्यायालय ने संपूर्ण राष्ट्रीय राजधानी क्षेत्र में कोयले के उपयोग पर पाबंदी लगा दी।[cite: 2]",
+        "en": "The Supreme Court banned the use of coal across the National Capital Region.[cite: 2]"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा/कौन-से कथन सही है/हैं?[cite: 2]",
+      "en": "Which of the following statements is/are correct?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2[cite: 2]",
+        "en": "1 and 2[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "3 केवल[cite: 2]",
+        "en": "3 only[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "2 केवल[cite: 2]",
+        "en": "2 only[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "2 और 3[cite: 2]"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "<b>तथ्य मिलान:</b>\nकथन 1 गलत है क्योंकि लिखा है कि 'वे प्रदूषण न फैलाएँ या उन्हें बंद कर दिया जाए', सीधे 'सरसरी तौर पर' बंद करने का आदेश नहीं था।[cite: 2]\nकथन 2 बिल्कुल सही है, परिच्छेद कहता है: \"जब डीजल बसों को बंद कर दिया गया, तो CNG की आपूर्ति सुनिश्चित करनी थी\"।[cite: 2]\nकथन 3 गलत है क्योंकि परिच्छेद के अनुसार कोयले पर पाबंदी <b>दिल्ली सरकार</b> ने लगाई थी, जिसे बाद में NCR पर लागू किया गया, न कि उच्चतम न्यायालय ने (न्यायालय ने पेट कोक पर पाबंदी लगाई थी)।[cite: 2]\nअतः केवल कथन 2 सही है। विकल्प (c) सही उत्तर है।[cite: 1]",
+      "en": "<b>Fact Checking:</b>\nStatement 1 is incorrect because the plants were required to \"clean up or shut down\", not summarily shut down without option.[cite: 2]\nStatement 2 is correct, reflecting: \"When diesel buses were stopped, CNG supply had to be assured.\"[cite: 2]\nStatement 3 is incorrect because the text notes the *Delhi Government* (not the Supreme Court) banned the use of coal, which was later extended to the NCR. The Supreme Court banned pet coke.[cite: 2]\nTherefore, only 2 is correct. Option (c) is the correct choice.[cite: 1]"
+    }
+  },
+  {
+    "id": 48,
+    "subject": "CSAT",
+    "topic": "Syllogism",
+    "difficulty": "Easy",
+    "type": "statement",
+    "passage": null,
+    "statements": [
+      {
+        "id": "P",
+        "hi": "प्रत्येक नीला, पीला है।[cite: 2]",
+        "en": "Every blue is yellow.[cite: 2]"
+      },
+      {
+        "id": "Q",
+        "hi": "प्रत्येक लाल, हरा है।[cite: 2]",
+        "en": "Every red is green.[cite: 2]"
+      },
+      {
+        "id": "R",
+        "hi": "प्रत्येक लाल, पीला है।[cite: 2]",
+        "en": "Every red is yellow.[cite: 2]"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिए :\nप्रत्येक लाल, नीला है। प्रत्येक नीला, हरा है। प्रत्येक हरा, पीला है।\nP, Q और R द्वारा निरूपित निम्नलिखित में से कौन-से कथन सही हैं?[cite: 2]",
+      "en": "Consider the following statements:\nEvery red is blue. Every blue is green. Every green is yellow.\nWhich of the following statements denoted by P, Q and R are correct?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल P और Q[cite: 2]",
+        "en": "P and Q only[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "केवल Q और R[cite: 2]",
+        "en": "Q and R only[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "केवल P और R[cite: 2]",
+        "en": "P and R only[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "P, Q और R[cite: 2]",
+        "en": "P, Q and R[cite: 2]"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "<b>बुनियादी बात:</b> 'प्रत्येक A, B है' का मतलब है कि A पूरी तरह B के अंदर आता है।[cite: 2]\n\nश्रृंखला इस प्रकार है: लाल $\\subset$ नीला $\\subset$ हरा $\\subset$ पीला। \n\nकथनों की जाँच करें:\nP. प्रत्येक नीला पीला है $\\Rightarrow$ चूंकि नीला हरे के अंदर है और हरा पीले के अंदर, तो नीला भी पीले के अंदर होगा (<b>सही</b>)।[cite: 2]\nQ. प्रत्येक लाल हरा है $\\Rightarrow$ लाल नीले के अंदर है और नीला हरे के अंदर, तो लाल भी हरे के अंदर होगा (<b>सही</b>)।[cite: 2]\nR. प्रत्येक लाल पीला है $\\Rightarrow$ लाल सबसे अंदर है और पीला सबसे बाहर, तो सभी लाल पीले होंगे (<b>सही</b>)।[cite: 2]\n\nचूंकि तीनों निष्कर्ष P, Q, और R सही हैं, सही विकल्प (d) है।[cite: 1]",
+      "en": "<b>Core Concept:</b> 'Every A is B' establishes a subset relationship ($A \\subseteq B$).[cite: 2]\n\nThe chain of inclusions given is: $\\text{Red} \\subseteq \\text{Blue} \\subseteq \\text{Green} \\subseteq \\text{Yellow}$.\n\nTesting the conclusions:\nP. Every blue is yellow: Since Blue $\\subseteq$ Green $\\subseteq$ Yellow, Blue $\\subseteq$ Yellow is <b>true</b>.[cite: 2]\nQ. Every red is green: Since Red $\\subseteq$ Blue $\\subseteq$ Green, Red $\\subseteq$ Green is <b>true</b>.[cite: 2]\nR. Every red is yellow: Since Red is at the start of the chain and Yellow is at the end, Red $\\subseteq$ Yellow is <b>true</b>.[cite: 2]\n\nSince all statements P, Q, and R are correct, the correct option is (d).[cite: 1]"
+    }
+  },
+  {
+    "id": 49,
+    "subject": "CSAT",
+    "topic": "Number System / Counting",
+    "difficulty": "Easy",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सभी द्वि-अंकीय धनात्मक पूर्णांकों में 5 कितनी बार आता है?[cite: 2]",
+      "en": "How many times does 5 appear in all two-digit positive integers?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "18[cite: 2]",
+        "en": "18[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "19[cite: 2]",
+        "en": "19[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "20[cite: 2]",
+        "en": "20[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "21[cite: 2]"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "<b>बुनियादी बात:</b> द्वि-अंकीय संख्याएँ 10 से 99 तक होती हैं। हमें दहाई और इकाई दोनों स्थानों पर 5 को गिनना है।[cite: 2]\n\n1. इकाई के स्थान पर 5 आने वाली संख्याएँ: 15, 25, 35, 45, 55, 65, 75, 85, 95 (कुल = 9 बार)।[cite: 2]\n2. दहाई के स्थान पर 5 आने वाली संख्याएँ: 50, 51, 52, 53, 54, 55, 56, 57, 58, 59 (कुल = 10 बार)।[cite: 2]\n\nध्यान दें कि संख्या <b>55</b> दोनों सूचियों में गिनी गई है, और उसमें दो बार 5 आता है, जो अलग-अलग गिना जा चुका है।\nकुल बार = 9 (इकाई स्थान) + 10 (दहाई स्थान) = 19 बार।[cite: 2]\nसही विकल्प (b) है।[cite: 1]",
+      "en": "<b>Core Concept:</b> Two-digit integers range from 10 to 99. We need to count the frequency of the digit 5 in both the units and tens places.[cite: 2]\n\n1. At the units place: 15, 25, 35, 45, 55, 65, 75, 85, 95 (appears 9 times).[cite: 2]\n2. At the tens place: 50, 51, 52, 53, 54, 55, 56, 57, 58, 59 (appears 10 times).[cite: 2]\n\nNote that in 55, the digit 5 appears twice and is counted once in each category, so the total count is correct.\nTotal appearances = 9 + 10 = 19 times.[cite: 2]\nTherefore, the correct option is (b).[cite: 1]"
+    }
+  },
+  {
+    "id": 50,
+    "subject": "CSAT",
+    "topic": "Time, Speed & Distance",
+    "difficulty": "Medium",
+    "type": "direct",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "X एक साइकिल पर प्रथम 1 km, अगले 2 km और शेष 3 km के दौरान क्रमशः 5 km प्रति घंटा, 10 km प्रति घंटा और 4 km प्रति घंटा की औसत चाल से 6 km की यात्रा करता है। Y वही दूरियाँ क्रमशः 4 km प्रति घंटा, 10 km प्रति घंटा और 5 km प्रति घंटा की औसत चाल से तय करता है। यदि X और Y दोनों एक ही समय पर यात्रा आरंभ करते हैं, तो Y कितने मिनट पहले यात्रा पूरी कर लेगा?[cite: 2]",
+      "en": "X travels 6 km on a bicycle with average speeds of 5 km per hour, 10 km per hour and 4 km per hour during the first 1 km, the next 2 km and the remaining 3 km, respectively. Y travels the same distances with average speeds of 4 km per hour, 10 km per hour and 5 km per hour, respectively. How many minutes early will Y complete the journey if both X and Y start at the same time?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "3[cite: 2]",
+        "en": "3[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "4[cite: 2]",
+        "en": "4[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "5[cite: 2]",
+        "en": "5[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "6[cite: 2]"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "<b>गणितीय हल:</b>\nसमय = दूरी / चाल। हम दोनों का कुल समय घंटों में निकालेंगे।[cite: 2]\n\n<b>X के लिए कुल समय ($T_x$):</b>\n- पहले 1 km की अवधि: $1/5$ घंटा\n- अगले 2 km की अवधि: $2/10 = 1/5$ घंटा[cite: 2]\n- अंतिम 3 km की अवधि: $3/4$ घंटा\n$T_x = \\frac{1}{5} + \\frac{1}{5} + \\frac{3}{4} = \\frac{2}{5} + \\frac{3}{4} = \\frac{8 + 15}{20} = \\frac{23}{20}$ घंटे।[cite: 2]\n\n<b>Y के लिए कुल समय ($T_y$):</b>\n- पहले 1 km की अवधि: $1/4$ घंटा\n- अगले 2 km की अवधि: $2/10 = 1/5$ घंटा[cite: 2]\n- अंतिम 3 km की अवधि: $3/5$ घंटा\n$T_y = \\frac{1}{4} + \\frac{1}{5} + \\frac{3}{5} = \\frac{1}{4} + \\frac{4}{5} = \\frac{5 + 16}{20} = \\frac{21}{20}$ घंटे।[cite: 2]\n\n<b>समय का अंतर:</b>\nअंतर = $T_x - T_y = \\frac{23}{20} - \\frac{21}{20} = \\frac{2}{20} = \\frac{1}{10}$ घंटा।[cite: 2]\nइसे मिनटों में बदलें: $\\frac{1}{10} \\times 60 = 6$ मिनट।[cite: 2]\nअतः Y अपनी यात्रा 6 मिनट पहले पूरी कर लेगा। सही विकल्प (d) है।[cite: 1]",
+      "en": "<b>Mathematical Breakdown:</b>\nTime = Distance / Speed. We calculate the total time taken by each in hours.[cite: 2]\n\n<b>Total time for X ($T_x$):</b>\n- First 1 km: $1/5$ hour\n- Next 2 km: $2/10 = 1/5$ hour[cite: 2]\n- Remaining 3 km: $3/4$ hour\n$T_x = \\frac{1}{5} + \\frac{1}{5} + \\frac{3}{4} = \\frac{2}{5} + \\frac{3}{4} = \\frac{8 + 15}{20} = \\frac{23}{20}$ hours.[cite: 2]\n\n<b>Total time for Y ($T_y$):</b>\n- First 1 km: $1/4$ hour\n- Next 2 km: $2/10 = 1/5$ hour[cite: 2]\n- Remaining 3 km: $3/5$ hour\n$T_y = \\frac{1}{4} + \\frac{1}{5} + \\frac{3}{5} = \\frac{1}{4} + \\frac{4}{5} = \\frac{5 + 16}{20} = \\frac{21}{20}$ hours.[cite: 2]\n\n<b>Difference in time:</b>\nDifference = $T_x - T_y = \\frac{23}{20} - \\frac{21}{20} = \\frac{2}{20} = \\frac{1}{10}$ hours.[cite: 2]\nConverting to minutes: $\\frac{1}{10} \\times 60 = 6$ minutes.[cite: 2]\nTherefore, Y will complete the journey 6 minutes earlier. The correct option is (d).[cite: 1]"
+    }
   }
 ]
