@@ -1,0 +1,1095 @@
+[
+  {
+    "id": 1,
+    "subject": "History",
+    "topic": "Rashtrakuta Empire",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "दंतिदुर्ग : कीर्तिवर्मन द्वितीय को पराजित किया और शाही उपाधियाँ धारण कीं।",
+        "en": "Dantidurga : Defeated Kirtivarman II and assumed imperial titles"
+      },
+      {
+        "id": 2,
+        "hi": "इंद्र तृतीय : हिमालय से केप कोमोरिन तक अपनी सर्वोच्चता का दावा किया।",
+        "en": "Indra III : Claimed supremacy from the Himalayas to Cape Comorin"
+      },
+      {
+        "id": 3,
+        "hi": "कृष्ण तृतीय : परांतक प्रथम को पराजित किया तथा रामेश्वरम् में विजय स्तंभ स्थापित कराया।",
+        "en": "Krishna III : Defeated Parantaka I and erected a victory pillar at Rameshwaram"
+      }
+    ],
+    "question": {
+      "hi": "राष्ट्रकूट शासकों और संबंधित घटनाओं के संबंध में निम्नलिखित युग्मों पर विचार कीजियेः\nउपर्युक्त में से कौन-से युग्म सही सुमेलित हैं?",
+      "en": "Consider the following pairs regarding the Rashtrakuta rulers and associated events:\nWhich of the pairs given above are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "754 ईस्वी के समनगढ़ शिलालेख में उल्लेख मिलता है कि दंतिदुर्ग ने बादामी के अंतिम चालुक्य शासक कीर्तिवर्मन द्वितीय को पूरी तरह पराजित कर दिया और पृथ्वीवल्लभ, महाराजाधिराज, परमेश्वर और परमभट्टारक जैसी शाही उपाधियाँ धारण कीं। अतः युग्म 1 सही सुमेलित है।\n\nहिमालय से कन्याकुमारी (केप कोमोरिन) तक राष्ट्रकूटों की कीर्ति विस्तारित करने का दावा गोविंद तृतीय से संबंधित है, न कि इंद्र तृतीय से। अतः युग्म 2 सही सुमेलित नहीं है।\n\nकृष्ण तृतीय ने चोल शासक परांतक प्रथम को हराया, चोल साम्राज्य के उत्तरी भाग पर कब्जा कर लिया और रामेश्वरम तक आगे बढ़े, जहाँ उन्होंने एक विजय स्तंभ स्थापित किया और एक मंदिर का निर्माण कराया। अतः युग्म 3 सही सुमेलित है।",
+      "en": "The Samangadh inscription of 754 CE mentions that Dantidurga completely defeated Kirtivarman II, the last Chalukya ruler of Badami, and assumed imperial titles such as Prithvivallabha, Maharajadhiraja, Paramesvara, and Paramabhattaraka. Hence, pair 1 is correctly matched.\n\nThe claim of extending Rashtrakuta glory from the Himalayas to Kanyakumari (Cape Comorin) relates to Govinda III, not Indra III. Hence, pair 2 is not correctly matched.\n\nKrishna III defeated the Chola ruler Parantaka I, captured the northern part of the Chola empire, and advanced up to Rameswaram, where he erected a victory pillar and constructed a temple. Hence, pair 3 is correctly matched."
+    }
+  },
+  {
+    "id": 2,
+    "subject": "History",
+    "topic": "Rajput Period",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "मंत्री पद सामान्यतः वंशानुगत होते थे।",
+        "en": "Ministerial offices were generally hereditary."
+      },
+      {
+        "id": 2,
+        "hi": "राजपूत सेना के पास तुर्कों की तुलना में बेहतर घुड़सवार तीरंदाजी थी।",
+        "en": "The Rajput military possessed superior mounted archery compared to the Turks."
+      },
+      {
+        "id": 3,
+        "hi": "राजपूतों ने मुजनीक और अरदास जैसे घेराबंदी उपकरणों का उपयोग किया, जिसका ज्ञान उन्हें अरबों और तुर्कों से प्राप्त हुआ था।",
+        "en": "The Rajputs used siege machines such as munjaniqs and arradas, knowledge of which was acquired from the Arabs and Turks."
+      }
+    ],
+    "question": {
+      "hi": "राजपूत शासकों के राजनीतिक और सैन्य संगठन के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements regarding the political and military organisation of the Rajputs:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "राजपूतों के बीच मंत्री पद सामान्यतः वंशानुगत होते थे। अधिकारियों ने सामान्यतया राजपुत्र, राणका, ठक्कुर, सामंत, महासामंत और राउत जैसी सामंती उपाधियाँ अपनाई थीं। अतः कथन 1 सही है।\n\nराजपूत सैन्य तकनीक में तुलनात्मक रूप से पिछड़े थे, विशेष रूप से घुड़सवार तीरंदाजी में, जिसमें तुर्कों के पास बेहतर कौशल और रणनीतिक समझ थी। अतः कथन 2 सही नहीं है।\n\nराजपूतों ने दुश्मन सैनिकों और किलेबंदी के खिलाफ भारी पत्थर फेंकने के लिये मुजनीक और अरदास जैसे यांत्रिक घेराबंदी उपकरणों का उपयोग किया। इन तकनीकों को अरबों और तुर्कों के संपर्क के माध्यम से अपनाया गया था। अतः कथन 3 सही है।",
+      "en": "Ministerial offices among the Rajputs were generally hereditary. The officers commonly adopted feudal titles such as Rajputra, Ranaka, Thakkura, Samanta, Mahasamanta, and Raut. Hence, statement 1 is correct.\n\nThe Rajputs were comparatively backward in military technology, especially in mounted archery, in which the Turks possessed superior skill and strategic understanding. Hence, statement 2 is incorrect.\n\nThe Rajputs used mechanical siege devices like munjaniqs and arradas for hurling heavy stones against enemy troops and fortifications. These techniques were adopted through contact with the Arabs and Turks. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 3,
+    "subject": "History",
+    "topic": "Chola Empire",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कंकणि कानून और व्यवस्था बनाए रखने के लिये उत्तरदायी सैन्य अधिकारी थे।",
+        "en": "Kankanis were military officers responsible for maintaining law and order."
+      },
+      {
+        "id": 2,
+        "hi": "पुरवुवरी टिनईक्कलम भू-राजस्व विभाग था।",
+        "en": "Puravuvari Tinaikkalam was the department of land revenue."
+      },
+      {
+        "id": 3,
+        "hi": "वारिपोट्टगम भू-अधिकारों का रिकॉर्ड था।",
+        "en": "Vari Pottagam was the record of land rights."
+      }
+    ],
+    "question": {
+      "hi": "चोल वंश के राजस्व प्रशासन के संदर्भ में, निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं ?",
+      "en": "With reference to the revenue administration of the Cholas, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "चोलों के अधीन भू-राजस्व विभाग को पुरवुवरी टिनईक्कलम के रूप में जाना जाता था। इसमें पुरवुवरी, वारिपोट्टगम, मुगवेट्टी, कनक्कु, वैरियिल इडु एवं पट्टोलई जैसे अधिकारी शामिल थे। अतः कथन 2 सही है।\n\nवारि पोत्तगम भूमि अधिकारों और राजस्व से संबंधित रजिस्टर या रिकॉर्ड को संदर्भित करता था। अतः कथन 3 सही है।\n\nकंकणि कानून और व्यवस्था के लिये उत्तरदायी सैन्य अधिकारियों के बजाय पर्यवेक्षक या लेखा अधिकारी थे। अतः कथन 1 सही नहीं है।",
+      "en": "The land revenue department under the Cholas was known as Puravuvari Tinaikkalam. It included officers such as Puravuvari, Varipottagam, Mugavetti, Kanakku, Variyil Idu, and Pattolai. Hence, statement 2 is correct.\n\nVari Pottagam referred to the register or record relating to land rights and revenue. Hence, statement 3 is correct.\n\nKankanis were supervisors or audit officers rather than military officers responsible for law and order. Hence, statement 1 is incorrect."
+    }
+  },
+  {
+    "id": 4,
+    "subject": "History",
+    "topic": "Chola Empire",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सालिया नगरम् बुनकर-सह-व्यापारियों से संबंधित था।",
+        "en": "Saliya Nagaram was associated with weavers-cum-traders."
+      },
+      {
+        "id": 2,
+        "hi": "पराग नगरम् विदेशी व्यापारियों के एक संगठन को संदर्भित करता था।",
+        "en": "Paraga Nagaram referred to an organisation of foreign traders."
+      }
+    ],
+    "question": {
+      "hi": "चोल काल के दौरान विशिष्ट नगरम् के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements regarding specialised nagarams during the Chola period:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "चोल काल के दौरान व्यापार और विपणन की बढ़ती विशेषज्ञता के कारण विशिष्ट वाणिज्यिक संगठनों का उदय हुआ। सालिया नगरम् बुनकर-सह-व्यापारियों से संबंधित था, जबकि शंकरप्पाडी नगरम् तेल-विक्रेता-सह-व्यापारियों से संबंधित था। अतः कथन 1 सही है।\n\nपराग नगरम् विदेशी व्यापारियों का एक संगठन था। अतः कथन 2 सही है।",
+      "en": "The growing specialization of trade and marketing during the Chola period led to the emergence of specific commercial organizations. Saliya Nagaram was associated with weaver-cum-traders, whereas Sankarappadi Nagaram was associated with oil-monger-cum-traders. Hence, statement 1 is correct.\n\nParaga Nagaram was an organization of foreign traders. Hence, statement 2 is correct."
+    }
+  },
+  {
+    "id": 5,
+    "subject": "History",
+    "topic": "Chola Architecture",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अष्ट-परिवारालय : मुख्य गर्भगृह के चारों ओर आठ सहायक मंदिर",
+        "en": "Asta-parivaralaya : Eight subsidiary shrines surrounding the principal shrine"
+      },
+      {
+        "id": 2,
+        "hi": "सोपान : बृहदीश्वर मंदिर के अंतराल (वेस्टिबुल) में स्थित सीढ़ियों के क्रम",
+        "en": "Sopana : Flights of steps in the vestibule of the Brihadisvara Temple"
+      },
+      {
+        "id": 3,
+        "hi": "संगीतमय पत्थर : दारासुरम स्थित ऐरावतेश्वर मंदिर के स्तंभ",
+        "en": "Musical stone pillars : Airavatesvara Temple at Darasuram"
+      },
+      {
+        "id": 4,
+        "hi": "एकाश्म कपोला : तंजावुर के बृहदेश्वर मंदिर में स्तूपी या फिनियल के साथ शीर्ष स्थापत्य तत्त्व",
+        "en": "Monolithic cupola : Crowning element with a stupi or finial at the Brihadisvara Temple, Thanjavur"
+      }
+    ],
+    "question": {
+      "hi": "चोल मंदिरों की स्थापत्य विशेषताओं के संबंध में निम्नलिखित युग्मों पर विचार कीजियेः\nउपर्युक्त में से कितने युग्म सही सुमेलित हैं ?",
+      "en": "Consider the following pairs regarding architectural features of Chola temples:\nHow many of the pairs given above are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1",
+        "en": "1"
+      },
+      {
+        "id": "B",
+        "hi": "2",
+        "en": "2"
+      },
+      {
+        "id": "C",
+        "hi": "3",
+        "en": "3"
+      },
+      {
+        "id": "D",
+        "hi": "4",
+        "en": "4"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "प्रारंभिक चोल मंदिरों में सामान्यतया एक अर्द्ध-मंडप के साथ एक वर्गाकार विमान होता था। मुख्य गर्भगृह आठ सहायक मंदिरों से घिरा हुआ था जिन्हें सामूहिक रूप से 'अष्ट-परिवारालय 'या आठ पारिवारिक मंदिर कहा जाता था। अतः युग्म 1 सही सुमेलित है।\n\nतंजावुर के बृहदेश्वर मंदिर में एक मूल-प्रासाद है जो एक अंतराल (वेस्टिबुल) से जुड़ा है, जहाँ सोपान के नाम से जानी जाने वाली सीढ़ियों के माध्यम से पहुँचा जाता है। अतः युग्म 2 सही सुमेलित है।\n\nदारासुरम का ऐरावतेश्वर मंदिर अपने संगीतमय पत्थर के तत्त्वों के लिये जाना जाता है, जो चोट करने पर अलग-अलग ध्वनियाँ उत्पन्न करते हैं। अतः युग्म 3 सही सुमेलित है।\n\nबृहदेश्वर मंदिर का विमान एक विशाल एकाश्म कपोला द्वारा सुशोभित है, जिसके ऊपर एक स्तूपी या शिखर है। अतः युग्म 4 सही सुमेलित है।",
+      "en": "Early Chola temples generally had a square vimana with an ardha-mandapa. The main sanctum was surrounded by eight subsidiary shrines collectively called 'Ashta-parivaralaya' or eight family shrines. Hence, pair 1 is correctly matched.\n\nThe Brihadisvara Temple at Thanjavur has a mula-prasada connected to an antarala (vestibule), which is accessed via flights of steps known as Sopana. Hence, pair 2 is correctly matched.\n\nThe Airavatesvara Temple at Darasuram is known for its musical stone elements that produce different sounds when struck. Hence, pair 3 is correctly matched.\n\nThe vimana of the Brihadisvara Temple is crowned by a massive monolithic cupola, topped by a stupi or finial. Hence, pair 4 is correctly matched."
+    }
+  },
+  {
+    "id": 6,
+    "subject": "History",
+    "topic": "Delhi Sultanate",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इल्तुतमिश की मृत्यु के बाद एक लंबी अवधि तक चहलगानी ने उत्तराधिकार तय करने में प्रमुख भूमिका निभाई।",
+        "en": "The Chihalgani determined succession for a considerable period after the death of Iltutmish."
+      },
+      {
+        "id": 2,
+        "hi": "बलबन ने सुल्तान के साथ समानता को मान्यता देकर तुर्की कुलीनों का सुदृढ़ीकरण किया।",
+        "en": "Balban strengthened the Turkish nobility by recognising its equality with the Sultan."
+      },
+      {
+        "id": 3,
+        "hi": "खिलजी और तुगलक काल के दौरान, कुलीन वर्ग में प्रवेश सामाजिक रूप से अधिक विविध हो गया।",
+        "en": "During the Khalji and Tughlaq periods, entry into the nobility became socially more diverse."
+      }
+    ],
+    "question": {
+      "hi": "दिल्ली सल्तनत के कुलीन वर्ग के संदर्भ में, निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त में से कौन-से कथन सही हैं?",
+      "en": "With reference to the nobility under the Delhi Sultanate, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "इल्तुतमिश की मृत्यु के बाद, चालीस तुर्की कुलीनों के एक शक्तिशाली समूह चहलगानी ने बलबन के राज्यारोहण तक उत्तराधिकार तय करने में निर्णायक भूमिका निभाई। अतः कथन 1 सही है।\n\nबलबन ने तुर्की कुलीनों की शक्ति पर अंकुश लगाकर राजशाही की सर्वोच्चता और गरिमा को पुनर्स्थापित करने का प्रयास किया। उसने कुलीनों को सुल्तान के बराबर नहीं माना। अतः कथन 2 सही नहीं है।\n\nखिलजी और तुगलक काल के दौरान, कुलीन वर्ग की संरचना और अधिक व्यापक हो गई। गैर-तुर्कों, भारतीय मुसलमानों, अफगानों, मंगोलों और विविध सामाजिक पृष्ठभूमि के व्यक्तियों को शासक वर्ग में प्रवेश मिला। अतः कथन 3 सही है।",
+      "en": "After the death of Iltutmish, a powerful group of forty Turkish nobles, the Chihalgani, played a decisive role in determining succession until Balban's accession. Hence, statement 1 is correct.\n\nBalban tried to restore the supremacy and dignity of the monarchy by curbing the power of the Turkish nobles. He did not consider the nobles equal to the Sultan. Hence, statement 2 is incorrect.\n\nDuring the Khalji and Tughlaq periods, the composition of the nobility became much broader. Non-Turks, Indian Muslims, Afghans, Mongols, and individuals from diverse social backgrounds gained entry into the ruling class. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 7,
+    "subject": "History",
+    "topic": "Delhi Sultanate",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कुतुबुद्दीन ऐबक : राजधानी को लाहौर स्थानांतरित किया",
+        "en": "Qutbuddin Aibak : Shifted the capital to Lahore"
+      },
+      {
+        "id": 2,
+        "hi": "इल्तुतमिश : तराइन के युद्ध में यल्दौज़ को पराजित किया",
+        "en": "Iltutmish : Defeated Yalduz at Tarain"
+      },
+      {
+        "id": 3,
+        "hi": "नासिरुद्दीन कुबाचा : उच्छ का गवर्नर",
+        "en": "Nasiruddin Qubacha : Governor of Uchh"
+      }
+    ],
+    "question": {
+      "hi": "दिल्ली सल्तनत के प्रारंभिक सुदृढ़ीकरण के संबंध में निम्नलिखित में से कौन-से युग्म सही सुमेलित हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following pairs regarding the early consolidation of the Delhi Sultanate is/are correctly matched?\nSelect the answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "अपने संक्षिप्त शासनकाल की शुरुआत में, कुतुबुद्दीन ऐबक ने ताजुद्दीन यल्दौज़ को पंजाब पर अपना नियंत्रण बढ़ाने से रोकने के लिये अपनी राजधानी लाहौर स्थानांतरित कर दी थी। अतः युग्म 1 सही सुमेलित है।\n\nवर्ष 1215 में, इल्तुतमिश ने तराइन के युद्ध में यल्दौज को पराजित किया। इसके बाद में, वर्ष 1217 में, उसने नासिरुद्दीन कुबाचा से लाहौर छीन लिया और उसे अपने गवर्नर के अधीन कर दिया। अतः युग्म 2 सही सुमेलित है।\n\nवर्ष 1206 में मोहम्मद गोरी की मृत्यु के बाद, उसके प्रमुख सेनापतियों के बीच वर्चस्व का संघर्ष शुरू हुआ। नासिरुद्दीन कुबाचा रणनीतिक रूप से महत्त्वपूर्ण उच्छ क्षेत्र का प्रभारी था। अतः युग्म 3 सही सुमेलित है।",
+      "en": "At the beginning of his brief reign, Qutbuddin Aibak shifted his capital to Lahore to prevent Tajuddin Yalduz from extending his control over Punjab. Hence, pair 1 is correctly matched.\n\nIn 1215 CE, Iltutmish defeated Yalduz at the Battle of Tarain. Later, in 1217 CE, he wrested Lahore from Nasiruddin Qubacha and brought it under his governor's control. Hence, pair 2 is correctly matched.\n\nAfter the death of Muhammad Ghori in 1206 CE, a struggle for supremacy began among his key generals. Nasiruddin Qubacha was in charge of the strategically important Uchh region. Hence, pair 3 is correctly matched."
+    }
+  },
+  {
+    "id": 8,
+    "subject": "History",
+    "topic": "Delhi Sultanate",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "दीवान-ए-मुस्तखराज की स्थापना राजस्व के बकाया की वसूली के लिये की गई थी।",
+        "en": "The Diwan-i-Mustakhraj was established to recover arrears of revenue."
+      },
+      {
+        "id": 2,
+        "hi": "आरिज़-ए-मुमालिक सैन्य प्रशासन और सैनिकों के निरीक्षण के लिये उत्तरदायी था।",
+        "en": "The Ariz-i-Mumalik was responsible for military administration and inspection of troops."
+      },
+      {
+        "id": 3,
+        "hi": "दीवान-ए-इंशाधार्मिक संस्थानों को दिये जाने वाले अनुदानों की पर्यवेक्षण करता था।",
+        "en": "The Diwan-i-Insha supervised grants made to religious institutions."
+      }
+    ],
+    "question": {
+      "hi": "अलाउद्दीन खिलजी के शासनकाल के दौरान प्रशासनिक तंत्र के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements regarding the administrative machinery during the reign of Alauddin Khalji:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "अलाउद्दीन खिलजी के शासनकाल के दौरान, भू-राजस्व के बकाया की वसूली के लिये दीवान-ए-मुस्तखराज को उत्तरदायी बनाया गया था। अतः कथन 1 सही है।\n\nसैन्य विभाग, जिसे दीवान-ए-अर्ज़ के रूप में जाना जाता था, का प्रमुख आरिज़-ए-मुमालिक था। वह सैन्य मामलों का प्रशासन करता था और इक्तादारों द्वारा रखे गए सैनिकों का निरीक्षण करता था। अतः कथन 2 सही है।\n\nदीवान-ए-इंशा सुल्तान, प्रांतीय सरकारों और अन्य शासकों के बीच आधिकारिक पत्राचार संभालता था। धार्मिक संस्थानों को दिये जाने वाले अनुदानों की निगरानी इस विभाग द्वारा नहीं की जाती थी। अतः कथन 3 सही नहीं है।",
+      "en": "During Alauddin Khalji's reign, the Diwan-i-Mustakhraj was made responsible for recovering arrears of land revenue. Hence, statement 1 is correct.\n\nThe military department, known as Diwan-i-Arz, was headed by the Ariz-i-Mumalik. He administered military affairs and inspected the troops maintained by Iqta holders. Hence, statement 2 is correct.\n\nThe Diwan-i-Insha handled official correspondence between the Sultan, provincial governments, and other rulers. It did not oversee grants made to religious institutions. Hence, statement 3 is incorrect."
+    }
+  },
+  {
+    "id": 9,
+    "subject": "History",
+    "topic": "Pala and Pratihara Periods",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "पाल शासकों के अधीन, गाँवों को एक और दस की इकाइयों में समूहीकृत किया गया था, जिनका प्रशासन क्रमशः ग्रामपति और दशग्रामिक नामक अधिकारियों द्वारा किया जाता था।",
+        "en": "Under the Palas, villages were grouped into units of one and ten, administered by officials known as Gramapati and Dasagramika, respectively."
+      },
+      {
+        "id": 2,
+        "hi": "प्रतिहारों के विपरीत, पाल शासकों के अधीन उप-सामंतीकरण की प्रथा का कोई महत्त्वपूर्ण पुरालेखीय साक्ष्य नहीं मिलता है।",
+        "en": "Unlike the Pratiharas, there is no significant epigraphic evidence for the practice of sub-infeudation under the Pala rulers."
+      },
+      {
+        "id": 3,
+        "hi": "तेरहवीं शताब्दी तक, 'राजपुत्र' शब्द एक राजनीतिक पद से विकसित होकर एक वंशानुगत श्रेणी बन गया था, जिसमें राजा के पुत्र से लेकर लघु जमींदार कोटि के व्यक्ति शामिल थे।",
+        "en": "By the thirteenth century, the term Rajputra had evolved from denoting a political position into a hereditary category that included persons ranging from the son of a king to a small landholder."
+      }
+    ],
+    "question": {
+      "hi": "पाल और प्रतिहार काल की प्रशासनिक और सामाजिक विशेषताओं के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त में से कौन-से कथन सही हैं?",
+      "en": "Regarding the administrative and social features of the Pala and Pratihara periods, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "पाल शासकों के अधीन, गाँवों को एक और दस की इकाइयों में व्यवस्थित किया गया था, जिनका प्रभार ग्रामपति और दशग्रामिक नामक अधिकारियों के पास था। ये शाही अधिकारी संबंधित क्षेत्रीय इकाइयों के प्रशासन के लिये उत्तरदायी होते थे। अतः कथन 1 सही है।\n\nपाल शासकों के भूमि लेख राजा, राजपुत्र, रणक, राजराजनक, महासामंत और महासामंताधिपति जैसी उपाधियों का उल्लेख करते हैं। ये व्यक्ति संभवतः सामंत थे जिन्हें सैन्य सेवा के बदले भूमि मिली थी। हालाँकि, पालों के अधीन उप-सामंतीकरण का कोई स्पष्ट प्रमाण नहीं मिलता है। अतः कथन 2 सही है।\n\nतेरहवीं शताब्दी तक, राजपुत्र की श्रेणी केवल एक राजनीतिक पद के बजाय वंशानुगत हो गई थी। राजपूत वंशों के विस्तार के साथ, इस शब्द में राजा के पुत्र से लेकर लघु जमींदार कोटि के व्यक्ति शामिल हो गए। अतः कथन 3 सही है।",
+      "en": "Under the Pala rulers, villages were organized into units of one and ten, which were in the charge of officers called Gramapati and Dasagramika. These royal officials were responsible for the administration of the respective territorial units. Hence, statement 1 is correct.\n\nLand grants of the Pala rulers mention titles such as Raja, Rajputra, Ranaka, Rajarajanaka, Mahasamanta, and Mahasamantadhipati. These individuals were probably feudatories who received land in lieu of military service. However, there is no clear evidence of sub-infeudation under the Palas. Hence, statement 2 is correct.\n\nBy the thirteenth century, the category of Rajputra had become hereditary rather than just a political office. With the expansion of Rajput clans, this term came to include individuals ranging from the son of a king to a small landholder. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 10,
+    "subject": "History",
+    "topic": "Delhi Sultanate",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कथन 1 सुझाव देता है कि मूल्य नियंत्रण एक विकसित प्रशासनिक और खुफिया तंत्र पर निर्भर था।",
+        "en": "Statement 1 suggests that price control depended upon a well-developed administrative and intelligence network."
+      },
+      {
+        "id": 2,
+        "hi": "कथन 2 सुझाव देता है कि राज्य ने आवश्यक वस्तुओं की आपूर्ति और वितरण दोनों को विनियमित करने का प्रयास किया।",
+        "en": "Statement 2 suggests that the state attempted to regulate both the supply and distribution of essential commodities."
+      },
+      {
+        "id": 3,
+        "hi": "कथन 3 सुझाव देता है कि सुल्तान ने लंबी दूरी के व्यापार का पूरी तरह से राष्ट्रीयकरण कर दिया था।",
+        "en": "Statement 3 suggests that the Sultan completely nationalised long-distance trade."
+      }
+    ],
+    "question": {
+      "hi": "अलाउद्दीन खिलजी के बाजार सुधारों के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\n1. मूल्य नियंत्रण नियमों को लागू करने के लिये बाजार नियंत्रक (शहना-ए-मंडी), खुफिया अधिकारी और गुप्तचर नियुक्त किये गए थे।\n2. अनाज व्यापारियों को आधिकारिक निगरानी में रखा गया था, जमाखोरी (इहतिकार) प्रतिबंधित थी और सरकारी अन्नागार बनाए रखे गए थे।\n3. दिल्ली के बाज़ार के लिये वस्त्र की खरीद हेतु मुल्तानी व्यापारियों को अग्रिम ऋण दिया गया था।\nउपर्युक्त कथनों से निम्नलिखित में से कौन-से निष्कर्ष निकाले जा सकते हैं ?",
+      "en": "Consider the following statements regarding Alauddin Khalji's market reforms:\n1. A controller of the market (Shahna-i-Mandi), intelligence officers and secret spies were appointed to enforce price regulations.\n2. Grain merchants were placed under official supervision, regrating (ihtikar) was prohibited and state granaries were maintained.\n3. Advances were given to Multani merchants to procure cloth for the Delhi market.\nWhich of the following inferences can be drawn from the above statements?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "अलाउद्दीन खिलजी ने अनाज, वस्त्र, मवेशी और गुलामों सहित वस्तुओं की एक विस्तृत श्रृंखला की कीमतें निर्धारित कीं। इन नियमों को लागू करने के लिये, उसने शहना-ए-मंडी, बरीद (खुफिया अधिकारी) और मुनहियान (गुप्तचर) नियुक्त किये। उसे इन अधिकारियों से अलग-अलग दैनिक सूचना भी प्राप्त होती थी। यह दर्शाता है कि मूल्य-नियंत्रण प्रणाली एक प्रभावी प्रशासनिक और खुफिया तंत्र पर निर्भर थी। अतः निष्कर्ष 1 सही है।\n\nअनाज व्यापारियों को शहना-ए-मंडी की निगरानी में रखा गया था, उनसे जमानत ली गई थी, जमाखोरी प्रतिबंधित थी और सरकारी अन्नागार बनाए रखे गए थे। ये उपाय संकेत देते हैं कि राज्य ने आवश्यक वस्तुओं की उपलब्धता और वितरण दोनों को विनियमित करने का प्रयास किया। अतः निष्कर्ष 2 सही है।\n\nमुल्तानी वस्त्र व्यापारियों को दिल्ली हेतु वस्त्र की खरीद करने और इसका वहन करने के लिये अग्रिम ऋण दिया गया था। हालाँकि, यह राज्य की सहायता और विनियमन के समान था, न कि लंबी दूरी के व्यापार का पूर्ण राष्ट्रीयकरण। अतः निष्कर्ष 3 सही नहीं है।",
+      "en": "Alauddin Khalji fixed the prices of a wide range of goods including grains, cloth, cattle, and slaves. To enforce these regulations, he appointed Shahna-i-Mandi, Barids (intelligence officers), and Munhiyans (secret spies). He also received separate daily reports from these officials. This shows the price-control system relied on an effective administrative and intelligence network. Hence, inference 1 is correct.\n\nGrain merchants were placed under the supervision of Shahna-i-Mandi, sureties were taken from them, hoarding was prohibited, and state granaries were maintained. These measures indicate that the state attempted to regulate both the availability and distribution of essential commodities. Hence, inference 2 is correct.\n\nMultani cloth merchants were given advances to purchase and transport cloth for Delhi. However, this was akin to state assistance and regulation, not the complete nationalization of long-distance trade. Hence, inference 3 is incorrect."
+    }
+  },
+  {
+    "id": 11,
+    "subject": "History",
+    "topic": "Delhi Sultanate",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उसने अलाउद्दीन खिलजी की भूमि मापन प्रणाली को गुजरात, मालवा, दक्कन, दक्षिण भारत और बंगाल तक विस्तारित किया।",
+        "en": "He extended Alauddin Khalji's system of land measurement to Gujarat, Malwa, Deccan, South India and Bengal."
+      },
+      {
+        "id": 2,
+        "hi": "खराज के निर्धारण के लिये, वफा-ए-फरमानी (राज्य द्वारा निर्धारित पैदावार) और निरख-ए-फरमानी (राज्य द्वारा घोषित मूल्य) का उपयोग किया गया था।",
+        "en": "For assessment of kharaj, wafa-i farmani (officially decreed yields) and nirkh-i farmani (officially decreed prices) were used"
+      },
+      {
+        "id": 3,
+        "hi": "उन्होंने खेती के विस्तार के लिये सोनधर नामक कृषि ऋण की शुरुआत की।",
+        "en": "He introduced agricultural loans called sondhar to expand cultivation."
+      }
+    ],
+    "question": {
+      "hi": "मोहम्मद बिन तुगलक के कृषि संबंधी उपायों के संदर्भ में, निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त में से कौन-से कथन सही हैं?",
+      "en": "With reference to the agrarian measures of Muhammad bin Tughlaq, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "मोहम्मद तुगलक ने माप पर आधारित अलाउद्दीन खिलजी की राजस्व संग्रह प्रणाली को गुजरात, मालवा, दक्कन, दक्षिण भारत और बंगाल तक विस्तारित किया। बाद के चरण में, कृषि कराधान के पैमाने में काफी वृद्धि की गई। अतः कथन 1 सही है।\n\nयाह्या के अनुसार मवेशियों को दागा गया और घरों की गिनती की गई, जिससे कोई कर से मुक्त न हो सके लेकिन इन उपायों से भी अधिक महत्त्वपूर्ण यह तथ्य था कि खराज के निर्धारण के लिये 'वफा-ए-फरमानी' (राज्य द्वारा निर्धारित पैदावार) और निरख-ए-फरमानी (राज्य द्वारा घोषित मूल्य) का उपयोग किया गया था। यह कथन बहुत स्पष्ट रूप से दर्शाता है कि राजस्व की गणना के लिये उपयोग की जाने वाली उपज और कीमतें वास्तविक नहीं थीं। अतः कथन 2 सही है।\n\nमोहम्मद तुगलक कृषि को बढ़ावा देने के लिये कृषि नीति तैयार करने का प्रयास करने वाले पहले सुल्तान बना। उसने खेती के तहत क्षेत्र बढ़ाने और सिंचाई के लिये कुएँ खोदने के लिये सोनधर नामक कृषि ऋण देने की प्रथा शुरू की। अतः कथन 3 सही है।",
+      "en": "Muhammad Tughlaq extended Alauddin Khalji's revenue collection system based on measurement to Gujarat, Malwa, Deccan, South India, and Bengal. In a later stage, the scale of agricultural taxation was significantly increased. Hence, statement 1 is correct.\n\nAccording to Yahya, cattle were branded and houses were counted so that none could escape taxation. But even more important was the fact that 'wafa-i-farmani' (officially decreed yields) and 'nirkh-i-farmani' (officially decreed prices) were used to determine Kharaj. This clearly shows the yields and prices used to calculate revenue were not actuals. Hence, statement 2 is correct.\n\nMuhammad Tughlaq became the first Sultan to attempt formulating an agricultural policy to promote agriculture. He started the practice of giving agricultural loans called sondhar to increase the area under cultivation and dig wells for irrigation. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 12,
+    "subject": "History",
+    "topic": "Delhi Sultanate",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "दिल्ली सल्तनत पर तुर्क-अफगान मूल के पाँच क्रमिक राजवंशों ने शासन किया था।",
+        "en": "The Delhi Sultanate was ruled by five successive dynasties of Turkic-Afghan origin."
+      },
+      {
+        "id": 2,
+        "hi": "सल्तनत काल राजनीतिक अस्थिरता और क्षेत्रीय विस्तार के प्रयासों के लिये जाना जाता था।",
+        "en": "The Sultanate period was marked by political instability combined with efforts at territorial expansion."
+      }
+    ],
+    "question": {
+      "hi": "दिल्ली सल्तनत के संबंध में निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements about the Delhi Sultanate:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "दिल्ली सल्तनत का गठन वर्ष 1192 में राजा पृथ्वीराज चौहान की हार के बाद हुआ था, जिन्होंने उत्तर-पश्चिमी भारत के कुछ भागों पर शासन किया था। इस सल्तनत में तुर्क-अफगान मूल के पाँच क्रमिक विदेशी राजवंशों का शासन रहा जिसमें मामलुक (या 'गुलाम वंश'), खिलजी, तुगलक, सैयद और लोदी। अतः कथन 1 सही है।\n\nसल्तनत काल राजनीतिक अस्थिरता और क्षेत्रीय विस्तार के प्रयासों के लिये जाना जाता था। इसके परिणामस्वरूप ऐसे सैन्य अभियान हुए जिसमें गाँवों और शहरों पर आक्रमण किये गए और मंदिरों तथा शिक्षा केंद्रों को लूटा और नष्ट कर दिया गया। उत्तराधिकार (नए सुल्तानों की नियुक्ति) की प्रक्रिया हिंसक थी जिसमें तीन में से लगभग दो सुल्तानों ने अपने पूर्ववर्ती की हत्या करके सत्ता हथिया ली थी, जिससे एक सुल्तान का औसत शासन काल शायद ही नौ वर्ष से अधिक हुआ। अतः कथन 2 सही है।",
+      "en": "The Delhi Sultanate was formed after the defeat of King Prithviraj Chauhan in 1192 CE, who ruled parts of northwestern India. It was ruled by five successive foreign dynasties of Turkic-Afghan origin: Mamluk (or 'Slave Dynasty'), Khalji, Tughlaq, Sayyid, and Lodi. Hence, statement 1 is correct.\n\nThe Sultanate period was marked by political instability and attempts at territorial expansion. This resulted in military campaigns where villages and cities were attacked, and temples and learning centers were plundered and destroyed. The succession process was violent, with nearly two out of three Sultans usurping power by assassinating their predecessor, meaning the average reign of a Sultan rarely exceeded nine years. Hence, statement 2 is correct."
+    }
+  },
+  {
+    "id": 13,
+    "subject": "History",
+    "topic": "Delhi Sultanate",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बलबन पहला सुल्तान था जिसने सैनिकों को नकद वेतन देने की प्रथा को प्रभावी रूप से स्थापित किया और दोआब में सभी \"छोटे इक्ता\" को सफलतापूर्वक वापस ले लिया।",
+        "en": "Balban was the first Sultan to firmly establish the practice of paying cash salaries to soldiers and successfully resumed all the \"small iqtas\" in the Doab."
+      },
+      {
+        "id": 2,
+        "hi": "अलाउद्दीन खिलजी ने कुलीनों की गतिविधियों पर सूचना देने के लिये बरीद या गुप्तचर अधिकारियों का उपयोग करके और उनके सामाजिक मेल-मिलाप तथा विवाहों को प्रतिबंधित करके केंद्रीय हस्तक्षेप बढ़ाया।",
+        "en": "Alauddin Khalji increased central intervention by using barids, or intelligence officers, to report on the actions of nobles and by restricting their social gatherings and marriages."
+      },
+      {
+        "id": 3,
+        "hi": "मोहम्मद तुगलक ने एक ही क्षेत्र में राजस्व वसूली के लिये वली और सैन्य कमान के लिये अमीर की नियुक्ति करके केंद्रीय नियंत्रण को तीव्र किया, साथ ही सैनिकों को प्रत्यक्ष रूप से राज्य कोष से वेतन दिया।",
+        "en": "Muhammad Tughlaq intensified central control by appointing a wali for revenue collection and an amir for military command in the same territory, while paying troops directly from the state treasury."
+      }
+    ],
+    "question": {
+      "hi": "कुलीन वर्ग पर केंद्रीय नियंत्रण के संबंध में निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements regarding central control over the nobility:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "इल्तुतमिश ने वेतन के बदले सुल्तान की सेना के सैनिकों को दोआब में छोटे इक्ता सौंपे थे। बलबन ने इन इकता अनुदानों को वापस लेने का केवल एक सीमित प्रयास किया, लेकिन वह सफल नहीं हुआ। यह अलाउद्दीन खिलजी था जिसने सैनिकों को नकद वेतन देने की प्रथा को प्रभावी से स्थापित किया। अतः कथन 1 सही नहीं है।\n\nअलाउद्दीन खिलजी ने 'बरीद' (गुप्तचर अधिकारियों) के माध्यम से कुलीन वर्ग पर केंद्रीय नियंत्रण का सुदृढ़ीकरण किया, जो नियमित रूप से कुलीनों के कार्यों की सूचना देते थे। उसने उनके सामाजिक मेल-मिलाप पर भी प्रतिबंध लगा दिया, और सुल्तान की अनुमति के बिना कुलीन परिवारों के बीच विवाह नहीं हो सकते थे। अतः कथन 2 सही है।\n\nमोहम्मद तुगलक के अधीन, केंद्रीय हस्तक्षेप एक उच्च स्तर पर पहुँच गया। कई क्षेत्रों में, राजस्व संग्रह के लिये एक वली और सैन्य कमान के लिये एक अमीर नियुक्त किया गया था। वली राजस्व एकत्र करता था, अपना अधिकृत वेतन काटता था और शेष राशि राज्य कोष में भेज देता था, जिससे सैनिकों को भुगतान किया जाता था। अतः कथन 3 सही है।",
+      "en": "Iltutmish had assigned small iqtas in the Doab to the soldiers of the Sultan's army in lieu of salary. Balban made only a limited attempt to resume these iqta grants, but it was not successful. It was Alauddin Khalji who effectively established the practice of paying cash salaries. Hence, statement 1 is incorrect.\n\nAlauddin Khalji strengthened central control over the nobility through 'barids' (intelligence officers), who regularly reported on the actions of nobles. He also restricted their social gatherings, and marriages between noble families could not take place without the Sultan's permission. Hence, statement 2 is correct.\n\nUnder Muhammad Tughlaq, central intervention reached a high level. In many areas, a wali was appointed for revenue collection and an amir for military command. The wali collected the revenue, deducted his authorized salary, and sent the remainder to the state treasury, from which the troops were paid directly. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 14,
+    "subject": "History",
+    "topic": "Delhi Sultanate",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अलाउद्दीन खिलजी के शासनकाल के दौरान, संपूर्ण मध्य दोआब खालिसा का हिस्सा था।",
+        "en": "During Alauddin Khalji's reign, the entire middle Doab formed part of the khalisa."
+      },
+      {
+        "id": 2,
+        "hi": "खालिसा में हमेशा पूरे साम्राज्य में बिखरे हुए क्षेत्र शामिल होते थे।",
+        "en": "Khalisa always consisted of scattered territories throughout the empire."
+      },
+      {
+        "id": 3,
+        "hi": "फिरोज़ तुगलक के अधीन, खालिसा के विस्तार में कमी प्रतीत होती है।",
+        "en": "Under Firuz Tughlaq, the extent of khalisa appears to have declined."
+      },
+      {
+        "id": 4,
+        "hi": "खालिसा भूमि से प्राप्त राजस्व विशेष रूप से शाही घराने के रखरखाव के लिये था।",
+        "en": "Revenue from khalisa lands was meant exclusively for maintaining the royal household."
+      }
+    ],
+    "question": {
+      "hi": "दिल्ली सल्तनत के अंतर्गत खालिसा के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements regarding khalisa under the Delhi Sultanate:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "वह क्षेत्र जिसका राजस्व सीधे सुल्तान के खजाने के लिये एकत्र किया जाता था, 'खालिसा' के रूप में जाना जाता था। अलाउद्दीन खिलजी के अधीन इसका विस्तार अत्यधिक बढ़ गया, और इसमें पूरा मध्य दोआब और रोहिलखंड के कुछ हिस्से शामिल थे। अतः कथन 1 सही है।\n\n'खालिसा' में आवश्यक रूप से पूरे साम्राज्य में बिखरे हुए और बदलते क्षेत्र शामिल नहीं थे। अलाउद्दीन खिलजी के अधीन, यह एक बड़ा और अपेक्षाकृत निरंतर क्षेत्रीय क्षेत्र था। अतः कथन 2 सही नहीं है।\n\nफिरोज तुगलक के अधीन, 'खालिसा' के विस्तार में काफी गिरावट आई प्रतीत होती है। अतः कथन 3 सही है।\n\nबरनी के अनुसार, दोआब को 'खालिसा' के तहत लाए जाने के बाद वहाँ से एकत्र किये गए राजस्व का उपयोग सैनिकों को नकद वेतन देने के लिये किया जाता था। इसलिये, 'खालिसा' का राजस्व विशेष रूप से केवल शाही घराने के रखरखाव के लिये नहीं था। अतः कथन 4 सही नहीं है।",
+      "en": "The area whose revenue was collected directly for the Sultan's treasury was known as 'Khalisa'. Under Alauddin Khalji, its extent increased immensely, encompassing the entire middle Doab and parts of Rohilkhand. Hence, statement 1 is correct.\n\n'Khalisa' did not necessarily consist of scattered and changing areas throughout the empire. Under Alauddin, it was a large and relatively continuous territorial area. Hence, statement 2 is incorrect.\n\nUnder Firuz Tughlaq, the extent of 'Khalisa' appears to have declined significantly. Hence, statement 3 is correct.\n\nAccording to Barani, the revenue collected from the Doab after it was brought under 'Khalisa' was used to pay cash salaries to the soldiers. Therefore, revenue from 'Khalisa' was not meant exclusively for maintaining the royal household. Hence, statement 4 is incorrect."
+    }
+  },
+  {
+    "id": 15,
+    "subject": "History",
+    "topic": "Indo-Islamic Architecture",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सूची-I को सूची-II के साथ सुमेलित कीजिये और सूचियों के नीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः\n\nसूची-I (स्थापत्य विशेषता)\nA. मेहराबों के नीचे कमल-कली की झालर\nB. चतुष्केंद्र मेहराब\nC. मस्जिद के आवरणों में कदलिकाकृत मेहराब\nD. बरामदे सहित अष्टभुजीय मकबरा\n\nसूची-II (राजवंश/काल)\n1. तुगलक\n2. प्रारंभिक सल्तनत काल\n3. खिलजी\n4. सैयद-लोदी",
+      "en": "Match List I with List II and select the correct answer using the code given below the Lists:\n\nList I (Architectural Feature)\nA. Lotus-bud fringe below arches\nB. Four-centred arch\nC. Corbelled arches in mosque screens\nD. Octagonal mausoleum with verandah\n\nList II (Dynasty/Period)\n1. Tughlaq\n2. Early Sultanate\n3. Khalji\n4. Sayyid-Lodi"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "A-3, B-1, C-2, D-4",
+        "en": "A-3, B-1, C-2, D-4"
+      },
+      {
+        "id": "B",
+        "hi": "A-1, B-3, C-2, D-4",
+        "en": "A-1, B-3, C-2, D-4"
+      },
+      {
+        "id": "C",
+        "hi": "A-3, B-2, C-1, D-4",
+        "en": "A-3, B-2, C-1, D-4"
+      },
+      {
+        "id": "D",
+        "hi": "A-2, B-1, C-4, D-3",
+        "en": "A-2, B-1, C-4, D-3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "खिलजी काल के दौरान, विशेष रूप से अलाई दरवाज़ा और जमात खाना मस्जिद में, मेहराबों के निचले हिस्से पर कमल-कली की झालर देखने को मिलती है। यह सजावटी विशेषता सेल्जूक स्थापत्य परंपरा से ली गई थी। अतः A का सही मिलान 3 के साथ है।\n\nचौदहवीं शताब्दी के दूसरे चरण के दौरान तुगलकों द्वारा चार-केंद्रित मेहराब की शुरुआत की गई थी और दिल्ली सल्तनत के अंत तक इसका उपयोग जारी रहा। अतः B का सही मिलान 1 के साथ है।\n\nप्रारंभिक सल्तनत काल में, मस्जिद के आवरणों में मेहराबों का निर्माण 'ट्रू आर्क' के बजाय कदलिकाकृत (कोर्बेलिंग) तकनीक से किया गया था। इन आवरणों में स्वदेशी सजावटी विशेषताओं का भी प्रभाव बना रहा। अतः C का सही मिलान 2 के साथ है।\n\nसैयद-लोदी काल में महत्त्वपूर्ण मकबरे अष्टकोणीय योजना पर बनाए गए थे, जहाँ मुख्य शव कक्ष मेहराबदार बरामदे और टेक पर टिके छज्जों से घिरा होता था। अतः D का सही मिलान 4 के साथ है।\nअतः सही मिलान A-3, B-1, C-2 और D-4 है।",
+      "en": "During the Khalji period, especially in the Alai Darwaza and Jamaat Khana Mosque, a lotus-bud fringe is seen on the underside of arches. This decorative feature was borrowed from the Seljuq architectural tradition. Thus A matches 3.\n\nThe four-centred arch was introduced by the Tughlaqs during the second phase of the fourteenth century and continued to be used till the end of the Delhi Sultanate. Thus B matches 1.\n\nIn the early Sultanate period, arches in mosque screens were built using the corbelling technique rather than true arches. Indigenous decorative features also continued to influence these screens. Thus C matches 2.\n\nImportant tombs in the Sayyid-Lodi period were built on an octagonal plan, where the main mortuary chamber was surrounded by an arched verandah and sloping eaves supported by brackets. Thus D matches 4.\nHence, the correct matching is A-3, B-1, C-2, and D-4."
+    }
+  },
+  {
+    "id": 16,
+    "subject": "History",
+    "topic": "Vijayanagara Empire",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "एक गाँव में सामान्यतया बारह आयंगर होते थे।",
+        "en": "One village generally had twelve Ayagars."
+      },
+      {
+        "id": 2,
+        "hi": "आयंगरों को कर-मुक्त भूमि के माध्यम से पारिश्रमिक दिया जाता था।",
+        "en": "Ayagars were compensated through tax-free lands."
+      },
+      {
+        "id": 3,
+        "hi": "कर्णम और तलैयारि के पद क्रमशः ग्राम लेखाकार और ग्राम चौकीदार के संदर्भ में थे।",
+        "en": "The offices of Karnam and Talari referred respectively to the village accountant and the village watchman."
+      }
+    ],
+    "question": {
+      "hi": "विजयनगर साम्राज्य की आयंगर व्यवस्था के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements regarding the Ayagar system of the Vijayanagara kingdom:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "आयंगर विजयनगर के गाँवों में आवश्यक प्रशासनिक और सेवा-संबंधी कर्तव्यों का पालन करने वाले बारह महत्त्वपूर्ण ग्राम अधिकारियों का एक समूह थे। उस काल के शिलालेखों में इन अधिकारियों को व्यक्तिगत गाँवों में नियुक्त किये जाने का उल्लेख मिलता है। अतः कथन 1 सही है।\n\nआयंगरों को उनकी सेवाओं के लिये कर-मुक्त भूमि के माध्यम से पारिश्रमिक दिया जाता था जिसे 'मान्या' (Manya) भूमि के रूप में जाना जाता था। अतः कथन 2 सही है।\n\nइन अधिकारियों में, कर्णम ने ग्राम लेखाकार के रूप में कार्य किया, जबकि तलैयारि ने ग्राम चौकीदार के रूप में कार्य किया। अतः कथन 3 सही है।",
+      "en": "Ayagars were a group of twelve important village officers who performed essential administrative and service-related duties in Vijayanagara villages. Inscriptions of the period mention these officials being appointed in individual villages. Hence, statement 1 is correct.\n\nAyagars were remunerated for their services through tax-free lands known as 'Manya' lands. Hence, statement 2 is correct.\n\nAmong these officers, the Karnam acted as the village accountant, while the Talari acted as the village watchman. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 17,
+    "subject": "History",
+    "topic": "Vijayanagara Empire",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "मंदिरों के कोष से कभी-कभी सिंचाई कार्यों और खेती करने वालों के लिये ऋण प्रदान किया जाता था।",
+        "en": "Temple treasuries occasionally advanced loans for irrigation works and to cultivators."
+      },
+      {
+        "id": 2,
+        "hi": "मंदिरों ने बंजर भूमि के जीर्णोद्धार और कृषि के विस्तार में योगदान दिया।",
+        "en": "Temples contributed to the reclamation of wasteland and the extension of cultivation."
+      },
+      {
+        "id": 3,
+        "hi": "मंदिर परिसरों ने कारीगरों, व्यापारियों और सेवा कर्मियों को नियोजित करके व्यापार को प्रोत्साहित किया।",
+        "en": "Temple complexes stimulated trade by employing artisans, merchants and service personnel."
+      }
+    ],
+    "question": {
+      "hi": "विजयनगर साम्राज्य के तहत मंदिर अर्थव्यवस्था के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements regarding the temple economy under the Vijayanagara Empire:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "मंदिरों के कोष सिंचाई में भी सहायता करते थे। 1442 ईस्वी के एक अभिलेख में उल्लेख मिलता है कि कुरुंदमले मंदिर ने एक तालाब के निर्माण के लिये तिमन्ना को ऋण दिया था। यह दर्शाता है कि मंदिर कभी-कभी सिंचाई कार्यों के लिये ऋण प्रदान करते थे। अतः कथन 1 सही है।\n\nविजयनगर साम्राज्य के तहत मंदिर प्रमुख भूमिधारी संस्थाएँ थे और उन्होंने कृषि गतिविधि के विस्तार में महत्त्वपूर्ण भूमिका निभाई। उन्होंने बंजर भूमि के जीर्णोद्धार और खेती के विस्तार में योगदान दिया। अतः कथन 2 सही है।\n\nमंदिर परिसर उपभोग और विनिमय के महत्त्वपूर्ण केंद्र थे। वे प्रशासकों, पुरोहितों, रसोइयों, मालियों, रक्षकों, संगीतकारों, नर्तकियों, कारीगरों और व्यापारियों को रोज़गार प्रदान करते थे और साथ ही त्योहारों और तीर्थयात्री गतिविधियों से वस्तुओं और सेवाओं की मांग उत्पन्न होती थी। अतः कथन 3 सही है।",
+      "en": "Temple treasuries also helped in irrigation. A 1442 CE inscription mentions that the Kurundamale temple advanced a loan to Timanna for constructing a tank. This indicates that temples occasionally provided loans for irrigation works. Hence, statement 1 is correct.\n\nTemples were major landholding institutions under the Vijayanagara Empire and played a crucial role in the expansion of agricultural activity. They contributed to the reclamation of wastelands and the extension of cultivation. Hence, statement 2 is correct.\n\nTemple complexes were important centres of consumption and exchange. They employed administrators, priests, cooks, gardeners, guards, musicians, dancers, artisans, and merchants, while festivals and pilgrim activities generated demand for goods and services. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 18,
+    "subject": "History",
+    "topic": "Bahmani Empire",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सूची-I को सूची-II से सुमेलित कीजिये और सूचियों के नीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः\n\nसूची-I (पद/समूह)\nA. सिलहदार\nB. तरफदार\nC. खासाखेल\nD. बरबरदान\n\nसूची-II (कार्य)\n1. राजा के व्यक्तिगत शस्त्रागार का प्रभारी\n2. प्रांतीय गवर्नर\n3. सुल्तान के अंगरक्षक\n4. आपात स्थिति के दौरान सैनिकों की लामबंदी",
+      "en": "Match List I with List II and select the correct answer using the code given below the Lists:\n\nList I (Office/Group)\nA. Silahdar\nB. Tarafdar\nC. Khassakhel\nD. Barbardan\n\nList II (Function)\n1. In charge of the personal armoury of the king\n2. Provincial governor\n3. Sultan's bodyguards\n4. Mobilisation of troops during emergencies"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "A-1, B-2, C-4, D-3",
+        "en": "A-1, B-2, C-4, D-3"
+      },
+      {
+        "id": "B",
+        "hi": "A-2, B-1, C-3, D-4",
+        "en": "A-2, B-1, C-3, D-4"
+      },
+      {
+        "id": "C",
+        "hi": "A-1, B-2, C-3, D-4",
+        "en": "A-1, B-2, C-3, D-4"
+      },
+      {
+        "id": "D",
+        "hi": "A-4, B-2, C-1, D-3",
+        "en": "A-4, B-2, C-1, D-3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "मुहम्मद प्रथम के शासनकाल के दौरान, बहमनी साम्राज्य को चार प्रांतों (दौलताबाद, बरार, बीदर और गुलबर्गा) में विभाजित किया गया था, जिन्हें \"तरफ\" के रूप में जाना जाता था। प्रत्येक प्रांत का शासन एक 'तरफदार' द्वारा विनियमित किया जाता था। अतः B का सही मिलान 2 के साथ है।\n\nशासकों ने व्यक्तिगत अंगरक्षकों का एक बड़ा समूह बनाए रखा था जिन्हें 'खासाखेल' कहा जाता था। कहा जाता है कि मुहम्मद प्रथम ने लगभग चार हजार ऐसे अंगरक्षकों को बनाए रखा था। अतः C का सही मिलान 3 के साथ है。\n\nसिलहदार सुल्तान के व्यक्तिगत शस्त्रागार के प्रभारी होते थे। अतः A का सही मिलान 1 के साथ है।\n\nआपात स्थिति के दौरान, बरबरदान (Barbardan) को सैनिकों की लामबंदी का काम सौंपा गया था। अतः D का सही मिलान 4 के साथ है।\nअतः सही मिलान A-1, B-2, C-3 और D-4 है।",
+      "en": "During the reign of Muhammad I, the Bahmani Empire was divided into four provinces (Daulatabad, Berar, Bidar, and Gulbarga) known as \"Tarafs\". Each province was governed by a 'Tarafdar'. Thus B matches 2.\n\nRulers maintained a large group of personal bodyguards called 'Khassakhel'. It is said that Muhammad I maintained nearly four thousand such bodyguards. Thus C matches 3.\n\nSilahdars were in charge of the Sultan's personal armoury. Thus A matches 1.\n\nDuring emergencies, Barbardan was entrusted with the mobilization of troops. Thus D matches 4.\nHence, the correct matching is A-1, B-2, C-3, and D-4."
+    }
+  },
+  {
+    "id": 19,
+    "subject": "History",
+    "topic": "Provincial Kingdoms",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "शम्सुद्दीन शाह द्वारा शैव शासक को पदच्युत करने के बाद कश्मीर सल्तनत का उदय हुआ।",
+        "en": "The Kashmir Sultanate emerged after Shamsuddin Shah deposed the Saiva ruler."
+      },
+      {
+        "id": 2,
+        "hi": "गुजरात सल्तनत का उदय तब हुआ जब जफर खान ने तैमूर के आक्रमण के बाद स्वतंत्रता की घोषणा की।",
+        "en": "The Gujarat Sultanate emerged when Zafar Khan declared independence after Timur's invasion."
+      },
+      {
+        "id": 3,
+        "hi": "हाजी इलियास खान द्वारा इलियास शाही राजवंश के तहत बंगाल को एकजुट करने के बाद बंगाल सल्तनत का उदय हुआ।",
+        "en": "The Bengal Sultanate emerged after Haji Ilyas Khan united Bengal under the Ilyas Shah dynasty."
+      },
+      {
+        "id": 4,
+        "hi": "मोहम्मद बिन तुगलक के खिलाफ विद्रोह के बाद हरिहर और बुक्का द्वारा मालवा सल्तनत की स्थापना की गई थी।",
+        "en": "The Malwa Sultanate was established directly by Harihara and Bukka after their revolt against Muhammad bin Tughlaq."
+      }
+    ],
+    "question": {
+      "hi": "दिल्ली सल्तनत के पतन के बाद उभरे प्रांतीय राज्यों के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements regarding the provincial kingdoms that emerged after the decline of the Delhi Sultanate:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 4",
+        "en": "1 and 4 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "वर्ष 1339 में, शम्सुद्दीन शाह ने शैव शासक को पदच्युत कर दिया और कश्मीर का शासक बन गया। इसने कश्मीर सल्तनत के उदय और कश्मीरी समाज में इस्लाम के बढ़ते प्रभाव को चिह्नित किया। अतः कथन 1 सही है।\n\nतैमूर के आक्रमण के बाद, गुजरात के गवर्नर ज़फर खान ने वर्ष 1407 ई. में स्वतंत्रता प्राप्त कर ली और बाद में मुज़फ्फर शाह की उपाधि धारण की। अतः कथन 2 सही है।\n\nवर्ष 1342 में, हाजी इलियास खान ने बंगाल को एकजुट किया, शम्सुद्दीन इलियास शाह की उपाधि धारण की और इलियास शाही राजवंश की स्थापना की। अतः कथन 3 सही है।\n\nहरिहर और बुक्का ने विजयनगर साम्राज्य की स्थापना की थी, मालवा सल्तनत की नहीं। मालवा सल्तनत का उदय दिलावर खान गौरी के नेतृत्व में हुआ था। अतः कथन 4 सही नहीं है।",
+      "en": "In 1339, Shamsuddin Shah deposed the Saiva ruler and became the ruler of Kashmir. This marked the emergence of the Kashmir Sultanate and the growing influence of Islam in Kashmiri society. Hence, statement 1 is correct.\n\nAfter Timur's invasion, Zafar Khan, the governor of Gujarat, gained independence in 1407 CE and later assumed the title Muzaffar Shah. Hence, statement 2 is correct.\n\nIn 1342, Haji Ilyas Khan united Bengal, assumed the title Shamsuddin Ilyas Shah, and founded the Ilyas Shahi dynasty. Hence, statement 3 is correct.\n\nHarihara and Bukka founded the Vijayanagara Empire, not the Malwa Sultanate. The Malwa Sultanate emerged under the leadership of Dilawar Khan Ghauri. Hence, statement 4 is incorrect."
+    }
+  },
+  {
+    "id": 20,
+    "subject": "History",
+    "topic": "Mughal Empire",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बाबर की सेना इब्राहिम लोदी की सेना से संख्या में अधिक थी।",
+        "en": "Babur's army outnumbered Ibrahim Lodi's army."
+      },
+      {
+        "id": 2,
+        "hi": "बाबर ने तोपखाने के साथ युद्ध की ओटोमन या रूमी पद्धति का उपयोग किया।",
+        "en": "Babur employed the Ottoman, or Rumi, system of warfare with artillery."
+      },
+      {
+        "id": 3,
+        "hi": "बाबर की रक्षात्मक स्थिति को सुदृढ़ करने के लिये खाइयों और अवरोधों का उपयोग किया गया था।",
+        "en": "Trenches and barricades were used to strengthen Babur's defensive position."
+      }
+    ],
+    "question": {
+      "hi": "पानीपत के प्रथम युद्ध (1526) के संदर्भ में, निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त में से कितने कथन सही हैं?",
+      "en": "With reference to the First Battle of Panipat (1526), consider the following statements:\nHow many of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "बाबर की सेना इब्राहिम लोदी की सेना की तुलना में काफी सीमित थी। बाबर के पास लगभग 12,000 सैनिकों की एक सक्रिय सेना थी, जबकि इब्राहिम लोदी की सेना की संख्या लगभग 100,000 होने का अनुमान है। बाबर का लाभ बेहतर संगठन और सैन्य रणनीति में निहित था, न कि संख्यात्मक शक्ति में। अतः कथन 1 सही नहीं है।\n\nबाबर ने प्रभावी रूप से युद्ध की रूमी या ओटोमन पद्धति का उपयोग किया, जिसमें मैदानी तोपखाने को सामरिक युद्धाभ्यास के साथ संयोजित किया गया था। उसकी सेनाओं ने इब्राहिम लोदी की सेना पर पार्श्व से भी हमला किया। अतः कथन 2 सही है।\n\nबाबर ने खाइयों, अवरोधों और रक्षात्मक व्यवस्थाओं का उपयोग करके अपनी स्थिति सुदृढ़ की, जिसने इब्राहिम लोदी की सेना की प्रगति में बाधा उत्पन्न की और अफगानों को भारी क्षति पहुँचाने में योगदान दिया। अतः कथन 3 सही है।",
+      "en": "Babur's army was quite limited compared to Ibrahim Lodi's army. Babur had an active army of about 12,000 soldiers, while Ibrahim Lodi's army is estimated to have numbered around 100,000. Babur's advantage lay in better organization and military strategy, not numerical strength. Hence, statement 1 is incorrect.\n\nBabur effectively used the Rumi or Ottoman method of warfare, which combined field artillery with tactical maneuvers. His forces also attacked Ibrahim Lodi's army from the flanks. Hence, statement 2 is correct.\n\nBabur strengthened his position using trenches, barricades, and defensive arrangements, which hindered the progress of Ibrahim Lodi's army and contributed to inflicting heavy losses on the Afghans. Hence, statement 3 is correct."
+    }
+  }
+]
