@@ -1,0 +1,3827 @@
+[
+  {
+    "id": 1,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "कंप्यूटर किस प्रकार की इकाई/डिवाइस होती है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इलेक्ट्रॉनिक",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इलेक्ट्रिक",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "बोथ ए एंड बी",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "इनमें से कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) इलेक्ट्रॉनिक",
+      "en": null
+    }
+  },
+  {
+    "id": 2,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "कंप्यूटर का कार्य (Operation) क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इनपुट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "प्रोसेस",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "आउटपुट",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "ऑल (उपरोक्त सभी)",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) ऑल",
+      "en": null
+    }
+  },
+  {
+    "id": 3,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "कंप्यूटर मुख्य रूप से क्या स्वीकार (Accept) करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "डाटा",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इंफॉर्मेशन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "आउटपुट",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कुछ नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) डाटा",
+      "en": null
+    }
+  },
+  {
+    "id": 4,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "कंप्यूटर हमें क्या प्रदान (Provide) करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "डाटा",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इंफॉर्मेशन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "आउटपुट",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कुछ नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) आउटपुट",
+      "en": null
+    }
+  },
+  {
+    "id": 5,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "कंप्यूटर डाटा को किस रूप में ग्रहण करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "बाइनरी रूप में",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "डेसीमल रूप में",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "ऑक्टल रूप में",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "नन",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) बाइनरी रूप में (0 और 1)",
+      "en": null
+    }
+  },
+  {
+    "id": 6,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "कंप्यूटर के प्रकार कौन-कौन से हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "मेन फ्रेम",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "माइक्रो",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "सुपर कंप्यूटर",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "ऑल",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) ऑल",
+      "en": null
+    }
+  },
+  {
+    "id": 7,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "डेस्कटॉप कंप्यूटर को और किस नाम से जाना जाता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "पर्सनल कंप्यूटर",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "लैपटॉप",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "टैबलेट",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "नन",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) पर्सनल कंप्यूटर",
+      "en": null
+    }
+  },
+  {
+    "id": 8,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "हाइब्रिड कंप्यूटर किस प्रकार का होता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एनालॉग कंप्यूटर",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "डिजिटल कंप्यूटर",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "बोथ ए और बी",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) बोथ ए और बी",
+      "en": null
+    }
+  },
+  {
+    "id": 9,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "मॉडर्न डिजिटल कंप्यूटर के आधारभूत तत्व (Basic Component) क्या हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इनपुट डिवाइस",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "आउटपुट डिवाइस",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "CPU",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 10,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वेब टेक्नोलॉजी को किन रूपों में वर्गीकृत किया जा सकता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "WWW",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "सर्वर",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "वेब ब्राउज़र",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "ऑल",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) ऑल",
+      "en": null
+    }
+  },
+  {
+    "id": 11,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "WWW का फुल फॉर्म क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "वर्ल्ड वाइड वेब",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "वेब वर्ल्ड वाइड",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "वाइड वेब वर्ल्ड",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "नन",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) वर्ल्ड वाइड वेब",
+      "en": null
+    }
+  },
+  {
+    "id": 12,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वेब पेज को देखने के लिए किस टूल का उपयोग किया जाता है?",
+      "en": null
+    },
+    "options": null,
+    "correctAnswer": "वेब ब्राउज़र",
+    "explanation": {
+      "hi": "वेब ब्राउज़र",
+      "en": null
+    }
+  },
+  {
+    "id": 13,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वेब टेक्नोलॉजी का महत्व क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ग्लोबल रीच",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "कॉस्ट इफेक्टिवनेस",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "बोथ ए एंड बी",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "नन ऑफ दीज",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": ": C) बोथ ए एंड बी",
+      "en": null
+    }
+  },
+  {
+    "id": 14,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर सिक्योरिटी की संरचना (Architecture) का विकल्प क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "लिंक",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "नो लिंक",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों",
+      "en": null
+    }
+  },
+  {
+    "id": 15,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वेब ब्राउज़र का उपयोग किसे एक्सेस करने के लिए किया जाता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "वेब पेज",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "एनिमेशन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "टेक्स्ट",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "नन",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) वेब पेज",
+      "en": null
+    }
+  },
+  {
+    "id": 16,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "WWW की विशेषताएं (Features) क्या हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "क्रॉस प्लेटफॉर्म",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "डिस्ट्रीब्यूटर",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "हाइपर टेक्स्ट इंफॉर्मेशन सिस्टम",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "ऑल ऑफ दिस",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) ऑल ऑफ दिस",
+      "en": null
+    }
+  },
+  {
+    "id": 17,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वेब के तत्व (Components) क्या हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "URL",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "HTTP",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "HTML",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "ऑल",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) ऑल",
+      "en": null
+    }
+  },
+  {
+    "id": 18,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "डिजिटल टेक्नोलॉजी का विश्लेषण (Describe) करने के लिए किसकी मदद ली जाती है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "साइबर स्पेस की",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "साइबर क्राइम की",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "साइबर कैफे की",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "किसी की नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) साइबर स्पेस की",
+      "en": null
+    }
+  },
+  {
+    "id": 19,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर स्पेस वह वेब है जिसमें क्या शामिल होता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कंप्यूटर",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "कम्युनिकेशन नेटवर्क",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों",
+      "en": null
+    }
+  },
+  {
+    "id": 20,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर स्पेस किस प्रकार का स्पेस है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "डायनेमिक",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "वर्चुअल",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों",
+      "en": null
+    }
+  },
+  {
+    "id": 21,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर स्पेस क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "डिजिटल मीडियम",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "फिजिकल स्पेस",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) डिजिटल मीडियम",
+      "en": null
+    }
+  },
+  {
+    "id": 22,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर स्पेस का आकार (Shape) कैसा होता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "फिक्स्ड कंटोर",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "नो फिक्स्ड शेप",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "फिक्स्ड शेप",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "B) नो फिक्स्ड शेप",
+      "en": null
+    }
+  },
+  {
+    "id": 23,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "इंटरनेट किसका संक्षिप्त रूप (Short term) है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इंटरकनेक्टेड नेटवर्क",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "लेन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "मेन",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "ऑल",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) इंटरकनेक्टेड नेटवर्क",
+      "en": null
+    }
+  },
+  {
+    "id": 24,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "इंटरनेट को किसके द्वारा डेवलप किया गया था?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "बप कन",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "विंट कर्फ",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों",
+      "en": null
+    }
+  },
+  {
+    "id": 25,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "इंटरनेट किस प्रयोग/एक्सपेरिमेंट का परिणाम है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अर्पानेट (ARPANET)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "टोपोलॉजी",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "इन सभी के माध्यम से",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) अर्पानेट",
+      "en": null
+    }
+  },
+  {
+    "id": 26,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "इंटरनेट कब पॉपुलर हुआ था?",
+      "en": null
+    },
+    "options": null,
+    "correctAnswer": "1990 के आसपास",
+    "explanation": {
+      "hi": "1990 के आसपास",
+      "en": null
+    }
+  },
+  {
+    "id": 27,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "इंटरनेट के प्रमुख एप्लीकेशन कौन से हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "डाटा शेयरिंग",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "कम्युनिकेशन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "सर्चिग",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "ऑल",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) ऑल",
+      "en": null
+    }
+  },
+  {
+    "id": 28,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ISOC (आईएसओसी) का फुल फॉर्म क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इंटरनेट सोसाइटी",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इंट्रानेट सोसाइटी",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "इंटरनेट सोशल",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "नन",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) इंटरनेट सोसाइटी",
+      "en": null
+    }
+  },
+  {
+    "id": 29,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ISOC किसके लिए जवाबदेह (Responsible) है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इंटरनेट स्टैंडर्ड",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "एजुकेशन पॉलिसी",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "डेवलपमेंट",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "सभी के लिए",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) सभी के लिए",
+      "en": null
+    }
+  },
+  {
+    "id": 30,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 1: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "इंटरनेट गवर्नेस में कौन-कौन से सिस्टम शामिल होते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "लॉ (Law)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "रूल्स (Rules)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "पॉलिसी (Policy)",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 31,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ISOC (आईएसओसी) मुख्य रूप से किन क्षेत्रों को एड्रेस (Address) करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "टेक्निकल स्टैंडर्ड को इंप्लीमेंट करना",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "हार्मोनाइज पॉलिसीज",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "एजुकेशनल एंड रिसर्च एफर्ट्स",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 32,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वेब ब्राउज़र क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "हार्डवेयर",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "एप्लीकेशन सॉफ्टवेयर",
+        "en": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "B) एप्लीकेशन",
+      "en": null
+    }
+  },
+  {
+    "id": 33,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वेब ब्राउज़र यूजर को किसके साथ इंटरेक्ट करने का विकल्प देता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "टेक्स्ट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इमेज",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "वीडियो",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 34,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वेब ब्राउज़र यूजर को इंफॉर्मेशन एक्सेस करने में कैसे हेल्प करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "क्विकली",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इजली",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "बोथ ए एंड बी",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "नन",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) बोथ ए एंड बी",
+      "en": null
+    }
+  },
+  {
+    "id": 35,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वेब ब्राउज़र जानकारी को प्रदर्शित करने के लिए किस प्रारूप का उपयोग करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "HTML",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "HTTP",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "HTTPS",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "ऑल",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) HTML",
+      "en": null
+    }
+  },
+  {
+    "id": 36,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वेब ब्राउज़र किस प्रोटोकॉल का उपयोग करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "HTML",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "HTTP",
+        "en": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "B) HTTP",
+      "en": null
+    }
+  },
+  {
+    "id": 37,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वेब ब्राउज़र में पेजेस को कैसे आइडेंटिफाई किया जाता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "URL",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "ULR",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) URL",
+      "en": null
+    }
+  },
+  {
+    "id": 38,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वेब ब्राउज़र के उदाहरण क्या हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "मोज़िला",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इंटरनेट एक्सप्लोरर",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "क्रोम",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 39,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सर्च इंजन किस प्रकार की आंसरिंग मशीन है?",
+      "en": null
+    },
+    "options": null,
+    "correctAnswer": "ऑनलाइन आंसरिंग मशीन",
+    "explanation": {
+      "hi": "ऑनलाइन आंसरिंग मशीन",
+      "en": null
+    }
+  },
+  {
+    "id": 40,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "लिस्ट के रूप में कंटेंट को संगठित करने की प्रक्रिया क्या कहलाती है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "SERP",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "SEEP",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "SEPR",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "इनमें से कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) SERP",
+      "en": null
+    }
+  },
+  {
+    "id": 41,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सर्च इंजन के उदाहरण क्या हैं?",
+      "en": null
+    },
+    "options": null,
+    "correctAnswer": "दिए गए सभी विकल्प",
+    "explanation": {
+      "hi": "दिए गए सभी विकल्प",
+      "en": null
+    }
+  },
+  {
+    "id": 42,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सर्च इंजन के कंपोनेंट (तत्व) क्या हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "क्रॉलर",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "डेटाबेस",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "इंटीग्रेशन",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 43,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सर्च इंजन का बेसिक बिल्डिंग ब्लॉक (आधारभूत तत्व) क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इंडेक्सिंग",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "केरिया",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "दोनों में से कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों",
+      "en": null
+    }
+  },
+  {
+    "id": 44,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वेबसाइट इंटरनेट पर क्या होती है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "लोकेशन",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "प्रोटोकॉल",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "सर्विस",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) लोकेशन",
+      "en": null
+    }
+  },
+  {
+    "id": 45,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वेब पोर्टल किसे एक्सेस पॉइंट प्रदान करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "मल्टी",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "यूनि डायरेक्टिव (सिंगल पर्सन)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "B) यूनि डायरेक्टिव",
+      "en": null
+    }
+  },
+  {
+    "id": 46,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वेबसाइट को किसके द्वारा एक्सेस किया जा सकता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "URL",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "ULR",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) URL",
+      "en": null
+    }
+  },
+  {
+    "id": 47,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वेब पोर्टल कैसा होता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "यूजर सेंट्रिक",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "वेब पोर्टल (implied non-centric)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) यूजर सेंट्रिक",
+      "en": null
+    }
+  },
+  {
+    "id": 48,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "किसे नियमित रूप से (Regularly) अपडेट किया जाता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "वेबसाइट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "वेब पोर्टल",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "B) वेब पोर्टल",
+      "en": null
+    }
+  },
+  {
+    "id": 49,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "मॉड्यूलर कंस्ट्रक्शन (Modular Construction) वाली संरचना किसकी होती है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "वेबसाइट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "वेब पोर्टल",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "B) वेब पोर्टल",
+      "en": null
+    }
+  },
+  {
+    "id": 50,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सिंपल कंस्ट्रक्शन (सरल संरचना) किसकी होती है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "वेबसाइट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "वेब पोर्टल",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) वेबसाइट",
+      "en": null
+    }
+  },
+  {
+    "id": 51,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सिंपल सिक्योरिटी मैकेनिज्म (सरल सुरक्षा तंत्र) का उपयोग कौन करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "वेबसाइट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "वेब पोर्टल",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) वेबसाइट",
+      "en": null
+    }
+  },
+  {
+    "id": 52,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "कॉम्प्लेक्स सिक्योरिटी मैकेनिज्म (जटिल सुरक्षा तंत्र) का उपयोग कौन करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "वेबसाइट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "वेब पोर्टल",
+        "en": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "B) वेब पोर्टल",
+      "en": null
+    }
+  },
+  {
+    "id": 53,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "कंप्यूटर सिक्योरिटी में क्या सुरक्षित (Secure) रहता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इंफॉर्मेशन",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "एप्लीकेशन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "नेटवर्क",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 54,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "कंप्यूटर सिक्योरिटी के एरिया (क्षेत्र) कौन-कौन से हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इंटीग्रिटी",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "सिक्योरिटी",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "कॉन्फिडेंशियल्टी",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 55,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "कंप्यूटर सिक्योरिटी के लिए क्या चुनौतियां (Challenges) हो सकती हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "मनी मॉनिटरिंग",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "पोटेंशियल अटैक्स",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "एगजैक्टली यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 56,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "कंप्यूटर सिक्योरिटी की विधि (Method) क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एंटीवायरस",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "फायरवॉल",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "स्ट्रांग पासवर्ड",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 57,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "फायरवॉल किस प्रकार के ट्रैफिक को मॉनिटर करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इनकमिंग",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "आउटगोइंग",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) इनकमिंग",
+      "en": null
+    }
+  },
+  {
+    "id": 58,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "फायरवॉल का मोड क्या है (वायरस से सामना होने पर)?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एक्सेप्ट करना",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "रिजेक्ट करना",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "ड्रॉप करना",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) ड्रॉप करना",
+      "en": null
+    }
+  },
+  {
+    "id": 59,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "फायरवॉल के लाभ (Advantage) क्या हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अनऑथराइज्ड एक्सेस से प्रोटेक्शन",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "मॉनिटरिंग",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "प्रिवेंशन फ्रॉम मेलवेयर",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "तीनों",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) तीनों",
+      "en": null
+    }
+  },
+  {
+    "id": 60,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "फायरवॉल के नुकसान (Disadvantage) क्या हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कॉम्प्लेक्सिटी",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "लिमिटेड विजिबिलिटी",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "कॉस्ट",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 61,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ऑनलाइन सिक्योरिटी के लिए क्या स्टेप्स हो सकते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "टू-फैक्टर ऑथेंटिकेशन",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "वेरीफाई एवरी ट्रांजैक्शन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "यूज एसएसएल सर्टिफिकेट",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 62,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 2: कंप्यूटर और वेब प्रौद्योगिकी का अवलोकन - भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "डिजिटल सिक्योरिटी के प्रकार क्या हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "नेटवर्क",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "एंड पॉइंट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "क्लाउड",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 63,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 3: डिजिटल भुगतान और ई-कॉमर्स (Digital Payment and E-commerce)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "आई बैंकिंग (I-Banking) को और किस रूप में जाना जाता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ऑनलाइन बैंकिंग",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "ई-बैंकिंग",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "वर्चुअल बैंकिंग",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "ऑल (यह सभी)",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) ऑल",
+      "en": null
+    }
+  },
+  {
+    "id": 64,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 3: डिजिटल भुगतान और ई-कॉमर्स (Digital Payment and E-commerce)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "आई बैंकिंग की विशेषताएं (Features) क्या हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सिक्योर (सुरक्षित)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "कन्वेनिएंट (सुविधाजनक)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "इजी एक्सेस (आसान पहुंच)",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 65,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 3: डिजिटल भुगतान और ई-कॉमर्स (Digital Payment and E-commerce)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ऑनलाइन फंड ट्रांसफर करने के तरीके कौन से हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "NEFT",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "RTGS",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "IMPS",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 66,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 3: डिजिटल भुगतान और ई-कॉमर्स (Digital Payment and E-commerce)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "NEFT का फुल फॉर्म क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "नेशनल इलेक्ट्रॉनिक फंड ट्रांसफर",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "नेशनल इलेक्ट्रॉनिक फ्लॉस फर",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "नेशनल इलेक्ट्रॉनिक फंड फंड ट्रांसफर",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "नन ऑफ दिस",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) नेशनल इलेक्ट्रॉनिक फंड ट्रांसफर",
+      "en": null
+    }
+  },
+  {
+    "id": 67,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 3: डिजिटल भुगतान और ई-कॉमर्स (Digital Payment and E-commerce)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "RTGS का फुल फॉर्म क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "रियल टाइम जियोग्राफी सेटलमेंट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "रियल टाइम ग्रोस सेटलमेंट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "रियल टाइम ग्रोस सेटलमेंट (spelling vary)",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "नन ऑफ दिस",
+        "en": null
+      }
+    ],
+    "correctAnswer": "B/C) रियल टाइम ग्रोस सेटलमेंट",
+    "explanation": {
+      "hi": "B/C) रियल टाइम ग्रोस सेटलमेंट",
+      "en": null
+    }
+  },
+  {
+    "id": 68,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 3: डिजिटल भुगतान और ई-कॉमर्स (Digital Payment and E-commerce)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "RTGS की मिनिमम लिमिट क्या होती है?",
+      "en": null
+    },
+    "options": null,
+    "correctAnswer": "कम से कम 2 लाख रुपये",
+    "explanation": {
+      "hi": "कम से कम 2 लाख रुपये",
+      "en": null
+    }
+  },
+  {
+    "id": 69,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 3: डिजिटल भुगतान और ई-कॉमर्स (Digital Payment and E-commerce)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "IMPS का फुल फॉर्म क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इमीडिएट पेमेंट सिस्टम",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इमीडिएट पेड सिस्टम",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "इंडेक पेमेंट सिस्टम",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) इमीडिएट पेमेंट सिस्टम",
+      "en": null
+    }
+  },
+  {
+    "id": 70,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 3: डिजिटल भुगतान और ई-कॉमर्स (Digital Payment and E-commerce)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "फाइनेंशियल टूल्स (वित्तीय उपकरण) किसके मैनेजमेंट में सहायता करते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "असेट (Asset)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "एक्सपेंडिचर (खर्च)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "इनकम (आय)",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "इन तीनों को",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) इन तीनों को",
+      "en": null
+    }
+  },
+  {
+    "id": 71,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 3: डिजिटल भुगतान और ई-कॉमर्स (Digital Payment and E-commerce)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "फाइनेंशियल टूल्स का मुख्य लक्ष्य (Aim) क्या होता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "प्रॉफिट को मैक्सिमाइज (बढ़ाना) करना",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "ऑप्टिमाइज प्रॉफिट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "प्रॉफिट को वैल्युएट करना",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) प्रॉफिट को मैक्सिमाइज करना",
+      "en": null
+    }
+  },
+  {
+    "id": 72,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 3: डिजिटल भुगतान और ई-कॉमर्स (Digital Payment and E-commerce)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "फाइनेंशियल टूल्स के मुख्य तत्व (Key Component) कौन से हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "रिटेल एजेंट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "डिवाइसेस",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "प्रोसेस",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 73,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 3: डिजिटल भुगतान और ई-कॉमर्स (Digital Payment and E-commerce)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "टॉप फाइनेंशियल मैनेजमेंट टूल्स कौन-कौन से हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अकाउंटिंग",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "बजटिंग",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "बिलिंग",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 74,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 3: डिजिटल भुगतान और ई-कॉमर्स (Digital Payment and E-commerce)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "OTP का फुल फॉर्म क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "वन टाइम पासवर्ड",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "वन टाइम पासपोर्ट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "वंस टाइम पासवर्ड",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) वन टाइम पासवर्ड",
+      "en": null
+    }
+  },
+  {
+    "id": 75,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 3: डिजिटल भुगतान और ई-कॉमर्स (Digital Payment and E-commerce)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "OTP का यूज़ किस लिए किया जाता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ग्रांटिंग परमिशन",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "वेरीफाइंग यूजर",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "ऑथेंटिकेशन",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 76,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 3: डिजिटल भुगतान और ई-कॉमर्स (Digital Payment and E-commerce)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "QR का फुल फॉर्म क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "क्विकली रिस्पांस",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "क्विक रिस्पांस",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "क्विक रिस्पेक्ट",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "B) क्विक रिस्पांस",
+      "en": null
+    }
+  },
+  {
+    "id": 77,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 3: डिजिटल भुगतान और ई-कॉमर्स (Digital Payment and E-commerce)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "UPI का फुल फॉर्म क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "यूनिफाइड पेमेंट इंटरफेस",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "यूनिफाई यूनिक पेमेंट सिस्टम",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "यूनिफाइड पेड सिस्टम",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) यूनिफाइड पेमेंट इंटरफेस",
+      "en": null
+    }
+  },
+  {
+    "id": 78,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 3: डिजिटल भुगतान और ई-कॉमर्स (Digital Payment and E-commerce)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "डिजिटल पेमेंट सिस्टम के तरीके कौन से हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "UPI",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "AEPS (आधार इनेबल पेमेंट सिस्टम)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "क्रेडिट कार्ड",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 79,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 3: डिजिटल भुगतान और ई-कॉमर्स (Digital Payment and E-commerce)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "USSD किसके लिए प्रयोग किया जाता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "वायरलेस एप्लीकेशन के लिए",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "वायर्ड एप्लीकेशन के लिए",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "वेब एप्लीकेशन",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "इनमें से कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) वायरलेस एप्लीकेशन के लिए",
+      "en": null
+    }
+  },
+  {
+    "id": 80,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 3: डिजिटल भुगतान और ई-कॉमर्स (Digital Payment and E-commerce)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "डेबिट कार्ड से पेमेंट निकालते वक्त पैसा कहां से कटता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कस्टमर बैंक अकाउंट से",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इशृंग अथॉरिटी अकाउंट से",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों से",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "किसी से नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) कस्टमर बैंक अकाउंट से",
+      "en": null
+    }
+  },
+  {
+    "id": 81,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 3: डिजिटल भुगतान और ई-कॉमर्स (Digital Payment and E-commerce)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "डेबिट कार्ड में फंड (पैसे) का सोर्स क्या होता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सेविंग अकाउंट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "करंट अकाउंट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों",
+      "en": null
+    }
+  },
+  {
+    "id": 82,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 3: डिजिटल भुगतान और ई-कॉमर्स (Digital Payment and E-commerce)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "जब कस्टमर डेबिट कार्ड यूज करता है, तो क्या चार्ज लगता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "नो इंटरेस्ट इज चार्जड (कोई ब्याज नहीं)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इंटरेस्ट चार्ज",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "फिक्स अमाउंट इज टेकन",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) नो इंटरेस्ट इज चार्जड",
+      "en": null
+    }
+  },
+  {
+    "id": 83,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "क्रेडिट कार्ड के मामले में ब्याज (Interest) किस पर लगाया जाता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "Outstanding amount (बकाया राशि)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "Paid amount",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "No interest is charged",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "All of these",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) Outstanding amount (बकाया राशि)",
+      "en": null
+    }
+  },
+  {
+    "id": 84,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ई-वॉलेट (E-Wallet) का फुल फॉर्म क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इलेक्ट्रॉनिक वॉलेट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इलेक्ट्रिक वॉलेट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "इलेक्ट्रॉनिक वॉल",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "इनमें से कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) इलेक्ट्रॉनिक वॉलेट",
+      "en": null
+    }
+  },
+  {
+    "id": 85,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ई-वॉलेट किस प्रकार के होते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "डिजिटल",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "क्रिप्टो",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "मोबाइल",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 86,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ई-कॉमर्स (E-commerce) का अर्थ/ फुल फॉर्म क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इलेक्ट्रॉनिक कॉमर्स",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इलेक्ट्रॉनिक कमोडिटी",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "इलेक्ट्रिक कमोडिटी",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "इनमें से कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) इलेक्ट्रॉनिक कॉमर्स",
+      "en": null
+    }
+  },
+  {
+    "id": 87,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ई-कॉमर्स किस प्रकार की सेवाएं प्रदान करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "Buy (खरीदना)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "Sell (बेचना)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "Both A and B",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) Both A and B (खरीदना और बेचना दोनों)",
+      "en": null
+    }
+  },
+  {
+    "id": 88,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "इनमें से ई-कॉमर्स का उदाहरण कौन सा है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "Amazon",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "OLX",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "eBay",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 89,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ई-कॉमर्स को किसके माध्यम से संचालित किया जाता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कंप्यूटर",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "लैपटॉप",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "मोबाइल",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 90,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ई-कॉमर्स किस मोड में काम करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "B2B",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "B2C",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "C2C",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 91,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ई-कॉमर्स के मुख्य तत्व (Component) क्या हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "यूजर",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "वेंडर (विक्रेता)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "नेटवर्क",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 92,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ई-कॉमर्स ट्रांजैक्शन का सबसे मुख्य तत्व (Key Component) कौन सा है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "नेटवर्क",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "डाटा इंटरचेंज",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) नेटवर्क",
+      "en": null
+    }
+  },
+  {
+    "id": 93,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "डाटा इंटरचेंज (Data Interchange) ई-कॉमर्स में क्या सुनिश्चित करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एक्यूरेट डाटा",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इनक्रिप्टेड डाटा",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों",
+      "en": null
+    }
+  },
+  {
+    "id": 94,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ई-कॉमर्स वेंडर को कैसा ट्रांजैक्शन सुनिश्चित करना चाहिए?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "Better",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "Effective",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "Efficient",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 95,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वेयरहाउस (Warehouse) ऑपरेशन में कौन से कार्य शामिल होते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "पिक द प्रोडक्ट (प्रोडक्ट लेना)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "पैक द प्रोडक्ट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "डिलीवर द प्रोडक्ट",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 96,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ई-कॉमर्स का यूजर कौन हो सकता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इंडिविजुअल (व्यक्ति)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "ऑर्गेनाइजेशन (संस्था)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों",
+      "en": null
+    }
+  },
+  {
+    "id": 97,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ई-कॉमर्स में कस्टमर किसके माध्यम से पेमेंट कर सकता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "पेमेंट गेटवे",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "डायरेक्ट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) पेमेंट गेटवे",
+      "en": null
+    }
+  },
+  {
+    "id": 98,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ई-कॉमर्स सिक्योरिटी के तत्व कौन से हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "प्राइवेसी",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इंटीग्रिटी",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "ऑथेंटिकेशन",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 99,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ई-कॉमर्स के थ्रेट (खतरे) क्या हो सकते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "डाटा चोरी (Data Stolen)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "मैलवेयर अटैक (वायरस)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों",
+      "en": null
+    }
+  },
+  {
+    "id": 100,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ई-कॉमर्स सिक्योरिटी को सुरक्षित रखने के तरीके (Best Practices) क्या हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "स्ट्रांग पासवर्ड",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "यूज़ फायरवॉल",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "यूज़ SSL",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  }
+]
