@@ -2173,5 +2173,3310 @@
       "hi": "खजुराहो के कंदरिया महादेव मंदिर का उल्लेख लगभग 1002 ईस्वी के काल में मिलता है। इसे 10वीं से 13वीं शताब्दी के बीच की अवधि की प्रमुख मंदिर निर्माण उपलब्धियों में सूचीबद्ध किया गया है। अतः युग्म 1 सही सुमेलित है।\n\nतंजौर का राजराजेश्वर मंदिर लगभग 1012 ईस्वी का है। यह इस अवधि के मंदिर स्थापत्य और मूर्तिकला परंपरा के उत्कृष्ट उदाहरणों में से एक है। अतः युग्म 2 सही सुमेलित नहीं है।\n\nकोणार्क स्थित सूर्य मंदिर का निर्माण लगभग 1250 ई. में हुआ था। इसे मध्यकालीन भारतीय स्थापत्य की उपलब्धि के उत्कृष्ट मंदिर स्मारकों में शामिल किया गया है। अतः युग्म 3 सही सुमेलित है।",
       "en": "The Kandariya Mahadev Temple at Khajuraho dates to around 1002 CE. It is listed among the major temple-building achievements of the period between the 10th and 13th centuries. Hence, pair 1 is correctly matched.\n\nThe Rajarajeshwara Temple at Tanjore dates to around 1012 CE. It is one of the outstanding examples of temple architecture and sculptural tradition from this period. Hence, pair 2 is not correctly matched.\n\nThe Sun Temple at Konark was constructed around 1250 CE. It is counted among the most exquisite temple monuments representing the achievements of medieval Indian architecture. Hence, pair 3 is correctly matched."
     }
+  },
+  {
+    "id": 41,
+    "subject": "History",
+    "topic": "Art & Culture - Architecture",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "स्तूप सामान्यतः बुद्ध या अन्य सम्मानित व्यक्तियों के अवशेषों पर बनाए जाते थे।",
+        "en": "A stupa was generally constructed over the relics of the Buddha or other revered personalities."
+      },
+      {
+        "id": 2,
+        "hi": "चैत्य एक पूजा स्थल था जिसके भीतर एक वोटिव स्तूप स्थापित होता था।",
+        "en": "A chaitya was a shrine hall with a votive stupa placed inside it."
+      },
+      {
+        "id": 3,
+        "hi": "विहार का प्राथमिक उद्देश्य पूजा के लिये अवशेष-स्तूप के रूप में कार्य करना था।",
+        "en": "A vihara was primarily meant to function as a relic mound for worship."
+      }
+    ],
+    "question": {
+      "hi": "बौद्ध स्थापत्य के संबंध में निम्नलिखित में से कौन-सा/से कथन सही है/हैं ?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following statements regarding Buddhist architectural forms is/are correct?\nSelect the answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "स्तूप का निर्माण सामान्यतः बुद्ध या अन्य सम्मानित व्यक्तियों के अवशेषों के ऊपर किया जाता था। यह एक महत्त्वपूर्ण बौद्ध धार्मिक स्मारक के रूप में विकसित हुआ और पूजा का केंद्र बन गया। अतः कथन 1 सही है।\n\nचैत्य एक पूजा स्थल होता था जो एक मंदिर के रूप में बना होता था। इसमें सामान्यतः एक वोटिव/संकल्पित स्तूप, एक लंबा हॉल, पार्श्व गलियारे और एक गुंबददार छत होती थी। अतः कथन 2 सही है।\n\nविहार कोई अवशेष टीला नहीं था। यह मुख्य रूप से बौद्ध भिक्षुओं के लिये एक आवासीय प्ररिसर था, जिसमें सामान्यतः एक केंद्रीय हॉल और छोटे कक्ष होते थें। अतः कथन 3 सही नहीं है।",
+      "en": "A stupa was generally constructed over the relics of the Buddha or other revered personalities. It developed as an important Buddhist religious monument and became a center of worship. Hence, statement 1 is correct.\n\nA chaitya was a place of worship constructed as a shrine hall. It generally contained a votive stupa, a long hall, side aisles, and a vaulted roof. Hence, statement 2 is correct.\n\nA vihara was not a relic mound. It was primarily a residential complex for Buddhist monks, usually consisting of a central hall and small cells. Hence, statement 3 is incorrect."
+    }
+  },
+  {
+    "id": 42,
+    "subject": "History",
+    "topic": "Art & Culture - Architecture",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बिहार के निकट स्थित बराबर पहाड़ियों की गुफाएँ अशोक द्वारा आजीवक भिक्षुओं को समर्पित की गई थीं।",
+        "en": "The Barabar Hills caves near Bihar were dedicated by Ashoka to the Ajivika monks."
+      },
+      {
+        "id": 2,
+        "hi": "एलोरा के बाद के गुफा मंदिरों का निर्माण 5वीं और 8वीं शताब्दी के बीच हुआ था।",
+        "en": "The later cave temples of Ellora were constructed between the 5th and 8th centuries A.D."
+      },
+      {
+        "id": 3,
+        "hi": "एलीफेंटा की गुफाएँ विशेष रूप से शिव की विशाल त्रिमूर्ति प्रतिमा के लिये प्रसिद्ध हैं।",
+        "en": "The Elephanta cave temples are famous especially for the great Trimurti figure of Siva."
+      }
+    ],
+    "question": {
+      "hi": "भारत में शैलकृत स्थापत्य के संबंध में निम्नलिखित में से कौन-सा/से कथन सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following statements regarding rock-cut architecture in India is/are correct?\nSelect the answer using the code given below : "
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "बिहार के निकट बराबर पहाड़ियों में स्थित प्रारंभिक शैल-कृत गुफाएँ अशोक द्वारा आजीवक भिक्षुओं को समर्पित की गई थीं। इन गुफाओं में एक सादा आयताकार बाह्य कक्ष था, जिसके एक छोर पर एक आंतरिक कक्ष स्थित था। अतः कथन 1 सही है।\n\nऔरंगाबाद के निकट एलोरा के बाद के गुफा मंदिरों का निर्माण 5वीं से 8वीं शताब्दी ईस्वी के बीच हुआ। इनमें बौद्ध, हिंदू और जैन गुफाएँ शामिल थीं। अतः कथन 2 सही है।\n\nबंबई के तट से दूर एक द्वीप पर स्थित एलीफेंटा के गुफा मंदिर अपनी मूर्तिकला के लिये महत्त्वपूर्ण हैं। वे विशेष रूप से शिव की विशाल त्रिमूर्ति प्रतिमा के लिये प्रसिद्ध हैं। अतः कथन 3 सही है।",
+      "en": "The early rock-cut caves located in the Barabar Hills near Bihar were dedicated by Ashoka to the Ajivika monks. These caves had a plain rectangular outer hall with an inner circular chamber at one end. Hence, statement 1 is correct.\n\nThe later cave temples of Ellora near Aurangabad were constructed between the 5th and 8th centuries CE. These included Buddhist, Hindu, and Jain caves. Hence, statement 2 is correct.\n\nThe Elephanta cave temples, located on an island off the coast of Bombay, are significant for their sculpture. They are especially famous for the giant Trimurti figure of Shiva. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 43,
+    "subject": "History",
+    "topic": "Art & Culture - Sculpture",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "गांधार कला शैली में मानव आकृति और वस्त्र-विन्यास के चित्रण में ग्रीक-रोमन प्रभाव स्पष्ट रूप से दिखाई देता है।",
+        "en": "The Gandhara school shows strong Greco-Roman influence in the treatment of the human figure and drapery."
+      },
+      {
+        "id": 2,
+        "hi": "मथुरा कला शैली में लाल बलुआ पत्थर का प्रयोग किया जाता था तथा इसमें बुद्ध, जैन तीर्थंकरों और ब्राह्मणवादी देवताओं की प्रतिमाएँ निर्मित की जाती थीं।",
+        "en": "The Mathura school used red sandstone and produced images of the Buddha, Jaina Tirthankaras and Brahmanical deities."
+      },
+      {
+        "id": 3,
+        "hi": "अमरावती कला शैली मुख्यतः उत्तर-पश्चिमी भारत की कला परंपराओं से संबद्ध थी।",
+        "en": "The Amaravati school was mainly associated with the art traditions of north-western India."
+      }
+    ],
+    "question": {
+      "hi": "गांधार, मथुरा और अमरावती मूर्तिकला शैलियों के संबंध में निम्नलिखित में से कौन-सा/से कथन सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following statements regarding Gandhara, Mathura and Amaravati schools of sculpture is/are correct?\nSelect the answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "गांधार कला शैली का विकास उत्तर-पश्चिमी क्षेत्र में हुआ और इसमें ग्रीक-रोमन प्रभाव स्पष्ट रूप से परिलक्षित होता है। इसकी मूर्तियों में मानव आकृतियों का यथार्थवादी चित्रण, लहराते हुए बाल, तीक्ष्ण चेहरे की विशेषताएँ तथा भारी वस्त्र-विन्यास दिखाई देता है। अतः कथन 1 सही है।\n\nमथुरा कला शैली में लाल बलुआ पत्थर का प्रयोग किया जाता था और बुद्ध, जैन तीर्थंकरों और ब्राह्मणवादी देवताओं सहित विभिन्न प्रकार की प्रतिमाएँ बनाई जाती थीं। गांधार शैली की तुलना में इसमें अधिक स्वदेशी स्वरूप था। अतः कथन 2 सही है।\n\nअमरावती कला शैली दक्कन क्षेत्र में स्थित निचली कृष्णा घाटी से संबद्ध थी, न कि उत्तर-पश्चिमी भारत से। इसकी मूर्तिकला कथात्मक उत्कीर्णनों और परिष्कृत अलंकरणात्मक शैली के लिये प्रसिद्ध है। अतः कथन 3 सही नहीं है।",
+      "en": "The Gandhara school developed in the northwestern region and strongly reflects Greco-Roman influence. Its sculptures show realistic treatment of human figures, wavy hair, sharp facial features, and heavy drapery. Hence, statement 1 is correct.\n\nThe Mathura school used red sandstone and produced a variety of images, including those of the Buddha, Jaina Tirthankaras, and Brahmanical deities. It had a more indigenous character compared to the Gandhara school. Hence, statement 2 is correct.\n\nThe Amaravati school was associated with the lower Krishna valley in the Deccan region, not northwestern India. Its sculpture is renowned for narrative reliefs and refined decorative style. Hence, statement 3 is incorrect."
+    }
+  },
+  {
+    "id": 44,
+    "subject": "History",
+    "topic": "Art & Culture - Sculpture",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "गुप्त मूर्तिकला संतुलन, संयम और आध्यात्मिक अभिव्यक्ति द्वारा चिह्नित है।",
+        "en": "Gupta sculpture is marked by balance, restraint and spiritual expression."
+      },
+      {
+        "id": 2,
+        "hi": "गुप्त काल की बुद्ध प्रतिमाओं में भारी विदेशी वस्त्र और मांसल यथार्थवाद प्रमुख विशेषताएँ हैं।",
+        "en": "The Buddha images of the Gupta period show heavy foreign drapery and muscular realism as their dominant features."
+      },
+      {
+        "id": 3,
+        "hi": "गुप्त कला की सारनाथ शैली अपनी परिष्कृत बुद्ध प्रतिमाओं के लिये प्रसिद्ध है, जिनमें शांत चेहरे की भाव-भंगिमा और महीन, पारदर्शी वस्त्र-विन्यास की विशेषता दिखाई देती है।",
+        "en": "The Sarnath school of Gupta art is known for its refined Buddha images with calm facial expression and thin transparent drapery."
+      }
+    ],
+    "question": {
+      "hi": "गुप्त कला और शास्त्रीय मूर्तिकला की विशेषताओं के संबंध में निम्नलिखित में से कौन-सा/से कथन सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following statements regarding Gupta art and classical sculptural features is/are correct?\nSelect the answer using the code given below :"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "गुप्तकालीन मूर्तिकला सामान्यतः सामंजस्य, संतुलन, संयम और आध्यात्मिक शांति के लिये प्रसिद्ध है। मानव आकृति को अत्यधिक शारीरिक यथार्थवाद के बजाय लालित्य एवं आदर्शीकृत सौंदर्य के साथ प्रस्तुत किया गया। अतः कथन 1 सही है।\n\nगुप्तकालीन बुद्ध प्रतिमाओं में मुख्यतः भारी विदेशी वस्त्र-विन्यास अथवा मांसल यथार्थवाद दिखाई नहीं देता। ये विशेषताएँ पहले की गांधार कला की प्रवृत्तियों से अधिक निकटता से संबद्ध हैं। गुप्तकालीन प्रतिमाओं में आध्यात्मिक शांति और परिष्कृत मूर्तिकला-निर्माण पर बल दिया गया। अतः कथन 2 सही नहीं है।\n\nगुप्त कला की सारनाथ शैली ने अत्यंत परिष्कृत बुद्ध प्रतिमाओं का निर्माण किया। इन प्रतिमाओं की प्रमुख विशेषताएँ शांत मुखाकृति, सुडौल शरीर, आध्यात्मिक भावाभिव्यक्ति तथा अत्यंत महीन और पारदर्शी वस्त्र-विन्यास हैं। अतः कथन 3 सही है।",
+      "en": "Gupta sculpture is generally renowned for harmony, balance, restraint, and spiritual calm. The human figure was presented with elegance and idealized beauty rather than excessive anatomical realism. Hence, statement 1 is correct.\n\nBuddha images of the Gupta period do not primarily display heavy foreign drapery or muscular realism. These features are more closely associated with earlier Gandhara art trends. Gupta images emphasized spiritual serenity and refined sculptural execution. Hence, statement 2 is incorrect.\n\nThe Sarnath school of Gupta art produced exquisitely refined Buddha images. The key characteristics of these images include serene facial expressions, graceful bodies, spiritual expression, and extremely thin, transparent drapery. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 45,
+    "subject": "History",
+    "topic": "Art & Culture - Sculpture",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "चोल शासकों ने चार शताब्दियों से अधिक समय तक कला को व्यापक संरक्षण प्रदान किया।",
+        "en": "The Chola rulers gave extensive patronage to art for over four centuries."
+      },
+      {
+        "id": 2,
+        "hi": "चोल कांस्य प्रतिमाओं में आकृतियों की गोलाई और अनुशासित शक्ति महत्त्वपूर्ण कलात्मक विशेषताएँ बन गईं।",
+        "en": "In Chola bronze images, roundness of form and disciplined strength became important artistic features."
+      },
+      {
+        "id": 3,
+        "hi": "तिरुवलंगाडु से प्राप्त नटराज प्रतिमा ग्यारहवीं शताब्दी की शास्त्रीय चोल कला की पूर्ण अभिव्यक्ति का प्रतिनिधित्व करती है।",
+        "en": "The Nataraja image from Tiruvalangadu represents the fullest expression of classical Chola art of the eleventh century."
+      }
+    ],
+    "question": {
+      "hi": "चोल कांस्य मूर्तिकला के संबंध में निम्नलिखित में से कौन-सा/से कथन सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following statements regarding Chola bronze sculpture is/are correct?\nSelect the answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "चोल दक्षिण भारत में कला के महत्वपूर्ण संरक्षक थे। लगभग 23 चोल शासकों ने लगभग 850 ईस्वी से 1275 ईस्वी तक 400 वर्षों से अधिक समय तक शासन किया और कलात्मक गतिविधियों को व्यापक संरक्षण प्रदान किया। अतः कथन 1 सही है।\n\nचोल कलाकारों ने विशिष्ट कलात्मक गुणवत्ता से युक्त कांस्य मूर्तिकला का विकास किया। उनकी प्रतिमाओं में आकृतियों की गोलाई और अनुशासित शक्ति दिखाई देती है, जो शास्त्रीय चोल कांस्य प्रतिमाओं को उनकी परिपक्वता और लालित्य प्रदान करती है। अतः कथन 2 सही है।\n\nग्यारहवीं शताब्दी की शास्त्रीय चोल कला का कलात्मक आदर्श तिरुवलंगाडु से प्राप्त नटराज प्रतिमा में अपने पूर्णतम रूप में प्रकट हुआ, जो अब मद्रास के सरकारी संग्रहालय में है। अतः कथन 3 सही है।",
+      "en": "The Cholas were important patrons of art in South India. Around 23 Chola rulers reigned for over 400 years from roughly 850 CE to 1275 CE, extending extensive patronage to artistic endeavors. Hence, statement 1 is correct.\n\nChola artists developed bronze sculpture of distinct artistic quality. Their figures display roundness of form and disciplined strength, lending classical Chola bronzes their maturity and elegance. Hence, statement 2 is correct.\n\nThe artistic ideal of 11th-century classical Chola art found its fullest expression in the Nataraja image from Tiruvalangadu, now preserved in the Government Museum, Madras. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 46,
+    "subject": "History",
+    "topic": "Art & Culture - Architecture",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "चूने के गारे के प्रयोग से वास्तविक मेहराबों और गुंबदाकार छतों का निर्माण संभव हुआ।",
+        "en": "The use of lime mortar made possible the construction of true arches and vaults."
+      },
+      {
+        "id": 2,
+        "hi": "इंडो-इस्लामिक वास्तुकला में, तुर्क-पूर्व लिंटल-और-बीम तथा कॉर्बेलिंग रूपों को वास्तविक मेहराब, गुंबदाकार छतों और गुंबदों से प्रतिस्थापित कर दिया गया था।",
+        "en": "In Indo-Islamic architecture, the pre-Turkish lintel-and-beam and corbelling forms were replaced by true arches, vaults and domes."
+      },
+      {
+        "id": 3,
+        "hi": "गुंबदों के निर्माण के लिये वर्गाकार या आयताकार आधार को वृत्ताकार रूप में परिवर्तित करने के लिये स्क्विंच का उपयोग करना आवश्यक था।",
+        "en": "The construction of domes required the use of squinches to convert a square or rectangular base into a circular form."
+      }
+    ],
+    "question": {
+      "hi": "इंडो-इस्लामिक वास्तुकला के संबंध में निम्नलिखित में से कौन-सा/से कथन सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following statements regarding Indo-Islamic architecture is/are correct?\nSelect the answer using the code given below :"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "इंडो-इस्लामिक वास्तुकला का विकास चूने के गारे के उपयोग से घनिष्ठ रूप से जुड़ा हुआ था, जिसका उपयोग एक मज़बूत बंधन सामग्री के रूप में किया जाता था। इससे पत्थरों या ईंटों को घुमावदार आकार में व्यवस्थित करके वास्तविक मेहराबों का निर्माण संभव हो सका। अतः कथन 1 सही है।\n\nनई निर्माण तकनीकों के आगमन के साथ, लिंटल-और-बीम निर्माण तथा कॉर्बलिंग जैसी पुरानी तुर्क पूर्व वास्तुकला विधियों का स्थान धीरे-धीरे वास्तविक मेहराबों और गुंबदाकार छतों ने ले लिया, जबकि शिखरयुक्त छतों का स्थान गुंबदों ने ले लिया। अतः कथन 2 सही है।\n\nगुंबद के निर्माण के लिये दीवारों के वर्गाकार या आयताकार ऊपरी भाग को एक वृत्ताकार आधार में परिवर्तित करना आवश्यक था। यह कोनों पर स्क्विंच का प्रयोग करके किया जाता था, जिससे गोलाकार गुंबद को उचित रूप से ऊपर उठाया जा सके। अतः कथन 3 सही है।",
+      "en": "The development of Indo-Islamic architecture was closely tied to the use of lime mortar as a strong binding material. This enabled the construction of true arches by arranging stones or bricks in a curved profile. Hence, statement 1 is correct.\n\nWith the introduction of new building techniques, older pre-Turkish architectural methods like lintel-and-beam construction and corbelling were gradually replaced by true arches and vaults, while pyramidal/shikhara roofs were replaced by domes. Hence, statement 2 is correct.\n\nConstructing a dome required converting the square or rectangular top of walls into a circular base. This was achieved by using squinches at the corners, allowing the spherical dome to be properly raised. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 47,
+    "subject": "History",
+    "topic": "Art & Culture - Architecture",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "फतेहपुर सीकरी : निजी राजमहल के कक्षों के चारों ओर सार्वजनिक भवनों को एक सुव्यवस्थित समूह के रूप में व्यवस्थित किया गया था",
+        "en": "Fatehpur Sikri : Public buildings were arranged as a coherent group around the private palace apartments"
+      },
+      {
+        "id": 2,
+        "hi": "सलीम चिश्ती का मकबरा : मूलतः इसकी पूरी सतह संगमरमर से आच्छादित थी",
+        "en": "Tomb of Salim Chishti : It was originally faced entirely with marble"
+      },
+      {
+        "id": 3,
+        "hi": "पंच महल : इसकी पाँच मंजिलें उत्तरोत्तर घटती जाती हैं, और इसके सहायक स्तंभों की बनावट भिन्न-भिन्न है",
+        "en": "Panch Mahal : Its five storeys diminish successively, and its supporting columns differ in design"
+      },
+      {
+        "id": 4,
+        "hi": "शाहजहाँ के अधीन वास्तुकला : लाल बलुआ पत्थर और ट्रेबिएटेड निर्माण इसकी प्रमुख विशेषताएँ बनी रहीं",
+        "en": "Architecture under Shah Jahan : Red sandstone and trabeated construction remained its principal features"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजियेः\nउपर्युक्त युग्मों में से कौन-से सही सुमेलित हैं ?",
+      "en": "Consider the following pairs:\nWhich of the pairs given above are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "फतेहपुर सीकरी में अकबर के वास्तुकला आदर्शों की पूर्णतम अभिव्यक्ति हुई। इसके सार्वजनिक स्थान, जिनमें आंगन, दीवान-ए-आम और जामा मस्जिद शामिल थे, निजी राजमहल के कक्षों के चारों ओर एक सुव्यवस्थित समूह के रूप में निर्मित किये गए थे। अतः युग्म 1 सही सुमेलित है।\n\nवर्ष 1581 में पूर्ण हुआ सलीम चिश्ती का मकबरा मूलतः केवल आंशिक रूप से संगमरमर से आच्छादित था, न कि पूर्णतः। इसकी प्रमुख विशेषताओं में छज्जों को सहारा देने वाले सर्पाकार ब्रैकेट तथा नक्काशीदार जालीदार परदे शामिल हैं। अतः युग्म 2 सही सुमेलित नहीं है।\n\nपंच महल एक पाँच-मंजिला संरचना है, जिसकी मंजिलों का आकार उत्तरोत्तर घटता जाता है। इन मंजिलों को सहारा देने वाले स्तंभों की बनावट भी एक-दूसरे से भिन्न है। अतः युग्म 3 सही सुमेलित है।\n\nजहाँगीर और शाहजहाँ के शासनकाल में संगमरमर ने अपने सर्वाधिक परिष्कृत रूप में लाल बलुआ पत्थर का स्थान ले लिया। गुंबदाकार एवं दोहरे गुंबद, नक्काशीदार मेहराब, रंगीन पत्थरों की जड़ाई तथा पिएत्रा ड्यूरा प्रमुख वास्तुकला विशेषताएँ बन गईं। लाल बलुआ पत्थर और व्यापक ट्रेबिएटेड निर्माण मुख्यतः अकबर की वास्तुकला की विशेषताएँ थीं। अतः युग्म 4 सही सुमेलित नहीं है।",
+      "en": "Akbar's architectural ideals found their fullest expression at Fatehpur Sikri. Its public spaces, including courtyards, Diwan-i-Am, and Jama Masjid, were arranged as a coherent group around private palace apartments. Hence, pair 1 is correctly matched.\n\nThe Tomb of Salim Chishti, completed in 1581, was originally only partially faced with marble, not entirely. Its key features include serpentine brackets supporting the eaves and carved pierced screens. Hence, pair 2 is not correctly matched.\n\nPanch Mahal is a five-storeyed structure whose storeys diminish sequentially in size. The columns supporting these storeys also differ from one another in design. Hence, pair 3 is correctly matched.\n\nDuring the reigns of Jahangir and Shah Jahan, marble replaced red sandstone in its most refined form. Domes, double domes, cusped arches, colorful stone inlays, and pietra dura became dominant architectural features. Red sandstone and extensive trabeated construction were mainly features of Akbar's architecture. Hence, pair 4 is not correctly matched."
+    }
+  },
+  {
+    "id": 48,
+    "subject": "History",
+    "topic": "Art & Culture - Architecture",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बंगाल में वक्राकार छत एक स्थापित वास्तुकला परंपरा बन गई, जबकि सजावट के लिये टेराकोटा टाइलों का सामान्यतः प्रयोग किया जाता था।",
+        "en": "In Bengal, the curved roof became an established architectural convention, while terracotta tiles were commonly used for decoration."
+      },
+      {
+        "id": 2,
+        "hi": "गुजरात शैली अपने स्वरूप में अत्यधिक स्वदेशी थी और इसमें हिंदू और जैन मंदिर वास्तुकला से अनुकूलन शामिल थे।",
+        "en": "The Gujarat style was highly indigenous in character and incorporated adaptations from Hindu and Jaina temple architecture."
+      },
+      {
+        "id": 3,
+        "hi": "दक्कन शैली का उदय मुख्य रूप से दिल्ली की तुगलक वास्तुकला परंपरा और फारसी वास्तुकला के प्रभावों के मिश्रण से हुआ।",
+        "en": "The Deccan style emerged principally through a fusion of the Tughlaq architectural tradition of Delhi and architectural influences from Persia."
+      },
+      {
+        "id": 4,
+        "hi": "कश्मीर के प्रसिद्ध मुगल उद्यान मुख्यतः शाहजहाँ के उद्यान निर्माण के प्रति अनुराग को प्रमाणित करते हैं।",
+        "en": "The famous Mughal gardens of Kashmir primarily testify to Shah Jahan's passion for laying out gardens."
+      }
+    ],
+    "question": {
+      "hi": "मध्यकालीन भारत की क्षेत्रीय वास्तुकला परंपराओं के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कितने सही हैं?",
+      "en": "Consider the following statements regarding regional architectural traditions in medieval India:\nHow many of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "केवल तीन",
+        "en": "Only three"
+      },
+      {
+        "id": "D",
+        "hi": "सभी चार",
+        "en": "All four"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "बंगाल शैली में स्थानीय निर्माण परंपराओं से विकसित वक्राकार अथवा ढलानदार छत एक मान्य वास्तुकला परंपरा बन गई। सजावटी अलंकरण में स्वदेशी टेराकोटा टाइलों का भी व्यापक रूप से प्रयोग किया गया। अतः कथन 1 सही है।\n\nगुजरात शैली इंडो-इस्लामिक वास्तुकला के सबसे अधिक स्वदेशी क्षेत्रीय रूपों में से एक थी। इसके भवनों में, विशेषकर मस्जिदों के निर्माण में, हिंदू और जैन मंदिरों के संरचनात्मक तथा सजावटी तत्त्वों को प्रायः अनुकूलित किया गया। अतः कथन 2 सही है।\n\nदक्कन की वास्तुकला में मुख्य रूप से दिल्ली की तत्कालीन सल्तनत परंपरा, विशेष रूप से तुगलक शैली, और फारस से प्राप्त वास्तुकला के प्रभावों का मिश्रण था। इसके विकास को गुलबर्गा, बीदर और गोलकुंडा चरणों के माध्यम से समझा जाता है। कथन 3 सही है।\n\nकश्मीर के प्रसिद्ध मुगल उद्यान विशेष रूप से जहाँगीर की उद्यान-रचना में रुचि और अनुराग से संबद्ध हैं, न कि शाहजहाँ से। अतः कथन 4 सही नहीं है।",
+      "en": "In Bengal style, the curved or sloping roof developed from local building traditions became an established architectural convention. Indigenous terracotta tiles were also widely used for decorative ornamentation. Hence, statement 1 is correct.\n\nThe Gujarat style was one of the most indigenous regional forms of Indo-Islamic architecture. In its buildings, especially mosques, structural and decorative elements of Hindu and Jain temples were frequently adapted. Hence, statement 2 is correct.\n\nDeccan architecture was mainly a fusion of the contemporary Delhi Sultanate tradition, especially the Tughlaq style, and architectural influences from Persia. Its development is understood through the Gulbarga, Bidar, and Golconda phases. Statement 3 is correct.\n\nThe famous Mughal gardens of Kashmir are specifically associated with Jahangir's passion and love for garden laying, not Shah Jahan's. Hence, statement 4 is incorrect."
+    }
+  },
+  {
+    "id": 49,
+    "subject": "History",
+    "topic": "Indian Philosophy",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आस्तिक और नास्तिक दर्शनों के बीच भेद मुख्यतः वेदों की प्रामाणिकता को स्वीकार करने या अस्वीकार करने पर आधारित है।",
+        "en": "The distinction between the Astika and Nastika schools is based primarily on their acceptance or rejection of the authority of the Vedas."
+      },
+      {
+        "id": 2,
+        "hi": "बौद्ध धर्म, जैन धर्म और चार्वाक को भारतीय दर्शन के नास्तिक दर्शनों के रूप में वर्गीकृत किया जाता है।",
+        "en": "Buddhism, Jainism and Carvaka are classified as Nastika schools of Indian philosophy."
+      },
+      {
+        "id": 3,
+        "hi": "सभी आस्तिक दर्शन समान दार्शनिक सिद्धांतों और अन्वेषण की समान पद्धतियों को स्वीकार करते हैं।",
+        "en": "All Astika schools subscribe to identical philosophical doctrines and methods of inquiry."
+      }
+    ],
+    "question": {
+      "hi": "भारतीय दार्शनिक विचारधाराओं के वर्गीकरण के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "en": "Consider the following statements regarding the classification of Indian philosophical schools:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "भारतीय दर्शन में विचार की अनेक प्रणालियाँ शामिल हैं, जो दीर्घकालीन अवधि में विकसित हुईं और वास्तविकता, ज्ञान, आत्मा तथा मोक्ष से संबंधित मौलिक प्रश्नों का समाधान करने का प्रयास करती रहीं। इन प्रणालियों के वर्गीकरण का एक प्रमुख आधार वेदों की प्रामाणिकता के प्रति उनका दृष्टिकोण है। वेदों की प्रामाणिकता को स्वीकार करने वाले दर्शनों को आस्तिक (रूढ़िवादी) परंपरा के अंतर्गत रखा जाता है, जबकि इसे स्वीकार न करने वाले दर्शनों को नास्तिक (अपरंपरागत) के रूप में वर्गीकृत किया जाता है। अतः कथन 1 सही है।\n\nनास्तिक परंपरा में बौद्ध धर्म, जैन धर्म और चार्वाक दर्शन शामिल हैं, जिनमें से प्रत्येक ने वेदों को अंतिम प्रामाणिकता के रूप में स्वीकार किये बिना एक स्वतंत्र दार्शनिक ढाँचे का विकास किया। दूसरी ओर, छह शास्त्रीय आस्तिक दर्शन हैं: न्याय, वैशेषिक, सांख्य, योग, मीमांसा और वेदांत। अतः कथन 2 सही है।\n\nयद्यपि आस्तिक दर्शन वेदों की प्रामाणिकता को स्वीकार करने के संदर्भ में समानता रखते हैं, तथापि उनके तत्त्वमीमांसीय विचारों, ज्ञानमीमांसा, अन्वेषण की पद्धतियों और दार्शनिक निष्कर्षों में पर्याप्त भिन्नता है। अतः यह नहीं कहा जा सकता कि वे समान सिद्धांतों को स्वीकार करते हैं। अतः कथन 3 सही नहीं है।",
+      "en": "Indian philosophy includes various systems of thought that evolved over long periods, attempting to address fundamental questions regarding reality, knowledge, soul, and liberation. A major basis for classifying these systems is their attitude toward the authority of the Vedas. Systems accepting the authority of the Vedas are placed under the Astika (orthodox) tradition, while those rejecting it are classified as Nastika (heterodox). Hence, statement 1 is correct.\n\nThe Nastika tradition includes Buddhism, Jainism, and Carvaka philosophy, each of which developed an independent philosophical framework without accepting the Vedas as ultimate authority. On the other hand, there are six classical Astika schools: Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, and Vedanta. Hence, statement 2 is correct.\n\nAlthough Astika schools share commonality in accepting Vedic authority, their metaphysical views, epistemology, methods of inquiry, and philosophical conclusions differ significantly. Thus, it cannot be said that they subscribe to identical doctrines. Hence, statement 3 is incorrect."
+    }
+  },
+  {
+    "id": 50,
+    "subject": "History",
+    "topic": "Indian Philosophy - Buddhism",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "मध्यमिक विचारधारा शून्यता (रिक्तता) के सिद्धांत का प्रतिपादन करती है और इस विचार को अस्वीकार करती है कि घटनाओं में एक स्वतंत्र और स्थायी सार होता है।",
+        "en": "The Madhyamika school propounds the doctrine of Sunyata (Emptiness) and rejects the view that phenomena possess an independent and permanent essence."
+      },
+      {
+        "id": 2,
+        "hi": "योगाचार दर्शन यह मानता है कि चेतना अनुभव का मूलाधार है और आलय-विज्ञान (संग्रह-चेतना) की संकल्पना के माध्यम से निरंतरता की व्याख्या करता है।",
+        "en": "The Yogacara school maintains that consciousness is fundamental to experience and explains continuity through the concept of Alaya-vijnana (store-consciousness)."
+      },
+      {
+        "id": 3,
+        "hi": "वज्रयान बौद्ध धर्म ने बोधिसत्व के आदर्श को अस्वीकार कर दिया और अनुष्ठान अथवा तांत्रिक प्रथाओं के उपयोग के बिना केवल मठवासी अनुशासन के माध्यम से मुक्ति का समर्थन किया।",
+        "en": "Vajrayana Buddhism rejected the Bodhisattva ideal and advocated liberation solely through monastic discipline without the use of ritual or esoteric practices."
+      }
+    ],
+    "question": {
+      "hi": "बौद्ध दार्शनिक परंपराओं के संदर्भ में, निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "en": "With reference to the Buddhist philosophical traditions, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "माध्यमिक संप्रदाय के मुख्य प्रतिपादक नागार्जुन हैं। माध्यमिक संप्रदाय अपने दर्शन के केंद्र में शून्यता (रिक्तता) के सिद्धांत को रखता है। यह तर्क देता है कि सभी घटनाएँ अंतर्निहित या स्वतंत्र अस्तित्व से रहित हैं और केवल प्रतीत्यसमुत्पाद (आश्रित उत्पत्ति) के माध्यम से उत्पन्न होती हैं। पूर्ण अस्तित्व या अनस्तित्व का दावा करने के बजाय, यह दोनों चरम सीमाओं से बचते हुए मध्यम मार्ग का समर्थन करता है। अतः कथन 1 सही है।\n\nयोगाचार या विज्ञानवाद संप्रदाय अनुभव की व्याख्या में चेतना की प्रधानता पर बल देता है। यह आलय-विज्ञान (संग्रह-चेतना) की अवधारणा प्रस्तुत करता है, जो कर्म-संस्कारों का भंडार है और अनुभवों के माध्यम से व्यक्तिगत अस्तित्व की निरंतरता को स्पष्ट करता है। अतः कथन 2 सही है।\n\nवज्रयान बौद्ध धर्म महायान परंपरा के अंतर्गत बाद में विकसित हुआ। इसने बोधिसत्व आदर्श को बनाए रखा, साथ ही ज्ञान प्राप्ति के लिये कुशल साधनों के रूप में तांत्रिक प्रथाओं, मंत्रों, मुद्राओं, मंडलों और गूढ़ अनुष्ठानों पर जोर दिया। इसने बोधिसत्व मार्ग को अस्वीकार नहीं किया और न ही विशेष रूप से पारंपरिक मठवासी अनुशासन पर निर्भर रहा। अतः कथन 3 सही नहीं है।",
+      "en": "Nagarjuna is the primary exponent of the Madhyamika school. The Madhyamika school places the doctrine of Sunyata (emptiness) at the core of its philosophy. It argues that all phenomena are devoid of intrinsic or independent existence and arise only through Pratityasamutpada (dependent origination). Avoiding extremes of absolute existence or non-existence, it advocates the Middle Path. Hence, statement 1 is correct.\n\nThe Yogacara or Vijnanavada school emphasizes the primacy of consciousness in explaining experience. It introduces the concept of Alaya-vijnana (store-consciousness), which serves as a repository of karmic impressions and explains the continuity of individual experience. Hence, statement 2 is correct.\n\nVajrayana Buddhism developed later within the Mahayana tradition. It retained the Bodhisattva ideal while placing emphasis on tantric practices, mantras, mudras, mandalas, and esoteric rituals as skillful means to attain enlightenment. It did not reject the Bodhisattva path, nor did it rely exclusively on traditional monastic discipline. Hence, statement 3 is incorrect."
+    }
+  },
+  {
+    "id": 51,
+    "subject": "History",
+    "topic": "Indian Philosophy - Jainism",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अनेकांतवाद और स्याद्वाद मिलकर इस बात पर जोर देते हैं कि यद्यपि वास्तविकता वस्तुनिष्ठ है, तथापि इसके बारे में मानवीय निर्णय अनिवार्य रूप से सशर्त होते हैं।",
+        "en": "Anekantavada and Syadvada together emphasize that while reality is objective, human judgments about it are necessarily conditional."
+      },
+      {
+        "id": 2,
+        "hi": "त्रिरत्न सम्यक दर्शन, सम्यक ज्ञान और सम्यक चरित्र को एक नैतिक अनुशासन में जोड़ता है जो कर्म बंधन से मुक्ति की ओर ले जाता है।",
+        "en": "Triratna combines right faith, right knowledge and right conduct into an ethical discipline directed towards liberation from karmic bondage."
+      },
+      {
+        "id": 3,
+        "hi": "चूँकि वास्तविकता बहुआयामी है, अतः स्याद्वाद का निष्कर्ष है कि वस्तुनिष्ठ सत्य को जाना नहीं जा सकता और सभी प्रतिज्ञप्तियाँ समान रूप से मान्य होती हैं।",
+        "en": "Since reality is many-sided, Syadvada concludes that objective truth cannot be known and that all propositions are equally valid."
+      }
+    ],
+    "question": {
+      "hi": "जैन दर्शन के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "en": "Consider the following statements regarding Jain philosophy:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "अनेकांतवाद (अनेकांत का सिद्धांत) यह प्रतिपादित करता है कि वास्तविकता वस्तुनिष्ठ है, किंतु उसके अनेक पक्ष हैं। चूँकि कोई भी एकल दृष्टिकोण संपूर्ण सत्य को अभिव्यक्त नहीं कर सकता, इसलिये विभिन्न दृष्टिकोण वास्तविकता के किसी-न-किसी पक्ष को व्यक्त कर सकते हैं। स्याद्वाद (सापेक्ष कथन का सिद्धांत) इस विचार को आगे बढ़ाते हुए यह प्रतिपादित करता है कि वास्तविकता के संबंध में मानव के निर्णय अनिवार्यतः सशर्त और दृष्टिकोण-निर्भर होते हैं, न कि निरपेक्ष। अतः कथन 1 सही है।\n\nत्रिरत्न (तीन रत्न) में सम्यक् दर्शन, सम्यक् ज्ञान और सम्यक् चरित्र शामिल हैं। ये तीनों मिलकर वह नैतिक और आध्यात्मिक मार्ग बनाते हैं जो आत्मा को कर्म-बंधन से मुक्त कर मोक्ष (मुक्ति) प्राप्त करने में सक्षम बनाता है। अतः कथन 2 सही है।\n\nस्याद्वाद वस्तुनिष्ठ सत्य के अस्तित्व से इनकार नहीं करता और न ही यह दावा करता है कि सभी प्रतिज्ञप्तियाँ समान रूप से मान्य हैं। यह केवल इस बात पर बल देता है कि प्रत्येक प्रतिज्ञप्ति को एक विशेष दृष्टिकोण (स्यात्) से समझा जाना चाहिये। जबकि सामान्य मानव ज्ञान आंशिक होता है, केवलिन (सर्वज्ञ प्राणी) वास्तविकता को उसकी समग्रता में देख सकते हैं। अतः स्याद्वाद निरपेक्ष हठधर्मिता और अनियंत्रित सापेक्षतावाद, दोनों को अस्वीकार करता है। अतः कथन 3 सही नहीं है।",
+      "en": "Anekantavada (the doctrine of many-sidedness) posits that reality is objective but possesses infinite facets. Since no single viewpoint can articulate the absolute truth, different perspectives capture particular aspects of reality. Syadvada (the doctrine of conditional predication) develops this further by stating that human judgments regarding reality are necessarily conditional and perspective-dependent rather than absolute. Hence, statement 1 is correct.\n\nTriratna (Three Jewels) comprises right faith, right knowledge, and right conduct. Together, these constitute the ethical and spiritual path that enables the soul to free itself from karmic bondage and achieve moksha (liberation). Hence, statement 2 is correct.\n\nSyadvada does not deny the existence of objective truth, nor does it claim that all propositions are equally valid. It merely emphasizes that every proposition must be understood from a specific perspective (syat). While ordinary human knowledge is partial, a kevalin (omniscient being) beholds reality in its totality. Thus, Syadvada rejects both absolute dogmatism and unbridled relativism. Hence, statement 3 is incorrect."
+    }
+  },
+  {
+    "id": 52,
+    "subject": "History",
+    "topic": "Indian Philosophy - Vedanta",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "रामानुज : विशिष्टाद्वैत",
+        "en": "Ramanuja : Vishishtadvaita"
+      },
+      {
+        "id": 2,
+        "hi": "निंबार्क : शुद्धाद्वैत",
+        "en": "Nimbarka : Shuddhadvaita"
+      },
+      {
+        "id": 3,
+        "hi": "मध्वाचार्य : द्वैत",
+        "en": "Madhvacharya : Dvaita"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से दार्शनिक और उनकी दार्शनिक प्रणाली का कौन-सा/से युग्म सही सुमेलित नहीं हैं ?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following pairs of the philosopher and their philosophical system is/are not correctly matched?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "रामानुज (11वीं-12वीं शताब्दी) ने विशिष्टाद्वैत (विशिष्ट अद्वैतवाद) के दर्शन का प्रतिपादन किया। इस सिद्धांत के अनुसार, ब्रह्म एक है, लेकिन वह व्यक्तिगत आत्माओं (जीवों) और भौतिक जगत के अस्तित्व से विशिष्ट है, जो दोनों ही वास्तविक हैं और ब्रह्म से अविभाज्य रूप से संबंधित हैं। अतः युग्म 1 सही सुमेलित है।\n\nनिंबार्क द्वैताद्वैत (द्वैत-अद्वैत या भेदाभेद) के प्रतिपादक थे, जो यह मानता है कि जीवात्मा और ब्रह्मांड एक ही समय में ब्रह्म से भिन्न भी हैं और अभिन्न भी। शुद्धाद्वैत (शुद्ध अद्वैतवाद) वल्लभाचार्य द्वारा प्रतिपादित किया गया था, निंबार्क द्वारा नहीं। अतः युग्म 2 सही सुमेलित नहीं है।\n\nमध्वाचार्य (13वीं शताब्दी) ने वेदांत के द्वैत संप्रदाय की स्थापना की। उनका मानना था कि ईश्वर (विष्णु), व्यक्तिगत आत्माएँ और पदार्थ शाश्वत रूप से अलग-अलग वास्तविकताएँ हैं, एवं उन्होंने अद्वैत वेदांत की अद्वैतवादी व्याख्या को अस्वीकार कर दिया। युग्म 3 सही सुमेलित है।",
+      "en": "Ramanuja (11th-12th century) propounded the philosophy of Vishishtadvaita (qualified non-dualism). According to this doctrine, Brahman is one, but qualified by individual souls (jivas) and the material world, both of which are real and inseparably related to Brahman. Hence, pair 1 is correctly matched.\n\nNimbarka was the exponent of Dvaitadvaita (dualistic non-dualism or bhedabheda), which maintains that the individual soul and the universe are both distinct and non-distinct from Brahman at the same time. Shuddhadvaita (pure non-dualism) was propounded by Vallabhacharya, not Nimbarka. Hence, pair 2 is not correctly matched.\n\nMadhvacharya (13th century) founded the Dvaita school of Vedanta. He held that God (Vishnu), individual souls, and matter are eternally distinct realities, rejecting the monistic interpretation of Advaita Vedanta. Hence, pair 3 is correctly matched."
+    }
+  },
+  {
+    "id": 53,
+    "subject": "History",
+    "topic": "Sikhism",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "गुरु ग्रंथ साहिब में न केवल सिख गुरुओं के भजन हैं, बल्कि भगत कबीर और शेख फरीद सहित विभिन्न धार्मिक परंपराओं से संबंधित संतों की भक्ति रचनाएँ भी शामिल हैं।",
+        "en": "The Guru Granth Sahib contains not only the hymns of the Sikh Gurus but also the devotional compositions of saints belonging to different religious traditions, including Bhagat Kabir and Sheikh Farid."
+      },
+      {
+        "id": 2,
+        "hi": "सिख समुदाय के आध्यात्मिक आदर्शों के साथ-साथ उसकी लौकिक सत्ता का प्रतिनिधित्व करने वाले अकाल तख्त की स्थापना गुरु अर्जन देव ने की थी।",
+        "en": "The Akal Takht, representing the temporal authority of the Sikh community alongside its spiritual ideals, was established by Guru Arjan Dev."
+      }
+    ],
+    "question": {
+      "hi": "सिख धर्म के इतिहास और शिक्षाओं के संबंध में निम्नलिखित में से कौन-सा/से कथन सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following statements regarding the history and teachings of Sikhism is/are correct?\nSelect the answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "गुरु ग्रंथ साहिब में सिख गुरुओं के भजनों के साथ-साथ भगत कबीर और शेख फरीद जैसे कई भगतों और सूफी संतों की रचनाएँ शामिल हैं, जो सिख धर्म के सार्वभौमिक दृष्टिकोण को दर्शाती हैं। यह संकलन सांप्रदायिक सीमाओं से परे है और आध्यात्मिक सत्य की सार्वभौमिकता पर जोर देता है। अतः कथन 1 सही है।\n\nअकाल तख्त की स्थापना गुरु हरगोबिंद (छठे गुरु) ने 1606 में मीरी-पीरी के सिद्धांत का प्रतीक बनने के लिये की थी, जो सांसारिक सत्ता को आध्यात्मिक नेतृत्व के साथ जोड़ता है। गुरु अर्जन देव (पाँचवें गुरु) को आदि ग्रंथ के संकलन और हरमंदिर साहिब को पूरा करने के लिये याद किया जाता है, लेकिन उन्होंने अकाल तख्त की स्थापना नहीं की थी। अतः कथन 2 सही नहीं है।",
+      "en": "The Guru Granth Sahib contains the hymns of the Sikh Gurus alongside the devotional compositions of several Bhagats and Sufi saints such as Bhagat Kabir and Sheikh Farid, reflecting the universal outlook of Sikhism. This compilation transcends sectarian boundaries and emphasizes the universality of spiritual truth. Hence, statement 1 is correct.\n\nThe Akal Takht was established by Guru Hargobind (the sixth Guru) in 1606 to symbolize the principle of Miri-Piri, which combines temporal authority with spiritual leadership. Guru Arjan Dev (the fifth Guru) is remembered for compiling the Adi Granth and completing the Harmandir Sahib, but he did not establish the Akal Takht. Hence, statement 2 is incorrect."
+    }
+  },
+  {
+    "id": 54,
+    "subject": "History",
+    "topic": "Ancient Literature & Philosophy",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बृहदारण्यक उपनिषद एक दार्शनिक संवाद का वर्णन करता है, जिसमें गार्गी वाचक्नवी याज्ञवल्क्य से परम वास्तविकता की प्रकृति पर प्रश्न करती हैं।",
+        "en": "The Brhadaranyaka Upanisad records a philosophical dialogue in which Gargi Vacaknavi questions Yajnavalkya on the nature of ultimate reality."
+      },
+      {
+        "id": 2,
+        "hi": "महापुराणों को श्रुति साहित्य के रूप में वर्गीकृत किया गया है क्योंकि वे पौराणिक आख्यानों के माध्यम से वेदों की दार्शनिक शिक्षाओं की व्याख्या करते हैं।",
+        "en": "The Mahapuranas are classified as Sruti literature because they elaborate the philosophical teachings of the Vedas through mythological narratives."
+      },
+      {
+        "id": 3,
+        "hi": "अष्टाध्यायी व्याकरण के नियमों को तो दर्शाती है, लेकिन अपने समय के समाज, अर्थव्यवस्था और संस्कृति की अंतर्दृष्टि नहीं देती है।",
+        "en": "The Astadhyayi illustrates the rules of grammar but does not reflect insights into the society, economy, and culture of its time."
+      }
+    ],
+    "question": {
+      "hi": "संस्कृत साहित्य और भारतीय दार्शनिक परंपराओं के संदर्भ में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-सा/से सही है ?",
+      "en": "Consider the following statements regarding Sanskrit literature and Indian philosophical traditions:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1",
+        "en": "1 only"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "बृहदारण्यक उपनिषद में भारतीय दर्शन की सबसे प्रसिद्ध दार्शनिक बहसों में से एक है, जहाँ सबसे शुरुआती महिला दार्शनिकों में से एक, गार्गी वाचक्नवी, याज्ञवल्क्य से ब्रह्म के स्वरूप और अस्तित्व के अंतिम आधार पर प्रश्न करती हैं। अतः कथन 1 सही है।\n\nमहापुराण स्मृति परंपरा का हिस्सा हैं, श्रुति का नहीं। यद्यपि वे आख्यानों के माध्यम से वैदिक विचारों को लोकप्रिय और स्पष्ट करते हैं, श्रुति की श्रेणी वेदों के लिये आरक्षित है, जिसमें उपनिषद भी शामिल हैं। अतः कथन 2 सही नहीं है।\n\nअष्टाध्यायी या 'आठ अध्याय', विद्वान पाणिनि द्वारा रचित एक प्राचीन ग्रंथ है। यह एक भाषाई ग्रंथ है जिसने संस्कृत के लेखन और उच्चारण के मानक निर्धारित किये। अष्टाध्यायी में 4,000 से अधिक व्याकरणिक नियम दिये गए हैं। यह उस समय के समाज, अर्थव्यवस्था और संस्कृति पर भी प्रकाश डालता है। अतः कथन 3 सही नहीं है।",
+      "en": "The Brhadaranyaka Upanisad contains one of the most famous philosophical debates in Indian philosophy, where Gargi Vacaknavi, one of the earliest female philosophers, questions Yajnavalkya on the nature of Brahman and the ultimate basis of existence. Hence, statement 1 is correct.\n\nThe Mahapuranas are part of the Smriti tradition, not Sruti. Although they popularize and clarify Vedic ideas through narratives, the category of Sruti is reserved for the Vedas, including the Upanisads. Hence, statement 2 is incorrect.\n\nThe Astadhyayi, composed by Panini, is an ancient linguistic text that set standards for writing and pronouncing Sanskrit. Containing over 4,000 grammatical rules, it also sheds valuable light on the society, economy, and culture of its time. Hence, statement 3 is incorrect."
+    }
+  },
+  {
+    "id": 55,
+    "subject": "History",
+    "topic": "Buddhist Canon",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "विनयपिटक मुख्यतः मठवासी संघ को नियंत्रित करने वाले नियमों का प्रतिपादन करता है।",
+        "en": "The Vinayapitaka primarily lays down the rules governing the monastic order."
+      },
+      {
+        "id": 2,
+        "hi": "सुत्तपिटक में केवल उच्च बौद्ध तत्त्वमीमांसा से संबंधित दार्शनिक ग्रंथों का संकलन है।",
+        "en": "The Suttapitaka consists exclusively of philosophical treatises dealing with higher Buddhist metaphysics."
+      },
+      {
+        "id": 3,
+        "hi": "अभिधम्मपिटक बौद्ध धर्म के उच्चतर सैद्धांतिक पक्षों से संबंधित है।",
+        "en": "The Abhidhammapitaka deals with the higher doctrinal aspects of Buddhism."
+      }
+    ],
+    "question": {
+      "hi": "बौद्ध धर्मग्रंथों के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-सा/से सही है ?",
+      "en": "Consider the following statements regarding the Buddhist Canon:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1",
+        "en": "1 only"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "विनयपिटक में बौद्ध मठवासी संघ को नियंत्रित करने वाले नियमों और विनियमों का संकलन है। इसमें भिक्षुओं और भिक्षुणियों के आचार-संहिता, अनुशासन संबंधी प्रक्रियाओं तथा मठों के संचालन हेतु दिशा-निर्देशों का उल्लेख किया गया है। अतः कथन 1 सही है।\n\nसुत्तपिटक केवल दार्शनिक ग्रंथों तक सीमित नहीं है। यह बौद्ध धर्मग्रंथों का सबसे बड़ा भाग है और इसमें बुद्ध तथा उनके कुछ प्रमुख शिष्यों के उपदेश (सुत्त) संकलित हैं। इनमें नैतिकता, ध्यान, सामाजिक आचरण, व्यावहारिक शिक्षाओं और दर्शन सहित विषयों की एक विस्तृत श्रृंखला का समावेश है। अतः इसमें केवल उच्चतर तत्त्वमीमांसात्मक चर्चाएँ ही सम्मिलित नहीं हैं। अतः कथन 2 सही नहीं है।\n\nअभिधम्मपिटक बौद्ध धर्म के उच्च सैद्धांतिक और दार्शनिक पक्षों से संबंधित है। यह बौद्ध शिक्षाओं का एक व्यवस्थित और विश्लेषणात्मक विवरण प्रदान करता है, जो सुत्तपिटक की तुलना में घटनाओं, चेतना, मानसिक अवस्थाओं और वास्तविकता की अधिक विस्तार से जांच करता है। अतः कथन 3 सही है।",
+      "en": "The Vinayapitaka contains rules and regulations governing the Buddhist monastic order. It outlines the code of conduct for monks and nuns, disciplinary procedures, and guidelines for running monasteries. Hence, statement 1 is correct.\n\nThe Suttapitaka is not restricted to philosophical treatises. It is the largest section of the Buddhist canon and contains the discourses (suttas) of the Buddha and his chief disciples. It covers a wide range of topics, including ethics, meditation, social conduct, practical teachings, and philosophy. Thus, it does not consist exclusively of higher metaphysical discussions. Hence, statement 2 is incorrect.\n\nThe Abhidhammapitaka deals with the higher doctrinal and philosophical aspects of Buddhism. It provides a systematic and analytical account of Buddhist teachings, examining phenomena, consciousness, mental states, and reality in greater detail than the Suttapitaka. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 56,
+    "subject": "History",
+    "topic": "Sangam Literature",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "तोल्काप्पियम : द्वितीय संगम से परंपरागत रूप से संबद्ध उपलब्ध कृति",
+        "en": "Tolkappiyam : Surviving work traditionally associated with the Second Sangam"
+      },
+      {
+        "id": 2,
+        "hi": "शिलप्पदिकारम : मुख्यतः यह एक दार्शनिक ग्रंथ है जो विभिन्न धार्मिक संप्रदायों के बीच होने वाली विमर्शों पर आधारित है",
+        "en": "Silappadikaram : Primarily a philosophical treatise structured around debates among different religious sects"
+      },
+      {
+        "id": 3,
+        "hi": "मणिमेकलै : इसमें नायक का विभिन्न धार्मिक परंपराओं और बौद्ध दर्शन के साथ जुड़ाव दिखाया गया है",
+        "en": "Manimegalai : Features the protagonist's engagement with various religious traditions and Buddhist philosophy"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से तमिल साहित्यिक कृति और उसकी विशिष्ट विशेषता के कौन-सा/से युग्म सही सुमेलित नहीं हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following pairs of the Tamil literary work and its characteristic feature is/are not correctly matched?\nSelect the answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "तोलकाप्पियम सबसे प्राचीन उपलब्ध तमिल व्याकरण ग्रंथ है और पारंपरिक रूप से द्वितीय संगम से जुड़ा हुआ है। व्याकरण के अलावा, यह प्रारंभिक तमिल समाज के सामाजिक जीवन, राजनीति, साहित्यिक परंपराओं और संस्कृति के बारे में बहुमूल्य अंतर्दृष्टि भी प्रदान करता है। अतः युग्म 1 सही सुमेलित है।\n\nइलंगो अडिगल द्वारा रचित शिलप्पदिकारम तमिल साहित्य के पाँच महान महाकाव्यों में से एक है। इसमें कन्नगी और कोवलन की कथा का वर्णन किया गया है तथा न्याय, सदाचार और राजकीय उत्तरदायित्व जैसे विषयों पर प्रकाश डाला गया है। यद्यपि इसमें धार्मिक विचारों के संदर्भ मिलते हैं, तथापि यह मुख्यतः विभिन्न धार्मिक संप्रदायों के बीच होने वाले वाद-विवादों पर आधारित दार्शनिक ग्रंथ नहीं है। ऐसे धार्मिक और दार्शनिक विमर्श मणिमेकलै की विशिष्ट विशेषता हैं। अतः युग्म 2 सही सुमेलित नहीं है।\n\nसत्तनार द्वारा रचित मणिमेकलै एक बौद्ध महाकाव्य है, जिसमें कोवलन और माधवी की पुत्री मणिमेकलै के जीवन का वर्णन किया गया है। इस कृति में बौद्ध दर्शन पर विस्तृत विमर्श किया गया है तथा दार्शनिक वाद-विवादों के माध्यम से समकालीन विभिन्न धार्मिक परंपराओं के सिद्धांतों का भी परीक्षण किया गया है। अतः युग्म 3 सही सुमेलित है।",
+      "en": "Tolkappiyam is the oldest surviving Tamil grammar text and is traditionally associated with the Second Sangam. Beyond grammar, it provides valuable insights into the social life, polity, literary traditions, and culture of early Tamil society. Hence, pair 1 is correctly matched.\n\nSilappadikaram, composed by Ilango Adigal, is one of the five great epics of Tamil literature. It narrates the story of Kovalan and Kannagi, highlighting themes of justice, virtue, and state responsibility. Although it contains references to religious ideas, it is not primarily a philosophical treatise structured around sectarian debates. Such religious and philosophical debates are the key feature of Manimegalai. Hence, pair 2 is not correctly matched.\n\nManimegalai, composed by Sattanar, is a Buddhist epic narrating the life of Manimegalai, daughter of Kovalan and Madhavi. The work contains detailed expositions on Buddhist philosophy and examines the doctrines of various contemporary religious traditions through philosophical debates. Hence, pair 3 is correctly matched."
+    }
+  },
+  {
+    "id": 57,
+    "subject": "History",
+    "topic": "Medieval Literature",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "शजरा-ए-अंसाब : इसकी मुकद्दिमा में 1192 में भारत में नियुक्ति से लेकर 1206 में लाहौर में गद्दी पर बैठने तक कुतुबुद्दीन ऐबक के जीवन और सैन्य अभियानों का वर्णन किया गया है",
+        "en": "Shajra-i-Ansab : Its Muqaddima narrates the life and military exploits of Qutbuddin Aibak from his appointment in India in 1192 to his accession at Lahore in 1206."
+      },
+      {
+        "id": 2,
+        "hi": "ताज-उल-मासिर : इसमें तबकात प्रणाली का परिचय दिया गया, जिसमें प्रत्येक शासक वंश का इतिहास एक अलग खंड में प्रस्तुत किया गया",
+        "en": "Taj-ul-Ma'asir : It introduced the Tabaqat system in which the history of each ruling dynasty was presented in a separate section."
+      },
+      {
+        "id": 3,
+        "hi": "तबकात-ए-नासिरी : इसके बाद के खंड मध्य एशिया, फारस और भारत के शासक वंशों तथा चंगेज़ खान के अधीन मंगोल गतिविधियों के बारे में महत्त्वपूर्ण जानकारी प्रदान करते हैं",
+        "en": "Tabaqat-i-Nasiri : Its later sections provide valuable information about the ruling dynasties of Central Asia, Persia and India, as well as Mongol activities under Chingis Khan."
+      },
+      {
+        "id": 4,
+        "hi": "अदब-उल-हर्ब वल-शुजाअत : यह भारत की सामाजिक और राजनीतिक परिस्थितियों का वर्णन करने वाला यात्रा-वृत्तांत है",
+        "en": "Adab-ul-Harb wa al-Shuja'at : It is a travelogue describing the social and political conditions of India."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से फारसी कृतियों और उनकी विशिष्ट विशेषताओं के कौन-सा/से युग्म सही सुमेलित हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following pairs of Persian works and their distinguishing features is/are correctly matched?\nSelect the answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "फख्र-ए-मुदब्बिर द्वारा संकलित शजरा-ए-अंसाब एक वंशावली संबंधी कृति थी, जिसकी मुकद्दिमा में वर्ष 1192 से लेकर वर्ष 1206 में कुतुबुद्दीन ऐबक के गद्दी पर बैठने तक के उसके जीवन-वृत्त का वर्णन किया गया है। अतः युग्म 1 सही सुमेलित है।\n\nताज-उल-मासिर की रचना हसन निज़ामी ने की थी और इसमें गोरी विजय तथा ऐबक की उपलब्धियों का वर्णन किया गया है; इसमें तबकात प्रणाली का परिचय नहीं दिया गया। अतः युग्म 2 सही सुमेलित नहीं है।\n\nतबकात-ए-नासिरी में तबकात पद्धति का उपयोग किया गया है और यह मध्य एशिया, फारसी तथा भारतीय राजवंशों और मंगोल विस्तार के संबंध में महत्त्वपूर्ण जानकारी प्रदान करती है। अतः युग्म 3 सही सुमेलित है।\n\nअदब-उल-हर्ब वल-शुजाअत में राजसत्ता, प्रशासन और युद्धकला का विवेचन किया गया है, न कि यात्रा-वृत्तांत का। अतः युग्म 4 सही सुमेलित नहीं है।",
+      "en": "Shajra-i-Ansab, compiled by Fakhr-i-Mudabbir, was a genealogical work whose Muqaddima describes the life and military exploits of Qutbuddin Aibak from 1192 CE up to his accession at Lahore in 1206 CE. Hence, pair 1 is correctly matched.\n\nTaj-ul-Ma'asir was composed by Hasan Nizami, describing the Ghorid conquests and Aibak's achievements; it did not introduce the Tabaqat system. Hence, pair 2 is not correctly matched.\n\nTabaqat-i-Nasiri utilized the Tabaqat system and provides valuable information regarding Central Asian, Persian, and Indian dynasties, as well as Mongol expansion. Hence, pair 3 is correctly matched.\n\nAdab-ul-Harb wa al-Shuja'at deals with kingship, administration, and warfare, rather than being a travelogue. Hence, pair 4 is not correctly matched."
+    }
+  },
+  {
+    "id": 58,
+    "subject": "History",
+    "topic": "Medieval Languages & Literature",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उर्दू का विकास तुर्की बसने वालों और स्थानीय जनसंख्या के बीच अंतःक्रिया के परिणामस्वरूप हुआ और दक्कन के बहमनी राज्यों में इसके उत्कर्ष के दौरान इसे दक्खिनी के नाम से जाना जाने लगा।",
+        "en": "Urdu evolved through the interaction between Turkish settlers and the local population, and came to be known as Dakshini when it flourished in the Bahmani kingdoms of the Deccan."
+      },
+      {
+        "id": 2,
+        "hi": "पृथ्वीराज रासो को सामान्यतः हिंदी साहित्य की प्रारंभिक कृतियों में से एक माना जाता है।",
+        "en": "Prithviraj Raso is generally regarded as one of the earliest works of Hindi literature."
+      },
+      {
+        "id": 3,
+        "hi": "भक्ति आंदोलन के उदय से बंगाली और मराठी जैसी क्षेत्रीय भाषाओं के विकास में उल्लेखनीय गिरावट आई, क्योंकि संतों ने भक्ति संबंधी रचनाओं के लिये संस्कृत को प्राथमिकता दी।",
+        "en": "The rise of the Bhakti movement led to a significant decline in the growth of regional languages like Bengali and Marathi as saints preferred Sanskrit for devotional compositions."
+      }
+    ],
+    "question": {
+      "hi": "मध्यकालीन भारत में उर्दू और अन्य क्षेत्रीय भाषाओं के विकास के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-सा/से सही है ?",
+      "en": "Consider the following statements regarding the development of Urdu and other regional languages in medieval India:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "उर्दू का विकास तुर्की, फारसी और अरबी भाषी प्रवासियों और स्थानीय जनसंख्या के बीच अंतः क्रिया के माध्यम से हुआ, और इसका व्याकरण मुख्य रूप से हिंदवी/खड़ी बोली जैसी स्थानीय इंडो-आर्यन बोलियों से लिया गया है। बहमनी सल्तनत के अधीन जब यह दक्कन में फैली, तो इसे दक्खिनी (दखनी/दकनी) के नाम से जाना जाने लगा और यह एक महत्त्वपूर्ण साहित्यिक भाषा के रूप में विकसित हुई। अतः कथन 1 सही है।\n\nपृथ्वीराज रासो, जिसे परंपरागत रूप से चंदबरदाई की रचना माना जाता है, सामान्यतः हिंदी साहित्य की प्रारंभिक कृतियों में से एक माना जाता है। यद्यपि वर्तमान में उपलब्ध पाठ में बाद के प्रक्षेप सम्मिलित हैं, तथापि हिंदी के विकासक्रम में इसका महत्त्वपूर्ण स्थान है। खड़ी बोली उन्नीसवीं शताब्दी के दौरान ही आधुनिक मानक हिंदी की प्रमुख साहित्यिक बोली बनी। अतः कथन 2 सही है।\n\nभक्ति आंदोलन के कारण क्षेत्रीय भाषाओं का पतन नहीं हुआ। इसके विपरीत, इसने संतों को संस्कृत के स्थान पर जनभाषाओं में भक्ति साहित्य रचने के लिये प्रोत्साहित करके उनके विकास को बढ़ावा दिया। चैतन्य (बंगाली), ज्ञानेश्वर, नामदेव और तुकाराम (मराठी), कबीर और तुलसीदास (हिंदी) जैसे संतों और कई अन्य लोगों ने क्षेत्रीय साहित्यिक परंपराओं को समृद्ध किया और धार्मिक शिक्षाओं को आम लोगों के लिये सुलभ बनाया। अतः कथन 3 सही नहीं है।",
+      "en": "Urdu developed through the interaction between Turkish, Persian, and Arabic speaking settlers and the local population, with its grammar drawn primarily from local Indo-Aryan dialects like Hindavi/Khari Boli. When it spread to the Deccan under the Bahmani Sultanate, it came to be known as Dakshini (Dakhni/Dakani) and flourished as an important literary language. Hence, statement 1 is correct.\n\nPrithviraj Raso, traditionally attributed to Chand Bardai, is generally regarded as one of the earliest works of Hindi literature. Though the existing text contains later interpolations, it holds a significant position in the evolution of Hindi. Khari Boli became the primary literary dialect of modern standard Hindi during the 19th century. Hence, statement 2 is correct.\n\nThe rise of the Bhakti movement did not cause a decline in regional languages. On the contrary, it boosted their growth by encouraging saints to compose devotional literature in the vernacular instead of Sanskrit. Saints like Chaitanya (Bengali), Dnyaneshwar, Namdev, and Tukaram (Marathi), Kabir and Tulsidas (Hindi), and many others enriched regional literary traditions and made religious teachings accessible to the masses. Hence, statement 3 is incorrect."
+    }
+  },
+  {
+    "id": 59,
+    "subject": "History",
+    "topic": "Art & Culture - Paintings",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अजंता की गुफाएँ : बुद्ध के जीवन, जातक कथाओं और बोधिसत्त्वों को दर्शाने वाले भित्तिचित्र",
+        "en": "Ajanta Caves : Murals depicting the life of the Buddha, Jataka tales and Bodhisattvas"
+      },
+      {
+        "id": 2,
+        "hi": "बाघ की गुफाएँ : भित्तिचित्र मुख्यतः मठवासी अनुष्ठानों और बौद्ध सैद्धांतिक शिक्षाओं तक सीमित",
+        "en": "Bagh Caves : Murals largely confined to monastic rituals and Buddhist doctrinal instruction"
+      },
+      {
+        "id": 3,
+        "hi": "सित्तनवासल की गुफाएँ : जैन भित्तिचित्र परंपरा, जिसमें कमल-सरोवर, वनस्पति, जीव-जंतु और आध्यात्मिक मुक्ति से जुड़े विषयों का चित्रण है",
+        "en": "Sittanavasal Caves : Jain mural tradition depicting lotus ponds, flora, fauna and themes associated with spiritual liberation"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से प्राचीन भित्ति चित्रकला स्थलों और उनकी प्रमुख कलात्मक विशेषताओं के कौन-सा/से युग्म सुमेलित नहीं हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following pairs of ancient mural painting sites and their predominant artistic characteristics is/are not correctly matched?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "अजंता की गुफाओं में भारत के कुछ उत्कृष्ट संरक्षित भित्तिचित्र विद्यमान हैं। इनके चित्रों में मुख्यतः बुद्ध के जीवन से संबंधित प्रसंगों, जातक कथाओं और बोधिसत्त्वों का चित्रण किया गया है, जो सातवाहन और वाकाटक काल के दौरान बौद्ध कला के विकास को प्रतिबिंबित करते हैं। अतः युग्म 1 सही सुमेलित है।\n\nयद्यपि बाघ की गुफाएँ बौद्ध मठ हैं, तथापि उनके भित्तिचित्र केवल मठवासी अनुष्ठानों या सैद्धांतिक शिक्षाओं तक सीमित नहीं हैं। ये अपने दरबारी सौंदर्यबोध, लौकिक दृष्टिकोण, भावाभिव्यक्ति से परिपूर्ण मानव आकृतियों, नर्तकों, संगीतकारों और परिष्कृत शास्त्रीय शैली के लिये उल्लेखनीय हैं तथा अजंता की कलात्मक परंपरा को आगे बढ़ाते हैं। अतः युग्म 2 सही सुमेलित नहीं है।\n\nसित्तनवासल की गुफाएँ दक्षिण भारत की जैन भित्तिचित्र परंपरा का प्रतिनिधित्व करती हैं। इनके चित्रों में प्रसिद्ध कमल-सरोवर, पुष्प, पक्षी, मछलियाँ, हाथी और भक्तों का चित्रण मिलता है, जो जैन दर्शन में आध्यात्मिक शुद्धता और मुक्ति के प्रतीक हैं। अतः युग्म 3 सही सुमेलित है।",
+      "en": "The Ajanta Caves house some of the finest preserved murals in India. Their paintings depict scenes from the life of the Buddha, Jataka tales, and Bodhisattvas, reflecting the evolution of Buddhist art during the Satavahana and Vakataka periods. Hence, pair 1 is correctly matched.\n\nAlthough the Bagh Caves are Buddhist monasteries, their murals are not confined merely to monastic rituals or doctrinal instruction. They are remarkable for their courtly aesthetics, secular outlook, expressive human figures, dancers, musicians, and sophisticated classical style, continuing the artistic tradition of Ajanta. Hence, pair 2 is not correctly matched.\n\nThe Sittanavasal Caves represent the Jain mural tradition of South India. Their paintings feature the famous lotus pond, flowers, birds, fish, elephants, and devotees, symbolizing spiritual purity and liberation in Jain philosophy. Hence, pair 3 is correctly matched."
+    }
+  },
+  {
+    "id": 60,
+    "subject": "History",
+    "topic": "Art & Culture - Paintings",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सूची-I को सूची-II से सुमेलित कीजिये और सूचियों के नीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः\n\nसूची-I (लघु चित्रकला शैली)\nA. मुगल शैली\nB. राजस्थानी शैली\nC. पहाड़ी शैली\nD. दक्कन शैली\n\nसूची-II (विशिष्ट विशेषता)\n1. पंजाब की पहाड़ियों में कांगड़ा, कुल्लू, बसोली, गुलेर, चंबा, गढ़वाल, बिलासपुर और जम्मू जैसे केंद्रों में विकसित\n2. फारसी और भारतीय शैलियों के समन्वय से उभरी तथा पांडुलिपि-चित्रण और चित्रांकन को प्रोत्साहित किया\n3. मुगल कलाकारों के विकेंद्रीकरण के बाद विकसित हुई इस शैली में महाकाव्यों, मिथकों, लोककथाओं, बारहमासा और रागमाला के विषयों को दर्शाया गया है\n4. पंद्रहवीं और सोलहवीं शताब्दियों के दौरान फारसी प्रभाव दर्शाने वाली सचित्र पांडुलिपियों का निर्माण किया",
+      "en": "Match List I with List II and select the correct answer using the code given below the Lists:\n\nList I (Miniature Painting School)\nA. Mughal School\nB. Rajasthani School\nC. Pahari School\nD. Deccan School\n\nList II (Distinguishing Characteristic)\n1. Developed in the Punjab hills at centres such as Kangra, Kulu, Basoli, Guler, Chamba, Garhwal, Bilaspur and Jammu\n2. Emerged through the synthesis of Persian and Indian styles and encouraged manuscript illustration and portraiture\n3. Developed after the dispersal of Mughal artists and depicted themes from epics, myths, legends, Barahmasa and Ragamala\n4. Produced illustrated manuscripts showing Persian influence during the fifteenth and sixteenth centuries"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "A-4, B-3, C-2, D-1",
+        "en": "A-4, B-3, C-2, D-1"
+      },
+      {
+        "id": "B",
+        "hi": "A-3, B-2, C-4, D-1",
+        "en": "A-3, B-2, C-4, D-1"
+      },
+      {
+        "id": "C",
+        "hi": "A-2, B-1, C-3, D-4",
+        "en": "A-2, B-1, C-3, D-4"
+      },
+      {
+        "id": "D",
+        "hi": "A-2, B-3, C-1, D-4",
+        "en": "A-2, B-3, C-1, D-4"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "मुगल चित्रकला फारसी और भारतीय शैलियों के संश्लेषण से उभरी। अकबर ने सचित्र पांडुलिपियों और व्यक्तिचित्रों को बढ़ावा दिया, जबकि जहांगीर के कलाकारों ने त्रि-आयामी प्रभाव और पक्षियों और जानवरों के विस्तृत चित्र बनाए। अतः A-2 सही है।\n\nऔरंगजेब के अधीन राजकीय संरक्षण की समाप्ति के कारण कलाकार राजस्थान और पंजाब की पहाड़ियों में चले गए। राजस्थानी और पहाड़ी शैलियों ने महाकाव्यों, मिथकों, किंवदंतियों, बारहमासा और रागमाला पर आधारित लघुचित्रों का विकास किया। पहाड़ी शैली के प्रमुख केंद्रों में कांगड़ा, कुल्लू, बसोहली और गुलेर शामिल थे। अतः B-3 और C-1 सही हैं।\n\nपंद्रहवीं और सोलहवीं शताब्दी के दौरान, दक्कन में फारसी परंपराओं से प्रभावित सचित्र पांडुलिपियाँ तैयार की गईं। अतः D-4 सही है।\nअतः विकल्प (d) सही है।",
+      "en": "Mughal painting emerged through the synthesis of Persian and Indian styles. Akbar promoted illustrated manuscripts and portraiture, while Jahangir's artists created three-dimensional effects and detailed studies of birds and animals. Thus A matches 2.\n\nThe end of royal patronage under Aurangzeb led artists to migrate to Rajasthan and the Punjab hills. Rajasthani and Pahari schools developed miniatures based on epics, myths, legends, Barahmasa, and Ragamala. Key centers of the Pahari school included Kangra, Kulu, Basohli, and Guler. Thus B matches 3 and C matches 1.\n\nDuring the 15th and 16th centuries, illustrated manuscripts influenced by Persian traditions were produced in the Deccan. Thus D matches 4.\nHence, option (d) is correct."
+    }
+  },
+  {
+    "id": 61,
+    "subject": "History",
+    "topic": "Art & Culture - Paintings",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "लेप्यचित्र : लोककथाओं का चित्रण",
+        "en": "Lepyacitras : Representation of folklore"
+      },
+      {
+        "id": 2,
+        "hi": "लेखाचित्र : वस्त्रों पर रेखाचित्र और चित्रांकन",
+        "en": "Lekhacitras : Line drawings and paintings on textiles"
+      },
+      {
+        "id": 3,
+        "hi": "धूलिचित्र : फर्श पर बनाई गई चित्रकारी",
+        "en": "Dhulitcitras : Paintings executed on floors"
+      },
+      {
+        "id": 4,
+        "hi": "ओडिशा पटचित्र : विस्तृत और रंगीन चित्र, जो सामान्यतः कपड़े पर बनाए जाते हैं तथा हिंदू देवी-देवताओं की कथाओं को चित्रित करते हैं",
+        "en": "Odisha Patachitras : Detailed and colourful paintings, generally executed on cloth, depicting stories of Hindu gods and goddesses"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से भारतीय चित्रकला परंपराओं/शब्दों और उनके विवरणों के कौन-से युग्म सुमेलित हैं ?\nनीचे दिये गए कूट का प्रयोग सही उत्तर चुनियेः",
+      "en": "Which of the following pairs of Indian painting traditions/terms and their descriptions are correctly matched?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 4",
+        "en": "1 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "हिंदू और बौद्ध साहित्य में चित्रकला की तीन श्रेणियों- लेप्यचित्र, लेखाचित्र और धूलिचित्र का उल्लेख मिलता है। लेप्यचित्र लोककथाओं का चित्रण करते थे, लेखाचित्र वस्त्रों पर बनाए गए रेखाचित्र और चित्रांकन होते थे, जबकि धूलिचित्र फर्श पर बनाए जाने वाले चित्र होते थे। अतः युग्म 1, 2 और 3 सही सुमेलित हैं।\n\nओडिशा के पटचित्र सामान्यतः कपड़े पर बनाए जाते हैं। ये अपेक्षाकृत विस्तृत और रंगीन होते हैं तथा मुख्यतः हिंदू देवी-देवताओं की कथाओं का चित्रण करते हैं। अतः युग्म 4 सही सुमेलित है।",
+      "en": "Hindu and Buddhist literature mentions three categories of painting—Lepyacitras, Lekhacitras, and Dhulitcitras. Lepyacitras represented folklore, Lekhacitras were line drawings and paintings executed on textiles, while Dhulitcitras were paintings executed on floors. Hence, pairs 1, 2, and 3 are correctly matched.\n\nOdisha Patachitras are generally executed on cloth. They are relatively detailed and colorful, depicting stories of Hindu gods and goddesses. Hence, pair 4 is correctly matched."
+    }
+  },
+  {
+    "id": 62,
+    "subject": "History",
+    "topic": "Art & Culture - Music",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "मध्यकालीन अवधि के दौरान भारतीय शास्त्रीय संगीत दो विशिष्ट परंपराओं-हिंदुस्तानी और कर्नाटक संगीत में विकसित हुआ।",
+        "en": "During the medieval period, Indian classical music developed into two distinct traditions-Hindustani and Carnatic music."
+      },
+      {
+        "id": 2,
+        "hi": "हिंदुस्तानी संगीत मुख्य रूप से दक्षिण भारत और दक्कन के पठार तक ही सीमित था",
+        "en": "Hindustani music remained confined mainly to southern India and the Deccan Plateau region."
+      },
+      {
+        "id": 3,
+        "hi": "इस्लाम के आगमन के बाद, फारसी संगीत और संस्कृति ने उत्तर, पूर्व और पश्चिम भारत के संगीत विकास को प्रभावित किया।",
+        "en": "Persian music and culture influenced the development of music in northern, eastern and western India after the advent of Islam."
+      }
+    ],
+    "question": {
+      "hi": "भारतीय शास्त्रीय संगीत के संदर्भ में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-सा/से सही है ?",
+      "en": "Consider the following statements regarding Indian classical music:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "मध्यकालीन अवधि में, भारतीय शास्त्रीय संगीत दो अलग-अलग परंपराओं, हिंदुस्तानी संगीत और कर्नाटक संगीत, में विकसित हुआ। अतः कथन 1 सही है।\n\nहिंदुस्तानी संगीत उत्तर, पूर्व और पश्चिम भारत में फैला, जबकि कर्नाटक संगीत दक्षिण भारत और दक्कन के पठारी क्षेत्र में विकसित हुआ। अतः कथन 2 सही नहीं है।\n\nइस्लाम के आगमन ने उत्तरी, पूर्वी और पश्चिमी भारत में फारसी संगीत और संस्कृति का प्रसार किया। अमीर खुसरो, राजा मान सिंह तोमर, मियाँ तानसेन, स्वामी हरिदास, बैजू बावरा एवं गोपाल नायक जैसे संगीतकारों ने हिंदुस्तानी शास्त्रीय संगीत के विकास में योगदान दिया। अतः कथन 3 सही है।",
+      "en": "During the medieval period, Indian classical music developed into two distinct traditions: Hindustani music and Carnatic music. Hence, statement 1 is correct.\n\nHindustani music spread across northern, eastern, and western India, while Carnatic music developed in southern India and the Deccan Plateau region. Hence, statement 2 is incorrect.\n\nThe advent of Islam introduced Persian music and culture to northern, eastern, and western India. Musicians such as Amir Khusrau, Raja Man Singh Tomar, Mian Tansen, Swami Haridas, Baiju Bawra, and Gopal Nayak contributed to the development of Hindustani classical music. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 63,
+    "subject": "History",
+    "topic": "Art & Culture - Music",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "तत : वीणा और सितार जैसे तार वाले वाद्य यंत्र",
+        "en": "Tat : String instruments such as the Veena and Sitar"
+      },
+      {
+        "id": 2,
+        "hi": "घन : मृदंगम और तबला जैसे अवनद्ध वाद्ययंत्र",
+        "en": "Ghana : Membranophones such as the Mridangam and Tabla"
+      },
+      {
+        "id": 3,
+        "hi": "पुंग : मणिपुर की शास्त्रीय नृत्य परंपरा से अभिन्न रूप से संबद्ध एक ढोल",
+        "en": "Pung : A drum integral to the classical dance tradition of Manipur"
+      },
+      {
+        "id": 4,
+        "hi": "खंजरी : राजस्थान की कालबेलिया नृत्य परंपरा से संबद्ध एक ताल वाद्य",
+        "en": "Khanjari : A percussion instrument associated with the Kalbelia dance tradition of Rajasthan"
+      }
+    ],
+    "question": {
+      "hi": "भारतीय संगीत वाद्ययंत्रों के निम्नलिखित युग्मों और उनसे संबंधित श्रेणियों अथवा परंपराओं पर विचार कीजिये:\nउपर्युक्त युग्मों में से कौन-से सही सुमेलित हैं?",
+      "en": "Consider the following pairs of Indian musical instruments and their associated categories or traditions:\nWhich of the pairs given above are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "तत (तत वाद्य) से आशय तार वाले वाद्ययंत्रों से है, जिनमें तनी हुई तारों के कंपन से ध्वनि उत्पन्न होती है। इसके उदाहरणों में वीणा, सितार, सरोद, संतूर और तानपुरा शामिल हैं। यह वर्गीकरण भरत के नाट्यशास्त्र से उत्पन्न हुआ है। अतः युग्म 1 सही सुमेलित है।\n\nघन वाद्य उन ठोस अथवा स्व-उत्पादक वाद्ययंत्रों को कहा जाता है, जिनमें वाद्ययंत्र के शरीर पर प्रहार करने से स्वयं उसी के शरीर से ध्वनि उत्पन्न होती है। इसके उदाहरणों में मंजीरा, करताल, जलतरंग और झाँझ शामिल हैं। मृदंगम और तबला जैसे वाद्ययंत्र अवनद्ध (झिल्ली-वाद्य) श्रेणी में आते हैं, क्योंकि इनमें तनी हुई झिल्लियों के माध्यम से ध्वनि उत्पन्न होती है। अतः युग्म 2 सही सुमेलित नहीं है।\n\nपुंग मणिपुर का एक पारंपरिक बैरल-आकार का ढोल/ड्रम है और पुंग चोलोम का मुख्य वाद्य है। पुंग चोलोम मणिपुरी शास्त्रीय नृत्य के सबसे जीवंत अंगों में से एक है, जिसमें कलाकार एक साथ ढोल बजाते हैं और जटिल नृत्य-गतियों का प्रदर्शन करते हैं। अतः युग्म 3 सही सुमेलित है।\n\nखंजरी एक फ्रेम-आधारित ताल वाद्य है, जिसका भारतीय लोक परंपराओं में व्यापक रूप से प्रयोग किया जाता है। राजस्थान में यह कालबेलिया समुदाय द्वारा प्रस्तुत किये जाने वाले कालबेलिया नृत्य के साथ बजाई जाती है तथा पूंगी (बीन) और अन्य लोक वाद्ययंत्रों के साथ इसका प्रयोग किया जाता है। अतः युग्म 4 सही सुमेलित है।",
+      "en": "Tat refers to stringed instruments where sound is produced by the vibration of stretched strings. Examples include the Veena, Sitar, Sarod, Santoor, and Tanpura. This classification originates from Bharata's Natyashastra. Hence, pair 1 is correctly matched.\n\nGhana Vadya refers to solid or idiophonic instruments that produce sound through the vibration of the instrument itself when struck. Examples include Manjira, Kartal, Jalatarang, and Jhanjh. Instruments like Mridangam and Tabla belong to the Avanaddha (membranophone) category, as sound is produced through stretched membranes. Hence, pair 2 is not correctly matched.\n\nPung is a traditional barrel-shaped drum of Manipur and the main instrument in Pung Cholom. Pung Cholom is one of the most dynamic aspects of Manipuri classical dance, where performers play the drum while executing intricate dance movements. Hence, pair 3 is correctly matched.\n\nKhanjari is a frame-based percussion instrument widely used in Indian folk traditions. In Rajasthan, it is played alongside the Kalbelia dance performed by the Kalbelia community, used together with the Pungi (Been) and other folk instruments. Hence, pair 4 is correctly matched."
+    }
+  },
+  {
+    "id": 64,
+    "subject": "History",
+    "topic": "Art & Culture - Dance",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सूची-I को सूची-II से सुमेलित कीजिये और सूचियों के नीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः\n\nसूची I (शास्त्रीय नृत्य शैली)\nA. ओडिसी\nB. मणिपुरी\nC. कुचिपुड़ी\nD. मोहिनीअट्टम\n\nसूची II (विशिष्ट विशेषता)\n1. भागवतुलु की नृत्य-नाट्य परंपरा से उत्पन्न हुई और बाद में महिला दरबारी नर्तकियों से संबद्ध तत्त्वों को आत्मसात किया\n2. मंदिर वास्तुकला की मूर्तिकला परंपराओं से प्रेरित त्रिभंगी मुद्रा इसकी प्रमुख विशेषता है\n3. लास्य प्रधान एक सौम्य नृत्य, जिसे पारंपरिक रूप से श्वेत वेशभूषा में प्रस्तुत किया जाता है और वल्लथोल द्वारा इसका पुनरुत्थान किया गया।\n4. संकीर्तन और रासलीला का समन्वय करता है, जिसमें पुंग चोलोम इसकी सबसे गतिशील प्रदर्शन परंपराओं में से एक है",
+      "en": "Match List I with List II and select the correct answer using the code given below the Lists.\n\nList I (Classical Dance Form)\nA. Odissi\nB. Manipuri\nC. Kuchipudi\nD. Mohiniattam\n\nList II (Distinguishing Feature)\n1. Originated in the dance-drama tradition of the Bhagavatulu and later absorbed elements associated with women court dancers.\n2. Characterised by the Tribhangi posture inspired by the sculptural traditions of temple architecture.\n3. A graceful dance dominated by Lāsya, traditionally performed in white attire and revived by Vallathol.\n4. Integrates Sankīrtana and Rāsalīlā, with Pung Cholom representing one of its most dynamic performance traditions."
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "A-4, B-1, C-2, D-3",
+        "en": "A-4, B-1, C-2, D-3"
+      },
+      {
+        "id": "B",
+        "hi": "A-2, B-4, C-3, D-1",
+        "en": "A-2, B-4, C-3, D-1"
+      },
+      {
+        "id": "C",
+        "hi": "A-1, B-2, C-4, D-3",
+        "en": "A-1, B-2, C-4, D-3"
+      },
+      {
+        "id": "D",
+        "hi": "A-2, B-4, C-1, D-3",
+        "en": "A-2, B-4, C-1, D-3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "ओडिशा का शास्त्रीय नृत्य ओडिसी भुवनेश्वर, पूरी और कोणार्क के मंदिरों में प्रदर्शित समृद्ध मूर्तिकला परंपराओं से विकसित हुआ। इसकी सबसे विशिष्ट विशेषता त्रिभंगी मुद्रा है, जिसमें शरीर गर्दन, धड़ और घुटने के स्तर पर मुड़ा होता है, जिससे एक सुंदर मूर्तिकला-सदृश प्रभाव उत्पन्न होता है। अतः A-2 सही सुमेलित है।\n\nमणिपुरी नृत्य वैष्णव परंपरा से गहराई से संबद्ध है और इसमें संकीर्तन तथा रासलीला का समन्वय होता है। इसके सबसे प्रसिद्ध अंगों में से एक पुंग चोलोम है, जिसमें कलाकार एक साथ नृत्य करते हुए पुंग (ढोल) बजाते हैं। इसमें असाधारण लयबद्ध नियंत्रण और शारीरिक कौशल की आवश्यकता होती है। अतः B-4 सही सुमेलित है।\n\nकुचिपुड़ी, जिसका नाम आंध्र प्रदेश के एक गाँव के नाम पर पड़ा है, मूलतः भागवतुलु (ब्राह्मण पुरुष कलाकारों) द्वारा प्रस्तुत की जाने वाली नृत्य-नाट्य परंपरा के रूप में विकसित हुआ। समय के साथ, इसमें राजनर्तकियों (महिला दरबारी नर्तकियों) की प्रस्तुतियों के तत्त्वों का समावेश हुआ, जिससे इस शैली में अधिक अभिव्यंजकता और नाटकीय समृद्धि आई। अतः C-1 सही सुमेलित है।\n\nमोहिनीअट्टम, केरल का शास्त्रीय नृत्य है, जो अपने लास्य (सौम्य एवं लावण्यपूर्ण स्त्री-सुलभ शैली) तथा भक्ति और प्रेम के विषयों के लिये प्रसिद्ध है। इसे पारंपरिक रूप से सुनहरे पार्कों वाली सफेद या धूसर सफेद रंग की वेशभूषा में प्रस्तुत किया जाता है। त्रावणकोर के शासकों के अधीन इस नृत्य को राजकीय संरक्षण प्राप्त हुआ और बीसवीं शताब्दी में वल्लथोल नारायण मेनन के नेतृत्व में केरल कलामंडलम् के माध्यम से इसका पुनरुत्थान हुआ। अतः D-3 सही सुमेलित है।",
+      "en": "Odissi, the classical dance of Odisha, evolved from the rich sculptural traditions displayed in the temples of Bhubaneswar, Puri, and Konark. Its most distinctive feature is the Tribhangi posture, where the body is bent at the neck, torso, and knees, creating a graceful sculptural effect. Thus A matches 2.\n\nManipuri dance is deeply associated with the Vaishnavite tradition and integrates Sankirtana and Rasalila. One of its most famous components is Pung Cholom, where performers dance while simultaneously playing the Pung (drum). Thus B matches 4.\n\nKuchipudi, named after a village in Andhra Pradesh, originally developed as a dance-drama tradition performed by Bhagavatulu (Brahmin male troupe performers). Over time, it absorbed elements from the performances of court dancers (women court dancers), bringing greater expressiveness to the style. Thus C matches 1.\n\nMohiniattam, the classical dance of Kerala, is renowned for its Lasya (graceful and feminine style) and themes of devotion and love. It is traditionally performed in white or off-white attire with golden borders. It received royal patronage under the rulers of Travancore and was revived in the 20th century through Kerala Kalamandalam under Vallathol Narayana Menon. Thus D matches 3."
+    }
+  },
+  {
+    "id": 65,
+    "subject": "History",
+    "topic": "Art & Culture - Performing Arts",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "थेय्यम : केरल की एक अनुष्ठानिक प्रदर्शन परंपरा जिसमें विस्तृत मुख-सज्जा, ऊँचे शिरोभूषण और देवता का रूप धारण करना शामिल है",
+        "en": "Theyyam : Ritual performance tradition of Kerala featuring elaborate facial make-up, towering headgear and deity impersonation"
+      },
+      {
+        "id": 2,
+        "hi": "भवई : मिज़ोरम का लोक नृत्य, जिसमें बांस की छड़ियों को आपस में जोड़कर लयबद्ध गतियों के साथ नृत्य किया जाता है",
+        "en": "Bhavai : Folk dance of Mizoram performed with rhythmic movements between crossed bamboo staves"
+      },
+      {
+        "id": 3,
+        "hi": "भांड पाथेर : कश्मीर की पारंपरिक नृत्य-नाट्यकला में व्यंग्य, हास्य और उपमा को मुख्य नाट्य विधियों के रूप में प्रयोग किया जाता है",
+        "en": "Bhand Pather : Traditional Kashmiri dance-drama employing satire, wit and parody as its principal dramatic devices"
+      },
+      {
+        "id": 4,
+        "hi": "तमाशा : महाराष्ट्र की लोक नाट्य परंपरा जिसका नाम फारसी भाषा से लिया गया है",
+        "en": "Tamasha : Folk theatre tradition of Maharashtra whose name is derived from the Persian language"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से प्रदर्शन कला परंपराओं और उनसे संबंधित क्षेत्रों अथवा विशेषताओं के कौन-सा/से युग्म सही सुमेलित हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following pairs of performing art traditions and their associated regions or characteristics is/are correctly matched?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3 और 4",
+        "en": "3 and 4 only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "थेय्यम उत्तरी केरल की एक अनुष्ठानिक प्रदर्शन कला है, जिसमें नृत्य, संगीत और धार्मिक पूजा का संयोजन होता है। कलाकार विस्तृत मुख-सज्जा, ऊँचे शिरोभूषण और रंगीन पोशाक पहनते हैं, जो प्रतीकात्मक रूप से देवी-देवताओं और पूर्वजों की आत्माओं का प्रतिनिधित्व करते हैं। अतः युग्म 1 सही सुमेलित है।\n\nभवई मिजोरम का लोक नृत्य नहीं है। यह गुजरात का एक पारंपरिक लोक नाट्य रूप है, जिसके बारे में माना जाता है कि इसकी उत्पत्ति देवी अंबा को समर्पित एक भक्तिमय प्रदर्शन के रूप में हुई थी। मिजोरम का बांस नृत्य, जो बांस की छड़ियों के बीच लयबद्ध गतियों के साथ किया जाता है, चेराव कहलाता है अतः युग्म 2 सही सुमेलित नहीं है।\n\nभांड पाथेर कश्मीर का पारंपरिक लोक नाट्य है, जिसमें नृत्य, संगीत और नाटक का संयोजन होता है। यह विशेष रूप से सामाजिक और राजनीतिक मुद्दों पर टिप्पणी करने के लिये व्यंग्य, हास्य, अनुकरण और उपमा के उपयोग के लिये जाना जाता है। अतः युग्म 3 सही सुमेलित है।\n\nतमाशा महाराष्ट्र की एक लोकप्रिय लोक नाट्य परंपरा है जो संगीत, नृत्य और नाटकीय संवादों का संयोजन है। \"तमाशा\" शब्द फारसी भाषा से लिया गया है, जिसका अर्थ है \"मनोरंजन\" या \"तमाशा\"। अतः युग्म 4 सही सुमेलित है।",
+      "en": "Theyyam is a ritual performing art of northern Kerala combining dance, music, and religious worship. Performers wear elaborate facial make-up, towering headgear, and colorful costumes, symbolically impersonating deities and ancestral spirits. Hence, pair 1 is correctly matched.\n\nBhavai is not a folk dance of Mizoram. It is a traditional folk theatre form of Gujarat, believed to have originated as a devotional performance dedicated to Goddess Amba. Mizoram's bamboo dance, performed with rhythmic movements between crossed bamboo staves, is called Cheraw. Hence, pair 2 is not correctly matched.\n\nBhand Pather is a traditional folk theatre form of Kashmir combining dance, music, and acting. It is particularly known for using satire, humor, mime, and parody to comment on social and political issues. Hence, pair 3 is correctly matched.\n\nTamasha is a popular folk theatre tradition of Maharashtra combining music, dance, and dramatic dialogues. The word \"Tamasha\" is derived from the Persian language, meaning \"entertainment\" or "spectacle\". Hence, pair 4 is correctly matched."
+    }
+  },
+  {
+    "id": 66,
+    "subject": "History",
+    "topic": "Art & Culture - Theatre",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कुटियाट्टम : संस्कृत रंगमंच की एकमात्र जीवित परंपरा, जिसका प्रदर्शन परंपरागत रूप से केरल के कूत्तमबलम नामक मंदिर-रंगमंचों में किया जाता है",
+        "en": "Kutiyattam : The only surviving tradition of Sanskrit theatre, traditionally performed in temple theatres called Koothambalams in Kerala."
+      },
+      {
+        "id": 2,
+        "hi": "यक्षगान : तमिलनाडु की एक शास्त्रीय नाट्य परंपरा, जो श्रीमंत शंकरदेव द्वारा रचित एकांकी भक्ति नाटकों पर केंद्रित है",
+        "en": "Yakshagana : A classical theatre tradition of Tamil Nadu centred on one-act devotional plays composed by Srimanta Sankardev."
+      },
+      {
+        "id": 3,
+        "hi": "अंकिया नट : असम के नामघरों और सत्रों में परंपरागत रूप से प्रस्तुत किये जाने वाले एकांकी भक्ति नाटक",
+        "en": "Ankiya Nat : One-act devotional plays of Assam traditionally performed in Namghars and Sattras."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से भारतीय रंगमंचीय परंपराओं और उनकी विशिष्ट विशेषताओं के कौन-सा/से युग्म सही सुमेलित नहीं हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following pairs of Indian theatre traditions and their distinguishing features is/are not correctly matched?\nSelect the answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कुटियाट्टम भारत में प्राचीन संस्कृत रंगमंच की एकमात्र जीवित परंपरा है। यह एक सहस्राब्दी से भी अधिक समय से केरल में संरक्षित है और परंपरागत रूप से कूत्तमबलम में प्रस्तुत किया जाता है, जो हिंदू मंदिरों से संबद्ध विशेष रूप से निर्मित मंदिर रंगमंच होते हैं। अतः युग्म 1 सही सुमेलित है।\n\nयक्षगान कर्नाटक की एक जीवंत नृत्य-नाट्य परंपरा है, जो विशेष रूप से उडुपी, दक्षिण कन्नड़, उत्तर कन्नड़ और शिवमोग्गा जैसे तटीय जिलों में प्रचलित है। यह अपनी भव्य वेशभूषा, रंगीन मुख-सज्जा, ऊर्जावान नृत्य-गतियों तथा रामायण, महाभारत और पुराणों की कथाओं के संगीतमय आख्यान के लिये प्रसिद्ध है। अतः युग्म 2 सही सुमेलित नहीं है।\n\nअंकिया नट असम में नव-वैष्णव भक्ति आंदोलन के एक अंग के रूप में 15वीं-16वीं शताब्दी के वैष्णव संत श्रीमंत शंकरदेव द्वारा प्रारंभ की गई शास्त्रीय एकांकी रंगमंचीय परंपरा है। इन नाटकों का पारंपरिक रूप से सत्रों (वैष्णव मठों) में स्थित नामघरों (सामुदायिक प्रार्थना सभागृहों) में मंचन किया जाता है। इनमें नाटक, संगीत, नृत्य और कृष्ण के जीवन पर केंद्रित भक्तिपरक आख्यान का समन्वय होता है। अतः युग्म 3 सही सुमेलित है।",
+      "en": "Kutiyattam is the only surviving tradition of ancient Sanskrit theatre in India. Preserved for over a millennium in Kerala, it is traditionally performed in Koothambalams, which are specially constructed temple theatres attached to Hindu temples. Hence, pair 1 is correctly matched.\n\nYakshagana is a vibrant dance-drama tradition of Karnataka, particularly prevalent in coastal districts like Udupi, Dakshina Kannada, Uttara Kannada, and Shivamogga. It is famous for grand costumes, colorful make-up, energetic movements, and musical narration of stories from the Ramayana, Mahabharata, and Puranas. Hence, pair 2 is not correctly matched.\n\nAnkiya Nat is a classical one-act theatre tradition of Assam introduced by the 15th-16th century Vaishnavite saint Srimanta Sankardev as part of the Neo-Vaishnavite Bhakti movement. These plays are traditionally staged in Namghars (community prayer halls) in Sattras (Vaishnavite monasteries). Hence, pair 3 is correctly matched."
+    }
+  },
+  {
+    "id": 67,
+    "subject": "History",
+    "topic": "Art & Culture - Puppetry",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "तोलु बोम्मलाटा : आंध्र प्रदेश",
+        "en": "Tolu Bommalata : Andhra Pradesh"
+      },
+      {
+        "id": 2,
+        "hi": "तोगलु गोम्बेयाटा : केरल",
+        "en": "Togalu Gombeyata : Kerala"
+      },
+      {
+        "id": 3,
+        "hi": "रावणछाया : ओडिशा",
+        "en": "Ravanachhaya : Odisha"
+      },
+      {
+        "id": 4,
+        "hi": "तोलपावा कूथु : तमिलनाडु",
+        "en": "Tolpava Koothu : Tamil Nadu"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से छाया कठपुतली परंपराओं और उनसे संबंधित क्षेत्रों के कौन-सा/से युग्म सही सुमेलित हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following pairs of shadow puppetry traditions and their associated regions is/are correctly matched?\nSelect the answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3 और 4",
+        "en": "3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "तोलु बोम्मलाटा आंध्र प्रदेश की पारंपरिक छाया कठपुतली कला है। इसमें बड़े, पारदर्शी चमड़े के कठपुतलों का प्रयोग किया जाता है, जिन्हें प्रायः समृद्ध रंगों से सजाया जाता है। इनके माध्यम से रामायण, महाभारत और पुराणों के प्रसंगों का मंचन किया जाता है। अतः युग्म 1 सही सुमेलित है।\n\nतोगलु गोम्बेयाटा का संबंध केरल से नहीं है। यह कर्नाटक की छाया कठपुतली परंपरा है, जिसकी विशिष्टता अपेक्षाकृत छोटे चमड़े के कठपुतलों और हिंदू महाकाव्यों तथा स्थानीय लोक कथाओं पर आधारित प्रस्तुतियों में निहित है। अतः युग्म 2 सही सुमेलित नहीं है।\n\nरावणछाया ओडिशा की पारंपरिक छाया कठपुतली कला है। अन्य अनेक छाया कठपुतली परंपराओं के विपरीत, इसकी कठपुतलियाँ सामान्यतः अपारदर्शी और बिना गतिशील जोड़ों वाली होती हैं, जिससे विशिष्ट छायाचित्र निर्मित होते हैं। इसकी प्रस्तुतियाँ मुख्यतः रामायण पर आधारित होती हैं। अतः युग्म 3 सही सुमेलित है।\n\nतोलपावा कूथु तमिलनाडु की छाया कठपुतली परंपरा नहीं है। इसका संबंध केरल से है, जहाँ इसे परंपरागत रूप से भद्रकाली को समर्पित मंदिरों में, विशेष रूप से वार्षिक उत्सवों के दौरान, प्रस्तुत किया जाता है। अतः युग्म 4 सही सुमेलित नहीं है।",
+      "en": "Tolu Bommalata is the traditional shadow puppetry art of Andhra Pradesh. It uses large, translucent leather puppets, richly decorated with colors, to perform episodes from the Ramayana, Mahabharata, and Puranas. Hence, pair 1 is correctly matched.\n\nTogalu Gombeyata is not from Kerala. It is the shadow puppetry tradition of Karnataka, using relatively smaller leather puppets to perform stories from Hindu epics and local folklore. Hence, pair 2 is not correctly matched.\n\nRavanachhaya is the traditional shadow puppetry of Odisha. Unlike many other shadow puppet forms, its puppets are opaque and without jointed limbs, creating distinctive silhouettes. Performances are based on the Ramayana. Hence, pair 3 is correctly matched.\n\nTolpava Koothu is not a shadow puppet form of Tamil Nadu. It belongs to Kerala, where it is traditionally performed in temples dedicated to Bhadrakali, particularly during annual festivals. Hence, pair 4 is not correctly matched."
+    }
+  },
+  {
+    "id": 68,
+    "subject": "History",
+    "topic": "Indo-Islamic Art & Architecture",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इंडो-इस्लामिक वास्तुकला की प्रांतीय शैलियों में, गुजरात शैली ने क्षेत्रीय मंदिर परंपराओं से तत्त्व ग्रहण किये",
+        "en": "Among the provincial styles of Indo-Islamic architecture, the Gujarat style borrowed elements from regional temple traditions."
+      },
+      {
+        "id": 2,
+        "hi": "टेसलेशन और पिएत्रा ड्यूरा तकनीकों का उपयोग दीवारों की सतह के अलंकरण के लिये किया जाता था",
+        "en": "The techniques of tessellation and pietra dura were used for surface decoration on walls."
+      },
+      {
+        "id": 3,
+        "hi": "इल्तुतमिश ने कुतुब मीनार के निर्माण का आरंभ किया",
+        "en": "Iltutmish initiated the construction of Qutub Minar."
+      }
+    ],
+    "question": {
+      "hi": "इंडो-इस्लामिक कला एवं स्थापत्य से संबंधित निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-सा/से सही नहीं है/हैं?",
+      "en": "Consider the following statements related to Indo-Islamic Art & Architecture:\nWhich of the above statements is/are not correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "प्रांतीय शैलियों में गुजरात शैली का क्षेत्रीय चरित्र अत्यंत स्पष्ट था, क्योंकि संरक्षकों ने मकबरों, मस्जिदों और दरगाहों के लिये क्षेत्रीय मंदिर परंपराओं से तोरण, मेहराबों में लिंटल, घंटी और जंजीर की आकृतियों वाली नक्काशी तथा वृक्षों को दर्शाने वाले उत्कीर्ण पैनल जैसे तत्त्व ग्रहण किये। पंद्रहवीं शताब्दी में निर्मित सरखेज के शेख अहमद खट्टू की श्वेत संगमरमर की दरगाह प्रांतीय शैली का एक उत्कृष्ट उदाहरण है और इसने मुगल मकबरों के स्वरूप एवं अलंकरण को अत्यधिक प्रभावित किया। अतः कथन 1 सही है।\n\nटेसलेशन (मोजेक डिज़ाइन) और पिएत्रा ड्यूरा तकनीकों का उपयोग सतह के अलंकरण के लिये किया जाता था, विशेष रूप से दीवारों के डैडो पैनलों में। टेसलेशन सपाट आकृतियों का एक दोहरावदार पैटर्न है, जो बिना किसी रिक्त स्थान या अतिव्यापन के किसी सतह को पूर्णतः ढक देता है। पिएत्रा ड्यूरा (जिसे पर्चिनकारी भी कहा जाता है) एक जटिल जड़ाई तकनीक है, जिसमें अत्यधिक पॉलिश किये गए, सटीक रूप से काटे गए अर्द्ध-कीमती और रंगीन पत्थरों को संगमरमर के आधार में समतल रूप से जड़कर विस्तृत एवं निर्बाध चित्र बनाए जाते हैं। अतः कथन 2 सही है।\n\nकुतुबुद्दीन ऐबक ने लगभग 1199 ईस्वी में कुतुब मीनार के निर्माण का आरंभ किया। वह केवल इसकी पहली मंजिल का निर्माण पूरा कर सका। उसके उत्तराधिकारी इल्तुतमिश ने बाद में मीनार में तीन और मंजिलें जोड़ीं। अतः कथन 3 सही नहीं है।",
+      "en": "Among the provincial styles, the Gujarat style had a strong regional character. Patrons adopted elements from regional temple traditions for tombs, mosques, and dargahs, such as toranas, lintels in arches, bell-and-chain carvings, and carved tree panels. The white marble dargah of Sheikh Ahmad Khattu at Sarkhej (15th century) is a fine example and heavily influenced Mughal tombs. Hence, statement 1 is correct.\n\nTessellation (mosaic design) and pietra dura techniques were used for surface decoration, especially on wall dado panels. Tessellation is a repeating pattern of flat shapes covering a surface without gaps. Pietra dura (parchinkari) is an intricate inlay technique using highly polished, precisely cut semi-precious colored stones set into marble. Hence, statement 2 is correct.\n\nQutbuddin Aibak initiated the construction of the Qutub Minar around 1199 CE. He could complete only its first storey. His successor Iltutmish later added three more storeys to the tower. Hence, statement 3 is incorrect."
+    }
+  },
+  {
+    "id": 69,
+    "subject": "History",
+    "topic": "Bhakti & Sufi Traditions",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "संतों और रहस्यवादियों द्वारा आध्यात्मिक विचारों को संप्रेषित करने के लिये क्षेत्रीय भाषाओं का व्यापक उपयोग।",
+        "en": "The widespread use of regional languages by saints and mystics for communicating spiritual ideas."
+      },
+      {
+        "id": 2,
+        "hi": "सूफी खानकाहों और भक्ति सभाओं में भक्ति गीतों जैसे साझा संगीत परंपराओं का विकास।",
+        "en": "The development of shared musical traditions such as devotional singing in Sufi khanqahs and Bhakti congregations."
+      },
+      {
+        "id": 3,
+        "hi": "भक्ति संप्रदायों और सूफी सिलसिलों का एक ही धार्मिक संस्था में पूर्ण विलय।",
+        "en": "The complete merger of Bhakti sects and Sufi silsilas into a single religious institution."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित अभिकथन पर विचार कीजियेः\nभक्ति और सूफी परंपराओं के बीच अंतःक्रिया ने मध्यकालीन भारत में एक समन्वित सांस्कृतिक परंपरा के उद्भव में महत्त्वपूर्ण योगदान दिया।\nनिम्नलिखित में से कौन-सा/कौन-से उपर्युक्त अभिकथन का/के आधार है/हैं ?",
+      "en": "Consider the following assertion:\nThe interaction between the Bhakti and Sufi traditions contributed significantly to the emergence of a composite cultural tradition in medieval India.\nWhich of the following is/are the basis of the above assertion?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "भक्ति संतों ने तमिल, कन्नड़, मराठी, अवधी, ब्रजभाषा, बंगाली, पंजाबी और अन्य लोकभाषाओं में रचनाएँ कीं। सूफी संतों ने भी फारसी के अतिरिक्त हिंदवी तथा क्षेत्रीय बोलियों के माध्यम से आम जनसमुदाय के साथ संवाद स्थापित किया। इससे धार्मिक विचारों का प्रसार विद्वान अभिजात वर्ग से आगे व्यापक जनसमुदाय तक संभव हुआ। अतः कथन 1 सही है।\n\nसूफी संतों ने रहस्यमयी भक्ति को व्यक्त करने के महत्त्वपूर्ण साधनों के रूप में समा (संगीत सभाओं), कव्वाली और भक्ति संगीत का अभ्यास किया। इसी तरह, भक्ति परंपराओं ने भजन, कीर्तन और सामूहिक गायन को लोकप्रिय बनाया। अतः कथन 2 सही है।\n\nभक्ति संप्रदाय और सूफी सिलसिले दोनों ने एक-दूसरे को प्रभावित किया और भक्ति प्रथाओं को साझा किया, लेकिन वे एक संस्था के रूप में विलीन नहीं हुए। अतः कथन 3 सही नहीं है।",
+      "en": "Bhakti saints composed in Tamil, Kannada, Marathi, Awadhi, Braj Bhasha, Bengali, Punjabi, and other vernaculars. Sufi saints also communicated through Hindavi and regional dialects alongside Persian. This facilitated the spread of spiritual ideas beyond the scholarly elite to the broader masses. Hence, statement 1 is correct.\n\nSufi saints practiced sama (musical gatherings), qawwali, and devotional singing as key expressions of mystical devotion. Similarly, Bhakti traditions popularized bhajans, kirtans, and congregational singing. Hence, statement 2 is correct.\n\nBoth Bhakti sects and Sufi silsilas influenced each other and shared devotional practices, but they did not merge into a single institution. Hence, statement 3 is incorrect."
+    }
+  },
+  {
+    "id": 70,
+    "subject": "History",
+    "topic": "Mughal Empire - Agrarian History",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह इंडो-फारसी शब्द मध्यकालीन भारतीय कृषि के संदर्भ में शाब्दिक रूप से \"उत्तम फसलें\" का अर्थ व्यक्त करता है।",
+        "en": "This Indo-Persian term literally translates to \"perfect crops\" in the context of medieval Indian agriculture."
+      },
+      {
+        "id": 2,
+        "hi": "मुगल राज्य ने किसानों को इन फसलों की खेती के लिये सक्रिय रूप से प्रोत्साहित किया, क्योंकि इनसे सामान्य खाद्यान्न फसलों की तुलना में काफी अधिक राजस्व प्राप्त होता था।",
+        "en": "The Mughal state actively encouraged peasants to cultivate these crops because they generated significantly more revenue than basic staples."
+      },
+      {
+        "id": 3,
+        "hi": "कपास और गन्ने जैसी फसलों को इस श्रेणी के प्रमुख उदाहरण माना जाता था।",
+        "en": "Crops such as cotton and sugarcane were considered the primary examples of this category."
+      },
+      {
+        "id": 4,
+        "hi": "इनका व्यापक उत्पादन यह दर्शाता है कि औसत किसान की जोत में वाणिज्यिक उत्पादन और निर्वाह कृषि एक-दूसरे से घनिष्ठ रूप से जुड़े हुए थे।",
+        "en": "Their widespread cultivation demonstrates how commercial production and subsistence farming were closely intertwined in the average peasant's holding."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पर विचार कीजियेः\nउपर्युक्त कथनों द्वारा वर्णित शब्द की पहचान कीजियेः",
+      "en": "Consider the following:\nIdentify the term described by the statements above:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "मिल्कियत",
+        "en": "Milkiyat"
+      },
+      {
+        "id": "B",
+        "hi": "जिंस-ए-कामिल",
+        "en": "Jins-i kamil"
+      },
+      {
+        "id": "C",
+        "hi": "सयूरघाल",
+        "en": "Suyurghal"
+      },
+      {
+        "id": "D",
+        "hi": "पेशकश",
+        "en": "Peshkash"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "जिंस-ए-कामिल (शाब्दिक रूप से \"उत्तम फसलें\") शब्द मुगल कालीन इंडो-फारसी स्त्रोतों में प्रायः मिलता है। इन स्रोतों में सबसे महत्त्वपूर्ण साहित्यिक स्त्रोत अकबर के दरबारी इतिहासकार अबुल फज़ल द्वारा रचित आईन-ए-अकबरी है। प्रश्न में उल्लिखित सभी कथन \"जिंस-ए-कामिल\" शब्द का वर्णन करते हैं। अतः विकल्प (b) सही है।\n\n• मिल्कियतः जमींदारों के स्वामित्व वाली विस्तृत निजी भूमि को संदर्भित करता है, जिसका अर्थ \"संपत्ति\" है।\n• सयूरघालः दानस्वरूप प्रदान किये गए राजस्व अनुदानों को संदर्भित करता है।\n• पेशकशः मुगल राज्य द्वारा वसूल की जाने वाली एक प्रकार की कर-भेंट।",
+      "en": "The term Jins-i kamil (literally \"perfect crops\") frequently appears in Mughal Indo-Persian sources, most prominently in Abul Fazl's Ain-i-Akbari. All the statements given in the question describe the term \"Jins-i kamil\". Hence, option (b) is correct.\n\n• Milkiyat: Refers to personal land property owned by zamindars.\n• Suyurghal: Refers to revenue grants made as charity.\n• Peshkash: A form of tribute or tax collected by the Mughal state."
+    }
+  },
+  {
+    "id": 71,
+    "subject": "Geography",
+    "topic": "World Geography - Mapping",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा युग्म सही सुमेलित नहीं है ?\n(नदी) : (नगर)",
+      "en": "Which one of the following pairs is not correctly matched?\n(River) : (City)"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "टेम्स नदी : लंदन",
+        "en": "Thames River : London"
+      },
+      {
+        "id": "B",
+        "hi": "सीन नदी : पेरिस",
+        "en": "Seine River : Paris"
+      },
+      {
+        "id": "C",
+        "hi": "टाइबर नदी : मैड्रिड",
+        "en": "Tiber River : Madrid"
+      },
+      {
+        "id": "D",
+        "hi": "डेन्यूब नदी : वियना",
+        "en": "Danube River : Vienna"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "अनेक प्रमुख यूरोपीय नगर महत्त्वपूर्ण नदियों के तट पर विकसित हुए, क्योंकि नदियाँ परिवहन, व्यापार और बस्तियों/अधिवासों के विकास के मार्ग के रूप में कार्य करती थीं।\n- टेम्स नदी यूनाइटेड किंगडम की राजधानी लंदन से होकर प्रवाहित होती है।\n- सीन नदी फ्राँस की राजधानी पेरिस से होकर प्रवाहित होती है।\n- टाइबर नदी मैड्रिड के बजाय रोम से होकर प्रवाहित होती है। मैड्रिड का संबंध मंज़ानारेस नदी से है।\n- डेन्यूब नदी वियना, ब्रातिस्लावा, बुडापेस्ट और बेलग्रेड सहित विभिन्न यूरोपीय राजधानियों से होकर प्रवाहित होती है।\nअतः विकल्प (c) सही है।",
+      "en": "Many major European cities developed along important rivers, as rivers served as routes for transport, trade, and settlement growth.\n- The Thames River flows through London, the capital of the United Kingdom.\n- The Seine River flows through Paris, the capital of France.\n- The Tiber River flows through Rome, not Madrid. Madrid is associated with the Manzanares River.\n- The Danube River flows through several European capitals including Vienna, Bratislava, Budapest, and Belgrade.\nHence, option (c) is correct."
+    }
+  },
+  {
+    "id": 72,
+    "subject": "Geography",
+    "topic": "World Geography - Mapping",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बाल्टिक सागर : स्वीडन, फिनलैंड और पोलैंड",
+        "en": "Baltic Sea : Sweden, Finland and Poland"
+      },
+      {
+        "id": 2,
+        "hi": "एड्रियाटिक सागर : इटली, क्रोएशिया और अल्बानिया",
+        "en": "Adriatic Sea : Italy, Croatia and Albania"
+      },
+      {
+        "id": 3,
+        "hi": "उत्तरी सागर : नॉर्वे, यूनाइटेड किंगडम और नीदरलैंड",
+        "en": "North Sea : Norway, United Kingdom and Netherlands"
+      },
+      {
+        "id": 4,
+        "hi": "काला सागर : स्पेन, पुर्तगाल और फ्राँस",
+        "en": "Black Sea : Spain, Portugal and France"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा/से सागर, सीमावर्ती देशों के साथ सही सुमेलित है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following seas is/are correctly matched with the countries bordering them?\nSelect the answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "B",
+        "hi": "1 और 4",
+        "en": "1 and 4"
+      },
+      {
+        "id": "C",
+        "hi": "2, 3 और 4",
+        "en": "2, 3 and 4"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "बाल्टिक सागर उत्तरी यूरोप में स्थित है और इसकी सीमा स्वीडन, फिनलैंड, पोलैंड, जर्मनी, डेनमार्क, एस्टोनिया, लातविया, लिथुआनिया और रूस जैसे देशों से लगती है। अतः युग्म 1 सही सुमेलित है।\n\nएड्रियाटिक सागर भूमध्य सागर की एक शाखा है, जो इटली के प्रायद्वीप और बाल्कन प्रायद्वीप के बीच स्थित है। इसकी सीमा इटली, स्लोवेनिया, क्रोएशिया, बोस्निया और हर्जेगोविना, मोंटेनेग्रो तथा अल्बानिया जैसे देशों से लगती है। अतः युग्म 2 सही सुमेलित है।\n\nउत्तरी सागर ग्रेट ब्रिटेन, स्कैंडिनेविया और उत्तर-पश्चिमी यूरोप के बीच स्थित है। नॉर्वे, यूनाइटेड किंगडम, डेनमार्क, जर्मनी, नीदरलैंड और बेल्जियम जैसे देश इससे जुड़े हुए हैं। अतः युग्म 3 सही सुमेलित है।\n\nकाला सागर तुर्की, बुल्गारिया, रोमानिया, यूक्रेन, रूस और जॉर्जिया से घिरा हुआ है। स्पेन, पुर्तगाल और फ्रांस इसके सीमावर्ती देश नहीं हैं। अतः युग्म 4 सही सुमेलित नहीं है।",
+      "en": "The Baltic Sea is located in Northern Europe and is bordered by Sweden, Finland, Poland, Germany, Denmark, Estonia, Latvia, Lithuania, and Russia. Hence, pair 1 is correctly matched.\n\nThe Adriatic Sea is an arm of the Mediterranean Sea located between the Italian Peninsula and the Balkan Peninsula. It is bordered by Italy, Slovenia, Croatia, Bosnia and Herzegovina, Montenegro, and Albania. Hence, pair 2 is correctly matched.\n\nThe North Sea is located between Great Britain, Scandinavia, and northwestern Europe. Countries bordering it include Norway, the United Kingdom, Denmark, Germany, the Netherlands, and Belgium. Hence, pair 3 is correctly matched.\n\nThe Black Sea is bordered by Turkey, Bulgaria, Romania, Ukraine, Russia, and Georgia. Spain, Portugal, and France do not border it. Hence, pair 4 is not correctly matched."
+    }
+  },
+  {
+    "id": 73,
+    "subject": "Geography",
+    "topic": "World Geography - Mapping",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "जिब्राल्टर जलडमरूमध्य : स्पेन और मोरक्को के बीच",
+        "en": "Strait of Gibraltar : Between Spain and Morocco"
+      },
+      {
+        "id": 2,
+        "hi": "बोस्फोरस जलडमरूमध्य : काला सागर और मारमरा सागर के बीच",
+        "en": "Bosporus Strait : Between Black Sea and Sea of Marmara"
+      },
+      {
+        "id": 3,
+        "hi": "डार्डानेल्स जलडमरूमध्य : मारमरा सागर और एजियन सागर के बीच",
+        "en": "Dardanelles Strait : Between Sea of Marmara and Aegean Sea"
+      },
+      {
+        "id": 4,
+        "hi": "डोवर जलडमरूमध्य : इटली और सिसिली के बीच",
+        "en": "Strait of Dover : Between Italy and Sicily"
+      }
+    ],
+    "question": {
+      "hi": "यूरोप के निम्नलिखित में से कौन-से जलडमरूमध्य/चैनल अपनी अवस्थिति के साथ सही सुमेलित हैं ?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following straits/channels of Europe is/are correctly matched with their location?\nSelect the answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 4",
+        "en": "1 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "जिब्राल्टर जलडमरूमध्य भूमध्य सागर को अटलांटिक महासागर से जोड़ता है और यह स्पेन तथा मोरक्को के बीच स्थित है। अतः युग्म 1 सही सुमेलित है।\n\nबोस्फोरस जलडमरूमध्य काला सागर को मारमरा सागर से जोड़ता है और यूरोपीय तुर्की को एशियाई तुर्की से अलग करती है। अतः युग्म 2 सही सुमेलित है।\n\nडार्डानेल्स जलडमरूमध्य मारमरा सागर को एजियन सागर से जोड़ता है और यह भी तुर्की में स्थित है। अतः युग्म 3 सही सुमेलित है।\n\nडोवर जलडमरूमध्य इंग्लैंड और फ्राँस के बीच स्थित है तथा इंग्लिश चैनल को उत्तरी सागर से जोड़ता है। यह इटली और सिसिली के बीच स्थित नहीं है। मुख्यभूमि इटली और सिसिली के बीच स्थित जलडमरूमध्य मेसिना जलडमरूमध्य है। अतः युग्म 4 सही सुमेलित नहीं है।",
+      "en": "The Strait of Gibraltar connects the Mediterranean Sea to the Atlantic Ocean and lies between Spain and Morocco. Hence, pair 1 is correctly matched.\n\nThe Bosporus Strait connects the Black Sea to the Sea of Marmara and separates European Turkey from Asian Turkey. Hence, pair 2 is correctly matched.\n\nThe Dardanelles Strait connects the Sea of Marmara to the Aegean Sea and is also located in Turkey. Hence, pair 3 is correctly matched.\n\nThe Strait of Dover lies between England and France, connecting the English Channel to the North Sea. It does not lie between Italy and Sicily. The strait between mainland Italy and Sicily is the Strait of Messina. Hence, pair 4 is not correctly matched."
+    }
+  },
+  {
+    "id": 74,
+    "subject": "Geography",
+    "topic": "World Geography - Mapping",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आल्प्स : मध्य यूरोप",
+        "en": "Alps : Central Europe"
+      },
+      {
+        "id": 2,
+        "hi": "पिरेनीज़ : स्पेन और फ्राँस के बीच",
+        "en": "Pyrenees : Between Spain and France"
+      },
+      {
+        "id": 3,
+        "hi": "एपीनाइन : इटली का प्रायद्वीप",
+        "en": "Apennines : Italian Peninsula"
+      },
+      {
+        "id": 4,
+        "hi": "कार्पेथियन : इबेरियाई प्रायद्वीप",
+        "en": "Carpathians : Iberian Peninsula"
+      }
+    ],
+    "question": {
+      "hi": "यूरोप की निम्नलिखित में से कौन-सी पर्वत श्रेणियाँ अपने संबंधित क्षेत्र के साथ सही सुमेलित है/हैं ?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following mountain ranges of Europe is/are correctly matched with their associated region?\nSelect the answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "B",
+        "hi": "1 और 4",
+        "en": "1 and 4"
+      },
+      {
+        "id": "C",
+        "hi": "2, 3 और 4",
+        "en": "2, 3 and 4"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "आल्प्स मध्य यूरोप की एक प्रमुख पर्वत श्रेणी है, जो फ्राँस, स्विट्जरलैंड, इटली, ऑस्ट्रिया, जर्मनी और स्लोवेनिया जैसे देशों में विस्तृत है। अतः युग्म 1 सही सुमेलित है।\n\nपिरेनीज़ पर्वत श्रेणी स्पेन और फ्राँस के बीच एक प्राकृतिक सीमा का निर्माण करती है तथा एंडोरा से भी सीमा बनाती है। अतः युग्म 2 सही सुमेलित है।\n\nएपीनाइन पर्वत श्रेणी इटली के प्रायद्वीप में उत्तर से दक्षिण तक विस्तृत है। अतः युग्म 3 सही सुमेलित है।\n\nकार्पेथियन पर्वत श्रेणी मध्य और पूर्वी यूरोप में स्थित है और स्लोवाकिया, पोलैंड, यूक्रेन और रोमानिया जैसे देशों से होकर गुजरती है। इबेरियाई प्रायद्वीप स्पेन और पुर्तगाल में स्थित है। अतः युग्म 4 सही सुमेलित नहीं है।",
+      "en": "The Alps are a major mountain range in Central Europe, extending across countries like France, Switzerland, Italy, Austria, Germany, and Slovenia. Hence, pair 1 is correctly matched.\n\nThe Pyrenees range forms a natural border between Spain and France, also bordering Andorra. Hence, pair 2 is correctly matched.\n\nThe Apennines extend from north to south along the Italian Peninsula. Hence, pair 3 is correctly matched.\n\nThe Carpathian range is located in Central and Eastern Europe, running through countries like Slovakia, Poland, Ukraine, and Romania, not the Iberian Peninsula (which encompasses Spain and Portugal). Hence, pair 4 is not correctly matched."
+    }
+  },
+  {
+    "id": 75,
+    "subject": "Geography",
+    "topic": "World Geography - Mapping",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "स्विट्जरलैंड मध्य यूरोप में स्थित एक स्थलरुद्ध देश है।",
+        "en": "Switzerland is a landlocked country located in Central Europe."
+      },
+      {
+        "id": 2,
+        "hi": "ऑस्ट्रिया की भूमध्य सागर तक सीधी पहुँच है।",
+        "en": "Austria has direct access to the Mediterranean Sea."
+      },
+      {
+        "id": 3,
+        "hi": "हंगरी कार्पेथियन बेसिन में स्थित एक स्थलरुद्ध देश है।",
+        "en": "Hungary is a landlocked country located in the Carpathian Basin."
+      },
+      {
+        "id": 4,
+        "hi": "पुर्तगाल अटलांटिक महासागर के तट पर स्थित एक तटीय देश है।",
+        "en": "Portugal is a coastal country located along the Atlantic Ocean."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "B",
+        "hi": "1, 3 और 4",
+        "en": "1, 3 and 4"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "स्विट्ज़रलैंड मध्य यूरोप में स्थित एक स्थलरुद्ध देश है। इसकी किसी भी समुद्र तक सीधी पहुँच नहीं है। अतः कथन 1 सही है।\n\nऑस्ट्रिया भी मध्य यूरोप में स्थित एक स्थलरुद्ध देश है। इसकी भूमध्य सागर तक सीधी पहुँच नहीं है। अतः कथन 2 सही नहीं है।\n\nहंगरी कार्येथियन बेसिन में स्थित एक स्थलरुद्ध देश है। अतः कथन 3 सही है।\n\nपुर्तगाल दक्षिण-पश्चिमी यूरोप में स्थित है और इसकी तटरेखा अटलांटिक महासागर के किनारे है। अतः कथन 4 सही है।",
+      "en": "Switzerland is a landlocked country located in Central Europe, with no direct access to any sea. Hence, statement 1 is correct.\n\nAustria is also a landlocked country in Central Europe without direct access to the Mediterranean Sea. Hence, statement 2 is incorrect.\n\nHungary is a landlocked country situated in the Carpathian Basin. Hence, statement 3 is correct.\n\nPortugal is located in southwestern Europe and has a coastline along the Atlantic Ocean. Hence, statement 4 is correct."
+    }
+  },
+  {
+    "id": 76,
+    "subject": "Polity",
+    "topic": "Current Affairs - Indian Polity",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "मतदाता सूचियों से डुप्लीकेट, मृत, स्थानांतरित और अयोग्य मतदाताओं को हटाने के लिये विशेष गहन पुनरीक्षण (SIR) आयोजित किया जाता है।",
+        "en": "The Special Intensive Revision (SIR) is conducted to remove duplicate, deceased, shifted, and ineligible voters from electoral rolls."
+      },
+      {
+        "id": 2,
+        "hi": "विशेष गहन पुनरीक्षण (SIR) को संवैधानिक समर्थन अनुच्छेद 324 से और वैधानिक समर्थन लोक प्रतिनिधित्व अधिनियम, 1950 की धारा 21(3) से प्राप्त होता है।",
+        "en": "The Special Intensive Revision derives constitutional backing from Article 324 and statutory support from Section 21(3) of the Representation of the People Act, 1950."
+      },
+      {
+        "id": 3,
+        "hi": "SIR प्रक्रिया के दौरान आधार को भारत निर्वाचन आयोग द्वारा नागरिकता के निर्णायक प्रमाण के रूप में मान्यता दी गई है।",
+        "en": "Aadhaar has been recognised by the Election Commission of India as conclusive proof of citizenship during the SIR process."
+      }
+    ],
+    "question": {
+      "hi": "भारत में मतदाता सूचियों के विशेष गहन पुनरीक्षण (SIR) के संदर्भ में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "en": "With reference to the Special Intensive Revision (SIR) of electoral rolls in India, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "विशेष गहन पुनरीक्षण (SIR) भारत निर्वाचन आयोग द्वारा डुप्लीकेट, मृत, स्थानांतरित और अयोग्य प्रविष्टियों (तथाकथित \"घोस्ट वोटर\" सहित) को हटाकर मतदाता सूची को सही करने के लिये किया गया एक व्यापक अभ्यास है। इसका उद्देश्य \"एक व्यक्ति, एक वोट\" के लोकतांत्रिक सिद्धांत को बनाए रखना है। अतः कथन 1 सही है।\n\nSIR अभ्यास अपनी संवैधानिक वैधता अनुच्छेद 324 से प्राप्त करता है, जो चुनावों के अधीक्षण, निर्देशन एवं नियंत्रण की शक्ति निर्वाचन आयोग को प्रदान करता है, जबकि इसकी वैधानिक आधारशिला लोक प्रतिनिधित्व अधिनियम, 1950 की धारा 21 (3) में निहित है, जो आयोग को विशेष पुनरीक्षण कराने का अधिकार देती है। अतः कथन 2 सही है।\n\nहालाँकि आधार को एक स्वीकार्य पहचान दस्तावेज़ के रूप में मान्यता दी गई है, निर्वाचन आयोग ने स्पष्ट किया है कि यह नागरिकता का प्रमाण नहीं है। इसलिये SIR प्रक्रिया के दौरान इसे नागरिकता के निर्णायक प्रमाण के रूप में नहीं माना जा सकता है। अतः कथन 3 सही नहीं है।",
+      "en": "Special Intensive Revision (SIR) is a comprehensive exercise conducted by the Election Commission of India to cleanse electoral rolls by removing duplicate, deceased, shifted, and ineligible entries. Its purpose is to uphold the democratic principle of \"one person, one vote\". Hence, statement 1 is correct.\n\nThe SIR exercise derives its constitutional authority from Article 324, which grants the Election Commission powers of superintendence, direction, and control of elections, while its statutory basis lies in Section 21(3) of the Representation of the People Act, 1950. Hence, statement 2 is correct.\n\nWhile Aadhaar is recognized as an acceptable identity document, the Election Commission has clarified that it is not proof of citizenship. Therefore, it cannot be treated as conclusive proof of citizenship during the SIR process. Hence, statement 3 is incorrect."
+    }
+  },
+  {
+    "id": 77,
+    "subject": "Governance",
+    "topic": "Current Affairs - Schemes",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इसे हर मौसम में इस्तेमाल होने वाली सड़कों के माध्यम से ग्रामीण सड़क कनेक्टिविटी को बेहतर बनाने के लिये शुरू किया गया था।",
+        "en": "It was launched to improve rural road connectivity through all-weather roads."
+      },
+      {
+        "id": 2,
+        "hi": "PMGSY के अंतर्गत संपूर्ण भारत में केंद्र और राज्य सरकारें परियोजना लागत का समान रूप से वहन करती हैं।",
+        "en": "Under PMGSY, the Centre and States share project costs equally in all states of India."
+      }
+    ],
+    "question": {
+      "hi": "प्रधानमंत्री ग्राम सड़क योजना (PMGSY) के संदर्भ में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements regarding the Pradhan Mantri Gram Sadak Yojana (PMGSY):\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "प्रधानमंत्री ग्राम सड़क योजना (PMGSY) वर्ष 2000 में ग्रामीण बस्तियों को सुदृढ़ सड़क बुनियादी ढाँचे से जोड़ने के लिये शुरू की गई थी, जो हर मौसम में सुलभ बनी रहे। अतः कथन 1 सही है।\n\nयह योजना संपूर्ण देश में एक समान 50:50 वित्तपोषण मॉडल का पालन नहीं करती है। अधिकांश राज्य 60:40 के अनुपात में वित्तपोषण करते हैं, जबकि उत्तर-पूर्वी और हिमालयी राज्यों को 90:10 के अनुपात में अधिक केंद्रीय सहायता प्राप्त होती है। अतः कथन 2 सही नहीं है।",
+      "en": "Pradhan Mantri Gram Sadak Yojana (PMGSY) was launched in the year 2000 to connect rural habitations with all-weather road infrastructure. Hence, statement 1 is correct.\n\nThe scheme does not follow a uniform 50:50 funding model across the country. Most states follow a 60:40 ratio, while North-Eastern and Himalayan states receive central assistance in a 90:10 ratio. Hence, statement 2 is incorrect."
+    }
+  },
+  {
+    "id": 78,
+    "subject": "Governance",
+    "topic": "Current Affairs - Schemes",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "प्रधानमंत्री सुरक्षा बीमा योजना (PMSBY) आकस्मिक मृत्यु और अशक्तता के लिये बीमा कवर प्रदान करती है।",
+        "en": "Pradhan Mantri Suraksha Bima Yojana (PMSBY) provides insurance coverage against accidental death and disability."
+      },
+      {
+        "id": 2,
+        "hi": "प्रधानमंत्री जीवन ज्योति बीमा योजना (PMJJBY) के तहत, अभिदाता की मृत्यु की स्थिति में नामित व्यक्ति (नॉमिनी) को ₹5 लाख मिलते हैं।",
+        "en": "Under Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY), the nominee receives ₹ 5 lakh in case of the subscriber's death."
+      }
+    ],
+    "question": {
+      "hi": "जन सुरक्षा योजनाओं के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements regarding Jan Suraksha Schemes:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "प्रधानमंत्री सुरक्षा बीमा योजना (PMSBY) एक कम लागत वाली आकस्मिक बीमा योजना है जो 18 से 70 वर्ष की आयु के व्यक्तियों के लिये उपलब्ध है। यह दुर्घटनाओं के कारण होने वाली आकस्मिक मृत्यु, पूर्ण अशक्तता या आंशिक अशक्तता के मामलों में वित्तीय क्षतिपूर्ति प्रदान करती है। अतः कथन 1 सही है।\n\nप्रधानमंत्री जीवन ज्योति बीमा योजना (PMJJBY) अभिदाता की किसी भी कारण से मृत्यु की स्थिति में नामित व्यक्ति को ₹2 लाख का जीवन बीमा कवर प्रदान करती है। योजना ₹5 लाख का जीवन बीमा कवर प्रदान नहीं करती है। अतः कथन 2 सही नहीं है।",
+      "en": "Pradhan Mantri Suraksha Bima Yojana (PMSBY) is an accidental insurance scheme available to individuals aged 18 to 70 years. It provides coverage for accidental death, total disability, or partial disability due to accidents. Hence, statement 1 is correct.\n\nPradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) offers a life insurance cover of ₹2 lakh to the nominee in case of the subscriber's death due to any cause. It does not provide ₹5 lakh cover. Hence, statement 2 is incorrect."
+    }
+  },
+  {
+    "id": 79,
+    "subject": "Polity",
+    "topic": "Current Affairs - Governance",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इसकी स्थापना वर्ष 1986 में टंडन समिति तथा राष्ट्रीय पुलिस आयोग की अनुशंसाओं के पश्चात की गई थी।",
+        "en": "It was established in 1986 following the recommendations of the Tandon Committee and the National Police Commission."
+      },
+      {
+        "id": 2,
+        "hi": "यह ब्यूरो विधि एवं न्याय मंत्रालय के अंतर्गत एक संबद्ध कार्यालय के रूप में कार्य करता है।",
+        "en": "The bureau functions as an attached office under the Ministry of Law and Justice."
+      },
+      {
+        "id": 3,
+        "hi": "'भारत में आकस्मिक मृत्यु एवं आत्महत्या' तथा 'भारत कारागार सांख्यिकी' इस निकाय द्वारा प्रकाशित प्रमुख वार्षिक रिपोर्ट में शामिल हैं।",
+        "en": "'Accidental Deaths & Suicides in India' and 'Prison Statistics India' are among the major annual reports published by this body."
+      }
+    ],
+    "question": {
+      "hi": "राष्ट्रीय अपराध रिकॉर्ड ब्यूरो (NCRB) के संदर्भ में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-से सही है/हैं?",
+      "en": "With reference to the National Crime Records Bureau (NCRB), consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "NCRB की स्थापना वर्ष 1986 में टंडन समिति (1974), राष्ट्रीय पुलिस आयोग (1977-1981) तथा गृह मंत्रालय के कार्यबल (1985) की अनुशंसाओं के आधार पर की गई थी। अतः कथन 1 सही है।\n\nNCRB गृह मंत्रालय (MHA) के अंतर्गत कार्य करता है, न कि विधि एवं न्याय मंत्रालय के अंतर्गत। अतः कथन 2 सही नहीं है।\n\nयह ब्यूरो तीन प्रमुख प्रामाणिक वार्षिक रिपोर्ट प्रकाशित करता है, जिनमें 'भारत में अपराध', 'भारत में आकस्मिक मृत्यु एवं आत्महत्या (ADSI)' तथा 'भारत कारागार सांख्यिकी' शामिल हैं। अतः कथन 3 सही है।",
+      "en": "The NCRB was established in 1986 based on the recommendations of the Tandon Committee (1974), the National Police Commission (1977-1981), and the Ministry of Home Affairs Task Force (1985). Hence, statement 1 is correct.\n\nThe NCRB functions under the Ministry of Home Affairs (MHA), not under the Ministry of Law and Justice. Hence, statement 2 is incorrect.\n\nThe bureau publishes three major annual reports: 'Crime in India', 'Accidental Deaths & Suicides in India (ADSI)', and 'Prison Statistics India'. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 80,
+    "subject": "International Relations",
+    "topic": "Current Affairs - Treaties & Treaties",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह राज्यों के शांतिपूर्ण उद्देश्यों हेतु परमाणु ऊर्जा के विकास के अनन्य संक्राम्य अधिकार को स्वीकार करता है।",
+        "en": "It recognises the inalienable right of states to develop nuclear energy for peaceful purposes."
+      },
+      {
+        "id": 2,
+        "hi": "यह परमाणु हथियार संपन्न राज्यों के लिये समयबद्ध परमाणु निरस्त्रीकरण को अनिवार्य करता है।",
+        "en": "It mandates time-bound nuclear disarmament by Nuclear Weapon States."
+      },
+      {
+        "id": 3,
+        "hi": "यह परमाणु हथियार संपन्न एवं गैर-परमाणु हथियार संपन्न राज्यों के मध्य एक स्पष्ट अंतर रेखांकित करता है।",
+        "en": "It creates a distinction between Nuclear Weapon States and Non-Nuclear Weapon States."
+      }
+    ],
+    "question": {
+      "hi": "परमाणु अप्रसार संधि (NPT) के संदर्भ में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं ?",
+      "en": "With reference to the Nuclear Non-Proliferation Treaty (NPT), consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 3 केवल",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "2 और 3 केवल",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 केवल",
+        "en": "1 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "परमाणु अप्रसार संधि (NPT) के अनुच्छेद IV के अनुसार, सभी हस्ताक्षरकर्ता देशों को शांतिपूर्ण उद्देश्यों जैसे बिजली उत्पादन और चिकित्सा हेतु परमाणु ऊर्जा के उपयोग का अनन्य संक्राम्य अधिकार प्राप्त है, बशर्ते वे सुरक्षा उपायों का पालन करें। अतः कथन 1 सही है।\n\nहालाँकि NPT परमाणु हथियार संपन्न राज्यों को निरस्त्रीकरण के लिये सद्भावनापूर्वक वार्ता करने का दायित्व देता है, लेकिन इसमें कोई निश्चित समय-सीमा निर्धारित नहीं की गई है, जो इसकी एक प्रमुख आलोचना है। अतः कथन 2 सही नहीं है।\n\nNPT के तहत एक कानूनी विभाजन निर्धारित किया गया है: परमाणु हथियार संपन्न राज्य (NWS): वे देश जिन्होंने 1 जनवरी, 1967 से पहले परमाणु परीक्षण किया; तथा गैर-परमाणु हथियार संपन्न राज्य (NNWS): वे सभी अन्य देश जो परमाणु हथियार न रखने पर सहमत हैं। अतः कथन 3 सही है।",
+      "en": "Under Article IV of the Nuclear Non-Proliferation Treaty (NPT), all signatory states have the inalienable right to develop nuclear energy for peaceful purposes such as power generation and medicine, provided they adhere to safeguards. Hence, statement 1 is correct.\n\nAlthough the NPT obligates Nuclear Weapon States to negotiate in good faith toward disarmament, it does not specify any fixed timeline, which remains a major criticism of the treaty. Hence, statement 2 is incorrect.\n\nThe NPT creates a formal legal distinction: Nuclear Weapon States (NWS) that tested nuclear weapons prior to January 1, 1967, and Non-Nuclear Weapon States (NNWS) that agreed not to acquire nuclear weapons. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 81,
+    "subject": "Geography",
+    "topic": "Current Affairs - Waterways",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "राष्ट्रीय परिवहन नीति समिति (1980) के अनुसार, किसी जलमार्ग को 'राष्ट्रीय' घोषित किये जाने के लिये कम-से-कम 50 किलोमीटर की निरंतर लंबाई और न्यूनतम 1.5 मीटर की गहराई होना आवश्यक है।",
+        "en": "According to the National Transport Policy Committee (1980), a continuous stretch of at least 50 km with a minimum depth of 1.5 m is required for a waterway to be declared national."
+      },
+      {
+        "id": 2,
+        "hi": "किसी जलमार्ग को वाणिज्यिक रूप से नौगम्य तब माना जाता है जब वह कम-से-कम 500 टन क्षमता वाले पोतों का संचालन कर सके।",
+        "en": "A waterway is deemed commercially navigable if it can support vessels carrying a minimum of 500 tonnes."
+      },
+      {
+        "id": 3,
+        "hi": "कैनालाइज्ड जलमार्ग पूर्णतः मानव निर्मित होते हैं, जो प्राकृतिक बाधाओं को पार करने हेतु अभियांत्रिकीय रूप से निर्मित चैनल होते हैं।",
+        "en": "Canalised waterways are entirely man-made, engineered channels constructed to bypass natural barriers."
+      }
+    ],
+    "question": {
+      "hi": "अंतर्देशीय जलमार्गों के वर्गीकरण एवं नौपरिवहन क्षमता के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कितने सही हैं?",
+      "en": "Consider the following statements regarding the classification and navigability of Inland Waterways:\nHow many of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "राष्ट्रीय परिवहन नीति समिति (1980) ने राष्ट्रीय जलमार्गों के लिये न्यूनतम 45 मीटर चौड़ाई, 1.5 मीटर गहराई और कम-से-कम 50 किलोमीटर की निरंतर लंबाई की अनुशंसा की थी। अतः कथन 1 सही है।\n\nकिसी जलमार्ग को नौगम्य तब माना जाता है जब वह लगभग 50 टन क्षमता वाले पोतों का संचालन कर सके, न कि 500 टन। अतः कथन 2 सही नहीं है।\n\nकैनालाइज्ड जलमार्ग प्राकृतिक नदियों को बांधों, जल-नियंत्रण द्वारों (लॉक) आदि संरचनाओं द्वारा संशोधित करके बनाए जाते हैं, जबकि पूर्णतः मानव-निर्मित चैनलों को कैनाल कहा जाता है। अतः कथन 3 सही नहीं है।",
+      "en": "According to the National Transport Policy Committee (1980), a continuous stretch of at least 50 km with a minimum depth of 1.5 m and width of 45 m is required for a waterway to be declared national. Hence, statement 1 is correct.\n\nA waterway is deemed commercially navigable if it can support vessels carrying a minimum of 50 tonnes, not 500 tonnes. Hence, statement 2 is incorrect.\n\nCanalised waterways are natural rivers modified by dams, locks, and other structures, whereas entirely man-made engineered channels are called canals. Hence, statement 3 is incorrect."
+    }
+  },
+  {
+    "id": 82,
+    "subject": "Economy",
+    "topic": "Current Affairs - FDI Policy",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत में सभी FDI प्रस्तावों को आर्थिक कार्यों की मंत्रिमंडलीय समिति (CCEA) से अनुमोदन की आवश्यकता होती है।",
+        "en": "All FDI proposals in India require approval from the Cabinet Committee on Economic Affairs (CCEA)."
+      },
+      {
+        "id": 2,
+        "hi": "भारत के साथ भूमि सीमा साझा करने वाले देशों से निवेश के लिये गृह मंत्रालय से सुरक्षा मंजूरी की आवश्यकता होती है।",
+        "en": "Investments from countries sharing a land border with India require security clearance from the Ministry of Home Affairs."
+      }
+    ],
+    "question": {
+      "hi": "विदेशी प्रत्यक्ष निवेश (FDI) अनुमोदन के लिये संशोधित SOP के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं ?",
+      "en": "Consider the following statements regarding the revised SOP for Foreign Direct Investment (FDI) approvals:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "आर्थिक कार्यों की मंत्रिमंडलीय समिति (CCEA) प्रत्येक विदेशी निवेश प्रस्ताव की जाँच नहीं करती है। इसकी अनुमोदन की आवश्यकता केवल उन मामलों में होती है जिनमें निर्धारित वित्तीय सीमा से अधिक बड़े इक्विटी निवेश शामिल हों। अतः कथन 1 सही नहीं है।\n\nसंशोधित FDI अनुमोदन तंत्र उन निवेशों के लिये गृह मंत्रालय द्वारा सुरक्षा जाँच को अनिवार्य बनाता है जो भारत के साथ भूमि सीमा साझा करने वाले देशों से उत्पन्न होते हैं या जिनका लाभकारी स्वामित्व ऐसे देशों से जुड़ा हुआ है। अतः कथन 2 सही है।",
+      "en": "The Cabinet Committee on Economic Affairs (CCEA) does not examine every FDI proposal. Approval from CCEA is required only for proposals involving equity inflows above a specified financial threshold. Hence, statement 1 is incorrect.\n\nUnder the revised FDI approval mechanism, security clearance from the Ministry of Home Affairs is mandatory for investments originating from or beneficially owned by entities in countries sharing a land border with India. Hence, statement 2 is correct."
+    }
+  },
+  {
+    "id": 83,
+    "subject": "Economy",
+    "topic": "Current Affairs - Inclusive Growth",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "गिनी सूचकांक लोरेंज वक्र से प्राप्त होता है और इसका उपयोग आय या संपत्ति के वितरण में असमानता को मापने के लिये किया जाता है।",
+        "en": "The Gini Index is derived from the Lorenz Curve and is used to measure inequality in income or wealth distribution."
+      },
+      {
+        "id": 2,
+        "hi": "गिनी सूचकांक का मान 0 पूर्ण असमानता को दर्शाता है, जबकि 1 पूर्ण समानता को दर्शाता है।",
+        "en": "A Gini Index value of 0 represents absolute inequality, while a value of 1 represents perfect equality."
+      },
+      {
+        "id": 3,
+        "hi": "समावेशी विकास का उद्देश्य यह सुनिश्चित करना है कि आर्थिक विकास व्यापक, सहभागी और समाज के सभी वर्गों के लिये लाभकारी हो।",
+        "en": "Inclusive growth aims to ensure that economic growth is broad-based, participatory, and beneficial to all sections of society."
+      }
+    ],
+    "question": {
+      "hi": "भारत में असमानता और समावेशी विकास के संदर्भ में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं ?",
+      "en": "With reference to inequality and inclusive growth in India, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "गिनी सूचकांक एक सांख्यिकीय संकेतक है, जिसका उपयोग किसी समाज में आय अथवा संपत्ति के वितरण में विद्यमान असमानता को मापने के लिये किया जाता है। यह लोरेंज वक्र पर आधारित होता है, जो वास्तविक आय वितरण की तुलना पूर्ण समानता की काल्पनिक रेखा से करता है। अतः कथन 1 सही है।\n\nगिनी सूचकांक का मान 0 से 1 के मध्य होता है, जहाँ 0 पूर्ण समानता तथा 1 पूर्ण असमानता को प्रदर्शित करता है, अर्थात् ऐसी स्थिति जिसमें समस्त आय या संपत्ति एक ही व्यक्ति के पास केंद्रित हो। अतः यह कथन गिनी सूचकांक की वास्तविक अवधारणा के विपरीत व्याख्या प्रस्तुत करता है। अतः कथन 2 सही नहीं है।\n\nसमावेशी विकास से आशय ऐसे आर्थिक विकास से है, जो समाज के सभी वर्गों के लिये अवसरों का सृजन करे तथा विकास के लाभों का न्यायसंगत वितरण सुनिश्चित करे। यह केवल आर्थिक वृद्धि तक सीमित न रहकर रोजगार सृजन, गरीबी उन्मूलन, सामाजिक समावेशन और क्षेत्रीय संतुलन को भी समान महत्त्व देता है। अतः कथन 3 सही है।",
+      "en": "The Gini Index is a statistical indicator derived from the Lorenz Curve used to measure inequality in income or wealth distribution. Hence, statement 1 is correct.\n\nA Gini Index value ranges between 0 and 1, where 0 represents perfect equality and 1 represents absolute inequality. Thus, statement 2 is incorrect.\n\nInclusive growth aims to ensure economic growth is broad-based, participatory, and creates equitable opportunities and benefits for all sections of society. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 84,
+    "subject": "Economy",
+    "topic": "Current Affairs - Banking & Reserves",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "वैश्विक स्तर पर सोने की कीमतों में तेजी के कारण RBI की स्वर्ण धारिताओं में वृद्धि हुई है जो अब भारत केकी विदेशी मुद्रा आरक्षित निधियों का 16.7% है।",
+        "en": "The RBI's gold reserves have increased to 16.7% of India's Foreign Exchange Reserves, driven by the rally in global gold prices."
+      },
+      {
+        "id": 2,
+        "hi": "मार्च 2026 तक, RBI अपनी अधिकांश स्वर्ण धारिताओं को विदेशी वॉल्ट में रखता है, जो अंतर्राष्ट्रीय भंडारण पर उसकी निर्भरता को दर्शाता है।",
+        "en": "As of March 2026, the RBI holds a majority of its gold reserves in foreign vaults, reflecting its reliance on international storage."
+      },
+      {
+        "id": 3,
+        "hi": "घरेलू स्वर्ण धारिताओं में वृद्धि की प्रवृत्ति वैश्विक अनिश्चितताओं, विशेष रूप से वर्ष 2022 के रूस-यूक्रेन संघर्ष के बाद, एक प्रतिक्रिया है।",
+        "en": "The trend of increasing domestic gold holdings is a response to global uncertainties, particularly after the 2022 Russia-Ukraine conflict."
+      }
+    ],
+    "question": {
+      "hi": "भारतीय रिज़र्व बैंक (RBI) और उसकी स्वर्ण धारिताओं के संदर्भ में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "en": "Consider the following statements about the Reserve Bank of India (RBI) and its gold holdings:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "वैश्विक स्तर पर सोने की कीमतों में वृद्धि के कारण RBI की स्वर्ण धारिताओं में वृद्धि हुई है जो अब भारत के विदेशी मुद्रा भंडार का 16.7% है। अतः कथन 1 सही है।\n\nRBI ने अपनी स्वर्ण धारिताओं का एक महत्त्वपूर्ण हिस्सा (मार्च 2026 तक 77%) घरेलू वॉल्टों में स्थानांतरित कर दिया है, जिससे विदेशी वॉल्ट पर निर्भरता कम हो रही है। अतः कथन 2 सही नहीं है।\n\nघरेलू स्वर्ण धारिताओं में वृद्धि आंशिक रूप से रूस-यूक्रेन संघर्ष जैसी भू-राजनीतिक अनिश्चितताओं के प्रति एक प्रतिक्रिया है, जिससे संभावित प्रतिबंधों या संपत्ति फ्रीज़ से बचने के लिये घरेलू भंडारण को प्राथमिकता दी जा रही है। अतः कथन 3 सही है।",
+      "en": "Driven by the rally in global gold prices, the RBI's gold holdings have risen to represent 16.7% of India's foreign exchange reserves. Hence, statement 1 is correct.\n\nThe RBI has shifted a major portion of its gold reserves to domestic vaults (around 77% held domestically as of March 2026), reducing reliance on foreign vaults. Hence, statement 2 is incorrect.\n\nThe trend of increasing domestic gold holdings is partly a response to geopolitical uncertainties following the 2022 Russia-Ukraine conflict, encouraging central banks to store gold domestically to avoid potential asset freezes. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 85,
+    "subject": "Environment",
+    "topic": "Current Affairs - Pollution Control Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इसका उपयोग मुख्य रूप से इलेक्ट्रोस्टैटिक प्रेसिपिटेटर से पहले, फ्लू गैसों से फ्लाई ऐश जैसे कणों को हटाने के लिये किया जाता है।",
+        "en": "It is primarily used to remove particulate matter like fly ash from flue gases before electrostatic precipitators."
+      },
+      {
+        "id": 2,
+        "hi": "सबसे सामान्य FGD प्रणालियाँ अम्ल-क्षार उदासीनीकरण के रासायनिक सिद्धांत पर आधारित होती हैं, जिसमें एक क्षारीय स्लरी अम्लीय SO2 के साथ अभिक्रिया करती है।",
+        "en": "The most common FGD systems use the chemical principle of acid-base neutralization, where an alkaline slurry reacts with acidic SO2."
+      },
+      {
+        "id": 3,
+        "hi": "वेट स्क्रबर एक उप-उत्पाद, जिप्सम, उत्पन्न करते हैं, जिसका निर्माण उद्योग में व्यावसायिक उपयोग किया जाता है।",
+        "en": "Wet scrubbers produce a by-product, gypsum, which is commercially used in the construction industry."
+      }
+    ],
+    "question": {
+      "hi": "फ्लू गैस डीसल्फराइजेशन (FGD) तकनीक के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements regarding Flue Gas Desulphurisation (FGD) technology:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "फ्लू गैस डिसल्फराइजेशन (FGD) को विशेष रूप से सल्फर डाइऑक्साइड (SO₂) को हटाने के लिये डिज़ाइन किया गया है, न कि पार्टिकुलेट मैटर को। पार्टिकुलेट मैटर (फ्लाई ऐश) को इलेक्ट्रोस्टैटिक प्रेसिपिटेटर्स (ESPs) या बैग फिल्टर द्वारा तब हटा दिया जाता है, जब फ्लू गैस FGD यूनिट में प्रवेश करती है। अतः कथन 1 सही नहीं है।\n\nचूँकि SO2 एक अम्लीय गैस है, इसे एक क्षारीय पदार्थ (जैसे चूना-पत्थर, चूना या समुद्री जल) के साथ अभिक्रिया कर हटाया जाता है। यह एक पारंपरिक अम्ल-क्षार उदासीनीकरण अभिक्रिया है, जो एक प्रमुख रासायनिक सिद्धांत है। अतः कथन 2 सही है।\n\nवेट स्क्रबर (चूना पत्थर-जिप्सम प्रक्रिया) कृत्रिम जिप्सम उत्पन्न करते हैं, जो रासायनिक रूप से प्राकृतिक जिप्सम के समान होता है। इसका व्यापक रूप से निर्माण उद्योग में ड्राईवॉल (प्लास्टरबोर्ड) तथा सीमेंट के निर्माण हेतु उपयोग किया जाता है। अतः कथन 3 सही है।",
+      "en": "Flue Gas Desulphurisation (FGD) technology is specifically designed to remove sulfur dioxide (SO2), not particulate matter. Particulate matter like fly ash is removed by Electrostatic Precipitators (ESPs) prior to the flue gas entering the FGD unit. Hence, statement 1 is incorrect.\n\nSince SO2 is acidic, it is removed by reacting with an alkaline substance (such as limestone or lime slurry) via an acid-base neutralization reaction. Hence, statement 2 is correct.\n\nWet scrubbing FGD systems produce synthetic gypsum as a by-product, which is widely utilized in the construction industry for drywall and cement manufacturing. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 86,
+    "subject": "Environment",
+    "topic": "Current Affairs - Invasive Species",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत में विभिन्न आक्रामक प्रजातियों को मूल रूप से औपनिवेशिक काल के दौरान आर्थिक या अलंकारी उद्देश्यों के लिये लाया गया था।",
+        "en": "Many invasive species in India were originally introduced during the colonial period for economic or ornamental purposes."
+      },
+      {
+        "id": 2,
+        "hi": "मोनोकल्चर (एकल कृषि) वृक्षारोपण आक्रामक प्रजातियों के खिलाफ पारिस्थितिक प्रतिरोधक्षमता को बढ़ाता है।",
+        "en": "Monoculture plantations increase ecological resilience against invasive species."
+      },
+      {
+        "id": 3,
+        "hi": "नहर सिंचाई और बोरवेल के विस्तार ने कुछ आक्रामक प्रजातियों के प्रसार में सहायता की है।",
+        "en": "Expansion of canal irrigation and borewells has aided the spread of some invasive species."
+      }
+    ],
+    "question": {
+      "hi": "भारत में आक्रामक विदेशी प्रजातियों (IAS) के प्रसार के संदर्भ में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं ?",
+      "en": "With reference to the spread of invasive alien species (IAS) in India, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "प्रोसोपिस जूलिफ्लोरा और लैंटाना कैमारा जैसी प्रजातियों को औपनिवेशिक काल के दौरान हरियाली को बढ़ाने जैसे उद्देश्यों के लिये लाया गया था। अतः कथन 1 सही है।\n\nमोनोकल्चर वानिकी जैव विविधता को कम करती है और पारिस्थितिक रिक्तता उत्पन्न करती है, जिसका आक्रामक प्रजातियाँ फायदा उठाती हैं। अतः कथन 2 सही नहीं है।\n\nनहर और बोरवेल के विस्तार ने आर्द्रता के शासन को बदल दिया, जिससे गहरी जड़ों वाले आक्रामक पौधों को फैलने में मदद मिली। अतः कथन 3 सही है।",
+      "en": "Species like Prosopis juliflora and Lantana camara were introduced during the colonial period for greening or ornamental purposes. Hence, statement 1 is correct.\n\nMonoculture plantations reduce biodiversity and create ecological voids that invasive species readily exploit. Hence, statement 2 is incorrect.\n\nThe expansion of canal irrigation and borewells altered moisture regimes, facilitating the spread of deep-rooted invasive plants. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 87,
+    "subject": "Environment",
+    "topic": "Current Affairs - Oil Spills",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "ये समुद्री स्तनधारियों एवं पक्षियों में ऊष्मारोधन तथा उत्प्लावन की क्षमता को प्रभावित कर सकते हैं, जिसके परिणामस्वरूप हाइपोथर्मिया (अल्पताप) की स्थिति उत्पन्न हो सकती है।",
+        "en": "They can lead to the loss of insulation and buoyancy in marine mammals and birds, potentially causing hypothermia."
+      },
+      {
+        "id": 2,
+        "hi": "ये प्रकाश और ऑक्सीजन में बाधा डालकर मैंग्रोव एवं प्रवाल भित्तियों जैसे तटीय पारिस्थितिकी तंत्रों का विनाश करते हैं।",
+        "en": "They cause the destruction of coastal ecosystems like mangroves and coral reefs by obstructing light and oxygen."
+      },
+      {
+        "id": 3,
+        "hi": "ये समुद्री खाद्य श्रृंखला में विषाक्त पदार्थों के जैव संचयन के माध्यम से मानव स्वास्थ्य को प्रभावित कर सकते हैं।",
+        "en": "They may impact human health through the bioaccumulation of toxins in the marine food chain."
+      }
+    ],
+    "question": {
+      "hi": "समुद्री ऑइल स्पिल के परिणामों के संदर्भ में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "en": "With reference to the consequences of marine oil spills, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2, and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "तेल फरयुक्त स्तनधारियों (जैसे समुद्री ऊदबिलाव) की ऊष्मारोधन क्षमता तथा पक्षियों के पंखों के जल-विकर्षी गुणों को नष्ट कर देता है। इस प्राकृतिक सुरक्षा के अभाव में जीव हाइपोथर्मिया (अल्पताप) का शिकार होकर मर सकते हैं अथवा तैरते रहने हेतु आवश्यक उत्प्लावन क्षमता खो सकते हैं। अतः कथन 1 सही है।\n\nतेल की चिकनी परत जल की सतह पर एक भौतिक बाधा बनाती है और संवेदनशील तटीय आवासों पर जम सकती है। मैंग्रोव में तेल वायवीय जड़ों को कोट कर सकता है, जिससे गैस विनिमय रुक जाता है। प्रवाल भित्तियों में, यह सहजीवी शैवाल के प्रकाश संश्लेषण के लिये आवश्यक सूर्य के प्रकाश को अवरुद्ध कर सकता है। अतः कथन 2 सही है।\n\nमनुष्य न केवल पर्यटन और मत्स्य पालन में आर्थिक नुकसान से प्रभावित होते हैं, बल्कि स्वास्थ्य संबंधी जोखिमों से भी प्रभावित होते हैं। इसमें वाष्पशील विषैले धुएँ का श्वसन के माध्यम से शरीर में प्रवेश तथा जल में उपस्थित हाइड्रोकार्बनों से दूषित ऊतकों वाले समुद्री खाद्य पदार्थों का सेवन शामिल है। अतः कथन 3 सही है।",
+      "en": "Oil destroys the insulating ability of fur-bearing marine mammals and the water-repelling abilities of a bird's feathers, causing hypothermia and loss of buoyancy. Hence, statement 1 is correct.\n\nOil slicks create physical barriers on the water surface and coat coastal habitats, smothering mangrove pneumatophores and blocking sunlight needed for photosynthesis in coral reefs. Hence, statement 2 is correct.\n\nToxins from oil spills bioaccumulate in marine food chains, posing severe health risks to humans who consume contaminated seafood. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 88,
+    "subject": "Environment",
+    "topic": "Current Affairs - Species Conservation",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बाघ",
+        "en": "Tiger"
+      },
+      {
+        "id": 2,
+        "hi": "शेर",
+        "en": "Lion"
+      },
+      {
+        "id": 3,
+        "hi": "जगुआर",
+        "en": "Jaguar"
+      },
+      {
+        "id": 4,
+        "hi": "कैराकल",
+        "en": "Caracal"
+      }
+    ],
+    "question": {
+      "hi": "इंटरनेशनल बिग कैट एलायंस (IBCA) के अंतर्गत निम्नलिखित में से किन प्रजातियों को आधिकारिक रूप से संरक्षण हेतु लक्षित किया गया है ?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following species are officially targeted for conservation under the framework of the International Big Cat Alliance (IBCA)?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "इंटरनेशनल बिग कैट एलायंस (IBCA) का शुभारंभ वर्ष 2023 में प्रोजेक्ट टाइगर की 50वीं वर्षगाँठ के अवसर पर किया गया था।\n\nIBCA का मुख्य उद्देश्य बड़ी बिल्लियों की सात विशिष्ट प्रमुख प्रजातियों, अर्थात बाघ, शेर, तेंदुआ, हिम तेंदुआ, चीता, जगुआर तथा प्यूमा का संरक्षण करना है।\n\nकैराकल, यद्यपि भारत एवं अन्य क्षेत्रों में पाई जाने वाली एक महत्त्वपूर्ण जंगली बिल्ली है, किंतु इसे IBCA की लक्षित सात बड़ी बिल्लियों में शामिल नहीं किया गया है। अतः विकल्प (b) सही है।",
+      "en": "The International Big Cat Alliance (IBCA) was launched in 2023 on the 50th anniversary of Project Tiger.\n\nIBCA focuses on the conservation of seven big cat species: Tiger, Lion, Leopard, Snow Leopard, Cheetah, Jaguar, and Puma.\n\nCaracal is a small/medium-sized wild cat and is not included among the seven designated big cats under the IBCA framework. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 89,
+    "subject": "Environment",
+    "topic": "Current Affairs - Species Conservation",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "IUCN रेड लिस्ट में इन्हें अल्प चिंताजनक श्रेणी में रखा गया है।",
+        "en": "They are classified as Least Concern in the IUCN Red List."
+      },
+      {
+        "id": 2,
+        "hi": "ये मूल रूप से उप-सहारा अफ्रीका में पाए जाते हैं और अर्द्ध-जलीय स्तनधारी हैं।",
+        "en": "They are native to sub-Saharan Africa and are semi-aquatic mammals."
+      }
+    ],
+    "question": {
+      "hi": "दरियाई घोड़ों के संदर्भ में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements regarding hippopotamuses:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "पर्यावास के क्षरण और शिकार जैसे खतरों के कारण दरियाई घोड़े को IUCN की रेड लिस्ट में 'सुभेद्य' (Vulnerable) श्रेणी में सूचीबद्ध किया गया है, न कि 'अल्प चिंताजनक' श्रेणी में। अतः कथन 1 सही नहीं है।\n\nदरियाई घोड़े मूल रूप से उप-सहारा अफ्रीका से संबद्ध हैं और ये बड़े अर्द्ध-जलीय स्तनधारी हैं जो अपना अधिकांश समय जल निकायों में व्यतीत करते हैं। अतः कथन 2 सही है।",
+      "en": "Hippopotamuses are classified as 'Vulnerable' on the IUCN Red List due to threats like habitat loss and poaching, not 'Least Concern'. Hence, statement 1 is incorrect.\n\nThey are large semi-aquatic mammals native to sub-Saharan Africa that spend most of their time in rivers and lakes. Hence, statement 2 is correct."
+    }
+  },
+  {
+    "id": 90,
+    "subject": "Environment",
+    "topic": "Current Affairs - Protected Areas",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "नीलगिरि बायोस्फीयर रिजर्व",
+        "en": "Nilgiri Biosphere Reserve"
+      },
+      {
+        "id": 2,
+        "hi": "मैसूर हाथी रिजर्व",
+        "en": "Mysore Elephant Reserve"
+      },
+      {
+        "id": 3,
+        "hi": "पश्चिमी घाट जैव विविधता क्षेत्र",
+        "en": "Western Ghats biodiversity region"
+      }
+    ],
+    "question": {
+      "hi": "बाँदीपुर टाइगर रिजर्व निम्नलिखित में से किस बड़े पारिस्थितिक तंत्र का हिस्सा है ?\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Bandipur Tiger Reserve is part of which of the following larger ecological frameworks?\nSelect the correct answer using the code below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "नीलगिरि बायोस्फीयर रिज़र्व में बाँदीपुर इसके प्रमुख संरक्षित क्षेत्रों में से एक है। यह भारत का पहला बायोस्फीयर रिज़र्व (1986) है और पश्चिमी घाट की अत्यंत विविध पारिस्थितिकी का प्रतिनिधित्व करता है।\n\nबाँदीपुर मैसूर हाथी अभयारण्य का हिस्सा है, जो विश्व की सबसे बड़ी एशियाई हाथी आबादी में से एक को समर्थन देता है।\n\nबाँदीपुर पश्चिमी घाट में स्थित है, जो एक वैश्विक जैव विविधता हॉटस्पॉट है। अतः विकल्प (d) सही है।",
+      "en": "Bandipur Tiger Reserve is one of the core protected areas of the Nilgiri Biosphere Reserve, India's first biosphere reserve (1986).\n\nIt is an integral part of the Mysore Elephant Reserve, supporting a large Asian elephant population.\n\nIt is situated in the Western Ghats global biodiversity hotspot. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 91,
+    "subject": "Environment",
+    "topic": "Current Affairs - Protected Areas",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह मध्य भारत की सतपुड़ा पहाड़ियों की मैकाल श्रेणी में स्थित है।",
+        "en": "It is situated in the Maikal range of the Satpura hills in central India."
+      },
+      {
+        "id": 2,
+        "hi": "इसे वर्ष 1973 में प्रोजेक्ट टाइगर के अंतर्गत लाया गया था।",
+        "en": "It was brought under the ambit of Project Tiger in 1973."
+      },
+      {
+        "id": 3,
+        "hi": "यह पश्चिमी घाट जैव विविधता हॉटस्पॉट का हिस्सा है।",
+        "en": "It forms part of the Western Ghats biodiversity hotspot."
+      }
+    ],
+    "question": {
+      "hi": "कान्हा टाइगर रिजर्व के संदर्भ में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "en": "With reference to the Kanha Tiger Reserve, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कान्हा टाइगर रिज़र्व सतपुड़ा पर्वतमाला की मैकाल श्रेणी में स्थित है, जो मध्य भारत का हिस्सा है। अतः कथन 1 सही है।\n\nइसे वर्ष 1973 में प्रोजेक्ट टाइगर के अंतर्गत लाया गया था, जिससे यह संरक्षण के लिये एक महत्त्वपूर्ण टाइगर रिज़र्व बन गया। अतः कथन 2 सही है।\n\nकान्हा मध्य भारतीय उच्चभूमि में स्थित है, न कि पश्चिमी घाट जैव विविधता हॉटस्पॉट में। अतः कथन 3 सही नहीं है।",
+      "en": "Kanha Tiger Reserve is located in the Maikal range of the Satpura hills in Madhya Pradesh, Central India. Hence, statement 1 is correct.\n\nIt was declared a tiger reserve under Project Tiger in 1973. Hence, statement 2 is correct.\n\nIt is located in the Central Indian Highlands, not the Western Ghats biodiversity hotspot. Hence, statement 3 is incorrect."
+    }
+  },
+  {
+    "id": 92,
+    "subject": "Geography",
+    "topic": "World Geography - Volcanism & Tectonics",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा क्षेत्र पारंपरिक रूप से पैसिफिक रिंग ऑफ फायर के भौगोलिक विस्तार का हिस्सा नहीं माना जाता है?",
+      "en": "Which of the following regions is not traditionally considered a part of the geographical extent of the Pacific Ring of Fire?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एंडीज़ पर्वत, दक्षिण अमेरिका",
+        "en": "Andes Mountains, South America"
+      },
+      {
+        "id": "B",
+        "hi": "फिलीपींस और इंडोनेशिया",
+        "en": "Philippines and Indonesia"
+      },
+      {
+        "id": "C",
+        "hi": "अल्यूशियन द्वीप समूह, अलास्का",
+        "en": "Aleutian Islands, Alaska"
+      },
+      {
+        "id": "D",
+        "hi": "अफ्रीका का पश्चिमी तट",
+        "en": "West Coast of Africa"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "पैसिफिक रिंग ऑफ फायर (परिप्रशांत पेटी) प्रशांत महासागर बेसिन में एक विशाल क्षेत्र है, जिसकी विशेषता बार-बार आने वाले भूकंप और सक्रिय ज्वालामुखी हैं।\n\nयह क्षेत्र दक्षिण अमेरिका के एंडीज़ से लेकर मध्य अमेरिका, अमेरिका का पश्चिमी तट, अलास्का के अल्यूशियन द्वीप समूह, जापान, फिलीपींस और इंडोनेशिया से होता हुआ न्यूज़ीलैंड तक फैला हुआ है।\n\nअफ्रीका का पश्चिमी तट अटलांटिक महासागर की ओर स्थित एक निष्क्रिय तट है, जहाँ प्रशांत महासागर की तुलना में प्लेट विवर्तनिकी गतिविधियाँ बहुत कम हैं। अतः विकल्प (d) सही है।",
+      "en": "The Pacific Ring of Fire is a horseshoe-shaped belt around the Pacific Ocean basin characterized by frequent earthquakes and active volcanoes.\n\nIt extends along the Andes in South America, Central America, the west coast of North America, the Aleutian Islands of Alaska, Japan, Philippines, Indonesia, and down to New Zealand.\n\nThe West Coast of Africa faces the Atlantic Ocean and is a passive tectonic margin, not part of the Pacific Ring of Fire. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 93,
+    "subject": "Science & Technology",
+    "topic": "Current Affairs - Space & Defence",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह पोखरण-II परमाणु परीक्षणों की वर्षगाँठ को चिह्नित करता है, साथ ही त्रिशूल मिसाइल तथा हंसा-3 विमान के सफल परीक्षण को भी दर्शाता है।",
+        "en": "It marks the anniversary of the Pokhran-II nuclear tests, along with the successful testing of the Trishul missile and the Hansa-3 aircraft."
+      },
+      {
+        "id": 2,
+        "hi": "इस दिवस को पहली बार वर्ष 1999 में आधिकारिक रूप से मनाया गया, ताकि भारत के परमाणु हथियार संपन्न देशों के समूह में प्रवेश को मान्यता दी जा सके।",
+        "en": "The day was first officially observed in 1999 to recognize India's entry into the group of nuclear-weapon states."
+      }
+    ],
+    "question": {
+      "hi": "राष्ट्रीय प्रौद्योगिकी दिवस के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं ?",
+      "en": "Consider the following statements regarding National Technology Day:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "राष्ट्रीय प्रौद्योगिकी दिवस प्रत्येक वर्ष 11 मई को मनाया जाता है। यह वर्ष 1998 के पोखरण-II परमाणु परीक्षणों (ऑपरेशन शक्ति) की स्मृति में मनाया जाता है। इसके साथ ही, इसी दिन त्रिशूल मिसाइल का सफल परीक्षण और हंसा-3 विमान की पहली उड़ान भी हुई थी। अतः कथन 1 सही है।\n\nतत्कालीन प्रधानमंत्री अटल बिहारी वाजपेयी ने 11 मई 1999 को पहले राष्ट्रीय प्रौद्योगिकी दिवस का आधिकारिक उद्घाटन किया था। अतः कथन 2 सही है।",
+      "en": "National Technology Day is observed annually on May 11 to commemorate the 1998 Pokhran-II nuclear tests (Operation Shakti), alongside the successful test firing of the Trishul missile and the maiden flight of the Hansa-3 aircraft on the same day. Hence, statement 1 is correct.\n\nThe day was officially inaugurated on May 11, 1999, by then Prime Minister Atal Bihari Vajpayee to recognize India's technological achievements and entry into the nuclear-weapon states group. Hence, statement 2 is correct."
+    }
+  },
+  {
+    "id": 94,
+    "subject": "Science & Technology",
+    "topic": "Current Affairs - Materials Science",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "वे बल की दिशा में परिवर्तन होने पर भी अपना व्यवहार समान बनाए रखते हैं।",
+        "en": "They always behave in the same way regardless of the direction of the applied force."
+      },
+      {
+        "id": 2,
+        "hi": "उनके गुण मुख्य रूप से उनकी आंतरिक संरचना पर निर्भर करते हैं, न कि केवल उनकी रासायनिक संरचना पर।",
+        "en": "Their properties depend mainly on their internal structure rather than only on chemical composition."
+      }
+    ],
+    "question": {
+      "hi": "मेटामटेरियल्स के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं ?",
+      "en": "Consider the following statements regarding metamaterials:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "मेटामटेरियल्स गैर-पारस्परिक या दिशा-निर्भर (directional dependent) व्यवहार प्रदर्शित कर सकते हैं, जिसका अर्थ है कि उनका प्रतिक्रिया व्यवहार लागू बल या इनपुट की दिशा के आधार पर भिन्न हो सकता है। अतः कथन 1 सही नहीं है।\n\nमेटामटेरियल्स कृत्रिम रूप से अभिकल्पित पदार्थ होते हैं, जिनके भौतिक गुण मुख्य रूप से उनकी बनाई गई आंतरिक/सूक्ष्म संरचना (internal structure) से उत्पन्न होते हैं, न कि केवल उनकी रासायनिक संरचना से। अतः कथन 2 सही है।",
+      "en": "Metamaterials can exhibit direction-dependent or non-reciprocal properties, meaning their response can vary depending on the direction of the applied force or wave input. Hence, statement 1 is incorrect.\n\nMetamaterials are artificially engineered materials whose unique physical properties derive primarily from their designed internal microstructures rather than solely their chemical composition. Hence, statement 2 is correct."
+    }
+  },
+  {
+    "id": 95,
+    "subject": "International Relations",
+    "topic": "Current Affairs - Outer Space Law",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बाह्य अंतरिक्ष संधि (1967) के अनुसार, राज्य अपने राष्ट्रीय अंतरिक्ष गतिविधियों के लिये ज़िम्मेदार होते हैं, जिसमें निजी संस्थाएँ/अभिकर्त्ता भी शामिल हैं।",
+        "en": "The Outer Space Treaty (1967) makes states responsible for national space activities, including private actors."
+      },
+      {
+        "id": 2,
+        "hi": "दायित्व अभिसमय (1972) पृथ्वी पर अंतरिक्ष वस्तुओं द्वारा होने वाले नुकसान के लिये पूर्ण दायित्व निर्धारित करती है।",
+        "en": "The Liability Convention (1972) imposes absolute liability for damage caused by space objects on Earth."
+      },
+      {
+        "id": 3,
+        "hi": "मौजूदा संधियाँ कक्षीय (ऑर्बिटल) संघर्षों को नियंत्रित करने के लिये बाध्यकारी प्रवर्तन तंत्र प्रदान करती हैं।",
+        "en": "Existing treaties provide binding mechanisms to regulate orbital conflicts."
+      }
+    ],
+    "question": {
+      "hi": "बाह्य अंतरिक्ष के शासन से संबंधित अंतर्राष्ट्रीय कानूनी ढाँचों के संदर्भ में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to international legal frameworks governing outer space, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "बाह्य अंतरिक्ष संधि (1967) का अनुच्छेद VI यह निर्धारित करता है कि राज्य अपने राष्ट्रीय अंतरिक्ष अभियानों और गतिविधियों के लिये अंतर्राष्ट्रीय रूप से उत्तरदायी हैं, चाहे वे सरकारी निकायों द्वारा संचालित हों या निजी संस्थाओं द्वारा। अतः कथन 1 सही है।\n\n1972 का दायित्व अभिसमय (Liability Convention) यह प्रावधान करता है कि किसी राज्य की अंतरिक्ष वस्तु द्वारा पृथ्वी की सतह पर या वायुयान को पहुँचाए गए नुकसान के लिये वह राज्य पूर्णतः दायी (absolutely liable) होगा। अतः कथन 2 सही है।\n\nवर्तमान अंतर्राष्ट्रीय अंतरिक्ष संधि ढाँचे में आधुनिक कक्षीय संघर्षों, अंतरिक्ष मलबे के सैन्यीकरण, और प्रतिस्पर्धी गतिविधियों को नियंत्रित करने हेतु सुदृढ़ एवं बाध्यकारी प्रवर्तन तंत्रों का अभाव है। अतः कथन 3 सही नहीं है।",
+      "en": "Article VI of the Outer Space Treaty (1967) holds states internationally responsible for all national space activities, whether conducted by governmental agencies or non-governmental/private entities. Hence, statement 1 is correct.\n\nThe Liability Convention (1972) establishes absolute liability for launching states regarding damage caused by their space objects on the surface of the Earth or to aircraft in flight. Hence, statement 2 is correct.\n\nExisting outer space legal frameworks lack binding enforcement mechanisms to resolve or regulate modern orbital conflicts and space weaponization. Hence, statement 3 is incorrect."
+    }
+  },
+  {
+    "id": 96,
+    "subject": "Science & Technology",
+    "topic": "Current Affairs - Space Satellites",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "हाल ही में समाचारों में देखे गए 'मिशन दृष्टि' के संदर्भ में निम्नलिखित में से कौन-सा कथन इसे सर्वाधिक उपयुक्त रूप से वर्णित करता है ?",
+      "en": "With reference to 'Mission Drishti', recently seen in the news, which one of the following statements best describes it?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भारत का पहला निजी रूप से विकसित उपग्रह, जिसमें गहन अंतरिक्ष अवलोकन हेतु 3D-प्रिंटेड रॉकेट इंजन का उपयोग किया गया है।",
+        "en": "India's first privately developed satellite equipped with a 3D-printed rocket engine for deep-space observation."
+      },
+      {
+        "id": "B",
+        "hi": "विश्व का पहला ऐसा उपग्रह, जिसे एक ही स्थान से एक ही समय में मल्टी-सेंसर (ऑप्टिकल एवं सिंथेटिक अपर्चर रडार) भू-प्रेक्षण हेतु डिज़ाइन किया गया है।",
+        "en": "The world's first satellite designed for simultaneous multi-sensor (optical and Synthetic Aperture Radar) earth observation from the same location at the same time."
+      },
+      {
+        "id": "C",
+        "hi": "भारत-अमेरिका का संयुक्त मिशन, जिसका उद्देश्य आर्टिफिशियल इंटेलिजेंस आधारित बादल पूर्वानुमान प्रणाली के माध्यम से 'रिंग ऑफ फायर' ज्वालामुखीय पट्टी की निगरानी करना है।",
+        "en": "A joint Indo-US mission to monitor the Ring of Fire volcanic belt using Al-based cloud prediction."
+      },
+      {
+        "id": "D",
+        "hi": "भारत का पहला भू-स्थिर कक्षीय जलवायु उपग्रह, जिसे विशेष रूप से हिंद महासागर क्षेत्र में आने वाले चक्रवातों की निगरानी हेतु विकसित किया गया है।",
+        "en": "India's first geostationary climate satellite to track cyclones exclusively over the Indian Ocean."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारतीय स्पेस-टेक स्टार्टअप 'गैलेक्सीआई' द्वारा विकसित 'मिशन दृष्टि' दुनिया का पहला ऐसा उपग्रह है, जो एक ही समय और स्थान से ऑप्टिकल तथा सिंथेटिक अपर्चर रडार (SAR) दोनों पेलोड से डेटा एकत्र करने में सक्षम है। यह तकनीक बादलों और रात के समय भी स्पष्ट भू-प्रेक्षण चित्र प्रदान करती है। अतः विकल्प (b) सही है।",
+      "en": "Mission Drishti, launched by Indian space-tech startup GalaxEye, is the world's first Earth observation satellite designed to capture data using both optical and Synthetic Aperture Radar (SAR) sensors simultaneously from the same platform. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 97,
+    "subject": "Science & Technology",
+    "topic": "Current Affairs - Defence Technology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "INS महेंद्रगिरि प्रोजेक्ट 17A के तहत भारतीय नौसेना में शामिल किया गया पहला जहाज़ है।",
+        "en": "INS Mahendragiri is the first ship under Project 17A inducted into the Indian Navy."
+      },
+      {
+        "id": 2,
+        "hi": "प्रोजेक्ट 17A फ्रिगेट को भारत की समुद्री पहुँच को बढ़ाने के लिये 'ब्लू-वॉटर ऑपरेशन' हेतु डिज़ाइन किया गया है।",
+        "en": "Project 17A frigates are designed for blue-water operations to enhance India's maritime reach."
+      }
+    ],
+    "question": {
+      "hi": "प्रोजेक्ट 17A के संदर्भ में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to Project 17A, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "INS महेंद्रगिरि प्रोजेक्ट 17A स्टील्थ फ्रिगेट शृंखला का सातवाँ और अंतिम जहाज़ है, न कि पहला (पहला INS नीलगिरि था)। अतः कथन 1 सही नहीं है।\n\nप्रोजेक्ट 17A के फ्रिगेट्स में उन्नत स्टील्थ फीचर्स, आधुनिक हथियार प्रणाली और रडार शामिल हैं, जिन्हें भारत के दूरगामी समुद्री हितों की सुरक्षा हेतु 'ब्लू-वॉटर ऑपरेशन्स' के लिये बनाया गया है। अतः कथन 2 सही है।",
+      "en": "INS Mahendragiri is the seventh and final stealth frigate under Project 17A, not the first (INS Nilgiri was the first). Hence, statement 1 is incorrect.\n\nProject 17A frigates possess advanced stealth features, weaponry, and sensors designed specifically for blue-water operations in open oceans. Hence, statement 2 is correct."
+    }
+  },
+  {
+    "id": 98,
+    "subject": "History",
+    "topic": "Current Affairs - International Events",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह दिन शिकागो में हुई हेमार्केट घटना की स्मृति में मनाया जाता है, जो मुख्य रूप से 8 घंटे के कार्य दिवस की मांग को लेकर किया गया एक आंदोलन था।",
+        "en": "The day commemorates the Haymarket Affair in Chicago, which was a rally primarily demanding an eight-hour workday."
+      },
+      {
+        "id": 2,
+        "hi": "वर्ष 1889 में अंतर्राष्ट्रीय श्रम संगठन (ILO) ने 1 मई को आधिकारिक रूप से अंतर्राष्ट्रीय श्रमिक दिवस घोषित किया।",
+        "en": "In 1889, the International Labour Organization (ILO) officially declared 1st May as International Workers' Day."
+      },
+      {
+        "id": 3,
+        "hi": "प्रारंभिक श्रमिक आंदोलन का मूल सिद्धांत यह था कि दिन को तीन समान भागों में बाँटा जाए 8 घंटे काम, 8 घंटे आराम और 8 घंटे व्यक्तिगत जीवन के लिये।",
+        "en": "The foundational principle of the early labor movement was dividing the day into equal 8-hour segments for work, rest, and personal life."
+      }
+    ],
+    "question": {
+      "hi": "अंतर्राष्ट्रीय श्रमिक दिवस के संबंध में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कितने सही हैं?",
+      "en": "Consider the following statements regarding the International Workers' Day:\nHow many of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "अंतर्राष्ट्रीय श्रमिक दिवस (1 मई) 1886 में अमेरिका के शिकागो में हुई हेमार्केट घटना (Haymarket Affair) की याद में मनाया जाता है, जहाँ 8 घंटे के कार्य दिवस की मांग को लेकर श्रमिकों ने आंदोलन किया था। अतः कथन 1 सही है।\n\n1889 में पेरिस में सोशलिस्ट पार्टियों के सम्मेलन (Second International) ने 1 मई को अंतर्राष्ट्रीय श्रमिक दिवस घोषित किया था। अंतर्राष्ट्रीय श्रम संगठन (ILO) की स्थापना बहुत बाद में वर्ष 1919 में हुई थी। अतः कथन 2 सही नहीं है।\n\nप्रारंभिक श्रमिक आंदोलन का एक मुख्य नारा था: \"8 घंटे काम, 8 घंटे मनोरंजन/व्यक्तिगत जीवन, और 8 घंटे आराम\"। अतः कथन 3 सही है।",
+      "en": "International Workers' Day commemorates the 1886 Haymarket Affair in Chicago, where workers rallied for an 8-hour workday. Hence, statement 1 is correct.\n\nIn 1889, the Marxist International Socialist Congress (Second International) in Paris declared May 1 as International Workers' Day. The ILO was established later in 1919. Hence, statement 2 is incorrect.\n\nThe foundational slogan of early labor movements advocated dividing the 24-hour day into three 8-hour parts: 8 hours for work, 8 hours for rest, and 8 hours for personal life. Hence, statement 3 is correct."
+    }
+  },
+  {
+    "id": 99,
+    "subject": "Geography",
+    "topic": "Current Affairs - Infrastructure & Shipping",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह परियोजना मैरीटाइम अमृत काल विज़न 2047 से संबंधित है और इसका उद्देश्य भारत की वैश्विक पोत निर्माण क्षमता को बढ़ाना है।",
+        "en": "The project is associated with the Maritime Amrit Kaal Vision 2047 and aims to strengthen India's global shipbuilding capacity."
+      },
+      {
+        "id": 2,
+        "hi": "थूथुकुडी में प्रस्तावित शिपयार्ड की वार्षिक क्षमता 2.5 मिलियन ग्रॉस टन (GT) होने की परिकल्पना की गई है।",
+        "en": "The proposed shipyard at Thoothukudi is envisaged to have an annual capacity of 2.5 Million Gross Tonnage (GT)."
+      },
+      {
+        "id": 3,
+        "hi": "भारत-दक्षिण कोरिया ढाँचा VOYAGES विशेष रूप से नौसेना रक्षा सहयोग पर केंद्रित है और वाणिज्यिक शिपिंग तथा लॉजिस्टिक्स को अपवर्जित करता है।",
+        "en": "The India-Republic of Korea framework 'VOYAGES' is focused exclusively on naval defence cooperation and excludes commercial shipping and logistics."
+      }
+    ],
+    "question": {
+      "hi": "थूथुकुडी में भारत की पहली मेगा ग्रीनफील्ड शिपयार्ड परियोजना के संदर्भ में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "en": "With reference to India's first Mega Greenfield Shipyard project at Thoothukudi, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "थूथुकुडी (तमिलनाडु) में भारत का पहला मेगा ग्रीनफील्ड शिपयार्ड 'मैरीटाइम अमृत काल विज़न 2047' के तहत पोत निर्माण क्षमता को बढ़ाने की योजना का हिस्सा है। अतः कथन 1 सही है।\n\nइस प्रस्तावित शिपयार्ड की क्षमता 2.5 मिलियन ग्रॉस टन (GT) होने का अनुमान लगाया गया है। अतः कथन 2 सही है।\n\nभारत और दक्षिण कोरिया के बीच 'VOYAGES' (Vision for Oceans and Maritime Advancement with Year-round Engagement and Sustainability) समझौता वाणिज्यिक शिपिंग, जहाजरानी बुनियादी ढाँचे और लॉजिस्टिक्स में सहयोग को शामिल करता है; यह केवल नौसेना रक्षा तक सीमित नहीं है। अतः कथन 3 सही नहीं है।",
+      "en": "The proposed Mega Greenfield Shipyard at Thoothukudi, Tamil Nadu aligns with Maritime Amrit Kaal Vision 2047 to boost global shipbuilding capacity. Hence, statement 1 is correct.\n\nThe shipyard is envisaged to have a capacity of 2.5 Million Gross Tonnage (GT) per year. Hence, statement 2 is correct.\n\nThe Indo-South Korea 'VOYAGES' initiative spans commercial shipping, port infrastructure, and maritime logistics, and is not restricted solely to naval defense. Hence, statement 3 is incorrect."
+    }
+  },
+  {
+    "id": 100,
+    "subject": "Governance",
+    "topic": "Current Affairs - Panchayati Raj",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "राष्ट्रीय पंचायत पुरस्कार हर वर्ष पंचायती राज मंत्रालय द्वारा ग्रामीण विकास में सर्वश्रेष्ठ प्रदर्शन करने वाली पंचायतों को मान्यता देने के लिये प्रदान किये जाते हैं।",
+        "en": "The National Panchayat Awards are conferred annually by the Ministry of Panchayati Raj to recognise best-performing Panchayats in rural development."
+      },
+      {
+        "id": 2,
+        "hi": "दीन दयाल उपाध्याय पंचायत सतत विकास पुरस्कार पंचायत उन्नति सूचकांक (PAI) 2.0 और सतत विकास लक्ष्यों के स्थानीकरण (LSDGs) के विषयों से जुड़ा होता है।",
+        "en": "The Deen Dayal Upadhyay Panchayat Satat Vikas Puraskar is linked to the Panchayat Advancement Index (PAI) 2.0 and the themes of Localization of Sustainable Development Goals (LSDGs)."
+      },
+      {
+        "id": 3,
+        "hi": "ये पुरस्कार राष्ट्रीय ग्राम स्वराज अभियान (RGSA) के अंतर्गत लागू किये जाते हैं, जो एक केंद्रीय क्षेत्र योजना है।",
+        "en": "The awards are implemented under the Rashtriya Gram Swaraj Abhiyan (RGSA), which is a Central Sector Scheme."
+      }
+    ],
+    "question": {
+      "hi": "राष्ट्रीय पंचायत पुरस्कार 2025 के संदर्भ में निम्नलिखित कथनों पर विचार कीजियेः\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "en": "With reference to the National Panchayat Awards 2025, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "राष्ट्रीय पंचायत पुरस्कार (National Panchayat Awards) पंचायती राज मंत्रालय द्वारा प्रतिवर्ष उत्कृष्ट कार्य करने वाली ग्राम पंचायतों को प्रोत्साहित करने के लिये दिये जाते हैं। अतः कथन 1 सही है।\n\nदीन दयाल उपाध्याय पंचायत सतत विकास पुरस्कार पंचायत उन्नति सूचकांक (PAI) 2.0 और सतत विकास लक्ष्यों (LSDGs) के 9 स्थानीयकरण विषयों पर आधारित है। अतः कथन 2 सही है।\n\nराष्ट्रीय ग्राम स्वराज अभियान (RGSA) एक 'केंद्र प्रायोजित योजना' (Centrally Sponsored Scheme) है, न कि केंद्रीय क्षेत्र की योजना (Central Sector Scheme)। अतः कथन 3 सही नहीं है।",
+      "en": "National Panchayat Awards are conferred annually by the Ministry of Panchayati Raj to recognize and encourage best-performing Panchayats. Hence, statement 1 is correct.\n\nThe Deen Dayal Upadhyay Panchayat Satat Vikas Puraskar evaluates Panchayats based on 9 localized Sustainable Development Goals (LSDGs) themes and the Panchayat Advancement Index (PAI) 2.0. Hence, statement 2 is correct.\n\nRashtriya Gram Swaraj Abhiyan (RGSA) is a Centrally Sponsored Scheme, not a Central Sector Scheme. Hence, statement 3 is incorrect."
+    }
   }
 ]
