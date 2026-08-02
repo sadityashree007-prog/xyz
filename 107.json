@@ -1,0 +1,1642 @@
+[
+  {
+    "id": 1,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "रिस्क रेमेडिएशन में क्या शामिल है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इंडिकेटर ऑफ कॉम्प्रोमाइज (Indicators of compromise)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इंडिकेटर",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) इंडिकेटर ऑफ कॉम्प्रोमाइज।",
+      "en": null
+    }
+  },
+  {
+    "id": 2,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "रेमेडिएशन की प्रक्रिया कैसी होती है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "स्ट्रेट फॉरवर्ड (Straightforward)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "कॉम्प्लेक्स",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) स्ट्रेट फॉरवर्ड।",
+      "en": null
+    }
+  },
+  {
+    "id": 3,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "रेमेडिएशन की तुलना में मिटिगेशन कैसा है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "मोर कॉम्प्लेक्स (कठिन)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "सिंपल",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) मोर कॉम्प्लेक्स।",
+      "en": null
+    }
+  },
+  {
+    "id": 4,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर सिक्योरिटी किसे सुरक्षित (Protect) करने की प्रक्रिया है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इलेक्ट्रॉनिक इंफॉर्मेशन",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "सिंपल इंफॉर्मेशन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "कोई भी इंफॉर्मेशन",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) इलेक्ट्रॉनिक इंफॉर्मेशन।",
+      "en": null
+    }
+  },
+  {
+    "id": 5,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर सिक्योरिटी में क्या शामिल है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "प्रिवेंशन",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "डिटेक्शन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "रिकवरी",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "तीनों",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) तीनों।",
+      "en": null
+    }
+  },
+  {
+    "id": 6,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर सिक्योरिटी स्ट्रेटेजी (Strategy) को किसके खिलाफ सुरक्षा के लिए डिज़ाइन किया गया है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "थ्रेट्स (खतरे)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "वायरस",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "मैलवेयर",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 7,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 9: सोशल मीडिया अवलोकन और सुरक्षा (भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल नेटवर्क क्या होते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "वेबसाइट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "ऐप्स",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों (वेबसाइट और ऐप्स)।",
+      "en": null
+    }
+  },
+  {
+    "id": 8,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 9: सोशल मीडिया अवलोकन और सुरक्षा (भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल नेटवर्क यूजर को किसके लिए अनुमति (Allow) देते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "शेयरिंग",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "कम्युनिकेट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "रिलेशनशिप",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 9,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 9: सोशल मीडिया अवलोकन और सुरक्षा (भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "लोकप्रिय (Popular) सोशल नेटवर्किंग साइट्स कौन सी हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "Facebook",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "Instagram",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "LinkedIn",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 10,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 9: सोशल मीडिया अवलोकन और सुरक्षा (भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल नेटवर्क किस पर केंद्रित (Focus) होते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "यूजर जनरेटेड कंटेंट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "फिक्स्ड कंटेंट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) यूजर जनरेटेड कंटेंट।",
+      "en": null
+    }
+  },
+  {
+    "id": 11,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 9: सोशल मीडिया अवलोकन और सुरक्षा (भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल नेटवर्किंग में यूजर्स के बीच बनने वाले कनेक्शन को क्या कहते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "फ्रेंडिंग (Friending)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "फॉलोइंग यूजर्स",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों।",
+      "en": null
+    }
+  },
+  {
+    "id": 12,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 9: सोशल मीडिया अवलोकन और सुरक्षा (भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल नेटवर्किंग का मुख्य उद्देश्य (Main objective) क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "शेयरिंग",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इंटरैक्टिंग (Interacting)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "लर्निंग",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 13,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 9: सोशल मीडिया अवलोकन और सुरक्षा (भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल नेटवर्किंग प्लेटफॉर्म द्वारा कितने उद्देश्यों को पूरा किया जाना चाहिए?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "2",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "3",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "4",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "5",
+        "en": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "B) 3 (शेयरिंग, इंटरैक्टिंग, लर्निंग)।",
+      "en": null
+    }
+  },
+  {
+    "id": 14,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 9: सोशल मीडिया अवलोकन और सुरक्षा (भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "भौगोलिक रूप से दूर रहने वाले फ्रेंड्स या फैमिली मेंबर्स रिमोटली कनेक्ट होते हैं, उसे क्या कहते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "शेयरिंग",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "लर्निंग",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "मार्केटिंग",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) शेयरिंग।",
+      "en": null
+    }
+  },
+  {
+    "id": 15,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 9: सोशल मीडिया अवलोकन और सुरक्षा (भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल नेटवर्क किस प्रकार के प्लेटफॉर्म के रूप में काम करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "शेयरिंग प्लेटफॉर्म",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "लर्निंग प्लेटफॉर्म",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "इंटरैक्टिंग प्लेटफॉर्म",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 16,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 9: सोशल मीडिया अवलोकन और सुरक्षा (भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल नेटवर्किंग किन बाधाओं (Barriers) को तोड़कर यूजर इंटरेक्शन बढ़ाता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "समय (Time)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "दूरी (Distance)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों।",
+      "en": null
+    }
+  },
+  {
+    "id": 17,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 9: सोशल मीडिया अवलोकन और सुरक्षा (भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल मीडिया कनेक्शन के प्रकार (Type) कौन से हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सोशल (Social)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "प्रोफेशनल",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "शेयरिंग ऑफ मल्टीमीडिया",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 18,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 9: सोशल मीडिया अवलोकन और सुरक्षा (भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वह कनेक्शन जो यूजर को न्यूज़ और जानकारी पोस्ट करने की अनुमति देता है, क्या कहलाता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "न्यूज़ कनेक्शन",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इंफॉर्मेशन कनेक्शन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों।",
+      "en": null
+    }
+  },
+  {
+    "id": 19,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 9: सोशल मीडिया अवलोकन और सुरक्षा (भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वह सोशल नेटवर्क जो यूजर्स को सीधे वन-ऑन-वन या ग्रुप चैट में संवाद (Communicate) करने पर ध्यान केंद्रित करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "लर्निंग",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इंटरैक्टिंग (Interacting)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "शेयरिंग",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "B) इंटरैक्टिंग।",
+      "en": null
+    }
+  },
+  {
+    "id": 20,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 9: सोशल मीडिया अवलोकन और सुरक्षा (भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल नेटवर्क द्वारा रिमोट लर्निंग किस प्रकार से प्रदान की जाती है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एजुकेशनल लर्निंग",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "कम्युनिकेशन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "प्रोफेशनल",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) एजुकेशनल लर्निंग।",
+      "en": null
+    }
+  },
+  {
+    "id": 21,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 9: सोशल मीडिया अवलोकन और सुरक्षा (भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "कम्युनिकेशन सोशल मीडिया कनेक्शन का उदाहरण कौन सा है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "WhatsApp",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "WeChat",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "LinkedIn",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 22,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 9: सोशल मीडिया अवलोकन और सुरक्षा (भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "निम्नलिखित में से कौन सी बिज़नेस और प्रोफेशनल सोशल नेटवर्किंग साइट है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "Facebook",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "LinkedIn",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "Twitter",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "B) LinkedIn।",
+      "en": null
+    }
+  },
+  {
+    "id": 23,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 9: सोशल मीडिया अवलोकन और सुरक्षा (भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल मीडिया मॉनिटरिंग का उपयोग किसे निर्धारित (Determine) करने के लिए किया जाता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ब्रांड पर कमेंट्स",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "संस्था (Organization) पर कमेंट्स",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "इंडिविजुअल पर कमेंट्स",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 48,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 9: सोशल मीडिया अवलोकन और सुरक्षा (भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल मीडिया मॉनिटरिंग किसे एकत्रित (Collect) करने की प्रक्रिया है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सोशल कन्वर्सेशन",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "मैसेज",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों।",
+      "en": null
+    }
+  },
+  {
+    "id": 49,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 9: सोशल मीडिया अवलोकन और सुरक्षा (भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल मीडिया मॉनिटरिंग के लाभ (Benefit) क्या हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ब्रांड रेपुटेशन सुधारना",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "अत्यधिक ग्राहकों को जोड़ना",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "कैंपेन से बेहतर परिणाम",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 50,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 10: सोशल मीडिया अवलोकन और सुरक्षा (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "हैशटैग (Hashtag) किस सिंबल से शुरू होता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "@",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "$",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "#",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "&",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) #।",
+      "en": null
+    }
+  },
+  {
+    "id": 51,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 10: सोशल मीडिया अवलोकन और सुरक्षा (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वायरल कंटेंट किस प्रकार की अवेयरनेस (जागरूकता) हासिल करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "लो लेवल",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "मिडिल लेवल",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "हाई लेवल",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "नो लेवल",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) हाई लेवल।",
+      "en": null
+    }
+  },
+  {
+    "id": 52,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 10: सोशल मीडिया अवलोकन और सुरक्षा (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वायरल कंटेंट का एक सिंगल पीस (Single piece) वेबसाइट पर क्या उत्पन्न कर सकता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ब्रांड अवेयरनेस",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "ट्रैफिक (Traffic)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों।",
+      "en": null
+    }
+  },
+  {
+    "id": 53,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 10: सोशल मीडिया अवलोकन और सुरक्षा (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल मीडिया पर आप वायरल कैसे हो सकते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अपनी ऑडियंस को जानकर",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "यूनिक और इंगेजिंग कंटेंट बनाकर",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "ट्रेंडिंग टॉपिक्स और हैशटैग का उपयोग करके",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 54,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 10: सोशल मीडिया अवलोकन और सुरक्षा (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वायरल होने के लाभ (Benefits) क्या-क्या हो सकते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "विजिबिलिटी बढ़ना",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "क्रेडिबिलिटी बूस्ट होना",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "अधिक इंगेजमेंट (More engagement)",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 55,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 10: सोशल मीडिया अवलोकन और सुरक्षा (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "वायरल होने के नुकसान (Drawback) क्या हो सकते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "नियंत्रण खोना (Loss of control)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "नेगेटिव अटेंशन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "बर्न आउट",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 56,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 10: सोशल मीडिया अवलोकन और सुरक्षा (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "SMM का फुल फॉर्म क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सोशल मीडिया मार्केटिंग",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "सोशल मार्केटिंग मीडिया",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "सोशल मास मार्केटिंग",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) सोशल मीडिया मार्केटिंग।",
+      "en": null
+    }
+  },
+  {
+    "id": 57,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 10: सोशल मीडिया अवलोकन और सुरक्षा (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल मीडिया मार्केटिंग में प्लेटफॉर्म का उपयोग किसके साथ कनेक्ट होने के लिए किया जाता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ऑडियंस",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "प्रोडक्ट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) ऑडियंस।",
+      "en": null
+    }
+  },
+  {
+    "id": 58,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 10: सोशल मीडिया अवलोकन और सुरक्षा (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "SMM (सोशल मीडिया मार्केटिंग) के कोर पिलर (मुख्य स्तंभ) कितने हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "4",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "5",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "6",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) 4 (प्लानिंग & पब्लिशिंग, लिसनिंग & इंगेजमेंट, एनालिटिक्स & रिपोर्टिंग, एडवरटाइजिंग)।",
+      "en": null
+    }
+  },
+  {
+    "id": 59,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 10: सोशल मीडिया अवलोकन और सुरक्षा (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "SMM के पिलर (स्तंभ) कौन से हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "प्लानिंग",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "स्ट्रेटेजी (Strategy)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "पब्लिशिंग",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 60,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 10: सोशल मीडिया अवलोकन और सुरक्षा (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल मीडिया मार्केटिंग में सबसे महत्वपूर्ण प्राइवेसी इशू (Privacy issue) क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "हैकिंग",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "फिशिंग",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "शेयर लोकेशन डेटा",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 61,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 10: सोशल मीडिया अवलोकन और सुरक्षा (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल मीडिया की सबसे बड़ी रिस्क (खतरा) क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इम्पोस्टर अकाउंट्स (फर्जी अकाउंट)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "पासवर्ड चोरी",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "प्राइवेसी सेटिंग",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 62,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 10: सोशल मीडिया अवलोकन और सुरक्षा (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल मीडिया के लिए चुनौती (Challenge) क्या हो सकती है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "बदलते सोशल ट्रेंड्स के साथ बने रहना",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "सोशल टैलेंट को खोजना",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों।",
+      "en": null
+    }
+  },
+  {
+    "id": 63,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 10: सोशल मीडिया अवलोकन और सुरक्षा (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल मीडिया की कमी (Pitfall) या खतरा क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "डिस्ट्रैक्शन",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "तुलना (Comparison)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "बहुत अधिक सलाह",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 64,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 10: सोशल मीडिया अवलोकन और सुरक्षा (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "फ्लैगिंग (Flagging) साइट विज़िटर को क्या फ्लैग करने की अनुमति देता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कंटेंट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इंडेक्स",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों।",
+      "en": null
+    }
+  },
+  {
+    "id": 65,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 10: सोशल मीडिया अवलोकन और सुरक्षा (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल मीडिया के लिए बेस्ट प्रैक्टिसेस (उपयुक्त तरीके) कौन सी हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अपनी प्राइवेसी सेटिंग मैनेज करना",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "याद रखना कि एक बार पोस्ट हुआ तो हमेशा रहेगा",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "पॉजिटिव ऑनलाइन रेपुटेशन बनाना",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  }
+]
