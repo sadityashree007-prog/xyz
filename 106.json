@@ -1,0 +1,3912 @@
+[
+  {
+    "id": 1,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "इनमें से कौन सा ऑनलाइन पेमेंट मोड नहीं है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "COD (कैश ऑन डिलीवरी)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "क्रेडिट कार्ड",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "डेबिट कार्ड",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) COD",
+      "en": null
+    }
+  },
+  {
+    "id": 2,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ऑनलाइन पेमेंट के मामले में पैसा कैसे ट्रांसफर होता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इलेक्ट्रॉनिकली",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "फिजिकली",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) इलेक्ट्रॉनिकली",
+      "en": null
+    }
+  },
+  {
+    "id": 3,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 4: डिजिटल भुगतान और ई-कॉमर्स (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "डिजिटल पेमेंट में सुरक्षा के उपाय (Preventive measure) क्या होने चाहिए?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सर्टिफाइड पेमेंट प्रोसेसर का उपयोग",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "टेस्टेड एंटीवायरस",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "रेगुलरली चेंज पासवर्ड",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 4,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "इनमें से कौन सा विकल्प ई-गवर्नेंस से संबंधित नहीं है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "प्रोसेस",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "टेक्नोलॉजी",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "रिसोर्स",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "इनमें से कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) इनमें से कोई नहीं (मतलब तीनों संबंधित हैं)",
+      "en": null
+    }
+  },
+  {
+    "id": 5,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "E-Governance का फुल फॉर्म क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इलेक्ट्रॉनिक गवर्नेंस",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इलेक्ट्रॉनिक गवर्नमेंट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "इलेक्ट्रिक गवर्नमेंट",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "इनमें से कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) इलेक्ट्रॉनिक गवर्नेंस",
+      "en": null
+    }
+  },
+  {
+    "id": 6,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ई-गवर्नेंस का मुख्य उद्देश्य (Main Objective) क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एनहांसिंग गवर्नेंस",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "मॉनिटरिंग",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "कंट्रोलिंग",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 7,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ई-गवर्नेंस किसका उपयोग करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ICT",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "ITC",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "CIT",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "इनमें से कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) ICT (इंफॉर्मेशन एंड कम्युनिकेशन टेक्नोलॉजी)",
+      "en": null
+    }
+  },
+  {
+    "id": 8,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ई-गवर्नेंस के क्या उद्देश्य (Objective) हो सकते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "जवाबदेही (Accountability)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "पारदर्शिता (Transparency)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "भ्रष्टाचार को कम करना",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "उपरोक्त सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) उपरोक्त सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 9,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "इनमें से कौन ई-गवर्नेंस का प्रकार नहीं है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "G2G",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "G2B",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "G2C",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "इनमें से कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) इनमें से कोई नहीं (तीनों ई-गवर्नेंस के प्रकार हैं)",
+      "en": null
+    }
+  },
+  {
+    "id": 10,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "G2G का फुल फॉर्म क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "गवर्नमेंट टू गवर्नमेंट",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) गवर्नमेंट टू गवर्नमेंट",
+      "en": null
+    }
+  },
+  {
+    "id": 11,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ई-गवर्नेंस के मुख्य तत्व (Element) क्या हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "गवर्नमेंट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "सिटीजन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "बिजनेस और इन्वेस्टर",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 12,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ई-गवर्नेंस की आवश्यकता (Requirement) क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सीमलेस एक्सचेंज ऑफ इंफॉर्मेशन",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "रीमॉडलिंग इंटरनल एफिशिएंसी",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "कॉस्ट रिडक्शन",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 13,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "G2C (गवर्नमेंट टू सिटीजन) का उदाहरण कौन सा है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ई-सिटीजन",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "ई-ट्रांसपोर्ट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "ई-मेडिसिन",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 14,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ई-एजुकेशन (E-Education) किसके अंतर्गत आता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "G2G",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "G2C",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "G2B",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "B) G2C",
+      "en": null
+    }
+  },
+  {
+    "id": 15,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "C2G का फुल फॉर्म क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सिटीजन टू गवर्नमेंट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "कस्टमर टू गवर्नमेंट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "सिटीजन टू गवर्नेंस",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "All",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) सिटीजन टू गवर्नमेंट",
+      "en": null
+    }
+  },
+  {
+    "id": 16,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "C2G का उदाहरण कौन सा है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ई-रेलवे",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "ई-मेडिसिन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "ई-डेमोक्रेसी",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) ई-डेमोक्रेसी",
+      "en": null
+    }
+  },
+  {
+    "id": 17,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "इनमें से कौन G2G से संबंधित नहीं है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ई-सेक्रेटेरिएट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "ई-पुलिस",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "ई-कोर्ट",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "इनमें से कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) इनमें से कोई नहीं (उपरोक्त सभी G2G के भाग हैं)",
+      "en": null
+    }
+  },
+  {
+    "id": 18,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "राज्य का विस्तृत नेटवर्क (State Wide Network) किससे संबंधित है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "G2G",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) G2G (गवर्नमेंट टू गवर्नमेंट)",
+      "en": null
+    }
+  },
+  {
+    "id": 19,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "G2B का फुल फॉर्म क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "गवर्नमेंट टू बिजनेस (Government to Business)",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) गवर्नमेंट टू बिजनेस",
+      "en": null
+    }
+  },
+  {
+    "id": 20,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "G2B का उदाहरण क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ई-टैक्सेशन",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "ई-रेलवे",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "ई-मेडिसिन",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) ई-टैक्सेशन",
+      "en": null
+    }
+  },
+  {
+    "id": 21,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "G2N का फुल फॉर्म क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "गवर्नमेंट टू नेट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "गवर्नमेंट टू NGO",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "B) गवर्नमेंट टू NGO",
+      "en": null
+    }
+  },
+  {
+    "id": 22,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "डिजीलॉकर (DigiLocker) के मुख्य उद्देश्य क्या हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "डॉक्यूमेंट को सुरक्षित रखना",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "ऑथेंटिकेट डॉक्यूमेंट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "क्लाउड बेस एक्सेस",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "उपरोक्त सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) उपरोक्त सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 23,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "डिजिटल इंडिया प्रोग्राम के तहत कौन सी एप्लीकेशन लॉन्च की गई?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "उमंग (UMANG)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "उमेक",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "मैंग",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) उमंग",
+      "en": null
+    }
+  },
+  {
+    "id": 24,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "उमंग (UMANG) क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "यूनिफाइड मोबाइल एप्लीकेशन",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) यूनिफाइड मोबाइल एप्लीकेशन",
+      "en": null
+    }
+  },
+  {
+    "id": 25,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "उमंग ऐप का उपयोग किसे एक्सेस करने के लिए किया जाता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "स्टेट गवर्नमेंट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "सेंट्रल गवर्नमेंट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों (A और B)",
+      "en": null
+    }
+  },
+  {
+    "id": 26,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "उमंग ऐप विशेष रूप से किसके लिए समर्पित (Dedicated) है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "रेलवे सर्विस",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "एयरलाइन सर्विस",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "बस सर्विस",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) रेलवे सर्विस",
+      "en": null
+    }
+  },
+  {
+    "id": 27,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 5: ई-गवर्नेंस सेवाएं (E-Governance Services - भाग 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "उमंग ऐप के माध्यम से कौन सी सर्विस एक्सेस की जा सकती है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "PNR स्टेटस",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "ट्रेन शेड्यूल",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "लाइव स्टेशन डिटेल",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 28,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "नागरिकों (Citizens) के दृष्टिकोण से डिजीलॉकर (DigiLocker) के क्या लाभ हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "क्लाउड बेस्ड एक्सेस",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "डिजिटली डॉक्यूमेंट एक्सचेंज",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों (A और B)",
+      "en": null
+    }
+  },
+  {
+    "id": 29,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "एजेंसियों (Agencies) के दृष्टिकोण से डिजीलॉकर के क्या लाभ हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "रेड्यूस्ड ओवरहेड",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "डिजिटल ट्रांसफॉर्मेशन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों",
+      "en": null
+    }
+  },
+  {
+    "id": 30,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "क्या डिजीलॉकर में रियल टाइम वेरिफिकेशन संभव है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ट्रू (True)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "फॉल्स (False)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "कांट से",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) ट्रू",
+      "en": null
+    }
+  },
+  {
+    "id": 31,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "क्या डिजीलॉकर एक सिक्योर डॉक्यूमेंट एक्सचेंज के रूप में कार्य करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ट्रू (True)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "फॉल्स (False)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "कांट से",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) ट्रू",
+      "en": null
+    }
+  },
+  {
+    "id": 32,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "डिजीलॉकर के 'My Certificate' सेक्शन में कितने सब-सेक्शन होते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "2",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "3",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "4",
+        "en": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "B) 2",
+      "en": null
+    }
+  },
+  {
+    "id": 33,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "'My Certificate' में कौन-कौन से ऑप्शन उपलब्ध हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अपलोड डॉक्यूमेंट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "डिजिटल डॉक्यूमेंट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों",
+      "en": null
+    }
+  },
+  {
+    "id": 34,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "डिजीलॉकर के डिजिटल डॉक्यूमेंट सब-सेक्शन में क्या रहता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इश्यू किए गए डॉक्यूमेंट का URL",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इमेज",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "PDF",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) URL of document issued",
+      "en": null
+    }
+  },
+  {
+    "id": 35,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "डिजीलॉकर में अपलोड किए जाने वाले डॉक्यूमेंट का साइज कितना होना चाहिए?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एग्जैक्ट 100 MB",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "नॉट मोर देन 100 MB",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "मोर देन 100 MB",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी साइज",
+        "en": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "B) 100 MB से ज्यादा नहीं होना चाहिए",
+      "en": null
+    }
+  },
+  {
+    "id": 36,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "डिजीलॉकर में अपलोड किए जाने वाले डॉक्यूमेंट का फॉर्मेट क्या हो सकता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "PDF",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "JPEG",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "PNG",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 37,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "यूजर की पर्सनल डिटेल किस सेक्शन में मिलती है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "पर्सनल प्रोफाइल",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "यूजर प्रोफाइल",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "माय प्रोफाइल",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) माय प्रोफाइल",
+      "en": null
+    }
+  },
+  {
+    "id": 38,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "डिजीलॉकर के 'My Section' में क्या होता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इश्यू करने वाले का नाम",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इश्यू किए गए डॉक्यूमेंट्स की संख्या",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों",
+      "en": null
+    }
+  },
+  {
+    "id": 39,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "'My Requester' सेक्शन में क्या मिलता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "रिक्वेस्टर का नाम",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "रिक्वेस्ट किए गए डॉक्यूमेंट की संख्या",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों",
+      "en": null
+    }
+  },
+  {
+    "id": 40,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "'Directories' सेक्शन में क्या होता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "रजिस्टर्ड इश्यूअर की कंप्लीट लिस्ट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "रिक्वेस्टर का नाम और URL",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों",
+      "en": null
+    }
+  },
+  {
+    "id": 41,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "डिजीलॉकर में कौन-कौन से सेक्शन अवेलेबल होते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "डैशबोर्ड",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इश्यू डॉक्यूमेंट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "अपलोड डॉक्यूमेंट",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 42,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ABC का फुल फॉर्म क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "B",
+        "hi": "एकेडमिक बैंक ऑफ क्रेडिट (Academic Bank of Credit)",
+        "en": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "B) एकेडमिक बैंक ऑफ क्रेडिट",
+      "en": null
+    }
+  },
+  {
+    "id": 43,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ABC का उद्देश्य (Objective) क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "प्रमोट स्टूडेंट सेंट्रिक एजुकेशन",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "फोकस ऑन लर्नर फ्रेंडली टीचिंग",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "इम्प्लीमेंट इंटर-डिसिप्लिनरी अप्रोच",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 44,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ABC के कार्य (Function) क्या-क्या हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "स्टूडेंट का अकाउंट ओपन करना",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "अकाउंट क्लोज करना",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "अकाउंट को वैलिडेट करना",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 45,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ABC के द्वारा कौन-सा कार्य (Task) किया जाता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "क्रेडिट एक्यूमुलेशन",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "क्रेडिट वेरिफिकेशन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "क्रेडिट ट्रांसफर",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी",
+      "en": null
+    }
+  },
+  {
+    "id": 46,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ABC में कोर्सेस किस मोड में शामिल होते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ऑनलाइन मोड",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "डिस्टेंस मोड",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "ऑफलाइन मोड",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "A और B दोनों",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) A और B दोनों (ऑनलाइन और डिस्टेंस)",
+      "en": null
+    }
+  },
+  {
+    "id": 47,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "स्टूडेंट्स द्वारा अर्न किए गए क्रेडिट की वैलिडिटी कितने वर्षों की होती है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "3 साल",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "4 साल",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "7 साल",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "लाइफ टाइम",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) 7 साल",
+      "en": null
+    }
+  },
+  {
+    "id": 48,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ABC का महत्व (Importance) क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "स्टूडेंट अपनी चॉइस के अनुसार कोर्स ले सकता है",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "किसी भी साल ड्रॉप आउट कर सकता है",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों",
+      "en": null
+    }
+  },
+  {
+    "id": 49,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ABC स्कीम के तहत स्टूडेंट कब री-जॉइन (Re-join) कर सकता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सेम यूनिवर्सिटी में",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "डिफरेंट यूनिवर्सिटी में",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "स्टूडेंट की चॉइस के अनुसार",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) स्टूडेंट की चॉइस के अनुसार",
+      "en": null
+    }
+  },
+  {
+    "id": 50,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ABC का रजिस्ट्रेशन कितने स्टेप (चरणों) में पूरा होता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "10",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "12",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "15",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "5",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) 5 स्टेप में",
+      "en": null
+    }
+  },
+  {
+    "id": 51,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 6: ई-गवर्नेंस सेवाएं (भाग 2)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ABC फैकल्टी के लिए किस रेफरेंस पॉइंट के रूप में कार्य करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "स्टूडेंट के क्रेडिट पॉइंट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "स्टूडेंट की रिपोर्ट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "स्टूडेंट के कोर्सेस",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) स्टूडेंट के क्रेडिट पॉइंट",
+      "en": null
+    }
+  },
+  {
+    "id": 52,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "कंप्यूटर सिक्योरिटी किस हमले (Attack) से बचाव की विधि है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कंप्यूटर",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "सर्वर",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "मोबाइल डिवाइस",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "उपरोक्त सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) उपरोक्त सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 53,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर सिक्योरिटी को और किस नाम से जाना जाता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इंफॉर्मेशन सिक्योरिटी",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इलेक्ट्रॉनिक सिक्योरिटी",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "इनमें से कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों।",
+      "en": null
+    }
+  },
+  {
+    "id": 54,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर सिक्योरिटी की कैटेगरी कौन सी है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "नेटवर्क",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "एप्लीकेशन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "इंफॉर्मेशन",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 55,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर सिक्योरिटी के उपयोग के क्या लाभ हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "बिज़नेस का साइबर हमलों से बचाव",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "डेटा और नेटवर्क की सुरक्षा",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "अनधिकृत एक्सेस (Unauthorized access) की रोकथाम",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 56,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "भारत में साइबर सिक्योरिटी एक्ट के तहत किसे शामिल किया गया है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "IT Act 2000",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "Company Act 2013",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "IPC Act 1980",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 57,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "IT Act 2000 को किसके बचाव (Safeguard) के लिए लागू किया गया था?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ई-गवर्नेंस",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "ई-बैंकिंग",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "ई-कॉमर्स",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 58,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "IPC 1980 को किसके लिए लागू किया गया था?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सूचना की चोरी (Theft of information)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "आभूषण की चोरी",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "पैसे की चोरी",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) सूचना की चोरी (Theft of information)।",
+      "en": null
+    }
+  },
+  {
+    "id": 59,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "कंपनी एक्ट 2013 क्या सुनिश्चित करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ई-डिस्कवरी",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "साइबर फॉरेंसिक",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "साइबर सिक्योरिटी",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 60,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "NCSF का फुल फॉर्म क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "नेशनल साइबर सिक्योरिटी फ्रेमवर्क",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "नेशनल क्रोम सिक्योरिटी फ्रेमवर्क",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "नेशनल साइबर सिक्योर्ड फ्रेमवर्क",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) नेशनल साइबर सिक्योरिटी फ्रेमवर्क।",
+      "en": null
+    }
+  },
+  {
+    "id": 61,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर सिक्योरिटी के सामने मुख्य चुनौती (Challenge) क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "रैनसमवेयर (Ransomware)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "ब्लॉकचेन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "IoT (इंटरनेट ऑफ थिंग्स)",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 62,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "IoT का फुल फॉर्म क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इंटरनेट ऑफ थिंग्स",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इंट्रानेट ऑफ थिंग्स",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) इंटरनेट ऑफ थिंग्स।",
+      "en": null
+    }
+  },
+  {
+    "id": 63,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "डेटा सिक्योरिटी के साथ समझौता (Compromise) मुख्य रूप से किसकी कमी के कारण होता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एन्क्रिप्शन (Encryption)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "ऑथेंटिकेशन (Authentication)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों।",
+      "en": null
+    }
+  },
+  {
+    "id": 64,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "क्लाउड कंप्यूटिंग मूल रूप से किससे संबंधित है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "क्लाउड पर उपलब्ध डेटा",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "मोबाइल पर उपलब्ध डेटा",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "कंप्यूटर पर उपलब्ध डेटा",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) क्लाउड पर उपलब्ध डेटा।",
+      "en": null
+    }
+  },
+  {
+    "id": 65,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल इंजीनियरिंग अटैक का प्रकार कौन सा है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "रैनसमवेयर",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "फिशिंग अटैक (Phishing attacks)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "क्लाउड अटैक",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "B) फिशिंग अटैक।",
+      "en": null
+    }
+  },
+  {
+    "id": 66,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ब्लॉकचेन अटैक के वेरिएंट (Variant) कौन-कौन से हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एक्लिप्स (Eclipse)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "पॉली (Poly)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "डीडॉस (DDoS)",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 67,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "निम्न में से कौन सा सोशल इंजीनियरिंग अटैक का प्रकार है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "बेटिंग (Baiting)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "स्केयरवेयर (Scareware)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "प्रीटेक्स्टिंग (Pretexting)",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 68,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर अपराध (Cyber offenses) किस प्रकार के होते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इलीगल एक्शन",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "लीगल एक्शन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों।",
+      "en": null
+    }
+  },
+  {
+    "id": 69,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर अपराध में आमतौर पर क्या शामिल होता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "वायरस/वर्म अटैक",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "हैकिंग",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "डेनियल ऑफ अटैक्स",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 70,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "IT Act 2000 में कौन से अपराध शामिल हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कंप्यूटर सोर्स डॉक्यूमेंट से छेड़छाड़",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "कंप्यूटर सिस्टम की हैकिंग",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों।",
+      "en": null
+    }
+  },
+  {
+    "id": 71,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "कंट्रोलर की पावर (निर्देश देने की) किसमें शामिल है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "IT Act 2000",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "IT Act 2001",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) IT Act 2000।",
+      "en": null
+    }
+  },
+  {
+    "id": 72,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "महिलाओं के विरुद्ध होने वाले सबसे आम साइबर अपराध कौन से हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "साइबर ब्लैकमेल",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "धमकियां (Threats)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "स्टॉकिंग (Stalking)",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 73,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर स्टॉकिंग में किसका उपयोग किया जाता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सोशल मीडिया",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "क्लाउड अटैक",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों।",
+      "en": null
+    }
+  },
+  {
+    "id": 74,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर बुलिंग (Cyber Bullying) में क्या-क्या शामिल है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "जान से मारने की धमकियां (Death threats)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "गुमराह करना (Misleading)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "अपमानजनक बातें (Abusive statements)",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 75,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर बुलिंग किसके माध्यम से होती है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सेलफोन",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "कंप्यूटर",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "टैबलेट",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 76,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 7: साइबर सुरक्षा का परिचय (Introduction to Cyber Security - Part 1)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर बुलिंग किसके द्वारा की जा सकती है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "SMS/टेक्स्ट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "ऐप्स",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों।",
+      "en": null
+    }
+  },
+  {
+    "id": 1,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर बुलिंग में गलत खबर (Negative news) को किसके माध्यम से प्रचारित किया जाता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "शेयरिंग",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "पोस्टिंग",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "सेंडिंग",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 2,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर बुलिंग कहाँ पर हो सकती है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सोशल मीडिया",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "गेमिंग प्लेटफॉर्म",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "मोबाइल फोन्स",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 3,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर बुलिंग के उदाहरण (Examples) क्या हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "शर्मनाक वीडियो पोस्ट करना",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "हानिकारक मैसेज भेजना",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों।",
+      "en": null
+    }
+  },
+  {
+    "id": 4,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर बुलिंग किन जगहों (Place) पर हो सकती है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सोशल मीडिया",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "टेक्स्ट मैसेजिंग",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "इंस्टेंट मैसेजिंग",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 5,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "फाइनेंशियल फ्रॉड (Financial Fraud) का प्रकार कौन सा है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "आइडेंटिटी थेफ्ट (Identity theft)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इन्वेस्टमेंट फ्रॉड",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "मॉर्टगेज और लेंडिंग फ्रॉड",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 6,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "मास मार्केटिंग (Mass marketing) फ्रॉड किसके द्वारा होता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "मास मेलिंग",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "टेलीफोन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "स्पैम मेल्स",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 7,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "मास मार्केटिंग फ्रॉड में किसे शामिल किया जाता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "फ्रॉड चेक",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "चैरिटी (Charities)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "लॉटरी",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 8,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल इंजीनियरिंग अटैक किसका प्रयोग करते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कॉल",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "मैसेज",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दुर्भावनापूर्ण हमले (Malicious attacks)",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दुर्भावनापूर्ण हमले।",
+      "en": null
+    }
+  },
+  {
+    "id": 9,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल इंजीनियरिंग अटैक किसका उपयोग (Uses) करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "साइकोलॉजिकल मैनिपुलेशन",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "मैथमेटिकल मैनिपुलेशन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "साइंटिफिक मैनिपुलेशन",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) साइकोलॉजिकल मैनिपुलेशन।",
+      "en": null
+    }
+  },
+  {
+    "id": 10,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल इंजीनियरिंग अटैक कितने स्टेप में होते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "वन स्टेप",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "मोर देन वन स्टेप (एक से अधिक)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "A या B दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) A या B दोनों।",
+      "en": null
+    }
+  },
+  {
+    "id": 11,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "सोशल इंजीनियरिंग अटैक की तकनीक (Technique) में क्या शामिल है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अटैक के लिए तैयारी करना",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "लाभ के लिए पीड़ित को धोखा देना",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) दोनों।",
+      "en": null
+    }
+  },
+  {
+    "id": 12,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "रैनसमवेयर (Ransomware) एक ऐसा मैलवेयर है जिसे फाइलों तक पहुँच रोकने के लिए डिज़ाइन किया गया है, यह किस पर होता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कंप्यूटर",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "मोबाइल",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) कंप्यूटर।",
+      "en": null
+    }
+  },
+  {
+    "id": 13,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "रैनसमवेयर अटैक में फाइलें किस रूप में हो जाती हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एन्क्रिप्टेड (Encrypted)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "डिक्रिप्टेड",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) एन्क्रिप्टेड।",
+      "en": null
+    }
+  },
+  {
+    "id": 14,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "डेटा को डिक्रिप्ट (ओपन) करने के लिए किसकी मांग की जाती है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "रैनसम (फिरौती)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "मोबाइल",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "कंप्यूटर",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) रैनसम।",
+      "en": null
+    }
+  },
+  {
+    "id": 15,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ज़ीरो क्लिक अटैक (Zero click attack) कैसे होता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "विदाउट यूजर इंटरेक्शन (बिना सहमति के)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "विद इंटरेक्शन",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) विदाउट यूजर इंटरेक्शन।",
+      "en": null
+    }
+  },
+  {
+    "id": 16,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ज़ीरो-डे अटैक (Zero day attack) को और किस रूप में दर्शाया जाता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ज़ीरो अटैक",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "क्लिक अटैक",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) ज़ीरो अटैक।",
+      "en": null
+    }
+  },
+  {
+    "id": 17,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "ज़ीरो-डे अटैक किसके द्वारा किया जा सकता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "साइबर क्रिमिनल्स",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "हैक्टिविस्ट्स",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "कॉर्पोरेट जासूस",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 18,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "पैसों (Financial gain) के लिए कौन से हैकर्स काम करते हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "हैक्टिविस्ट्स",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "कॉर्पोरेट जासूस",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "साइबर क्रिमिनल्स",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) साइबर क्रिमिनल्स।",
+      "en": null
+    }
+  },
+  {
+    "id": 19,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर क्रिमिनल्स द्वारा अपनाए गए 'मोड ऑपरेंडी' (Modus Operandi) का उपयोग किसलिए होता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अननोन मैसेज भेजना",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "ऑफेंसिव कॉल",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "डेटा चोरी",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "यह सभी",
+        "en": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "D) यह सभी।",
+      "en": null
+    }
+  },
+  {
+    "id": 20,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "साइबर क्राइम की रिपोर्ट कहाँ की जा सकती है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "पुलिस कंट्रोल रूम",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "नेशनल साइबर क्राइम पोर्टल",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "CM हेल्पलाइन",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "B) नेशनल साइबर क्राइम पोर्टल।",
+      "en": null
+    }
+  },
+  {
+    "id": 21,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "मिटिगेशन (Mitigation) और रेमेडिएशन (Remediation) किसके परिणाम हैं?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "क्राइम असेसमेंट",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "रिस्क असेसमेंट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "B) रिस्क असेसमेंट।",
+      "en": null
+    }
+  },
+  {
+    "id": 22,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "APT का फुल फॉर्म क्या है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एडवांस्ड पर्सिस्टेंट थ्रेट (Advanced Persistent Threat)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "एडवांस थ्रेट",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "दोनों",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) एडवांस्ड पर्सिस्टेंट थ्रेट।",
+      "en": null
+    }
+  },
+  {
+    "id": 23,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "थ्रेट्स (धमकी/खतरों) के साथ मिटिगेशन का उपयोग करने से वह थ्रेट्स को क्या करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "डिक्रीज (कम करना)",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "इंक्रीज (बढ़ाना)",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "रिमूव",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "A) डिक्रीज।",
+      "en": null
+    }
+  },
+  {
+    "id": 100,
+    "subject": "Computer and Web Technology",
+    "topic": "लेक्चर 8: साइबर सुरक्षा का परिचय भाग 2",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "रेमेडिएशन थ्रेट्स को क्या करता है?",
+      "en": null
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इंक्रीज",
+        "en": null
+      },
+      {
+        "id": "B",
+        "hi": "डिक्रीज",
+        "en": null
+      },
+      {
+        "id": "C",
+        "hi": "रिमूव (जड़ से हटाना)",
+        "en": null
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "C) रिमूव।",
+      "en": null
+    }
+  }
+]
