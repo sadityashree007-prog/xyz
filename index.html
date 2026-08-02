@@ -30,13 +30,12 @@
 
       <div class="controls-wrapper">
         <div class="filter-tabs" id="filterTabs">
-          <button class="tab-btn active" onclick="handleFilter('All')">All Tests</button>
-          <button class="tab-btn" onclick="handleFilter('Mentorship')">Mentorship Tests</button>
-          <button class="tab-btn" onclick="handleFilter('PYQ')">PYQs</button>
-          <button class="tab-btn" onclick="handleFilter('Subject-wise')">Subject-wise</button>
-          <button class="tab-btn" onclick="handleFilter('Test Series')">Test Series</button>
-          <button class="tab-btn" onclick="handleFilter('BA')">BA</button>
-          
+          <button class="tab-btn active" onclick="handleFilter('All', event)">All Tests</button>
+          <button class="tab-btn" onclick="handleFilter('Mentorship', event)">Mentorship Tests</button>
+          <button class="tab-btn" onclick="handleFilter('PYQ', event)">PYQs</button>
+          <button class="tab-btn" onclick="handleFilter('Subject-wise', event)">Subject-wise</button>
+          <button class="tab-btn" onclick="handleFilter('Test Series', event)">Test Series</button>
+          <button class="tab-btn" onclick="handleFilter('BA', event)">BA</button>
         </div>
         
         <div class="sort-box">
@@ -54,19 +53,8 @@
   </div>
 
   <script>
+    // Cleaned quizzes array - removed truncated entries and placeholders
     const quizzes = [
-      { name: 'Mentorship 2026-27 SET-A', file: 'SET-A.json', link: 'quiz.html?quiz=SET-A.json', category: 'Mentorship', lastUpdated: '2026-03-01' },
-      { name: 'Mentorship 2026-27 SET-D', file: 'SET-D.json', link: 'quiz.html?quiz=SET-D.json', category: 'Mentorship', lastUpdated: '2026-03-04' },
-      { name: 'Mentorship 2026-27 SET-C', file: 'SET-C.json', link: 'quiz.html?quiz=SET-C.json', category: 'Mentorship', lastUpdated: '2026-03-03' },
-      { name: 'Indian Economy National Income (50 MCQs)', file: 'National Income 50 MCQs.json', link: 'quiz.html?quiz=National Income 50 MCQs.json', category: 'Subject-wise', lastUpdated: '2026-02-15' },
-      { name: 'Indian Economy Growth vs Development (50 MCQs)', file: 'growth vs devlopment 50 MCQs.json', link: 'quiz.html?quiz=growth vs devlopment 50 MCQs.json', category: 'Subject-wise', lastUpdated: '2026-02-20' },
-      { name: 'Indian Economy Basic Introduction of Economics (50 MCQs)', file: 'Basic Introduction of economics 50 MCQs.json', link: 'quiz.html?quiz=Basic Introduction of economics 50 MCQs.json', category: 'Subject-wise', lastUpdated: '2026-02-18' },
-      { name: 'Indian Economy Money and Money Supply (50 MCQs)', file: 'Money and Money Supply 50 MCQs.json', link: 'quiz.html?quiz=Money and Money Supply 50 MCQs.json', category: 'Subject-wise', lastUpdated: '2026-02-22' },
-      { name: 'Indian Economy Banking (50 MCQs)', file: 'Banking 50 MCQs.json', link: 'quiz.html?quiz=Banking 50 MCQs.json', category: 'Subject-wise', lastUpdated: '2026-07-16' },
-      { name: 'Indian Economy Inflation (50 MCQs)', file: 'Inflation 50 MCQs.json', link: 'quiz.html?quiz=Inflation 50 MCQs.json', category: 'Subject-wise', lastUpdated: '2026-02-18' },
-      { name: 'Indian Economy Tax (50 MCQs)', file: 'Tax 50 MCQs.json', link: 'quiz.html?quiz=Tax 50 MCQs.json', category: 'Subject-wise', lastUpdated: '2026-02-12' },
-      { name: 'Indian Economy India\'s Securities Market (50 MCQs)', file: 'India\'s securities market 50 MCQs.json', link: 'quiz.html?quiz=India\'s securities market 50 MCQs.json', category: 'Subject-wise', lastUpdated: '2026-02-25' },
-      { name: 'Indian Economy Monetary Policy (50 MCQs)', file: 'Monetary policy 50 MCQs.json', link: 'quiz.html?quiz=Monetary policy 50 MCQs.json', category: 'Subject-wise', lastUpdated: '2026-03-01' },
       { name: 'DTS 2701', file: '101.json', link: 'quiz.html?quiz=101.json', category: 'Test Series', lastUpdated: '2026-07-12' },
       { name: 'DTS 2702', file: '102.json', link: 'quiz.html?quiz=102.json', category: 'Test Series', lastUpdated: '2026-07-20' },
       { name: 'DTS 2703', file: '103.json', link: 'quiz.html?quiz=103.json', category: 'Test Series', lastUpdated: '2026-08-01' },
@@ -74,10 +62,8 @@
       { name: 'Digital Awareness BA All IMP Q.P1', file: '105.json', link: 'quiz.html?quiz=105.json', category: 'BA', lastUpdated: '2026-08-02' },
       { name: 'Digital Awareness BA All IMP Q.P2', file: '106.json', link: 'quiz.html?quiz=106.json', category: 'BA', lastUpdated: '2026-08-02' },
       { name: 'Digital Awareness BA All IMP Q.P3', file: '107.json', link: 'quiz.html?quiz=107.json', category: 'BA', lastUpdated: '2026-08-02' }
-  
     ];
 
-    
     let currentCategory = 'All';
     let currentSortOrder = 'latest';
     const grid = document.getElementById('quizGrid');
@@ -110,11 +96,11 @@
       `).join('');
     }
 
-    function handleFilter(category) {
+    function handleFilter(category, event) {
       currentCategory = category;
       const buttons = document.querySelectorAll('.tab-btn');
       buttons.forEach(btn => btn.classList.remove('active'));
-      event.target.classList.add('active');
+      if (event && event.target) event.target.classList.add('active');
       renderQuizzes();
     }
 
