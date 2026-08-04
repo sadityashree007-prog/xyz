@@ -6,31 +6,10 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": null,
-    "statements": [
-      {
-        "id": 1,
-        "hi": "जब N को 7 से विभाजित किया जाता है, तो शेषफल 3 प्राप्त होता है।",
-        "en": "When N is divided by 7, the remainder is 3."
-      },
-      {
-        "id": 2,
-        "hi": "जब N को 9 से विभाजित किया जाता है, तो शेषफल 5 प्राप्त होता है।",
-        "en": "When N is divided by 9, the remainder is 5."
-      },
-      {
-        "id": 3,
-        "hi": "जब N को 11 से विभाजित किया जाता है, तो शेषफल 7 प्राप्त होता है।",
-        "en": "When N is divided by 11, the remainder is 7."
-      },
-      {
-        "id": 4,
-        "hi": "साथ ही, 1000 < N < 2000 है।",
-        "en": "Also, 1000 < N < 2000."
-      }
-    ],
+    "statements": null,
     "question": {
-      "hi": "एक स्वचालित वेयरहाउस में, चार-अंकीय पैकेज कोड N निम्नलिखित शर्तों को पूरा करता है:\nN के अंकों का योग क्या है?",
-      "en": "In an automated warehouse, a four-digit package code N satisfies the following conditions:\nWhat is the sum of the digits of N?"
+      "hi": "एक स्वचालित वेयरहाउस में, चार-अंकीय पैकेज कोड N निम्नलिखित शर्तों को पूरा करता है:\nजब N को 7 से विभाजित किया जाता है, तो शेषफल 3 प्राप्त होता है।\nजब N को 9 से विभाजित किया जाता है, तो शेषफल 5 प्राप्त होता है।\nजब N को 11 से विभाजित किया जाता है, तो शेषफल 7 प्राप्त होता है।\nसाथ ही, 1000 < N < 2000 है।\nN के अंकों का योग क्या है?",
+      "en": "In an automated warehouse, a four-digit package code N satisfies the following conditions-\nWhen N is divided by 7, the remainder is 3.\nWhen N is divided by 9, the remainder is 5.\nWhen N is divided by 11, the remainder is 7.\nAlso, 1000 < N < 2000.\nWhat is the sum of the digits of N?"
     },
     "options": [
       {
@@ -56,8 +35,8 @@
     ],
     "correctAnswer": "A",
     "explanation": {
-      "hi": "7 से विभाजित करने पर 3 शेषफल देने वाली संख्याओं को N = 7a + 3 के रूप में लिखा जा सकता है।\nअब, N को 9 से विभाजित करने पर 5 शेषफल प्राप्त होना चाहिये।\n7a + 3 रूप वाली संख्याओं से प्रारंभ करते हुए, हम दोनों शर्तों को पूरा करने वाली पहली संख्या ज्ञात करते हैं।\nजब a = 8 हो,\nN = 7 \\times 8 + 3 = 59\n59 को 9 से विभाजित करने पर 5 शेषफल प्राप्त होता है।\nइसलिये, पहली दो शर्तों को पूरा करने वाली सभी संख्याएँ 7 और 9 का LCM जोड़ने पर प्राप्त होती हैं।\n7 और 9 का LCM = 63\nN = 59 + 63b\nअब 11 से विभाजन से संबंधित शर्त की जाँच करते हैं।\nb = 10 के लिये,\nN = 59 + 63 \\times 10 = 689\n689 को 11 से विभाजित करने पर 7 शेषफल प्राप्त होता है, क्योंकि 689 = 11 \\times 62 + 7\nइसलिये, तीनों शर्तों को पूरा करने वाली सभी संख्याएँ 7, 9 और 11 का LCM जोड़ने पर प्राप्त होती हैं।\nLCM = 7 \\times 9 \\times 11 = 693\nइस प्रकार, वे संख्याएँ 689, 1382, 2075, ... हैं।\n1000 और 2000 के बीच की एकमात्र संख्या N = 1382 है।\nअतः, अंकों का योग = 1 + 3 + 8 + 2 = 14\nअतः विकल्प (a) सही है।[cite: 8]",
-      "en": "Numbers that leave a remainder of 3 when divided by 7 can be written as N = 7a + 3.\nNow, N must also leave a remainder of 5 when divided by 9.\nStarting with numbers of the form 7a + 3, we find the first number satisfying both conditions.\nWhen a = 8,\nN = 7 \\times 8 + 3 = 59\n59 leaves a remainder of 5 when divided by 9.\nTherefore, all numbers satisfying the first two conditions are obtained by adding the LCM of 7 and 9.\nLCM of 7 and 9 = 63\nN = 59 + 63b\nNow check the condition involving division by 11.\nFor b = 10,\nN = 59 + 63 \\times 10 = 689\n689 leaves a remainder of 7 when divided by 11 because 689 = 11 \\times 62 + 7\nTherefore, all numbers satisfying the three conditions are obtained by adding the LCM of 7, 9 and 11.\nLCM = 7 \\times 9 \\times 11 = 693\nThus, the numbers are 689, 1382, 2075, ...\nThe only number between 1000 and 2000 is N = 1382.\nSo, the sum of digits = 1 + 3 + 8 + 2 = 14\nHence, option (a) is correct.[cite: 8]"
+      "hi": "7 से विभाजित करने पर 3 शेषफल देने वाली संख्याओं को N = 7a + 3 के रूप में लिखा जा सकता है।\nअब, N को 9 से विभाजित करने पर 5 शेषफल प्राप्त होना चाहिये।\n7a + 3 रूप वाली संख्याओं से प्रारंभ करते हुए, हम दोनों शर्तों को पूरा करने वाली पहली संख्या ज्ञात करते हैं।\nजब a = 8 हो,\nN = 7 × 8 + 3 = 59\n59 को 9 से विभाजित करने पर 5 शेषफल प्राप्त होता है।\nइसलिये, पहली दो शर्तों को पूरा करने वाली सभी संख्याएँ 7 और 9 का LCM जोड़ने पर प्राप्त होती हैं।\n7 और 9 का LCM = 63\nN = 59 + 63b\nअब 11 से विभाजन से संबंधित शर्त की जाँच करते हैं।\nजब b = 10 हो,\nN = 59 + 63 × 10 = 689\n689 को 11 से विभाजित करने पर 7 शेषफल प्राप्त होता है, क्योंकि 689 = 11 × 62 + 7\nइसलिये, तीनों शर्तों को पूरा करने वाली सभी संख्याएँ 7, 9 और 11 का LCM जोड़ने पर प्राप्त होती हैं।\nLCM = 7 × 9 × 11 = 693\nइस प्रकार, वे संख्याएँ 689, 1382, 2075, ... हैं।\n1000 और 2000 के बीच की एकमात्र संख्या N = 1382 है।\nअतः, अंकों का योग = 1 + 3 + 8 + 2 = 14\nअतः विकल्प (a) सही है।[cite: 8]",
+      "en": "Numbers that leave a remainder of 3 when divided by 7 can be written as N = 7a + 3.\nNow, N must also leave a remainder of 5 when divided by 9.\nStarting with numbers of the form 7a + 3, we find the first number satisfying both conditions.\nWhen a = 8,\nN = 7 × 8 + 3 = 59\n59 leaves a remainder of 5 when divided by 9.\nTherefore, all numbers satisfying the first two conditions are obtained by adding the LCM of 7 and 9.\nLCM of 7 and 9 = 63\nN = 59 + 63b\nNow check the condition involving division by 11.\nFor b = 10,\nN = 59 + 63 × 10 = 689\n689 leaves a remainder of 7 when divided by 11 because 689 = 11 × 62 + 7\nTherefore, all numbers satisfying the three conditions are obtained by adding the LCM of 7, 9 and 11.\nLCM = 7 × 9 × 11 = 693\nThus, the numbers are 689, 1382, 2075, ...\nThe only number between 1000 and 2000 is N = 1382.\nSo, the sum of digits = 1 + 3 + 8 + 2 = 14\nHence, option (a) is correct.[cite: 8]"
     }
   },
   {
@@ -96,8 +75,8 @@
     ],
     "correctAnswer": "B",
     "explanation": {
-      "hi": "72 का अभाज्य गुणनखंड है: 72 = 2^{3} \\times 3^{2}\nइसलिये, N में कम-से-कम 2^{3} \\times 3^{2} के गुणनखंड शामिल होने चाहिये।\nनिम्नलिखित रूप वाली संख्या के धनात्मक गुणनखंडों की संख्या: N = 2^{a} \\times 3^{b} \\times p^{c} यह होती है: (a+1)(b+1)(c+1)\nचूँकि N के ठीक 24 धनात्मक गुणनखंड होने चाहिये, इसलिये 72 के सबसे छोटे संभावित विस्तार करने पर:\nN = 2^{3} \\times 3^{2} \\times 7\nतब: N = 8 \\times 9 \\times 7\nN = 504\n504 के धनात्मक गुणनखंडों की संख्या: (3+1)(2+1)(1+1) = 4 \\times 3 \\times 2 = 24\nसाथ ही: 504 \\div 72 = 7\nइसलिये, 504, 72 से विभाज्य है। यह 5 से विभाज्य नहीं है।\nइस प्रकार, 504 दी गई सभी शर्तों को पूरा करता है।\nअतः विकल्प (b) सही है।[cite: 8]",
-      "en": "Prime factorisation of 72 is: 72 = 2^{3} \\times 3^{2}\nTherefore, N must contain at least the factors 2^{3} \\times 3^{2}\nThe number of positive factors of a number of the form: N = 2^{a} \\times 3^{b} \\times p^{c} is: (a+1)(b+1)(c+1)\nSince N must have exactly 24 positive factors, consider the smallest possible extension of 72.\nTake: N = 2^{3} \\times 3^{2} \\times 7\nThen: N = 8 \\times 9 \\times 7\nN = 504\nNumber of positive factors of 504: (3+1)(2+1)(1+1) = 4 \\times 3 \\times 2 = 24\nAlso: 504 \\div 72 = 7\nTherefore, 504 is divisible by 72. It is not divisible by 5.\nThus, 504 satisfies all the given conditions.\nHence, option (b) is correct.[cite: 8]"
+      "hi": "72 का अभाज्य गुणनखंड है: 72 = 2³ × 3²\nइसलिये, N में कम-से-कम 2³ × 3² के गुणनखंड शामिल होने चाहिये।\nनिम्नलिखित रूप वाली संख्या के धनात्मक गुणनखंडों की संख्या N = 2ᵃ × 3ᵇ × pᶜ यह होती है: (a+1)(b+1)(c+1)\nचूँकि N के ठीक 24 धनात्मक गुणनखंड होने चाहिये, इसलिये 72 के सबसे छोटे संभावित विस्तार पर विचार करते हैं।\nमान लीजिये: N = 2³ × 3² × 7\nतब: N = 8 × 9 × 7 = 504\n504 के धनात्मक गुणनखंडों की संख्या: (3+1)(2+1)(1+1) = 4 × 3 × 2 = 24\nसाथ ही: 504 ÷ 72 = 7\nइसलिये, 504, 72 से विभाज्य है और यह 5 से विभाज्य नहीं है।\nइस प्रकार, 504 दी गई सभी शर्तों को पूरा करता है।\nअतः विकल्प (b) सही है।[cite: 8]",
+      "en": "Prime factorisation of 72 is: 72 = 2³ × 3²\nTherefore, N must contain at least the factors 2³ × 3²\nThe number of positive factors of a number of the form N = 2ᵃ × 3ᵇ × pᶜ is: (a+1)(b+1)(c+1)\nSince N must have exactly 24 positive factors, consider the smallest possible extension of 72.\nTake: N = 2³ × 3² × 7\nThen: N = 8 × 9 × 7 = 504\nNumber of positive factors of 504: (3+1)(2+1)(1+1) = 4 × 3 × 2 = 24\nAlso: 504 ÷ 72 = 7\nTherefore, 504 is divisible by 72. It is not divisible by 5.\nThus, 504 satisfies all the given conditions.\nHence, option (b) is correct.[cite: 8]"
     }
   },
   {
@@ -109,8 +88,8 @@
     "passage": null,
     "statements": null,
     "question": {
-      "hi": "एक उपग्रह एंक्रिप्शन प्रणाली में, अंतिम सुरक्षा कुंजी 7^{103} + 3^{64} में 100 से भाग देने पर प्राप्त शेषफल होती है। सुरक्षा कुंजी क्या है?",
-      "en": "In a satellite encryption system, the final security key is obtained by finding the remainder when 7^{103} + 3^{64} is divided by 100. What is the security key?"
+      "hi": "एक उपग्रह एंक्रिप्शन प्रणाली में, अंतिम सुरक्षा कुंजी 7¹⁰³ + 3⁶⁴ में 100 से भाग देने पर प्राप्त शेषफल होती है। सुरक्षा कुंजी क्या है?",
+      "en": "In a satellite encryption system, the final security key is obtained by finding the remainder when 7¹⁰³ + 3⁶⁴ is divided by 100. What is the security key?"
     },
     "options": [
       {
@@ -136,8 +115,8 @@
     ],
     "correctAnswer": "D",
     "explanation": {
-      "hi": "हमें व्यंजक के केवल अंतिम दो अंकों की आवश्यकता है।\nसबसे पहले, 7 की घातों के अंतिम दो अंकों पर विचार करें।\n7^{1} = 07\n7^{2} = 49\n7^{3} = 343, जिसके अंतिम दो अंक 43 हैं।\n7 की घातों के अंतिम दो अंक प्रत्येक 20 घातों के बाद दोहराते हैं।\nअब: 103 = 20 \\times 5 + 3\nइसलिये, 7^{103} के अंतिम दो अंक वही हैं जो 7^{3} के हैं।\n7^{3} के अंतिम दो अंक = 43\nअब 3 की घातों पर विचार करें।\n3 की घातों के अंतिम दो अंक भी प्रत्येक 20 घातों के बाद दोहराते हैं।\nअब: 64 = 20 \\times 3 + 4\nइसलिये, 3^{64} के अंतिम दो अंक वही हैं जो 3^{4} के हैं।\n3^{4} = 81\nइस प्रकार, कुल योग के अंतिम दो अंक निम्नलिखित से प्राप्त होते हैं:\n43 + 81 = 124\nजब 124 को 100 से विभाजित किया जाता है, तो शेषफल 24 प्राप्त होता है।\nअतः विकल्प (d) सही है।[cite: 8]",
-      "en": "We need only the last two digits of the expression.\nFirst, consider the last two digits of powers of 7.\n7^{1} = 07\n7^{2} = 49\n7^{3} = 343, whose last two digits are 43.\nThe last two digits of powers of 7 repeat after every 20 powers.\nNow: 103 = 20 \\times 5 + 3\nTherefore, 7^{103} has the same last two digits as 7^{3}.\nLast two digits of 7^{3} = 43\nNow consider powers of 3.\nThe last two digits of powers of 3 also repeat after every 20 powers.\nNow: 64 = 20 \\times 3 + 4\nTherefore, 3^{64} has the same last two digits as 3^{4}.\n3^{4} = 81\nHence, the last two digits of the total are obtained from:\n43 + 81 = 124\nWhen 124 is divided by 100, the remainder is 24.\nHence, option (d) is correct.[cite: 8]"
+      "hi": "हमें व्यंजक के केवल अंतिम दो अंकों की आवश्यकता है।\nसबसे पहले, 7 की घातों के अंतिम दो अंकों पर विचार करें:\n7¹ = 07\n7² = 49\n7³ = 343, जिसके अंतिम दो अंक 43 हैं।\n7⁴ = 2401, जिसके अंतिम दो अंक 01 हैं।\n7 की घातों के अंतिम दो अंक प्रत्येक 4 घातों के बाद दोहराते हैं।\nअब: 103 = 4 × 25 + 3\nइसलिये, 7¹⁰³ के अंतिम दो अंक वही हैं जो 7³ के हैं।\n7³ के अंतिम दो अंक = 43\nअब 3 की घातों पर विचार करें:\n3 की घातों के अंतिम दो अंक प्रत्येक 20 घातों के बाद दोहराते हैं।\nअब: 64 = 20 × 3 + 4\nइसलिये, 3⁶⁴ के अंतिम दो अंक वही हैं जो 3⁴ के हैं।\n3⁴ = 81\nइस प्रकार, कुल योग के अंतिम दो अंक निम्नलिखित से प्राप्त होते हैं:\n43 + 81 = 124\nजब 124 को 100 से विभाजित किया जाता है, तो शेषफल 24 प्राप्त होता है।\nअतः विकल्प (d) सही है।[cite: 8]",
+      "en": "We need only the last two digits of the expression.\nFirst, consider the last two digits of powers of 7:\n7¹ = 07\n7² = 49\n7³ = 343, whose last two digits are 43.\n7⁴ = 2401, whose last two digits are 01.\nThe last two digits of powers of 7 repeat after every 4 powers.\nNow: 103 = 4 × 25 + 3\nTherefore, 7¹⁰³ has the same last two digits as 7³.\nLast two digits of 7³ = 43\nNow consider powers of 3:\nThe last two digits of powers of 3 repeat after every 20 powers.\nNow: 64 = 20 × 3 + 4\nTherefore, 3⁶⁴ has the same last two digits as 3⁴.\n3⁴ = 81\nHence, the last two digits of the total are obtained from:\n43 + 81 = 124\nWhen 124 is divided by 100, the remainder is 24.\nHence, option (d) is correct.[cite: 8]"
     }
   },
   {
@@ -147,36 +126,10 @@
     "difficulty": "Hard",
     "type": "mcq",
     "passage": null,
-    "statements": [
-      {
-        "id": 1,
-        "hi": "इसके अंक घटते हुए समानांतर श्रेणी में हैं।",
-        "en": "Its digits are in descending arithmetic progression."
-      },
-      {
-        "id": 2,
-        "hi": "संख्या 500 से बड़ी है।",
-        "en": "The number is greater than 500."
-      },
-      {
-        "id": 3,
-        "hi": "संख्या और इसके अंकों को उलटने पर प्राप्त संख्या के बीच का अंतर 396 है।",
-        "en": "The difference between the number and the number obtained by reversing its digits is 396."
-      },
-      {
-        "id": 4,
-        "hi": "संख्या 3 से विभाज्य है।",
-        "en": "The number is divisible by 3."
-      },
-      {
-        "id": 5,
-        "hi": "मध्य अंक एक अभाज्य संख्या है।",
-        "en": "The middle digit is a prime number."
-      }
-    ],
+    "statements": null,
     "question": {
-      "hi": "तीन अंकों के एक एक्सेस कोड में निम्नलिखित गुण हैं:\nऐसे कितने एक्सेस कोड बनाए जा सकते हैं?",
-      "en": "A three-digit access code has the following properties:\nHow many access codes can be formed?"
+      "hi": "तीन अंकों के एक एक्सेस कोड में निम्नलिखित गुण हैं:\nइसके अंक घटते हुए समानांतर श्रेणी में हैं। संख्या 500 से बड़ी है। संख्या और इसके अंकों को उलटने पर प्राप्त संख्या के बीच का अंतर 396 है। संख्या 3 से विभाज्य है। मध्य अंक एक अभाज्य संख्या है। ऐसे कितने एक्सेस कोड बनाए जा सकते हैं?",
+      "en": "A three-digit access code has the following properties-\nIts digits are in descending arithmetic progression. The number is greater than 500. The difference between the number and the number obtained by reversing its digits is 396. The number is divisible by 3. The middle digit is a prime number. How many access codes can be formed?"
     },
     "options": [
       {
@@ -202,8 +155,8 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "मान लीजिये तीन अंको की संख्या abc = 100a + 10b + c है\nइसकी उल्टी संख्या = 100c + 10b + a है\nइसका अंतर 396 है।\nइसलिये:\n(100a + 10b + c) - (100c + 10b + a) = 396\n99a - 99c = 396\n99(a - c) = 396\na - c = 4\nचूँकि अंक घटते हुए समानांतर श्रेणी में हैं, मध्य अंक पहले और अंतिम अंकों का औसत है।\n2b = a + c\nचूँकि a - c = 4, मान लीजिये a = c + 4\nइसलिये, 2b = c + 4 + c\n2b = 2c + 4\nb = c + 2\nइस प्रकार, अंक c + 4, c + 2, c हैं\nअब, सभी संभावित कोड 531, 753 और 975 हैं।\nअतः विकल्प (c) सही है।[cite: 8]",
-      "en": "Let the three-digit number be abc = 100a + 10b + c\nIts reversed number is = 100c + 10b + a\nThe difference is 396.\nTherefore: (100a + 10b + c) - (100c + 10b + a) = 396\n99a - 99c = 396\n99(a - c) = 396\na - c = 4\nSince the digits are in descending arithmetic progression, the middle digit is the average of the first and last digits.\n2b = a + c\nSince a - c = 4, let a = c + 4\nSo, 2b = c + 4 + c\n2b = 2c + 4\nb = c + 2\nHence, the digits are c + 4, c + 2, c\nNow, all the possible codes are 531, 753, and 975.\nHence, option (c) is correct.[cite: 8]"
+      "hi": "मान लीजिये तीन अंको की संख्या abc = 100a + 10b + c है\nइसकी उल्टी संख्या = 100c + 10b + a है\nइसका अंतर 396 है।\nइसलिये:\n(100a + 10b + c) - (100c + 10b + a) = 396\n99a - 99c = 396\n99(a - c) = 396\na - c = 4\nचूँकि अंक घटते हुए समानांतर श्रेणी में हैं, मध्य अंक पहले और अंतिम अंकों का औसत है।\n2b = a + c\nचूँकि a - c = 4, मान लीजिये a = c + 4\nइसलिये, 2b = c + 4 + c\n2b = 2c + 4\nb = c + 2\nइस प्रकार, अंक c + 4, c + 2, c हैं\nअब, सभी संभावित कोड (जहाँ b अभाज्य है और संख्या 500 से बड़ी है) 531, 753 और 975 हैं।\nअतः विकल्प (c) सही है।[cite: 8]",
+      "en": "Let the three-digit number be abc = 100a + 10b + c\nIts reversed number is = 100c + 10b + a\nThe difference is 396.\nTherefore: (100a + 10b + c) - (100c + 10b + a) = 396\n99a - 99c = 396\n99(a - c) = 396\na - c = 4\nSince the digits are in descending arithmetic progression, the middle digit is the average of the first and last digits.\n2b = a + c\nSince a - c = 4, let a = c + 4\nSo, 2b = c + 4 + c\n2b = 2c + 4\nb = c + 2\nHence, the digits are c + 4, c + 2, c\nNow, all the possible codes (where b is prime and number > 500) are 531, 753, and 975.\nHence, option (c) is correct.[cite: 8]"
     }
   },
   {
@@ -339,33 +292,33 @@
     "statements": [
       {
         "id": 1,
-        "hi": "I. A+B+C विषम है।",
-        "en": "I. A+B+C is odd."
+        "hi": "I. A + B + C विषम है।",
+        "en": "I. A + B + C is odd."
       },
       {
         "id": 2,
-        "hi": "II. A^{2}+B^{2}+C^{2} विषम है।",
-        "en": "II. A^{2}+B^{2}+C^{2} is odd."
+        "hi": "II. A² + B² + C² विषम है।",
+        "en": "II. A² + B² + C² is odd."
       },
       {
         "id": 3,
-        "hi": "III. AB+BC+CA विषम है।",
-        "en": "III. AB+BC+CA is odd."
+        "hi": "III. AB + BC + CA विषम है।",
+        "en": "III. AB + BC + CA is odd."
       },
       {
         "id": 4,
-        "hi": "IV. (A-1)(B-1)(C-1) 8 से विभाज्य है।",
-        "en": "IV. (A-1)(B-1)(C-1) is divisible by 8."
+        "hi": "IV. (A - 1)(B - 1)(C - 1) 8 से विभाज्य है।",
+        "en": "IV. (A - 1)(B - 1)(C - 1) is divisible by 8."
       },
       {
         "id": 5,
-        "hi": "V. ABC+1 सम है।",
-        "en": "V. ABC+1 is even."
+        "hi": "V. ABC + 1 सम है।",
+        "en": "V. ABC + 1 is even."
       }
     ],
     "question": {
-      "hi": "एक अनुसंधान प्रयोगशाला में, A, B और C तीन भिन्न अभाज्य पहचान संख्याएँ हैं जो A+B+5=2m-C+4 को संतुष्ट करती हैं, जहाँ m एक प्राकृत संख्या है। निम्नलिखित कथनों पर विचार कीजिये:\nनिम्नलिखित में से कौन-से कथन सत्य हैं?",
-      "en": "In a research laboratory, A, B and C are three distinct prime identification numbers satisfying A+B+5=2m-C+4, where m is a natural number. Consider the following statements:\nWhich of the following statements are true?"
+      "hi": "एक अनुसंधान प्रयोगशाला में, A, B और C तीन भिन्न अभाज्य पहचान संख्याएँ हैं जो A + B + 5 = 2m - C + 4 को संतुष्ट करती हैं, जहाँ m एक प्राकृत संख्या है। निम्नलिखित कथनों पर विचार कीजिये:\nनिम्नलिखित में से कौन-से कथन सत्य हैं?",
+      "en": "In a research laboratory, A, B and C are three distinct prime identification numbers satisfying A + B + 5 = 2m - C + 4, where m is a natural number. Consider the following statements:\nWhich of the following statements are true?"
     },
     "options": [
       {
@@ -391,8 +344,8 @@
     ],
     "correctAnswer": "D",
     "explanation": {
-      "hi": "दिया गया है,\nA+B+5=2m-C+4\nपुनर्व्यवस्थित करने पर,\nA+B+C+1=2m\nचूँकि 2m सम है, इसलिये A+B+C+1 सम है।\nतो, A+B+C विषम है।\nअब, A, B और C तीन भिन्न अभाज्य संख्याएँ हैं।\nचूँकि विषम + विषम = सम है, और सम + विषम = विषम\nइसलिये, A, B और C में से कोई भी 2 नहीं है।\nA, B और C सभी विषम अभाज्य संख्याएँ हैं।\nअब, कथनों की जाँच करें:\nI. A+B+C विषम है।\nविषम + विषम + विषम = विषम\nइसलिये, कथन I सत्य है।\nII. A^{2}+B^{2}+C^{2} विषम है।\nएक विषम संख्या का वर्ग विषम होता है।\nजैसा कि, विषम + विषम + विषम = विषम\nइसलिये, कथन II सत्य है।\nIII. AB+BC+CA विषम है।\nचूँकि A, B और C विषम हैं,\nAB, BC और CA सभी विषम हैं।\nतो, विषम + विषम + विषम = विषम\nइसलिये, कथन III सत्य है।\nIV. (A-1)(B-1)(C-1) 8 से विभाज्य है।\nचूँकि A, B और C विषम हैं,\nA-1, B-1 और C-1 सभी सम हैं।\nतो, प्रत्येक गुणनखंड में कम-से-कम 2 का एक गुणनखंड शामिल है।\nइसलिये, (A-1)(B-1)(C-1) में 2 के कम-से-कम तीन गुणनखंड शामिल हैं।\n2 \\times 2 \\times 2 = 8\nयह 8 से विभाज्य है।\nइसलिये, कथन IV सत्य है।\nV. ABC+1 सम है।\nतीन विषम संख्याओं का गुणनफल विषम होता है।\nतो, ABC+1 = \\text{विषम} + 1 = \\text{सम}\nइसलिये, कथन V सत्य है।\nअब, कथन I, II, III, IV और V सत्य हैं।\nअतः विकल्प (d) सही है।[cite: 8]",
-      "en": "Given, A+B+5=2m-C+4\nRearranging, A+B+C+1=2m\nSince 2m is even, A+B+C+1 is even.\nSo, A+B+C is odd.\nNow, A, B and C are three distinct prime numbers.\nSince odd + odd is even, and even + odd = odd\nSo, none of A, B and C is 2.\nA, B and C are all odd primes.\nNow, check the statements-\nI. A+B+C is odd.\nOdd + odd + odd = odd\nSo, statement I is true.\nII. A^{2}+B^{2}+C^{2} is odd.\nThe square of an odd number is odd.\nAs, Odd + odd + odd = odd\nSo, statement II is true.\nIII. AB+BC+CA is odd.\nSince A, B and C are odd,\nAB, BC and CA are all odd.\nSo, Odd + odd + odd = odd\nSo, statement III is true.\nIV. (A-1)(B-1)(C-1) is divisible by 8.\nSince A, B and C are odd,\nA-1, B-1 and C-1 are all even.\nSo, each factor contains at least one factor of 2.\nSo, (A-1)(B-1)(C-1) contains at least three factors of 2.\n2 \\times 2 \\times 2 = 8\nIt is divisible by 8.\nSo, statement IV is true.\nV. ABC+1 is even.\nThe product of three odd numbers is odd.\nSo, ABC+1 = \\text{odd} + 1 = \\text{even}\nSo, statement V is true.\nNow, statements I, II, III, IV and V are true.\nHence, option (d) is correct.[cite: 8]"
+      "hi": "दिया गया है,\nA + B + 5 = 2m - C + 4\nपुनर्व्यवस्थित करने पर,\nA + B + C + 1 = 2m\nचूँकि 2m सम है, इसलिये A + B + C + 1 सम है।\nतो, A + B + C विषम है।\nअब, A, B और C तीन भिन्न अभाज्य संख्याएँ हैं।\nचूँकि विषम + विषम = सम है, और सम + विषम = विषम\nइसलिये, A, B और C में से कोई भी 2 नहीं है।\nA, B और C सभी विषम अभाज्य संख्याएँ हैं।\nअब, कथनों की जाँच करें:\nI. A + B + C विषम है। (विषम + विषम + विषम = विषम) इसलिये, कथन I सत्य है।\nII. A² + B² + C² विषम है। (एक विषम संख्या का वर्ग विषम होता है। अतः विषम + विषम + विषम = विषम) इसलिये, कथन II सत्य है।\nIII. AB + BC + CA विषम है। (चूँकि A, B और C विषम हैं, AB, BC और CA सभी विषम हैं। तो, विषम + विषम + विषम = विषम) इसलिये, कथन III सत्य है।\nIV. (A - 1)(B - 1)(C - 1) 8 से विभाज्य है। (चूँकि A, B और C विषम हैं, A - 1, B - 1 और C - 1 सभी सम हैं। तो, प्रत्येक गुणनखंड में कम-से-कम 2 का एक गुणनखंड शामिल है। इसलिये, इसमें 2 के कम-से-कम तीन गुणनखंड शामिल हैं। 2 × 2 × 2 = 8, यह 8 से विभाज्य है।) इसलिये, कथन IV सत्य है।\nV. ABC + 1 सम है। (तीन विषम संख्याओं का गुणनफल विषम होता है। तो, विषम + 1 = सम) इसलिये, कथन V सत्य है।\nअब, कथन I, II, III, IV और V सत्य हैं।\nअतः विकल्प (d) सही है।[cite: 8]",
+      "en": "Given, A + B + 5 = 2m - C + 4\nRearranging, A + B + C + 1 = 2m\nSince 2m is even, A + B + C + 1 is even.\nSo, A + B + C is odd.\nNow, A, B and C are three distinct prime numbers.\nSince odd + odd is even, and even + odd = odd\nSo, none of A, B and C is 2.\nA, B and C are all odd primes.\nNow, check the statements-\nI. A + B + C is odd. (Odd + odd + odd = odd) So, statement I is true.\nII. A² + B² + C² is odd. (The square of an odd number is odd. As, Odd + odd + odd = odd) So, statement II is true.\nIII. AB + BC + CA is odd. (Since A, B and C are odd, AB, BC and CA are all odd. So, Odd + odd + odd = odd) So, statement III is true.\nIV. (A - 1)(B - 1)(C - 1) is divisible by 8. (Since A, B and C are odd, A - 1, B - 1 and C - 1 are all even. So, each factor contains at least one factor of 2. So, it contains at least three factors of 2. 2 × 2 × 2 = 8. It is divisible by 8.) So, statement IV is true.\nV. ABC + 1 is even. (The product of three odd numbers is odd. So, odd + 1 = even) So, statement V is true.\nNow, statements I, II, III, IV and V are true.\nHence, option (d) is correct.[cite: 8]"
     }
   },
   {
@@ -404,8 +357,8 @@
     "passage": null,
     "statements": null,
     "question": {
-      "hi": "एक उपग्रह संचार प्रणाली में, सुरक्षा कोड को 5^{2027} + 8^{2026} द्वारा दर्शाया जाता है। इस सुरक्षा कोड को 13 से विभाजित करने पर शेषफल क्या होगा?",
-      "en": "In a satellite communication system, the security code is represented by 5^{2027} + 8^{2026}. What is the remainder when this security code is divided by 13?"
+      "hi": "एक उपग्रह संचार प्रणाली में, सुरक्षा कोड को 5²⁰²⁷ + 8²⁰²⁶ द्वारा दर्शाया जाता है। इस सुरक्षा कोड को 13 से विभाजित करने पर शेषफल क्या होगा?",
+      "en": "In a satellite communication system, the security code is represented by 5²⁰²⁷ + 8²⁰²⁶. What is the remainder when this security code is divided by 13?"
     },
     "options": [
       {
@@ -431,8 +384,8 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "सबसे पहले, 5 की घातों पर विचार करें:\n5^{1} = 5, शेषफल = 5\n5^{2} = 25, 25 = 13 \\times 1 + 12, शेषफल = 12\n5^{3} = 125, 125 = 13 \\times 9 + 8, शेषफल = 8\n5^{4} = 625, 625 = 13 \\times 48 + 1, शेषफल = 1\nचौथी घात के बाद, वही शेषफल पैटर्न दोहराता है: 5, 12, 8, 1\nअब 2027 को 4 से विभाजित करें, 2027 = 4 \\times 506 + 3\nइसलिये, 13 से विभाजित करने पर 5^{2027} का वही शेषफल होगा जो 5^{3} का है।\nअतः, 5^{2027} का शेषफल 8 है।\nअब 8 की घातों पर विचार करें:\n8^{1} = 8, शेषफल = 8\n8^{2} = 64, 64 = 13 \\times 4 + 12, शेषफल = 12\n8^{3} = 512, 512 = 13 \\times 39 + 5, शेषफल = 5\n8^{4} = 4096, 4096 = 13 \\times 315 + 1, शेषफल = 1\nइस प्रकार, दोहराने वाला शेषफल पैटर्न 8, 12, 5, 1 है।\nअब 2026 को 4 से विभाजित करें: 2026 = 4 \\times 506 + 2\nइसलिये, 13 से विभाजित करने पर 8^{2026} का वही शेषफल होगा जो 8^{2} का है।\nअतः, 8^{2026} का शेषफल 12 है।\nइसलिये, शेषफलों का योग है:\n8 + 12 = 20\nअब 20 को 13 से विभाजित करें, 20 = 13 \\times 1 + 7\nतो, अभीष्ट शेषफल 7 है।\nअतः विकल्प (c) सही है।[cite: 8]",
-      "en": "First, consider the powers of 5:\n5^{1} = 5, Remainder = 5\n5^{2} = 25, 25 = 13 \\times 1 + 12, Remainder = 12\n5^{3} = 125, 125 = 13 \\times 9 + 8, Remainder = 8\n5^{4} = 625, 625 = 13 \\times 48 + 1, Remainder = 1\nAfter the fourth power, the same remainder pattern repeats 5, 12, 8, 1\nNow divide 2027 by 4, 2027 = 4 \\times 506 + 3\nTherefore, 5^{2027} has the same remainder as 5^{3} when divided by 13.\nHence, the remainder of 5^{2027} is 8.\nNow consider the powers of 8:\n8^{1} = 8, Remainder = 8\n8^{2} = 64, 64 = 13 \\times 4 + 12, Remainder = 12\n8^{3} = 512, 512 = 13 \\times 39 + 5, Remainder = 5\n8^{4} = 4096, 4096 = 13 \\times 315 + 1, Remainder = 1\nThus, the repeating remainder pattern is 8, 12, 5, 1\nNow divide 2026 by 4:\n2026 = 4 \\times 506 + 2\nTherefore, 8^{2026} has the same remainder as 8^{2} when divided by 13.\nHence, the remainder of 8^{2026} is 12.\nTherefore, the sum of the remainders is:\n8 + 12 = 20\nNow divide 20 by 13, 20 = 13 \\times 1 + 7\nSo, the required remainder is 7.\nHence, option (c) is correct.[cite: 8]"
+      "hi": "सबसे पहले, 5 की घातों पर विचार करें:\n5¹ = 5, शेषफल = 5\n5² = 25, 25 = 13 × 1 + 12, शेषफल = 12\n5³ = 125, 125 = 13 × 9 + 8, शेषफल = 8\n5⁴ = 625, 625 = 13 × 48 + 1, शेषफल = 1\nचौथी घात के बाद, वही शेषफल पैटर्न दोहराता है: 5, 12, 8, 1\nअब 2027 को 4 से विभाजित करें, 2027 = 4 × 506 + 3\nइसलिये, 13 से विभाजित करने पर 5²⁰²⁷ का वही शेषफल होगा जो 5³ का है।\nअतः, 5²⁰²⁷ का शेषफल 8 है।\nअब 8 की घातों पर विचार करें:\n8¹ = 8, शेषफल = 8\n8² = 64, 64 = 13 × 4 + 12, शेषफल = 12\n8³ = 512, 512 = 13 × 39 + 5, शेषफल = 5\n8⁴ = 4096, 4096 = 13 × 315 + 1, शेषफल = 1\nइस प्रकार, दोहराने वाला शेषफल पैटर्न 8, 12, 5, 1 है।\nअब 2026 को 4 से विभाजित करें: 2026 = 4 × 506 + 2\nइसलिये, 13 से विभाजित करने पर 8²⁰²⁶ का वही शेषफल होगा जो 8² का है।\nअतः, 8²⁰²⁶ का शेषफल 12 है।\nइसलिये, शेषफलों का योग है:\n8 + 12 = 20\nअब 20 को 13 से विभाजित करें, 20 = 13 × 1 + 7\nतो, अभीष्ट शेषफल 7 है।\nअतः विकल्प (c) सही है।[cite: 8]",
+      "en": "First, consider the powers of 5:\n5¹ = 5, Remainder = 5\n5² = 25, 25 = 13 × 1 + 12, Remainder = 12\n5³ = 125, 125 = 13 × 9 + 8, Remainder = 8\n5⁴ = 625, 625 = 13 × 48 + 1, Remainder = 1\nAfter the fourth power, the same remainder pattern repeats 5, 12, 8, 1\nNow divide 2027 by 4, 2027 = 4 × 506 + 3\nTherefore, 5²⁰²⁷ has the same remainder as 5³ when divided by 13.\nHence, the remainder of 5²⁰²⁷ is 8.\nNow consider the powers of 8:\n8¹ = 8, Remainder = 8\n8² = 64, 64 = 13 × 4 + 12, Remainder = 12\n8³ = 512, 512 = 13 × 39 + 5, Remainder = 5\n8⁴ = 4096, 4096 = 13 × 315 + 1, Remainder = 1\nThus, the repeating remainder pattern is 8, 12, 5, 1\nNow divide 2026 by 4:\n2026 = 4 × 506 + 2\nTherefore, 8²⁰²⁶ has the same remainder as 8² when divided by 13.\nHence, the remainder of 8²⁰²⁶ is 12.\nTherefore, the sum of the remainders is:\n8 + 12 = 20\nNow divide 20 by 13, 20 = 13 × 1 + 7\nSo, the required remainder is 7.\nHence, option (c) is correct.[cite: 8]"
     }
   },
   {
@@ -471,8 +424,8 @@
     ],
     "correctAnswer": "B",
     "explanation": {
-      "hi": "मान लीजिये किसी संख्या N का अभाज्य गुणनखंड है\nN = p_{1}^{a} \\times p_{2}^{b} \\times ...\nधनात्मक गुणनखंडों की संख्या निम्नलिखित द्वारा दी जाती है\n(a+1)(b+1)...\nN के ठीक 9 धनात्मक गुणनखंड होने के लिये दो संभावनाएँ हैं:\nस्थिति I: N = p^{8} क्योंकि 8+1=9\nस्थिति II: N = p^{2}q^{2}, जहाँ p और q भिन्न अभाज्य संख्याएँ हैं, क्योंकि (2+1)(2+1)=9\nस्थिति I: N = p^{8}\nदिया गया है, 100 < p^{8} < 10000\np = 2 के लिये, 2^{8} = 256\np = 3 के लिये, 3^{8} = 6561\np = 5 के लिये, 5^{8} = 390625, जो 10000 से बड़ा है।\nइसलिये, इस स्थिति में संभावित मान हैं: 256 और 6561\nसंभावित मानों की संख्या = 2\nस्थिति II: N = p^{2}q^{2}\nहम लिख सकते हैं: N = (pq)^{2}\nदिया गया है, 100 < (pq)^{2} < 10000\nवर्गमूल लेने पर, 10 < pq < 100\nअब हम इस शर्त को संतुष्ट करने वाले भिन्न अभाज्य युग्मों p और q की गणना करते हैं।\np = 2 के लिये, 10 < 2q < 100 \\implies 5 < q < 50\nq के संभावित अभाज्य मान 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43 और 47 हैं (युग्मों की संख्या = 12)\np = 3 के लिये, 10 < 3q < 100 \\implies \\frac{10}{3} < q < \\frac{100}{3}\nचूँकि q का मान 3 से बड़ा होना चाहिये, संभावित मान 5, 7, 11, 13, 17, 19, 23, 29 और 31 हैं (युग्मों की संख्या = 9)\np = 5 के लिये, 10 < 5q < 100 \\implies 2 < q < 20\nचूँकि q का मान 5 से बड़ा होना चाहिये, संभावित मान 7, 11, 13, 17 और 19 हैं (युग्मों की संख्या = 5)\np = 7 के लिये: 10 < 7q < 100 \\implies \\frac{10}{7} < q < \\frac{100}{7}\nचूँकि q का मान 7 से बड़ा होना चाहिये, संभावित मान हैं: 11 और 13 (युग्मों की संख्या = 2)\np = 11 या किसी भी बड़ी अभाज्य संख्या के लिये, q का मान p से बड़ा होना चाहिये।\nइस प्रकार, pq \\ge 11 \\times 13 = 143\nयह 100 से बड़ा है। इसलिये, कोई और युग्म संभव नहीं है।\nस्थिति II में कुल मान = 12 + 9 + 5 + 2 = 28\nदोनों स्थितियों को जोड़ने पर, N के कुल संभावित मान = 2 + 28 = 30\nअतः विकल्प (b) सही है।[cite: 8]",
-      "en": "Let the prime factorisation of a number N be\nN = p_{1}^{a} \\times p_{2}^{b} \\times ...\nThe number of positive factors is given by\n(a+1)(b+1)...\nFor N to have exactly 9 positive factors, there are two possibilities:\nCase I: N = p^{8} Because 8+1=9\nCase II: N = p^{2}q^{2}, where p and q are distinct primes, because (2+1)(2+1)=9\nCase I: N = p^{8}\nGiven, 100 < p^{8} < 10000\nFor p = 2, 2^{8} = 256\nFor p = 3, 3^{8} = 6561\nFor p = 5, 5^{8} = 390625, which is greater than 10000.\nTherefore, the possible values in this case are: 256 and 6561\nNumber of possible values = 2\nCase II: N = p^{2}q^{2}\nWe can write N = (pq)^{2}\nGiven, 100 < (pq)^{2} < 10000\nTaking square roots, 10 < pq < 100\nWe now count the pairs of distinct primes p and q satisfying this condition.\nFor p = 2, 10 < 2q < 100 \\implies 5 < q < 50\nPossible prime values of q are 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43 and 47 (Number of pairs = 12)\nFor p = 3, 10 < 3q < 100 \\implies \\frac{10}{3} < q < \\frac{100}{3}\nSince q must be greater than 3, the possible values are 5, 7, 11, 13, 17, 19, 23, 29 and 31 (Number of pairs = 9)\nFor p = 5, 10 < 5q < 100 \\implies 2 < q < 20\nSince q must be greater than 5, the possible values are 7, 11, 13, 17 and 19 (Number of pairs = 5)\nFor p = 7, 10 < 7q < 100 \\implies \\frac{10}{7} < q < \\frac{100}{7}\nSince q must be greater than 7, the possible values are: 11 and 13 (Number of pairs = 2)\nFor p = 11 or any larger prime, q must be greater than p.\nThus, pq \\ge 11 \\times 13 = 143\nThis is greater than 100. Therefore, no more pairs are possible.\nTotal values in Case II = 12 + 9 + 5 + 2 = 28\nAdding both cases, Total possible values of N = 2 + 28 = 30\nHence, option (b) is correct.[cite: 8]"
+      "hi": "मान लीजिये किसी संख्या N का अभाज्य गुणनखंड है N = p₁ᵃ × p₂ᵇ × ...\nधनात्मक गुणनखंडों की संख्या निम्नलिखित द्वारा दी जाती है: (a+1)(b+1)...\nN के ठीक 9 धनात्मक गुणनखंड होने के लिये दो संभावनाएँ हैं:\nस्थिति I: N = p⁸ क्योंकि 8 + 1 = 9\nस्थिति II: N = p²q², जहाँ p और q भिन्न अभाज्य संख्याएँ हैं, क्योंकि (2+1)(2+1) = 9\nस्थिति I: N = p⁸\nदिया गया है, 100 < p⁸ < 10000\np = 2 के लिये, 2⁸ = 256\np = 3 के लिये, 3⁸ = 6561\np = 5 के लिये, 5⁸ = 390625, जो 10000 से बड़ा है।\nइसलिये, इस स्थिति में संभावित मान हैं: 256 और 6561\nसंभावित मानों की संख्या = 2\nस्थिति II: N = p²q²\nहम लिख सकते हैं: N = (pq)²\nदिया गया है, 100 < (pq)² < 10000\nवर्गमूल लेने पर, 10 < pq < 100\nअब हम इस शर्त को संतुष्ट करने वाले भिन्न अभाज्य युग्मों p और q की गणना करते हैं।\np = 2 के लिये, 10 < 2q < 100 जिससे 5 < q < 50\nq के संभावित अभाज्य मान 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43 और 47 हैं (युग्मों की संख्या = 12)\np = 3 के लिये, 10 < 3q < 100 जिससे $\\frac{10}{3} < q < \\frac{100}{3}$\nचूँकि q का मान 3 से बड़ा होना चाहिये, संभावित मान 5, 7, 11, 13, 17, 19, 23, 29 और 31 हैं (युग्मों की संख्या = 9)\np = 5 के लिये, 10 < 5q < 100 जिससे 2 < q < 20\nचूँकि q का मान 5 से बड़ा होना चाहिये, संभावित मान 7, 11, 13, 17 और 19 हैं (युग्मों की संख्या = 5)\np = 7 के लिये: 10 < 7q < 100 जिससे $\\frac{10}{7} < q < \\frac{100}{7}$\nचूँकि q का मान 7 से बड़ा होना चाहिये, संभावित मान हैं: 11 और 13 (युग्मों की संख्या = 2)\np = 11 या किसी भी बड़ी अभाज्य संख्या के लिये, q का मान p से बड़ा होना चाहिये।\nइस प्रकार, pq ≥ 11 × 13 = 143\nयह 100 से बड़ा है। इसलिये, कोई और युग्म संभव नहीं है।\nस्थिति II में कुल मान = 12 + 9 + 5 + 2 = 28\nदोनों स्थितियों को जोड़ने पर, N के कुल संभावित मान = 2 + 28 = 30\nअतः विकल्प (b) सही है।[cite: 8]",
+      "en": "Let the prime factorisation of a number N be N = p₁ᵃ × p₂ᵇ × ...\nThe number of positive factors is given by (a+1)(b+1)...\nFor N to have exactly 9 positive factors, there are two possibilities:\nCase I: N = p⁸ Because 8 + 1 = 9\nCase II: N = p²q², where p and q are distinct primes, because (2+1)(2+1) = 9\nCase I: N = p⁸\nGiven, 100 < p⁸ < 10000\nFor p = 2, 2⁸ = 256\nFor p = 3, 3⁸ = 6561\nFor p = 5, 5⁸ = 390625, which is greater than 10000.\nTherefore, the possible values in this case are: 256 and 6561\nNumber of possible values = 2\nCase II: N = p²q²\nWe can write N = (pq)²\nGiven, 100 < (pq)² < 10000\nTaking square roots, 10 < pq < 100\nWe now count the pairs of distinct primes p and q satisfying this condition.\nFor p = 2, 10 < 2q < 100 leading to 5 < q < 50\nPossible prime values of q are 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43 and 47 (Number of pairs = 12)\nFor p = 3, 10 < 3q < 100 leading to $\\frac{10}{3} < q < \\frac{100}{3}$\nSince q must be greater than 3, the possible values are 5, 7, 11, 13, 17, 19, 23, 29 and 31 (Number of pairs = 9)\nFor p = 5, 10 < 5q < 100 leading to 2 < q < 20\nSince q must be greater than 5, the possible values are 7, 11, 13, 17 and 19 (Number of pairs = 5)\nFor p = 7, 10 < 7q < 100 leading to $\\frac{10}{7} < q < \\frac{100}{7}$\nSince q must be greater than 7, the possible values are: 11 and 13 (Number of pairs = 2)\nFor p = 11 or any larger prime, q must be greater than p.\nThus, pq ≥ 11 × 13 = 143\nThis is greater than 100. Therefore, no more pairs are possible.\nTotal values in Case II = 12 + 9 + 5 + 2 = 28\nAdding both cases, Total possible values of N = 2 + 28 = 30\nHence, option (b) is correct.[cite: 8]"
     }
   },
   {
@@ -484,8 +437,8 @@
     "passage": null,
     "statements": null,
     "question": {
-      "hi": "एक डेटा प्रोसेसिंग प्रणाली में, कुल गणनात्मक भार को 4^{15} + 4^{16} + 4^{17} + 4^{18} + 4^{19} द्वारा दर्शाया जाता है। यह व्यंजक निम्नलिखित में से किस संख्या से विभाज्य है?",
-      "en": "In a data-processing system, the total computational load is represented by 4^{15} + 4^{16} + 4^{17} + 4^{18} + 4^{19}. The expression is divisible by which of the following numbers?"
+      "hi": "एक डेटा प्रोसेसिंग प्रणाली में, कुल गणनात्मक भार को 4¹⁵ + 4¹⁶ + 4¹⁷ + 4¹⁸ + 4¹⁹ द्वारा दर्शाया जाता है। यह व्यंजक निम्नलिखित में से किस संख्या से विभाज्य है?",
+      "en": "In a data-processing system, the total computational load is represented by 4¹⁵ + 4¹⁶ + 4¹⁷ + 4¹⁸ + 4¹⁹. The expression is divisible by which of the following numbers?"
     },
     "options": [
       {
@@ -511,8 +464,8 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "4^{15} + 4^{16} + 4^{17} + 4^{18} + 4^{19}\n4^{15} को उभयनिष्ठ गुणनखंड के रूप में बाहर लेने पर: = 4^{15}(1 + 4 + 4^{2} + 4^{3} + 4^{4})\nअब, 1 + 4 + 4^{2} + 4^{3} + 4^{4} = 1 + 4 + 16 + 64 + 256 = 341\nइसलिये, 4^{15} + 4^{16} + 4^{17} + 4^{18} + 4^{19} = 4^{15} \\times 341\nसाथ ही, 341 = 11 \\times 31\nइसलिये, दिया गया व्यंजक 341 से विभाज्य है।\nअतः विकल्प (c) सही है।[cite: 8]",
-      "en": "4^{15} + 4^{16} + 4^{17} + 4^{18} + 4^{19}\nTaking 4^{15} as the common factor = 4^{15}(1 + 4 + 4^{2} + 4^{3} + 4^{4})\nNow, 1 + 4 + 4^{2} + 4^{3} + 4^{4} = 1 + 4 + 16 + 64 + 256 = 341\nSo, 4^{15} + 4^{16} + 4^{17} + 4^{18} + 4^{19} = 4^{15} \\times 341\nAlso, 341 = 11 \\times 31\nSo, the given expression is divisible by 341.\nHence, option (c) is correct.[cite: 8]"
+      "hi": "4¹⁵ + 4¹⁶ + 4¹⁷ + 4¹⁸ + 4¹⁹\n4¹⁵ को उभयनिष्ठ गुणनखंड के रूप में बाहर लेने पर: = 4¹⁵(1 + 4 + 4² + 4³ + 4⁴)\nअब, 1 + 4 + 4² + 4³ + 4⁴ = 1 + 4 + 16 + 64 + 256 = 341\nइसलिये, 4¹⁵ + 4¹⁶ + 4¹⁷ + 4¹⁸ + 4¹⁹ = 4¹⁵ × 341\nसाथ ही, 341 = 11 × 31\nइसलिये, दिया गया व्यंजक 341 से विभाज्य है。\nअतः विकल्प (c) सही है।[cite: 8]",
+      "en": "4¹⁵ + 4¹⁶ + 4¹⁷ + 4¹⁸ + 4¹⁹\nTaking 4¹⁵ as the common factor = 4¹⁵(1 + 4 + 4² + 4³ + 4⁴)\nNow, 1 + 4 + 4² + 4³ + 4⁴ = 1 + 4 + 16 + 64 + 256 = 341\nSo, 4¹⁵ + 4¹⁶ + 4¹⁷ + 4¹⁸ + 4¹⁹ = 4¹⁵ × 341\nAlso, 341 = 11 × 31\nSo, the given expression is divisible by 341.\nHence, option (c) is correct.[cite: 8]"
     }
   },
   {
@@ -653,8 +606,8 @@
     "statements": [
       {
         "id": 1,
-        "hi": "कथन I: x^{2} - y^{2} > 0",
-        "en": "Statement I: x^{2} - y^{2} > 0"
+        "hi": "कथन I: x² - y² > 0",
+        "en": "Statement I: x² - y² > 0"
       },
       {
         "id": 2,
@@ -690,8 +643,8 @@
     ],
     "correctAnswer": "A",
     "explanation": {
-      "hi": "हमें यह निर्धारित करना है कि दो धनात्मक दक्षता प्राप्तांकों, x या y में से कौन-सा बड़ा है।\nकथन I: x^{2}-y^{2}>0\nसर्वसमिका x^{2}-y^{2}=(x-y)(x+y) का उपयोग करने पर:\nइसलिये, (x-y)(x+y)>0\nचूँकि x और y धनात्मक हैं,\nx+y>0\nगुणनफल को धनात्मक होने के लिये, हमारे पास निम्नलिखित होना चाहिये:\nx-y>0\nइसलिये x>y\nइस प्रकार, केवल कथन I प्रश्न का उत्तर देने के लिये पर्याप्त है。\nकथन II: x+y>1\nयह कथन यह स्थापित नहीं करता है कि कौन-सी संख्या बड़ी है।\nउदाहरण के लिये:\nयदि x=0.8 और y=0.4, तो x+y=1.2 और x>y\nहालाँकि, यदि x=0.3 और y=0.9 तो x+y=1.2 और y>x\nइस प्रकार, केवल कथन II पर्याप्त नहीं है।\nअतः, प्रश्न का उत्तर केवल कथन I का उपयोग करके दिया जा सकता है, लेकिन केवल कथन II का उपयोग करके नहीं दिया जा सकता है।\nअतः विकल्प (a) सही है।[cite: 8]",
-      "en": "We have to determine which of the two positive efficiency scores, x or y, is greater.\nStatement I: x^{2}-y^{2}>0\nUsing the identity x^{2}-y^{2}=(x-y)(x+y)\nTherefore, (x-y)(x+y)>0\nSince x and y are positive,\nx+y>0\nFor the product to be positive, we must have:\nx-y>0\nTherefore, x>y\nThus, Statement I alone is sufficient to answer the question.\nStatement II: x+y>1\nThis statement does not establish which number is greater.\nFor example:\nIf x=0.8 and y=0.4, then x+y=1.2 and x>y\nHowever, if x=0.3 and y=0.9, then x+y=1.2 and y>x.\nThus, Statement II alone is not sufficient.\nSo, the question can be answered using Statement I alone, but cannot be answered using Statement II alone.\nHence, option (a) is correct.[cite: 8]"
+      "hi": "हमें यह निर्धारित करना है कि दो धनात्मक दक्षता प्राप्तांकों, x या y में से कौन-सा बड़ा है।\nकथन I: x² - y² > 0\nसर्वसमिका x² - y² = (x - y)(x + y) का उपयोग करने पर:\nइसलिये, (x - y)(x + y) > 0\nचूँकि x और y धनात्मक हैं,\nx + y > 0\nगुणनफल को धनात्मक होने के लिये, हमारे पास निम्नलिखित होना चाहिये:\nx - y > 0\nइसलिये x > y\nइस प्रकार, केवल कथन I प्रश्न का उत्तर देने के लिये पर्याप्त है।\nकथन II: x + y > 1\nयह कथन यह स्थापित नहीं करता है कि कौन-सी संख्या बड़ी है।\nउदाहरण के लिये:\nयदि x = 0.8 और y = 0.4, तो x + y = 1.2 और x > y\nहालाँकि, यदि x = 0.3 और y = 0.9 तो x + y = 1.2 और y > x\nइस प्रकार, केवल कथन II पर्याप्त नहीं है।\nअतः, प्रश्न का उत्तर केवल कथन I का उपयोग करके दिया जा सकता है, लेकिन केवल कथन II का उपयोग करके नहीं दिया जा सकता है।\nअतः विकल्प (a) सही है।[cite: 8]",
+      "en": "We have to determine which of the two positive efficiency scores, x or y, is greater.\nStatement I: x² - y² > 0\nUsing the identity x² - y² = (x - y)(x + y)\nTherefore, (x - y)(x + y) > 0\nSince x and y are positive,\nx + y > 0\nFor the product to be positive, we must have:\nx - y > 0\nTherefore, x > y\nThus, Statement I alone is sufficient to answer the question.\nStatement II: x + y > 1\nThis statement does not establish which number is greater.\nFor example:\nIf x = 0.8 and y = 0.4, then x + y = 1.2 and x > y\nHowever, if x = 0.3 and y = 0.9, then x + y = 1.2 and y > x.\nThus, Statement II alone is not sufficient.\nSo, the question can be answered using Statement I alone, but cannot be answered using Statement II alone.\nHence, option (a) is correct.[cite: 8]"
     }
   },
   {
@@ -741,8 +694,8 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "मान लीजिये दो भिन्न धनात्मक पूर्णांक x और y हैं, जहाँ x < y है।\nकिन्हीं भी दो धनात्मक पूर्णांकों के लिये:\nHCF \\times LCM = संख्याओं का गुणनफल\nHCF \\times LCM = xy\nप्रश्न के अनुसार:\nxy = x^{4}\nचूँकि x एक धनात्मक पूर्णांक है, दोनों पक्षों को x से विभाजित करने पर:\ny = x^{3}\nअब कथनों की जाँच करें।\nकथन I: बड़ी संख्या एक पूर्ण घन है।\nचूँकि, y = x^{3}\nइसलिये, y छोटी संख्या x का घन है।\nअतः, कथन I सही है।\nकथन II: दोनों संख्याओं के बीच का अंतर 6 से विभाज्य है।\nअंतर है, y - x = x^{3} - x\nx को उभयनिष्ठ गुणनखंड के रूप में बाहर लेने पर:\nx^{3} - x = x(x^{2} - 1) = x(x - 1)(x + 1)\nसंख्याएँ x - 1, x और x + 1 तीन क्रमागत पूर्णांक हैं।\nकिन्हीं भी तीन क्रमागत पूर्णांकों के बीच:\nएक संख्या 3 से विभाज्य होती है।\nकम-से-कम एक संख्या सम होती है।\nइसलिये, उनका गुणनफल निम्नलिखित से विभाज्य होता है:\n2 \\times 3 = 6\nअतः, x(x-1)(x+1), 6 से विभाज्य है।\nइसलिये, कथन II भी सही है।\nइस प्रकार, कथन I और II दोनों सही हैं।\nविकल्प (c) सही है।[cite: 8]",
-      "en": "Let the two distinct positive integers be x and y, where x < y\nFor any two positive integers:\nHCF \\times LCM = Product of the two numbers\nHCF \\times LCM = xy\nAccording to the question:\nxy = x^{4}\nSince x is a positive integer, dividing both sides by x:\ny = x^{3}\nNow examine the statements.\nStatement I: The larger number is a perfect cube.\nSince, y = x^{3}\nSo, y is the cube of the smaller number x.\nSo, Statement I is correct.\nStatement II: The difference between the two numbers is divisible by 6.\nThe difference is, y - x = x^{3} - x\nTaking x as a common factor:\nx^{3} - x = x(x^{2} - 1) = x(x - 1)(x + 1)\nThe numbers x - 1, x and x + 1 are three consecutive integers.\nAmong any three consecutive integers:\nOne number is divisible by 3.\nAt least one number is even.\nTherefore, their product is divisible by:\n2 \\times 3 = 6\nHence, x(x-1)(x+1) is divisible by 6.\nSo, Statement II is also correct.\nSo, both Statements I and II are correct.\nHence, option (c) is correct.[cite: 8]"
+      "hi": "मान लीजिये दो भिन्न धनात्मक पूर्णांक x और y हैं, जहाँ x < y है।\nकिन्हीं भी दो धनात्मक पूर्णांकों के लिये:\nHCF × LCM = संख्याओं का गुणनफल\nHCF × LCM = xy\nप्रश्न के अनुसार:\nxy = x⁴\nचूँकि x एक धनात्मक पूर्णांक है, दोनों पक्षों को x से विभाजित करने पर:\ny = x³\nअब कथनों की जाँच करें।\nकथन I: बड़ी संख्या एक पूर्ण घन है।\nचूँकि, y = x³\nइसलिये, y छोटी संख्या x का घन है।\nअतः, कथन I सही है।\nकथन II: दोनों संख्याओं के बीच का अंतर 6 से विभाज्य है।\nअंतर है, y - x = x³ - x\nx को उभयनिष्ठ गुणनखंड के रूप में बाहर लेने पर:\nx³ - x = x(x² - 1) = x(x - 1)(x + 1)\nसंख्याएँ x - 1, x और x + 1 तीन क्रमागत पूर्णांक हैं।\nकिन्हीं भी तीन क्रमागत पूर्णांकों के बीच:\nएक संख्या 3 से विभाज्य होती है।\nकम-से-कम एक संख्या सम होती है।\nइसलिये, उनका गुणनफल निम्नलिखित से विभाज्य होता है:\n2 × 3 = 6\nअतः, x(x-1)(x+1), 6 से विभाज्य है।\nइसलिये, कथन II भी सही है।\nइस प्रकार, कथन I और II दोनों सही हैं।\nविकल्प (c) सही है।[cite: 8]",
+      "en": "Let the two distinct positive integers be x and y, where x < y\nFor any two positive integers:\nHCF × LCM = Product of the two numbers\nHCF × LCM = xy\nAccording to the question:\nxy = x⁴\nSince x is a positive integer, dividing both sides by x:\ny = x³\nNow examine the statements.\nStatement I: The larger number is a perfect cube.\nSince, y = x³\nSo, y is the cube of the smaller number x.\nSo, Statement I is correct.\nStatement II: The difference between the two numbers is divisible by 6.\nThe difference is, y - x = x³ - x\nTaking x as a common factor:\nx³ - x = x(x² - 1) = x(x - 1)(x + 1)\nThe numbers x - 1, x and x + 1 are three consecutive integers.\nAmong any three consecutive integers:\nOne number is divisible by 3.\nAt least one number is even.\nTherefore, their product is divisible by:\n2 × 3 = 6\nHence, x(x-1)(x+1) is divisible by 6.\nSo, Statement II is also correct.\nSo, both Statements I and II are correct.\nHence, option (c) is correct.[cite: 8]"
     }
   },
   {
@@ -899,8 +852,8 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "हमें यह निर्धारित करना है कि क्या T में शामिल प्रत्येक कोड सम है, अर्थात क्या T का प्रत्येक अवयव Y से संबंधित है।\nकथन I: T से संबंधित किन्हीं भी दो कोडों के बीच का अंतर सम है।\nदो पूर्णांकों का अंतर तब सम होता है जब दोनों पूर्णांकों की समता समान हो।\nविषम - विषम = सम\nसम - सम = सम\nइसलिये, कथन I का तात्पर्य यह है कि T के सभी कोडों की समता समान है।\nहालाँकि, दो संभावनाएँ बनी रहती हैं:\n1. T में शामिल सभी कोड विषम हैं。\n2. T में शामिल सभी कोड सम हैं。\nउदाहरण के लिये:\nT = \\{3, 7, 11\\}\nप्रत्येक युग्म के बीच का अंतर सम है, लेकिन सभी कोड विषम हैं।\nइसी प्रकार: T = \\{4, 8, 12\\}\nप्रत्येक युग्म के बीच का अंतर सम है और सभी कोड सम हैं।\nइसलिये, केवल कथन I पर्याप्त नहीं है।\nकथन II: T से संबंधित सभी कोडों का गुणनफल सम है।\nएक गुणनफल तब सम होता है जब उसका कम-से-कम एक गुणनखंड सम हो।\nइस प्रकार, कथन II यह स्थापित करता है कि T में कम-से-कम एक सम कोड शामिल है।\nहालाँकि, यह यह स्थापित नहीं करता है कि T का प्रत्येक कोड सम है।\nउदाहरण के लिये: T = \\{3, 4, 7\\}\nगुणनफल है: 3 \\times 4 \\times 7 = 84\nगुणनफल सम है, लेकिन T में विषम कोड भी शामिल हैं।\nइसलिये, केवल कथन II पर्याप्त नहीं है।\nकथन I और II का एक साथ उपयोग करने पर:\nकथन I से, T के सभी कोडों की समता समान है।\nकथन II से, T में कम-से-कम एक कोड सम है।\nचूँकि सभी कोडों की समता समान है और उनमें से कम-से-कम एक सम है, इसलिये T में शामिल प्रत्येक कोड को सम होना ही चाहिये।\nइसलिये, T में शामिल प्रत्येक कोड Y से संबंधित है।\nअतः, प्रश्न का उत्तर दोनों कथनों का एक साथ उपयोग करके दिया जा सकता है, लेकिन किसी भी एक कथन का अकेले उपयोग करके नहीं दिया जा सकता है।\nअतः विकल्प (c) सही है।[cite: 8]",
-      "en": "We have to determine whether every code in T is even, that is, whether every element of T belongs to Y.\nStatement I: The difference between any two codes belonging to T is even.\nThe difference of two integers is even when both integers have the same parity.\nOdd - Odd = Even\nEven - Even = Even\nTherefore, Statement I implies that all the codes in T have the same parity.\nHowever, two possibilities remain:\n1. All codes in T are odd.\n2. All codes in T are even.\nFor example:\nT = \\{3, 7, 11\\}\nThe difference between every pair is even, but all the codes are odd.\nSimilarly:\nT = \\{4, 8, 12\\}\nThe difference between every pair is even, and all the codes are even.\nTherefore, Statement I alone is not sufficient.\nStatement II:\nThe product of all the codes belonging to T is even.\nA product is even if at least one of its factors is even.\nThus, Statement II establishes that T contains at least one even code.\nHowever, it does not establish that every code in T is even.\nFor example: T = \\{3, 4, 7\\}\nThe product is: 3 \\times 4 \\times 7 = 84\nThe product is even, but T also contains odd codes.\nTherefore, Statement II alone is not sufficient.\nUsing Statements I and II together:\nFrom Statement I, all the codes in T have the same parity.\nFrom Statement II, at least one code in T is even.\nSince all the codes have the same parity and at least one of them is even, every code in T must be even.\nTherefore, every code in T belongs to Y.\nThus, the question can be answered using both statements together, but cannot be answered using either statement alone.\nHence, option (c) is correct.[cite: 8]"
+      "hi": "हमें यह निर्धारित करना है कि क्या T में शामिल प्रत्येक कोड सम है, अर्थात क्या T का प्रत्येक अवयव Y से संबंधित है।\nकथन I: T से संबंधित किन्हीं भी दो कोडों के बीच का अंतर सम है।\nदो पूर्णांकों का अंतर तब सम होता है जब दोनों पूर्णांकों की समता समान हो।\nविषम - विषम = सम\nसम - सम = सम\nइसलिये, कथन I का तात्पर्य यह है कि T के सभी कोडों की समता समान है।\nहालाँकि, दो संभावनाएँ बनी रहती हैं:\n1. T में शामिल सभी कोड विषम हैं।\n2. T में शामिल सभी कोड सम हैं。\nउदाहरण के लिये:\nT = {3, 7, 11}\nप्रत्येक युग्म के बीच का अंतर सम है, लेकिन सभी कोड विषम हैं।\nइसी प्रकार: T = {4, 8, 12}\nप्रत्येक युग्म के बीच का अंतर सम है और सभी कोड सम हैं।\nइसलिये, केवल कथन I पर्याप्त नहीं है।\nकथन II: T से संबंधित सभी कोडों का गुणनफल सम है।\nएक गुणनफल तब सम होता है जब उसका कम-से-कम एक गुणनखंड सम हो।\nइस प्रकार, कथन II यह स्थापित करता है कि T में कम-से-कम एक सम कोड शामिल है।\nहालाँकि, यह यह स्थापित नहीं करता है कि T का प्रत्येक कोड सम है।\nउदाहरण के लिये: T = {3, 4, 7}\nगुणनफल है: 3 × 4 × 7 = 84\nगुणनफल सम है, लेकिन T में विषम कोड भी शामिल हैं।\nइसलिये, केवल कथन II पर्याप्त नहीं है。\nकथन I और II का एक साथ उपयोग करने पर:\nकथन I से, T के सभी कोडों की समता समान है।\nकथन II से, T में कम-से-कम एक कोड सम है।\nचूँकि सभी कोडों की समता समान है और उनमें से कम-से-कम एक सम है, इसलिये T में शामिल प्रत्येक कोड को सम होना ही चाहिये।\nइसलिये, T में शामिल प्रत्येक कोड Y से संबंधित है।\nअतः, प्रश्न का उत्तर दोनों कथनों का एक साथ उपयोग करके दिया जा सकता है, लेकिन किसी भी एक कथन का अकेले उपयोग करके नहीं दिया जा सकता है।\nअतः विकल्प (c) सही है।[cite: 8]",
+      "en": "We have to determine whether every code in T is even, that is, whether every element of T belongs to Y.\nStatement I: The difference between any two codes belonging to T is even.\nThe difference of two integers is even when both integers have the same parity.\nOdd - Odd = Even\nEven - Even = Even\nTherefore, Statement I implies that all the codes in T have the same parity.\nHowever, two possibilities remain:\n1. All codes in T are odd.\n2. All codes in T are even.\nFor example:\nT = {3, 7, 11}\nThe difference between every pair is even, but all the codes are odd.\nSimilarly:\nT = {4, 8, 12}\nThe difference between every pair is even, and all the codes are even.\nTherefore, Statement I alone is not sufficient.\nStatement II:\nThe product of all the codes belonging to T is even.\nA product is even if at least one of its factors is even.\nThus, Statement II establishes that T contains at least one even code.\nHowever, it does not establish that every code in T is even.\nFor example: T = {3, 4, 7}\nThe product is: 3 × 4 × 7 = 84\nThe product is even, but T also contains odd codes.\nTherefore, Statement II alone is not sufficient.\nUsing Statements I and II together:\nFrom Statement I, all the codes in T have the same parity.\nFrom Statement II, at least one code in T is even.\nSince all the codes have the same parity and at least one of them is even, every code in T must be even.\nTherefore, every code in T belongs to Y.\nThus, the question can be answered using both statements together, but cannot be answered using either statement alone.\nHence, option (c) is correct.[cite: 8]"
     }
   },
   {
@@ -913,8 +866,8 @@
     "statements": [
       {
         "id": 1,
-        "hi": "कथन I: xy^{2} = 180",
-        "en": "Statement I: xy^{2} = 180"
+        "hi": "कथन I: xy² = 180",
+        "en": "Statement I: xy² = 180"
       },
       {
         "id": 2,
@@ -950,8 +903,8 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "हमें यह निर्धारित करना है कि क्या x एक अभाज्य संख्या है।\nकथन I: xy^{2} = 180\nचूँकि x और y, 1 से बड़े पूर्णांक हैं, इसलिये y^{2} को 180 का एक वर्ग गुणनखंड होना चाहिये।\n180 के 1 से बड़े संभावित वर्ग गुणनखंड हैं:\n2^{2} = 4\n3^{2} = 9\n6^{2} = 36\nइसलिये, x के संभावित मान हैं:\nयदि y = 2, x = \\frac{180}{4} = 45\nयदि y = 3, x = \\frac{180}{9} = 20\nयदि y = 6, x = \\frac{180}{36} = 5\nइस प्रकार, x का मान 45, 20 या 5 हो सकता है।\nयहाँ, 45 और 20 भाज्य संख्याएँ हैं, जबकि 5 अभाज्य संख्या है।\nइसलिये, केवल कथन I पर्याप्त नहीं है।\nकथन II: xz = 105\nचूँकि x और z, 1 से बड़े पूर्णांक हैं, x, 105 का कोई भी उचित गुणनखंड हो सकता है।\n105 = 3 \\times 5 \\times 7\nx के संभावित मानों में शामिल हैं: 3, 5, 7, 15, 21 और 35\nइनमें से, 3, 5 और 7 अभाज्य संख्याएँ हैं, जबकि 15, 21 और 35 भाज्य संख्याएँ हैं।\nइसलिये, केवल कथन II पर्याप्त नहीं है।\nकथन I और II का एक साथ उपयोग करने पर:\nकथन I से, x के संभावित मान 45, 20 और 5 हैं।\nकथन II से, x के संभावित मान 3, 5, 7, 15, 21 और 35 हैं।\nदोनों में एकमात्र उभयनिष्ठ मान x = 5 है।\nचूँकि 5 एक अभाज्य संख्या है, इसलिये दोनों कथनों का एक साथ उपयोग करके प्रश्न का उत्तर दिया जा सकता है।\nअतः विकल्प (c) सही है।[cite: 8]",
-      "en": "We have to determine whether x is a prime number.\nStatement I: xy^{2} = 180\nSince x and y are integers greater than 1, y^{2} must be a square factor of 180.\nThe possible square factors of 180 greater than 1 are:\n2^{2} = 4\n3^{2} = 9\n6^{2} = 36\nTherefore, the possible values of x are:\nIf y = 2, x = \\frac{180}{4} = 45\nIf y = 3, x = \\frac{180}{9} = 20\nIf y = 6, x = \\frac{180}{36} = 5\nThus, x can be 45, 20 or 5.\nHere, 45 and 20 are composite, whereas 5 is prime.\nTherefore, Statement I alone is not sufficient.\nStatement II: xz = 105\nSince x and z are integers greater than 1, x can be any proper factor of 105.\n105 = 3 \\times 5 \\times 7\nPossible values of x include: 3, 5, 7, 15, 21 and 35\nAmong these, 3, 5 and 7 are prime, whereas 15, 21 and 35 are composite.\nTherefore, Statement II alone is not sufficient.\nUsing Statements I and II together:\nFrom Statement I, possible values of x are 45, 20 and 5\nFrom Statement II, possible values of x are 3, 5, 7, 15, 21 and 35\nThe only common value is x = 5\nSince 5 is a prime number, the question can be answered by using both statements together.\nHence, option (c) is correct.[cite: 8]"
+      "hi": "हमें यह निर्धारित करना है कि क्या x एक अभाज्य संख्या है।\nकथन I: xy² = 180\nचूँकि x और y, 1 से बड़े पूर्णांक हैं, इसलिये y² को 180 का एक वर्ग गुणनखंड होना चाहिये।\n180 के 1 से बड़े संभावित वर्ग गुणनखंड हैं:\n2² = 4\n3² = 9\n6² = 36\nइसलिये, x के संभावित मान हैं:\nयदि y = 2, $x = \\frac{180}{4} = 45$\nयदि y = 3, $x = \\frac{180}{9} = 20$\nयदि y = 6, $x = \\frac{180}{36} = 5$\nइस प्रकार, x का मान 45, 20 या 5 हो सकता है।\nयहाँ, 45 और 20 भाज्य संख्याएँ हैं, जबकि 5 अभाज्य संख्या है।\nइसलिये, केवल कथन I पर्याप्त नहीं है।\nकथन II: xz = 105\nचूँकि x और z, 1 से बड़े पूर्णांक हैं, x, 105 का कोई भी उचित गुणनखंड हो सकता है।\n105 = 3 × 5 × 7\nx के संभावित मानों में शामिल हैं: 3, 5, 7, 15, 21 और 35\nइनमें से, 3, 5 और 7 अभाज्य संख्याएँ हैं, जबकि 15, 21 और 35 भाज्य संख्याएँ हैं।\nइसलिये, केवल कथन II पर्याप्त नहीं है।\nकथन I और II का एक साथ उपयोग करने पर:\nकथन I से, x के संभावित मान 45, 20 और 5 हैं।\nकथन II से, x के संभावित मान 3, 5, 7, 15, 21 और 35 हैं।\nदोनों में एकमात्र उभयनिष्ठ मान x = 5 है।\nचूँकि 5 एक अभाज्य संख्या है, इसलिये दोनों कथनों का एक साथ उपयोग करके प्रश्न का उत्तर दिया जा सकता है।\nअतः विकल्प (c) सही है।[cite: 8]",
+      "en": "We have to determine whether x is a prime number.\nStatement I: xy² = 180\nSince x and y are integers greater than 1, y² must be a square factor of 180.\nThe possible square factors of 180 greater than 1 are:\n2² = 4\n3² = 9\n6² = 36\nTherefore, the possible values of x are:\nIf y = 2, $x = \\frac{180}{4} = 45$\nIf y = 3, $x = \\frac{180}{9} = 20$\nIf y = 6, $x = \\frac{180}{36} = 5$\nThus, x can be 45, 20 or 5.\nHere, 45 and 20 are composite, whereas 5 is prime.\nTherefore, Statement I alone is not sufficient.\nStatement II: xz = 105\nSince x and z are integers greater than 1, x can be any proper factor of 105.\n105 = 3 × 5 × 7\nPossible values of x include: 3, 5, 7, 15, 21 and 35\nAmong these, 3, 5 and 7 are prime, whereas 15, 21 and 35 are composite.\nTherefore, Statement II alone is not sufficient.\nUsing Statements I and II together:\nFrom Statement I, possible values of x are 45, 20 and 5\nFrom Statement II, possible values of x are 3, 5, 7, 15, 21 and 35\nThe only common value is x = 5\nSince 5 is a prime number, the question can be answered by using both statements together.\nHence, option (c) is correct.[cite: 8]"
     }
   },
   {
@@ -969,8 +922,8 @@
       },
       {
         "id": 2,
-        "hi": "कथन II: N, p^{4}q^{2} के रूप में है, जहाँ p और q भिन्न अभाज्य संख्याएँ हैं।",
-        "en": "Statement II: N is of the form p^{4}q^{2} where p and q are distinct prime numbers."
+        "hi": "कथन II: N, p⁴q² के रूप में है, जहाँ p और q भिन्न अभाज्य संख्याएँ हैं।",
+        "en": "Statement II: N is of the form p⁴q² where p and q are distinct prime numbers."
       }
     ],
     "question": {
@@ -1001,8 +954,8 @@
     ],
     "correctAnswer": "B",
     "explanation": {
-      "hi": "कथन I: ठीक 15 धनात्मक गुणनखंडों वाली संख्या निम्नलिखित में से किसी भी एक रूप में हो सकती है:\nN = p^{14}\nया,\nN = p^{4}q^{2}\nपहली स्थिति में:\nN = p^{14} = (p^{7})^{2}\nइसलिये, N एक पूर्ण वर्ग है।\nदूसरी स्थिति में:\nN = p^{4}q^{2} = (p^{2}q)^{2}\nइसलिये, N यहाँ भी एक पूर्ण वर्ग है।\nइस प्रकार, केवल कथन I पर्याप्त है।\nकथन II: N = p^{4}q^{2}\nचूँकि सभी घातें सम हैं:\nN = (p^{2}q)^{2}\nइसलिये, N एक पूर्ण वर्ग है।\nइस प्रकार, केवल कथन II भी पर्याप्त है।\nअतः, प्रश्न का उत्तर किसी भी एक कथन का अकेले उपयोग करके दिया जा सकता है।\nअतः विकल्प (b) सही है।[cite: 8]",
-      "en": "Statement I: A number with exactly 15 positive factors can have either of the following forms:\nN = p^{14}\nOr,\nN = p^{4}q^{2}\nIn the first case:\nN = p^{14} = (p^{7})^{2}\nTherefore, N is a perfect square.\nIn the second case:\nN = p^{4}q^{2} = (p^{2}q)^{2}\nTherefore, N is also a perfect square.\nThus, Statement I alone is sufficient.\nStatement II:\nN = p^{4}q^{2}\nSince all the powers are even:\nN = (p^{2}q)^{2}\nTherefore, N is a perfect square.\nThus, Statement II alone is also sufficient.\nHence, the question can be answered using either statement alone.\nHence, option (b) is correct.[cite: 8]"
+      "hi": "कथन I: ठीक 15 धनात्मक गुणनखंडों वाली संख्या निम्नलिखित में से किसी भी एक रूप में हो सकती है:\nN = p¹⁴\nया,\nN = p⁴q²\nपहली स्थिति में:\nN = p¹⁴ = (p⁷)²\nइसलिये, N एक पूर्ण वर्ग है।\nदूसरी स्थिति में:\nN = p⁴q² = (p²q)²\nइसलिये, N यहाँ भी एक पूर्ण वर्ग है।\nइस प्रकार, केवल कथन I पर्याप्त है।\nकथन II: N = p⁴q²\nचूँकि सभी घातें सम हैं:\nN = (p²q)²\nइसलिये, N एक पूर्ण वर्ग है।\nइस प्रकार, केवल कथन II भी पर्याप्त है।\nअतः, प्रश्न का उत्तर किसी भी एक कथन का अकेले उपयोग करके दिया जा सकता है।\nअतः विकल्प (b) सही है।[cite: 8]",
+      "en": "Statement I: A number with exactly 15 positive factors can have either of the following forms:\nN = p¹⁴\nOr,\nN = p⁴q²\nIn the first case:\nN = p¹⁴ = (p⁷)²\nTherefore, N is a perfect square.\nIn the second case:\nN = p⁴q² = (p²q)²\nTherefore, N is also a perfect square.\nThus, Statement I alone is sufficient.\nStatement II:\nN = p⁴q²\nSince all the powers are even:\nN = (p²q)²\nTherefore, N is a perfect square.\nThus, Statement II alone is also sufficient.\nHence, the question can be answered using either statement alone.\nHence, option (b) is correct.[cite: 8]"
     }
   },
   {
@@ -1114,8 +1067,8 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "आशय 1: प्रतिबिंबित होता है – लेखक का कहना है कि डिजिटलीकृत अभिलेख प्राप्त करने योग्य बन जाते हैं, जबकि मौन रह गई उनकी मूल बातें और वर्गीकरणात्मक हिंसा कम दृश्यमान रहती हैं। यह भ्रामक पारदर्शिता के प्रति चिंता को दर्शाता है।\nआशय 2: प्रतिबिंबित नहीं होता है – परिच्छेद अभिलेखागारों को निरर्थक नहीं बताता और न ही औपनिवेशिक अभिलेखों को खारिज करने का आग्रह करता है। यह कहता है कि समस्या यह नहीं है कि अभिलेखागार निरर्थक हैं, बल्कि यह है कि उन्हें व्याख्या की आवश्यकता है।\nआशय 3: प्रतिबिंबित होता है – परिच्छेद खोज-योग्यता को व्याख्या से अलग करता है। यह इस बात पर बल देता है कि अभिलेखों तक पहुँच होना और उन ऐतिहासिक श्रेणियों को समझना दो अलग बातें हैं जिन्होंने उन्हें आकार दिया था।\nअतः, विकल्प (c) सही है।[cite: 8]",
-      "en": "Intent 1: Reflected - The writer states that digitised records become retrievable while their original silences and classificatory violence remain less visible. This shows concern with false transparency.\nIntent 2: Not reflected - The passage does not call archives useless or ask that colonial records be discarded. It says the problem is not that archives are useless but that they require interpretation.\nIntent 3: Reflected - The passage separates searchability from understanding. It stresses that access to records is not the same as grasping the historical categories that shaped them.\nHence, option (c) is correct.[cite: 8]"
+      "hi": "आशय 1: प्रतिबिंबित होता है – लेखक का कहना है कि डिजिटलीकृत अभिलेख प्राप्त करने योग्य बन जाते हैं, जबकि मौन रह गई उनकी मूल बातें और वर्गीकरणात्मक हिंसा कम दृश्यमान रहती हैं। यह भ्रामक पारदर्शिता के प्रति चिंता को दर्शाता है।\nआशय 2: प्रतिबिंबित नहीं होता है – परिच्छेद अभिलेखागारों को निरर्थक नहीं बताता और न ही औपनिवेशिक अभिलेखों को खारिज करने का आग्रह करता है। यह कहता है कि समस्या यह नहीं है कि अभिलेखागार निरर्थक हैं, बल्कि यह है कि उन्हें व्याख्या की आवश्यकता है।\nआशय 3: प्रतिबिंबित होता है – परिच्छेद खोज-योग्यता को व्याख्या से अलग करता है। यह इस बात पर बल देता है कि अभिलेखों तक पहुँच होना और उन ऐतिहासिक श्रेणियों को समझना दो अलग बातें हैं जिन्होंने उन्हें आकार दिया था।\nअतः, विकल्प (c) सही है।",
+      "en": "Intent 1: Reflected - The writer states that digitised records become retrievable while their original silences and classificatory violence remain less visible. This shows concern with false transparency.\nIntent 2: Not reflected - The passage does not call archives useless or ask that colonial records be discarded. It says the problem is not that archives are useless but that they require interpretation.\nIntent 3: Reflected - The passage separates searchability from understanding. It stresses that access to records is not the same as grasping the historical categories that shaped them.\nHence, option (c) is correct."
     }
   },
   {
@@ -1178,8 +1131,8 @@
     ],
     "correctAnswer": "A",
     "explanation": {
-      "hi": "कथन 1: सही – परिच्छेद यह सुझाव देता है कि जब अभिलेखों की मूल बाध्यताओं और वर्गीकरणों को भुला दिया जाता है, तो वे भ्रामक प्राधिकार प्राप्त कर लेते हैं। इसलिये, जिम्मेदार ऐतिहासिक उपयोग के लिये उन परिस्थितियों को पहचानना आवश्यक है।\nकथन 2: गलत – परिच्छेद इस विचार को खारिज करता है और कहता है कि जब पुनःप्राप्ति व्याख्या का स्थान ले लेती है, तो अतीत को खोजना आसान हो जाता है लेकिन समझना कठिन।\nकथन 3: सही – परिच्छेद में उल्लेख है कि अभिलेखागार का विरासत में मिला व्याकरण यह तय करता है कि क्या खोजने योग्य है। इसका निहितार्थ यह है कि अभिलेखागारीय श्रेणियाँ संगृहीत स्मृति और बाद में होने वाली पुनःप्राप्ति, दोनों को आकार देती हैं।\nकथन 4: गलत – परिच्छेद यह नहीं कहता कि डिजिटलीकरण प्रभुत्व का निर्माण करता है। यह कहता है कि डिजिटलीकरण मूल अभिलेखों में निहित प्रभुत्व को अस्पष्ट या पुनरुत्पादित कर सकता है।\nअतः, विकल्प (a) सही है।[cite: 8]",
-      "en": "Statement 1: Correct - The passage suggests that records gain misleading authority when their original coercions and classifications are forgotten. Therefore, recognising those conditions is essential to responsible historical use.\nStatement 2: Incorrect - The passage rejects this view by saying the past becomes easier to find but harder to understand when retrieval replaces interpretation.\nStatement 3: Correct - The passage says the archive's inherited grammar governs what is searchable. This implies that archival categories shape both stored memory and later recovery.\nStatement 4: Incorrect - The passage does not say digitisation creates domination. It says digitisation can obscure or reproduce the domination embedded in the original records.\nHence, option (a) is correct.[cite: 8]"
+      "hi": "कथन 1: सही – परिच्छेद यह सुझाव देता है कि जब अभिलेखों की मूल बाध्यताओं और वर्गीकरणों को भुला दिया जाता है, तो वे भ्रामक प्राधिकार प्राप्त कर लेते हैं। इसलिये, जिम्मेदार ऐतिहासिक उपयोग के लिये उन परिस्थितियों को पहचानना आवश्यक है।\nकथन 2: गलत – परिच्छेद इस विचार को खारिज करता है और कहता है कि जब पुनःप्राप्ति व्याख्या का स्थान ले लेती है, तो अतीत को खोजना आसान हो जाता है लेकिन समझना कठिन।\nकथन 3: सही – परिच्छेद में उल्लेख है कि अभिलेखागार का विरासत में मिला व्याकरण यह तय करता है कि क्या खोजने योग्य है। इसका निहितार्थ यह है कि अभिलेखागारीय श्रेणियाँ संगृहीत स्मृति और बाद में होने वाली पुनःप्राप्ति, दोनों को आकार देती हैं।\nकथन 4: गलत – परिच्छेद यह नहीं कहता कि डिजिटलीकरण प्रभुत्व का निर्माण करता है। यह कहता है कि डिजिटलीकरण मूल अभिलेखों में निहित प्रभुत्व को अस्पष्ट या पुनरुत्पादित कर सकता है।\nअतः, विकल्प (a) सही है।",
+      "en": "Statement 1: Correct - The passage suggests that records gain misleading authority when their original coercions and classifications are forgotten. Therefore, recognising those conditions is essential to responsible historical use.\nStatement 2: Incorrect - The passage rejects this view by saying the past becomes easier to find but harder to understand when retrieval replaces interpretation.\nStatement 3: Correct - The passage says the archive's inherited grammar governs what is searchable. This implies that archival categories shape both stored memory and later recovery.\nStatement 4: Incorrect - The passage does not say digitisation creates domination. It says digitisation can obscure or reproduce the domination embedded in the original records.\nHence, option (a) is correct."
     }
   },
   {
@@ -1192,13 +1145,13 @@
     "statements": [
       {
         "id": 1,
-        "hi": "कथन I: x^{2}y, 16 से विभाज्य है और y विषम है।",
-        "en": "Statement I: x^{2}y is divisible by 16, and y is odd."
+        "hi": "कथन I: x²y, 16 से विभाज्य है और y विषम है।",
+        "en": "Statement I: x²y is divisible by 16, and y is odd."
       },
       {
         "id": 2,
-        "hi": "कथन II: xy^{2}, 8 से विभाज्य है।",
-        "en": "Statement II: xy^{2} is divisible by 8."
+        "hi": "कथन II: xy², 8 से विभाज्य है।",
+        "en": "Statement II: xy² is divisible by 8."
       }
     ],
     "question": {
@@ -1223,14 +1176,14 @@
       },
       {
         "id": "D",
-        "hi": "इस विकल्प का चयन करें यदि दोनों कथनों का उपयोग करके भी प्रश्न का उत्तर नहीं दिया जा सकता है।",
+        "hi": "इस विकल्प का चयन करें यदि दोनों कथनों का एक साथ उपयोग करके भी प्रश्न का उत्तर नहीं दिया जा सकता है।",
         "en": "Select this option if the question cannot be answered even using both the statements."
       }
     ],
     "correctAnswer": "A",
     "explanation": {
-      "hi": "हमें यह निर्धारित करना है कि क्या x, 4 से विभाज्य है।\nकथन I: x^{2}y, 16 से विभाज्य है और y विषम है।\nचूँकि y विषम है, इसमें 2 का कोई भी गुणनखंड शामिल नहीं है।\nइसलिये, 16 से विभाज्यता के लिये आवश्यक 2 के सभी चार गुणनखंड x^{2} से ही आने चाहिये।\nइस प्रकार, x^{2}, 16 से विभाज्य है।\nइसलिये, x को 4 से विभाज्य होना ही चाहिये।\nउदाहरण के लिये, यदि x = 4, तो x^{2} = 16, जो 16 से विभाज्य है।\nइसलिये, केवल कथन I प्रश्न का उत्तर देने के लिये पर्याप्त है。\nकथन II: xy^{2}, 8 से विभाज्य है।\nयह कथन यह निर्धारित नहीं करता है कि क्या x, 4 से विभाज्य है।\nउदाहरण के लिये: यदि x = 8 और y = 1, तो xy^{2} = 8 \\times 1^{2} = 8, जो 8 से विभाज्य है और x, 4 से विभाज्य है।\nहालाँकि, यदि x = 2 और y = 2, तो xy^{2} = 2 \\times 2^{2} = 8, जो 8 से विभाज्य है, लेकिन x, 4 से विभाज्य नहीं है।\nइसलिये, केवल कथन II पर्याप्त नहीं है।\nअतः, प्रश्न का उत्तर केवल कथन I का उपयोग करके दिया जा सकता है, लेकिन केवल कथन II का उपयोग करके नहीं दिया जा सकता है।\nअतः विकल्प (a) सही है।[cite: 8]",
-      "en": "We have to determine whether x is divisible by 4.\nStatement I: x^{2}y is divisible by 16, and y is odd.\nSince y is odd, it does not contain any factor of 2.\nTherefore, all four factors of 2 required for divisibility by 16 must come from x^{2}.\nThus, x^{2} is divisible by 16.\nSo, x must be divisible by 4.\nFor example, if x = 4, then x^{2} = 16, which is divisible by 16.\nTherefore, Statement I alone is sufficient to answer the question.\nStatement II: xy^{2} is divisible by 8.\nThis statement does not determine whether x is divisible by 4.\nFor example: If x = 8 and y = 1, then xy^{2} = 8 \\times 1^{2} = 8, which is divisible by 8, and x is divisible by 4.\nHowever, if x = 2 and y = 2, then xy^{2} = 2 \\times 2^{2} = 8, which is divisible by 8, but x is not divisible by 4.\nTherefore, Statement II alone is not sufficient.\nHence, the question can be answered using Statement I alone, but cannot be answered using Statement II alone.\nHence, option (a) is correct.[cite: 8]"
+      "hi": "हमें यह निर्धारित करना है कि क्या x, 4 से विभाज्य है।\nकथन I: x²y, 16 से विभाज्य है और y विषम है।\nचूँकि y विषम है, इसमें 2 का कोई भी गुणनखंड शामिल नहीं है।\nइसलिये, 16 से विभाज्यता के लिये आवश्यक 2 के सभी चार गुणनखंड x² से ही आने चाहिये।\nइस प्रकार, x², 16 से विभाज्य है।\nइसलिये, x को 4 से विभाज्य होना ही चाहिये।\nउदाहरण के लिये, यदि x = 4, तो x² = 16, जो 16 से विभाज्य है।\nइसलिये, केवल कथन I प्रश्न का उत्तर देने के लिये पर्याप्त है।\nकथन II: xy², 8 से विभाज्य है।\nयह कथन यह निर्धारित नहीं करता है कि क्या x, 4 से विभाज्य है।\nउदाहरण के लिये: यदि x = 8 और y = 1, तो xy² = 8 × 1² = 8, जो 8 से विभाज्य है और x, 4 से विभाज्य है।\nहालाँकि, यदि x = 2 और y = 2, तो xy² = 2 × 2² = 8, जो 8 से विभाज्य है, लेकिन x, 4 से विभाज्य नहीं है।\nइसलिये, केवल कथन II पर्याप्त नहीं है।\nअतः, प्रश्न का उत्तर केवल कथन I का उपयोग करके दिया जा सकता है, लेकिन केवल कथन II का उपयोग करके नहीं दिया जा सकता है।\nअतः विकल्प (a) सही है।",
+      "en": "We have to determine whether x is divisible by 4.\nStatement I: x²y is divisible by 16, and y is odd.\nSince y is odd, it does not contain any factor of 2.\nTherefore, all four factors of 2 required for divisibility by 16 must come from x².\nThus, x² is divisible by 16.\nSo, x must be divisible by 4.\nFor example, if x = 4, then x² = 16, which is divisible by 16.\nTherefore, Statement I alone is sufficient to answer the question.\nStatement II: xy² is divisible by 8.\nThis statement does not determine whether x is divisible by 4.\nFor example: If x = 8 and y = 1, then xy² = 8 × 1² = 8, which is divisible by 8, and x is divisible by 4.\nHowever, if x = 2 and y = 2, then xy² = 2 × 2² = 8, which is divisible by 8, but x is not divisible by 4.\nTherefore, Statement II alone is not sufficient.\nHence, the question can be answered using Statement I alone, but cannot be answered using Statement II alone.\nHence, option (a) is correct."
     }
   },
   {
@@ -1269,8 +1222,8 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "एक लीप वर्ष में 366 दिन = 52 \\text{ सप्ताह} + 2 \\text{ दिन} होते हैं।\n52 सप्ताह में: शनिवार = 52 और रविवार = 52\nशेष 2 दिन लगातार आने वाले दिन होते हैं।\nशनिवारों और रविवारों की कुल संख्या को अधिकतम करने के लिये, अतिरिक्त दो दिन शनिवार और रविवार होने चाहिये।\nतब: शनिवार = 52 + 1 = 53 और रविवार = 52 + 1 = 53\nइसलिये, शनिवारों और रविवारों का अधिकतम योग 53 + 53 = 106 है।\nअतः विकल्प (c) सही है।[cite: 8]",
-      "en": "A leap year has 366 days = 52 \\text{ weeks} + 2 \\text{ days}.\nIn 52 weeks: Saturdays = 52 and Sundays = 52.\nThe remaining 2 days are consecutive days.\nTo maximize the total number of Saturdays and Sundays, the extra two days should be Saturday and Sunday.\nThen: Saturdays = 52 + 1 = 53 and Sundays = 52 + 1 = 53.\nTherefore, the maximum sum of Saturdays and Sundays is 53 + 53 = 106.\nHence, option (c) is correct.[cite: 8]"
+      "hi": "एक लीप वर्ष में 366 दिन = 52 सप्ताह + 2 दिन होते हैं।\n52 सप्ताह में: शनिवार = 52 और रविवार = 52\nशेष 2 दिन लगातार आने वाले दिन होते हैं।\nशनिवारों और रविवारों की कुल संख्या को अधिकतम करने के लिये, अतिरिक्त दो दिन शनिवार और रविवार होने चाहिये।\nतब: शनिवार = 52 + 1 = 53 और रविवार = 52 + 1 = 53\nइसलिये, शनिवारों और रविवारों का अधिकतम योग 53 + 53 = 106 है।\nअतः विकल्प (c) सही है।",
+      "en": "A leap year has 366 days = 52 weeks + 2 days.\nIn 52 weeks: Saturdays = 52 and Sundays = 52.\nThe remaining 2 days are consecutive days.\nTo maximize the total number of Saturdays and Sundays, the extra two days should be Saturday and Sunday.\nThen: Saturdays = 52 + 1 = 53 and Sundays = 52 + 1 = 53.\nTherefore, the maximum sum of Saturdays and Sundays is 53 + 53 = 106.\nHence, option (c) is correct."
     }
   },
   {
@@ -1328,8 +1281,8 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "पूर्वधारणा 1: वैध – परिच्छेद में यह तर्क दिया गया है कि एकधान्य कृषि बीज विविधता, परागणकर्त्ता गतिशीलता, सूक्ष्मजीवी मृदा संबंध और शिकारी-शिकार संतुलन जैसी पारिस्थितिकीय अतिरेकताओं को दबाती है। ये घटक व्यवधानों के विरुद्ध बफर्स के रूप में कार्य करते हैं।\nपूर्वधारणा 2: अवैध – परिच्छेद रासायनिक अनुसूची और बीमा को पारिस्थितिकीय लचीलेपन के रूप में नहीं मानता है। यह उन्हें प्रबंधकीय स्पष्टता के साधनों के रूप में प्रस्तुत करता है जो गहरी पारिस्थितिकीय सुभेद्यता को छिपाते हैं।\nपूर्वधारणा 3: वैध – जैव विविधता को अलंकृत संरक्षण के रूप में वर्णित नहीं किया गया है। इसे उत्पादन के ही एक भाग के रूप में माना गया है, क्योंकि यह फसल की विफलता के दृश्यमान होने से पहले जोखिम का वितरण करती है।\nअतः, विकल्प (c) सही है।[cite: 8]",
-      "en": "Assumption 1: Valid - The passage argues that monoculture suppresses ecological redundancies such as seed diversity, pollinator movement, microbial soil relations and predator-prey balances. These elements operate as buffers against disturbance.\nAssumption 2: Invalid - The passage does not treat chemical scheduling and insurance as ecological resilience. It presents them as instruments of managerial clarity that obscure deeper ecological vulnerability.\nAssumption 3: Valid - Biodiversity is not described as ornamental conservation. It is treated as part of production itself, since it distributes risk before crop failure becomes visible.\nHence, option (c) is correct.[cite: 8]"
+      "hi": "पूर्वधारणा 1: वैध – परिच्छेद में यह तर्क दिया गया है कि एकधान्य कृषि बीज विविधता, परागणकर्त्ता गतिशीलता, सूक्ष्मजीवी मृदा संबंध और शिकारी-शिकार संतुलन जैसी पारिस्थितिकीय अतिरेकता को दबाती है। ये घटक व्यवधानों के विरुद्ध बफर्स के रूप में कार्य करते हैं।\nपूर्वधारणा 2: अवैध – परिच्छेद रासायनिक अनुसूची और बीमा को पारिस्थितिकीय लचीलेपन के रूप में नहीं मानता है। यह उन्हें प्रबंधकीय स्पष्टता के साधनों के रूप में प्रस्तुत करता है जो गहरी पारिस्थितिकीय सुभेद्यता को छिपाते हैं।\nपूर्वधारणा 3: वैध – जैव विविधता को अलंकृत संरक्षण के रूप में वर्णित नहीं किया गया है। इसे उत्पादन के ही एक भाग के रूप में माना गया है, क्योंकि यह फसल की विफलता के दृश्यमान होने से पहले जोखिम का वितरण करती है।\nअतः, विकल्प (c) सही है।",
+      "en": "Assumption 1: Valid - The passage argues that monoculture suppresses ecological redundancies such as seed diversity, pollinator movement, microbial soil relations and predator-prey balances. These elements operate as buffers against disturbance.\nAssumption 2: Invalid - The passage does not treat chemical scheduling and insurance as ecological resilience. It presents them as instruments of managerial clarity that obscure deeper ecological vulnerability.\nAssumption 3: Valid - Biodiversity is not described as ornamental conservation. It is treated as part of production itself, since it distributes risk before crop failure becomes visible.\nHence, option (c) is correct."
     }
   },
   {
@@ -1392,8 +1345,8 @@
     ],
     "correctAnswer": "A",
     "explanation": {
-      "hi": "कथन 1: सही – परिच्छेद में उल्लेख है कि जब लेखांकन की सुविधा के लिये पारिस्थितिकीय विविधता को सरलीकृत किया जाता है, तो कृषि आगत-अनुक्रियाशील सतह बन जाती है। यह पारिस्थितिकीय गहराई का स्थान प्रशासनिक प्रबंधनीयता द्वारा लिये जाने की आलोचना को दर्शाता है।\nकथन 2: गलत – परिच्छेद स्पष्ट रूप से कहता है कि खतरा किसी विशेष फसल की खेती करने में नहीं है, बल्कि जैविक समरूपता को प्रबंधकीय दक्षता मानने में निहित है।\nकथन 3: सही – परिच्छेद बीज विविधता, परागणकर्त्ता गतिशीलता, सूक्ष्मजीवी मृदा संबंध और शिकारी-शिकार संतुलन को पारिस्थितिकीय अतिरेकता के ऐसे रूपों में सूचीबद्ध करता है जो जोखिम का वितरण करते हैं।\nकथन 4: गलत – जैविक समरूपता को पारिस्थितिकीय समन्वय के विकल्प के रूप में प्रस्तुत नहीं किया गया है। इसे बाद में उत्पन्न होने वाली प्रणालीगत सुभेद्यता के स्रोत के रूप में दिखाया गया है।\nअतः, विकल्प (a) सही है।[cite: 8]",
-      "en": "Statement 1: Correct - The passage says farming becomes an input-responsive surface when ecological diversity is simplified for accounting convenience. This indicates criticism of administrative manageability replacing ecological depth.\nStatement 2: Incorrect - The passage states that the danger lies not in cultivating a particular crop, but in treating biological sameness as managerial efficiency.\nStatement 3: Correct - The passage lists seed diversity, pollinator movement, microbial soil relations and predator-prey balances as forms of ecological redundancy that distribute risk.\nStatement 4: Incorrect - Biological sameness is not presented as a substitute for ecological coordination. It is shown as the source of later systemic vulnerability.\nHence, option (a) is correct.[cite: 8]"
+      "hi": "कथन 1: सही – परिच्छेद में उल्लेख है कि जब लेखांकन की सुविधा के लिये पारिस्थितिकीय विविधता को सरलीकृत किया जाता है, तो कृषि आगत-अनुक्रियाशील सतह बन जाती है। यह पारिस्थितिकीय गहराई का स्थान प्रशासनिक प्रबंधनीयता द्वारा लिये जाने की आलोचना को दर्शाता है।\nकथन 2: गलत – परिच्छेद स्पष्ट रूप से कहता है कि खतरा किसी विशेष फसल की खेती करने में नहीं है, बल्कि जैविक समरूपता को प्रबंधकीय दक्षता मानने में निहित है।\nकथन 3: सही – परिच्छेद बीज विविधता, परागणकर्त्ता गतिशीलता, सूक्ष्मजीवी मृदा संबंध और शिकारी-शिकार संतुलन को पारिस्थितिकीय अतिरेकता के ऐसे रूपों में सूचीबद्ध करता है जो जोखिम का वितरण करते हैं।\nकथन 4: गलत – जैविक समरूपता को पारिस्थितिकीय समन्वय के विकल्प के रूप में प्रस्तुत नहीं किया गया है। इसे बाद में उत्पन्न होने वाली प्रणालीगत सुभेद्यता के स्रोत के रूप में दिखाया गया है।\nअतः, विकल्प (a) सही है।",
+      "en": "Statement 1: Correct - The passage says farming becomes an input-responsive surface when ecological diversity is simplified for accounting convenience. This indicates criticism of administrative manageability replacing ecological depth.\nStatement 2: Incorrect - The passage states that the danger lies not in cultivating a particular crop, but in treating biological sameness as managerial efficiency.\nStatement 3: Correct - The passage lists seed diversity, pollinator movement, microbial soil relations and predator-prey balances as forms of ecological redundancy that distribute risk.\nStatement 4: Incorrect - Biological sameness is not presented as a substitute for ecological coordination. It is shown as the source of later systemic vulnerability.\nHence, option (a) is correct."
     }
   },
   {
@@ -1432,8 +1385,8 @@
     ],
     "correctAnswer": "B",
     "explanation": {
-      "hi": "अगले महीने की 13 तारीख फिर से शुक्रवार तभी हो सकती है जब दोनों 13 तारीखों के बीच के दिनों की संख्या 7 का गुणज हो।\nलगातार महीनों की 13 तारीखों के बीच का अंतर पिछले महीने के कुल दिनों की संख्या के बराबर होता है।\nमहीनों के संभावित दिन:\n31 दिन \\implies 7 से विभाजित करने पर शेषफल 3\n30 दिन \\implies 7 से विभाजित करने पर शेषफल 2\n29 दिन (लीप वर्ष में फरवरी) \\implies 7 से विभाजित करने पर शेषफल 1\nइनमें से कोई भी 7 से विभाज्य नहीं है। इसलिये, दो लगातार महीनों में 13 तारीख को शुक्रवार नहीं हो सकता।\nअब, दो महीनों के अंतर के लिये:\n31 + 29 = 60; 7 से विभाजित करने पर शेषफल 4\n31 + 30 = 61; 7 से विभाजित करने पर शेषफल 5\n29 + 30 = 59; 7 से विभाजित करने पर शेषफल 3\nयह भी 7 से विभाज्य नहीं है।\nअब, तीन महीनों के अंतर के लिये:\nसबसे छोटा संभावित योग 29 + 30 + 31 = 90 है; लेकिन यह 7 से विभाज्य नहीं है।\n31 + 31 + 30 = 92; 7 से विभाज्य नहीं है।\n30 + 31 + 30 = 91; इसे 7 से विभाजित करने पर शेषफल 0 प्राप्त होता है।\nअगला शुक्रवार 13 तारीख 91 दिनों के बाद आ सकता है।\nअतः विकल्प (b) सही है।[cite: 8]",
-      "en": "The 13th of next month can again be a Friday only if the number of days between the two 13ths is a multiple of 7.\nThe gap between the 13th of consecutive months equals the number of days in the earlier month.\nPossible month lengths:\n31 days \\implies remainder 3 when divided by 7\n30 days \\implies remainder 2 when divided by 7\n29 days (February in a leap year) \\implies remainder 1 when divided by 7\nNone of these are divisible by 7. Hence, two consecutive months cannot both have Friday the 13th.\nNow, for two months gaps:\n31 + 29 = 60; remainder 4 when divided by 7.\n31 + 30 = 61; remainder 5 when divided by 7.\n29 + 30 = 59; remainder 3 when divided by 7.\nStill not divisible by 7.\nNow, for three months gaps:\nThe smallest possible sum is 29 + 30 + 31 = 90; but it is not divisible by 7.\n31 + 31 + 30 = 92; not divisible by 7.\n30 + 31 + 30 = 91; it gives remainder 0 when divided by 7.\nThe next Friday the 13th can occur 91 days later.\nHence, option (b) is correct.[cite: 8]"
+      "hi": "अगले महीने की 13 तारीख फिर से शुक्रवार तभी हो सकती है जब दोनों 13 तारीखों के बीच के दिनों की संख्या 7 का गुणज हो।\nलगातार महीनों की 13 तारीखों के बीच का अंतर पिछले महीने के कुल दिनों की संख्या के बराबर होता है।\nमहीनों के संभावित दिन:\n31 दिन → 7 से विभाजित करने पर शेषफल 3\n30 दिन → 7 से विभाजित करने पर शेषफल 2\n29 दिन (लीप वर्ष में फरवरी) → 7 से विभाजित करने पर शेषफल 1\nइनमें से कोई भी 7 से विभाज्य नहीं है। इसलिये, दो लगातार महीनों में 13 तारीख को शुक्रवार नहीं हो सकता।\nअब, दो महीनों के अंतर के लिये:\n31 + 29 = 60; 7 से विभाजित करने पर शेषफल 4\n31 + 30 = 61; 7 से विभाजित करने पर शेषफल 5\n29 + 30 = 59; 7 से विभाजित करने पर शेषफल 3\nयह भी 7 से विभाज्य नहीं है।\nअब, तीन महीनों के अंतर के लिये:\nसबसे छोटा संभावित योग 29 + 30 + 31 = 90 है; लेकिन यह 7 से विभाज्य नहीं है।\n31 + 31 + 30 = 92; 7 से विभाज्य नहीं है।\n30 + 31 + 30 = 91; इसे 7 से विभाजित करने पर शेषफल 0 प्राप्त होता है।\nअगला शुक्रवार 13 तारीख 91 दिनों के बाद आ सकता है।\nअतः विकल्प (b) सही है।",
+      "en": "The 13th of next month can again be a Friday only if the number of days between the two 13ths is a multiple of 7.\nThe gap between the 13th of consecutive months equals the number of days in the earlier month.\nPossible month lengths:\n31 days → remainder 3 when divided by 7\n30 days → remainder 2 when divided by 7\n29 days (February in a leap year) → remainder 1 when divided by 7\nNone of these are divisible by 7. Hence, two consecutive months cannot both have Friday the 13th.\nNow, for two months gaps:\n31 + 29 = 60; remainder 4 when divided by 7.\n31 + 30 = 61; remainder 5 when divided by 7.\n29 + 30 = 59; remainder 3 when divided by 7.\nStill not divisible by 7.\nNow, for three months gaps:\nThe smallest possible sum is 29 + 30 + 31 = 90; but it is not divisible by 7.\n31 + 31 + 30 = 92; not divisible by 7.\n30 + 31 + 30 = 91; it gives remainder 0 when divided by 7.\nThe next Friday the 13th can occur 91 days later.\nHence, option (b) is correct."
     }
   },
   {
@@ -1472,8 +1425,8 @@
     ],
     "correctAnswer": "A",
     "explanation": {
-      "hi": "मान लीजिये अभीष्ट दिन 17 अगस्त से x दिन पहले है।\nसाथ ही, इस दिन से 50 दिन पहले, 30 मार्च से 4x दिन हो चुके थे।\nइसका अर्थ है, 30 मार्च से अभीष्ट दिन तक के दिन = 4x + 50\nअब, 30 मार्च से 17 अगस्त तक के कुल दिन = 140 \\text{ दिन}\nमार्च = 1 \\text{ दिन}\nअप्रैल = 30 \\text{ दिन}\nमई = 31 \\text{ दिन}\nजून = 30 \\text{ दिन}\nजुलाई = 31 \\text{ दिन}\nअगस्त (1\\text{-}17) = 17 \\text{ दिन}\nकुल दिन = 1 + 30 + 31 + 30 + 31 + 17 = 140 \\text{ दिन}\nचूँकि अभीष्ट दिन 17 अगस्त से x दिन पहले है,\n30 मार्च से अभीष्ट दिन तक के दिन = 140 - x\nसाथ ही, अभीष्ट दिन से 50 दिन पहले, 30 मार्च से 4x दिन बीत चुके थे।\nइसलिये, (140 - x) - 50 = 4x\n90 - x = 4x\n5x = 90\nx = \\frac{90}{5} = 18\nअतः विकल्प (a) सही है।[cite: 8]",
-      "en": "Let the required day be x days before 17 August.\nAlso, 50 days before this day, it was 4x days since 30 March.\nThis means, days from 30 March to the required day = 4x + 50\nNow, days from 30 March to 17 August = 140 \\text{ days}\nMarch = 1 \\text{ day}\nApril = 30 \\text{ days}\nMay = 31 \\text{ days}\nJune = 30 \\text{ days}\nJuly = 31 \\text{ days}\nAugust (1\\text{-}17) = 17 \\text{ days}\nTotal days = 1 + 30 + 31 + 30 + 31 + 17 = 140 \\text{ days}\nSince the required day is x days before 17 August,\nDays from 30 March to the required day = 140 - x\nAlso, 50 days before the required day, it was 4x days since 30 March.\nSo, (140 - x) - 50 = 4x\n90 - x = 4x\n5x = 90\nx = \\frac{90}{5} = 18\nHence, option (a) is correct.[cite: 8]"
+      "hi": "मान लीजिये अभीष्ट दिन 17 अगस्त से x दिन पहले है।\nसाथ ही, इस दिन से 50 दिन पहले, 30 मार्च से 4x दिन हो चुके थे।\nइसका अर्थ है, 30 मार्च से अभीष्ट दिन तक के दिन = 4x + 50\nअब, 30 मार्च से 17 अगस्त तक के कुल दिन = 140 दिन\nमार्च = 1 दिन\nअप्रैल = 30 दिन\nमई = 31 दिन\nजून = 30 दिन\nजुलाई = 31 दिन\nअगस्त (1-17) = 17 दिन\nकुल दिन = 1 + 30 + 31 + 30 + 31 + 17 = 140 दिन\nचूँकि अभीष्ट दिन 17 अगस्त से x दिन पहले है,\n30 मार्च से अभीष्ट दिन तक के दिन = 140 - x\nसाथ ही, अभीष्ट दिन से 50 दिन पहले, 30 मार्च से 4x दिन बीत चुके थे।\nइसलिये, (140 - x) - 50 = 4x\n90 - x = 4x\n5x = 90\nx = 90 / 5 = 18\nअतः विकल्प (a) सही है।",
+      "en": "Let the required day be x days before 17 August.\nAlso, 50 days before this day, it was 4x days since 30 March.\nThis means, days from 30 March to the required day = 4x + 50\nNow, days from 30 March to 17 August = 140 days\nMarch = 1 day\nApril = 30 days\nMay = 31 days\nJune = 30 days\nJuly = 31 days\nAugust (1-17) = 17 days\nTotal days = 1 + 30 + 31 + 30 + 31 + 17 = 140 days\nSince the required day is x days before 17 August,\nDays from 30 March to the required day = 140 - x\nAlso, 50 days before the required day, it was 4x days since 30 March.\nSo, (140 - x) - 50 = 4x\n90 - x = 4x\n5x = 90\nx = 90 / 5 = 18\nHence, option (a) is correct."
     }
   },
   {
@@ -1512,8 +1465,8 @@
     ],
     "correctAnswer": "B",
     "explanation": {
-      "hi": "दिया गया है कि 30 दिनों वाले महीने का पहला कार्य दिवस मंगलवार है।\nचूँकि शनिवार और रविवार छुट्टियाँ हैं, इसलिये महीने का पहला दिन (1 तारीख) अवश्य ही मंगलवार होना चाहिये।\n30 दिनों का महीना अगले महीने के पहले दिन को 2 दिन आगे बढ़ा देता है। (जब 30 को 7 से विभाजित किया जाता है, तो शेषफल 2 प्राप्त होता है।)\nइसलिये, अगले महीने का पहला दिन \\text{मंगलवार} + 2 = \\text{गुरुवार} होगा।\nचूँकि गुरुवार एक कार्य दिवस है।\nइसलिये, केतन का अगला आकस्मिक अवकाश गुरुवार को होगा।\nअतः विकल्प (b) सही है।[cite: 8]",
-      "en": "Given the first working day of a 30-day month is Tuesday.\nSince Saturday and Sunday are holidays, the 1st day of the month must be Tuesday.\nA 30-day month shifts the first day of the next month by 2 days. (When 30 is divided by 7 it gives 2 as remainder.)\nSo, the first day of the next month is \\text{Tuesday} + 2 = \\text{Thursday}.\nSince Thursday is a working day.\nTherefore, Ketan's next casual leave will be on Thursday.\nHence, option (b) is correct.[cite: 8]"
+      "hi": "दिया गया है कि 30 दिनों वाले महीने का पहला कार्य दिवस मंगलवार है।\nचूँकि शनिवार और रविवार छुट्टियाँ हैं, इसलिये महीने का पहला दिन (1 तारीख) अवश्य ही मंगलवार होना चाहिये।\n30 दिनों का महीना अगले महीने के पहले दिन को 2 दिन आगे बढ़ा देता है। (जब 30 को 7 से विभाजित किया जाता है, तो शेषफल 2 प्राप्त होता है।)\nइसलिये, अगले महीने का पहला दिन मंगलवार + 2 = गुरुवार होगा।\nचूँकि गुरुवार एक कार्य दिवस है।\nइसलिये, केतन का अगला आकस्मिक अवकाश गुरुवार को होगा।\nअतः विकल्प (b) सही है।",
+      "en": "Given the first working day of a 30-day month is Tuesday.\nSince Saturday and Sunday are holidays, the 1st day of the month must be Tuesday.\nA 30-day month shifts the first day of the next month by 2 days. (When 30 is divided by 7 it gives 2 as remainder.)\nSo, the first day of the next month is Tuesday + 2 = Thursday.\nSince Thursday is a working day.\nTherefore, Ketan's next casual leave will be on Thursday.\nHence, option (b) is correct."
     }
   },
   {
@@ -1563,8 +1516,8 @@
     ],
     "correctAnswer": "B",
     "explanation": {
-      "hi": "कथन 1: केवल यह जानने से कि महीने का अंतिम दिन सोमवार था, 25 तारीख का दिन निश्चित रूप से निर्धारित नहीं होता है क्योंकि महीने में 28, 29, 30 या 31 दिन हो सकते हैं। केवल कथन 1 पर्याप्त नहीं है।\nकथन 2: यदि दूसरा रविवार 13 तारीख को है, तो\n13 = रविवार\n14 = सोमवार\n15 = मंगलवार...\n... 25 = शुक्रवार\nइस प्रकार, 25 तारीख का दिन निश्चित रूप से निर्धारित हो जाता है।\nइसलिये, केवल कथन 2 पर्याप्त है।\nअतः विकल्प (b) सही है।[cite: 8]",
-      "en": "Statement 1: Knowing only that the last day of the month was Monday does not uniquely determine the weekday of the 25th because the month could have 28, 29, 30, or 31 days. Statement 1 alone is not sufficient.\nStatement 2: If the second Sunday is the 13th, then\n13 = Sunday\n14 = Monday\n15 = Tuesday...\n... 25 = Friday\nThus, the weekday of the 25th is uniquely determined.\nSo, statement 2 alone is sufficient.\nHence, option (b) is correct.[cite: 8]"
+      "hi": "कथन 1: केवल यह जानने से कि महीने का अंतिम दिन सोमवार था, 25 तारीख का दिन निश्चित रूप से निर्धारित नहीं होता है क्योंकि महीने में 28, 29, 30 या 31 दिन हो सकते हैं। केवल कथन 1 पर्याप्त नहीं है।\nकथन 2: यदि दूसरा रविवार 13 तारीख को है, तो\n13 = रविवार\n14 = सोमवार\n15 = मंगलवार...\n... 25 = शुक्रवार\nइस प्रकार, 25 तारीख का दिन निश्चित रूप से निर्धारित हो जाता है।\nइसलिये, केवल कथन 2 पर्याप्त है।\nअतः विकल्प (b) सही है।",
+      "en": "Statement 1: Knowing only that the last day of the month was Monday does not uniquely determine the weekday of the 25th because the month could have 28, 29, 30, or 31 days. Statement 1 alone is not sufficient.\nStatement 2: If the second Sunday is the 13th, then\n13 = Sunday\n14 = Monday\n15 = Tuesday...\n... 25 = Friday\nThus, the weekday of the 25th is uniquely determined.\nSo, statement 2 alone is sufficient.\nHence, option (b) is correct."
     }
   },
   {
@@ -1622,8 +1575,8 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "पूर्वधारणा 1: वैध – परिच्छेद संचित अवसंरचना, राजकोषीय क्षमता, ऐतिहासिक उत्सर्जनों, ऊर्जा पहुँच और अनुकूलन हानि के संदर्भ में विकसित अर्थव्यवस्थाओं और विकासशील देशों के बीच अंतर को स्पष्ट करता है।\nपूर्वधारणा 2: अवैध – परिच्छेद उस हरित वित्त पर प्रश्न उठाता है जो ऋणों, जोखिम मुक्त पूंजी और परियोजनाबद्ध फंड के माध्यम से आता है जो जलवायु न्याय को केवल बैंक-योग्य शमन में बदल देते हैं।\nपूर्वधारणा 3: वैध – परिच्छेद न्यायसंगत संक्रमण को केवल शमन के लेखांकन के रूप में नहीं, बल्कि असमान शुरुआती बिंदुओं, अनुकूलन हानि, ऊर्जा पहुँच, ऋण जोखिम और विकासात्मक आवश्यकता को शामिल करने वाली प्रक्रिया के रूप में मानता है।\nअतः, विकल्प (c) सही है।[cite: 8]",
-      "en": "Assumption 1: Valid - The passage contrasts developed economies with developing countries in terms of accumulated infrastructure, fiscal depth, historic emissions, energy access and adaptation loss.\nAssumption 2: Invalid - The passage questions green finance when it appears through loans, de-risked capital and project-tied funds that convert climate justice into bankable mitigation.\nAssumption 3: Valid - The passage treats just transition as involving unequal starting points, adaptation loss, energy access, debt exposure and developmental necessity, not mitigation accounting alone.\nHence, option (c) is correct.[cite: 8]"
+      "hi": "पूर्वधारणा 1: वैध – परिच्छेद संचित अवसंरचना, राजकोषीय क्षमता, ऐतिहासिक उत्सर्जनों, ऊर्जा पहुँच और अनुकूलन हानि के संदर्भ में विकसित अर्थव्यवस्थाओं और विकासशील देशों के बीच अंतर को स्पष्ट करता है।\nपूर्वधारणा 2: अवैध – परिच्छेद उस हरित वित्त पर प्रश्न उठाता है जो ऋणों, जोखिम मुक्त पूंजी और परियोजनाबद्ध फंड के माध्यम से आता है जो जलवायु न्याय को केवल बैंक-योग्य शमन में बदल देते हैं।\nपूर्वधारणा 3: वैध – परिच्छेद न्यायसंगत संक्रमण को केवल शमन के लेखांकन के रूप में नहीं, बल्कि असमान शुरुआती बिंदुओं, अनुकूलन हानि, ऊर्जा पहुँच, ऋण जोखिम और विकासात्मक आवश्यकता को शामिल करने वाली प्रक्रिया के रूप में मानता है।\nअतः, विकल्प (c) सही है।",
+      "en": "Assumption 1: Valid - The passage contrasts developed economies with developing countries in terms of accumulated infrastructure, fiscal depth, historic emissions, energy access and adaptation loss.\nAssumption 2: Invalid - The passage questions green finance when it appears through loans, de-risked capital and project-tied funds that convert climate justice into bankable mitigation.\nAssumption 3: Valid - The passage treats just transition as involving unequal starting points, adaptation loss, energy access, debt exposure and developmental necessity, not mitigation accounting alone.\nHence, option (c) is correct."
     }
   },
   {
@@ -1686,8 +1639,8 @@
     ],
     "correctAnswer": "A",
     "explanation": {
-      "hi": "कथन 1: सही – परिच्छेद में यह तर्क दिया गया है कि तुलनीय भविष्य की तिथियाँ ऐतिहासिक उत्सर्जनों, राजकोषीय क्षमता, ऊर्जा पहुँच और विकासात्मक आवश्यकता के अंतरों को छिपा देती हैं।\nकथन 2: गलत – समस्या प्रतिज्ञा करने में विफलता नहीं है। परिच्छेद वित्तपोषण की शर्तों, ऋण जोखिम और जलवायु न्याय व बैंक-योग्य शमन के बीच के असंगति पर ध्यान केंद्रित करता है।\nकथन 3: सही – परिच्छेद में उल्लेख है कि ऋण, जोखिम-मुक्त पूंजी और परियोजनाबद्ध फंड जलवायु न्याय को बैंक-योग्य शमन में बदल देते हैं। यह परियोजना की बैंक-योग्यता को नैतिक रूप से अपर्याप्त बनाता है।\nकथन 4: गलत – परिच्छेद समान नैतिक और राजकोषीय स्थिति को खारिज करता है। यह असममित उत्तरदायित्व और असमान शुरुआती बिंदुओं पर बल देता है।\nअतः, विकल्प (a) सही है।[cite: 8]",
-      "en": "Statement 1: Correct - The passage argues that comparable future dates conceal differences in historical emissions, fiscal depth, energy access and developmental necessity.\nStatement 2: Incorrect - The problem is not failure to pledge. The passage focuses on financing terms, debt exposure and the mismatch between climate justice and bankable mitigation.\nStatement 3: Correct - The passage states that loans, de-risked capital and project-tied funds convert climate justice into bankable mitigation. This makes project bankability ethically insufficient.\nStatement 4: Incorrect - The passage rejects identical moral and fiscal positioning. It stresses asymmetric responsibility and unequal starting points.\nHence, option (a) is correct.[cite: 8]"
+      "hi": "कथन 1: सही – परिच्छेद में यह तर्क दिया गया है कि तुलनीय भविष्य की तिथियाँ ऐतिहासिक उत्सर्जनों, राजकोषीय क्षमता, ऊर्जा पहुँच और विकासात्मक आवश्यकता के अंतरों को छिपा देती हैं।\nकथन 2: गलत – समस्या प्रतिज्ञा करने में विफलता नहीं है। परिच्छेद वित्तपोषण की शर्तों, ऋण जोखिम और जलवायु न्याय व बैंक-योग्य शमन के बीच के असंगति पर ध्यान केंद्रित करता है।\nकथन 3: सही – परिच्छेद में उल्लेख है कि ऋण, जोखिम-मुक्त पूंजी और परियोजनाबद्ध फंड जलवायु न्याय को बैंक-योग्य शमन में बदल देते हैं। यह परियोजना की बैंक-योग्यता को नैतिक रूप से अपर्याप्त बनाता है।\nकथन 4: गलत – परिच्छेद समान नैतिक और राजकोषीय स्थिति को खारिज करता है। यह असममित उत्तरदायित्व और असमान शुरुआती बिंदुओं पर बल देता है।\nअतः, विकल्प (a) सही है।",
+      "en": "Statement 1: Correct - The passage argues that comparable future dates conceal differences in historical emissions, fiscal depth, energy access and developmental necessity.\nStatement 2: Incorrect - The problem is not failure to pledge. The passage focuses on financing terms, debt exposure and the mismatch between climate justice and bankable mitigation.\nStatement 3: Correct - The passage states that loans, de-risked capital and project-tied funds convert climate justice into bankable mitigation. This makes project bankability ethically insufficient.\nStatement 4: Incorrect - The passage rejects identical moral and fiscal positioning. It stresses asymmetric responsibility and unequal starting points.\nHence, option (a) is correct."
     }
   },
   {
@@ -1726,8 +1679,8 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "मान लीजिये अभीष्ट समय 4:x मिनट (4 घंटे x मिनट) है।\nतब, मिनट की सुई की स्थिति = 6x^{\\circ}\n(क्योंकि मिनट की सुई 60 मिनट में एक चक्कर पूरा करती है। इसलिये, एक मिनट में यह \\frac{360^{\\circ}}{60} = 6^{\\circ} घूमती है। अतः, x मिनट में यह 6x^{\\circ} घूमती है)\nघंटे की सुई की स्थिति = 30 \\times 4 + 0.5x = 120 + 0.5x^{\\circ}\n(प्रत्येक घंटे का निशान \\frac{360^{\\circ}}{12} = 30^{\\circ} होता है। इसलिये, 4 घंटे में 30 \\times 4 = 120^{\\circ}। साथ ही, घंटे की सुई 12 घंटों यानी 720 मिनटों में 360^{\\circ} पूरा करती है। इसलिये, एक मिनट में यह \\frac{360^{\\circ}}{720} = 0.5^{\\circ} घूमती है। अतः, x मिनट में यह 0.5x^{\\circ} घूमेगी)\nदिया गया है, घंटे की सुई और मिनट की सुई के बीच का कोण = घंटे की सुई और 12 बजे (अर्थात, 0^{\\circ}) के बीच का कोण\nइसलिये, |6x - (120 + 0.5x)| = 120 + 0.5x\n|5.5x - 120| = 120 + 0.5x\nस्थिति 1:\n5.5x - 120 = 120 + 0.5x\n5x = 240 \\implies x = 48\nस्थिति 2:\n120 - 5.5x = 120 + 0.5x\n-6x = 0 \\implies x = 0 (मान्य नहीं)\nइसलिये, अभीष्ट समय 4:48 अर्थात 4 घंटे 48 मिनट है।\nअतः विकल्प (c) सही है।[cite: 8]",
-      "en": "Let the required time be 4:x minutes (4 hours x minutes).\nThen, Position of minute hand = 6x^{\\circ}\n(Because minute hand completes one round in 60 minutes. So, in one minute it moves \\frac{360^{\\circ}}{60} = 6^{\\circ}. So, in x minutes it moves 6x^{\\circ})\nPosition of hour hand = 30 \\times 4 + 0.5x = 120 + 0.5x^{\\circ}\n(Each hour marks \\frac{360^{\\circ}}{12} = 30^{\\circ}. So, in 4 hours 30 \\times 4 = 120^{\\circ}. Also, hour hand completes 360^{\\circ} in 12 hours, i.e., 720 minutes. So, in one minute it moves \\frac{360^{\\circ}}{720} = 0.5^{\\circ}. So, in x minutes it will move 0.5x^{\\circ})\nGiven, Angle between hour hand and minute hand = Angle between hour hand and 12 o'clock (i.e., 0^{\\circ})\nSo, |6x - (120 + 0.5x)| = 120 + 0.5x\n|5.5x - 120| = 120 + 0.5x\nCase 1:\n5.5x - 120 = 120 + 0.5x\n5x = 240 \\implies x = 48\nCase 2:\n120 - 5.5x = 120 + 0.5x\n-6x = 0 \\implies x = 0 (Not valid)\nSo, required time is 4:48 i.e., 4 hours 48 minutes.\nHence, option (c) is correct.[cite: 8]"
+      "hi": "मान लीजिये अभीष्ट समय 4:x मिनट (4 घंटे x मिनट) है।\nतब, मिनट की सुई की स्थिति = 6x°\n(क्योंकि मिनट की सुई 60 मिनट में एक चक्कर पूरा करती है। इसलिये, एक मिनट में यह 360° / 60 = 6° घूमती है। अतः, x मिनट में यह 6x° घूमती है)\nघंटे की सुई की स्थिति = 30 × 4 + 0.5x = 120 + 0.5x°\n(प्रत्येक घंटे का निशान 360° / 12 = 30° होता है। इसलिये, 4 घंटे में 30 × 4 = 120°। साथ ही, घंटे की सुई 12 घंटों यानी 720 मिनटों में 360° पूरा करती है। इसलिये, एक मिनट में यह 360° / 720 = 0.5° घूमती है। अतः, x मिनट में यह 0.5x° घूमेगी)\nदिया गया है, घंटे की सुई और मिनट की सुई के बीच का कोण = घंटे की सुई और 12 बजे (अर्थात, 0°) के बीच का कोण\nइसलिये, |6x - (120 + 0.5x)| = 120 + 0.5x\n|5.5x - 120| = 120 + 0.5x\nस्थिति 1:\n5.5x - 120 = 120 + 0.5x\n5x = 240 ⇒ x = 48\nस्थिति 2:\n120 - 5.5x = 120 + 0.5x\n-6x = 0 ⇒ x = 0 (मान्य नहीं)\nइसलिये, अभीष्ट समय 4:48 अर्थात 4 घंटे 48 मिनट है।\nअतः विकल्प (c) सही है।",
+      "en": "Let the required time be 4:x minutes (4 hours x minutes).\nThen, Position of minute hand = 6x°\n(Because minute hand completes one round in 60 minutes. So, in one minute it moves 360° / 60 = 6°. So, in x minutes it moves 6x°)\nPosition of hour hand = 30 × 4 + 0.5x = 120 + 0.5x°\n(Each hour marks 360° / 12 = 30°. So, in 4 hours 30 × 4 = 120°. Also, hour hand completes 360° in 12 hours, i.e., 720 minutes. So, in one minute it moves 360° / 720 = 0.5°. So, in x minutes it will move 0.5x°)\nGiven, Angle between hour hand and minute hand = Angle between hour hand and 12 o'clock (i.e., 0°)\nSo, |6x - (120 + 0.5x)| = 120 + 0.5x\n|5.5x - 120| = 120 + 0.5x\nCase 1:\n5.5x - 120 = 120 + 0.5x\n5x = 240 ⇒ x = 48\nCase 2:\n120 - 5.5x = 120 + 0.5x\n-6x = 0 ⇒ x = 0 (Not valid)\nSo, required time is 4:48 i.e., 4 hours 48 minutes.\nHence, option (c) is correct."
     }
   },
   {
@@ -1745,29 +1698,29 @@
     "options": [
       {
         "id": "A",
-        "hi": "80^{\\circ}",
-        "en": "80^{\\circ}"
+        "hi": "80°",
+        "en": "80°"
       },
       {
         "id": "B",
-        "hi": "100^{\\circ}",
-        "en": "100^{\\circ}"
+        "hi": "100°",
+        "en": "100°"
       },
       {
         "id": "C",
-        "hi": "120^{\\circ}",
-        "en": "120^{\\circ}"
+        "hi": "120°",
+        "en": "120°"
       },
       {
         "id": "D",
-        "hi": "125^{\\circ}",
-        "en": "125^{\\circ}"
+        "hi": "125°",
+        "en": "125°"
       }
     ],
     "correctAnswer": "B",
     "explanation": {
-      "hi": "7:00 बजे, घंटे की सुई 7 \\times 30^{\\circ} = 210^{\\circ} पर होती है।\n20 मिनट में, घंटे की सुई 20 \\times 0.5^{\\circ} = 10^{\\circ} आगे बढ़ती है (क्योंकि एक मिनट में घंटे की सुई \\frac{360^{\\circ}}{720} = 0.5^{\\circ} घूमती है)।\nइसलिये, 7:20 बजे, घंटे की सुई 210^{\\circ} + 10^{\\circ} = 220^{\\circ} पर है।\nअब, 20 मिनट पर, मिनट की सुई 20 \\times 6^{\\circ} = 120^{\\circ} पर होती है (क्योंकि एक मिनट में मिनट की सुई \\frac{360^{\\circ}}{60} = 6^{\\circ} घूमती है)।\nदोनों सुइयों के बीच का कोण = 220^{\\circ} - 120^{\\circ} = 100^{\\circ}\nचूँकि 100^{\\circ} < 180^{\\circ} है, इसलिये 100^{\\circ} ही अभीष्ट कोण है।\nअतः विकल्प (b) सही है।[cite: 8]",
-      "en": "At 7:00, the hour hand is at 7 \\times 30^{\\circ} = 210^{\\circ}.\nIn 20 minutes, the hour hand moves by 20 \\times 0.5^{\\circ} = 10^{\\circ} (because in one minute hour hand moves \\frac{360^{\\circ}}{720} = 0.5^{\\circ}).\nSo, at 7:20, hour hand is at 210^{\\circ} + 10^{\\circ} = 220^{\\circ}.\nNow, at 20 minutes, the minute hand is at 20 \\times 6^{\\circ} = 120^{\\circ} (because in one minute minute hand moves \\frac{360^{\\circ}}{60} = 6^{\\circ}).\nAngle between the two hands = 220^{\\circ} - 120^{\\circ} = 100^{\\circ}.\nSince 100^{\\circ} < 180^{\\circ}, so 100^{\\circ} is the required angle.\nHence, option (b) is correct.[cite: 8]"
+      "hi": "7:00 बजे, घंटे की सुई 7 × 30° = 210° पर होती है।\n20 मिनट में, घंटे की सुई 20 × 0.5° = 10° आगे बढ़ती है (क्योंकि एक मिनट में घंटे की सुई 360° / 720 = 0.5° घूमती है)।\nइसलिये, 7:20 बजे, घंटे की सुई 210° + 10° = 220° पर है।\nअब, 20 मिनट पर, मिनट की सुई 20 × 6° = 120° पर होती है (क्योंकि एक मिनट में मिनट की सुई 360° / 60 = 6° घूमती है)।\nदोनों सुइयों के बीच का कोण = 220° - 120° = 100°\nचूँकि 100° < 180° है, इसलिये 100° ही अभीष्ट कोण है।\nअतः विकल्प (b) सही है।",
+      "en": "At 7:00, the hour hand is at 7 × 30° = 210°.\nIn 20 minutes, the hour hand moves by 20 × 0.5° = 10° (because in one minute hour hand moves 360° / 720 = 0.5°).\nSo, at 7:20, hour hand is at 210° + 10° = 220°.\nNow, at 20 minutes, the minute hand is at 20 × 6° = 120° (because in one minute minute hand moves 360° / 60 = 6°).\nAngle between the two hands = 220° - 120° = 100°.\nSince 100° < 180°, so 100° is the required angle.\nHence, option (b) is correct."
     }
   },
   {
@@ -1830,8 +1783,8 @@
     ],
     "correctAnswer": "A",
     "explanation": {
-      "hi": "निष्कर्ष 1: सही – ऐप-आधारित बुकिंग प्रणाली, थोक आरक्षण और कोचिंग अकादमियों ने खेल के मैदान को एक खुले स्थान से बदलकर संगठित और तकनीकी रूप से संचालित दावों के माध्यम से सुलभ एक नियमबद्ध सुविधा में बदल दिया।\nनिष्कर्ष 2: गलत – उच्च दर्ज उपयोग आरक्षित स्लॉट को दर्शाता है, न कि व्यापक सामाजिक पहुँच को। जो बच्चे पहले अनौपचारिक रूप से मैदान का उपयोग करते थे, वे अब खेल के मैदान से बाहर ही रह जाते हैं।\nनिष्कर्ष 3: सही – खेल का मैदान भौतिक रूप से बना हुआ है और इसका जीर्णोद्धार भी हुआ है। अपवर्जन इसलिये उत्पन्न होता है क्योंकि नए नियम मूल्य-रहित, अनौपचारिक खेल की उपेक्षा करते हुए केवल बुक किये गए कब्जे को ही मान्यता देते हैं।\nनिष्कर्ष 4: गलत – प्रायोजन राजस्व और कम शिकायतें प्रशासनिक संकेतक हैं। परिच्छेद सार्वजनिक समावेशिता का न्याय करने के लिये उनकी पर्याप्तता पर प्रश्न उठाता है।\nअतः, विकल्प (a) सही है।[cite: 8]",
-      "en": "Conclusion 1: Correct - The app-based booking system, bulk reservations and coaching academies changed the playground from an open space into a rule-bound facility accessed through organised and technologically mediated claims.\nConclusion 2: Incorrect - Higher utilisation reflects reserved slots, not wider social access. The children who earlier used the ground informally now remain outside the play space.\nConclusion 3: Correct - The playground physically remains and is even renovated. The exclusion arises because the new rules recognise booked occupation while ignoring unpriced, informal play.\nConclusion 4: Incorrect - Sponsorship revenue and fewer complaints are administrative indicators. The passage questions their adequacy for judging public inclusiveness.\nHence, option (a) is correct.[cite: 8]"
+      "hi": "निष्कर्ष 1: सही – ऐप-आधारित बुकिंग प्रणाली, थोक आरक्षण और कोचिंग अकादमियों ने खेल के मैदान को एक खुले स्थान से बदलकर संगठित और तकनीकी रूप से संचालित दावों के माध्यम से सुलभ एक नियमबद्ध सुविधा में बदल दिया।\nनिष्कर्ष 2: गलत – उच्च दर्ज उपयोग आरक्षित स्लॉट को दर्शाता है, न कि व्यापक सामाजिक पहुँच को। जो बच्चे पहले अनौपचारिक रूप से मैदान का उपयोग करते थे, वे अब खेल के मैदान से बाहर ही रह जाते हैं।\nनिष्कर्ष 3: सही – खेल का मैदान भौतिक रूप से बना हुआ है और इसका जीर्णोद्धार भी हुआ है। अपवर्जन इसलिये उत्पन्न होता है क्योंकि नए नियम मूल्य-रहित, अनौपचारिक खेल की उपेक्षा करते हुए केवल बुक किये गए कब्जे को ही मान्यता देते हैं।\nनिष्कर्ष 4: गलत – प्रायोजन राजस्व और कम शिकायतें प्रशासनिक संकेतक हैं। परिच्छेद सार्वजनिक समावेशिता का न्याय करने के लिये उनकी पर्याप्तता पर प्रश्न उठाता है।\nअतः, विकल्प (a) सही है।",
+      "en": "Conclusion 1: Correct - The app-based booking system, bulk reservations and coaching academies changed the playground from an open space into a rule-bound facility accessed through organised and technologically mediated claims.\nConclusion 2: Incorrect - Higher utilisation reflects reserved slots, not wider social access. The children who earlier used the ground informally now remain outside the play space.\nConclusion 3: Correct - The playground physically remains and is even renovated. The exclusion arises because the new rules recognise booked occupation while ignoring unpriced, informal play.\nConclusion 4: Incorrect - Sponsorship revenue and fewer complaints are administrative indicators. The passage questions their adequacy for judging public inclusiveness.\nHence, option (a) is correct."
     }
   },
   {
@@ -1894,8 +1847,8 @@
     ],
     "correctAnswer": "D",
     "explanation": {
-      "hi": "कथन 1: सही - रिपोर्ट ने आरक्षित स्लॉट और उपयोग की सराहना की, जबकि परिच्छेद यह दर्शाता है कि बच्चों द्वारा किया जाने वाला अनौपचारिक उपयोग इस मापन से गायब हो गया।\nकथन 2: सही - कोचिंग अकादमियों ने मैदान को थोक में बुक किया, जो यह दर्शाता है कि संगठित समूहों को नई पहुँच प्रणाली से लाभ हुआ।\nकथन 3: सही नहीं - परिच्छेद तकनीकी प्रबंधन की आलोचना करता है क्योंकि यह पहुँच को ऐप-आधारित बुकिंग में बदल देता है और बिना टीमों, जूतों या फोन वाले बच्चों को अपवर्जित कर देता है।\nकथन 4: सही - \"सार्वजनिक व्याकरण\" पहुँच के उस पुराने, अनौपचारिक आधार को संदर्भित करता है जहाँ बच्चे बिना किसी बुकिंग, भुगतान, उपकरण या संस्थागत संबद्धता के खेलते थे।\nअतः, विकल्प (d) सही है।[cite: 8]",
-      "en": "Statement 1: Correct - The report praised reserved slots and utilisation, while the passage shows that informal use by children disappeared from this measurement.\nStatement 2: Correct - Coaching academies booked the ground in bulk, showing that organised groups gained from the new access system.\nStatement 3: Not correct - The passage criticises technological management because it converts access into app-based booking and excludes children without teams, shoes or phones.\nStatement 4: Correct - \"Public grammar\" refers to the older, informal basis of access where children played without booking, payment, equipment or institutional affiliation.\nHence, option (d) is correct.[cite: 8]"
+      "hi": "कथन 1: सही - रिपोर्ट ने आरक्षित स्लॉट और उपयोग की सराहना की, जबकि परिच्छेद यह दर्शाता है कि बच्चों द्वारा किया जाने वाला अनौपचारिक उपयोग इस मापन से गायब हो गया।\nकथन 2: सही - कोचिंग अकादमियों ने मैदान को थोक में बुक किया, जो यह दर्शाता है कि संगठित समूहों को नई पहुँच प्रणाली से लाभ हुआ।\nकथन 3: सही नहीं - परिच्छेद तकनीकी प्रबंधन की आलोचना करता है क्योंकि यह पहुँच को ऐप-आधारित बुकिंग में बदल देता है और बिना टीमों, जूतों या फोन वाले बच्चों को अपवर्जित कर देता है।\nकथन 4: सही - \"सार्वजनिक व्याकरण\" पहुँच के उस पुराने, अनौपचारिक आधार को संदर्भित करता है जहाँ बच्चे बिना किसी बुकिंग, भुगतान, उपकरण या संस्थागत संबद्धता के खेलते थे।\nअतः, विकल्प (d) सही है।",
+      "en": "Statement 1: Correct - The report praised reserved slots and utilisation, while the passage shows that informal use by children disappeared from this measurement.\nStatement 2: Correct - Coaching academies booked the ground in bulk, showing that organised groups gained from the new access system.\nStatement 3: Not correct - The passage criticises technological management because it converts access into app-based booking and excludes children without teams, shoes or phones.\nStatement 4: Correct - \"Public grammar\" refers to the older, informal basis of access where children played without booking, payment, equipment or institutional affiliation.\nHence, option (d) is correct."
     }
   },
   {
@@ -1934,8 +1887,8 @@
     ],
     "correctAnswer": "A",
     "explanation": {
-      "hi": "हम सूत्र जानते हैं कि,\n\\text{दर्पण समय} = 11:60 - \\text{दिया गया समय}\nदिया गया समय 4:25 है\nइसलिये, दर्पण समय = 11:60 - 4:25 = 7:35\nअतः विकल्प (a) सही है।[cite: 8]",
-      "en": "We know the formula that,\n\\text{Mirror time} = 11:60 - \\text{Given time}\nGiven time is 4:25\nSo, mirror time = 11:60 - 4:25 = 7:35\nHence, option (a) is correct.[cite: 8]"
+      "hi": "हम सूत्र जानते हैं कि,\nदर्पण समय = 11:60 - दिया गया समय\nदिया गया समय 4:25 है\nइसलिये, दर्पण समय = 11:60 - 4:25 = 7:35\nअतः विकल्प (a) सही है।",
+      "en": "We know the formula that,\nMirror time = 11:60 - Given time\nGiven time is 4:25\nSo, mirror time = 11:60 - 4:25 = 7:35\nHence, option (a) is correct."
     }
   },
   {
@@ -1974,8 +1927,8 @@
     ],
     "correctAnswer": "B",
     "explanation": {
-      "hi": "खराब घड़ी सही समय के प्रत्येक 60 मिनट में 5 मिनट सुस्त हो जाती है।\nसही समय के 60 मिनट में, खराब घड़ी 55 मिनट दर्शाती है।\nअतः, सही समय : खराब घड़ी का समय = 60 : 55 = 12 : 11\nखराब घड़ी सुबह 6:00 बजे सही थी और बाद में रात 8:30 बजे का समय दर्शाती है।\nखराब घड़ी द्वारा बीता हुआ दर्शाया गया समय:\nसुबह 6:00 बजे से रात 8:30 बजे तक 14 घंटे 30 मिनट = 870 \\text{ मिनट}\nमान लीजिये वास्तविक बीता हुआ समय x मिनट है।\nx = 870 \\times \\frac{12}{11}\nx = \\frac{10440}{11}\nx = 949\\frac{1}{11} \\text{ मिनट} = 15 \\text{ घंटे } 49\\frac{1}{11} \\text{ मिनट}\nअब इसे सुबह 6:00 बजे में जोड़ें-\n6:00 \\text{ AM} + 15 \\text{ घंटे } 49 \\text{ मिनट} \\approx 9:49 \\text{ PM}\nनिकटतम विकल्प 9:45 PM है।\nइसलिये, सही उत्तर 9:45 PM है।\nअतः विकल्प (b) सही है।[cite: 8]",
-      "en": "A faulty clock loses 5 minutes in every 60 minutes of correct time.\nIn 60 minutes of correct time, the faulty clock shows 55 minutes.\nSo, Correct time : Faulty-clock time = 60 : 55 = 12 : 11\nThe faulty clock was correct at 6:00 am and later shows 8:30 pm.\nTime shown as elapsed by the faulty clock:\nFrom 6:00 am to 8:30 pm = 14 \\text{ hours } 30 \\text{ minutes} = 870 \\text{ minutes}\nLet the actual elapsed time be x minutes.\nx = 870 \\times \\frac{12}{11}\nx = \\frac{10440}{11}\nx = 949\\frac{1}{11} \\text{ minutes} = 15 \\text{ hours } 49\\frac{1}{11} \\text{ minutes}\nNow add this to 6:00 am:\n6:00 \\text{ am} + 15 \\text{ hours } 49 \\text{ minutes} \\approx 9:49 \\text{ pm}\nThe nearest option is 9:45 pm.\nSo, the correct answer is 9:45 pm.\nHence, option (b) is correct.[cite: 8]"
+      "hi": "खराब घड़ी सही समय के प्रत्येक 60 मिनट में 5 मिनट सुस्त हो जाती है।\nसही समय के 60 मिनट में, खराब घड़ी 55 मिनट दर्शाती है।\nअतः, सही समय : खराब घड़ी का समय = 60 : 55 = 12 : 11\nखराब घड़ी सुबह 6:00 बजे सही थी और बाद में रात 8:30 बजे का समय दर्शाती है।\nखराब घड़ी द्वारा बीता हुआ दर्शाया गया समय:\nसुबह 6:00 बजे से रात 8:30 बजे तक 14 घंटे 30 मिनट = 870 मिनट\nमान लीजिये वास्तविक बीता हुआ समय x मिनट है।\nx = 870 × \\frac{12}{11}\nx = \\frac{10440}{11}\nx = 949\\frac{1}{11} मिनट = 15 घंटे 49\\frac{1}{11} मिनट\nअब इसे सुबह 6:00 बजे में जोड़ें-\n6:00 AM + 15 घंटे 49 मिनट ≈ 9:49 PM\nनिकटतम विकल्प 9:45 PM है।\nइसलिये, सही उत्तर 9:45 PM है।\nअतः विकल्प (b) सही है।",
+      "en": "A faulty clock loses 5 minutes in every 60 minutes of correct time.\nIn 60 minutes of correct time, the faulty clock shows 55 minutes.\nSo, Correct time : Faulty-clock time = 60 : 55 = 12 : 11\nThe faulty clock was correct at 6:00 am and later shows 8:30 pm.\nTime shown as elapsed by the faulty clock:\nFrom 6:00 am to 8:30 pm = 14 hours 30 minutes = 870 minutes\nLet the actual elapsed time be x minutes.\nx = 870 × \\frac{12}{11}\nx = \\frac{10440}{11}\nx = 949\\frac{1}{11} minutes = 15 hours 49\\frac{1}{11} minutes\nNow add this to 6:00 am:\n6:00 am + 15 hours 49 minutes ≈ 9:49 pm\nThe nearest option is 9:45 pm.\nSo, the correct answer is 9:45 pm.\nHence, option (b) is correct."
     }
   },
   {
@@ -1993,8 +1946,8 @@
       },
       {
         "id": 2,
-        "hi": "कारण (R): मिनट की सुई घंटे की सुई पर प्रत्येक \\frac{720}{11} मिनट में एक बार 360^{\\circ} की बढ़त प्राप्त करती है।",
-        "en": "Reason (R): The minute hand gains 360^{\\circ} over the hour hand once every \\frac{720}{11} minutes."
+        "hi": "कारण (R): मिनट की सुई घंटे की सुई पर प्रत्येक \\frac{720}{11} मिनट में एक बार 360° की बढ़त प्राप्त करती है।",
+        "en": "Reason (R): The minute hand gains 360° over the hour hand once every \\frac{720}{11} minutes."
       }
     ],
     "question": {
@@ -2025,8 +1978,8 @@
     ],
     "correctAnswer": "A",
     "explanation": {
-      "hi": "मिनट की सुई की चाल: 6^{\\circ} प्रति मिनट\nघंटे की सुई की चाल: 0.5^{\\circ} प्रति मिनट\nइसलिये, मिनट की सुई घंटे की सुई की तुलना में निम्नलिखित दर से बढ़त हासिल करती है:\n6^{\\circ} - 0.5^{\\circ} = 5.5^{\\circ} प्रति मिनट\nसुइयों के पुनः संपाती होने के लिये, मिनट की सुई को घंटे की सुई पर एक पूर्ण चक्कर, अर्थात 360^{\\circ} की बढ़त हासिल करनी होगी।\nदो क्रमागत संपातों के बीच का समय: \\frac{360}{5.5} = \\frac{3600}{55} = \\frac{720}{11} \\text{ मिनट}\nइस प्रकार, सुइयाँ प्रत्येक \\frac{720}{11} मिनट में एक बार संपाती होती हैं।\n12 घंटों में कुल 720 मिनट होते हैं।\nसंपात अंतरालों की संख्या: 720 \\div \\left(\\frac{720}{11}\\right) = 11\nइसलिये, घंटे की सुई और मिनट की सुई 12 घंटों में सटीक 11 बार संपाती होती हैं।\nअतः, कथन (A) और कारण (R) दोनों सही हैं। कारण, कथन की सही व्याख्या करता है।\nअतः विकल्प (a) सही है।[cite: 8]",
-      "en": "The minute hand moves at: 6^{\\circ} per minute\nThe hour hand moves at: 0.5^{\\circ} per minute\nTherefore, the minute hand gains on the hour hand at the rate of: 6^{\\circ} - 0.5^{\\circ} = 5.5^{\\circ} per minute\nFor the hands to coincide again, the minute hand must gain one complete revolution, that is, 360^{\\circ}, over the hour hand.\nTime between two consecutive coincidences: \\frac{360}{5.5} = \\frac{3600}{55} = \\frac{720}{11} \\text{ minutes}\nThus, the hands coincide once every \\frac{720}{11} minutes.\nIn 12 hours, there are 720 minutes.\nNumber of coincidence intervals: 720 \\div \\left(\\frac{720}{11}\\right) = 11\nTherefore, the hour hand and minute hand coincide exactly 11 times in 12 hours.\nSo, the Assertion (A) and the Reason (R) is also true. The reason correctly explains the assertion.\nHence, option (a) is correct.[cite: 8]"
+      "hi": "मिनट की सुई की चाल: 6° प्रति मिनट\nघंटे की सुई की चाल: 0.5° प्रति मिनट\nइसलिये, मिनट की सुई घंटे की सुई की तुलना में निम्नलिखित दर से बढ़त हासिल करती है:\n6° - 0.5° = 5.5° प्रति मिनट\nसुइयों के पुनः संपाती होने के लिये, मिनट की सुई को घंटे की सुई पर एक पूर्ण चक्कर, अर्थात 360° की बढ़त हासिल करनी होगी।\nदो क्रमागत संपातों के बीच का समय: \\frac{360}{5.5} = \\frac{3600}{55} = \\frac{720}{11} मिनट\nइस प्रकार, सुइयाँ प्रत्येक \\frac{720}{11} मिनट में एक बार संपाती होती हैं।\n12 घंटों में कुल 720 मिनट होते हैं।\nसंपात अंतरालों की संख्या: 720 ÷ \\frac{720}{11} = 11\nइसलिये, घंटे की सुई और मिनट की सुई 12 घंटों में सटीक 11 बार संपाती होती हैं।\nअतः, कथन (A) और कारण (R) दोनों सही हैं। कारण, कथन की सही व्याख्या करता है।\nअतः विकल्प (a) सही है।",
+      "en": "The minute hand moves at: 6° per minute\nThe hour hand moves at: 0.5° per minute\nTherefore, the minute hand gains on the hour hand at the rate of: 6° - 0.5° = 5.5° per minute\nFor the hands to coincide again, the minute hand must gain one complete revolution, that is, 360°, over the hour hand.\nTime between two consecutive coincidences: \\frac{360}{5.5} = \\frac{3600}{55} = \\frac{720}{11} minutes\nThus, the hands coincide once every \\frac{720}{11} minutes.\nIn 12 hours, there are 720 minutes.\nNumber of coincidence intervals: 720 ÷ \\frac{720}{11} = 11\nTherefore, the hour hand and minute hand coincide exactly 11 times in 12 hours.\nSo, the Assertion (A) and the Reason (R) is also true. The reason correctly explains the assertion.\nHence, option (a) is correct."
     }
   },
   {
@@ -2065,8 +2018,8 @@
     ],
     "correctAnswer": "B",
     "explanation": {
-      "hi": "घंटे की सुई और मिनट की सुई 12 घंटों में 11 बार संपाती होती हैं।\nH बजे के बाद पहला संपात \\frac{60H}{11} मिनट के बाद होता है।\nअब संपात के समयों की गणना करते हैं:\n4 बजे के बाद: 4:00 + \\frac{240}{11} \\text{ मिनट} = 4:21\\frac{9}{11} \\text{ AM}\nयह समय 4:30 AM से पहले का है, इसलिये इसे नहीं गिना जाएगा।\n5 बजे के बाद: 5:00 + \\frac{300}{11} \\text{ मिनट} = 5:27\\frac{3}{11} \\text{ AM}\n6 बजे के बाद: 6:00 + \\frac{360}{11} \\text{ मिनट} = 6:32\\frac{8}{11} \\text{ AM}\n7 बजे के बाद: 7:00 + \\frac{420}{11} \\text{ मिनट} = 7:38\\frac{2}{11} \\text{ AM}\n8 बजे के बाद: 8:00 + \\frac{480}{11} \\text{ मिनट} = 8:43\\frac{7}{11} \\text{ AM}\n9 बजे के बाद: 9:00 + \\frac{540}{11} \\text{ मिनट} = 9:49\\frac{1}{11} \\text{ AM}\nयह समय 9:30 AM के बाद का है, इसलिये इसे नहीं गिना जाएगा।\nइसलिये, सुइयाँ निम्नलिखित समयों पर संपाती होती हैं:\n5:27\\frac{3}{11} \\text{ a.m.}, 6:32\\frac{8}{11} \\text{ a.m.}, 7:38\\frac{2}{11} \\text{ a.m.}, 8:43\\frac{7}{11} \\text{ a.m.}\nअतः, कुल संपातों की संख्या = 4\nअतः विकल्प (b) सही है।[cite: 8]",
-      "en": "The hour hand and minute hand coincide 11 times in 12 hours.\nThe first coincidence after H o'clock occurs after \\frac{60H}{11} minutes.\nNow calculate the coincidence times -\nAfter 4 o'clock: 4:00 + \\frac{240}{11} \\text{ minutes} = 4:21\\frac{9}{11} \\text{ a.m.}\nThis is before 4:30 a.m., so it is not counted.\nAfter 5 o'clock: 5:00 + \\frac{300}{11} \\text{ minutes} = 5:27\\frac{3}{11} \\text{ a.m.}\nAfter 6 o'clock: 6:00 + \\frac{360}{11} \\text{ minutes} = 6:32\\frac{8}{11} \\text{ a.m.}\nAfter 7 o'clock: 7:00 + \\frac{420}{11} \\text{ minutes} = 7:38\\frac{2}{11} \\text{ a.m.}\nAfter 8 o'clock: 8:00 + \\frac{480}{11} \\text{ minutes} = 8:43\\frac{7}{11} \\text{ a.m.}\nAfter 9 o'clock: 9:00 + \\frac{540}{11} \\text{ minutes} = 9:49\\frac{1}{11} \\text{ a.m.}\nThis is after 9:30 a.m., so it is not counted.\nTherefore, the hands coincide at: 5:27\\frac{3}{11} \\text{ a.m.}, 6:32\\frac{8}{11} \\text{ a.m.}, 7:38\\frac{2}{11} \\text{ a.m.}, 8:43\\frac{7}{11} \\text{ a.m.}\nSo, total number of coincidences = 4\nHence, option (b) is correct.[cite: 8]"
+      "hi": "घंटे की सुई और मिनट की सुई 12 घंटों में 11 बार संपाती होती हैं।\nH बजे के बाद पहला संपात \\frac{60H}{11} मिनट के बाद होता है।\nअब संपात के समयों की गणना करते हैं:\n4 बजे के बाद: 4:00 + \\frac{240}{11} मिनट = 4:21\\frac{9}{11} AM (यह समय 4:30 AM से पहले का है, इसलिये इसे नहीं गिना जाएगा)\n5 बजे के बाद: 5:00 + \\frac{300}{11} मिनट = 5:27\\frac{3}{11} AM\n6 बजे के बाद: 6:00 + \\frac{360}{11} मिनट = 6:32\\frac{8}{11} AM\n7 बजे के बाद: 7:00 + \\frac{420}{11} मिनट = 7:38\\frac{2}{11} AM\n8 बजे के बाद: 8:00 + \\frac{480}{11} मिनट = 8:43\\frac{7}{11} AM\n9 बजे के बाद: 9:00 + \\frac{540}{11} मिनट = 9:49\\frac{1}{11} AM (यह समय 9:30 AM के बाद का है, इसलिये इसे नहीं गिना जाएगा)\nइसलिये, सुइयाँ निम्नलिखित समयों पर संपाती होती हैं:\n5:27\\frac{3}{11} AM, 6:32\\frac{8}{11} AM, 7:38\\frac{2}{11} AM, 8:43\\frac{7}{11} AM\nअतः, कुल संपातों की संख्या = 4\nअतः विकल्प (b) सही है।",
+      "en": "The hour hand and minute hand coincide 11 times in 12 hours.\nThe first coincidence after H o'clock occurs after \\frac{60H}{11} minutes.\nNow calculate the coincidence times -\nAfter 4 o'clock: 4:00 + \\frac{60 × 4}{11} minutes = 4:21\\frac{9}{11} a.m. (Before 4:30 a.m., not counted)\nAfter 5 o'clock: 5:00 + \\frac{60 × 5}{11} minutes = 5:27\\frac{3}{11} a.m.\nAfter 6 o'clock: 6:00 + \\frac{60 × 6}{11} minutes = 6:32\\frac{8}{11} a.m.\nAfter 7 o'clock: 7:00 + \\frac{60 × 7}{11} minutes = 7:38\\frac{2}{11} a.m.\nAfter 8 o'clock: 8:00 + \\frac{60 × 8}{11} minutes = 8:43\\frac{7}{11} a.m.\nAfter 9 o'clock: 9:00 + \\frac{60 × 9}{11} minutes = 9:49\\frac{1}{11} a.m. (After 9:30 a.m., not counted)\nTherefore, the hands coincide at: 5:27\\frac{3}{11} a.m., 6:32\\frac{8}{11} a.m., 7:38\\frac{2}{11} a.m., 8:43\\frac{7}{11} a.m.\nSo, total number of coincidences = 4\nHence, option (b) is correct."
     }
   }
 ]
