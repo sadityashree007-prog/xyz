@@ -1,0 +1,1843 @@
+[
+  {
+    "id": 1,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "मठ के विद्यालय में, शिष्यों को सिद्धांतों को कंठस्थ करने पर तब सराहा जाता था, जब तक उन सिद्धांतों ने उन्हें दोहराने वाले \"अहं\" को प्रभावित नहीं किया था। इसलिये, नए शिक्षक प्रत्येक शास्त्रार्थ का अंत मौन के साथ करते थे-किसी श्रद्धा के भाव से नहीं, बल्कि ज्ञान के अहंकार की जाँच करने के उद्देश्य से। उनका तर्क था कि वाणी अक्सर समझ को 'अहंकार के आभूषण' में बदल देती है। मौन, तर्क का त्याग नहीं था, यह वह समय था जिसमें विचार प्रदर्शन से दूर हटकर अंतिम निष्कर्ष पाने की अपनी इच्छा का परीक्षण करता था। जिस शिष्य ने दूसरों को शास्त्रार्थ में हरा तो दिया, पर खुद के भीतर कोई बदलाव नहीं लाया, उसने केवल अपनी बौद्धिक संपत्ति बढ़ाई थी। ज्ञान सच्चा तभी कहलाता था जब वह बुद्धिमान व्यक्ति का अलंकरण करना बंद कर देगा तथा अपने भीतर के 'अहंकार' को समाप्त करना प्रारंभ करेगा।[cite: 2]",
+      "en": "In the monastery school, pupils gained praise for mastering doctrines before those doctrines had disturbed the self that recited them. The new instructor therefore ended every disputation with silence, not as reverence, but as a scrutiny of knowledge's vanity. Speech, he argued, often turns understanding into an ornament of the ego. Silence was not the desertion of reason; it was the interval in which thought withdrew from performance and examined its appetite for finality. A pupil who defeated others yet remained inwardly unaltered had merely increased his stock of intellectual possession. Knowledge became genuine only when it ceased to embellish the knower and began to displace him.[cite: 2]"
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह परिच्छेद ज्ञान को केवल एक बौद्धिक अर्जन तथा एक आंतरिक, रूपांतरणकारी आध्यात्मिक साधना के रूप में प्रस्तुत करता है-ये दोनों परस्पर विरोधी अवधारणाएँ हैं।[cite: 2]",
+        "en": "The passage contrasts knowledge as intellectual possession with knowledge as an inwardly transformative discipline.[cite: 2]"
+      },
+      {
+        "id": 2,
+        "hi": "मौन को तर्क-वितर्क के निषेध के रूप में प्रस्तुत किया जाता है, क्योंकि मौखिक तर्क-वितर्क को स्वभावतः भ्रामक माना जाता है।[cite: 2]",
+        "en": "Silence is presented as a rejection of reasoning because spoken argument is treated as intrinsically deceptive.[cite: 2]"
+      },
+      {
+        "id": 3,
+        "hi": "तर्क-वितर्क में प्राप्त सफलता ज्ञानमीमांसात्मक दृष्टि से तब तक अपर्याप्त है, जब तक वह ज्ञाता की आत्म-प्रदर्शन की आकांक्षा को अप्रभावित छोड़ देती है।[cite: 2]",
+        "en": "Argumentative success is epistemically inadequate when it leaves the knower's desire for self-display undisturbed.[cite: 2]"
+      },
+      {
+        "id": 4,
+        "hi": "सिद्धांतों पर प्रभुत्व तभी वास्तविक बोध में परिवर्तित होता है, जब उसका सार्वजनिक रूप से यथार्थ एवं परिशुद्ध प्रदर्शन किया जाता है।[cite: 2]",
+        "en": "Doctrinal mastery becomes genuine understanding when it is publicly demonstrated with precision.[cite: 2]"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा/से निष्कर्ष सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः[cite: 2]",
+      "en": "Which of the following conclusions is/are correct?\nSelect the correct answer using the code given below.[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 3[cite: 2]",
+        "en": "3 only[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 4[cite: 2]",
+        "en": "2 and 4 only[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2 और 3[cite: 2]",
+        "en": "1, 2 and 3[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1 और 3[cite: 2]",
+        "en": "1 and 3 only[cite: 2]"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "निष्कर्ष 1: सही परिच्छेद ज्ञान के दो रूपों के मध्य बार-बार भेद करता है। एक ज्ञान केवल अर्जनात्मक है: शिष्य सिद्धांतों को \"बौद्धिक स्वामित्व\" के रूप में संचित करता है और उनका उपयोग अहंकार को अलंकृत करने के लिये करता है। दूसरा ज्ञान रूपांतरणकारी है: ज्ञान तभी वास्तविक बनता है जब वह \"ज्ञाता को विस्थापित\" करता है। अतः परिच्छेद अधिगम को केवल संचय के रूप में नहीं मानता बल्कि वास्तविक ज्ञान को आंतरिक परिवर्तन से संबद्ध करता है।\nनिष्कर्ष 2: गलत मौन को तर्क-विरोधी दृष्टिकोण के रूप में वर्णित नहीं किया गया है। परिच्छेद स्पष्ट रूप से कहता है कि मौन \"तर्क का परित्याग नहीं है।\" इसकी भूमिका विचार को प्रदर्शनात्मक प्रवृत्ति से हटाकर अंतिमता की खोज के प्रति उसकी आकांक्षा का परीक्षण करना है। अतः मौन अन्वेषण को गहन बनाता है; यह तर्कसंगत विमर्श का स्थान किसी अतार्किक निस्तब्धता से प्रतिस्थापित नहीं करता।\nनिष्कर्ष 3: सही वह शिष्य जो वाद-विवाद में दूसरों को पराजित कर देता है, किंतु आंतरिक रूप से अपरिवर्तित रहता है, उसके विषय में कहा गया है कि उसने केवल अपने \"बौद्धिक स्वामित्व\" के भंडार में वृद्धि की है। इसका तात्पर्य है कि तर्क-विजय पर्याप्त नहीं है। ज्ञान की वास्तविक कसौटी यह है कि वह अहंकारपूर्ण आत्म-प्रदर्शन को कमजोर करे और ज्ञाता का रूपांतरण करे।\nनिष्कर्ष 4: गलत सिद्धांतों का सार्वजनिक रूप से सटीक उच्चारण करना वास्तविक समझ के रूप में प्रशंसित नहीं, बल्कि आलोचित किया गया है। परिच्छेद का आरंभ ही इस तथ्य को दर्शाता है कि शिष्यों को सिद्धांतों में दक्षता प्राप्त करने के लिये पुरस्कृत किया जाता था, इससे पहले कि वे आंतरिक रूप से उनसे उद्वेलित हों। अतः आत्म-विस्थापन के बिना केवल सैद्धांतिक प्रवीणता सतही ही बनी रहती है।\nअतः विकल्प (d) सही है।[cite: 2]",
+      "en": "Conclusion 1: Correct The passage repeatedly distinguishes two forms of knowledge. One is merely acquisitive: the pupil gathers doctrine as \"intellectual possession\" and uses it to decorate the ego. The other is transformative: knowledge becomes genuine when it \"displaces\" the knower. Therefore, the passage does not treat learning as accumulation alone; it links real knowing with inner alteration.\nConclusion 2: Incorrect Silence is not described as hostility to reasoning. The passage clearly says silence is \"not the desertion of reason.\" Its role is to make thought withdraw from performance and examine its hunger for finality. Hence, silence deepens inquiry; it does not replace rational discussion with anti-intellectual quietism.\nConclusion 3: Correct The pupil who defeats others in debate but remains inwardly unchanged is said to have merely increased his stock of intellectual possession. This means victory in an argument is not sufficient. The test of knowledge lies in whether it weakens egoistic self-display and transforms the knower.\nConclusion 4: Incorrect Public precision in reciting doctrine is criticized rather than praised as genuine understanding. The passage begins by showing pupils rewarded for mastering doctrines before being inwardly disturbed by them. Thus, doctrinal fluency without self-displacement remains superficial.\nHence, option (d) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 2,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "मठ के विद्यालय में, शिष्यों को सिद्धांतों को कंठस्थ करने पर तब सराहा जाता था, जब तक उन सिद्धांतों ने उन्हें दोहराने वाले \"अहं\" को प्रभावित नहीं किया था। इसलिये, नए शिक्षक प्रत्येक शास्त्रार्थ का अंत मौन के साथ करते थे-किसी श्रद्धा के भाव से नहीं, बल्कि ज्ञान के अहंकार की जाँच करने के उद्देश्य से। उनका तर्क था कि वाणी अक्सर समझ को 'अहंकार के आभूषण' में बदल देती है। मौन, तर्क का त्याग नहीं था, यह वह समय था जिसमें विचार प्रदर्शन से दूर हटकर अंतिम निष्कर्ष पाने की अपनी इच्छा का परीक्षण करता था। जिस शिष्य ने दूसरों को शास्त्रार्थ में हरा तो दिया, पर खुद के भीतर कोई बदलाव नहीं लाया, उसने केवल अपनी बौद्धिक संपत्ति बढ़ाई थी। ज्ञान सच्चा तभी कहलाता था जब वह बुद्धिमान व्यक्ति का अलंकरण करना बंद कर देगा तथा अपने भीतर के 'अहंकार' को समाप्त करना प्रारंभ करेगा।[cite: 2]",
+      "en": "In the monastery school, pupils gained praise for mastering doctrines before those doctrines had disturbed the self that recited them. The new instructor therefore ended every disputation with silence, not as reverence, but as a scrutiny of knowledge's vanity. Speech, he argued, often turns understanding into an ornament of the ego. Silence was not the desertion of reason; it was the interval in which thought withdrew from performance and examined its appetite for finality. A pupil who defeated others yet remained inwardly unaltered had merely increased his stock of intellectual possession. Knowledge became genuine only when it ceased to embellish the knower and began to displace him.[cite: 2]"
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "प्रशिक्षक का मौन एक औपचारिक विराम के रूप में नहीं, बल्कि एक ज्ञानमीमांसात्मक अनुशासन के रूप में कार्य करता है।[cite: 2]",
+        "en": "The instructor's silence functions as an epistemic discipline rather than as a ceremonial pause.[cite: 2]"
+      },
+      {
+        "id": 2,
+        "hi": "वास्तविक जिज्ञासा को अहंकार की उस प्रवृत्ति से पृथक किया जाता है, जो ज्ञान को प्रत्यक्ष श्रेष्ठता के प्रदर्शन में परिवर्तित कर देती है।[cite: 2]",
+        "en": "The genuine inquiry is separated from the ego's tendency to convert knowledge into visible superiority.[cite: 2]"
+      },
+      {
+        "id": 3,
+        "hi": "वाद-विवाद में वाक्पटुता को दार्शनिक रूपांतरण के पर्याप्त प्रमाण के रूप में माना जाता है।[cite: 2]",
+        "en": "Verbal brilliance in disputation is treated as sufficient evidence of philosophical transformation.[cite: 2]"
+      },
+      {
+        "id": 4,
+        "hi": "यह परिच्छेद ज्ञाता के अंतःस्थल को विचलित करने की प्रक्रिया को एक दोष के रूप में प्रस्तुत करता है, जो वास्तविक बोध में बाधा उत्पन्न करता है।[cite: 2]",
+        "en": "The passage regards the unsettling of the knower as a defect that obstructs true understanding.[cite: 2]"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा/से कथन सही नहीं है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः[cite: 2]",
+      "en": "Which of the following statements is/are not correct?\nSelect the correct answer using the code given below.[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2[cite: 2]",
+        "en": "1 and 2 only[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3[cite: 2]",
+        "en": "3 only[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3 और 4[cite: 2]",
+        "en": "3 and 4 only[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "1, 3 और 4[cite: 2]",
+        "en": "1, 3 and 4[cite: 2]"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कथन 1: सही प्रशिक्षक द्वारा आरोपित मौन को स्पष्ट रूप से \"श्रद्धा नहीं\" बताया गया है। यह ज्ञान के अहंकार की जाँच करने की एक विधि है। अतः इसका उद्देश्य बौद्धिक एवं ज्ञानमीमांसात्मक है, न कि कोई सजावटी अथवा अनुष्ठानिक संकेत।\nकथन 2: सही परिच्छेद में कहा गया है कि वाणी प्रायः समझ को अहंकार के आभूषण में परिवर्तित कर देती है। इसमें उन शिष्यों की भी आलोचना की गई है, जो ज्ञान को अपनी संपत्ति के रूप में ग्रहण करते हैं। इस प्रकार, वास्तविक जिज्ञासा को ज्ञान के माध्यम से स्वयं को श्रेष्ठ प्रदर्शित करने की इच्छा से पृथक किया गया है।\nकथन 3: गलत परिच्छेद मौखिक प्रखरता को पर्याप्त नहीं मानता है। ऐसा शिष्य जो दूसरों को पराजित कर देता है, किंतु स्वयं में कोई परिवर्तन नहीं लाता, उसने मात्र बौद्धिक संपत्ति का संचय किया है। अतः आत्मिक रूपांतरण के बिना तर्क-वितर्क में उत्कृष्टता को अपर्याप्त बताया गया है।\nकथन 4: गलत परिच्छेद आंतरिक व्याकुलता को दोष नहीं मानता है। इसके विपरीत, यह संकेत देता है कि ज्ञान तब वास्तविक बनता है, जब वह ज्ञाता को विचलित करता है और उसके पूर्वाग्रहों को विस्थापित करता है। अतः व्याकुलता गहन समझ की बाधा नहीं, बल्कि उसकी एक आवश्यक शर्त है।\nअतः विकल्प (c) सही है।[cite: 2]",
+      "en": "Statement 1: Correct- The silence imposed by the instructor is explicitly described as \"not reverence.\" It is a method of examining knowledge's vanity. Therefore, it is intellectual and epistemic in function, not a decorative or ritualistic gesture.\nStatement 2: Correct - The passage says speech often turns understanding into an ornament of the ego. It also criticises pupils who use knowledge as possession. Thus, genuine inquiry is separated from the desire to appear superior through knowledge.\nStatement 3: Not correct The passage rejects verbal brilliance as sufficient. A pupil who defeats others but remains unchanged has merely accumulated intellectual possession. Therefore, argumentative excellence without inward transformation is shown as inadequate.\nStatement 4: Not correct The passage does not treat inner disturbance as a defect. On the contrary, it suggests that knowledge becomes genuine when it unsettles and displaces the knower. Disturbance is therefore a condition of deeper understanding, not an obstacle to it.\nHence, option (c) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 3,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "राजकोषीय संघवाद प्रायः अंतरणों, अनुदानों और सूत्रों का विषय प्रतीत होता है, किंतु इसका संवैधानिक तनाव तब प्रारंभ होता है, जब राजकोषीय गणित राजनीतिक स्वायत्तता का पुनर्गठन करने लगता है। एक ऐसे राज्य को, जिसे विद्यालयों, चिकित्सालयों, कल्याणकारी योजनाओं और पारिस्थितिकीय पुनर्स्थापन जैसी सेवाएँ प्रदान करनी हों, जबकि राजस्व पर नियंत्रण अन्यत्र निहित हो, तो वह समानुपातिक अधिकारिता के बिना उत्तरदायित्व वहन करता है। एक असमान संघ में पुनर्वितरण आवश्यक है; तथापि, यह तब संरक्षणवादी स्वरूप ग्रहण कर लेता है, जब बंधित अनुदान निर्वाचित राज्य सरकारों की प्राथमिकताओं को केंद्र द्वारा निर्धारित अनुपालन में परिवर्तित कर देते हैं। प्रश्न स्वयं संसाधनों के साझाकरण का नहीं है, बल्कि यह है कि क्या संसाधन वितरण उप-राष्ट्रीय सरकारों को नीति-निर्माण के लोकतांत्रिक कर्त्ता के रूप में मान्यता प्रदान करता है। एक न्यायसंगत राजकोषीय व्यवस्था व्यय का वित्तपोषण करती है, जबकि ऊर्ध्वाधर असंतुलन को उन लोगों के मध्य पदानुक्रम में परिवर्तित होने से रोकती है, जो निर्णय लेते हैं और वे जो केवल कार्यान्वयन करते हैं।[cite: 2]",
+      "en": "Fiscal federalism appears to be a matter of transfers, grants and formulae, but its constitutional strain begins when fiscal arithmetic reorganizes political autonomy. A State required to provide schools, clinics, welfare and ecological repair while revenues remain controlled elsewhere bears responsibility without commensurate agency. Redistribution is necessary in an unequal federation; yet it becomes paternal when tied grants convert elected State priorities into centrally scripted compliance. The issue is not resource sharing itself, but whether sharing recognizes subnational governments as democratic authors of policy. A just fiscal order finances expenditure while preventing vertical imbalance from becoming a hierarchy between those who decide and those who merely implement.[cite: 2]"
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "राजकोषीय वितरण को लोकतांत्रिक न्याय के प्रश्न के रूप में माना जाता है, क्योंकि यह राज्यों की प्रभावी स्वायत्तता को आकार देता है।[cite: 2]",
+        "en": "The fiscal distribution is treated as a question of democratic justice because it shapes the effective autonomy of the States.[cite: 2]"
+      },
+      {
+        "id": 2,
+        "hi": "सशर्त वित्तपोषण आपत्तिजनक हो जाता है, जब यह राज्य-स्तरीय प्राथमिकताओं को केंद्र द्वारा अभिकल्पित उद्देश्यों के अनुपालन में परिवर्तित कर देता है।[cite: 2]",
+        "en": "Conditional funding becomes objectionable when it transforms State-level priorities into compliance with centrally designed purposes.[cite: 2]"
+      },
+      {
+        "id": 3,
+        "hi": "केंद्रीय पुनर्वितरण को अस्वीकार किया जाता है, क्योंकि संघ द्वारा संसाधनों का साझाकरण संघीय स्वायत्तता के साथ स्वभावतः असंगत है।[cite: 2]",
+        "en": "Central redistribution is rejected because resource sharing by the Union is inherently incompatible with federal autonomy.[cite: 2]"
+      },
+      {
+        "id": 4,
+        "hi": "राजकोषीय पर्याप्तता तब प्राप्त होती है, जब राज्य व्यय का वित्तपोषण कर दिया जाता है, चाहे नीति निर्माण और कार्यान्वयन के मध्य कोई भी पदानुक्रम क्यों न हो।[cite: 2]",
+        "en": "Fiscal adequacy is achieved once State expenditure is financed, irrespective of the hierarchy between policy formulation and implementation.[cite: 2]"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा/से निष्कर्ष सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः[cite: 2]",
+      "en": "Which of the following conclusions is/are correct?\nSelect the correct answer using the code given below.[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2[cite: 2]",
+        "en": "1 and 2 only[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 4[cite: 2]",
+        "en": "2 and 4 only[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2 और 3[cite: 2]",
+        "en": "1, 2 and 3[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3[cite: 2]",
+        "en": "3 only[cite: 2]"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "निष्कर्ष 1: सही परिच्छेद राजकोषीय व्यवस्थाओं को राजनीतिक स्वायत्तता से जोड़ता है। एक ऐसा राज्य जिसे पर्याप्त राजस्व अधिकारों के बिना लोक सेवाओं का वितरण करना होता है, उसके पास उत्तरदायित्व तो होता है, किंतु निर्णयन की क्षमता नहीं होती। अतः राजकोषीय वितरण केवल तकनीकी विषय नहीं है; यह निर्धारित करता है कि उप-राष्ट्रीय लोकतंत्र के पास वास्तविक निर्णय निर्माण की क्षमता है या नहीं।\nनिष्कर्ष 2: सही संबद्ध अनुदानों की आलोचना इस आधार पर की जाती है कि वे निर्वाचित राज्य की प्राथमिकताओं को \"केंद्र द्वारा निर्धारित अनुपालन\" में परिवर्तित कर देते हैं। समस्या वित्तपोषण में नहीं है, बल्कि ऐसे वित्तपोषण में है जो स्थानीय लोकतांत्रिक विकल्पों को केंद्रीय रूप से निर्धारित ढाँचे के अनुरूप आज्ञापालन में परिवर्तित कर देता है।\nनिष्कर्ष 3: गलत परिच्छेद स्पष्ट रूप से कहता है कि असमान संघीय व्यवस्था में पुनर्वितरण आवश्यक है। अतः यह केंद्रीय संसाधन साझाकरण को अस्वीकार नहीं करता है। यह केवल पुनर्वितरण के उस पितृसत्तात्मक स्वरूप का विरोध करता है, जो राज्यों की स्वायत्त निर्णय क्षमता को कमजोर करता है।\nनिष्कर्ष 4: गलत परिच्छेद में कहा गया है कि एक न्यायसंगत राजकोषीय व्यवस्था केवल व्यय का वित्तपोषण करने से अधिक कार्य करती है। उसे यह भी सुनिश्चित करना चाहिये कि ऊर्ध्वाधर असंतुलन उन लोगों के बीच पदानुक्रम में परिवर्तित न हो जाए जो निर्णय लेते हैं और जो केवल क्रियान्वयन करते हैं। अतः केवल वित्तीय सहायता पर्याप्त नहीं है।\nअतः विकल्प (a) सही है।[cite: 2]",
+      "en": "Conclusion 1: Correct The passage links fiscal arrangements with political autonomy. A State that must deliver public goods without adequate revenue authority has responsibility but lacks agency. Hence, fiscal distribution is not merely technical; it determines whether subnational democracy has real decision-making capacity.\nConclusion 2: Correct Tied grants are criticised because they convert elected State priorities into \"centrally scripted compliance.\" The problem is not funding as such, but funding that restructures local democratic choice into obedience to central design.\nConclusion 3: Incorrect The passage explicitly says redistribution is necessary in an unequal federation. Therefore, it does not reject central resource sharing. It rejects only the paternal form of redistribution that weakens State agency.\nConclusion 4: Incorrect The passage states that a just fiscal order does more than finance expenditure. It must also prevent vertical imbalance from becoming a hierarchy between those who decide and those who implement. Thus, funding alone is not enough.\nHence, option (a) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 4,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "राजकोषीय संघवाद प्रायः अंतरणों, अनुदानों और सूत्रों का विषय प्रतीत होता है, किंतु इसका संवैधानिक तनाव तब प्रारंभ होता है, जब राजकोषीय गणित राजनीतिक स्वायत्तता का पुनर्गठन करने लगता है। एक ऐसे राज्य को, जिसे विद्यालयों, चिकित्सालयों, कल्याणकारी योजनाओं और पारिस्थितिकीय पुनर्स्थापन जैसी सेवाएँ प्रदान करनी हों, जबकि राजस्व पर नियंत्रण अन्यत्र निहित हो, तो वह समानुपातिक अधिकारिता के बिना उत्तरदायित्व वहन करता है। एक असमान संघ में पुनर्वितरण आवश्यक है; तथापि, यह तब संरक्षणवादी स्वरूप ग्रहण कर लेता है, जब बंधित अनुदान निर्वाचित राज्य सरकारों की प्राथमिकताओं को केंद्र द्वारा निर्धारित अनुपालन में परिवर्तित कर देते हैं। प्रश्न स्वयं संसाधनों के साझाकरण का नहीं है, बल्कि यह है कि क्या संसाधन वितरण उप-राष्ट्रीय सरकारों को नीति-निर्माण के लोकतांत्रिक कर्त्ता के रूप में मान्यता प्रदान करता है। एक न्यायसंगत राजकोषीय व्यवस्था व्यय का वित्तपोषण करती है, जबकि ऊर्ध्वाधर असंतुलन को उन लोगों के मध्य पदानुक्रम में परिवर्तित होने से रोकती है, जो निर्णय लेते हैं और वे जो केवल कार्यान्वयन करते हैं।[cite: 2]",
+      "en": "Fiscal federalism appears to be a matter of transfers, grants and formulae, but its constitutional strain begins when fiscal arithmetic reorganizes political autonomy. A State required to provide schools, clinics, welfare and ecological repair while revenues remain controlled elsewhere bears responsibility without commensurate agency. Redistribution is necessary in an unequal federation; yet it becomes paternal when tied grants convert elected State priorities into centrally scripted compliance. The issue is not resource sharing itself, but whether sharing recognizes subnational governments as democratic authors of policy. A just fiscal order finances expenditure while preventing vertical imbalance from becoming a hierarchy between those who decide and those who merely implement.[cite: 2]"
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह परिच्छेद समानतामूलक पुनर्वितरण को उस राजकोषीय नियंत्रण से अलग करता है, जो राज्य-स्तरीय नीतिगत विकल्पों को अधीनस्थ बना देता है।[cite: 2]",
+        "en": "The passage distinguishes equalizing redistribution from fiscal control that subordinates State-level policy choices.[cite: 2]"
+      },
+      {
+        "id": 2,
+        "hi": "जब किसी राज्य की व्यय संबंधी उत्तरदायित्व उसकी राजकोषीय अधिकारिता से अधिक हो जाती है, तो उसकी स्वायत्तता केवल नाममात्र की रह जाती है।[cite: 2]",
+        "en": "A State's autonomy becomes hollow when its expenditure responsibilities exceed its fiscal authority.[cite: 2]"
+      },
+      {
+        "id": 3,
+        "hi": "ऊर्ध्वाधर राजकोषीय असंतुलन को लोकतांत्रिक परिणामों से रहित एक तटस्थ लेखांकन असंगति के रूप में प्रस्तुत किया गया है।[cite: 2]",
+        "en": "Vertical fiscal imbalance is presented as a neutral accounting mismatch without democratic consequences.[cite: 2]"
+      },
+      {
+        "id": 4,
+        "hi": "सशर्त अनुदानों को उप-राष्ट्रीय लोकतांत्रिक स्वामित्व को सुदृढ़ करने के सर्वाधिक उपयुक्त साधन के रूप में प्रस्तुत किया गया है।[cite: 2]",
+        "en": "Conditional grants are presented as the most appropriate means of strengthening subnational democratic authorship.[cite: 2]"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा/से कथन सही नहीं है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः[cite: 2]",
+      "en": "Which of the following statements is/are not correct?\nSelect the correct answer using the code given below.[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2[cite: 2]",
+        "en": "1 and 2 only[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3 और 4[cite: 2]",
+        "en": "3 and 4 only[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3[cite: 2]",
+        "en": "2 and 3 only[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "1, 3 और 4[cite: 2]",
+        "en": "1, 3 and 4[cite: 2]"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कथन 1: सही परिच्छेद असमान संघों में पुनर्वितरण को आवश्यक मानता है। हालाँकि यह संबद्ध अनुदानों की आलोचना करता है, जब वे संरक्षणवादी हो जाते हैं और राज्यों की प्राथमिकताओं को अधीनस्थ बना देते हैं। अतः यह स्पष्ट रूप से समानता-आधारित समर्थन और नियंत्रित राजकोषीय संरचना के मध्य अंतर करता है।\nकथन 2: सही राज्य को विद्यालयों, स्वास्थ्य केंद्रों, कल्याणकारी योजनाओं और पारिस्थितिकीय पुनर्स्थापन के लिये उत्तरदायी बताया गया है, जबकि राजस्व नियंत्रण अन्यत्र निहित है। यह असंगति स्वायत्तता को अधिकार-संपन्नता के बिना केवल उत्तरदायित्व में परिवर्तित कर देती है, जिससे राज्य स्वायत्तता खोखली हो जाती है।\nकथन 3: गलत ऊर्ध्वाधर राजकोषीय असंतुलन को किसी तटस्थ लेखांकन संबंधी विषय के रूप में वर्णित नहीं किया गया है। इसे एक राजनीतिक और लोकतांत्रिक समस्या के रूप में प्रस्तुत किया गया है, क्योंकि यह उन लोगों के मध्य पदानुक्रम उत्पन्न करता है जो नीतियों का निर्माण करते हैं और उन लोगों के मध्य जो केवल उनका क्रियान्वयन करते हैं。\nकथन 4: गलत परिच्छेद सशर्त अनुदानों की प्रशंसा नहीं करता है। यह संबद्ध अनुदानों की आलोचना करता है, जब वे निर्वाचित राज्य प्राथमिकताओं को केंद्र द्वारा निर्धारित अनुपालन-आधारित व्यवस्था में परिवर्तित कर देते हैं। ऐसे अनुदान उप-राष्ट्रीय लोकतांत्रिक नीति-निर्माण की क्षमता को सुदृढ़ करने के स्थान पर उसे कमज़ोर करते हैं।\nअतः विकल्प (b) सही है।[cite: 2]",
+      "en": "Statement 1: Correct The passage accepts redistribution as necessary in unequal federations. However, it criticises tied grants when they become paternal and subordinate State priorities. Hence, it clearly separates equalising support from controlling fiscal design.\nStatement 2: Correct - The State is described as responsible for schools, clinics, welfare and ecological repair while revenue control lies elsewhere. This mismatch turns autonomy into responsibility without agency, making State autonomy hollow.\nStatement 3: Not correct  Vertical fiscal imbalance is not described as a neutral accounting issue. It is shown as a political and democratic problem because it produces hierarchy between those who formulate policy and those who merely execute it.\nStatement 4: Not correct The passage does not praise conditional grants. It criticises tied grants when they convert elected State priorities into centrally scripted compliance. Such grants weaken, rather than strengthen, subnational democratic authorship.\nHence, option (b) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 5,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "शिव नगर में, नगर पालिका ने कागजी राशन रसीदों के स्थान पर परिवार पहचान संख्याओं से संबद्ध बायोमेट्रिक कियोस्क स्थापित किये। डैशबोर्ड आदर्श प्रतीत होता थाः फर्जी प्रविष्टियों में कमी आई, भंडार की आवाजाही का अनुरक्षण किया गया और मासिक निकासी पंजीकृत पात्रताओं के अनुरूप रही। फिर भी, साझा कमरों में रहने वाले प्रवासी श्रमिक, ऐसे किरायेदार जिनके दस्तावेज़ अभी भी दूरस्थ गाँवों से संबद्ध थे तथा पंजीकृत परिवारों से बाहर भोजन करने वाले वृद्ध आश्रित-इन सभी ने उधार लिये गए काडौँ, अनौपचारिक खरीद एवं पड़ोसियों के अवैतनिक सहयोगात्मक दावों के माध्यम से खाद्य व्यवस्था में प्रवेश किया। उनकी भूख बहिष्करण के रूप में अभिव्यक्त नहीं हुई, क्योंकि प्रणाली ने प्रमाणित निकासी को ही पहुँच के रूप में दर्ज किया। योजना विफल नहीं हुई थी; बल्कि उसने दृश्यता के एक संकीर्ण आयाम को पूर्णता प्रदान कर दी थी। इसने वितरण व्यवस्था की स्वच्छता को मापा, न कि भोजन ग्रहण करने के सामाजिक भूगोल को।[cite: 2]",
+      "en": "In Shiv Nagar, the municipality replaced paper ration slips with biometric kiosks linked to household identity numbers. The dashboard looked exemplary: ghost entries declined, stock movement became traceable, and monthly withdrawals matched registered entitlements. Yet migrant workers living in shared rooms, tenants whose documents remained tied to distant villages, and elderly dependents eating outside registered households entered the food economy through borrowed cards, informal purchases and unpaid neighbourly claims. Their hunger did not appear as an exclusion because the system counted authenticated withdrawal as access. The scheme had not collapsed; it had perfected a narrow visibility. It measured the cleanliness of delivery, not the social geography of eating.[cite: 2]"
+    },
+    "statements": null,
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा कथन दिये गए परिच्छेद के दृष्टिकोण को सर्वाधिक उपयुक्त रूप से प्रतिबिंबित करता है?[cite: 2]",
+      "en": "Which one among the following statements most appropriately reflects the point of view of the given passage?[cite: 2]"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "डिजिटल राशन प्रणालियाँ दोषपूर्ण हो जाती हैं, क्योंकि बायोमेट्रिक सत्यापन अनिवार्य रूप से रिसाव को रोकने की प्रशासनिक क्षमता को कमज़ोर करता है।[cite: 2]",
+        "en": "Digital ration systems become defective because biometric verification inevitably weakens the administrative capacity to prevent leakage.[cite: 2]"
+      },
+      {
+        "id": "B",
+        "hi": "कल्याणकारी डेटाबेस खाद्य सुरक्षा के विश्वसनीय संकेतक बन जाते हैं, जब फर्जी प्रविष्टियों और भंडार रिसाव को पर्याप्त रूप से कम कर दिया जाता है।[cite: 2]",
+        "en": "Welfare databases become reliable indicators of food security once ghost entries and stock leakages are substantially reduced.[cite: 2]"
+      },
+      {
+        "id": "C",
+        "hi": "राशन कार्डों का अनौपचारिक साझाकरण यह सिद्ध करता है कि लाभार्थी जानबूझकर पारदर्शी कल्याणकारी शासन में बाधा उत्पन्न करते हैं।[cite: 2]",
+        "en": "Informal sharing of ration cards proves that beneficiaries deliberately obstruct transparent welfare governance.[cite: 2]"
+      },
+      {
+        "id": "D",
+        "hi": "कल्याणकारी वितरण में तकनीकी सफलता तब सामाजिक रूप से बहिष्कारी बन जाती है, जब प्रमाणित लेन-देन को आजीविका हेतु आवश्यक वास्तविक पहुँच के रूप में समझ लिया जाता है।[cite: 2]",
+        "en": "Technical success in welfare delivery becomes socially exclusionary when authenticated transactions are mistaken for actual access to subsistence.[cite: 2]"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "(a) विकल्प - गलतः परिच्छेद यह स्पष्ट नहीं करता है कि बायोमेट्रिक सत्यापन प्रशासन को कमजोर करता है। वास्तव में, यह प्रणाली फर्जी प्रविष्टियों में कमी, भंडार की अनुरेखणीयता और पात्रता के उचित मिलान जैसे प्रशासनिक संकेतकों में सुधार करती है। आलोचना का केंद्र किसी अन्य बिंदु पर है: प्रशासनिक सटीकता उन अपंजीकृत निर्भरताओं को दर्ज करने में असफल रहती है।\n(b) विकल्प गलतः परिच्छेद इस विचार को अस्वीकार करता है कि अधिक शुद्ध अभिलेख खाद्य सुरक्षा को सिद्ध करते हैं। फर्जी प्रविष्टियों में कमी और भंडार अनुशासन वितरण संबंधी संकेतकों में सुधार करते हैं, किंतु वे यह सिद्ध नहीं करते कि सभी आश्रित उपभोक्ता प्रणाली के अंतर्गत दृश्यमान हैं।\n(c) विकल्प गलतः उधार लिये गए कार्ड और अनौपचारिक खरीद को जानबूझकर किये गए अवरोध के रूप में प्रस्तुत नहीं किया गया है। ये उन लोगों द्वारा अपनाए गए जीवन-निर्वाह तंत्र हैं, जो आधिकारिक पहचान संरचना के दायरे से बाहर रह जाते हैं।\n(d) विकल्प सहीः यह विकल्प केंद्रीय दृष्टिकोण को अभिव्यक्त करता है। यह योजना तकनीकी रूप से सफल प्रतीत होती है, फिर भी यह उन लोगों को बाहर कर देती है अथवा अदृश्य बना देती है, जिनकी खाद्य पहुँच आधिकारिक पारिवारिक श्रेणियों के अनुरूप नहीं होती। परिच्छेद प्रमाणीकृत वितरण और वास्तविक जीवन-निर्वाह हेतु खाद्य पहुँच के मध्य भ्रम की आलोचना करता है।\nअतः विकल्प (d) सही है।[cite: 2]",
+      "en": "Option (a) Incorrect: The passage does not say biometric verification weakens administration. In fact, the system improves administrative indicators such as reduction of ghost entries, stock traceability and entitlement matching. The criticism lies elsewhere: administrative precision fails to capture unregistered dependence.\nOption (b) Incorrect: The passage rejects the idea that cleaner records prove food security. Ghost reduction and stock discipline improve delivery metrics, but they do not prove that all dependent eaters are visible to the system.\nOption (c) Incorrect: Borrowed cards and informal purchases are not presented as deliberate obstruction. They are survival mechanisms used by people who fall outside the official structure of recognition.\nOption (d) Correct: This option captures the central viewpoint. The scheme appears technically successful, yet it excludes or invisibilises people whose food access does not match official household categories. The passage criticises the confusion between authenticated delivery and real subsistence access.\nHence, option (d) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 6,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "शिव नगर में, नगर पालिका ने कागजी राशन रसीदों के स्थान पर परिवार पहचान संख्याओं से संबद्ध बायोमेट्रिक कियोस्क स्थापित किये। डैशबोर्ड आदर्श प्रतीत होता थाः फर्जी प्रविष्टियों में कमी आई, भंडार की आवाजाही का अनुरक्षण किया गया और मासिक निकासी पंजीकृत पात्रताओं के अनुरूप रही। फिर भी, साझा कमरों में रहने वाले प्रवासी श्रमिक, ऐसे किरायेदार जिनके दस्तावेज़ अभी भी दूरस्थ गाँवों से संबद्ध थे तथा पंजीकृत परिवारों से बाहर भोजन करने वाले वृद्ध आश्रित-इन सभी ने उधार लिये गए काडौँ, अनौपचारिक खरीद एवं पड़ोसियों के अवैतनिक सहयोगात्मक दावों के माध्यम से खाद्य व्यवस्था में प्रवेश किया। उनकी भूख बहिष्करण के रूप में अभिव्यक्त नहीं हुई, क्योंकि प्रणाली ने प्रमाणित निकासी को ही पहुँच के रूप में दर्ज किया। योजना विफल नहीं हुई थी; बल्कि उसने दृश्यता के एक संकीर्ण आयाम को पूर्णता प्रदान कर दी थी। इसने वितरण व्यवस्था की स्वच्छता को मापा, न कि भोजन ग्रहण करने के सामाजिक भूगोल को।",
+      "en": "In Shiv Nagar, the municipality replaced paper ration slips with biometric kiosks linked to household identity numbers. The dashboard looked exemplary: ghost entries declined, stock movement became traceable, and monthly withdrawals matched registered entitlements. Yet migrant workers living in shared rooms, tenants whose documents remained tied to distant villages, and elderly dependents eating outside registered households entered the food economy through borrowed cards, informal purchases and unpaid neighbourly claims. Their hunger did not appear as an exclusion because the system counted authenticated withdrawal as access. The scheme had not collapsed; it had perfected a narrow visibility. It measured the cleanliness of delivery, not the social geography of eating."
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कल्याणकारी प्रणाली सामाजिक रूप से भ्रामक हो जाती है, जब वह पंजीकृत परिवार को भूख और निर्भरता की वास्तविक इकाई के समान मान लेती है।",
+        "en": "A welfare system becomes socially misleading when it treats the registered household as identical with the actual unit of hunger and dependence."
+      },
+      {
+        "id": 2,
+        "hi": "फर्जी प्रविष्टियों में कमी यह स्थापित करती है कि प्रवासी श्रमिकों, किरायेदारों और आश्रितों के मध्य अनौपचारिक खाद्य असुरक्षा का समाधान हो गया है।",
+        "en": "The reduction of ghost entries establishes that informal food insecurity among migrants, tenants, and dependents has been resolved."
+      },
+      {
+        "id": 3,
+        "hi": "उधार लिये गए कार्ड और पड़ोसियों से भोजन की मांग, प्रशासनिक पात्रता एवं वास्तविक जीवन में उपलब्ध पहुँच के मध्य विद्यमान अंतर को उजागर करते हैं।",
+        "en": "Borrowed cards and neighbourly food claims reveal a gap between administrative entitlement and lived access."
+      },
+      {
+        "id": 4,
+        "hi": "योजना की त्रुटि तकनीकी विफलता से उत्पन्न होती है, न कि उन सामाजिक धारणाओं से, जो इसकी श्रेणियों में अंतर्निहित हैं।",
+        "en": "The scheme's defect arises from technological malfunction rather than from the social assumptions embedded in its categories."
+      }
+    ],
+    "question": {
+      "hi": "दिये गए परिच्छेद के आधार पर निकाले गए निम्नलिखित में से कौन-सा/से निष्कर्ष सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following conclusions, made on the basis of the given passage, is/are correct?\nSelect the correct answer using the code given below."
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 3 और 4",
+        "en": "1, 3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "निष्कर्ष 1: सही परिच्छेद दर्शाता है कि प्रणाली परिवार पहचान संख्याओं को मान्यता देती है, किंतु वास्तविक भोजन व्यवस्थाओं में प्रवासी, किरायेदार और पंजीकृत परिवारों से बाहर रहने वाले आश्रित भी सम्मिलित होते हैं। अतः पंजीकृत परिवार वास्तविक खाद्य निर्भरता का अपर्याप्त प्रतिनिधि है।\nनिष्कर्ष 2: गलत फर्जी प्रविष्टियों में कमी आती है, किंतु परिच्छेद दर्शाता है कि उचित पंजीकरण से वंचित लोगों के बीच अदृश्य भूख की समस्या बनी रहती है। प्रशासनिक शुद्धीकरण सामाजिक समावेशन को सुनिश्चित नहीं करता है।\nनिष्कर्ष 3: सही - उधार लिये गए कार्ड, अनौपचारिक खरीद तथा पड़ोसियों के दावों से संकेत मिलता है कि खाद्य तक पहुँच अभी भी अनौपचारिक व्यवस्थाओं के माध्यम से जारी है। ये प्रथाएँ औपचारिक अधिकारिता और वास्तविक निर्वाह के मध्य विद्यमान अंतर को उजागर करती हैं।\nनिष्कर्ष 4: गलत योजना तकनीकी रूप से विफल नहीं होती है। परिच्छेद स्पष्ट करता है कि इसने \"एक संकीर्ण दृश्यता को पूर्णता प्रदान की।\" समस्या मशीनों के खराब होने में नहीं, बल्कि गलत सामाजिक वास्तविकता के मापन में निहित है।\nअतः विकल्प (c) सही है।",
+      "en": "Conclusion 1: Correct The passage shows that the system recognizes household identity numbers, but actual eating arrangements include migrants, tenants and dependents outside registered households. Thus, the registered household is an insufficient proxy for real food dependence.\nConclusion 2: Incorrect Ghost entries decline. but the passage shows continuing invisible hunger among those who lack proper registration. Administrative cleansing does not establish social inclusion.\nConclusion 3: Correct Borrowed cards, informal purchases and neighbourly claims indicate that food access continues through unofficial arrangements. These practices expose the gap between formal entitlement and actual subsistence.\nConclusion 4: Incorrect The scheme does not fail technologically. The passage says it \"perfected a narrow visibility.\" The problem lies in measuring the wrong social reality, not in malfunctioning machines.\nHence, option (c) is correct."
+    }
+  },
+  {
+    "id": 7,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "वन विभाग ने उपग्रह-आधारित शुष्कता, छत्रक ह्रास, अग्नि संबंधी इतिहास और अवैध निकासी संबंधी चेतावनियों के माध्यम से पारिस्थितिकीय जोखिम का पूर्वानुमान लगाने हेतु एक कृत्रिम बुद्धिमत्ता प्लेटफॉर्म प्रारंभ किया। गश्ती कार्य, वित्तीय संसाधन और प्रतिबंध मानचित्र के रेड-ज़ोन के आधार पर निर्धारित किये जाने लगे। इस प्रणाली ने प्रतिक्रिया समय में सुधार किया तथा प्रभावशाली जोखिम उत्पन्न किये। फिर भी, चरवाहों द्वारा नियंत्रित दहन, बीज प्रसार मार्ग, कवकीय अपघटन, मौसमी चराई दबाव तथा जल के संबंध में सामुदायिक ज्ञान मॉडल के पारिभाषिक ढाँचे के अंतर्गत शामिल नहीं किये गए। निम्न जोखिम के रूप में चिह्नित क्षेत्रों में क्षेत्रीय निरीक्षण कम हो गए, जबकि लाल क्षेत्रों के समीप स्थित ग्रामों को संभावित अपराधियों के रूप में देखा जाने लगा। इस प्लेटफॉर्म ने केवल वन का अवलोकन नहीं किया बल्कि इसने ध्यान, संदेह और बजटीय प्राथमिकताओं की संरचना को पुनर्गठित किया। प्रकृति शासन व्यवस्था में गणनायोग्य संकेतकों के एक समूह के रूप में प्रवेश कर गई, जबकि जो पारिस्थितिकीय संबंधी डेटाफिकेशन से बाहर रह गए, संस्थागत अभिव्यक्ति से वंचित हो गए।",
+      "en": "A forest department introduced an Al platform to predict ecological risk through satellite dryness, canopy loss, fire history, and illegal-clearance alerts. Patrols, funds and restrictions began following the map's red zones. The system improved response time and produced persuasive risk scores. Yet pastoral burning, seed dispersal routes, fungal decline, seasonal grazing pressure, and community water knowledge remained outside the model's vocabulary. Areas marked low-risk lost field visits, while villages near red zones were treated as latent offenders. The platform did not merely observe the forest; it reorganized attention, suspicion, and budget. Nature entered governance as a set of computable signals, while ecological relations that escaped datafication lost institutional speech."
+    },
+    "statements": null,
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा कथन दिये गए परिच्छेद के दृष्टिकोण को सर्वाधिक उपयुक्त रूप से प्रतिबिंबित करता है?",
+      "en": "Which one among the following statements most appropriately reflects the point of view of the given passage?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कंप्यूटेशनल वानिकी ज्ञानमीमांसात्मक रूप से दुर्बल हो जाती है, क्योंकि पारिस्थितिकीय वास्तविकता किसी भी औपचारिक प्रतिरूप से परे जाकर पूर्वानुमानात्मक अंकन को स्वभावतः संदिग्ध बना देती है।",
+        "en": "Computational forestry becomes epistemically fragile because ecological reality, by exceeding any formal model, renders predictive scoring intrinsically suspect."
+      },
+      {
+        "id": "B",
+        "hi": "समस्या मुख्यतः समुचित अंशांकन के अभाव में निहित है, जहाँ अन्यथा दक्ष रेड-ज़ोन आवंटन पर्याप्त क्षेत्रीय सत्यापन के बिना दंडात्मक स्वरूप ग्रहण कर लेता है।",
+        "en": "The problem lies chiefly in poor calibration, where otherwise efficient red-zone allocation becomes punitive without adequate field verification."
+      },
+      {
+        "id": "C",
+        "hi": "स्थानीय पारिस्थितिकीय ज्ञान को एक श्रेष्ठ साक्ष्यात्मक व्यवस्था के रूप में प्रस्तुत किया जाता है, क्योंकि यह उपग्रह-आधारित प्रतिरूपण द्वारा आरोपित अमूर्तताओं का प्रतिरोध करता है।",
+        "en": "Vernacular ecological knowledge is presented as a superior evidentiary regime because it resists the abstractions imposed by satellite-based modelling."
+      },
+      {
+        "id": "D",
+        "hi": "एल्गोरिद्मिक जोखिम मानचित्र तब शासनात्मक प्रभाव प्राप्त कर लेते हैं, जब चयनात्मक पारिस्थितिकीय दृश्यता प्रशासनिक ध्यान, राजकोषीय प्राथमिकताओं तथा पूर्वानुमानित दोषारोपण के पुनर्विन्यास का कारण बनती है।",
+        "en": "Algorithmic risk maps acquire governing force when selective ecological legibility reallocates administrative attention, fiscal priority and presumptive culpability."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "(a) विकल्प - गलतः परिच्छेद यह तर्क नहीं देता है कि पूर्वानुमानात्मक अंकन स्वभावतः संदिग्ध है अथवा सभी औपचारिक प्रतिरूपण ज्ञानमीमांसीय रूप से अमान्य हैं। यह स्वीकार करता है कि इस प्रणाली ने प्रतिक्रिया समय में सुधार किया तथा प्रभावशाली स्कोर उत्पन्न किये। समस्या चयनित डेटा श्रेणियों के संस्थागत प्रभाव में निहित है।\n(b) विकल्प  गलतः यह अत्यधिक संकीर्ण दृष्टिकोण है। परिच्छेद मुख्यतः तकनीकी अंशांकन अथवा क्षेत्रीय सत्यापन से संबंधित नहीं है। इसकी चिंता इससे अधिक गहन है: पूर्वानुमानात्मक अंकन परिवर्तित करता है कि प्रशासनिक रूप से किसे दृश्यमान, वित्तपोषण योग्य और संदेहास्पद माना जाता है।\n(c) विकल्प गलतः परिच्छेद यह स्थापित नहीं करता है कि समुदाय-आधारित ज्ञान उपग्रह प्रतिरूपण से सरल रूप से श्रेष्ठ है। यह संस्थागत मान्यता में उन अगणनीय पारिस्थितिक संबंधों के बहिष्करण की आलोचना करता है, जिन्हें गणनात्मक रूप से अभिव्यक्त नहीं किया जा सकता।\n(d) विकल्प सहीः यह विकल्प केंद्रीय बिंदु को स्पष्ट रूप से प्रस्तुत करता है। कृत्रिम बुद्धिमत्ता प्लेटफॉर्म केवल कुछ पारिस्थितिक संकेतों को ही शासन-योग्य ज्ञान में परिवर्तित करता है। जब ये संकेत, प्रतिबंधों और बजटीय आवंटनों का आधार बन जाते हैं, तब प्रतिरूप केवल वन का अवलोकन नहीं करता, बल्कि ध्यान, उपेक्षा और संदेह के स्वरूप को पुनर्गठित करता है।\nअतः विकल्प (d) सही है।",
+      "en": "Option (a) Incorrect: The passage does not argue that predictive scoring is intrinsically suspect or that all formal modelling is epistemically invalid. It accepts that the system improved response time and produced persuasive scores. The issue is the institutional effect of selective data categories.\nOption (b) Incorrect: This is too narrow. The passage is not mainly about technical calibration or field verification. Its concern is deeper: datafication changes what becomes administratively visible, fundable and suspect.\nOption (c) Incorrect: The passage does not establish a hierarchy in which community knowledge is simply superior to satellite modelling. It criticises the exclusion of non-computable ecological relations from institutional recognition.\nOption (d) Correct: This option captures the central point. The Al platform turns only some ecological signals into governable knowledge. Once those signals become the basis for patrols, restrictions and budgets, the model reshapes attention, neglect and suspicion rather than merely observing the forest.\nHence, option (d) is correct."
+    }
+  },
+  {
+    "id": 8,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "वन विभाग ने उपग्रह-आधारित शुष्कता, छत्रक ह्रास, अग्नि संबंधी इतिहास और अवैध निकासी संबंधी चेतावनियों के माध्यम से पारिस्थितिकीय जोखिम का पूर्वानुमान लगाने हेतु एक कृत्रिम बुद्धिमत्ता प्लेटफॉर्म प्रारंभ किया। गश्ती कार्य, वित्तीय संसाधन और प्रतिबंध मानचित्र के रेड-ज़ोन के आधार पर निर्धारित किये जाने लगे। इस प्रणाली ने प्रतिक्रिया समय में सुधार किया तथा प्रभावशाली जोखिम उत्पन्न किये। फिर भी, चरवाहों द्वारा नियंत्रित दहन, बीज प्रसार मार्ग, कवकीय अपघटन, मौसमी चराई दबाव तथा जल के संबंध में सामुदायिक ज्ञान मॉडल के पारिभाषिक ढाँचे के अंतर्गत शामिल नहीं किये गए। निम्न जोखिम के रूप में चिह्नित क्षेत्रों में क्षेत्रीय निरीक्षण कम हो गए, जबकि लाल क्षेत्रों के समीप स्थित ग्रामों को संभावित अपराधियों के रूप में देखा जाने लगा। इस प्लेटफॉर्म ने केवल वन का अवलोकन नहीं किया बल्कि इसने ध्यान, संदेह और बजटीय प्राथमिकताओं की संरचना को पुनर्गठित किया। प्रकृति शासन व्यवस्था में गणनायोग्य संकेतकों के एक समूह के रूप में प्रवेश कर गई, जबकि जो पारिस्थितिकीय संबंधी डेटाफिकेशन से बाहर रह गए, संस्थागत अभिव्यक्ति से वंचित हो गए।",
+      "en": "A forest department introduced an Al platform to predict ecological risk through satellite dryness, canopy loss, fire history, and illegal-clearance alerts. Patrols, funds and restrictions began following the map's red zones. The system improved response time and produced persuasive risk scores. Yet pastoral burning, seed dispersal routes, fungal decline, seasonal grazing pressure, and community water knowledge remained outside the model's vocabulary. Areas marked low-risk lost field visits, while villages near red zones were treated as latent offenders. The platform did not merely observe the forest; it reorganized attention, suspicion, and budget. Nature entered governance as a set of computable signals, while ecological relations that escaped datafication lost institutional speech."
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कृत्रिम बुद्धिमत्ता प्लेटफॉर्म पारिस्थितिकीय शासन को चयनात्मक दृश्यता की एक व्यवस्था में परिवर्तित करता है, जहाँ केवल वे वन संबंध, जिन्हें संगणनीय संकेतकों में परिवर्तित किया जा सकता है, प्रशासनिक महत्त्व प्राप्त करते हैं।",
+        "en": "The Al platform converts ecological governance into a regime of selective legibility, where only those forest relations that can be translated into computable indicators acquire administrative weight."
+      },
+      {
+        "id": 2,
+        "hi": "प्लेटफॉर्म की बेहतर प्रतिक्रिया समय-क्षमता यह प्रदर्शित करती है कि एल्गोरिद्मिक जोखिम स्कोर, क्षेत्र-आधारित पारिस्थितिकीय समझ और समुदाय के ज्ञान के पर्याप्त विकल्प के रूप में प्रतिस्थापित किये जा सकते हैं।",
+        "en": "The platform's improved response time demonstrates that algorithmic risk scores can sufficiently substitute for field-based ecological understanding and community knowledge."
+      },
+      {
+        "id": 3,
+        "hi": "पूर्वानुमानात्मक वर्गीकरण केवल संवेदनशील वन क्षेत्रों की पहचान नहीं करता है; बल्कि यह उन समुदायों पर संदेह आरोपित करके सामाजिक परिणाम भी उत्पन्न करता है, जो एल्गोरिद्मिक रूप से चिह्नित जोखिम क्षेत्रों के समीप स्थित हैं।",
+        "en": "Predictive classification does not merely identify vulnerable forest zones; it also produces social consequences by attaching suspicion to communities located near algorithmically marked risk areas."
+      },
+      {
+        "id": 4,
+        "hi": "वे पारिस्थितिकीय संबंध, जो प्लेटफॉर्म की डेटा श्रेणियों के बाहर रह जाते हैं, राजनीतिक रूप से कमज़ोर हो जाते हैं; ऐसा इसलिये नहीं कि वे पारिस्थितिकीय दृष्टि से अप्रासंगिक हैं, बल्कि इसलिये कि उनमें संस्थागत स्वीकार्यता का अभाव होता है।",
+        "en": "Ecological relations that remain outside the platform's data categories become politically weakened, not because they are ecologically irrelevant, but because they lack institutional recognisability."
+      }
+    ],
+    "question": {
+      "hi": "दिये गए परिच्छेद के आधार पर निकाले गए निम्नलिखित में से कौन-सा/से निष्कर्ष सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following conclusions, made on the basis of the given passage, is/are correct?\nSelect the correct answer using the code given below."
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "निष्कर्ष 1 सहीः परिच्छेद यह दर्शाता है कि कृत्रिम बुद्धिमत्ता प्लेटफॉर्म केवल कुछ संकेतों जैसे उपग्रह-आधारित शुष्कता, छत्रक ह्रास, अग्नि संबंधी इतिहास तथा अवैध निकासी संबंधी चेतावनियों को ही प्रशासनिक रूप से दृश्यमान बनाता है। अन्य पारिस्थितिकीय संबंध इसके शब्दावली क्षेत्र से बाहर रह जाते हैं। अतः शासन व्यवस्था चयनात्मक संगणनीयता द्वारा निर्धारित होने लगती है।\nनिष्कर्ष 2 गलतः त्वरित प्रतिक्रिया समय में सुधार को स्वीकार किया गया है, किंतु परिच्छेद इसे व्यापक पारिस्थितिकीय समझ के प्रमाण के रूप में प्रस्तुत नहीं करता है। चरागाह दहन, बीज प्रसार मार्गों, कवकीय ह्रास तथा सामुदायिक जल संबंधी ज्ञान का बहिष्करण एल्गोरिद्मिक जोखिम आकलन की सीमाओं को दर्शाता है।\nनिष्कर्ष 3 सहीः परिच्छेद में कहा गया है कि रेड-ज़ोन के निकट स्थित गाँवों को संभावित अपराधियों के रूप में देखा गया। इसका अर्थ है कि पूर्वानुमानात्मक वर्गीकरण सामाजिक परिणाम उत्पन्न करता है; यह केवल पारिस्थितिकीय ध्यान को पुनर्गठित नहीं करता, बल्कि संदेह की संरचना को भी पुनर्संगठित करता है।\nनिष्कर्ष 4 सहीः परिच्छेद में कहा गया है कि डेटाफिकेशन से बाहर रहने वाले पारिस्थितिकीय संबंधों ने संस्थागत अभिव्यक्ति खो दी। इसका अर्थ है कि वे अपना नीतिगत महत्त्व इसलिये नहीं खोते कि उनका कोई पारिस्थितिकीय मूल्य नहीं है, बल्कि इसलिये कि वे मान्यता प्राप्त डेटा श्रेणियों में अभिव्यक्त नहीं किये जा सकते।\nअतः विकल्प (c) सही है।",
+      "en": "Conclusion 1 Correct: The passage shows that the AI platform makes only certain signals such as satellite dryness, canopy loss, fire history and illegal-clearance alerts administratively visible. Other ecological relations remain outside its vocabulary. Thus, governance becomes shaped by selective computability.\nConclusion 2 Incorrect: Improved response time is acknowledged, but the passage does not treat it as proof of comprehensive ecological understanding. The exclusion of pastoral burning, seed dispersal routes, fungal decline and community water knowledge shows the limits of algorithmic risk scoring.\nConclusion 3 Correct: The passage states that villages near red zones were treated as latent offenders. This means predictive classification creates social consequences; it reorganizes suspicion, not merely ecological attention.\nConclusion 4 Correct: The passage says that ecological relations escaping datafication lost institutional speech. This means they lose policy visibility not because they lack ecological value, but because they are not expressible in recognised data categories.\nHence, option (c) is correct."
+    }
+  },
+  {
+    "id": 9,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "लोक स्मृति का निर्माण प्रायः अतीत का आविष्कार करके नहीं किया जाता; बल्कि अधिकतर यह इस निर्णय के माध्यम से परिष्कृत की जाती है कि अतीत के कौन-से अंश औपचारिक रूप से समीपस्थ स्थान प्राप्त करने के योग्य हैं। एक नवनवीनीकृत नागरिक दीर्घा में औद्योगिक विकास की कथा को मानचित्रों, मशीनों, चित्रों और उद्घाटन-दिवस के भाषणों के माध्यम से व्यवस्थित किया गया। निष्कासन सूचनाएँ, वेतन संबंधी याचिकाएँ और दुर्घटनाओं के साक्ष्य अभिलेख सूची में सुरक्षित रहे, तथापि उन्हें स्मारकीय मार्ग से बाहर रखा गया। अतः आगंतुक का सामना संघर्ष से तभी हुआ, जब उसे \"नगरीय सुधार\" अथवा \"श्रम अनुशासन\" में रूपांतरित कर दिया गया था। इतिहास साक्ष्य के रूप में उपलब्ध बना रहा, किंतु स्मृति को कृतज्ञता के रूप में प्रशिक्षित किया गया। संस्था ने पीड़ा का उन्मूलन नहीं किया; बल्कि उसने पीड़ा को कथात्मक आतिथ्य से वंचित कर दिया। इसका विस्मरण अभिलेखों के अभाव में नहीं, बल्कि उन अभिलेखों को प्रदान किये गये असमान महत्त्व के कारण निहित था।",
+      "en": "Public memory is seldom manufactured by inventing a past; more often, it is curated by deciding which fragments of the past deserve ceremonial nearness. In a newly renovated civic gallery, the story of industrial growth was arranged through maps, machines, portraits and opening-day speeches. Eviction notices, wage petitions and accident testimonies survived in the catalogue, yet they were placed outside the commemorative route. The visitor therefore encountered conflict only after it had been converted into \"urban improvement\" or \"labour discipline\". History remained available as evidence, but memory was trained as gratitude. The institution did not erase suffering; it deprived suffering of narrative hospitality. Its forgetting lay not in absence of records, but in the unequal honour given to them."
+    },
+    "statements": null,
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा कथन, दिये गए परिच्छेद के दृष्टिकोण को सर्वाधिक उपयुक्त रूप से प्रतिबिंबित करता है?",
+      "en": "Which one among the following statements most appropriately reflects the point of view of the given passage?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "संस्थागत विस्मरण क्रमिक दृश्यता के माध्यम से कार्य करता है, जहाँ संरक्षित साक्ष्यों को सामूहिक स्मृति में व्याख्यात्मक केंद्रीयता से वंचित कर दिया जाता है।",
+        "en": "Institutional forgetting operates through graded visibility, where preserved evidence is denied interpretive centrality in collective remembrance."
+      },
+      {
+        "id": "B",
+        "hi": "लोक स्मृति ऐतिहासिक रूप से त्रुटिपूर्ण हो जाती है, क्योंकि अभिलेखीय साक्ष्य औपचारिक प्रदर्शनी से बाहर रखे जाने के पश्चात अपनी प्रामाणिकता खो देते हैं।",
+        "en": "Public memory becomes historically defective because archival evidence loses authenticity once it is placed outside ceremonial exhibition."
+      },
+      {
+        "id": "C",
+        "hi": "नागरिक स्मरणोत्सव इतिहास को मिथ्या रूप प्रदान करता है, जब भी आर्थिक विकास को मानचित्रों, मशीनों और चित्रों जैसी भौतिक वस्तुओं के माध्यम से प्रस्तुत किया जाता है।",
+        "en": "Civic commemoration falsifies history whenever economic growth is represented through material objects such as maps, machines and portraits."
+      },
+      {
+        "id": "D",
+        "hi": "ऐतिहासिक सत्य सार्वजनिक रूप से सुरक्षित रहता है, जब पीड़ा से संबंधित दस्तावेज़ों को सूचीपत्रों में संरक्षित किया जाता है, चाहे उनका स्थान नागरिक आख्यान में कुछ भी हो।",
+        "en": "Historical truth remains publicly secure when documents of suffering are preserved in catalogues, irrespective of their place in civic narration."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "विकल्प (a) सहीः यह परिच्छेद का सर्वाधिक सटीक निरूपण करता है। संस्था अभिलेखों को नष्ट नहीं करती; बल्कि वह कुछ तथ्यों को सार्वजनिक सम्मान प्रदान करती है और अन्य तथ्यों को केवल उपलब्ध रहने देती है। विस्मरण असमान दृश्यता तथा आख्यान के केंद्रीय स्थान से वंचित करने की प्रक्रिया के माध्यम से कार्य करता है।\nविकल्प (b) - गलतः परिच्छेद यह तर्क प्रस्तुत नहीं करता कि प्रदर्शन से बाहर रखे जाने पर दस्तावेज़ अपनी प्रामाणिकता खो देते हैं। निष्कासन सूचनाएँ, मजदूरी संबंधी याचिकाएँ और साक्ष्य ऐतिहासिक रूप से वैध बने रहते हैं। दोष उनके साक्ष्यात्मक मूल्य के नष्ट होने में नहीं, बल्कि उनके सीमांत स्थान पर रखे जाने में निहित है।\nविकल्प (c)  गलतः परिच्छेद मानचित्रों, मशीनों या चित्रों के उपयोग पर आपत्ति नहीं करता है। समस्या यह है कि ये सामग्रियाँ एक गौरवपूर्ण मार्ग का निर्माण करती हैं, जबकि संघर्ष को प्रशासनिक भाषा में रूपांतरित कर दिया जाता है।\nविकल्प (d)  गलतः परिच्छेद यह दर्शाता है कि केवल तकनीकी संरक्षण पर्याप्त नहीं है। परिच्छेद उपलब्ध इतिहास और सार्वजनिक रूप से निर्मित स्मृति के मध्य अंतर स्पष्ट करता है। अभिलेख सुरक्षित रहते हैं, किंतु सार्वजनिक स्मरण चयनात्मक बना रहता है।\nअतः विकल्प (a) सही है।",
+      "en": "Option (a) Correct: This most accurately captures the passage. The institution does not destroy records; it assigns some facts public honour and leaves others merely available. Forgetting works through unequal visibility and denial of narrative centrality.\nOption (b) Incorrect: The passage does not argue that documents lose authenticity outside display. Eviction notices, wage petitions and testimonies remain historically valid. The defect lies in their marginal placement, not in loss of evidentiary value.\nOption (c) Incorrect: The passage does not object to using maps, machines or portraits. The problem is that these materials construct a celebratory route while conflict is translated into administrative language.\nOption (d) Incorrect: Technical preservation is shown as insufficient. The passage distinguishes available history from publicly trained memory. Records survive, but public remembrance remains selective.\nHence, option (a) is correct."
+    }
+  },
+  {
+    "id": 10,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "लोक स्मृति का निर्माण प्रायः अतीत का आविष्कार करके नहीं किया जाता; बल्कि अधिकतर यह इस निर्णय के माध्यम से परिष्कृत की जाती है कि अतीत के कौन-से अंश औपचारिक रूप से समीपस्थ स्थान प्राप्त करने के योग्य हैं। एक नवनवीनीकृत नागरिक दीर्घा में औद्योगिक विकास की कथा को मानचित्रों, मशीनों, चित्रों और उद्घाटन-दिवस के भाषणों के माध्यम से व्यवस्थित किया गया। निष्कासन सूचनाएँ, वेतन संबंधी याचिकाएँ और दुर्घटनाओं के साक्ष्य अभिलेख सूची में सुरक्षित रहे, तथापि उन्हें स्मारकीय मार्ग से बाहर रखा गया। अतः आगंतुक का सामना संघर्ष से तभी हुआ, जब उसे \"नगरीय सुधार\" अथवा \"श्रम अनुशासन\" में रूपांतरित कर दिया गया था। इतिहास साक्ष्य के रूप में उपलब्ध बना रहा, किंतु स्मृति को कृतज्ञता के रूप में प्रशिक्षित किया गया। संस्था ने पीड़ा का उन्मूलन नहीं किया; बल्कि उसने पीड़ा को कथात्मक आतिथ्य से वंचित कर दिया। इसका विस्मरण अभिलेखों के अभाव में नहीं, बल्कि उन अभिलेखों को प्रदान किये गये असमान महत्त्व के कारण निहित था।",
+      "en": "Public memory is seldom manufactured by inventing a past; more often, it is curated by deciding which fragments of the past deserve ceremonial nearness. In a newly renovated civic gallery, the story of industrial growth was arranged through maps, machines, portraits and opening-day speeches. Eviction notices, wage petitions and accident testimonies survived in the catalogue, yet they were placed outside the commemorative route. The visitor therefore encountered conflict only after it had been converted into \"urban improvement\" or \"labour discipline\". History remained available as evidence, but memory was trained as gratitude. The institution did not erase suffering; it deprived suffering of narrative hospitality. Its forgetting lay not in absence of records, but in the unequal honour given to them."
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सामूहिक स्मृति का निर्माण केवल इस बात से नहीं होता कि क्या संरक्षित रहता है, बल्कि इस बात से भी होता है कि संरक्षित सामग्री को किस प्रकार क्रमबद्ध, आख्यानात्मक रूप से प्रस्तुत तथा औपचारिक रूप से स्मारकीय स्थिति प्रदान की जाती है।",
+        "en": "Collective memory is shaped not only by what survives, but by how surviving material is ranked, narrated and ceremonially positioned."
+      },
+      {
+        "id": 2,
+        "hi": "स्मारकीय मार्ग के बाहर निष्कासन सूचनाओं और वेतन याचिकाओं का स्थान निर्धारण यह इंगित करता है कि पीड़ा के साक्ष्यों को ऐतिहासिक रूप से निर्मित किया गया है।",
+        "en": "The placement of eviction notices and wage petitions outside the commemorative route indicates that evidence of suffering has been historically fabricated."
+      },
+      {
+        "id": 3,
+        "hi": "\"नगरीय सुधार\" एवं \" श्रम अनुशासन\" की भाषा संघर्ष को ऐसी शब्दावली में परिवर्तित कर देती है, जो संस्थागत कृतज्ञता के अनुरूप होती है।",
+        "en": "The language of \"urban improvement\" and \"labour discipline\" converts conflict into a vocabulary compatible with institutional gratitude."
+      },
+      {
+        "id": 4,
+        "hi": "यह परिच्छेद नागरिक इतिहास को अस्वीकार करता है, क्योंकि सार्वजनिक संस्थाएँ दस्तावेज़ी साक्ष्यों के संरक्षण में सक्षम नहीं हैं।",
+        "en": "The passage rejects civic history because public institutions are incapable of preserving documentary evidence."
+      }
+    ],
+    "question": {
+      "hi": "दिये गए परिच्छेद के आधार पर निकाले गए निम्नलिखित में से कौन-सा/से निष्कर्ष सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following conclusions, made on the basis of the given passage, is/are correct?\nSelect the correct answer using the code given below."
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 3 और 4",
+        "en": "1, 3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "निष्कर्ष 1: सही परिच्छेद से स्पष्ट है कि विस्मरण अभिलेखों के अभाव में नहीं, बल्कि उन्हें प्रदान किये जाने वाले असमान सम्मान में निहित है। इसका तात्पर्य है कि सार्वजनिक स्मृति केवल अभिलेखों के अस्तित्व पर निर्भर नहीं करती, बल्कि उनके विन्यास, महत्त्व-निर्धारण और औपचारिक/स्मारकीय स्थान पर भी निर्भर करती है।\nनिष्कर्ष 2: गलत परिच्छेद में किसी प्रकार के मिथ्याकरण का संकेत नहीं दिया गया है। अभिलेख विद्यमान हैं और सूची में संरक्षित हैं। उनकी समस्या असत्यता की नहीं, बल्कि सार्वजनिक आख्यान में उनकी सीमांत स्थिति की है।\nनिष्कर्ष 3: सही संघर्ष तब उत्पन्न होता है जब उसे \"नगरीय सुधार\" अथवा \"श्रम अनुशासन\" जैसे नामों से पुनर्परिभाषित किया जाता है। ये अभिव्यक्तियाँ विस्थापन एवं श्रमिक पीड़ा को एक उत्सवधर्मी नागरिक आख्यान के अनुरूप प्रस्तुत करके उन्हें कम गंभीर बना देती हैं।\nनिष्कर्ष 4: गलत परिच्छेद संस्थागत संरक्षण का खंडन नहीं करता है। इसमें स्पष्ट किया गया है कि दस्तावेज़ संरक्षित हैं, किंतु उनकी व्याख्यात्मक भूमिका को दुर्बल कर दिया गया है। आलोचना दस्तावेज़ों की अक्षमता की नहीं, बल्कि चयनात्मक आख्यान-निर्माण की है।\nअतः विकल्प (c) सही है।",
+      "en": "Conclusion 1: Correct- The passage says forgetting lies not in absence of records, but in unequal honour given to them. This means public memory depends on arrangement, emphasis and ceremonial location, not survival alone.\nConclusion 2: Incorrect The passage does not suggest fabrication. The records exist and survive in the catalogue. Their problem is marginality within public narration, not falsehood.\nConclusion 3: Correct Conflict appears after being renamed as \"urban improvement\" or \"labour discipline\". These expressions soften displacement and worker suffering by making them fit a celebratory civic story.\nConclusion 4: Incorrect The passage does not deny institutional preservation. It says documents are preserved, but their interpretive role is weakened. The criticism is selective narration, not documentary incapacity.\nHence, option (c) is correct."
+    }
+  },
+  {
+    "id": 11,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "सर्वेक्षण प्रपत्र औपचारिक पात्रता संबंधी प्रशासनिक भाषा के साथ बस्ती में प्रेषित हुआ खाता संख्या, बीमा की स्थिति, राशन पात्रता, जॉब कार्ड का स्वामित्व। इन मानकों के आधार पर भेद्यता प्रशासनिक रूप से नियंत्रित प्रतीत हुई। तथापि, बीमारी से संबंधित व्यय का वहन आस-पड़ोस के ऋणों के माध्यम से, प्रसव संबंधी लागतों का प्रबंधन महिलाओं के घूर्णनशील कोषों के माध्यम से, रोज़गार के अवसरों का सृजन नातेदारी संबंधों के माध्यम से तथा मजदूरी हानि के पश्चात भोजन की व्यवस्था मौन पारस्परिक सहयोग के माध्यम से होती रही। इन व्यवस्थाओं के पास न तो कोई रसीद थी, न कार्यालय की मुहर और न ही सदस्यता पंजीकरण; अतः वे आधिकारिक प्रत्यास्थता के आकलन से विलुप्त हो गईं। उनकी अदृश्यता ने उन्हें आकस्मिक नहीं बनाया। वे औपचारिक पर्याप्तता के नीचे विद्यमान सामाजिक आधारभूत संरचना थीं। गणना की त्रुटि यह नहीं थी कि उसने अधिकारों एवं पात्रताओं को गिना, बल्कि यह थी कि उसने गिनी गई पात्रताओं को जीवन-निर्वाह की संरचना समझ लिया।",
+      "en": "The survey form entered the settlement with a grammar of formal sufficiency: account number, insurance status, ration eligibility, job-card possession. By those measures, vulnerability appeared administratively tamed. Yet illness expenses moved through neighbourhood credit, childbirth costs through rotating women's funds, work opportunities through kinship chains, and meals through quiet reciprocity after wage loss. These arrangements had no receipt, office seal or membership register; hence they disappeared from official resilience. Their invisibility did not make them accidental. They were the social scaffolding beneath formal adequacy. The error of enumeration was not that it counted entitlements, but that it mistook counted entitlements for the architecture of survival."
+    },
+    "statements": null,
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा कथन, दिये गए परिच्छेद के दृष्टिकोण को सर्वाधिक उपयुक्त रूप से प्रतिबिंबित करता है?",
+      "en": "Which one among the following statements most appropriately reflects the point of view of the given passage?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अनौपचारिक सहायता प्रणालियों को औपचारिक कल्याण व्यवस्था का स्थान लेना चाहिये, क्योंकि अप्रलेखित पारस्परिकता राज्य-समर्थित अधिकार-आधारित प्रावधानों की तुलना में नैतिक रूप से अधिक श्रेष्ठ होती है।",
+        "en": "Informal support systems should replace formal welfare because unrecorded reciprocity is morally superior to State-backed entitlement."
+      },
+      {
+        "id": "B",
+        "hi": "प्रशासनिक गणना तब विश्लेषणात्मक रूप से सतही हो जाती है, जब वह औपचारिक कवरेज को जीवन-निर्वाह के सामाजिक संगठन के समतुल्य मान लेती है।",
+        "en": "Administrative enumeration becomes analytically shallow when it treats formal coverage as equivalent to the social organisation of survival."
+      },
+      {
+        "id": "C",
+        "hi": "कल्याण संकेतक संवेदनशीलता के आकलन के लिये अप्रासंगिक होते हैं, क्योंकि घरेलू अनुकूलन केवल नातेदारी और पड़ोसी समुदाय के नेटवर्क के माध्यम से ही विद्यमान रहता है।",
+        "en": "Welfare indicators are irrelevant for assessing vulnerability because household resilience exists only through kinship and neighbourhood networks."
+      },
+      {
+        "id": "D",
+        "hi": "सामाजिक पूंजी तब शासन के लिये दृश्यमान होती है, जब इसे अप्रलेखित आधारभूत संरचना के रूप में देखने के बजाय निजी परोपकार के रूप में माना जाता है।",
+        "en": "Social capital becomes visible to governance when it is treated as private charity rather than as unrecorded infrastructure."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "(a) विकल्प गलतः परिच्छेद कल्याणकारी व्यवस्थाओं को प्रतिस्थापित करने का समर्थन नहीं करता है। यह औपचारिक अधिकारों के अस्तित्व की आलोचना नहीं करता, बल्कि सर्वेक्षण की संकीर्णता की आलोचना करता है। अनौपचारिक प्रणालियाँ महत्त्वपूर्ण हैं, किंतु उन्हें नैतिक रूप से श्रेष्ठ विकल्प के रूप में प्रस्तुत नहीं किया गया है।\n(b) विकल्प सहीः यही परिच्छेद का केंद्रीय दृष्टिकोण है। सर्वेक्षण औपचारिक पहुँच को मापता है, किंतु उन पारस्परिक संबंधों पर ध्यान नहीं देता, जिनके माध्यम से परिवार वास्तव में बीमारी, प्रसव, कार्य और भूख जैसी परिस्थितियों का प्रबंधन करते हैं।\n(c) विकल्प गलतः परिच्छेद कल्याणकारी संकेतकों को अप्रासंगिक नहीं बताता है। यह स्पष्ट करता है कि त्रुटि उन्हें उत्तरजीविता की संपूर्ण संरचना मान लेने में है। औपचारिक संकेतक महत्त्वपूर्ण हैं, किंतु वे अपूर्ण हैं।\n(d) विकल्प - गलतः परिच्छेद ऐसे सामाजिक नेटवर्कों को निजी दान या परोपकार तक सीमित करने की अवधारणा को अस्वीकार करता है। यह उन्हें सामाजिक समर्थन और एक अप्रलेखित अवसंरचना के रूप में प्रस्तुत करता है।\nअतः विकल्प (b) सही है।",
+      "en": "Option (a) Incorrect: The passage does not advocate replacing welfare. It criticises the survey's narrowness, not the existence of formal entitlements. Informal systems are important, but not presented as morally superior substitutes.\nOption (b) Correct: This is the central viewpoint. The survey counts formal access, but fails to capture the relational systems through which households actually manage illness, childbirth, work and hunger.\nOption (c) Incorrect: The passage does not call welfare indicators irrelevant. It says the error is mistaking them for the whole architecture of survival. Formal indicators matter, but they are incomplete.\nOption (d) Incorrect: The passage rejects the reduction of such networks to private charity. It presents them as social scaffolding and unrecorded infrastructure.\nHence, option (b) is correct."
+    }
+  },
+  {
+    "id": 12,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "सर्वेक्षण प्रपत्र औपचारिक पात्रता संबंधी प्रशासनिक भाषा के साथ बस्ती में प्रेषित हुआ खाता संख्या, बीमा की स्थिति, राशन पात्रता, जॉब कार्ड का स्वामित्व। इन मानकों के आधार पर भेद्यता प्रशासनिक रूप से नियंत्रित प्रतीत हुई। तथापि, बीमारी से संबंधित व्यय का वहन आस-पड़ोस के ऋणों के माध्यम से, प्रसव संबंधी लागतों का प्रबंधन महिलाओं के घूर्णनशील कोषों के माध्यम से, रोज़गार के अवसरों का सृजन नातेदारी संबंधों के माध्यम से तथा मजदूरी हानि के पश्चात भोजन की व्यवस्था मौन पारस्परिक सहयोग के माध्यम से होती रही। इन व्यवस्थाओं के पास न तो कोई रसीद थी, न कार्यालय की मुहर और न ही सदस्यता पंजीकरण; अतः वे आधिकारिक प्रत्यास्थता के आकलन से विलुप्त हो गईं। उनकी अदृश्यता ने उन्हें आकस्मिक नहीं बनाया। वे औपचारिक पर्याप्तता के नीचे विद्यमान सामाजिक आधारभूत संरचना थीं। गणना की त्रुटि यह नहीं थी कि उसने अधिकारों एवं पात्रताओं को गिना, बल्कि यह थी कि उसने गिनी गई पात्रताओं को जीवन-निर्वाह की संरचना समझ लिया।",
+      "en": "The survey form entered the settlement with a grammar of formal sufficiency: account number, insurance status, ration eligibility, job-card possession. By those measures, vulnerability appeared administratively tamed. Yet illness expenses moved through neighbourhood credit, childbirth costs through rotating women's funds, work opportunities through kinship chains, and meals through quiet reciprocity after wage loss. These arrangements had no receipt, office seal or membership register; hence they disappeared from official resilience. Their invisibility did not make them accidental. They were the social scaffolding beneath formal adequacy. The error of enumeration was not that it counted entitlements, but that it mistook counted entitlements for the architecture of survival."
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "औपचारिक पात्रता संबंधी आँकड़े भ्रामक हो जाते हैं, जब उन्हें परिवारों की प्रत्यास्थता के समग्र विवरण के रूप में पढ़ा जाता है।",
+        "en": "Formal entitlement data becomes misleading when it is read as a complete account of household resilience."
+      },
+      {
+        "id": 2,
+        "hi": "रसीदों, मुहरों और अभिलेखों की अनुपस्थिति यह सिद्ध करती है कि अनौपचारिक नेटवर्क, असुरक्षा के प्रबंधन में कार्यात्मक महत्त्व से रहित हैं।",
+        "en": "The absence of receipts, seals and registers proves that informal networks lack functional significance in managing vulnerability."
+      },
+      {
+        "id": 3,
+        "hi": "पड़ोस आधारित ऋण, आवर्ती निधियाँ, नातेदारी संबंधी संदर्भ तथा पारस्परिक भोजन-साझाकरण, औपचारिक मान्यता से परे स्थित गुप्त सहायता प्रणालियों का निर्माण करते हैं।",
+        "en": "Neighbourhood credit, rotating funds, kinship referrals and reciprocal meals constitute hidden support systems outside formal recognition."
+      },
+      {
+        "id": 4,
+        "hi": "यह परिच्छेद गणना को स्वयं गरीबी के स्रोत के रूप में प्रस्तुत करता है, न कि सामाजिक निर्भरता को समझने की एक अपूर्ण पद्धति के रूप में।",
+        "en": "The passage treats enumeration itself as the source of poverty rather than as an incomplete method of seeing social dependence."
+      }
+    ],
+    "question": {
+      "hi": "दिये गए परिच्छेद के आधार पर निकाले गए निम्नलिखित में से कौन-सा/से निष्कर्ष सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following conclusions, made on the basis of the given passage, is/are correct?\nSelect the correct answer using the code given below."
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 3 और 4",
+        "en": "1, 3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "निष्कर्ष 1: सही परिच्छेद यह दर्शाता है कि औपचारिक संकेतकों के माध्यम से संवेदनशीलता प्रशासनिक रूप से नियंत्रित प्रतीत होती है, जबकि अस्तित्व की निरंतरता अप्रलेखित संबंधों पर निर्भर करती है। अतः जब पात्रता संबंधी आँकड़ों को पूर्ण माना जाता है, तो वे भ्रामक सिद्ध होते हैं।\nनिष्कर्ष 2: गलत - औपचारिक दस्तावेज़ों का अभाव अदृश्यता को स्पष्ट करता है, न कि महत्त्वहीनता को। परिच्छेद स्पष्ट करता है कि ये नेटवर्क आकस्मिक नहीं हैं; बल्कि ये सामाजिक आधारभूत संरचना के रूप में कार्य करते हैं।\nनिष्कर्ष 3: सही परिच्छेद प्रत्यक्ष रूप से पड़ोस आधारित ऋण, महिलाओं के आवर्ती कोष, नातेदारी संबंधों की श्रृंखलाओं तथा भोजन-साझाकरण को उन तंत्रों के रूप में पहचानता है, जिनके माध्यम से असुरक्षित एवं संकटग्रस्त परिवार आधिकारिक मान्यता के बाहर भी अपना अस्तित्व बनाए रखते हैं।\nनिष्कर्ष 4: गलत परिच्छेद निर्धनता के लिये गणना या आँकड़ा-संग्रह प्रक्रिया को दोष नहीं देता है। यह केवल इस बात की आलोचना करता है कि गणना-प्रक्रिया पात्रता के रूप में दर्ज सुविधाओं को अस्तित्व बनाए रखने की व्यापक सामाजिक संरचना के समान मान लेती है।\nअतः विकल्प (c) सही है।",
+      "en": "Conclusion 1: Correct - The passage says vulnerability appears administratively tamed through formal indicators, yet survival depends on unrecorded relations. Thus, entitlement data misleads when treated as complete.\nConclusion 2: Incorrect The absence of formal documentation explains invisibility, not insignificance. The passage explicitly states that these networks are not accidental; they are social scaffolding.\nConclusion 3: Correct The passage directly identifies neighbourhood credit, rotating women's funds, kinship chains and meal-sharing as mechanisms through which precarious households survive outside official recognition.\nConclusion 4: Incorrect The passage does not blame enumeration for poverty. It criticises enumeration for mistaking counted entitlements for the broader architecture of survival.\nHence, option (c) is correct."
+    }
+  },
+  {
+    "id": 13,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "पर्वतीय मैराथन में हुआ विवाद इस बात को लेकर नहीं था कि अग्रणी धावक रुक गया विवाद इस बात को लेकर था कि वह उस समय रुका, जब वह स्पष्ट रूप से आगे बढ़ने में सक्षम था। न तो उसकी टखने में मोच आई थी, न ही उसके सीने में कोई पीड़ा उत्पन्न हुई थी, न ही कोई ऐसा नाटकीय पतन हुआ था, जो दर्शकों को उसके प्रति सहानुभूति व्यक्त करने का अवसर प्रदान करता। अंतिम चढ़ाई से पूर्व वह ठहर गया, अपनी संख्या-पट्टिका (बिब) उतारी और उसे एक अधिकारी को उस शांत भाव से सौंप दिया, जैसे कोई व्यक्ति किसी त्रुटिपूर्ण ढंग से प्रस्तुत प्रश्न को स्वीकार करने से अस्वीकृति कर रहा हो। आयोजकों ने इसे \"प्रतिस्पर्द्धात्मक इच्छाशक्ति की हानि\" कहा; दर्शकों ने इसे \"खेल भावना के साथ विश्वासघात\" के रूप में देखा। फिर भी, धावक के इस कृत्य ने उस तथ्य को उजागर किया, जिसे दौड़ ने छिपा रखा थाः सहनशक्ति को अनुशासन से परिवर्तित करके सार्वजनिक स्तर पर आत्म-विलोपन की अपेक्षा में बदल दिया गया था। जहाँ थकावट को केवल तब सम्मान दिया जाता है, जब वह विनाश का रूप ले लेती है, वहाँ विवेकशीलता कायरता प्रतीत होती है। उसकी अस्वीकृति प्रयास को कम नहीं करती; बल्कि उसने प्रयास को उस मिथक से मुक्त किया, जिसके अनुसार शरीर तभी सम्मान का अधिकारी होता है, जब उसे उसकी सीमाओं की उपेक्षा करने के लिये विवश कर दिया जाए।",
+      "en": "The scandal at the mountain marathon was not that the leading runner stopped; it was that he stopped while still visibly capable of continuing. No ankle had twisted, no chest had seized, no dramatic collapse had instructed the crowd how to pity him. He paused before the final ascent, removed his number bib and handed it to an official with the calmness of someone refusing a poorly framed question. The organisers called it \"loss of competitive will\"; the spectators called it betrayal of spirit. Yet the runner's gesture disclosed something the race had concealed: endurance had been converted from discipline into a public demand for self-erasure. Where exhaustion is honoured only after it becomes ruin, prudence appears cowardly. His refusal did not diminish effort; it rescued effort from the mythology that a body earns respect only by being overruled."
+    },
+    "statements": null,
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा एक कथन, इस परिच्छेद के लेखक द्वारा व्यक्त सर्वाधिक तर्कसंगत, विवेकपूर्ण सन्देश को सर्वोत्तम रूप से प्रतिबिंबित करता है?",
+      "en": "Which one of the following statements best reflects the most logical and rational message conveyed by the author of the passage?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एथलीट का पीछे हटना तभी सार्थक माना जाता है, जब उससे पूर्व स्पष्ट चोट या असंदिग्ध शारीरिक पतन दिखाई दे।",
+        "en": "Athletic withdrawal becomes meaningful only when it is preceded by visible injury or undeniable physiological collapse."
+      },
+      {
+        "id": "B",
+        "hi": "सहनशीलता के प्रति सार्वजनिक प्रशंसा उचित है, क्योंकि प्रतिस्पर्द्धात्मक खेलों में एथलीट से अपेक्षा की जाती है कि वह सामूहिक अपेक्षाओं के अधीन अपनी शारीरिक चेतना को गौण कर दे।",
+        "en": "Public admiration for endurance is justified because competitive sport requires the athlete to subordinate bodily judgement to collective expectation."
+      },
+      {
+        "id": "C",
+        "hi": "धावक का पीछे हटना ऐसी संस्कृति की अतार्किकता को उजागर करता है, जो शरीर के सार्वजनिक रूप से क्षतिग्रस्त हो जाने के बाद ही उसकी अंतर्निहित चेतना को मान्यता प्रदान करती है।",
+        "en": "The runner's withdrawal exposes the irrationality of a culture that recognises bodily wisdom only after the body has been publicly damaged."
+      },
+      {
+        "id": "D",
+        "hi": "आयोजकों की आलोचना तर्कसंगत है, क्योंकि दृश्यमान शारीरिक पतन का अभाव यह सिद्ध करता है कि धावक के निर्णय में नैतिक गंभीरता का अभाव था।",
+        "en": "The organisers' criticism is rational because the absence of visible collapse proves that the runner's decision lacked ethical seriousness."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "विकल्प (a) गलतः परिच्छेद इस विचार को अस्वीकार करता है। इसमें विशेष रूप से उल्लेख किया गया है कि कोई दृश्यमान चोट अथवा क्षतिग्रस्तता नहीं हुई, फिर भी धावक के कृत्य में नैतिक और बौद्धिक महत्त्व निहित था। लेखक इस धारणा की आलोचना करता है कि पीड़ा तभी सार्थक होती है, जब वह दृश्यमान क्षति में परिवर्तित हो जाए।\nविकल्प (b) - गलतः परिच्छेद सार्वजनिक दबाव का औचित्य सिद्ध नहीं करता है। यह सामूहिक अपेक्षा को ऐसी शक्ति के रूप में प्रस्तुत करता है, जो धैर्य एवं सहनशीलता को \"आत्म-विलोपन\" में परिवर्तित कर देती है। अतः लेखक शारीरिक विवेक को दर्शकों या आयोजकों की अपेक्षाओं के अधीन करने का समर्थन नहीं करता है।\nविकल्प (c) सहीः यह सर्वाधिक तार्किक संदेश है। धावक विनाशकारी स्थिति उत्पन्न होने से पूर्व ही रुक जाता है और यह उस संस्कृति को उजागर करता है जो शारीरिक सीमाओं का सम्मान तभी करती है, जब वे सीमाएँ पतन, चोट या प्रदर्शन के रूप में दिखाई दें। इस कृत्य को कायरता के रूप में नहीं, बल्कि विवेकपूर्ण निर्णय के रूप में व्याख्यायित किया गया है।\nविकल्प (d) - गलतः पतन का अभाव धावक के निर्णय को कमज़ोर नहीं करता है। इसके विपरीत, परिच्छेद उसके शांतिपूर्ण रूप से क्षति से पूर्व पीछे हटने के निर्णय को नैतिक रूप से गंभीर मानता है, क्योंकि यह उस मांग का प्रतिरोध करता है कि शरीर को केवल तभी विश्वसनीय माना जाए, जब वह विघटित हो जाए।\nअतः विकल्प (c) सही है।",
+      "en": "Option (a) Incorrect: The passage rejects this idea. It specifically notes that no visible injury or collapse occurred, yet the runner's act carried moral and intellectual significance. The author criticises the assumption that suffering becomes meaningful only when it becomes visible damage.\nOption (b) Incorrect: The passage does not justify public pressure. It presents collective expectation as a force that turns endurance into \"self-erasure.\" Therefore, the author does not support subordinating bodily judgement to spectators or organisers.\nOption (c) Correct: This is the most logical message. The runner stops before ruin, and this exposes a culture that refuses to respect bodily limits unless those limits appear as collapse, injury or spectacle. The act is interpreted as prudence, not cowardice.\nOption (d) Incorrect: The absence of collapse does not weaken the runner's decision. On the contrary, the passage treats his calm withdrawal before damage as ethically serious because it resists the demand that the body must break to be believed.\nHence, option (c) is correct."
+    }
+  },
+  {
+    "id": 14,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "पर्वतीय मैराथन में हुआ विवाद इस बात को लेकर नहीं था कि अग्रणी धावक रुक गया विवाद इस बात को लेकर था कि वह उस समय रुका, जब वह स्पष्ट रूप से आगे बढ़ने में सक्षम था। न तो उसकी टखने में मोच आई थी, न ही उसके सीने में कोई पीड़ा उत्पन्न हुई थी, न ही कोई ऐसा नाटकीय पतन हुआ था, जो दर्शकों को उसके प्रति सहानुभूति व्यक्त करने का अवसर प्रदान करता। अंतिम चढ़ाई से पूर्व वह ठहर गया, अपनी संख्या-पट्टिका (बिब) उतारी और उसे एक अधिकारी को उस शांत भाव से सौंप दिया, जैसे कोई व्यक्ति किसी त्रुटिपूर्ण ढंग से प्रस्तुत प्रश्न को स्वीकार करने से अस्वीकृति कर रहा हो। आयोजकों ने इसे \"प्रतिस्पर्द्धात्मक इच्छाशक्ति की हानि\" कहा; दर्शकों ने इसे \"खेल भावना के साथ विश्वासघात\" के रूप में देखा। फिर भी, धावक के इस कृत्य ने उस तथ्य को उजागर किया, जिसे दौड़ ने छिपा रखा थाः सहनशक्ति को अनुशासन से परिवर्तित करके सार्वजनिक स्तर पर आत्म-विलोपन की अपेक्षा में बदल दिया गया था। जहाँ थकावट को केवल तब सम्मान दिया जाता है, जब वह विनाश का रूप ले लेती है, वहाँ विवेकशीलता कायरता प्रतीत होती है। उसकी अस्वीकृति प्रयास को कम नहीं करती; बल्कि उसने प्रयास को उस मिथक से मुक्त किया, जिसके अनुसार शरीर तभी सम्मान का अधिकारी होता है, जब उसे उसकी सीमाओं की उपेक्षा करने के लिये विवश कर दिया जाए।",
+      "en": "The scandal at the mountain marathon was not that the leading runner stopped; it was that he stopped while still visibly capable of continuing. No ankle had twisted, no chest had seized, no dramatic collapse had instructed the crowd how to pity him. He paused before the final ascent, removed his number bib and handed it to an official with the calmness of someone refusing a poorly framed question. The organisers called it \"loss of competitive will\"; the spectators called it betrayal of spirit. Yet the runner's gesture disclosed something the race had concealed: endurance had been converted from discipline into a public demand for self-erasure. Where exhaustion is honoured only after it becomes ruin, prudence appears cowardly. His refusal did not diminish effort; it rescued effort from the mythology that a body earns respect only by being overruled."
+    },
+    "statements": null,
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा कथन, इस परिच्छेद द्वारा संप्रेषित केंद्रीय विचार को सर्वोत्तम रूप से दर्शाता है?",
+      "en": "Which one of the following statements best reflects the central idea of the passage?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "जब एथलीट शारीरिक क्षमता बनाए रखने के बावजूद प्रतियोगिता को पूर्ण करने से इनकार कर देते हैं, तब संगठित दौड़ प्रतियोगिताएँ अपने नैतिक उद्देश्य को खो देती हैं।",
+        "en": "The organized races lose their moral purpose when athletes refuse to complete them despite retaining physical capacity."
+      },
+      {
+        "id": "B",
+        "hi": "दर्शक सहनशक्ति को गलत समझते हैं, क्योंकि उनकी रुचि एथलेटिक अनुशासन के स्थान पर केवल मनोरंजन में होती है।",
+        "en": "Spectators misunderstand endurance because they are interested only in entertainment rather than athletic discipline."
+      },
+      {
+        "id": "C",
+        "hi": "प्रतियोगिता से हटने को खेल भावना और महत्वाकाँक्षा से श्रेष्ठ प्रस्तुत किया गया है, क्योंकि शारीरिक सुरक्षा ही एकमात्र वैध एथलेटिक मूल्य है।",
+        "en": "Competitive withdrawal is presented as superior to sporting ambition because bodily safety is the only legitimate athletic value."
+      },
+      {
+        "id": "D",
+        "hi": "सहनशक्ति की आलोचना इस रूप में की गई है कि वह अनुशासित प्रयास से परिवर्तित होकर ऐसी विचारधारा बन जाती है, जो सार्वजनिक मान्यता के लिये शरीर की सीमाओं की अवहेलना करने की मांग करती है।",
+        "en": "Endurance is critiqued as a transformation from disciplined effort into an ideology demanding bodily overruling for public validation."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "(a) विकल्प  गलतः परिच्छेद में दौड़ पूर्ण करने को नैतिक उद्देश्य के रूप में प्रतिपादित नहीं किया गया है। यह उस अपेक्षा पर प्रश्न उठाता है कि एक खिलाड़ी को केवल इसलिये निरंतर प्रयास करते रहना चाहिये क्योंकि वह अभी भी सक्षम दिखाई देता है।\n(b) विकल्प गलतः दर्शकों की आलोचना की गई है, किंतु केंद्रीय मुद्दा केवल मनोरंजन तक सीमित नहीं है। परिच्छेद उस सांस्कृतिक तर्क का विश्लेषण करता है, जिसमें धैर्य एवं सहनशीलता तभी मूल्य का प्रमाण बनते हैं, जब वे व्यक्ति द्वारा स्वयं की सीमाओं का अतिक्रमण करने से जुड़े हों।\n(c) विकल्प गलतः परिच्छेद यह स्पष्ट नहीं करता कि त्याग अथवा पीछे हटना सदैव महत्वाकाँक्षा से श्रेष्ठ है। यह प्रतिपादित करता है कि प्रयास को उस मिथ्या धारणा से मुक्त किया जाना चाहिये, जो शारीरिक अस्वीकार या सीमाओं को स्वीकार करने को दुर्बलता मानती है। खेल संबंधी महत्वाकाँक्षा को अस्वीकार नहीं किया गया है; बल्कि उसके विकृत स्वरूप की आलोचना की गई है।\n(d) विकल्प सहीः यह विकल्प केंद्रीय विचार को सर्वाधिक उपयुक्त रूप से अभिव्यक्त करता है। लेखक अनुशासन के रूप में सहनशीलता और सार्वजनिक आत्म-विलोपन के रूप में सहनशीलता के मध्य अंतर स्पष्ट करता है। धावक की अस्वीकृति यह दर्शाती है कि प्रतिस्पर्द्धात्मक संस्कृति किस प्रकार शारीरिक दमन को सद्गुण के रूप में परिवर्तित कर देती है।\nअतः विकल्प (d) सही है।",
+      "en": "Option (a) Incorrect: The passage does not defend completion as the moral purpose of racing. It questions the expectation that an athlete must continue merely because he still appears capable.\nOption (b) Incorrect: Spectators are criticised, but the central issue is wider than entertainment. The passage examines a cultural logic in which endurance becomes proof of worth only when linked to self-overruling.\nOption (c) Incorrect: The passage does not say withdrawal is always superior to ambition. It says effort must be rescued from a mythology that treats bodily refusal as weakness. Athletic ambition is not rejected; its distortion is criticised.\nOption (d) Correct: This option captures the central idea. The author distinguishes endurance as discipline from endurance as public self-erasure. The runner's refusal reveals how competitive culture converts bodily suppression into virtue.\nHence, option (d) is correct."
+    }
+  },
+  {
+    "id": 15,
+    "subject": "CSAT",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "पर्वतीय मैराथन में हुआ विवाद इस बात को लेकर नहीं था कि अग्रणी धावक रुक गया विवाद इस बात को लेकर था कि वह उस समय रुका, जब वह स्पष्ट रूप से आगे बढ़ने में सक्षम था। न तो उसकी टखने में मोच आई थी, न ही उसके सीने में कोई पीड़ा उत्पन्न हुई थी, न ही कोई ऐसा नाटकीय पतन हुआ था, जो दर्शकों को उसके प्रति सहानुभूति व्यक्त करने का अवसर प्रदान करता। अंतिम चढ़ाई से पूर्व वह ठहर गया, अपनी संख्या-पट्टिका (बिब) उतारी और उसे एक अधिकारी को उस शांत भाव से सौंप दिया, जैसे कोई व्यक्ति किसी त्रुटिपूर्ण ढंग से प्रस्तुत प्रश्न को स्वीकार करने से अस्वीकृति कर रहा हो। आयोजकों ने इसे \"प्रतिस्पर्द्धात्मक इच्छाशक्ति की हानि\" कहा; दर्शकों ने इसे \"खेल भावना के साथ विश्वासघात\" के रूप में देखा। फिर भी, धावक के इस कृत्य ने उस तथ्य को उजागर किया, जिसे दौड़ ने छिपा रखा थाः सहनशक्ति को अनुशासन से परिवर्तित करके सार्वजनिक स्तर पर आत्म-विलोपन की अपेक्षा में बदल दिया गया था। जहाँ थकावट को केवल तब सम्मान दिया जाता है, जब वह विनाश का रूप ले लेती है, वहाँ विवेकशीलता कायरता प्रतीत होती है। उसकी अस्वीकृति प्रयास को कम नहीं करती; बल्कि उसने प्रयास को उस मिथक से मुक्त किया, जिसके अनुसार शरीर तभी सम्मान का अधिकारी होता है, जब उसे उसकी सीमाओं की उपेक्षा करने के लिये विवश कर दिया जाए।",
+      "en": "The scandal at the mountain marathon was not that the leading runner stopped; it was that he stopped while still visibly capable of continuing. No ankle had twisted, no chest had seized, no dramatic collapse had instructed the crowd how to pity him. He paused before the final ascent, removed his number bib and handed it to an official with the calmness of someone refusing a poorly framed question. The organisers called it \"loss of competitive will\"; the spectators called it betrayal of spirit. Yet the runner's gesture disclosed something the race had concealed: endurance had been converted from discipline into a public demand for self-erasure. Where exhaustion is honoured only after it becomes ruin, prudence appears cowardly. His refusal did not diminish effort; it rescued effort from the mythology that a body earns respect only by being overruled."
+    },
+    "statements": null,
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा कथन उपर्युक्त परिच्छेद के मर्म को सर्वोत्तम रूप से प्रतिबिंबित करता है?",
+      "en": "Which one of the following statements best reflects the crux of the passage?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "धावक का कृत्य साहस को वीरतापूर्ण थकावट के प्रदर्शन के प्रति समर्पण के स्थान पर, आंतरिक विवेक के निर्णय के प्रति निष्ठा के रूप में पुनर्परिभाषित करता है।",
+        "en": "The runner's act redefines courage as obedience to inner judgement rather than submission to the spectacle of heroic exhaustion."
+      },
+      {
+        "id": "B",
+        "hi": "धावक का पीछे हटना यह सिद्ध करता है कि अधूरी दौड़ें, पूर्ण की गई खेल प्रतियोगिताओं की अपेक्षा अधिक नैतिक मूल्य रखती हैं।",
+        "en": "The runner's withdrawal proves that unfinished races possess greater moral value than completed athletic performances."
+      },
+      {
+        "id": "C",
+        "hi": "परिच्छेद में यह माना गया है कि एक बार जब दर्शकों ने प्रतियोगिता की व्याख्या सम्मान की भाषा में कर दी है, तब शारीरिक क्षमता अप्रासंगिक हो जाती है।",
+        "en": "The passage treats bodily capacity as irrelevant once spectators have already interpreted competition through the language of honour."
+      },
+      {
+        "id": "D",
+        "hi": "आयोजकों की मुख्य रूप से इस कारण आलोचना की गई है कि वे खिलाड़ी की शारीरिक स्थिति के संबंध में चिकित्सीय प्रमाण प्रस्तुत करने में विफल रहे।",
+        "en": "The organisers are criticised primarily because they failed to provide medical evidence for the athlete's physical condition."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "विकल्प (a)- सहीः यही इसका मूल सार है। धावक सम्मान की कीमत के रूप में शारीरिक विनाश को स्वीकार करना अस्वीकृत करता है। उसका यह कृत्य साहस की अवधारणा को केवल अत्यधिक थकावट सहने से हटाकर आत्म-नियंत्रण, विवेकशीलता और स्वतंत्र निर्णय क्षमता की ओर स्थानांतरित करता है।\nविकल्प (b) - गलतः परिच्छेद यह दावा नहीं करता कि सामान्यतः अधूरी रह जाने वाली दौड़ें नैतिक रूप से श्रेष्ठ होती हैं। इसमें इस विशेष रूप से लिये गए निर्णय का मूल्यांकन किया गया है, क्योंकि यह धैर्य एवं सहनशीलता की विकृत संस्कृति को चुनौती देता है।\nविकल्प (c)  गलतः शारीरिक क्षमता को अप्रासंगिक नहीं माना गया है। मुख्य बिंदु यह है कि जब आंतरिक विवेक आत्म-विनाश के खतरे को पहचान लेता है, तब केवल प्रदर्शित शारीरिक क्षमता को खिलाड़ी को प्रतियोगिता जारी रखने के लिये बाध्य नहीं करना चाहिये।\nविकल्प (d) गलतः आयोजकों की समस्या चिकित्सीय प्रमाणों के अभाव की नहीं है। उनकी आलोचना प्रतियोगिता की एक संकीर्ण समझ को प्रकट करती है, जहाँ बिना शारीरिक क्षतिग्रस्तता के प्रतियोगिता से हट जाना इच्छाशक्ति की विफलता माना जाता है।\nअतः विकल्प (d) सही है।",
+      "en": "Option (a) Correct: This is the crux. The runner refuses to make bodily ruin the price of respect. His act shifts courage away from spectacular exhaustion and toward self-command, prudence and interpretive independence.\nOption (b) Incorrect: The passage does not claim that unfinished races are morally superior in general. It evaluates this particular withdrawal because it challenges a distorted culture of endurance.\nOption (c) Incorrect: Bodily capacity is not treated as irrelevant. The crucial point is that visible capacity should not force the athlete to continue when inner judgement recognises the danger of self-erasure.\nOption (d) Incorrect: The organisers' problem is not lack of medical evidence. Their criticism reveals a narrow understanding of competition, where withdrawal without collapse is treated as failure of will.\nHence, option (d) is correct."
+    }
+  },
+  {
+    "id": 16,
+    "subject": "CSAT",
+    "topic": "Time and Work",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "एक प्रयोगशाला प्रयोग में, दो मोम की छड़ों A और B का उपयोग किया जाता है। छड़ A को पूरी तरह जलने में 24 घंटे लगते हैं, जबकि छड़ B को पूरी तरह जलने में 36 घंटे लगते हैं। एक तीसरी छड़ C की जलने की अवधि अज्ञात है। छड़ A और B को एक साथ 4 घंटे तक जलाया जाता है। इसके बाद B और C को एक साथ 6 घंटे तक जलाया जाता है। अंत में, A और C को एक साथ 8 घंटे तक जलाया जाता है, जिसके पश्चात कुल जली हुई मोम की मात्रा ठीक एक पूर्ण छड़ के मोम के बराबर होती है। यह मानते हुए कि सभी छड़ों में मोम की मात्रा समान है और वे समान दर से जलती हैं, तो छड़ C को अकेले पूरी तरह जलने में कितने घंटे लगेंगे?",
+      "en": "In a laboratory experiment, two wax rods A and B are used. Rod A can completely burn in 24 hours, while rod B can completely burn in 36 hours. A third rod C has an unknown burning duration. Rod A and B are lit together for 4 hours. Then B and C are lit together for 6 hours. Finally, A and Care lit together for 8 hours, after which the total wax burnt is exactly equal to the wax of one complete rod. Assuming all rods are of equal wax quantity and burn uniformly, in how many hours can rod C alone burn completely?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "54 घंटे",
+        "en": "54 hours"
+      },
+      {
+        "id": "B",
+        "hi": "60 घंटे",
+        "en": "60 hours"
+      },
+      {
+        "id": "C",
+        "hi": "63 घंटे",
+        "en": "63 hours"
+      },
+      {
+        "id": "D",
+        "hi": "72 घंटे",
+        "en": "72 hours"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "मान लीजिये, कुल मोम की मात्रा 1 इकाई हैं।\nA की दर = 1/24\nB की दर = 1/36\nमान लीजिये कि C को अकेले जलने में x घंटे लगते है।\nC की दर = 1/x\nA और B द्वारा 4 घंटे में किया गया कार्यः\n= 4(1/24 + 1/36)\n= 4(3/72 + 2/72)\n= 4 × 5/72 = 20/72 = 5/18\nB और C द्वारा 6 घंटे में किया गया कार्यः\n= 6(1/36 + 1/x)\nA और C द्वारा 8 घंटे में किया गया कार्यः\n= 8(1/24 + 1/x)\nप्रश्नानुसार,\n5/18 + 6(1/36 + 1/x) + 8(1/24 + 1/x) = 1\nअब, 6 × 1/36 = 1/6\n8 × 1/24 = 1/3\nइसलिये, 5/18 + 1/6 + 1/3 + 14/x = 1\n5/18 + 3/18 + 6/18 + 14/x = 1\n14/18 + 14/x = 1\n7/9 + 14/x = 1\n14/x = 2/9\nx = 63\nइसलिये, छड़ C अकेले पूर्ण रूप से जलने में 63 घंटे का समय लेगी।\nअतः विकल्प (c) सही है।",
+      "en": "Let the total wax quantity be 1 unit.\nRate of A = 1/24\nRate of B = 1/36\nLet C alone burn completely in x hours.\nRate of C = 1/x\nWork done by A and B in 4 hours:\n= 4(1/24 + 1/36)\n= 4(3/72 + 2/72)\n= 4 × 5/72 = 20/72 = 5/18\nWork done by B and C in 6 hours:\n= 6(1/36 + 1/x)\nWork done by A and C in 8 hours:\n= 8(1/24 + 1/x)\nAccording to the question,\n5/18 + 6(1/36 + 1/x) + 8(1/24 + 1/x) = 1\nNow,\n6 × 1/36 = 1/6\n8 × 1/24 = 1/3\nSo, 5/18 + 1/6 + 1/3 + 14/x = 1\n5/18 + 3/18 + 6/18 + 14/x = 1\n14/18 + 14/x = 1\n7/9 + 14/x = 1\n14/x = 2/9\nx = 63\nSo, rod C alone can burn completely in 63 hours.\nHence, option (c) is correct."
+    }
+  },
+  {
+    "id": 17,
+    "subject": "CSAT",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "एक निर्माण कंपनी का अनुमान है कि 12 श्रमिक किसी परियोजना को 18 दिनों में पूरा कर सकते हैं। कार्य केवल 8 श्रमिकों द्वारा प्रारंभ किया जाता है। 6 दिनों तक कार्य करने के बाद, 4 और श्रमिक उनके साथ जुड़ जाते हैं। परियोजना को कुल कितने दिनों में पूरा किया जाएगा?",
+      "en": "A construction company estimates that 12 workers can complete a project in 18 days. The work is started by only 8 workers. After working for 6 days, 4 more workers join them. In how many total days will the project be completed?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "18 दिन",
+        "en": "18 days"
+      },
+      {
+        "id": "B",
+        "hi": "20 दिन",
+        "en": "20 days"
+      },
+      {
+        "id": "C",
+        "hi": "22 दिन",
+        "en": "22 days"
+      },
+      {
+        "id": "D",
+        "hi": "24 दिन",
+        "en": "24 days"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कुल कार्य = 12 × 18 = 216 श्रमिक-दिवस\n6 दिनों में 8 श्रमिकों द्वारा किया गया कार्यः\n= 8 × 6 = 48 श्रमिक-दिवस\nशेष कार्य: = 216 - 48 = 168 श्रमिक-दिवस\n6 दिनों के बाद कुल श्रमिकः\n= 8 + 4 = 12 श्रमिक\nशेष कार्य को पूरा करने में आवश्यक समयः\n= 168 / 12 = 14 दिन\nकुल समयः 6 + 14 = 20 दिन\nअतः विकल्प (b) सही है।",
+      "en": "Total work = 12 × 18 = 216 worker-days\nWork done by 8 workers in 6 days:\n= 8 × 6 = 48 worker-days\nRemaining work:\n= 216 - 48 = 168 worker-days\nAfter 6 days, total workers:\n= 8 + 4 = 12 workers\nTime required to complete remaining work:\n= 168 / 12 = 14 days\nTotal time:\n= 6 + 14 = 20 days\nHence, option (b) is correct."
+    }
+  },
+  {
+    "id": 18,
+    "subject": "CSAT",
+    "topic": "Time and Work",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "एक कंपनी का अनुमान है कि 24 समान दक्षता वाले श्रमिक किसी परियोजना को 15 दिनों में पूरा कर सकते हैं। कार्य की शुरुआत केवल 18 श्रमिकों के साथ होती है। 5 दिनों के बाद, ग्राहक परियोजना के कुल कार्य-क्षेत्र को मूल कार्य से 20% तक बढ़ा देता है। इसके 3 दिन बाद, 6 श्रमिकों को किसी अन्य परियोजना में स्थानांतरित कर दिया जाता है। शेष श्रमिक बेहतर उपकरणों के कारण 25% अधिक दक्ष हो जाते हैं। संशोधित परियोजना को प्रारंभ से ठीक 20वें दिन तक पूरा करने के लिये, 12वें दिन के प्रारंभ में मूल दक्षता वाले कितने अतिरिक्त श्रमिकों को शामिल होना चाहिये, जो कार्य की समाप्ति तक कार्य करें?",
+      "en": "A company estimates that 24 identical workers can complete a project in 15 days. The work starts with only 18 workers. After 5 days, the client increases the total scope of the project by 20% of the original work. After 3 more days, 6 workers are shifted to another project. The remaining workers then become 25% more efficient due to better equipment. To ensure that the entire revised project is completed exactly on the 20th day from the start, how many additional workers of the original efficiency must join at the beginning of the 12th day and work till the end?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "8 श्रमिक",
+        "en": "8 workers"
+      },
+      {
+        "id": "B",
+        "hi": "10 श्रमिक",
+        "en": "10 workers"
+      },
+      {
+        "id": "C",
+        "hi": "12 श्रमिक",
+        "en": "12 workers"
+      },
+      {
+        "id": "D",
+        "hi": "15 श्रमिक",
+        "en": "15 workers"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "मूल रूप से किया गया कुल कार्य = 24 × 15 = 360 श्रमिक-दिवस\nकार्य के दायरे में वृद्धि के बाद = 360 + 360 का 20%\n= 360 + 72 = 432 श्रमिक-दिवस\nअतः, संशोधित कुल कार्य = 432\nप्रथम 5 दिनों में:\nश्रमिकों की संख्या = 18\nकिया गया कार्य = 18 × 5 = 90 श्रमिक-दिवस।\nशेष कार्य = 432 - 90 = 342\nअगले 3 दिनों में:\nश्रमिकों की संख्या = 18\nकिया गया कार्य = 18 × 3 = 54\nशेष कार्य = 342 - 54 = 288\n6 श्रमिकों के अन्य परियोजना में स्थानांतरित होने के बादः\nशेष श्रमिकों की संख्या = 18 - 6 = 12\nउनकी कार्यक्षमता में 25% की वृद्धि होती है।\nप्रभावी श्रमिक संख्या = 12 × 125/100 = 15\nदिन 9 से दिन 11 तक, वे 3 दिनों तक कार्य करते हैं।\nकिया गया कार्य = 15 × 3 = 45\nशेष कार्य = 288 - 45 = 243\nदिन 12 से अतिरिक्त श्रमिक जुड़ते हैं।\nदिन 12 से दिन 20 तक कार्य दिवसों की संख्या = 9\nमान लेते हैं कि अतिरिक्त श्रमिकों की संख्या = x\nप्रतिदिन प्रभावी कार्य = 15 + x\nकुल आवश्यक कार्य = 9(15 + x) = 243\n15 + x = 27\nx = 12\nइसलिये, 12 अतिरिक्त श्रमिकों को कार्य में सम्मिलित होना आवश्यक है।\nअतः विकल्प (c) सही है।",
+      "en": "Original total work = 24 × 15 = 360 worker-days\nAfter scope increase = 360 + 20% of 360 = 360 + 72 = 432 worker-days\nSo, revised total work = 432 worker-days.\nFirst 5 days:\nWorkers = 18\nWork done = 18 × 5 = 90\nRemaining work = 432 - 90 = 342\nNext 3 days:\nWorkers = 18\nWork done = 18 × 3 = 54\nRemaining work = 342 - 54 = 288\nAfter 6 workers leave,\nRemaining workers = 18 - 6 = 12\nThey become 25% more efficient.\nEffective workforce = 12 × 125/100 = 15\nFrom day 9 to day 11, they work for 3 days.\nWork done = 15 × 3 = 45\nRemaining work = 288 - 45 = 243\nAdditional workers join on day 12.\nFrom day 12 to day 20, the number of working days = 9\nLet the additional workers be x.\nDaily effective work = 15 + x\nTotal work required = 9(15 + x) = 243\n15 + x = 27\nx = 12\nSo, 12 additional workers must join.\nHence, option (c) is correct."
+    }
+  },
+  {
+    "id": 19,
+    "subject": "CSAT",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "A किसी कार्य को 24 दिनों में पूरा कर सकता है, जबकि B उसी कार्य को 36 दिनों में पूरा कर सकता है। A और B ने मिलकर कार्य करना प्रारंभ किया, लेकिन 6 दिनों के बाद A कार्य छोड़ देता है। कार्य को पूरा करने के लिये कुल कितने दिनों की आवश्यकता होगी?",
+      "en": "A can complete a piece of work in 24 days, while B can complete the same work in 36 days. A and B start working together, but after 6 days, A leaves. How many total days will be required to complete the work?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "24 दिन",
+        "en": "24 days"
+      },
+      {
+        "id": "B",
+        "hi": "25 दिन",
+        "en": "25 days"
+      },
+      {
+        "id": "C",
+        "hi": "27 दिन",
+        "en": "27 days"
+      },
+      {
+        "id": "D",
+        "hi": "30 दिन",
+        "en": "30 days"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "A का एक दिन का कार्य = 1/24\nB का एक दिन का कार्य = 1/36\nA और B द्वारा एक दिन में किया गया संयुक्त कार्य\n= 1/24 + 1/36 = 3/72 + 2/72 = 5/72\nA और B द्वारा 6 दिनों में किया गया कार्य\n= 6 × 5/72 = 30/72 = 5/12\nशेष कार्य = 1 - 5/12 = 7/12\nअब शेष कार्य को केवल B द्वारा पूरा किया जाता है।\nB, 1 कार्य को पूरा करने में 36 दिन लेता है।\nअतः B द्वारा 7/12 कार्य पूरा करने में लगने वाला समय\n= 36 × 7/12 = 21 दिन\nकुल समय = 6 + 21 = 27 दिन\nअतः विकल्प (c) सही है।",
+      "en": "A's one-day work = 1/24\nB's one-day work = 1/36\nA and B's one-day work = 1/24 + 1/36 = 3/72 + 2/72 = 5/72\nWork done by A and B in 6 days = 6 × 5/72 = 30/72 = 5/12\nRemaining work = 1 - 5/12 = 7/12\nNow B alone completes the remaining work.\nB completes 1 work in 36 days.\nSo, B will complete 7/12 work in = 36 × 7/12 = 21 days\nTotal time = 6 + 21 = 27 days\nHence, option (c) is correct."
+    }
+  },
+  {
+    "id": 20,
+    "subject": "CSAT",
+    "topic": "Time and Work",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "एक नगर पालिका ठेकेदार को सड़क मरम्मत परियोजना का कार्य सौंपा गया है। 18 कुशल श्रमिक इस पूरी परियोजना को 24 दिनों में पूरा कर सकते हैं। प्रारंभ में, 12 कुशल श्रमिक और 15 अर्द्ध-कुशल श्रमिक परियोजना पर कार्य प्रारंभ करते हैं। प्रत्येक अर्द्ध-कुशल श्रमिक की कार्यक्षमता एक कुशल श्रमिक की कार्यक्षमता की दो-तिहाई है। 8 दिनों तक कार्य करने के पश्चात, अभियंता पहले से पूर्ण किये गए कार्य के 1/16 भाग को अस्वीकार कर देता है, जिसे पुनः किया जाना आवश्यक है। उसी दिन, 4 कुशल श्रमिक और 6 अर्द्ध-कुशल श्रमिक कार्य छोड़ देते हैं, जबकि 8 प्रशिक्षु कार्य में शामिल हो जाते हैं। प्रत्येक प्रशिक्षु की कार्यक्षमता एक कुशल श्रमिक की कार्यक्षमता की आधी है। परियोजना कुल कितने दिनों में पूर्ण होगी?",
+      "en": "A municipal contractor is assigned a road-repair project. 18 skilled workers can complete the entire project in 24 days. Initially, 12 skilled workers and 15 semi-skilled workers start the project. Each semi-skilled worker works at two-third of the efficiency of a skilled worker. After working for 8 days, the engineer rejects 1/16 of the work already completed, which must be redone. On the same day, 4 skilled workers and 6 semi-skilled workers leave the work, while 8 apprentices join. Each apprentice works at half the efficiency of a skilled worker. In how many total days will the project be completed?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "22 दिन",
+        "en": "22 days"
+      },
+      {
+        "id": "B",
+        "hi": "22 5/6 दिन",
+        "en": "22 5/6 days"
+      },
+      {
+        "id": "C",
+        "hi": "23 1/3 दिन",
+        "en": "23 1/3 days"
+      },
+      {
+        "id": "D",
+        "hi": "24 दिन",
+        "en": "24 days"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कुल कार्य = 18 × 24 = 432 कुशल श्रमिक-दिवस\nप्रारंभिक प्रभावी कार्यबलः\n= 12 + 2/3 × 15\n= 12 + 10 = 22 कुशल श्रमिक\nप्रथम 8 दिनों में किया गया कार्यः\n= 22 × 8 = 176\nअस्वीकृत कार्य = 1/16 × 176 = 11\nअतः, शेष प्रभावी कार्य = 432 - 176 + 11 = 267\nअब, श्रमिकों के चले जाने के पश्चातः\nशेष कुशल श्रमिक = 12 - 4 = 8\nशेष अर्द्ध-कुशल श्रमिक = 15 - 6 = 9\nशामिल हुए प्रशिक्षु = 8\nप्रभावी कार्यबल: = 8 + 2/3 × 9 + 1/2 × 8\n= 8 + 6 + 4 = 18 कुशल श्रमिक\nशेष कार्य को पूरा करने में आवश्यक समयः\n= 267 / 18 = 14 5/6 दिन\nकुल समयः\n= 8 + 14 5/6 = 22 5/6 दिन\nअतः विकल्प (b) सही है।",
+      "en": "Total work = 18 × 24 = 432 skilled-worker-days\nInitial effective workforce:\n= 12 + 2/3 × 15\n= 12 + 10 = 22 skilled workers\nWork done in first 8 days:\n= 22 × 8 = 176\nRejected work = 1/16 × 176 = 11\nTherefore, effective work remaining:\n= 432 - 176 + 11 = 267\nNow, after workers leave:\nSkilled workers left = 12 - 4 = 8\nSemi-skilled workers left = 15 - 6 = 9\nApprentices joined = 8\nEffective workforce:\n= 8 + 2/3 × 9 + 1/2 × 8\n= 8 + 6 + 4\n= 18 skilled workers\nTime required to complete remaining work:\n= 267 / 18 = 14 5/6 days\nTotal time = 8 + 14 5/6 = 22 5/6 days\nHence, option (b) is correct."
+    }
+  },
+  {
+    "id": 21,
+    "subject": "CSAT",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "12 महिलाओं का एक समूह किसी कार्य को 20 दिनों में पूरा कर सकता है। 6 पुरुषों और 8 महिलाओं से मिलकर बना एक अन्य समूह उसी कार्य को 10 दिनों में पूरा कर सकता है। 10 पुरुष उसी कार्य को कितने दिनों में पूरा करेंगे?",
+      "en": "A group of 12 women can complete a work in 20 days. Another group consisting of 6 men and 8 women can complete the same work in 10 days. How many days will 10 men take to complete the same work?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "8 दिन",
+        "en": "8 days"
+      },
+      {
+        "id": "B",
+        "hi": "9 दिन",
+        "en": "9 days"
+      },
+      {
+        "id": "C",
+        "hi": "10 दिन",
+        "en": "10 days"
+      },
+      {
+        "id": "D",
+        "hi": "12 दिन",
+        "en": "12 days"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "मान लीजिये, एक महिला की कार्यक्षमता W हैं।\nकुल कार्यः = 12 महिलाएँ × 20 दिन = 240 W-इकाई\nअब, 6 पुरुष और 8 महिलाएँ इसी कार्य को 10 दिनों में पूरा करते हैं।\nइसलिये,\n10(6M + 8W) = 240W\n6M + 8W = 24W\n6M = 16W\nM = 16W/6 = 8W/3\nअतः, एक पुरुष, 8/3 महिलाओं के बराबर है।\n10 पुरुषों की कार्यक्षमता: = 10 × 8W/3 = 80W/3\n10 पुरुषों द्वारा कार्य पूरा करने में आवश्यक समयः\n= कुल कार्य / प्रतिदिन किया गया कार्य\n= 240W ÷ 80W/3\n= 240 × 3/80\n= 9 दिन\nअतः विकल्प (b) सही है।[cite: 2]",
+      "en": "Let the efficiency of one woman be W.\nTotal work:\n= 12 women × 20 days\n= 240 W-units\nNow, 6 men and 8 women complete the same work in 10 days.\nSo, 10(6M + 8W) = 240W\n6M + 8W = 24W\n6M = 16W\nM = 16W/6 = 8W/3\nSo, one man is equal to 8/3 women.\nEfficiency of 10 men: = 10 × 8W/3 = 80W/3\nTime required by 10 men:\n= Total work / Daily work\n= 240W ÷ 80W/3\n= 240 × 3/80\n= 9 days\nHence, option (b) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 22,
+    "subject": "CSAT",
+    "topic": "Pipes and Cisterns",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "एक टंकी को पाइप A अकेले 12 घंटे में तथा पाइप B अकेले 18 घंटे में भर सकता है। पाइप C पूरी भरी हुई टंकी को 24 घंटे में खाली कर सकता है। प्रारंभ में पाइप A और B को एक साथ खोल दिया जाता है। 2 घंटे बाद पाइप C को गलती से खोल दिया जाता है। इसके बाद कुछ समय पश्चात पाइप B को बंद कर दिया जाता है, जबकि पाइप A और C एक साथ कार्य करते रहते हैं। प्रारंभ से ठीक 10 घंटे बाद टंकी पूरी तरह भर जाती है। ज्ञात कीजिये कि प्रारंभ से कितने समय बाद पाइप B को बंद किया गया था?",
+      "en": "A tank can be filled by pipe A alone in 12 hours and by pipe B alone in 18 hours. Pipe C can empty the full tank in 24 hours. Initially, pipes A and B are opened together. After 2 hours, pipe C is accidentally opened. Later, pipe B is closed, but pipe A and C continue working together. The tank becomes completely full exactly 10 hours after the start. At what time from the start was pipe B closed?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "7 घंटे",
+        "en": "7 hours"
+      },
+      {
+        "id": "B",
+        "hi": "8 घंटे",
+        "en": "8 hours"
+      },
+      {
+        "id": "C",
+        "hi": "9 घंटे",
+        "en": "9 hours"
+      },
+      {
+        "id": "D",
+        "hi": "9.5 घंटे",
+        "en": "9.5 hours"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "A की कार्य-दर = 1/12\nB की कार्य-दर = 1/18\nC की कार्य-दर = -1/24\nमान लीजिये कि प्रारंभ से t घंटे बाद पाइप B को बंद कर दिया जाता है।\nप्रारंभिक 2 घंटे तक A और B एक साथ कार्य करते हैं।\nकिया गया कार्यः\n= 2(1/12 + 1/18)\n= 2(3/36 + 2/36)\n= 2 × 5/36 = 10/36 = 5/18\n2 घंटे से t घंटे तक, A, B और C मिलकर कार्य करते हैं।\nकुल दर: 1/12 + 1/18 - 1/24\n12, 18 और 24 का LCM = 72\n= 6/72 + 4/72 - 3/72 = 7/72\nकार्य किया गयाः = (t - 2) × 7/72\nt घंटे से 10 घंटे तक, A और C मिलकर कार्य करते हैं।\nशुद्ध दर: 1/12 - 1/24 = 1/24\nकार्य किया गया: = (10 - t) × 1/24\nकुल कार्य = 1\nइसलिये, 5/18 + 7(t - 2)/72 + (10 - t)/24 = 1\n72 से गुणा करने परः\n20 + 7(t - 2) + 3(10 - t) = 72\n20 + 7t - 14 + 30 - 3t = 72\n4t + 36 = 72\n4t = 36\nt = 9\nइसलिये, प्रारंभ से 9 घंटे के पश्चात पाइप B को बंद कर दिया गया।\nअतः विकल्प (c) सही है।[cite: 2]",
+      "en": "Rate of A = 1/12\nRate of B = 1/18\nRate of C = -1/24\nLet pipe B be closed after t hours from the start.\nFor the first 2 hours, A and B work together.\nWork done:\n= 2(1/12 + 1/18)\n= 2(3/36 + 2/36)\n= 2 × 5/36 = 10/36 = 5/18\nFrom 2 hours to t hours, A, B and C work together.\nNet rate: = 1/12 + 1/18 - 1/24\nLCM of 12, 18 and 24 = 72\n= 6/72 + 4/72 - 3/72 = 7/72\nWork done: = (t - 2) × 7/72\nFrom t hours to 10 hours, A and C work together.\nNet rate: = 1/12 - 1/24 = 1/24\nWork done: = (10 - t) × 1/24\nTotal work = 1\nSo, 5/18 + 7(t - 2)/72 + (10 - t)/24 = 1\nMultiplying by 72:\n20 + 7(t - 2) + 3(10 - t) = 72\n20 + 7t - 14 + 30 - 3t = 72\n4t + 36 = 72\n4t = 36\nt = 9\nSo, pipe B was closed after 9 hours from the start.\nHence, option (c) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 23,
+    "subject": "CSAT",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "A किसी कार्य को 20 दिनों में पूरा कर सकता है तथा B उसी कार्य को 30 दिनों में पूरा कर सकता है। A और B ने एक साथ कार्य करना प्रारंभ किया। 5 दिनों के पश्चात, B की कार्यक्षमता उसकी मूल कार्यक्षमता की आधी हो जाती है, जबकि A उसी कार्यक्षमता से कार्य करता रहता है। कार्य कुल कितने दिनों में पूरा होगा?",
+      "en": "A can complete a work in 20 days, and B can complete the same work in 30 days. A and B start working together. After 5 days, B's efficiency becomes half of his original efficiency, while A continues working at the same efficiency. In how many total days will the work be completed?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "12 दिन",
+        "en": "12 days"
+      },
+      {
+        "id": "B",
+        "hi": "13 दिन",
+        "en": "13 days"
+      },
+      {
+        "id": "C",
+        "hi": "13 3/4 दिन",
+        "en": "13 3/4 days"
+      },
+      {
+        "id": "D",
+        "hi": "14 1/2 दिन",
+        "en": "14 1/2 days"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "A का एक दिन का कार्य = 1/20\nB का एक दिन का कार्य = 1/30\nA और B का एक दिन का संयुक्त कार्यः\n= 1/20 + 1/30 = 3/60 + 2/60 = 5/60 = 1/12\nपहले 5 दिनों में किये गए कार्य = 5 × 1/12 = 5/12\nशेष कार्य = 1 - 5/12 = 7/12\n5 दिनों के बाद, B की कार्यक्षमता आधी हो जाती है।\nB का नया एक दिवसीय कार्य = 1/2 × 1/30 = 1/60\nअब A और B का संयुक्त एक दिवसीय कार्य\n= 1/20 + 1/60 = 3/60 + 1/60 = 4/60 = 1/15\nशेष कार्य को पूरा करने के लिये आवश्यक समय\n= 7/12 ÷ 1/15 = 7/12 × 15 = 105/12 = 35/4 = 8 3/4 दिन\nकुल समय = 5 + 8 3/4 = 13 3/4 दिन\nअतः विकल्प (c) सही है।[cite: 2]",
+      "en": "A's one-day work = 1/20\nB's one-day work = 1/30\nA and B's one-day work:\n= 1/20 + 1/30 = 3/60 + 2/60 = 5/60 = 1/12\nWork done in first 5 days = 5 × 1/12 = 5/12\nRemaining work = 1 - 5/12 = 7/12\nAfter 5 days, B works at half efficiency.\nB's new one-day work = 1/2 × 1/30 = 1/60\nNow A and B's combined one-day work\n= 1/20 + 1/60 = 3/60 + 1/60 = 4/60 = 1/15\nTime required to complete remaining work\n= 7/12 ÷ 1/15 = 7/12 × 15 = 105/12 = 35/4 = 8 3/4 days\nTotal time = 5 + 8 3/4 = 13 3/4 days\nHence, option (c) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 24,
+    "subject": "CSAT",
+    "topic": "Set Theory",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "एक सर्वेक्षण में, 96 व्यक्तियों को स्ट्रॉबेरी पसंद थी, 98 व्यक्तियों को रास्पबेरी पसंद थी तथा 120 व्यक्तियों को ब्लूबेरी पसंद थी; 18 व्यक्तियों को केवल स्ट्रॉबेरी, 20 व्यक्तियों को केवल रास्पबेरी तथा 24 व्यक्तियों को केवल ब्लूबेरी पसंद थी; 38 व्यक्तियों को तीनों ही पसंद थी। रास्पबेरी और ब्लूबेरी पसंद करने वाले, किंतु स्ट्रॉबेरी पसंद न करने वाले व्यक्तियों की संख्या कितनी है?",
+      "en": "In a survey, 96 people liked strawberries, 98 liked raspberries, and 120 liked blueberries; 18 people liked only strawberries, 20 liked only raspberries, and 24 liked only blueberries; 38 people liked all three. How many people liked raspberries and blueberries but not strawberries?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "27",
+        "en": "27"
+      },
+      {
+        "id": "B",
+        "hi": "29",
+        "en": "29"
+      },
+      {
+        "id": "C",
+        "hi": "31",
+        "en": "31"
+      },
+      {
+        "id": "D",
+        "hi": "32",
+        "en": "32"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "मान लीजिये:\nS = स्ट्रॉबेरी पसंद करने वाले व्यक्ति = 96\nR = रास्पबेरी पसंद करने वाले व्यक्ति = 98\nB = ब्लूबेरी पसंद करने वाले व्यक्ति = 120\nकेवल S = 18\nकेवल R = 20\nकेवल B = 24\nतीनों (S ∩ R ∩ B) = 38\nमान लीजिये: x = केवल S ∩ R; y = केवल S ∩ B; z = केवल R ∩ B\nस्ट्रॉबेरी के लियेः\n18 + x + y + 38 = 96\nx + y = 40 ...(1)\nरास्पबेरी के लियेः\n20 + x + z + 38 = 98\nx + z = 40 ...(2)\nब्लूबेरी के लियेः\n24 + y + z + 38 = 120\ny + z = 58 ...(3)\nसमीकरण (1) से: y = 40 - x\nइसे समीकरण (3) में प्रतिस्थापित करने परः\n(40 - x) + z = 58\nz = 18 + x ...(4)\nइसे समीकरण (2) में प्रतिस्थापित करने परः\nx + (18 + x) = 40\n2x = 22\nx = 11\nz = 18 + 11 = 29\nइसलिये, 29 व्यक्ति ऐसे हैं जिन्हें रास्पबेरी और ब्लूबेरी पसंद हैं, किंतु स्ट्रॉबेरी पसंद नहीं है।\nअतः विकल्प (b) सही है।[cite: 2]",
+      "en": "Let:\nS = strawberries = 96\nR = raspberries = 98\nB = blueberries = 120\nOnly S = 18\nOnly R = 20\nOnly B = 24\nAll three (S ∩ R ∩ B) = 38\nLet: x = S ∩ R only; y = S ∩ B only; z = R ∩ B only\nFrom strawberries:\n18 + x + y + 38 = 96\nx + y = 40 ...(1)\nFrom raspberries:\n20 + x + z + 38 = 98\nx + z = 40 ...(2)\nFrom blueberries:\n24 + y + z + 38 = 120\ny + z = 58 ...(3)\nFrom (1): y = 40 - x\nSubstitute into (3):\n(40 - x) + z = 58\nz = 18 + x ...(4)\nSubstitute into (2):\nx + (18 + x) = 40\n2x = 22\nx = 11\nNow, z = 18 + 11 = 29\nSo, 29 people liked raspberries and blueberries but not strawberries.\nHence, option (b) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 25,
+    "subject": "CSAT",
+    "topic": "Set Theory",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "एक प्रतियोगी परीक्षा में दो अनिवार्य प्रश्नपत्र, सामान्य अध्ययन और सीसैट शामिल हैं। यह देखा गया कि 78% अभ्यर्थी सामान्य अध्ययन में उत्तीर्ण हुए, जबकि 72% अभ्यर्थी सीसैट में उत्तीर्ण हुए। इसके अतिरिक्त, 12% अभ्यर्थी दोनों प्रश्नपत्रों में उत्तीर्ण होने में असफल रहे। दोनों प्रश्नपत्रों में से ठीक एक में असफल होने वाले अभ्यर्थियों का प्रतिशत कितना है?",
+      "en": "A competitive examination consists of two compulsory papers, General studies and CSAT. It was observed that 78% Of the candidates qualified in general studies, while 72% qualified in CSAT. Further, 12% of the candidates failed to qualify in both papers. What percentage of candidates failed in exactly one of the two papers?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "18%",
+        "en": "18%"
+      },
+      {
+        "id": "B",
+        "hi": "22%",
+        "en": "22%"
+      },
+      {
+        "id": "C",
+        "hi": "26%",
+        "en": "26%"
+      },
+      {
+        "id": "D",
+        "hi": "30%",
+        "en": "30%"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "सामान्य अध्ययन में अनुत्तीर्ण = 100 - 78 = 22%\nसीसैट में अनुत्तीर्ण = 100 - 72 = 28%\nदोनों प्रश्न-पत्रों में अनुत्तीर्ण = 12%\nअतः केवल सामान्य अध्ययन में अनुत्तीर्ण = 22 - 12 = 10%\nकेवल सीसैट में अनुत्तीर्ण = 28 - 12 = 16%\nअतः ठीक एक प्रश्न-पत्र में अनुत्तीर्ण अभ्यर्थी\n= 10% + 16% = 26%\nअतः विकल्प (c) सही है।[cite: 2]",
+      "en": "Failed in general studies = 100 - 78 = 22%\nFailed in CSAT = 100 - 72 = 28%\nFailed in both papers = 12%\nTherefore, failed only in general studies = 22 - 12 = 10%\nFailed only in CSAT = 28 - 12 = 16%\nSo, candidates who failed in exactly one paper\n= 10% + 16% = 26%\nHence, option (c) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 26,
+    "subject": "CSAT",
+    "topic": "Set Theory",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "एक कक्षा में कुछ विद्यार्थी केवल क्रिकेट खेलते हैं, कुछ अन्य विद्यार्थी केवल फुटबॉल खेलते हैं तथा शेष विद्यार्थियों में से 1/6 विद्यार्थी क्रिकेट और फुटबॉल दोनों खेलते हैं। निम्नलिखित में से कौन-सा कथन निश्चित रूप से सही है?",
+      "en": "In a class some students play cricket only, some other students play football only, and the remaining 1/6th students play both cricket and football. Which of the following statements is definitely true?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "दो-तिहाई विद्यार्थी क्रिकेट खेलते हैं।",
+        "en": "Two-thirds of the students play cricket"
+      },
+      {
+        "id": "B",
+        "hi": "तीन-चौथाई विद्यार्थी केवल फुटबॉल खेलते हैं।",
+        "en": "Three-fourths of the students play football only."
+      },
+      {
+        "id": "C",
+        "hi": "एक-तिहाई विद्यार्थी केवल फुटबॉल खेलते हैं।",
+        "en": "One-third of the students play football only."
+      },
+      {
+        "id": "D",
+        "hi": "इनमें से कोई नहीं।",
+        "en": "None of these."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "मान लीजिये विद्यार्थियों की कुल संख्या N है।\nकेवल क्रिकेट खेलने वाले विद्यार्थी = x\nकेवल फुटबॉल खेलने वाले विद्यार्थी = y\nक्रिकेट और फुटबॉल दोनों खेलने वाले विद्यार्थी = N/6\nअतः, x + y + N/6 = N\nअब प्रत्येक विकल्प की जाँच करते हैं:\n(a) क्रिकेट खेलने वाले विद्यार्थियों की संख्या = x + N/6\nचूँकि x का मान नहीं दिया गया है, अतः इसे निर्धारित नहीं किया जा सकता।\n(b) केवल फुटबॉल खेलने वाले विद्यार्थियों की संख्या = y\nपुनः, y का निश्चित मान ज्ञात नहीं है। अतः इसे निर्धारित नहीं किया जा सकता।\n(c) केवल फुटबॉल खेलने वाले विद्यार्थियों की संख्या = N/3\nयह भी निश्चित नहीं है।\nइसलिये, विकल्प (a), (b) और (c) में से किसी भी संख्या को ज्ञात नहीं किया जा सकता।\nअतः विकल्प (d) सही है।[cite: 2]",
+      "en": "Let the number of students be N.\nCricket only = x\nFootball only = y\nBoth cricket and football = N/6\nSo, x + y + N/6 = N\nNow check each option\n(a) Students who play cricket = x + N/6\nSince x is not given, this cannot be determined.\n(b) students who play football only = y\nAgain, y is not fixed. So, it cannot be determined.\n(c) Football only = N/3\nThis is also not fixed\nTherefore, none of the options a, b, and c can be found.\nHence, option (d) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 27,
+    "subject": "CSAT",
+    "topic": "Set Theory",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "एक भर्ती प्रक्रिया में, अभ्यर्थियों को दो अनिवार्य चरणों: लिखित परीक्षा और कौशल परीक्षण में अर्हता प्राप्त करना आवश्यक था। यह देखा गया कि 84% अभ्यर्थियों ने लिखित परीक्षा में अर्हता प्राप्त की, जबकि 76% अभ्यर्थियों ने कौशल परीक्षण में अर्हता प्राप्त की। इसके अतिरिक्त, 9% अभ्यर्थी दोनों चरणों में अर्हता प्राप्त करने में असफल रहे। ज्ञात कीजिये कि अभ्यर्थियों का कितना प्रतिशत केवल दो चरणों में से किसी एक चरण में असफल रहा?",
+      "en": "In a recruitment process, candidates were required to qualify in two compulsory stages: a written examination and a skill test. It was observed that 84% of the candidates qualified in the written examination, while 76% qualified in the skill test. Further, 9% of the candidates failed to qualify in both stages. What percentage of candidates failed in exactly one of the two stages?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "18%",
+        "en": "18%"
+      },
+      {
+        "id": "B",
+        "hi": "22%",
+        "en": "22%"
+      },
+      {
+        "id": "C",
+        "hi": "24%",
+        "en": "24%"
+      },
+      {
+        "id": "D",
+        "hi": "28%",
+        "en": "28%"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "लिखित परीक्षा में असफल = 100 - 84 = 16%\nकौशल परीक्षण में असफल = 100 - 76 = 24%\nदोनों चरणों में असफल = 9%\nअतः, केवल लिखित परीक्षा में असफल अभ्यर्थी = 16 - 9 = 7%\nकेवल कौशल परीक्षण में असफल अभ्यर्थी = 24 - 9 = 15%\nअतः, दोनों चरणों में से किसी एक चरण में असफल होने वाले = 7% + 15% = 22%\nअतः विकल्प (b) सही है।[cite: 2]",
+      "en": "Failed in the written examination = 100 - 84 = 16%\nFailed in the skill test = 100 - 76 = 24%\nFailed in both stages = 9%\nSo, failed only in the written examination = 16 - 9 = 7%\nFailed only in the skill test = 24 - 9 = 15%\nSo, candidates who failed in exactly one of the two stages = 7 + 15 = 22%\nHence, option (b) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 28,
+    "subject": "CSAT",
+    "topic": "Seating Arrangement",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "आठ अधिकारी A, B, C, D, E, F, G और H एक वृत्ताकार सम्मेलन मेज के चारों ओर आठ समान दूरी वाले स्थानों पर बैठे हैं। सभी का मुख केंद्र की ओर है। A और C दोनों, B के निकटतम पड़ोसी हैं। D और C दोनों, E के निकटतम पड़ोसी हैं। F और H दोनों, G के निकटतम पड़ोसी हैं। E, H के ठीक विपरीत बैठा है। A से दक्षिणावर्त दिशा में चलते हुए, C, D से पहले आता है। यदि B, H की ओर मेज के चारों ओर दक्षिणावर्त दिशा में चलना प्रारंभ करता है, तो H तक पहुँचने से पहले B कितने अधिकारियों को पार करेगा?",
+      "en": "Eight officers A, B, C, D, E, F, G, and H are seated around a circular conference table at eight equally spaced seats, all facing Center. Both A and C are immediate neighbors of B. Both D and Care immediate neighbors of E. Both F and H are immediate neighbors of G. E sits directly opposite H. while moving clockwise from A, one reaches C before D. If B starts moving clockwise around the table towards H, how many officers will B cross before reaching H?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "2",
+        "en": "2"
+      },
+      {
+        "id": "B",
+        "hi": "3",
+        "en": "3"
+      },
+      {
+        "id": "C",
+        "hi": "4",
+        "en": "4"
+      },
+      {
+        "id": "D",
+        "hi": "5",
+        "en": "5"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "मान लेते हैं कि B एक निश्चित स्थान पर बैठा है।\nचूँकि A और C, B के निकटतम पड़ोसी हैं तथा A से दक्षिणावर्त दिशा में चलते हुए C, D से पहले आता है, इसलिये व्यवस्था इस प्रकार प्रारंभ होती है:\nA - B - C\nअब, D और C दोनों, E के निकटतम पड़ोसी हैं।\nचूँकि E का एक पड़ोसी पहले से ही C है, इसलिये E का दूसरा पड़ोसी D होगा।\nअतः व्यवस्था होगी:\nA - B - C - E - D\nअब, E, H के ठीक विपरीत बैठा है। इसलिये H, E के विपरीत स्थान पर बैठेगा।\nअंततः F और H दोनों, G के निकटतम पड़ोसी हैं। इससे शेष स्थानों पर G और F की स्थिति निश्चित हो जाती है।\nअंतिम दक्षिणावर्त व्यवस्था है:\nB - C - E - D - F - G - H - A\nअब, B से H की ओर दक्षिणावर्त दिशा में चलते हैं;\nH तक पहुँचने से पहले पार किये जाने वाले अधिकारी हैं: C, E, D, F और G अर्थात कुल 5 अधिकारी।\nअतः विकल्प (d) सही है।[cite: 2]",
+      "en": "Let us assume B occupies a fixed seat.\nSince A and C are adjacent to B, and moving clockwise from A. we meet c before D, the arrangements begin as:\nA - B - C\nNext, D and C are adjacent to E.\nSince one neighbor of E IS Already C, the other neighbor must be D.\nThus, A - B - C - E - D\nNow, E is directly opposite H. Therefore, H occupies the seat opposite E.\nFinally, F and H are adjacent to G. This uniquely places G and F in the remaining seats.\nThe final clockwise arrangement is:\nB - C - E - D - F - G - H - A\nNow, move clockwise from B to H;\nThe officers crossed before reaching H are C, E, D, F, and G. I.e., 5 officers.\nHence, option (d) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 29,
+    "subject": "CSAT",
+    "topic": "Seating Arrangement",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "आठ प्रतिनिधि P, Q, R, S, T, U, V और W एक वृत्ताकार मेज के चारों ओर एक-दूसरे से समान दूरी पर बैठे हैं। सभी का मुख केंद्र की ओर है, हालाँकि उनका बैठने का क्रम समान होना आवश्यक नहीं है। Q और S, न तो R के निकटतम पड़ोसी हैं और न ही R के ठीक विपरीत बैठे हैं। T और U के बीच (किसी भी दिशा में गिनने पर) ठीक दो व्यक्ति बैठे हैं। V, P और W के ठीक बीच में बैठा है, अर्थात P. V और W तीन क्रमिक स्थानों पर बैठे हैं तथा V बीच में है। R, T का निकटतम पड़ोसी है। निम्नलिखित में से कौन-सा कथन निश्चित रूप से सत्य है?",
+      "en": "Eight delegates P, Q, R, S, T, U, V, and W are seated around a circular table at equal distances from one another, all facing the center, though not necessary in same order. Q and S neither adjacent to R nor directly opposite R. there are exactly two persons between T and U (counting in either direction). V sits exactly between P and W, i.e., P, V and W occupy three consecutive seats with v in the middle. R is an immediate neighbor of T. Which one of the following statements must be true?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "P, U के विपरीत बैठा है।",
+        "en": "P sits opposite U."
+      },
+      {
+        "id": "B",
+        "hi": "W. S का निकटतम पड़ोसी है।",
+        "en": "W is an immediate neighbor of S."
+      },
+      {
+        "id": "C",
+        "hi": "Q, V के विपरीत बैठा है।",
+        "en": "Q sits opposite V."
+      },
+      {
+        "id": "D",
+        "hi": "इनमें से कोई नहीं।",
+        "en": "None of the above."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "R को एक निश्चित स्थान पर मान लेते हैं (घूर्णन से कोई प्रभाव नहीं पड़ता)।\nचूँकि Q और S, न तो R के निकटतम स्थानों पर बैठ सकते हैं और न ही R के ठीक विपरीत स्थान पर, इसलिये वे इन तीन स्थानों पर नहीं बैठ सकते।\nT और U के बीच ठीक दो व्यक्ति बैठे हैं, अर्थात वे वृत्त में तीन स्थानों की दूरी पर स्थित होंगे।\nसाथ ही, R, T का निकटतम पड़ोसी है, जिससे T का स्थान निश्चित हो जाता है और परिणामस्वरूप U का स्थान भी निर्धारित हो जाता है।\nअब V को P और W के ठीक बीच में रखते हैं। पूर्ववर्ती सभी शर्तों को पूरा करने के बाद शेष रिक्त क्रमिक स्थानों में केवल एक वैध व्यवस्था संभव होती है।\nएक संभावित व्यवस्था (दक्षिणावर्त दिशा में) है:\nR - T - P - V - W - U - Q - S\nयह व्यवस्था सभी दी गई शर्तों को पूरा करती है, जैसे- Q और S, R के न तो निकटतम पड़ोसी हैं और न ही R के ठीक विपरीत बैठे हैं; T और U के बीच दो व्यक्ति बैठे हैं; V, P और W के ठीक बीच में बैठा है; R, T का निकटतम पड़ोसी है।\nअब, हम पाते हैं कि P, U के नहीं बल्कि Q के विपरीत बैठा है; W, S का निकटतम पड़ोसी नहीं है और Q, V के नहीं बल्कि P के विपरीत बैठा है।\nअतः कोई भी कथन निश्चित रूप से सत्य नहीं है।\nअतः विकल्प (d) सही है।[cite: 2]",
+      "en": "Fix R at any one seat (rotation does not matter)\nSince Q and S are neither adjacent nor opposite to R, they cannot occupy the two adjacent seats or the opposite seat.\nThere are exactly two persons between T and U, so they are separated by three seats along the circle.\nAlso, R is an immediate neighbor of T, which fixes the position of T, and consequently U.\nNow, place V exactly between P and W. the remaining vacant consecutive seats allow only one valid placement after satisfying all previous conditions.\nOne valid arrangement (clockwise) is:\nR - T - P - V - W - U - Q - S\nThis arrangement satisfies every given condition like Q and S are neither adjacent nor opposite to R; two persons lie between T and U; V is exactly between P, and W. R is adjacent to T.\nNow we get P is opposite to Q not U; W is not adjacent to S and Q is opposite to P not V.\nSo, none of the statements is definitely true.\nHence, option (d) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 30,
+    "subject": "CSAT",
+    "topic": "Seating Arrangement",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "A, B, C, D, E, F, G और H एक वृत्त के चारों ओर केंद्र की ओर मुख करके बैठे हैं। B, D के दाईं ओर दूसरे स्थान पर बैठा है तथा D, E के विपरीत बैठा है। C, A के बाईं ओर दूसरे स्थान पर बैठा है तथा A, F के बाईं ओर दूसरे स्थान पर बैठा है। G, E के दाईं ओर तीसरे स्थान पर बैठा है।",
+      "en": "A, B, C, D, E, F, G, and H are sitting around a circle facing the center. B is second to the right of D who opposite of E. C is second to the left of A who is second to left of F. G is third to right of E."
+    },
+    "statements": null,
+    "question": {
+      "hi": "निम्नलिखित में से किस संयोजन में पहला व्यक्ति, दूसरे और तीसरे व्यक्ति के बीच बैठा है?",
+      "en": "In which of the following combinations is the first person sitting between the second and third persons?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "GCA",
+        "en": "GCA"
+      },
+      {
+        "id": "B",
+        "hi": "FGC",
+        "en": "FGC"
+      },
+      {
+        "id": "C",
+        "hi": "CBD",
+        "en": "CBD"
+      },
+      {
+        "id": "D",
+        "hi": "AHE",
+        "en": "AHE"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "हम देख सकते हैं कि C, B और D के बीच बैठा है। अतः CBD आवश्यक संयोजन है। अतः विकल्प (c) सही है।[cite: 2]",
+      "en": "We can see that C is sitting between B and D. So, CBD is the required combination. Hence, option (c) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 31,
+    "subject": "CSAT",
+    "topic": "Seating Arrangement",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "A, B, C, D, E, F, G और H एक वृत्त के चारों ओर केंद्र की ओर मुख करके बैठे हैं। B, D के दाईं ओर दूसरे स्थान पर बैठा है तथा D, E के विपरीत बैठा है। C, A के बाईं ओर दूसरे स्थान पर बैठा है तथा A, F के बाईं ओर दूसरे स्थान पर बैठा है। G, E के दाईं ओर तीसरे स्थान पर बैठा है।",
+      "en": "A, B, C, D, E, F, G, and H are sitting around a circle facing the center. B is second to the right of D who opposite of E. C is second to the left of A who is second to left of F. G is third to right of E."
+    },
+    "statements": null,
+    "question": {
+      "hi": "B के सापेक्ष H की स्थिति क्या है?",
+      "en": "What is H's position with respect to B?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "दाईं ओर पाँचवाँ",
+        "en": "Fifth to the right"
+      },
+      {
+        "id": "B",
+        "hi": "बाई ओर तीसरा",
+        "en": "Third to the left"
+      },
+      {
+        "id": "C",
+        "hi": "बाई ओर पाँचवाँ",
+        "en": "Fifth to the left"
+      },
+      {
+        "id": "D",
+        "hi": "दाईं ओर चौथा",
+        "en": "Fourth to the right"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "हम स्पष्ट रूप से देख सकते हैं कि H, B के दाईं ओर चौथे स्थान पर बैठा है। अतः विकल्प (d) सही है।[cite: 2]",
+      "en": "We can clearly see that H is fourth to right of B. Hence, option (d) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 32,
+    "subject": "CSAT",
+    "topic": "Data Sufficiency",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "H, G के ठीक दाई ओर बैठा है।",
+        "en": "H sits immediately to the right of G."
+      },
+      {
+        "id": 2,
+        "hi": "C, D के विपरीत बैठा है।",
+        "en": "C sits opposite D."
+      }
+    ],
+    "question": {
+      "hi": "आठ शोधकर्त्ता A, B, C, D, E, F, G और H एक वृत्ताकार मेज के चारों ओर एक-दूसरे से समान दूरी पर बैठे हैं। सभी का मुख केंद्र की ओर है। निम्नलिखित तथ्य ज्ञात हैं:\n(I) A, B के बाईं ओर तीसरे स्थान पर बैठा है।\n(II) D, A और E दोनों का निकटतम पड़ोसी है।\n(III) F, B के ठीक विपरीत बैठा है।\n(IV) G, F का निकटतम पड़ोसी नहीं है।\nC की निश्चित स्थिति ज्ञात करने के लिये निम्नलिखित में से कौन-सा अतिरिक्त कथन पर्याप्त है?",
+      "en": "Eight researchers A, B, C, D, E, F, G, and H are seated around a circular table at equal distances from one another, all facing the center. The following facts are known:\n(I) A sits third to the left of B.\n(II) D is an immediate neighbor of Both A and E.\n(III) F sits directly opposite B.\n(IV) G is not an immediate neighbor of F.\nTo determine the exact position of C, which of the following additional statements is sufficient?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल कथन 1 प्रश्न का उत्तर देने के लिये पर्याप्त है।",
+        "en": "Statement 1 alone is sufficient to answer the question."
+      },
+      {
+        "id": "B",
+        "hi": "केवल कथन 2 प्रश्न का उत्तर देने के लिये पर्याप्त है।",
+        "en": "Statement 2 alone is sufficient to answer the question."
+      },
+      {
+        "id": "C",
+        "hi": "कथन 1 और कथन 2 दोनों मिलकर प्रश्न का उत्तर देने के लिये पर्याप्त हैं।",
+        "en": "Both statements 1 and 2 together are sufficient to answer the question."
+      },
+      {
+        "id": "D",
+        "hi": "कथन 1 या कथन 2 में से कोई एक अकेले प्रश्न का उत्तर देने के लिये पर्याप्त है।",
+        "en": "Either statement 1 or 2 alone is sufficient."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "दिये गए प्रतिबंधों के अनुसार, A, B, D, E और F की स्थिति केवल आंशिक रूप से निर्धारित की जा सकती है। C, G और H के लिये तीन स्थान शेष रहते हैं, इसलिये अभी C की निश्चित स्थिति ज्ञात नहीं की जा सकती।\nकथन 1: H, G के ठीक दाई ओर बैठा है। शेष स्थानों में G और H की स्थिति अभी भी परस्पर बदल सकती है, इसलिये उन्हें निश्चित रूप से निर्धारित नहीं किया जा सकता। अतः केवल कथन 1 पर्याप्त नहीं है।\nकथन 2: C, D के विपरीत बैठा है। चूँकि D की स्थिति दिये गए प्रतिबंधों से पहले ही निश्चित है, इसलिये D के ठीक विपरीत स्थान भी निश्चित होगा। इस प्रकार, C की स्थिति निश्चित हो जाती है।\nअतः केवल कथन 2 ही पर्याप्त है।\nअतः विकल्प (b) सही है।[cite: 2]",
+      "en": "According to given conditions, the position of A, B, D, E, and F can be determined only partially. Three seats remain available for C, G, and H., so the exact position of C cannot yet be identified.\nStatement 1: H is immediately to the right of G. The position of G and H can still interchange among remaining seats, so cannot be uniquely located. Hence, statement 1 alone is not sufficient.\nStatement 2: C sits opposite D. since D's position is already fixed from the given information; the seat opposite D is uniquely determined. Thus, C's position becomes fixed.\nTherefore, Statement 2 alone is sufficient.\nHence, option (b) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 33,
+    "subject": "CSAT",
+    "topic": "Pipes and Cisterns",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "एक बाथटब को ठंडे पानी की पाइप द्वारा 10 मिनट में तथा गर्म पानी की पाइप द्वारा 15 मिनट में भरा जा सकता है। एक व्यक्ति दोनों पाइपों को एक साथ खोलने के बाद बाथरूम से बाहर चला जाता है और उस समय वापस आता है जब टब पूरा भर जाना चाहिये था, लेकिन वह पाता है कि निकासी पाइप खुली रह गई है। वह निकासी पाइप को बंद कर देता है। इसके 4 मिनट बाद टब पूरा भर जाता है। निकासी पाइप अकेले भरे हुए टब को कितने मिनट में खाली कर सकती है?",
+      "en": "A bathtub can be filled by the cold-water pipe in 10 minutes and by the hot-water pipe in 15 minutes. A person leaves the bathroom after turning on both pipes simultaneously and returns at the moment when the bath should be full but finds that the waste pipe has been left open. He closes the waste pipe. In 4 minutes more the tub is full. In how many minutes can the waste pipe empty the full tub by itself?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "6 मिनट",
+        "en": "6 minutes"
+      },
+      {
+        "id": "B",
+        "hi": "9 मिनट",
+        "en": "9 minutes"
+      },
+      {
+        "id": "C",
+        "hi": "12 मिनट",
+        "en": "12 minutes"
+      },
+      {
+        "id": "D",
+        "hi": "15 मिनट",
+        "en": "15 minutes"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "10 और 15 का लघुत्तम समापवर्त्य (LCM) 30 इकाई है।\nठंडे पानी की पाइप से भरने की दर = 30/10 = 3 इकाई/मिनट\nगर्म पानी के पाइप से भरने की दर = 30/15 = 2 इकाई/मिनट\nअतः, दोनों पाइपों द्वारा संयुक्त रूप से टब भरने की दर = 3 + 2 = 5 इकाई/मिनट\nबिना किसी रिसाव के, टब को भरने में लगने वाला समय = 30/5 = 6 मिनट\nलेकिन 6 मिनट के बाद भी टब पूरा नहीं भरता है, क्योंकि अपशिष्ट (खराब) पाइप खुला हुआ है।\nचूँकि उस समय अपशिष्ट पाइप बंद कर दिया जाता है और टब अगले 4 मिनट में पूरी तरह भर जाता है, अतः अभी आवश्यक पानी की मात्रा = 5 × 4 = 20 इकाई\nइसलिये, पहले 6 मिनट में भरी गई पानी की मात्रा = 30 - 20 = 10 इकाई\nअतः, जब अपशिष्ट पाइप खुला था, तब प्रभावी रूप से भरने की दर: 10 ÷ 6 = 5/3 इकाई/मिनट\nअब, संयुक्त रूप से भरने की दर - अपशिष्ट रूप से पाइप की दर = प्रभावी रूप से भरने की दर\n5 - अपशिष्ट पाइप की दर = 5/3\nअपशिष्ट पाइप की दर = 5 - 5/3 = 10/3 इकाई/मिनट\nइसलिये, केवल अपशिष्ट पाइप द्वारा पूरे भरे हुए टब को खाली करने में लगने वाला समय = 30 / (10/3) = 30 × 3/10 = 9 मिनट\nअतः विकल्प (b) सही है।[cite: 2]",
+      "en": "Take LCM of 10 and 15 = 30 units\nCold pipe fills = 30/10 = 3 units/min\nHot pipe fills = 30/15 = 2 units/min\nSo, both pipes together fill = 3 + 2 = 5 units/min\nWithout any leakage, the tub would be full in 30/5 = 6 minutes\nBut after 6 minutes, the tub is not full because the waste pipe is open.\nSince the waste pipe is closed at that moment and the tub fills completely in next 4 minutes, the amount of water still needed is 5 × 4 = 20 units\nTherefore, in first 6 minutes, only filled = 30 - 20 = 10 units\nHence, effective falling rate while the waste pipe was open was:\n10 ÷ 6 = 5/3 units/min\nNow, Combined filling rate - waste pipe rate = effective filling rate\n5 - waste pipe rate = 5/3\nWaste pipe rate = 5 - 5/3 = 10/3 units/min\nSo, time taken by the waste pipe alone to empty the full tub = 30 / (10/3) = 30 × 3/10 = 9 minutes\nHence, option (b) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 34,
+    "subject": "CSAT",
+    "topic": "Pipes and Cisterns",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "एक बूस्टर पंप का उपयोग किसी टैंक को भरने के साथ-साथ उसे खाली करने के लिये भी किया जा सकता है। टैंक की क्षमता 2400 घन मीटर है। टैंक को खाली करने की क्षमता, टैंक को भरने की क्षमता से 10 घन मीटर प्रति मिनट अधिक है तथा पंप को टैंक खाली करने में, टैंक भरने की अपेक्षा 8 मिनट कम समय लगता है। पंप की भरने की क्षमता क्या है?",
+      "en": "A booster pump can be used for filling as well as for emptying a tank. The capacity of the tank is 2400 m³. The emptying capacity of the tank is 10 m³ per minute higher than its filling capacity, and the pump needs 8 minutes lesser to empty the tank than it needs to fill it. What is the filling capacity of the pump?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "50 घन मीटर प्रति मिनट",
+        "en": "50 m³ per minute"
+      },
+      {
+        "id": "B",
+        "hi": "60 घन मीटर प्रति मिनट",
+        "en": "60 m³ per minute"
+      },
+      {
+        "id": "C",
+        "hi": "72 घन मीटर प्रति मिनट",
+        "en": "72 m³ per minute"
+      },
+      {
+        "id": "D",
+        "hi": "इनमें से कोई नहीं",
+        "en": "None of these"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "मान लीजिये कि पंप की टंकी भरने की क्षमता x घन मीटर/मिनट है।\nतब टंकी को खाली करने की क्षमता = (x + 10) घन मीटर/मिनट होगी।\nटंकी की क्षमता = 2400 घन मीटर\nटंकी को भरने में लिया गया समय = (2400 / x) मिनट\nटंकी को खाली करने में लिया गया समय = 2400 / (x + 10) मिनट\nप्रश्नानुसार, 2400/x - 2400/(x + 10) = 8\nदोनों पक्षों को x(x + 10) से गुणा करने पर।\n2400(x + 10) - 2400x = 8x(x + 10)\n24000 = 8x(x + 10)\n3000 = x² + 10x\nx² + 10x - 3000 = 0\n(x + 60)(x - 50) = 0\nक्षमता ऋणात्मक नहीं हो सकती है।\nअतः, x = 50\nइसलिये, पंप की टंकी भरने की क्षमता = 50 घन मीटर/मिनट\nअतः विकल्प (a) सही है।[cite: 2]",
+      "en": "Let the filling capacity of the pump be x m³/min\nThen the emptying capacity is (x + 10) m³/min\nCapacity of tank = 2400 m³\nTime taken to fill = (2400 / x) minutes\nTime taken to empty = 2400 / (x + 10) minutes\nAccording to the question,\n2400/x - 2400/(x + 10) = 8\nMultiplying both sides by x(x + 10)\n2400(x + 10) - 2400x = 8x(x + 10)\n24000 = 8x(x + 10)\n3000 = x² + 10x\nx² + 10x - 3000 = 0\n(x + 60)(x - 50) = 0\nCapacity cannot be negative\nSo, x = 50\nTherefore, filling capacity of the pump = 50 m³/min\nHence, option (a) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 35,
+    "subject": "CSAT",
+    "topic": "Arithmetic",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "तीन पर्वतारोही P, Q और R एक साथ क्रमशः तीन अलग-अलग वॉचटावर A, B और C पर चढ़ना प्रारंभ करते हैं। प्रत्येक प्रयास में, P, 8 सेमी. ऊपर चढ़ता है, लेकिन 3 सेमी. नीचे फिसल जाता है। Q, 9 सेमी. ऊपर चढ़ता है, लेकिन 5 सेमी. नीचे फिसल जाता है। R, 10 सेमी. ऊपर चढ़ता है, लेकिन 4 सेमी. नीचे फिसल जाता है। प्रत्येक पर्वतारोही अपने-अपने वॉचटावर के शीर्ष पर ठीक 45वें प्रयास में पहुँचता है। निम्नलिखित में से कौन-सी सबसे ऊँचे वॉचटावर की अधिकतम संभव ऊँचाई हो सकती है?",
+      "en": "Three mountaineers P, Q, and R start climbing three different watchtowers A, B, and C simultaneously. In each attempt, P climbs 8 cm but slips down 3 cm. Q climbs 9 cm but slips down 5 cm. R climbs 10 cm but slips down 4 cm. Each mountaineer reaches the top of their respective watchtower exactly on the 45th attempt. Which of the following can be the maximum possible height of the tallest watchtower?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "228 सेमी.",
+        "en": "228 cm"
+      },
+      {
+        "id": "B",
+        "hi": "185 सेमी.",
+        "en": "185 cm"
+      },
+      {
+        "id": "C",
+        "hi": "274 सेमी.",
+        "en": "274 cm"
+      },
+      {
+        "id": "D",
+        "hi": "264 सेमी.",
+        "en": "264 cm"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "चूँकि शीर्ष पर पहुँचने के बाद पर्वतारोही फिसलता नहीं है, इसलिये केवल प्रथम 44 प्रयासों में ही चढ़ाई और फिसलना दोनों शामिल होंगे।\nपर्वतारोही P द्वारा वॉचटावर A पर;\nप्रत्येक पूर्ण प्रयास में शुद्ध वृद्धि = 8 - 3 = 5 सेमी.\n44 प्रयासों के बाद ऊँचाई = 44 × 5 = 220 सेमी.\nअंतिम चढ़ाई = 8 सेमी.\nइसलिये, A की ऊँचाई = 220 + 8 = 228 सेमी.\nपर्वतारोही Q द्वारा वॉचटावर B पर;\nप्रत्येक पूर्ण प्रयास में शुद्ध वृद्धि = 9 - 5 = 4 सेमी.\n44 प्रयासों के बाद ऊँचाई = 44 × 4 = 176 सेमी.\nअंतिम चढ़ाई = 9 सेमी.\nइसलिये, B की ऊँचाई = 176 + 9 = 185 सेमी.\nपर्वतारोही R द्वारा वॉचटावर C पर;\nप्रत्येक पूर्ण प्रयास में शुद्ध वृद्धि = 10 - 4 = 6 सेमी.\n44 प्रयासों के बाद ऊँचाई = 44 × 6 = 264 सेमी.\nअंतिम चढ़ाई = 10 सेमी.\nअतः, C की ऊँचाई = 264 + 10 = 274 सेमी.\nइसलिये, तीनों वॉचटावरों में C की ऊँचाई अधिकतम 274 सेमी. है।\nअतः विकल्प (c) सही है।[cite: 2]",
+      "en": "Since a climber does not slip after reaching the top, only the first 44 attempts include both climbing and slipping.\nOn watchtower A by mountaineer P;\nNet gain per completed attempt = 8 - 3 = 5 cm\nHeight after 44 attempts = 44 × 5 = 220 cm\nFinal climb = 8 cm\nSo, height of A = 220 + 8 = 228 cm\nOn watchtower B by mountaineer Q;\nNet gain per completed attempt = 9 - 5 = 4 cm\nHeight after 44 attempts = 44 × 4 = 176 cm\nFinal climb = 9 cm\nSo, height of B = 176 + 9 = 185 cm\nOn watchtower C by mountaineer R;\nNet gain per completed attempt = 10 - 4 = 6 cm\nHeight after 44 attempts = 44 × 6 = 264 cm\nFinal climb = 10 cm\nSo, height of C = 264 + 10 = 274 cm\nSo, in all three watchtowers C has a maximum height of 274 cm.\nHence, option (c) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 36,
+    "subject": "CSAT",
+    "topic": "Puzzles",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "एक आपदा राहत शिविर में एक बड़ा भंडारण टैंक है जिसमें पर्याप्त मात्रा में पानी उपलब्ध है। एक स्वयंसेवक को 2 लीटर, 7 लीटर, 20 लीटर और 75 लीटर के मापने वाले पात्रों का उपयोग करके 404 लीटर पानी मापना है। प्रत्येक बार जब किसी पात्र को टैंक से पूर्णतः भरा जाता है और भंडारण ड्रम में खाली किया जाता है, तो उसे एक मापन माना जाता है। पात्रों को आंशिक रूप से नहीं भरा जा सकता है। आवश्यक न्यूनतम मापों की संख्या क्या होगी?",
+      "en": "A disaster relief camp has a large storage tank containing sufficient water. A volunteer has to measure 404 litres of water using measuring containers of 2 litres, 7 litres, 20 litres, and 75 litres. Each time a container is filled completely from the tank and emptied into the storage drum, it counts as one measurement. The containers cannot be partially filled. What is the minimum number of measurements required?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "7",
+        "en": "7"
+      },
+      {
+        "id": "B",
+        "hi": "8",
+        "en": "8"
+      },
+      {
+        "id": "C",
+        "hi": "9",
+        "en": "9"
+      },
+      {
+        "id": "D",
+        "hi": "10",
+        "en": "10"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "सबसे बड़े पात्र का अधिकतम बार उपयोग करने परः\n404 = 75 × 5 + 29\nपाँच मापों से प्राप्त मात्रा = 75 × 5 = 375 लीटर\nशेष मात्रा = 404 - 375 = 29 लीटर\nअब, 29 = 20 × 1 + 9\nएवं, 9 = 7 × 1 + 2\n2 = 2 × 1\nअतः, 75 लीटर पात्र का उपयोग = 5 बार\n20 लीटर पात्र का उपयोग = 1 बार\n7 लीटर पात्र का उपयोग = 1 बार\n2 लीटर पात्र का उपयोग = 1 बार\nइसलिये, कुल मापों की संख्या = 5 + 1 + 1 + 1 = 8\nअतः विकल्प (b) सही है।[cite: 2]",
+      "en": "Use the largest container as many times as possible.\n404 = 75 × 5 + 29\nFive measurements give = 75 × 5 = 375 litres\nRemaining = 404 - 375 = 29\nNow, 29 = 20 × 1 + 9\nAnd 9 = 7 × 1 + 2\n2 = 2 × 1\nSo, 75 litres container = 5 times\n20 litres container = 1 time\n7 litres container = 1 time\n2 litres container = 1 time\nTherefore, total measurements = 5 + 1 + 1 + 1 = 8\nHence, option (b) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 37,
+    "subject": "CSAT",
+    "topic": "HCF and LCM",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "एक खाद्य प्रसंस्करण इकाई में 756 किलोग्राम गेहूँ का आटा और 1,134 किलोग्राम चावल का आटा अलग-अलग कंटेनरों में संग्रहीत है। प्रबंधक दोनों प्रकार के आटे को एकसमान थैलों में पुनः पैक करना चाहता है, इस प्रकार कि प्रत्येक थैले की क्षमता समान हो और वह पूर्णतः भरा हुआ हो। गेहूँ का आटा और चावल का आटा अलग-अलग पैक किया जाता है तथा प्रत्येक थैले की क्षमता किलोग्राम में एक पूर्ण संख्या होनी चाहिये। इन परिस्थितियों में कितनी अलग-अलग क्षमता वाले बैग बनाना संभव है?",
+      "en": "A food processing unit has 756 kg of wheat flour and 1,134 kg of rice flour stored in separate containers. The manager wants to repack both types of flour into identical bags, such that each bag has the same capacity and is filled completely. Wheat flour and rice flour are packed separately, and the capacity of each bag is a whole number of kilograms. How many different bag capacities are possible under these conditions?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "10",
+        "en": "10"
+      },
+      {
+        "id": "B",
+        "hi": "12",
+        "en": "12"
+      },
+      {
+        "id": "C",
+        "hi": "16",
+        "en": "16"
+      },
+      {
+        "id": "D",
+        "hi": "18",
+        "en": "18"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "प्रत्येक थैले की क्षमता 756 और 1,134 दोनों को पूर्णतः विभाजित करनी चाहिये।\nअतः, आवश्यक थैलों की क्षमताएँ 756 और 1,134 के उभयनिष्ठ गुणनखंड होंगी।\n1134 = 756 × 1 + 378\n756 = 378 × 2 + 0\nअतः, HCF (378, 1134) = 378\nअब, 378 = 2 × 3³ × 7\nअतः, धनात्मक गुणनखंडों की संख्या है:\n(1 + 1)(3 + 1)(1 + 1) = 2 × 4 × 2 = 16\nइसलिये, थैलों की क्षमताओं के 16 विभिन्न मान हैं।\nअतः विकल्प (c) सही है।[cite: 2]",
+      "en": "The capacity of each bag must exactly divide both 756 and 1,134.\nTherefore, the required bag capacities are the common factor of 756 and 1,134.\n1134 = 756 × 1 + 378\n756 = 378 × 2 + 0\nSo, HCF (378, 1134) = 378\nNow, 378 = 2 × 3³ × 7\nTherefore, the number of positive factors is\n(1 + 1)(3 + 1)(1 + 1) = 2 × 4 × 2 = 16\nSo, there are 16 different bag capacities.\nHence, option (c) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 38,
+    "subject": "CSAT",
+    "topic": "Data Sufficiency",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": [
+      {
+        "id": 1,
+        "hi": "समूह P की 24 पाइपलाइनें किसी जलाशय को 16 मिनट में 80% तक भर सकती हैं, तथा समूह Q की 12 पाइपलाइनें उसी जलाशय को 9 मिनट में 30% तक भर सकती हैं।",
+        "en": "24 pipelines of set P can fill 80% of the reservoir in 16 minutes, and 12 pipelines of set Q can fill 30% of the reservoir in 9 minutes."
+      },
+      {
+        "id": 2,
+        "hi": "समूह R की 18 पाइपलाइनें जलाशय के 45% भाग को 15 मिनट में खाली कर सकती हैं। संचालन के दौरान, समूह P की आधी पाइपलाइनें, समूह Q की सभी पाइपलाइनें तथा समूह R की एक-तिहाई पाइपलाइनें खुली रखी जाती हैं।",
+        "en": "Eighteen pipelines of set R can empty 45% of reservoir in 15 minutes. During the operation, half of the pipelines of set P, all the pipelines of set Q, and one-third of the pipelines of set R are kept open."
+      }
+    ],
+    "question": {
+      "hi": "एक नगर जलाशय को तीन प्रकार की पाइपलाइनों के समूह P, Q और R द्वारा जल की आपूर्ति की जाती है। समूह P और Q की पाइपलाइनें जलाशय को भरती हैं, जबकि समूह R की पाइपलाइनें इसे खाली करती हैं। प्रत्येक समूह की कुछ पाइपलाइनें एक साथ संचालित की जाती हैं। जलाशय के 75% भाग को भरने के लिये आवश्यक न्यूनतम समय कितना होगा?\nदिये गए कूट का उपयोग करके सही उत्तर का चयन कीजियेः",
+      "en": "A municipal water reservoir is supplied by three sets of pipelines P, Q, and R. pipelines in set P and Q fill the reservoir, while those in set R empty it. Some pipelines from each set are operated simultaneously. What is the minimum time required to fill 75% of the reservoir?\nChoose the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल कथन 1 पर्याप्त है, किंतु केवल कथन 2 पर्याप्त नहीं है।",
+        "en": "Statement 1 alone is sufficient, but statement 2 alone is not sufficient."
+      },
+      {
+        "id": "B",
+        "hi": "केवल कथन 2 पर्याप्त है, किंतु केवल कथन 1 पर्याप्त नहीं है।",
+        "en": "Statement 2 alone is sufficient, but statement 1 alone is not sufficient."
+      },
+      {
+        "id": "C",
+        "hi": "कथन 1 और कथन 2 दोनों मिलकर पर्याप्त हैं, किंतु दोनों में से कोई भी अकेले पर्याप्त नहीं है।",
+        "en": "Both statements 1 and 2 together are sufficient, but neither alone is sufficient."
+      },
+      {
+        "id": "D",
+        "hi": "या तो केवल कथन 1 अथवा केवल कथन 2 पर्याप्त है।",
+        "en": "Either statement 1 alone or statement 2 alone is sufficient."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कथन 1; हम P और Q की भराव दर ज्ञात कर सकते हैं। हालाँकि R की खाली करने की दर या R की कितनी पाइपलाइनें खुली हैं, इसकी कोई जानकारी उपलब्ध नहीं है। अतः, कथन 1 अकेले पर्याप्त नहीं है।\nकथन 2; यह R की दर प्रदान करता है, लेकिन यह P और Q के समूहों की भराव दर प्रदान नहीं करता है। अतः, कथन 2 अकेले पर्याप्त नहीं है।\nदोनों कथनों का उपयोग करने पर;\nP के समूह की दर = 80% = 4/5\n24 पाइपलाइनों की दर = (4/5) / 16 = 1/20\nअतः, P की 24 पाइपलाइनें प्रति मिनट जलाशय का 1/20 भाग भरती हैं।\nQ की दर = 30% = 3/10\n12 पाइपलाइनों की दर = (3/10) / 9 = 1/30\nअतः, Q की 12 पाइपलाइनें प्रति मिनट जलाशय का 1/30 भाग भरती हैं।\nR की दर = 45% = 9/20\n18 पाइपलाइनों की दर = (9/20) / 15 = 3/100\nइसके अतिरिक्त,\nP की आधी पाइपलाइनें खुली हैं = 12 पाइपलाइनें\nQ की सभी पाइपलाइनें खुली हैं = 12 पाइपलाइनें\nR की एक-तिहाई पाइपलाइनें खुली हैं = 6 पाइपलाइनें\nकुल भराव दर = 1/2 × 1/20 + 1/30 - 1/3 × 3/100\n= 1/40 + 1/30 - 1/100\n= 29/600 टैंक प्रति मिनट\n75% (3/4) भरने में लगने वाला समय\n(3/4) / (29/600) = 3/4 × 600/29 = 450/29 मिनट\nइसलिये, दोनों कथनों का एक साथ उपयोग करने पर आवश्यक समय को विशिष्ट रूप से निर्धारित किया जा सकता है।\nअतः विकल्प (c) सही है।[cite: 2]",
+      "en": "Statement 1: We can find the filling rate of P and Q. however; there is no information about the emptying rate of R or how many R pipelines are open,\nHence, statement 1 alone is not sufficient.\nStatement 2: This gives rate of R, but it does not provide the filling rates of sets P and Q.\nHence, statement 2 alone is not sufficient.\nUsing both statements;\nRate of set P = 80% = 4/5\nRate of 24 pipelines = (4/5) / 16 = 1/20\nSo, 24 pipelines of P fill 1/20 of the reservoir per minute.\nRate of Q = 30% = 3/10\nRate of 12 pipelines = (3/10) / 9 = 1/30\nSo, 12 pipelines of Q fill 1/30 of the reservoir per minute.\nRate of R = 45% = 9/20\nRate of 18 pipelines = (9/20) / 15 = 3/100\nAlso, Half of P are open = 12 pipelines\nAll Q are open = 12 pipelines\nOne-third of R are open = 6 pipelines\nNet filling rate = 1/2 × 1/20 + 1/30 - 1/3 × 3/100\n= 1/40 + 1/30 - 1/100\n= 29/600 tank per minute\nTime to fill 75% (3/4)\n(3/4) / (29/600) = 3/4 × 600/29 = 450/29 minutes\nThus, using both statements together, the required time can be determined uniquely.\nHence, option (c) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 39,
+    "subject": "CSAT",
+    "topic": "Pipes and Cisterns",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "तीन पाइप A, B और C किसी टंकी को क्रमश: x, x+7 और x+15 घंटे में अकेले अकेले भर सकते हैं। पाइप A को प्रारंभ में खोला जाता है। 2 घंटे के पश्चात पाइप B को भी खोल दिया जाता है। इसके अतिरिक्त 2 घंटे के पश्चात पाइप C को खोला जाता है। प्रारंभ से 6 घंटे के भीतर टंकी पूर्णतः भर जाती है। x का मान ज्ञात कीजिये।",
+      "en": "Three pipes A, B, and C can fill a tank individually in x, x+7 and x+15 hours respectively. Pipe A is opened at the beginning. After 2 hours, pipe B is also opened. After another 2 hours, pipe C is opened. The tank is completely filled in 6 hours from the start. Find the value of x."
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "6",
+        "en": "6"
+      },
+      {
+        "id": "B",
+        "hi": "8",
+        "en": "8"
+      },
+      {
+        "id": "C",
+        "hi": "9",
+        "en": "9"
+      },
+      {
+        "id": "D",
+        "hi": "10",
+        "en": "10"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "पाइप A, 6 घंटे तक खुला रहता है।\nपाइप B को 2 घंटे बाद खोला जाता है, अतः यह 4 घंटे तक खुला रहता है।\nपाइप C को इसके अतिरिक्त 2 घंटे बाद खोला जाता है, अतः यह 2 घंटे तक खुला रहता है।\nइसलिये, 6/x + 4/(x + 7) + 2/(x + 15) = 1\nx = 9 की जाँच करने परः\n6/9 + 4/(9 + 7) + 2/(9 + 15) = 6/9 + 4/16 + 2/24\n= 2/3 + 1/4 + 1/12\nLCM 12 लेने पर: 8/12 + 3/12 + 1/12 = 12/12 = 1\nअतः पूरी टंकी भर जाती है।\nइसलिये, x = 9 घंटे\nअतः विकल्प (c) सही है।[cite: 2]",
+      "en": "Pipe A remains open for 6 hours.\nPipe B is opened after 2 hours, so it remains open for 4 hours.\nPipe C is opened after another 2 hours, so it remains open for 2 hours.\nTherefore, 6/x + 4/(x + 7) + 2/(x + 15) = 1\nChecking x = 9:\n6/9 + 4/(9 + 7) + 2/(9 + 15) = 6/9 + 4/16 + 2/24\n= 2/3 + 1/4 + 1/12\nTaking LCM 12: = 8/12 + 3/12 + 1/12 = 12/12 = 1\nThus, the entire tank is filled.\nSo, x = 9 hours\nHence, option (c) is correct.[cite: 2]"
+    }
+  },
+  {
+    "id": 40,
+    "subject": "CSAT",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": null,
+    "statements": null,
+    "question": {
+      "hi": "A किसी कार्य को 20 दिनों में तथा B उसी कार्य को 30 दिनों में पूरा कर सकता है। A और B ने एक साथ कार्य करना प्रारंभ किया। 5 दिनों के बाद A कार्य छोड़ देता है। संपूर्ण कार्य को पूरा करने के लिये कुल कितने दिनों की आवश्यकता होगी?",
+      "en": "A can complete a work in 20 days and B can complete the same work in 30 days. A and B start working together. After 5 days, A leaves the work. How many total days will be required to complete the whole work?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "20 दिन",
+        "en": "20 days"
+      },
+      {
+        "id": "B",
+        "hi": "21 दिन",
+        "en": "21 days"
+      },
+      {
+        "id": "C",
+        "hi": "22 दिन",
+        "en": "22 days"
+      },
+      {
+        "id": "D",
+        "hi": "22.5 दिन",
+        "en": "22.5 days"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "A का 1 दिन का कार्य = 1/20\nB का 1 दिन का कार्य = 1/30\nA और B द्वारा 1 दिन में किया गया संयुक्त कार्यः\n= 1/20 + 1/30\n20 और 30 का लघुत्तम समापवर्त्य (LCM) = 60\n= 3/60 + 2/60 = 5/60 = 1/12\nA और B मिलकर 1 दिन में कार्य का 1/12 भाग पूरा करते हैं।\nA और B द्वारा 5 दिनों में किया गया कार्य\n= 5 × 1/12 = 5/12\nशेष कार्य = 1 - 5/12 = 7/12\nअब केवल B कार्य करता है।\nB पूरे कार्य को 30 दिनों में पूरा कर सकता है।\nअतः B कार्य के 7/12 भाग को पूरा करेगा = 30 × 7/12\n= 210/12 = 17.5 दिन\nकुल समय = 5 + 17.5 = 22.5 दिन\nइसलिये, पूरा कार्य 22.5 दिनों में पूर्ण हो जाएगा।\nअतः विकल्प (d) सही है।[cite: 2]",
+      "en": "A's 1 day work = 1/20\nB's 1 day work = 1/30\nA and B together do in 1 day:\n= 1/20 + 1/30\nLCM of 20 and 30 = 60\n= 3/60 + 2/60 = 5/60 = 1/12\nSo, A and B together complete 1/12 of the work in 1 day.\nWork done by A and B together in 5 days\n= 5 × 1/12 = 5/12\nRemaining work = 1 - 5/12 = 7/12\nNow only B works.\nB can complete the whole work in 30 days.\nSo, B will complete 7/12 of the work in = 30 × 7/12\n= 210/12 = 17.5 days\nTotal time = 5 + 17.5 = 22.5 days\nSo, the whole work will be completed in 22.5 days.\nHence, option (d) is correct.[cite: 2]"
+    }
+  }
+]
