@@ -6,61 +6,61 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": {
-      "hi": "मठ के विद्यालय में, शिष्यों को सिद्धांतों को कंठस्थ करने पर तब सराहा जाता था, जब तक उन सिद्धांतों ने उन्हें दोहराने वाले \"अहं\" को प्रभावित नहीं किया था। इसलिये, नए शिक्षक प्रत्येक शास्त्रार्थ का अंत मौन के साथ करते थे-किसी श्रद्धा के भाव से नहीं, बल्कि ज्ञान के अहंकार की जाँच करने के उद्देश्य से। उनका तर्क था कि वाणी अक्सर समझ को 'अहंकार के आभूषण' में बदल देती है। मौन, तर्क का त्याग नहीं था, यह वह समय था जिसमें विचार प्रदर्शन से दूर हटकर अंतिम निष्कर्ष पाने की अपनी इच्छा का परीक्षण करता था। जिस शिष्य ने दूसरों को शास्त्रार्थ में हरा तो दिया, पर खुद के भीतर कोई बदलाव नहीं लाया, उसने केवल अपनी बौद्धिक संपत्ति बढ़ाई थी। ज्ञान सच्चा तभी कहलाता था जब वह बुद्धिमान व्यक्ति का अलंकरण करना बंद कर देगा तथा अपने भीतर के 'अहंकार' को समाप्त करना प्रारंभ करेगा।[cite: 2]",
-      "en": "In the monastery school, pupils gained praise for mastering doctrines before those doctrines had disturbed the self that recited them. The new instructor therefore ended every disputation with silence, not as reverence, but as a scrutiny of knowledge's vanity. Speech, he argued, often turns understanding into an ornament of the ego. Silence was not the desertion of reason; it was the interval in which thought withdrew from performance and examined its appetite for finality. A pupil who defeated others yet remained inwardly unaltered had merely increased his stock of intellectual possession. Knowledge became genuine only when it ceased to embellish the knower and began to displace him.[cite: 2]"
+      "hi": "मठ के विद्यालय में, शिष्यों को सिद्धांतों को कंठस्थ करने पर तब सराहा जाता था, जब तक उन सिद्धांतों ने उन्हें दोहराने वाले \"अहं\" को प्रभावित नहीं किया था। इसलिये, नए शिक्षक प्रत्येक शास्त्रार्थ का अंत मौन के साथ करते थे-किसी श्रद्धा के भाव से नहीं, बल्कि ज्ञान के अहंकार की जाँच करने के उद्देश्य से। उनका तर्क था कि वाणी अक्सर समझ को 'अहंकार के आभूषण' में बदल देती है। मौन, तर्क का त्याग नहीं था, यह वह समय था जिसमें विचार प्रदर्शन से दूर हटकर अंतिम निष्कर्ष पाने की अपनी इच्छा का परीक्षण करता था। जिस शिष्य ने दूसरों को शास्त्रार्थ में हरा तो दिया, पर खुद के भीतर कोई बदलाव नहीं लाया, उसने केवल अपनी बौद्धिक संपत्ति बढ़ाई थी। ज्ञान सच्चा तभी कहलाता था जब वह बुद्धिमान व्यक्ति का अलंकरण करना बंद कर देगा तथा अपने भीतर के 'अहंकार' को समाप्त करना प्रारंभ करेगा।",
+      "en": "In the monastery school, pupils gained praise for mastering doctrines before those doctrines had disturbed the self that recited them. The new instructor therefore ended every disputation with silence, not as reverence, but as a scrutiny of knowledge's vanity. Speech, he argued, often turns understanding into an ornament of the ego. Silence was not the desertion of reason; it was the interval in which thought withdrew from performance and examined its appetite for finality. A pupil who defeated others yet remained inwardly unaltered had merely increased his stock of intellectual possession. Knowledge became genuine only when it ceased to embellish the knower and began to displace him."
     },
     "statements": [
       {
         "id": 1,
-        "hi": "यह परिच्छेद ज्ञान को केवल एक बौद्धिक अर्जन तथा एक आंतरिक, रूपांतरणकारी आध्यात्मिक साधना के रूप में प्रस्तुत करता है-ये दोनों परस्पर विरोधी अवधारणाएँ हैं।[cite: 2]",
-        "en": "The passage contrasts knowledge as intellectual possession with knowledge as an inwardly transformative discipline.[cite: 2]"
+        "hi": "यह परिच्छेद ज्ञान को केवल एक बौद्धिक अर्जन तथा एक आंतरिक, रूपांतरणकारी आध्यात्मिक साधना के रूप में प्रस्तुत करता है-ये दोनों परस्पर विरोधी अवधारणाएँ हैं।",
+        "en": "The passage contrasts knowledge as intellectual possession with knowledge as an inwardly transformative discipline."
       },
       {
         "id": 2,
-        "hi": "मौन को तर्क-वितर्क के निषेध के रूप में प्रस्तुत किया जाता है, क्योंकि मौखिक तर्क-वितर्क को स्वभावतः भ्रामक माना जाता है।[cite: 2]",
-        "en": "Silence is presented as a rejection of reasoning because spoken argument is treated as intrinsically deceptive.[cite: 2]"
+        "hi": "मौन को तर्क-वितर्क के निषेध के रूप में प्रस्तुत किया जाता है, क्योंकि मौखिक तर्क-वितर्क को स्वभावतः भ्रामक माना जाता है।",
+        "en": "Silence is presented as a rejection of reasoning because spoken argument is treated as intrinsically deceptive."
       },
       {
         "id": 3,
-        "hi": "तर्क-वितर्क में प्राप्त सफलता ज्ञानमीमांसात्मक दृष्टि से तब तक अपर्याप्त है, जब तक वह ज्ञाता की आत्म-प्रदर्शन की आकांक्षा को अप्रभावित छोड़ देती है।[cite: 2]",
-        "en": "Argumentative success is epistemically inadequate when it leaves the knower's desire for self-display undisturbed.[cite: 2]"
+        "hi": "तर्क-वितर्क में प्राप्त सफलता ज्ञानमीमांसात्मक दृष्टि से तब तक अपर्याप्त है, जब तक वह ज्ञाता की आत्म-प्रदर्शन की आकांक्षा को अप्रभावित छोड़ देती है।",
+        "en": "Argumentative success is epistemically inadequate when it leaves the knower's desire for self-display undisturbed."
       },
       {
         "id": 4,
-        "hi": "सिद्धांतों पर प्रभुत्व तभी वास्तविक बोध में परिवर्तित होता है, जब उसका सार्वजनिक रूप से यथार्थ एवं परिशुद्ध प्रदर्शन किया जाता है।[cite: 2]",
-        "en": "Doctrinal mastery becomes genuine understanding when it is publicly demonstrated with precision.[cite: 2]"
+        "hi": "सिद्धांतों पर प्रभुत्व तभी वास्तविक बोध में परिवर्तित होता है, जब उसका सार्वजनिक रूप से यथार्थ एवं परिशुद्ध प्रदर्शन किया जाता है।",
+        "en": "Doctrinal mastery becomes genuine understanding when it is publicly demonstrated with precision."
       }
     ],
     "question": {
-      "hi": "निम्नलिखित में से कौन-सा/से निष्कर्ष सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः[cite: 2]",
-      "en": "Which of the following conclusions is/are correct?\nSelect the correct answer using the code given below.[cite: 2]"
+      "hi": "निम्नलिखित में से कौन-सा/से निष्कर्ष सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following conclusions is/are correct?\nSelect the correct answer using the code given below."
     },
     "options": [
       {
         "id": "A",
-        "hi": "केवल 3[cite: 2]",
-        "en": "3 only[cite: 2]"
+        "hi": "केवल 3",
+        "en": "3 only"
       },
       {
         "id": "B",
-        "hi": "केवल 2 और 4[cite: 2]",
-        "en": "2 and 4 only[cite: 2]"
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
       },
       {
         "id": "C",
-        "hi": "1, 2 और 3[cite: 2]",
-        "en": "1, 2 and 3[cite: 2]"
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
       },
       {
         "id": "D",
-        "hi": "केवल 1 और 3[cite: 2]",
-        "en": "1 and 3 only[cite: 2]"
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
       }
     ],
     "correctAnswer": "D",
     "explanation": {
-      "hi": "निष्कर्ष 1: सही परिच्छेद ज्ञान के दो रूपों के मध्य बार-बार भेद करता है। एक ज्ञान केवल अर्जनात्मक है: शिष्य सिद्धांतों को \"बौद्धिक स्वामित्व\" के रूप में संचित करता है और उनका उपयोग अहंकार को अलंकृत करने के लिये करता है। दूसरा ज्ञान रूपांतरणकारी है: ज्ञान तभी वास्तविक बनता है जब वह \"ज्ञाता को विस्थापित\" करता है। अतः परिच्छेद अधिगम को केवल संचय के रूप में नहीं मानता बल्कि वास्तविक ज्ञान को आंतरिक परिवर्तन से संबद्ध करता है।\nनिष्कर्ष 2: गलत मौन को तर्क-विरोधी दृष्टिकोण के रूप में वर्णित नहीं किया गया है। परिच्छेद स्पष्ट रूप से कहता है कि मौन \"तर्क का परित्याग नहीं है।\" इसकी भूमिका विचार को प्रदर्शनात्मक प्रवृत्ति से हटाकर अंतिमता की खोज के प्रति उसकी आकांक्षा का परीक्षण करना है। अतः मौन अन्वेषण को गहन बनाता है; यह तर्कसंगत विमर्श का स्थान किसी अतार्किक निस्तब्धता से प्रतिस्थापित नहीं करता।\nनिष्कर्ष 3: सही वह शिष्य जो वाद-विवाद में दूसरों को पराजित कर देता है, किंतु आंतरिक रूप से अपरिवर्तित रहता है, उसके विषय में कहा गया है कि उसने केवल अपने \"बौद्धिक स्वामित्व\" के भंडार में वृद्धि की है। इसका तात्पर्य है कि तर्क-विजय पर्याप्त नहीं है। ज्ञान की वास्तविक कसौटी यह है कि वह अहंकारपूर्ण आत्म-प्रदर्शन को कमजोर करे और ज्ञाता का रूपांतरण करे।\nनिष्कर्ष 4: गलत सिद्धांतों का सार्वजनिक रूप से सटीक उच्चारण करना वास्तविक समझ के रूप में प्रशंसित नहीं, बल्कि आलोचित किया गया है। परिच्छेद का आरंभ ही इस तथ्य को दर्शाता है कि शिष्यों को सिद्धांतों में दक्षता प्राप्त करने के लिये पुरस्कृत किया जाता था, इससे पहले कि वे आंतरिक रूप से उनसे उद्वेलित हों। अतः आत्म-विस्थापन के बिना केवल सैद्धांतिक प्रवीणता सतही ही बनी रहती है।\nअतः विकल्प (d) सही है।[cite: 2]",
-      "en": "Conclusion 1: Correct The passage repeatedly distinguishes two forms of knowledge. One is merely acquisitive: the pupil gathers doctrine as \"intellectual possession\" and uses it to decorate the ego. The other is transformative: knowledge becomes genuine when it \"displaces\" the knower. Therefore, the passage does not treat learning as accumulation alone; it links real knowing with inner alteration.\nConclusion 2: Incorrect Silence is not described as hostility to reasoning. The passage clearly says silence is \"not the desertion of reason.\" Its role is to make thought withdraw from performance and examine its hunger for finality. Hence, silence deepens inquiry; it does not replace rational discussion with anti-intellectual quietism.\nConclusion 3: Correct The pupil who defeats others in debate but remains inwardly unchanged is said to have merely increased his stock of intellectual possession. This means victory in an argument is not sufficient. The test of knowledge lies in whether it weakens egoistic self-display and transforms the knower.\nConclusion 4: Incorrect Public precision in reciting doctrine is criticized rather than praised as genuine understanding. The passage begins by showing pupils rewarded for mastering doctrines before being inwardly disturbed by them. Thus, doctrinal fluency without self-displacement remains superficial.\nHence, option (d) is correct.[cite: 2]"
+      "hi": "निष्कर्ष 1: सही परिच्छेद ज्ञान के दो रूपों के मध्य बार-बार भेद करता है। एक ज्ञान केवल अर्जनात्मक है: शिष्य सिद्धांतों को \"बौद्धिक स्वामित्व\" के रूप में संचित करता है और उनका उपयोग अहंकार को अलंकृत करने के लिये करता है। दूसरा ज्ञान रूपांतरणकारी है: ज्ञान तभी वास्तविक बनता है जब वह \"ज्ञाता को विस्थापित\" करता है। अतः परिच्छेद अधिगम को केवल संचय के रूप में नहीं मानता बल्कि वास्तविक ज्ञान को आंतरिक परिवर्तन से संबद्ध करता है।\nनिष्कर्ष 2: गलत मौन को तर्क-विरोधी दृष्टिकोण के रूप में वर्णित नहीं किया गया है। परिच्छेद स्पष्ट रूप से कहता है कि मौन \"तर्क का परित्याग नहीं है।\" इसकी भूमिका विचार को प्रदर्शनात्मक प्रवृत्ति से हटाकर अंतिमता की खोज के प्रति उसकी आकांक्षा का परीक्षण करना है। अतः मौन अन्वेषण को गहन बनाता है; यह तर्कसंगत विमर्श का स्थान किसी अतार्किक निस्तब्धता से प्रतिस्थापित नहीं करता।\nनिष्कर्ष 3: सही वह शिष्य जो वाद-विवाद में दूसरों को पराजित कर देता है, किंतु आंतरिक रूप से अपरिवर्तित रहता है, उसके विषय में कहा गया है कि उसने केवल अपने \"बौद्धिक स्वामित्व\" के भंडार में वृद्धि की है। इसका तात्पर्य है कि तर्क-विजय पर्याप्त नहीं है। ज्ञान की वास्तविक कसौटी यह है कि वह अहंकारपूर्ण आत्म-प्रदर्शन को कमजोर करे और ज्ञाता का रूपांतरण करे।\nनिष्कर्ष 4: गलत सिद्धांतों का सार्वजनिक रूप से सटीक उच्चारण करना वास्तविक समझ के रूप में प्रशंसित नहीं, बल्कि आलोचित किया गया है। परिच्छेद का आरंभ ही इस तथ्य को दर्शाता है कि शिष्यों को सिद्धांतों में दक्षता प्राप्त करने के लिये पुरस्कृत किया जाता था, इससे पहले कि वे आंतरिक रूप से उनसे उद्वेलित हों। अतः आत्म-विस्थापन के बिना केवल सैद्धांतिक प्रवीणता सतही ही बनी रहती है।\nअतः विकल्प (d) सही है।",
+      "en": "Conclusion 1: Correct The passage repeatedly distinguishes two forms of knowledge. One is merely acquisitive: the pupil gathers doctrine as \"intellectual possession\" and uses it to decorate the ego. The other is transformative: knowledge becomes genuine when it \"displaces\" the knower. Therefore, the passage does not treat learning as accumulation alone; it links real knowing with inner alteration.\nConclusion 2: Incorrect Silence is not described as hostility to reasoning. The passage clearly says silence is \"not the desertion of reason.\" Its role is to make thought withdraw from performance and examine its hunger for finality. Hence, silence deepens inquiry; it does not replace rational discussion with anti-intellectual quietism.\nConclusion 3: Correct The pupil who defeats others in debate but remains inwardly unchanged is said to have merely increased his stock of intellectual possession. This means victory in an argument is not sufficient. The test of knowledge lies in whether it weakens egoistic self-display and transforms the knower.\nConclusion 4: Incorrect Public precision in reciting doctrine is criticized rather than praised as genuine understanding. The passage begins by showing pupils rewarded for mastering doctrines before being inwardly disturbed by them. Thus, doctrinal fluency without self-displacement remains superficial.\nHence, option (d) is correct."
     }
   },
   {
@@ -70,61 +70,61 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": {
-      "hi": "मठ के विद्यालय में, शिष्यों को सिद्धांतों को कंठस्थ करने पर तब सराहा जाता था, जब तक उन सिद्धांतों ने उन्हें दोहराने वाले \"अहं\" को प्रभावित नहीं किया था। इसलिये, नए शिक्षक प्रत्येक शास्त्रार्थ का अंत मौन के साथ करते थे-किसी श्रद्धा के भाव से नहीं, बल्कि ज्ञान के अहंकार की जाँच करने के उद्देश्य से। उनका तर्क था कि वाणी अक्सर समझ को 'अहंकार के आभूषण' में बदल देती है। मौन, तर्क का त्याग नहीं था, यह वह समय था जिसमें विचार प्रदर्शन से दूर हटकर अंतिम निष्कर्ष पाने की अपनी इच्छा का परीक्षण करता था। जिस शिष्य ने दूसरों को शास्त्रार्थ में हरा तो दिया, पर खुद के भीतर कोई बदलाव नहीं लाया, उसने केवल अपनी बौद्धिक संपत्ति बढ़ाई थी। ज्ञान सच्चा तभी कहलाता था जब वह बुद्धिमान व्यक्ति का अलंकरण करना बंद कर देगा तथा अपने भीतर के 'अहंकार' को समाप्त करना प्रारंभ करेगा।[cite: 2]",
-      "en": "In the monastery school, pupils gained praise for mastering doctrines before those doctrines had disturbed the self that recited them. The new instructor therefore ended every disputation with silence, not as reverence, but as a scrutiny of knowledge's vanity. Speech, he argued, often turns understanding into an ornament of the ego. Silence was not the desertion of reason; it was the interval in which thought withdrew from performance and examined its appetite for finality. A pupil who defeated others yet remained inwardly unaltered had merely increased his stock of intellectual possession. Knowledge became genuine only when it ceased to embellish the knower and began to displace him.[cite: 2]"
+      "hi": "मठ के विद्यालय में, शिष्यों को सिद्धांतों को कंठस्थ करने पर तब सराहा जाता था, जब तक उन सिद्धांतों ने उन्हें दोहराने वाले \"अहं\" को प्रभावित नहीं किया था। इसलिये, नए शिक्षक प्रत्येक शास्त्रार्थ का अंत मौन के साथ करते थे-किसी श्रद्धा के भाव से नहीं, बल्कि ज्ञान के अहंकार की जाँच करने के उद्देश्य से। उनका तर्क था कि वाणी अक्सर समझ को 'अहंकार के आभूषण' में बदल देती है। मौन, तर्क का त्याग नहीं था, यह वह समय था जिसमें विचार प्रदर्शन से दूर हटकर अंतिम निष्कर्ष पाने की अपनी इच्छा का परीक्षण करता था। जिस शिष्य ने दूसरों को शास्त्रार्थ में हरा तो दिया, पर खुद के भीतर कोई बदलाव नहीं लाया, उसने केवल अपनी बौद्धिक संपत्ति बढ़ाई थी। ज्ञान सच्चा तभी कहलाता था जब वह बुद्धिमान व्यक्ति का अलंकरण करना बंद कर देगा तथा अपने भीतर के 'अहंकार' को समाप्त करना प्रारंभ करेगा।",
+      "en": "In the monastery school, pupils gained praise for mastering doctrines before those doctrines had disturbed the self that recited them. The new instructor therefore ended every disputation with silence, not as reverence, but as a scrutiny of knowledge's vanity. Speech, he argued, often turns understanding into an ornament of the ego. Silence was not the desertion of reason; it was the interval in which thought withdrew from performance and examined its appetite for finality. A pupil who defeated others yet remained inwardly unaltered had merely increased his stock of intellectual possession. Knowledge became genuine only when it ceased to embellish the knower and began to displace him."
     },
     "statements": [
       {
         "id": 1,
-        "hi": "प्रशिक्षक का मौन एक औपचारिक विराम के रूप में नहीं, बल्कि एक ज्ञानमीमांसात्मक अनुशासन के रूप में कार्य करता है।[cite: 2]",
-        "en": "The instructor's silence functions as an epistemic discipline rather than as a ceremonial pause.[cite: 2]"
+        "hi": "प्रशिक्षक का मौन एक औपचारिक विराम के रूप में नहीं, बल्कि एक ज्ञानमीमांसात्मक अनुशासन के रूप में कार्य करता है।",
+        "en": "The instructor's silence functions as an epistemic discipline rather than as a ceremonial pause."
       },
       {
         "id": 2,
-        "hi": "वास्तविक जिज्ञासा को अहंकार की उस प्रवृत्ति से पृथक किया जाता है, जो ज्ञान को प्रत्यक्ष श्रेष्ठता के प्रदर्शन में परिवर्तित कर देती है।[cite: 2]",
-        "en": "The genuine inquiry is separated from the ego's tendency to convert knowledge into visible superiority.[cite: 2]"
+        "hi": "वास्तविक जिज्ञासा को अहंकार की उस प्रवृत्ति से पृथक किया जाता है, जो ज्ञान को प्रत्यक्ष श्रेष्ठता के प्रदर्शन में परिवर्तित कर देती है।",
+        "en": "The genuine inquiry is separated from the ego's tendency to convert knowledge into visible superiority."
       },
       {
         "id": 3,
-        "hi": "वाद-विवाद में वाक्पटुता को दार्शनिक रूपांतरण के पर्याप्त प्रमाण के रूप में माना जाता है।[cite: 2]",
-        "en": "Verbal brilliance in disputation is treated as sufficient evidence of philosophical transformation.[cite: 2]"
+        "hi": "वाद-विवाद में वाक्पटुता को दार्शनिक रूपांतरण के पर्याप्त प्रमाण के रूप में माना जाता है।",
+        "en": "Verbal brilliance in disputation is treated as sufficient evidence of philosophical transformation."
       },
       {
         "id": 4,
-        "hi": "यह परिच्छेद ज्ञाता के अंतःस्थल को विचलित करने की प्रक्रिया को एक दोष के रूप में प्रस्तुत करता है, जो वास्तविक बोध में बाधा उत्पन्न करता है।[cite: 2]",
-        "en": "The passage regards the unsettling of the knower as a defect that obstructs true understanding.[cite: 2]"
+        "hi": "यह परिच्छेद ज्ञाता के अंतःस्थल को विचलित करने की प्रक्रिया को एक दोष के रूप में प्रस्तुत करता है, जो वास्तविक बोध में बाधा उत्पन्न करता है।",
+        "en": "The passage regards the unsettling of the knower as a defect that obstructs true understanding."
       }
     ],
     "question": {
-      "hi": "निम्नलिखित में से कौन-सा/से कथन सही नहीं है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः[cite: 2]",
-      "en": "Which of the following statements is/are not correct?\nSelect the correct answer using the code given below.[cite: 2]"
+      "hi": "निम्नलिखित में से कौन-सा/से कथन सही नहीं है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following statements is/are not correct?\nSelect the correct answer using the code given below."
     },
     "options": [
       {
         "id": "A",
-        "hi": "केवल 1 और 2[cite: 2]",
-        "en": "1 and 2 only[cite: 2]"
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
       },
       {
         "id": "B",
-        "hi": "केवल 3[cite: 2]",
-        "en": "3 only[cite: 2]"
+        "hi": "केवल 3",
+        "en": "3 only"
       },
       {
         "id": "C",
-        "hi": "केवल 3 और 4[cite: 2]",
-        "en": "3 and 4 only[cite: 2]"
+        "hi": "केवल 3 और 4",
+        "en": "3 and 4 only"
       },
       {
         "id": "D",
-        "hi": "1, 3 और 4[cite: 2]",
-        "en": "1, 3 and 4[cite: 2]"
+        "hi": "1, 3 और 4",
+        "en": "1, 3 and 4"
       }
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "कथन 1: सही प्रशिक्षक द्वारा आरोपित मौन को स्पष्ट रूप से \"श्रद्धा नहीं\" बताया गया है। यह ज्ञान के अहंकार की जाँच करने की एक विधि है। अतः इसका उद्देश्य बौद्धिक एवं ज्ञानमीमांसात्मक है, न कि कोई सजावटी अथवा अनुष्ठानिक संकेत।\nकथन 2: सही परिच्छेद में कहा गया है कि वाणी प्रायः समझ को अहंकार के आभूषण में परिवर्तित कर देती है। इसमें उन शिष्यों की भी आलोचना की गई है, जो ज्ञान को अपनी संपत्ति के रूप में ग्रहण करते हैं। इस प्रकार, वास्तविक जिज्ञासा को ज्ञान के माध्यम से स्वयं को श्रेष्ठ प्रदर्शित करने की इच्छा से पृथक किया गया है।\nकथन 3: गलत परिच्छेद मौखिक प्रखरता को पर्याप्त नहीं मानता है। ऐसा शिष्य जो दूसरों को पराजित कर देता है, किंतु स्वयं में कोई परिवर्तन नहीं लाता, उसने मात्र बौद्धिक संपत्ति का संचय किया है। अतः आत्मिक रूपांतरण के बिना तर्क-वितर्क में उत्कृष्टता को अपर्याप्त बताया गया है।\nकथन 4: गलत परिच्छेद आंतरिक व्याकुलता को दोष नहीं मानता है। इसके विपरीत, यह संकेत देता है कि ज्ञान तब वास्तविक बनता है, जब वह ज्ञाता को विचलित करता है और उसके पूर्वाग्रहों को विस्थापित करता है। अतः व्याकुलता गहन समझ की बाधा नहीं, बल्कि उसकी एक आवश्यक शर्त है।\nअतः विकल्प (c) सही है।[cite: 2]",
-      "en": "Statement 1: Correct- The silence imposed by the instructor is explicitly described as \"not reverence.\" It is a method of examining knowledge's vanity. Therefore, it is intellectual and epistemic in function, not a decorative or ritualistic gesture.\nStatement 2: Correct - The passage says speech often turns understanding into an ornament of the ego. It also criticises pupils who use knowledge as possession. Thus, genuine inquiry is separated from the desire to appear superior through knowledge.\nStatement 3: Not correct The passage rejects verbal brilliance as sufficient. A pupil who defeats others but remains unchanged has merely accumulated intellectual possession. Therefore, argumentative excellence without inward transformation is shown as inadequate.\nStatement 4: Not correct The passage does not treat inner disturbance as a defect. On the contrary, it suggests that knowledge becomes genuine when it unsettles and displaces the knower. Disturbance is therefore a condition of deeper understanding, not an obstacle to it.\nHence, option (c) is correct.[cite: 2]"
+      "hi": "कथन 1: सही प्रशिक्षक द्वारा आरोपित मौन को स्पष्ट रूप से \"श्रद्धा नहीं\" बताया गया है। यह ज्ञान के अहंकार की जाँच करने की एक विधि है। अतः इसका उद्देश्य बौद्धिक एवं ज्ञानमीमांसात्मक है, न कि कोई सजावटी अथवा अनुष्ठानिक संकेत।\nकथन 2: सही परिच्छेद में कहा गया है कि वाणी प्रायः समझ को अहंकार के आभूषण में परिवर्तित कर देती है। इसमें उन शिष्यों की भी आलोचना की गई है, जो ज्ञान को अपनी संपत्ति के रूप में ग्रहण करते हैं। इस प्रकार, वास्तविक जिज्ञासा को ज्ञान के माध्यम से स्वयं को श्रेष्ठ प्रदर्शित करने की इच्छा से पृथक किया गया है।\nकथन 3: गलत परिच्छेद मौखिक प्रखरता को पर्याप्त नहीं मानता है। ऐसा शिष्य जो दूसरों को पराजित कर देता है, किंतु स्वयं में कोई परिवर्तन नहीं लाता, उसने मात्र बौद्धिक संपत्ति का संचय किया है। अतः आत्मिक रूपांतरण के बिना तर्क-वितर्क में उत्कृष्टता को अपर्याप्त बताया गया है।\nकथन 4: गलत परिच्छेद आंतरिक व्याकुलता को दोष नहीं मानता है। इसके विपरीत, यह संकेत देता है कि ज्ञान तब वास्तविक बनता है, जब वह ज्ञाता को विचलित करता है और उसके पूर्वाग्रहों को विस्थापित करता है। अतः व्याकुलता गहन समझ की बाधा नहीं, बल्कि उसकी एक आवश्यक शर्त है।\nअतः विकल्प (c) सही है।",
+      "en": "Statement 1: Correct- The silence imposed by the instructor is explicitly described as \"not reverence.\" It is a method of examining knowledge's vanity. Therefore, it is intellectual and epistemic in function, not a decorative or ritualistic gesture.\nStatement 2: Correct - The passage says speech often turns understanding into an ornament of the ego. It also criticises pupils who use knowledge as possession. Thus, genuine inquiry is separated from the desire to appear superior through knowledge.\nStatement 3: Not correct The passage rejects verbal brilliance as sufficient. A pupil who defeats others but remains unchanged has merely accumulated intellectual possession. Therefore, argumentative excellence without inward transformation is shown as inadequate.\nStatement 4: Not correct The passage does not treat inner disturbance as a defect. On the contrary, it suggests that knowledge becomes genuine when it unsettles and displaces the knower. Disturbance is therefore a condition of deeper understanding, not an obstacle to it.\nHence, option (c) is correct."
     }
   },
   {
@@ -134,61 +134,61 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": {
-      "hi": "राजकोषीय संघवाद प्रायः अंतरणों, अनुदानों और सूत्रों का विषय प्रतीत होता है, किंतु इसका संवैधानिक तनाव तब प्रारंभ होता है, जब राजकोषीय गणित राजनीतिक स्वायत्तता का पुनर्गठन करने लगता है। एक ऐसे राज्य को, जिसे विद्यालयों, चिकित्सालयों, कल्याणकारी योजनाओं और पारिस्थितिकीय पुनर्स्थापन जैसी सेवाएँ प्रदान करनी हों, जबकि राजस्व पर नियंत्रण अन्यत्र निहित हो, तो वह समानुपातिक अधिकारिता के बिना उत्तरदायित्व वहन करता है। एक असमान संघ में पुनर्वितरण आवश्यक है; तथापि, यह तब संरक्षणवादी स्वरूप ग्रहण कर लेता है, जब बंधित अनुदान निर्वाचित राज्य सरकारों की प्राथमिकताओं को केंद्र द्वारा निर्धारित अनुपालन में परिवर्तित कर देते हैं। प्रश्न स्वयं संसाधनों के साझाकरण का नहीं है, बल्कि यह है कि क्या संसाधन वितरण उप-राष्ट्रीय सरकारों को नीति-निर्माण के लोकतांत्रिक कर्त्ता के रूप में मान्यता प्रदान करता है। एक न्यायसंगत राजकोषीय व्यवस्था व्यय का वित्तपोषण करती है, जबकि ऊर्ध्वाधर असंतुलन को उन लोगों के मध्य पदानुक्रम में परिवर्तित होने से रोकती है, जो निर्णय लेते हैं और वे जो केवल कार्यान्वयन करते हैं।[cite: 2]",
-      "en": "Fiscal federalism appears to be a matter of transfers, grants and formulae, but its constitutional strain begins when fiscal arithmetic reorganizes political autonomy. A State required to provide schools, clinics, welfare and ecological repair while revenues remain controlled elsewhere bears responsibility without commensurate agency. Redistribution is necessary in an unequal federation; yet it becomes paternal when tied grants convert elected State priorities into centrally scripted compliance. The issue is not resource sharing itself, but whether sharing recognizes subnational governments as democratic authors of policy. A just fiscal order finances expenditure while preventing vertical imbalance from becoming a hierarchy between those who decide and those who merely implement.[cite: 2]"
+      "hi": "राजकोषीय संघवाद प्रायः अंतरणों, अनुदानों और सूत्रों का विषय प्रतीत होता है, किंतु इसका संवैधानिक तनाव तब प्रारंभ होता है, जब राजकोषीय गणित राजनीतिक स्वायत्तता का पुनर्गठन करने लगता है। एक ऐसे राज्य को, जिसे विद्यालयों, चिकित्सालयों, कल्याणकारी योजनाओं और पारिस्थितिकीय पुनर्स्थापन जैसी सेवाएँ प्रदान करनी हों, जबकि राजस्व पर नियंत्रण अन्यत्र निहित हो, तो वह समानुपातिक अधिकारिता के बिना उत्तरदायित्व वहन करता है। एक असमान संघ में पुनर्वितरण आवश्यक है; तथापि, यह तब संरक्षणवादी स्वरूप ग्रहण कर लेता है, जब बंधित अनुदान निर्वाचित राज्य सरकारों की प्राथमिकताओं को केंद्र द्वारा निर्धारित अनुपालन में परिवर्तित कर देते हैं। प्रश्न स्वयं संसाधनों के साझाकरण का नहीं है, बल्कि यह है कि क्या संसाधन वितरण उप-राष्ट्रीय सरकारों को नीति-निर्माण के लोकतांत्रिक कर्त्ता के रूप में मान्यता प्रदान करता है। एक न्यायसंगत राजकोषीय व्यवस्था व्यय का वित्तपोषण करती है, जबकि ऊर्ध्वाधर असंतुलन को उन लोगों के मध्य पदानुक्रम में परिवर्तित होने से रोकती है, जो निर्णय लेते हैं और वे जो केवल कार्यान्वयन करते हैं।",
+      "en": "Fiscal federalism appears to be a matter of transfers, grants and formulae, but its constitutional strain begins when fiscal arithmetic reorganizes political autonomy. A State required to provide schools, clinics, welfare and ecological repair while revenues remain controlled elsewhere bears responsibility without commensurate agency. Redistribution is necessary in an unequal federation; yet it becomes paternal when tied grants convert elected State priorities into centrally scripted compliance. The issue is not resource sharing itself, but whether sharing recognizes subnational governments as democratic authors of policy. A just fiscal order finances expenditure while preventing vertical imbalance from becoming a hierarchy between those who decide and those who merely implement."
     },
     "statements": [
       {
         "id": 1,
-        "hi": "राजकोषीय वितरण को लोकतांत्रिक न्याय के प्रश्न के रूप में माना जाता है, क्योंकि यह राज्यों की प्रभावी स्वायत्तता को आकार देता है।[cite: 2]",
-        "en": "The fiscal distribution is treated as a question of democratic justice because it shapes the effective autonomy of the States.[cite: 2]"
+        "hi": "राजकोषीय वितरण को लोकतांत्रिक न्याय के प्रश्न के रूप में माना जाता है, क्योंकि यह राज्यों की प्रभावी स्वायत्तता को आकार देता है।",
+        "en": "The fiscal distribution is treated as a question of democratic justice because it shapes the effective autonomy of the States."
       },
       {
         "id": 2,
-        "hi": "सशर्त वित्तपोषण आपत्तिजनक हो जाता है, जब यह राज्य-स्तरीय प्राथमिकताओं को केंद्र द्वारा अभिकल्पित उद्देश्यों के अनुपालन में परिवर्तित कर देता है।[cite: 2]",
-        "en": "Conditional funding becomes objectionable when it transforms State-level priorities into compliance with centrally designed purposes.[cite: 2]"
+        "hi": "सशर्त वित्तपोषण आपत्तिजनक हो जाता है, जब यह राज्य-स्तरीय प्राथमिकताओं को केंद्र द्वारा अभिकल्पित उद्देश्यों के अनुपालन में परिवर्तित कर देता है।",
+        "en": "Conditional funding becomes objectionable when it transforms State-level priorities into compliance with centrally designed purposes."
       },
       {
         "id": 3,
-        "hi": "केंद्रीय पुनर्वितरण को अस्वीकार किया जाता है, क्योंकि संघ द्वारा संसाधनों का साझाकरण संघीय स्वायत्तता के साथ स्वभावतः असंगत है।[cite: 2]",
-        "en": "Central redistribution is rejected because resource sharing by the Union is inherently incompatible with federal autonomy.[cite: 2]"
+        "hi": "केंद्रीय पुनर्वितरण को अस्वीकार किया जाता है, क्योंकि संघ द्वारा संसाधनों का साझाकरण संघीय स्वायत्तता के साथ स्वभावतः असंगत है।",
+        "en": "Central redistribution is rejected because resource sharing by the Union is inherently incompatible with federal autonomy."
       },
       {
         "id": 4,
-        "hi": "राजकोषीय पर्याप्तता तब प्राप्त होती है, जब राज्य व्यय का वित्तपोषण कर दिया जाता है, चाहे नीति निर्माण और कार्यान्वयन के मध्य कोई भी पदानुक्रम क्यों न हो।[cite: 2]",
-        "en": "Fiscal adequacy is achieved once State expenditure is financed, irrespective of the hierarchy between policy formulation and implementation.[cite: 2]"
+        "hi": "राजकोषीय पर्याप्तता तब प्राप्त होती है, जब राज्य व्यय का वित्तपोषण कर दिया जाता है, चाहे नीति निर्माण और कार्यान्वयन के मध्य कोई भी पदानुक्रम क्यों न हो।",
+        "en": "Fiscal adequacy is achieved once State expenditure is financed, irrespective of the hierarchy between policy formulation and implementation."
       }
     ],
     "question": {
-      "hi": "निम्नलिखित में से कौन-सा/से निष्कर्ष सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः[cite: 2]",
-      "en": "Which of the following conclusions is/are correct?\nSelect the correct answer using the code given below.[cite: 2]"
+      "hi": "निम्नलिखित में से कौन-सा/से निष्कर्ष सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following conclusions is/are correct?\nSelect the correct answer using the code given below."
     },
     "options": [
       {
         "id": "A",
-        "hi": "केवल 1 और 2[cite: 2]",
-        "en": "1 and 2 only[cite: 2]"
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
       },
       {
         "id": "B",
-        "hi": "केवल 2 और 4[cite: 2]",
-        "en": "2 and 4 only[cite: 2]"
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
       },
       {
         "id": "C",
-        "hi": "1, 2 और 3[cite: 2]",
-        "en": "1, 2 and 3[cite: 2]"
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
       },
       {
         "id": "D",
-        "hi": "केवल 3[cite: 2]",
-        "en": "3 only[cite: 2]"
+        "hi": "केवल 3",
+        "en": "3 only"
       }
     ],
     "correctAnswer": "A",
     "explanation": {
-      "hi": "निष्कर्ष 1: सही परिच्छेद राजकोषीय व्यवस्थाओं को राजनीतिक स्वायत्तता से जोड़ता है। एक ऐसा राज्य जिसे पर्याप्त राजस्व अधिकारों के बिना लोक सेवाओं का वितरण करना होता है, उसके पास उत्तरदायित्व तो होता है, किंतु निर्णयन की क्षमता नहीं होती। अतः राजकोषीय वितरण केवल तकनीकी विषय नहीं है; यह निर्धारित करता है कि उप-राष्ट्रीय लोकतंत्र के पास वास्तविक निर्णय निर्माण की क्षमता है या नहीं।\nनिष्कर्ष 2: सही संबद्ध अनुदानों की आलोचना इस आधार पर की जाती है कि वे निर्वाचित राज्य की प्राथमिकताओं को \"केंद्र द्वारा निर्धारित अनुपालन\" में परिवर्तित कर देते हैं। समस्या वित्तपोषण में नहीं है, बल्कि ऐसे वित्तपोषण में है जो स्थानीय लोकतांत्रिक विकल्पों को केंद्रीय रूप से निर्धारित ढाँचे के अनुरूप आज्ञापालन में परिवर्तित कर देता है।\nनिष्कर्ष 3: गलत परिच्छेद स्पष्ट रूप से कहता है कि असमान संघीय व्यवस्था में पुनर्वितरण आवश्यक है। अतः यह केंद्रीय संसाधन साझाकरण को अस्वीकार नहीं करता है। यह केवल पुनर्वितरण के उस पितृसत्तात्मक स्वरूप का विरोध करता है, जो राज्यों की स्वायत्त निर्णय क्षमता को कमजोर करता है।\nनिष्कर्ष 4: गलत परिच्छेद में कहा गया है कि एक न्यायसंगत राजकोषीय व्यवस्था केवल व्यय का वित्तपोषण करने से अधिक कार्य करती है। उसे यह भी सुनिश्चित करना चाहिये कि ऊर्ध्वाधर असंतुलन उन लोगों के बीच पदानुक्रम में परिवर्तित न हो जाए जो निर्णय लेते हैं और जो केवल क्रियान्वयन करते हैं। अतः केवल वित्तीय सहायता पर्याप्त नहीं है।\nअतः विकल्प (a) सही है।[cite: 2]",
-      "en": "Conclusion 1: Correct The passage links fiscal arrangements with political autonomy. A State that must deliver public goods without adequate revenue authority has responsibility but lacks agency. Hence, fiscal distribution is not merely technical; it determines whether subnational democracy has real decision-making capacity.\nConclusion 2: Correct Tied grants are criticised because they convert elected State priorities into \"centrally scripted compliance.\" The problem is not funding as such, but funding that restructures local democratic choice into obedience to central design.\nConclusion 3: Incorrect The passage explicitly says redistribution is necessary in an unequal federation. Therefore, it does not reject central resource sharing. It rejects only the paternal form of redistribution that weakens State agency.\nConclusion 4: Incorrect The passage states that a just fiscal order does more than finance expenditure. It must also prevent vertical imbalance from becoming a hierarchy between those who decide and those who implement. Thus, funding alone is not enough.\nHence, option (a) is correct.[cite: 2]"
+      "hi": "निष्कर्ष 1: सही परिच्छेद राजकोषीय व्यवस्थाओं को राजनीतिक स्वायत्तता से जोड़ता है। एक ऐसा राज्य जिसे पर्याप्त राजस्व अधिकारों के बिना लोक सेवाओं का वितरण करना होता है, उसके पास उत्तरदायित्व तो होता है, किंतु निर्णयन की क्षमता नहीं होती। अतः राजकोषीय वितरण केवल तकनीकी विषय नहीं है; यह निर्धारित करता है कि उप-राष्ट्रीय लोकतंत्र के पास वास्तविक निर्णय निर्माण की क्षमता है या नहीं।\nनिष्कर्ष 2: सही संबद्ध अनुदानों की आलोचना इस आधार पर की जाती है कि वे निर्वाचित राज्य की प्राथमिकताओं को \"केंद्र द्वारा निर्धारित अनुपालन\" में परिवर्तित कर देते हैं। समस्या वित्तपोषण में नहीं है, बल्कि ऐसे वित्तपोषण में है जो स्थानीय लोकतांत्रिक विकल्पों को केंद्रीय रूप से निर्धारित ढाँचे के अनुरूप आज्ञापालन में परिवर्तित कर देता है।\nनिष्कर्ष 3: गलत परिच्छेद स्पष्ट रूप से कहता है कि असमान संघीय व्यवस्था में पुनर्वितरण आवश्यक है। अतः यह केंद्रीय संसाधन साझाकरण को अस्वीकार नहीं करता है। यह केवल पुनर्वितरण के उस पितृसत्तात्मक स्वरूप का विरोध करता है, जो राज्यों की स्वायत्त निर्णय क्षमता को कमजोर करता है।\nनिष्कर्ष 4: गलत परिच्छेद में कहा गया है कि एक न्यायसंगत राजकोषीय व्यवस्था केवल व्यय का वित्तपोषण करने से अधिक कार्य करती है। उसे यह भी सुनिश्चित करना चाहिये कि ऊर्ध्वाधर असंतुलन उन लोगों के बीच पदानुक्रम में परिवर्तित न हो जाए जो निर्णय लेते हैं और जो केवल क्रियान्वयन करते हैं। अतः केवल वित्तीय सहायता पर्याप्त नहीं है।\nअतः विकल्प (a) सही है।",
+      "en": "Conclusion 1: Correct The passage links fiscal arrangements with political autonomy. A State that must deliver public goods without adequate revenue authority has responsibility but lacks agency. Hence, fiscal distribution is not merely technical; it determines whether subnational democracy has real decision-making capacity.\nConclusion 2: Correct Tied grants are criticised because they convert elected State priorities into \"centrally scripted compliance.\" The problem is not funding as such, but funding that restructures local democratic choice into obedience to central design.\nConclusion 3: Incorrect The passage explicitly says redistribution is necessary in an unequal federation. Therefore, it does not reject central resource sharing. It rejects only the paternal form of redistribution that weakens State agency.\nConclusion 4: Incorrect The passage states that a just fiscal order does more than finance expenditure. It must also prevent vertical imbalance from becoming a hierarchy between those who decide and those who implement. Thus, funding alone is not enough.\nHence, option (a) is correct."
     }
   },
   {
@@ -198,61 +198,61 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": {
-      "hi": "राजकोषीय संघवाद प्रायः अंतरणों, अनुदानों और सूत्रों का विषय प्रतीत होता है, किंतु इसका संवैधानिक तनाव तब प्रारंभ होता है, जब राजकोषीय गणित राजनीतिक स्वायत्तता का पुनर्गठन करने लगता है। एक ऐसे राज्य को, जिसे विद्यालयों, चिकित्सालयों, कल्याणकारी योजनाओं और पारिस्थितिकीय पुनर्स्थापन जैसी सेवाएँ प्रदान करनी हों, जबकि राजस्व पर नियंत्रण अन्यत्र निहित हो, तो वह समानुपातिक अधिकारिता के बिना उत्तरदायित्व वहन करता है। एक असमान संघ में पुनर्वितरण आवश्यक है; तथापि, यह तब संरक्षणवादी स्वरूप ग्रहण कर लेता है, जब बंधित अनुदान निर्वाचित राज्य सरकारों की प्राथमिकताओं को केंद्र द्वारा निर्धारित अनुपालन में परिवर्तित कर देते हैं। प्रश्न स्वयं संसाधनों के साझाकरण का नहीं है, बल्कि यह है कि क्या संसाधन वितरण उप-राष्ट्रीय सरकारों को नीति-निर्माण के लोकतांत्रिक कर्त्ता के रूप में मान्यता प्रदान करता है। एक न्यायसंगत राजकोषीय व्यवस्था व्यय का वित्तपोषण करती है, जबकि ऊर्ध्वाधर असंतुलन को उन लोगों के मध्य पदानुक्रम में परिवर्तित होने से रोकती है, जो निर्णय लेते हैं और वे जो केवल कार्यान्वयन करते हैं।[cite: 2]",
-      "en": "Fiscal federalism appears to be a matter of transfers, grants and formulae, but its constitutional strain begins when fiscal arithmetic reorganizes political autonomy. A State required to provide schools, clinics, welfare and ecological repair while revenues remain controlled elsewhere bears responsibility without commensurate agency. Redistribution is necessary in an unequal federation; yet it becomes paternal when tied grants convert elected State priorities into centrally scripted compliance. The issue is not resource sharing itself, but whether sharing recognizes subnational governments as democratic authors of policy. A just fiscal order finances expenditure while preventing vertical imbalance from becoming a hierarchy between those who decide and those who merely implement.[cite: 2]"
+      "hi": "राजकोषीय संघवाद प्रायः अंतरणों, अनुदानों और सूत्रों का विषय प्रतीत होता है, किंतु इसका संवैधानिक तनाव तब प्रारंभ होता है, जब राजकोषीय गणित राजनीतिक स्वायत्तता का पुनर्गठन करने लगता है। एक ऐसे राज्य को, जिसे विद्यालयों, चिकित्सालयों, कल्याणकारी योजनाओं और पारिस्थितिकीय पुनर्स्थापन जैसी सेवाएँ प्रदान करनी हों, जबकि राजस्व पर नियंत्रण अन्यत्र निहित हो, तो वह समानुपातिक अधिकारिता के बिना उत्तरदायित्व वहन करता है। एक असमान संघ में पुनर्वितरण आवश्यक है; तथापि, यह तब संरक्षणवादी स्वरूप ग्रहण कर लेता है, जब बंधित अनुदान निर्वाचित राज्य सरकारों की प्राथमिकताओं को केंद्र द्वारा निर्धारित अनुपालन में परिवर्तित कर देते हैं। प्रश्न स्वयं संसाधनों के साझाकरण का नहीं है, बल्कि यह है कि क्या संसाधन वितरण उप-राष्ट्रीय सरकारों को नीति-निर्माण के लोकतांत्रिक कर्त्ता के रूप में मान्यता प्रदान करता है। एक न्यायसंगत राजकोषीय व्यवस्था व्यय का वित्तपोषण करती है, जबकि ऊर्ध्वाधर असंतुलन को उन लोगों के मध्य पदानुक्रम में परिवर्तित होने से रोकती है, जो निर्णय लेते हैं और वे जो केवल कार्यान्वयन करते हैं।",
+      "en": "Fiscal federalism appears to be a matter of transfers, grants and formulae, but its constitutional strain begins when fiscal arithmetic reorganizes political autonomy. A State required to provide schools, clinics, welfare and ecological repair while revenues remain controlled elsewhere bears responsibility without commensurate agency. Redistribution is necessary in an unequal federation; yet it becomes paternal when tied grants convert elected State priorities into centrally scripted compliance. The issue is not resource sharing itself, but whether sharing recognizes subnational governments as democratic authors of policy. A just fiscal order finances expenditure while preventing vertical imbalance from becoming a hierarchy between those who decide and those who merely implement."
     },
     "statements": [
       {
         "id": 1,
-        "hi": "यह परिच्छेद समानतामूलक पुनर्वितरण को उस राजकोषीय नियंत्रण से अलग करता है, जो राज्य-स्तरीय नीतिगत विकल्पों को अधीनस्थ बना देता है।[cite: 2]",
-        "en": "The passage distinguishes equalizing redistribution from fiscal control that subordinates State-level policy choices.[cite: 2]"
+        "hi": "यह परिच्छेद समानतामूलक पुनर्वितरण को उस राजकोषीय नियंत्रण से अलग करता है, जो राज्य-स्तरीय नीतिगत विकल्पों को अधीनस्थ बना देता है।",
+        "en": "The passage distinguishes equalizing redistribution from fiscal control that subordinates State-level policy choices."
       },
       {
         "id": 2,
-        "hi": "जब किसी राज्य की व्यय संबंधी उत्तरदायित्व उसकी राजकोषीय अधिकारिता से अधिक हो जाती है, तो उसकी स्वायत्तता केवल नाममात्र की रह जाती है।[cite: 2]",
-        "en": "A State's autonomy becomes hollow when its expenditure responsibilities exceed its fiscal authority.[cite: 2]"
+        "hi": "जब किसी राज्य की व्यय संबंधी उत्तरदायित्व उसकी राजकोषीय अधिकारिता से अधिक हो जाती है, तो उसकी स्वायत्तता केवल नाममात्र की रह जाती है।",
+        "en": "A State's autonomy becomes hollow when its expenditure responsibilities exceed its fiscal authority."
       },
       {
         "id": 3,
-        "hi": "ऊर्ध्वाधर राजकोषीय असंतुलन को लोकतांत्रिक परिणामों से रहित एक तटस्थ लेखांकन असंगति के रूप में प्रस्तुत किया गया है।[cite: 2]",
-        "en": "Vertical fiscal imbalance is presented as a neutral accounting mismatch without democratic consequences.[cite: 2]"
+        "hi": "ऊर्ध्वाधर राजकोषीय असंतुलन को लोकतांत्रिक परिणामों से रहित एक तटस्थ लेखांकन असंगति के रूप में प्रस्तुत किया गया है।",
+        "en": "Vertical fiscal imbalance is presented as a neutral accounting mismatch without democratic consequences."
       },
       {
         "id": 4,
-        "hi": "सशर्त अनुदानों को उप-राष्ट्रीय लोकतांत्रिक स्वामित्व को सुदृढ़ करने के सर्वाधिक उपयुक्त साधन के रूप में प्रस्तुत किया गया है।[cite: 2]",
-        "en": "Conditional grants are presented as the most appropriate means of strengthening subnational democratic authorship.[cite: 2]"
+        "hi": "सशर्त अनुदानों को उप-राष्ट्रीय लोकतांत्रिक स्वामित्व को सुदृढ़ करने के सर्वाधिक उपयुक्त साधन के रूप में प्रस्तुत किया गया है।",
+        "en": "Conditional grants are presented as the most appropriate means of strengthening subnational democratic authorship."
       }
     ],
     "question": {
-      "hi": "निम्नलिखित में से कौन-सा/से कथन सही नहीं है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः[cite: 2]",
-      "en": "Which of the following statements is/are not correct?\nSelect the correct answer using the code given below.[cite: 2]"
+      "hi": "निम्नलिखित में से कौन-सा/से कथन सही नहीं है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनियेः",
+      "en": "Which of the following statements is/are not correct?\nSelect the correct answer using the code given below."
     },
     "options": [
       {
         "id": "A",
-        "hi": "केवल 1 और 2[cite: 2]",
-        "en": "1 and 2 only[cite: 2]"
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
       },
       {
         "id": "B",
-        "hi": "केवल 3 और 4[cite: 2]",
-        "en": "3 and 4 only[cite: 2]"
+        "hi": "केवल 3 और 4",
+        "en": "3 and 4 only"
       },
       {
         "id": "C",
-        "hi": "केवल 2 और 3[cite: 2]",
-        "en": "2 and 3 only[cite: 2]"
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
       },
       {
         "id": "D",
-        "hi": "1, 3 और 4[cite: 2]",
-        "en": "1, 3 and 4[cite: 2]"
+        "hi": "1, 3 और 4",
+        "en": "1, 3 and 4"
       }
     ],
     "correctAnswer": "B",
     "explanation": {
-      "hi": "कथन 1: सही परिच्छेद असमान संघों में पुनर्वितरण को आवश्यक मानता है। हालाँकि यह संबद्ध अनुदानों की आलोचना करता है, जब वे संरक्षणवादी हो जाते हैं और राज्यों की प्राथमिकताओं को अधीनस्थ बना देते हैं। अतः यह स्पष्ट रूप से समानता-आधारित समर्थन और नियंत्रित राजकोषीय संरचना के मध्य अंतर करता है।\nकथन 2: सही राज्य को विद्यालयों, स्वास्थ्य केंद्रों, कल्याणकारी योजनाओं और पारिस्थितिकीय पुनर्स्थापन के लिये उत्तरदायी बताया गया है, जबकि राजस्व नियंत्रण अन्यत्र निहित है। यह असंगति स्वायत्तता को अधिकार-संपन्नता के बिना केवल उत्तरदायित्व में परिवर्तित कर देती है, जिससे राज्य स्वायत्तता खोखली हो जाती है।\nकथन 3: गलत ऊर्ध्वाधर राजकोषीय असंतुलन को किसी तटस्थ लेखांकन संबंधी विषय के रूप में वर्णित नहीं किया गया है। इसे एक राजनीतिक और लोकतांत्रिक समस्या के रूप में प्रस्तुत किया गया है, क्योंकि यह उन लोगों के मध्य पदानुक्रम उत्पन्न करता है जो नीतियों का निर्माण करते हैं और उन लोगों के मध्य जो केवल उनका क्रियान्वयन करते हैं。\nकथन 4: गलत परिच्छेद सशर्त अनुदानों की प्रशंसा नहीं करता है। यह संबद्ध अनुदानों की आलोचना करता है, जब वे निर्वाचित राज्य प्राथमिकताओं को केंद्र द्वारा निर्धारित अनुपालन-आधारित व्यवस्था में परिवर्तित कर देते हैं। ऐसे अनुदान उप-राष्ट्रीय लोकतांत्रिक नीति-निर्माण की क्षमता को सुदृढ़ करने के स्थान पर उसे कमज़ोर करते हैं।\nअतः विकल्प (b) सही है।[cite: 2]",
-      "en": "Statement 1: Correct The passage accepts redistribution as necessary in unequal federations. However, it criticises tied grants when they become paternal and subordinate State priorities. Hence, it clearly separates equalising support from controlling fiscal design.\nStatement 2: Correct - The State is described as responsible for schools, clinics, welfare and ecological repair while revenue control lies elsewhere. This mismatch turns autonomy into responsibility without agency, making State autonomy hollow.\nStatement 3: Not correct  Vertical fiscal imbalance is not described as a neutral accounting issue. It is shown as a political and democratic problem because it produces hierarchy between those who formulate policy and those who merely execute it.\nStatement 4: Not correct The passage does not praise conditional grants. It criticises tied grants when they convert elected State priorities into centrally scripted compliance. Such grants weaken, rather than strengthen, subnational democratic authorship.\nHence, option (b) is correct.[cite: 2]"
+      "hi": "कथन 1: सही परिच्छेद असमान संघों में पुनर्वितरण को आवश्यक मानता है। हालाँकि यह संबद्ध अनुदानों की आलोचना करता है, जब वे संरक्षणवादी हो जाते हैं और राज्यों की प्राथमिकताओं को अधीनस्थ बना देते हैं। अतः यह स्पष्ट रूप से समानता-आधारित समर्थन और नियंत्रित राजकोषीय संरचना के मध्य अंतर करता है।\nकथन 2: सही राज्य को विद्यालयों, स्वास्थ्य केंद्रों, कल्याणकारी योजनाओं और पारिस्थितिकीय पुनर्स्थापन के लिये उत्तरदायी बताया गया है, जबकि राजस्व नियंत्रण अन्यत्र निहित है। यह असंगति स्वायत्तता को अधिकार-संपन्नता के बिना केवल उत्तरदायित्व में परिवर्तित कर देती है, जिससे राज्य स्वायत्तता खोखली हो जाती है।\nकथन 3: गलत ऊर्ध्वाधर राजकोषीय असंतुलन को किसी तटस्थ लेखांकन संबंधी विषय के रूप में वर्णित नहीं किया गया है। इसे एक राजनीतिक और लोकतांत्रिक समस्या के रूप में प्रस्तुत किया गया है, क्योंकि यह उन लोगों के मध्य पदानुक्रम उत्पन्न करता है जो नीतियों का निर्माण करते हैं और उन लोगों के मध्य जो केवल उनका क्रियान्वयन करते हैं。\nकथन 4: गलत परिच्छेद सशर्त अनुदानों की प्रशंसा नहीं करता है। यह संबद्ध अनुदानों की आलोचना करता है, जब वे निर्वाचित राज्य प्राथमिकताओं को केंद्र द्वारा निर्धारित अनुपालन-आधारित व्यवस्था में परिवर्तित कर देते हैं। ऐसे अनुदान उप-राष्ट्रीय लोकतांत्रिक नीति-निर्माण की क्षमता को सुदृढ़ करने के स्थान पर उसे कमज़ोर करते हैं।\nअतः विकल्प (b) सही है।",
+      "en": "Statement 1: Correct The passage accepts redistribution as necessary in unequal federations. However, it criticises tied grants when they become paternal and subordinate State priorities. Hence, it clearly separates equalising support from controlling fiscal design.\nStatement 2: Correct - The State is described as responsible for schools, clinics, welfare and ecological repair while revenue control lies elsewhere. This mismatch turns autonomy into responsibility without agency, making State autonomy hollow.\nStatement 3: Not correct  Vertical fiscal imbalance is not described as a neutral accounting issue. It is shown as a political and democratic problem because it produces hierarchy between those who formulate policy and those who merely execute it.\nStatement 4: Not correct The passage does not praise conditional grants. It criticises tied grants when they convert elected State priorities into centrally scripted compliance. Such grants weaken, rather than strengthen, subnational democratic authorship.\nHence, option (b) is correct."
     }
   },
   {
@@ -262,40 +262,40 @@
     "difficulty": "Medium",
     "type": "mcq",
     "passage": {
-      "hi": "शिव नगर में, नगर पालिका ने कागजी राशन रसीदों के स्थान पर परिवार पहचान संख्याओं से संबद्ध बायोमेट्रिक कियोस्क स्थापित किये। डैशबोर्ड आदर्श प्रतीत होता थाः फर्जी प्रविष्टियों में कमी आई, भंडार की आवाजाही का अनुरक्षण किया गया और मासिक निकासी पंजीकृत पात्रताओं के अनुरूप रही। फिर भी, साझा कमरों में रहने वाले प्रवासी श्रमिक, ऐसे किरायेदार जिनके दस्तावेज़ अभी भी दूरस्थ गाँवों से संबद्ध थे तथा पंजीकृत परिवारों से बाहर भोजन करने वाले वृद्ध आश्रित-इन सभी ने उधार लिये गए काडौँ, अनौपचारिक खरीद एवं पड़ोसियों के अवैतनिक सहयोगात्मक दावों के माध्यम से खाद्य व्यवस्था में प्रवेश किया। उनकी भूख बहिष्करण के रूप में अभिव्यक्त नहीं हुई, क्योंकि प्रणाली ने प्रमाणित निकासी को ही पहुँच के रूप में दर्ज किया। योजना विफल नहीं हुई थी; बल्कि उसने दृश्यता के एक संकीर्ण आयाम को पूर्णता प्रदान कर दी थी। इसने वितरण व्यवस्था की स्वच्छता को मापा, न कि भोजन ग्रहण करने के सामाजिक भूगोल को।[cite: 2]",
-      "en": "In Shiv Nagar, the municipality replaced paper ration slips with biometric kiosks linked to household identity numbers. The dashboard looked exemplary: ghost entries declined, stock movement became traceable, and monthly withdrawals matched registered entitlements. Yet migrant workers living in shared rooms, tenants whose documents remained tied to distant villages, and elderly dependents eating outside registered households entered the food economy through borrowed cards, informal purchases and unpaid neighbourly claims. Their hunger did not appear as an exclusion because the system counted authenticated withdrawal as access. The scheme had not collapsed; it had perfected a narrow visibility. It measured the cleanliness of delivery, not the social geography of eating.[cite: 2]"
+      "hi": "शिव नगर में, नगर पालिका ने कागजी राशन रसीदों के स्थान पर परिवार पहचान संख्याओं से संबद्ध बायोमेट्रिक कियोस्क स्थापित किये। डैशबोर्ड आदर्श प्रतीत होता थाः फर्जी प्रविष्टियों में कमी आई, भंडार की आवाजाही का अनुरक्षण किया गया और मासिक निकासी पंजीकृत पात्रताओं के अनुरूप रही। फिर भी, साझा कमरों में रहने वाले प्रवासी श्रमिक, ऐसे किरायेदार जिनके दस्तावेज़ अभी भी दूरस्थ गाँवों से संबद्ध थे तथा पंजीकृत परिवारों से बाहर भोजन करने वाले वृद्ध आश्रित-इन सभी ने उधार लिये गए काडौँ, अनौपचारिक खरीद एवं पड़ोसियों के अवैतनिक सहयोगात्मक दावों के माध्यम से खाद्य व्यवस्था में प्रवेश किया। उनकी भूख बहिष्करण के रूप में अभिव्यक्त नहीं हुई, क्योंकि प्रणाली ने प्रमाणित निकासी को ही पहुँच के रूप में दर्ज किया। योजना विफल नहीं हुई थी; बल्कि उसने दृश्यता के एक संकीर्ण आयाम को पूर्णता प्रदान कर दी थी। इसने वितरण व्यवस्था की स्वच्छता को मापा, न कि भोजन ग्रहण करने के सामाजिक भूगोल को।",
+      "en": "In Shiv Nagar, the municipality replaced paper ration slips with biometric kiosks linked to household identity numbers. The dashboard looked exemplary: ghost entries declined, stock movement became traceable, and monthly withdrawals matched registered entitlements. Yet migrant workers living in shared rooms, tenants whose documents remained tied to distant villages, and elderly dependents eating outside registered households entered the food economy through borrowed cards, informal purchases and unpaid neighbourly claims. Their hunger did not appear as an exclusion because the system counted authenticated withdrawal as access. The scheme had not collapsed; it had perfected a narrow visibility. It measured the cleanliness of delivery, not the social geography of eating."
     },
     "statements": null,
     "question": {
-      "hi": "निम्नलिखित में से कौन-सा कथन दिये गए परिच्छेद के दृष्टिकोण को सर्वाधिक उपयुक्त रूप से प्रतिबिंबित करता है?[cite: 2]",
-      "en": "Which one among the following statements most appropriately reflects the point of view of the given passage?[cite: 2]"
+      "hi": "निम्नलिखित में से कौन-सा कथन दिये गए परिच्छेद के दृष्टिकोण को सर्वाधिक उपयुक्त रूप से प्रतिबिंबित करता है?",
+      "en": "Which one among the following statements most appropriately reflects the point of view of the given passage?"
     },
     "options": [
       {
         "id": "A",
-        "hi": "डिजिटल राशन प्रणालियाँ दोषपूर्ण हो जाती हैं, क्योंकि बायोमेट्रिक सत्यापन अनिवार्य रूप से रिसाव को रोकने की प्रशासनिक क्षमता को कमज़ोर करता है।[cite: 2]",
-        "en": "Digital ration systems become defective because biometric verification inevitably weakens the administrative capacity to prevent leakage.[cite: 2]"
+        "hi": "डिजिटल राशन प्रणालियाँ दोषपूर्ण हो जाती हैं, क्योंकि बायोमेट्रिक सत्यापन अनिवार्य रूप से रिसाव को रोकने की प्रशासनिक क्षमता को कमज़ोर करता है।",
+        "en": "Digital ration systems become defective because biometric verification inevitably weakens the administrative capacity to prevent leakage."
       },
       {
         "id": "B",
-        "hi": "कल्याणकारी डेटाबेस खाद्य सुरक्षा के विश्वसनीय संकेतक बन जाते हैं, जब फर्जी प्रविष्टियों और भंडार रिसाव को पर्याप्त रूप से कम कर दिया जाता है।[cite: 2]",
-        "en": "Welfare databases become reliable indicators of food security once ghost entries and stock leakages are substantially reduced.[cite: 2]"
+        "hi": "कल्याणकारी डेटाबेस खाद्य सुरक्षा के विश्वसनीय संकेतक बन जाते हैं, जब फर्जी प्रविष्टियों और भंडार रिसाव को पर्याप्त रूप से कम कर दिया जाता है।",
+        "en": "Welfare databases become reliable indicators of food security once ghost entries and stock leakages are substantially reduced."
       },
       {
         "id": "C",
-        "hi": "राशन कार्डों का अनौपचारिक साझाकरण यह सिद्ध करता है कि लाभार्थी जानबूझकर पारदर्शी कल्याणकारी शासन में बाधा उत्पन्न करते हैं।[cite: 2]",
-        "en": "Informal sharing of ration cards proves that beneficiaries deliberately obstruct transparent welfare governance.[cite: 2]"
+        "hi": "राशन कार्डों का अनौपचारिक साझाकरण यह सिद्ध करता है कि लाभार्थी जानबूझकर पारदर्शी कल्याणकारी शासन में बाधा उत्पन्न करते हैं।",
+        "en": "Informal sharing of ration cards proves that beneficiaries deliberately obstruct transparent welfare governance."
       },
       {
         "id": "D",
-        "hi": "कल्याणकारी वितरण में तकनीकी सफलता तब सामाजिक रूप से बहिष्कारी बन जाती है, जब प्रमाणित लेन-देन को आजीविका हेतु आवश्यक वास्तविक पहुँच के रूप में समझ लिया जाता है।[cite: 2]",
-        "en": "Technical success in welfare delivery becomes socially exclusionary when authenticated transactions are mistaken for actual access to subsistence.[cite: 2]"
+        "hi": "कल्याणकारी वितरण में तकनीकी सफलता तब सामाजिक रूप से बहिष्कारी बन जाती है, जब प्रमाणित लेन-देन को आजीविका हेतु आवश्यक वास्तविक पहुँच के रूप में समझ लिया जाता है।",
+        "en": "Technical success in welfare delivery becomes socially exclusionary when authenticated transactions are mistaken for actual access to subsistence."
       }
     ],
     "correctAnswer": "D",
     "explanation": {
-      "hi": "(a) विकल्प - गलतः परिच्छेद यह स्पष्ट नहीं करता है कि बायोमेट्रिक सत्यापन प्रशासन को कमजोर करता है। वास्तव में, यह प्रणाली फर्जी प्रविष्टियों में कमी, भंडार की अनुरेखणीयता और पात्रता के उचित मिलान जैसे प्रशासनिक संकेतकों में सुधार करती है। आलोचना का केंद्र किसी अन्य बिंदु पर है: प्रशासनिक सटीकता उन अपंजीकृत निर्भरताओं को दर्ज करने में असफल रहती है।\n(b) विकल्प गलतः परिच्छेद इस विचार को अस्वीकार करता है कि अधिक शुद्ध अभिलेख खाद्य सुरक्षा को सिद्ध करते हैं। फर्जी प्रविष्टियों में कमी और भंडार अनुशासन वितरण संबंधी संकेतकों में सुधार करते हैं, किंतु वे यह सिद्ध नहीं करते कि सभी आश्रित उपभोक्ता प्रणाली के अंतर्गत दृश्यमान हैं।\n(c) विकल्प गलतः उधार लिये गए कार्ड और अनौपचारिक खरीद को जानबूझकर किये गए अवरोध के रूप में प्रस्तुत नहीं किया गया है। ये उन लोगों द्वारा अपनाए गए जीवन-निर्वाह तंत्र हैं, जो आधिकारिक पहचान संरचना के दायरे से बाहर रह जाते हैं।\n(d) विकल्प सहीः यह विकल्प केंद्रीय दृष्टिकोण को अभिव्यक्त करता है। यह योजना तकनीकी रूप से सफल प्रतीत होती है, फिर भी यह उन लोगों को बाहर कर देती है अथवा अदृश्य बना देती है, जिनकी खाद्य पहुँच आधिकारिक पारिवारिक श्रेणियों के अनुरूप नहीं होती। परिच्छेद प्रमाणीकृत वितरण और वास्तविक जीवन-निर्वाह हेतु खाद्य पहुँच के मध्य भ्रम की आलोचना करता है।\nअतः विकल्प (d) सही है।[cite: 2]",
-      "en": "Option (a) Incorrect: The passage does not say biometric verification weakens administration. In fact, the system improves administrative indicators such as reduction of ghost entries, stock traceability and entitlement matching. The criticism lies elsewhere: administrative precision fails to capture unregistered dependence.\nOption (b) Incorrect: The passage rejects the idea that cleaner records prove food security. Ghost reduction and stock discipline improve delivery metrics, but they do not prove that all dependent eaters are visible to the system.\nOption (c) Incorrect: Borrowed cards and informal purchases are not presented as deliberate obstruction. They are survival mechanisms used by people who fall outside the official structure of recognition.\nOption (d) Correct: This option captures the central viewpoint. The scheme appears technically successful, yet it excludes or invisibilises people whose food access does not match official household categories. The passage criticises the confusion between authenticated delivery and real subsistence access.\nHence, option (d) is correct.[cite: 2]"
+      "hi": "(a) विकल्प - गलतः परिच्छेद यह स्पष्ट नहीं करता है कि बायोमेट्रिक सत्यापन प्रशासन को कमजोर करता है। वास्तव में, यह प्रणाली फर्जी प्रविष्टियों में कमी, भंडार की अनुरेखणीयता और पात्रता के उचित मिलान जैसे प्रशासनिक संकेतकों में सुधार करती है। आलोचना का केंद्र किसी अन्य बिंदु पर है: प्रशासनिक सटीकता उन अपंजीकृत निर्भरताओं को दर्ज करने में असफल रहती है।\n(b) विकल्प गलतः परिच्छेद इस विचार को अस्वीकार करता है कि अधिक शुद्ध अभिलेख खाद्य सुरक्षा को सिद्ध करते हैं। फर्जी प्रविष्टियों में कमी और भंडार अनुशासन वितरण संबंधी संकेतकों में सुधार करते हैं, किंतु वे यह सिद्ध नहीं करते कि सभी आश्रित उपभोक्ता प्रणाली के अंतर्गत दृश्यमान हैं।\n(c) विकल्प गलतः उधार लिये गए कार्ड और अनौपचारिक खरीद को जानबूझकर किये गए अवरोध के रूप में प्रस्तुत नहीं किया गया है। ये उन लोगों द्वारा अपनाए गए जीवन-निर्वाह तंत्र हैं, जो आधिकारिक पहचान संरचना के दायरे से बाहर रह जाते हैं।\n(d) विकल्प सहीः यह विकल्प केंद्रीय दृष्टिकोण को अभिव्यक्त करता है। यह योजना तकनीकी रूप से सफल प्रतीत होती है, फिर भी यह उन लोगों को बाहर कर देती है अथवा अदृश्य बना देती है, जिनकी खाद्य पहुँच आधिकारिक पारिवारिक श्रेणियों के अनुरूप नहीं होती। परिच्छेद प्रमाणीकृत वितरण और वास्तविक जीवन-निर्वाह हेतु खाद्य पहुँच के मध्य भ्रम की आलोचना करता है।\nअतः विकल्प (d) सही है।",
+      "en": "Option (a) Incorrect: The passage does not say biometric verification weakens administration. In fact, the system improves administrative indicators such as reduction of ghost entries, stock traceability and entitlement matching. The criticism lies elsewhere: administrative precision fails to capture unregistered dependence.\nOption (b) Incorrect: The passage rejects the idea that cleaner records prove food security. Ghost reduction and stock discipline improve delivery metrics, but they do not prove that all dependent eaters are visible to the system.\nOption (c) Incorrect: Borrowed cards and informal purchases are not presented as deliberate obstruction. They are survival mechanisms used by people who fall outside the official structure of recognition.\nOption (d) Correct: This option captures the central viewpoint. The scheme appears technically successful, yet it excludes or invisibilises people whose food access does not match official household categories. The passage criticises the confusion between authenticated delivery and real subsistence access.\nHence, option (d) is correct."
     }
   },
   {
@@ -1048,8 +1048,8 @@
     ],
     "correctAnswer": "B",
     "explanation": {
-      "hi": "मान लीजिये, एक महिला की कार्यक्षमता W हैं।\nकुल कार्यः = 12 महिलाएँ × 20 दिन = 240 W-इकाई\nअब, 6 पुरुष और 8 महिलाएँ इसी कार्य को 10 दिनों में पूरा करते हैं।\nइसलिये,\n10(6M + 8W) = 240W\n6M + 8W = 24W\n6M = 16W\nM = 16W/6 = 8W/3\nअतः, एक पुरुष, 8/3 महिलाओं के बराबर है।\n10 पुरुषों की कार्यक्षमता: = 10 × 8W/3 = 80W/3\n10 पुरुषों द्वारा कार्य पूरा करने में आवश्यक समयः\n= कुल कार्य / प्रतिदिन किया गया कार्य\n= 240W ÷ 80W/3\n= 240 × 3/80\n= 9 दिन\nअतः विकल्प (b) सही है।[cite: 2]",
-      "en": "Let the efficiency of one woman be W.\nTotal work:\n= 12 women × 20 days\n= 240 W-units\nNow, 6 men and 8 women complete the same work in 10 days.\nSo, 10(6M + 8W) = 240W\n6M + 8W = 24W\n6M = 16W\nM = 16W/6 = 8W/3\nSo, one man is equal to 8/3 women.\nEfficiency of 10 men: = 10 × 8W/3 = 80W/3\nTime required by 10 men:\n= Total work / Daily work\n= 240W ÷ 80W/3\n= 240 × 3/80\n= 9 days\nHence, option (b) is correct.[cite: 2]"
+      "hi": "मान लीजिये, एक महिला की कार्यक्षमता W हैं।\nकुल कार्यः = 12 महिलाएँ × 20 दिन = 240 W-इकाई\nअब, 6 पुरुष और 8 महिलाएँ इसी कार्य को 10 दिनों में पूरा करते हैं।\nइसलिये,\n10(6M + 8W) = 240W\n6M + 8W = 24W\n6M = 16W\nM = 16W/6 = 8W/3\nअतः, एक पुरुष, 8/3 महिलाओं के बराबर है।\n10 पुरुषों की कार्यक्षमता: = 10 × 8W/3 = 80W/3\n10 पुरुषों द्वारा कार्य पूरा करने में आवश्यक समयः\n= कुल कार्य / प्रतिदिन किया गया कार्य\n= 240W ÷ 80W/3\n= 240 × 3/80\n= 9 दिन\nअतः विकल्प (b) सही है।",
+      "en": "Let the efficiency of one woman be W.\nTotal work:\n= 12 women × 20 days\n= 240 W-units\nNow, 6 men and 8 women complete the same work in 10 days.\nSo, 10(6M + 8W) = 240W\n6M + 8W = 24W\n6M = 16W\nM = 16W/6 = 8W/3\nSo, one man is equal to 8/3 women.\nEfficiency of 10 men: = 10 × 8W/3 = 80W/3\nTime required by 10 men:\n= Total work / Daily work\n= 240W ÷ 80W/3\n= 240 × 3/80\n= 9 days\nHence, option (b) is correct."
     }
   },
   {
@@ -1088,8 +1088,8 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "A की कार्य-दर = 1/12\nB की कार्य-दर = 1/18\nC की कार्य-दर = -1/24\nमान लीजिये कि प्रारंभ से t घंटे बाद पाइप B को बंद कर दिया जाता है।\nप्रारंभिक 2 घंटे तक A और B एक साथ कार्य करते हैं।\nकिया गया कार्यः\n= 2(1/12 + 1/18)\n= 2(3/36 + 2/36)\n= 2 × 5/36 = 10/36 = 5/18\n2 घंटे से t घंटे तक, A, B और C मिलकर कार्य करते हैं।\nकुल दर: 1/12 + 1/18 - 1/24\n12, 18 और 24 का LCM = 72\n= 6/72 + 4/72 - 3/72 = 7/72\nकार्य किया गयाः = (t - 2) × 7/72\nt घंटे से 10 घंटे तक, A और C मिलकर कार्य करते हैं।\nशुद्ध दर: 1/12 - 1/24 = 1/24\nकार्य किया गया: = (10 - t) × 1/24\nकुल कार्य = 1\nइसलिये, 5/18 + 7(t - 2)/72 + (10 - t)/24 = 1\n72 से गुणा करने परः\n20 + 7(t - 2) + 3(10 - t) = 72\n20 + 7t - 14 + 30 - 3t = 72\n4t + 36 = 72\n4t = 36\nt = 9\nइसलिये, प्रारंभ से 9 घंटे के पश्चात पाइप B को बंद कर दिया गया।\nअतः विकल्प (c) सही है।[cite: 2]",
-      "en": "Rate of A = 1/12\nRate of B = 1/18\nRate of C = -1/24\nLet pipe B be closed after t hours from the start.\nFor the first 2 hours, A and B work together.\nWork done:\n= 2(1/12 + 1/18)\n= 2(3/36 + 2/36)\n= 2 × 5/36 = 10/36 = 5/18\nFrom 2 hours to t hours, A, B and C work together.\nNet rate: = 1/12 + 1/18 - 1/24\nLCM of 12, 18 and 24 = 72\n= 6/72 + 4/72 - 3/72 = 7/72\nWork done: = (t - 2) × 7/72\nFrom t hours to 10 hours, A and C work together.\nNet rate: = 1/12 - 1/24 = 1/24\nWork done: = (10 - t) × 1/24\nTotal work = 1\nSo, 5/18 + 7(t - 2)/72 + (10 - t)/24 = 1\nMultiplying by 72:\n20 + 7(t - 2) + 3(10 - t) = 72\n20 + 7t - 14 + 30 - 3t = 72\n4t + 36 = 72\n4t = 36\nt = 9\nSo, pipe B was closed after 9 hours from the start.\nHence, option (c) is correct.[cite: 2]"
+      "hi": "A की कार्य-दर = 1/12\nB की कार्य-दर = 1/18\nC की कार्य-दर = -1/24\nमान लीजिये कि प्रारंभ से t घंटे बाद पाइप B को बंद कर दिया जाता है।\nप्रारंभिक 2 घंटे तक A और B एक साथ कार्य करते हैं।\nकिया गया कार्यः\n= 2(1/12 + 1/18)\n= 2(3/36 + 2/36)\n= 2 × 5/36 = 10/36 = 5/18\n2 घंटे से t घंटे तक, A, B और C मिलकर कार्य करते हैं।\nकुल दर: 1/12 + 1/18 - 1/24\n12, 18 और 24 का LCM = 72\n= 6/72 + 4/72 - 3/72 = 7/72\nकार्य किया गयाः = (t - 2) × 7/72\nt घंटे से 10 घंटे तक, A और C मिलकर कार्य करते हैं।\nशुद्ध दर: 1/12 - 1/24 = 1/24\nकार्य किया गया: = (10 - t) × 1/24\nकुल कार्य = 1\nइसलिये, 5/18 + 7(t - 2)/72 + (10 - t)/24 = 1\n72 से गुणा करने परः\n20 + 7(t - 2) + 3(10 - t) = 72\n20 + 7t - 14 + 30 - 3t = 72\n4t + 36 = 72\n4t = 36\nt = 9\nइसलिये, प्रारंभ से 9 घंटे के पश्चात पाइप B को बंद कर दिया गया।\nअतः विकल्प (c) सही है।",
+      "en": "Rate of A = 1/12\nRate of B = 1/18\nRate of C = -1/24\nLet pipe B be closed after t hours from the start.\nFor the first 2 hours, A and B work together.\nWork done:\n= 2(1/12 + 1/18)\n= 2(3/36 + 2/36)\n= 2 × 5/36 = 10/36 = 5/18\nFrom 2 hours to t hours, A, B and C work together.\nNet rate: = 1/12 + 1/18 - 1/24\nLCM of 12, 18 and 24 = 72\n= 6/72 + 4/72 - 3/72 = 7/72\nWork done: = (t - 2) × 7/72\nFrom t hours to 10 hours, A and C work together.\nNet rate: = 1/12 - 1/24 = 1/24\nWork done: = (10 - t) × 1/24\nTotal work = 1\nSo, 5/18 + 7(t - 2)/72 + (10 - t)/24 = 1\nMultiplying by 72:\n20 + 7(t - 2) + 3(10 - t) = 72\n20 + 7t - 14 + 30 - 3t = 72\n4t + 36 = 72\n4t = 36\nt = 9\nSo, pipe B was closed after 9 hours from the start.\nHence, option (c) is correct."
     }
   },
   {
@@ -1128,8 +1128,8 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "A का एक दिन का कार्य = 1/20\nB का एक दिन का कार्य = 1/30\nA और B का एक दिन का संयुक्त कार्यः\n= 1/20 + 1/30 = 3/60 + 2/60 = 5/60 = 1/12\nपहले 5 दिनों में किये गए कार्य = 5 × 1/12 = 5/12\nशेष कार्य = 1 - 5/12 = 7/12\n5 दिनों के बाद, B की कार्यक्षमता आधी हो जाती है।\nB का नया एक दिवसीय कार्य = 1/2 × 1/30 = 1/60\nअब A और B का संयुक्त एक दिवसीय कार्य\n= 1/20 + 1/60 = 3/60 + 1/60 = 4/60 = 1/15\nशेष कार्य को पूरा करने के लिये आवश्यक समय\n= 7/12 ÷ 1/15 = 7/12 × 15 = 105/12 = 35/4 = 8 3/4 दिन\nकुल समय = 5 + 8 3/4 = 13 3/4 दिन\nअतः विकल्प (c) सही है।[cite: 2]",
-      "en": "A's one-day work = 1/20\nB's one-day work = 1/30\nA and B's one-day work:\n= 1/20 + 1/30 = 3/60 + 2/60 = 5/60 = 1/12\nWork done in first 5 days = 5 × 1/12 = 5/12\nRemaining work = 1 - 5/12 = 7/12\nAfter 5 days, B works at half efficiency.\nB's new one-day work = 1/2 × 1/30 = 1/60\nNow A and B's combined one-day work\n= 1/20 + 1/60 = 3/60 + 1/60 = 4/60 = 1/15\nTime required to complete remaining work\n= 7/12 ÷ 1/15 = 7/12 × 15 = 105/12 = 35/4 = 8 3/4 days\nTotal time = 5 + 8 3/4 = 13 3/4 days\nHence, option (c) is correct.[cite: 2]"
+      "hi": "A का एक दिन का कार्य = 1/20\nB का एक दिन का कार्य = 1/30\nA और B का एक दिन का संयुक्त कार्यः\n= 1/20 + 1/30 = 3/60 + 2/60 = 5/60 = 1/12\nपहले 5 दिनों में किये गए कार्य = 5 × 1/12 = 5/12\nशेष कार्य = 1 - 5/12 = 7/12\n5 दिनों के बाद, B की कार्यक्षमता आधी हो जाती है।\nB का नया एक दिवसीय कार्य = 1/2 × 1/30 = 1/60\nअब A और B का संयुक्त एक दिवसीय कार्य\n= 1/20 + 1/60 = 3/60 + 1/60 = 4/60 = 1/15\nशेष कार्य को पूरा करने के लिये आवश्यक समय\n= 7/12 ÷ 1/15 = 7/12 × 15 = 105/12 = 35/4 = 8 3/4 दिन\nकुल समय = 5 + 8 3/4 = 13 3/4 दिन\nअतः विकल्प (c) सही है।",
+      "en": "A's one-day work = 1/20\nB's one-day work = 1/30\nA and B's one-day work:\n= 1/20 + 1/30 = 3/60 + 2/60 = 5/60 = 1/12\nWork done in first 5 days = 5 × 1/12 = 5/12\nRemaining work = 1 - 5/12 = 7/12\nAfter 5 days, B works at half efficiency.\nB's new one-day work = 1/2 × 1/30 = 1/60\nNow A and B's combined one-day work\n= 1/20 + 1/60 = 3/60 + 1/60 = 4/60 = 1/15\nTime required to complete remaining work\n= 7/12 ÷ 1/15 = 7/12 × 15 = 105/12 = 35/4 = 8 3/4 days\nTotal time = 5 + 8 3/4 = 13 3/4 days\nHence, option (c) is correct."
     }
   },
   {
@@ -1168,8 +1168,8 @@
     ],
     "correctAnswer": "B",
     "explanation": {
-      "hi": "मान लीजिये:\nS = स्ट्रॉबेरी पसंद करने वाले व्यक्ति = 96\nR = रास्पबेरी पसंद करने वाले व्यक्ति = 98\nB = ब्लूबेरी पसंद करने वाले व्यक्ति = 120\nकेवल S = 18\nकेवल R = 20\nकेवल B = 24\nतीनों (S ∩ R ∩ B) = 38\nमान लीजिये: x = केवल S ∩ R; y = केवल S ∩ B; z = केवल R ∩ B\nस्ट्रॉबेरी के लियेः\n18 + x + y + 38 = 96\nx + y = 40 ...(1)\nरास्पबेरी के लियेः\n20 + x + z + 38 = 98\nx + z = 40 ...(2)\nब्लूबेरी के लियेः\n24 + y + z + 38 = 120\ny + z = 58 ...(3)\nसमीकरण (1) से: y = 40 - x\nइसे समीकरण (3) में प्रतिस्थापित करने परः\n(40 - x) + z = 58\nz = 18 + x ...(4)\nइसे समीकरण (2) में प्रतिस्थापित करने परः\nx + (18 + x) = 40\n2x = 22\nx = 11\nz = 18 + 11 = 29\nइसलिये, 29 व्यक्ति ऐसे हैं जिन्हें रास्पबेरी और ब्लूबेरी पसंद हैं, किंतु स्ट्रॉबेरी पसंद नहीं है।\nअतः विकल्प (b) सही है।[cite: 2]",
-      "en": "Let:\nS = strawberries = 96\nR = raspberries = 98\nB = blueberries = 120\nOnly S = 18\nOnly R = 20\nOnly B = 24\nAll three (S ∩ R ∩ B) = 38\nLet: x = S ∩ R only; y = S ∩ B only; z = R ∩ B only\nFrom strawberries:\n18 + x + y + 38 = 96\nx + y = 40 ...(1)\nFrom raspberries:\n20 + x + z + 38 = 98\nx + z = 40 ...(2)\nFrom blueberries:\n24 + y + z + 38 = 120\ny + z = 58 ...(3)\nFrom (1): y = 40 - x\nSubstitute into (3):\n(40 - x) + z = 58\nz = 18 + x ...(4)\nSubstitute into (2):\nx + (18 + x) = 40\n2x = 22\nx = 11\nNow, z = 18 + 11 = 29\nSo, 29 people liked raspberries and blueberries but not strawberries.\nHence, option (b) is correct.[cite: 2]"
+      "hi": "मान लीजिये:\nS = स्ट्रॉबेरी पसंद करने वाले व्यक्ति = 96\nR = रास्पबेरी पसंद करने वाले व्यक्ति = 98\nB = ब्लूबेरी पसंद करने वाले व्यक्ति = 120\nकेवल S = 18\nकेवल R = 20\nकेवल B = 24\nतीनों (S ∩ R ∩ B) = 38\nमान लीजिये: x = केवल S ∩ R; y = केवल S ∩ B; z = केवल R ∩ B\nस्ट्रॉबेरी के लियेः\n18 + x + y + 38 = 96\nx + y = 40 ...(1)\nरास्पबेरी के लियेः\n20 + x + z + 38 = 98\nx + z = 40 ...(2)\nब्लूबेरी के लियेः\n24 + y + z + 38 = 120\ny + z = 58 ...(3)\nसमीकरण (1) से: y = 40 - x\nइसे समीकरण (3) में प्रतिस्थापित करने परः\n(40 - x) + z = 58\nz = 18 + x ...(4)\nइसे समीकरण (2) में प्रतिस्थापित करने परः\nx + (18 + x) = 40\n2x = 22\nx = 11\nz = 18 + 11 = 29\nइसलिये, 29 व्यक्ति ऐसे हैं जिन्हें रास्पबेरी और ब्लूबेरी पसंद हैं, किंतु स्ट्रॉबेरी पसंद नहीं है।\nअतः विकल्प (b) सही है।",
+      "en": "Let:\nS = strawberries = 96\nR = raspberries = 98\nB = blueberries = 120\nOnly S = 18\nOnly R = 20\nOnly B = 24\nAll three (S ∩ R ∩ B) = 38\nLet: x = S ∩ R only; y = S ∩ B only; z = R ∩ B only\nFrom strawberries:\n18 + x + y + 38 = 96\nx + y = 40 ...(1)\nFrom raspberries:\n20 + x + z + 38 = 98\nx + z = 40 ...(2)\nFrom blueberries:\n24 + y + z + 38 = 120\ny + z = 58 ...(3)\nFrom (1): y = 40 - x\nSubstitute into (3):\n(40 - x) + z = 58\nz = 18 + x ...(4)\nSubstitute into (2):\nx + (18 + x) = 40\n2x = 22\nx = 11\nNow, z = 18 + 11 = 29\nSo, 29 people liked raspberries and blueberries but not strawberries.\nHence, option (b) is correct."
     }
   },
   {
@@ -1208,8 +1208,8 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "सामान्य अध्ययन में अनुत्तीर्ण = 100 - 78 = 22%\nसीसैट में अनुत्तीर्ण = 100 - 72 = 28%\nदोनों प्रश्न-पत्रों में अनुत्तीर्ण = 12%\nअतः केवल सामान्य अध्ययन में अनुत्तीर्ण = 22 - 12 = 10%\nकेवल सीसैट में अनुत्तीर्ण = 28 - 12 = 16%\nअतः ठीक एक प्रश्न-पत्र में अनुत्तीर्ण अभ्यर्थी\n= 10% + 16% = 26%\nअतः विकल्प (c) सही है।[cite: 2]",
-      "en": "Failed in general studies = 100 - 78 = 22%\nFailed in CSAT = 100 - 72 = 28%\nFailed in both papers = 12%\nTherefore, failed only in general studies = 22 - 12 = 10%\nFailed only in CSAT = 28 - 12 = 16%\nSo, candidates who failed in exactly one paper\n= 10% + 16% = 26%\nHence, option (c) is correct.[cite: 2]"
+      "hi": "सामान्य अध्ययन में अनुत्तीर्ण = 100 - 78 = 22%\nसीसैट में अनुत्तीर्ण = 100 - 72 = 28%\nदोनों प्रश्न-पत्रों में अनुत्तीर्ण = 12%\nअतः केवल सामान्य अध्ययन में अनुत्तीर्ण = 22 - 12 = 10%\nकेवल सीसैट में अनुत्तीर्ण = 28 - 12 = 16%\nअतः ठीक एक प्रश्न-पत्र में अनुत्तीर्ण अभ्यर्थी\n= 10% + 16% = 26%\nअतः विकल्प (c) सही है।",
+      "en": "Failed in general studies = 100 - 78 = 22%\nFailed in CSAT = 100 - 72 = 28%\nFailed in both papers = 12%\nTherefore, failed only in general studies = 22 - 12 = 10%\nFailed only in CSAT = 28 - 12 = 16%\nSo, candidates who failed in exactly one paper\n= 10% + 16% = 26%\nHence, option (c) is correct."
     }
   },
   {
@@ -1248,8 +1248,8 @@
     ],
     "correctAnswer": "D",
     "explanation": {
-      "hi": "मान लीजिये विद्यार्थियों की कुल संख्या N है।\nकेवल क्रिकेट खेलने वाले विद्यार्थी = x\nकेवल फुटबॉल खेलने वाले विद्यार्थी = y\nक्रिकेट और फुटबॉल दोनों खेलने वाले विद्यार्थी = N/6\nअतः, x + y + N/6 = N\nअब प्रत्येक विकल्प की जाँच करते हैं:\n(a) क्रिकेट खेलने वाले विद्यार्थियों की संख्या = x + N/6\nचूँकि x का मान नहीं दिया गया है, अतः इसे निर्धारित नहीं किया जा सकता।\n(b) केवल फुटबॉल खेलने वाले विद्यार्थियों की संख्या = y\nपुनः, y का निश्चित मान ज्ञात नहीं है। अतः इसे निर्धारित नहीं किया जा सकता।\n(c) केवल फुटबॉल खेलने वाले विद्यार्थियों की संख्या = N/3\nयह भी निश्चित नहीं है।\nइसलिये, विकल्प (a), (b) और (c) में से किसी भी संख्या को ज्ञात नहीं किया जा सकता।\nअतः विकल्प (d) सही है।[cite: 2]",
-      "en": "Let the number of students be N.\nCricket only = x\nFootball only = y\nBoth cricket and football = N/6\nSo, x + y + N/6 = N\nNow check each option\n(a) Students who play cricket = x + N/6\nSince x is not given, this cannot be determined.\n(b) students who play football only = y\nAgain, y is not fixed. So, it cannot be determined.\n(c) Football only = N/3\nThis is also not fixed\nTherefore, none of the options a, b, and c can be found.\nHence, option (d) is correct.[cite: 2]"
+      "hi": "मान लीजिये विद्यार्थियों की कुल संख्या N है।\nकेवल क्रिकेट खेलने वाले विद्यार्थी = x\nकेवल फुटबॉल खेलने वाले विद्यार्थी = y\nक्रिकेट और फुटबॉल दोनों खेलने वाले विद्यार्थी = N/6\nअतः, x + y + N/6 = N\nअब प्रत्येक विकल्प की जाँच करते हैं:\n(a) क्रिकेट खेलने वाले विद्यार्थियों की संख्या = x + N/6\nचूँकि x का मान नहीं दिया गया है, अतः इसे निर्धारित नहीं किया जा सकता।\n(b) केवल फुटबॉल खेलने वाले विद्यार्थियों की संख्या = y\nपुनः, y का निश्चित मान ज्ञात नहीं है। अतः इसे निर्धारित नहीं किया जा सकता।\n(c) केवल फुटबॉल खेलने वाले विद्यार्थियों की संख्या = N/3\nयह भी निश्चित नहीं है।\nइसलिये, विकल्प (a), (b) और (c) में से किसी भी संख्या को ज्ञात नहीं किया जा सकता।\nअतः विकल्प (d) सही है।",
+      "en": "Let the number of students be N.\nCricket only = x\nFootball only = y\nBoth cricket and football = N/6\nSo, x + y + N/6 = N\nNow check each option\n(a) Students who play cricket = x + N/6\nSince x is not given, this cannot be determined.\n(b) students who play football only = y\nAgain, y is not fixed. So, it cannot be determined.\n(c) Football only = N/3\nThis is also not fixed\nTherefore, none of the options a, b, and c can be found.\nHence, option (d) is correct."
     }
   },
   {
@@ -1288,8 +1288,8 @@
     ],
     "correctAnswer": "B",
     "explanation": {
-      "hi": "लिखित परीक्षा में असफल = 100 - 84 = 16%\nकौशल परीक्षण में असफल = 100 - 76 = 24%\nदोनों चरणों में असफल = 9%\nअतः, केवल लिखित परीक्षा में असफल अभ्यर्थी = 16 - 9 = 7%\nकेवल कौशल परीक्षण में असफल अभ्यर्थी = 24 - 9 = 15%\nअतः, दोनों चरणों में से किसी एक चरण में असफल होने वाले = 7% + 15% = 22%\nअतः विकल्प (b) सही है।[cite: 2]",
-      "en": "Failed in the written examination = 100 - 84 = 16%\nFailed in the skill test = 100 - 76 = 24%\nFailed in both stages = 9%\nSo, failed only in the written examination = 16 - 9 = 7%\nFailed only in the skill test = 24 - 9 = 15%\nSo, candidates who failed in exactly one of the two stages = 7 + 15 = 22%\nHence, option (b) is correct.[cite: 2]"
+      "hi": "लिखित परीक्षा में असफल = 100 - 84 = 16%\nकौशल परीक्षण में असफल = 100 - 76 = 24%\nदोनों चरणों में असफल = 9%\nअतः, केवल लिखित परीक्षा में असफल अभ्यर्थी = 16 - 9 = 7%\nकेवल कौशल परीक्षण में असफल अभ्यर्थी = 24 - 9 = 15%\nअतः, दोनों चरणों में से किसी एक चरण में असफल होने वाले = 7% + 15% = 22%\nअतः विकल्प (b) सही है।",
+      "en": "Failed in the written examination = 100 - 84 = 16%\nFailed in the skill test = 100 - 76 = 24%\nFailed in both stages = 9%\nSo, failed only in the written examination = 16 - 9 = 7%\nFailed only in the skill test = 24 - 9 = 15%\nSo, candidates who failed in exactly one of the two stages = 7 + 15 = 22%\nHence, option (b) is correct."
     }
   },
   {
@@ -1328,8 +1328,8 @@
     ],
     "correctAnswer": "D",
     "explanation": {
-      "hi": "मान लेते हैं कि B एक निश्चित स्थान पर बैठा है।\nचूँकि A और C, B के निकटतम पड़ोसी हैं तथा A से दक्षिणावर्त दिशा में चलते हुए C, D से पहले आता है, इसलिये व्यवस्था इस प्रकार प्रारंभ होती है:\nA - B - C\nअब, D और C दोनों, E के निकटतम पड़ोसी हैं।\nचूँकि E का एक पड़ोसी पहले से ही C है, इसलिये E का दूसरा पड़ोसी D होगा।\nअतः व्यवस्था होगी:\nA - B - C - E - D\nअब, E, H के ठीक विपरीत बैठा है। इसलिये H, E के विपरीत स्थान पर बैठेगा।\nअंततः F और H दोनों, G के निकटतम पड़ोसी हैं। इससे शेष स्थानों पर G और F की स्थिति निश्चित हो जाती है।\nअंतिम दक्षिणावर्त व्यवस्था है:\nB - C - E - D - F - G - H - A\nअब, B से H की ओर दक्षिणावर्त दिशा में चलते हैं;\nH तक पहुँचने से पहले पार किये जाने वाले अधिकारी हैं: C, E, D, F और G अर्थात कुल 5 अधिकारी।\nअतः विकल्प (d) सही है।[cite: 2]",
-      "en": "Let us assume B occupies a fixed seat.\nSince A and C are adjacent to B, and moving clockwise from A. we meet c before D, the arrangements begin as:\nA - B - C\nNext, D and C are adjacent to E.\nSince one neighbor of E IS Already C, the other neighbor must be D.\nThus, A - B - C - E - D\nNow, E is directly opposite H. Therefore, H occupies the seat opposite E.\nFinally, F and H are adjacent to G. This uniquely places G and F in the remaining seats.\nThe final clockwise arrangement is:\nB - C - E - D - F - G - H - A\nNow, move clockwise from B to H;\nThe officers crossed before reaching H are C, E, D, F, and G. I.e., 5 officers.\nHence, option (d) is correct.[cite: 2]"
+      "hi": "मान लेते हैं कि B एक निश्चित स्थान पर बैठा है।\nचूँकि A और C, B के निकटतम पड़ोसी हैं तथा A से दक्षिणावर्त दिशा में चलते हुए C, D से पहले आता है, इसलिये व्यवस्था इस प्रकार प्रारंभ होती है:\nA - B - C\nअब, D और C दोनों, E के निकटतम पड़ोसी हैं।\nचूँकि E का एक पड़ोसी पहले से ही C है, इसलिये E का दूसरा पड़ोसी D होगा।\nअतः व्यवस्था होगी:\nA - B - C - E - D\nअब, E, H के ठीक विपरीत बैठा है। इसलिये H, E के विपरीत स्थान पर बैठेगा।\nअंततः F और H दोनों, G के निकटतम पड़ोसी हैं। इससे शेष स्थानों पर G और F की स्थिति निश्चित हो जाती है।\nअंतिम दक्षिणावर्त व्यवस्था है:\nB - C - E - D - F - G - H - A\nअब, B से H की ओर दक्षिणावर्त दिशा में चलते हैं;\nH तक पहुँचने से पहले पार किये जाने वाले अधिकारी हैं: C, E, D, F और G अर्थात कुल 5 अधिकारी।\nअतः विकल्प (d) सही है।",
+      "en": "Let us assume B occupies a fixed seat.\nSince A and C are adjacent to B, and moving clockwise from A. we meet c before D, the arrangements begin as:\nA - B - C\nNext, D and C are adjacent to E.\nSince one neighbor of E IS Already C, the other neighbor must be D.\nThus, A - B - C - E - D\nNow, E is directly opposite H. Therefore, H occupies the seat opposite E.\nFinally, F and H are adjacent to G. This uniquely places G and F in the remaining seats.\nThe final clockwise arrangement is:\nB - C - E - D - F - G - H - A\nNow, move clockwise from B to H;\nThe officers crossed before reaching H are C, E, D, F, and G. I.e., 5 officers.\nHence, option (d) is correct."
     }
   },
   {
@@ -1368,8 +1368,8 @@
     ],
     "correctAnswer": "D",
     "explanation": {
-      "hi": "R को एक निश्चित स्थान पर मान लेते हैं (घूर्णन से कोई प्रभाव नहीं पड़ता)।\nचूँकि Q और S, न तो R के निकटतम स्थानों पर बैठ सकते हैं और न ही R के ठीक विपरीत स्थान पर, इसलिये वे इन तीन स्थानों पर नहीं बैठ सकते।\nT और U के बीच ठीक दो व्यक्ति बैठे हैं, अर्थात वे वृत्त में तीन स्थानों की दूरी पर स्थित होंगे।\nसाथ ही, R, T का निकटतम पड़ोसी है, जिससे T का स्थान निश्चित हो जाता है और परिणामस्वरूप U का स्थान भी निर्धारित हो जाता है।\nअब V को P और W के ठीक बीच में रखते हैं। पूर्ववर्ती सभी शर्तों को पूरा करने के बाद शेष रिक्त क्रमिक स्थानों में केवल एक वैध व्यवस्था संभव होती है।\nएक संभावित व्यवस्था (दक्षिणावर्त दिशा में) है:\nR - T - P - V - W - U - Q - S\nयह व्यवस्था सभी दी गई शर्तों को पूरा करती है, जैसे- Q और S, R के न तो निकटतम पड़ोसी हैं और न ही R के ठीक विपरीत बैठे हैं; T और U के बीच दो व्यक्ति बैठे हैं; V, P और W के ठीक बीच में बैठा है; R, T का निकटतम पड़ोसी है।\nअब, हम पाते हैं कि P, U के नहीं बल्कि Q के विपरीत बैठा है; W, S का निकटतम पड़ोसी नहीं है और Q, V के नहीं बल्कि P के विपरीत बैठा है।\nअतः कोई भी कथन निश्चित रूप से सत्य नहीं है।\nअतः विकल्प (d) सही है।[cite: 2]",
-      "en": "Fix R at any one seat (rotation does not matter)\nSince Q and S are neither adjacent nor opposite to R, they cannot occupy the two adjacent seats or the opposite seat.\nThere are exactly two persons between T and U, so they are separated by three seats along the circle.\nAlso, R is an immediate neighbor of T, which fixes the position of T, and consequently U.\nNow, place V exactly between P and W. the remaining vacant consecutive seats allow only one valid placement after satisfying all previous conditions.\nOne valid arrangement (clockwise) is:\nR - T - P - V - W - U - Q - S\nThis arrangement satisfies every given condition like Q and S are neither adjacent nor opposite to R; two persons lie between T and U; V is exactly between P, and W. R is adjacent to T.\nNow we get P is opposite to Q not U; W is not adjacent to S and Q is opposite to P not V.\nSo, none of the statements is definitely true.\nHence, option (d) is correct.[cite: 2]"
+      "hi": "R को एक निश्चित स्थान पर मान लेते हैं (घूर्णन से कोई प्रभाव नहीं पड़ता)।\nचूँकि Q और S, न तो R के निकटतम स्थानों पर बैठ सकते हैं और न ही R के ठीक विपरीत स्थान पर, इसलिये वे इन तीन स्थानों पर नहीं बैठ सकते।\nT और U के बीच ठीक दो व्यक्ति बैठे हैं, अर्थात वे वृत्त में तीन स्थानों की दूरी पर स्थित होंगे।\nसाथ ही, R, T का निकटतम पड़ोसी है, जिससे T का स्थान निश्चित हो जाता है और परिणामस्वरूप U का स्थान भी निर्धारित हो जाता है।\nअब V को P और W के ठीक बीच में रखते हैं। पूर्ववर्ती सभी शर्तों को पूरा करने के बाद शेष रिक्त क्रमिक स्थानों में केवल एक वैध व्यवस्था संभव होती है।\nएक संभावित व्यवस्था (दक्षिणावर्त दिशा में) है:\nR - T - P - V - W - U - Q - S\nयह व्यवस्था सभी दी गई शर्तों को पूरा करती है, जैसे- Q और S, R के न तो निकटतम पड़ोसी हैं और न ही R के ठीक विपरीत बैठे हैं; T और U के बीच दो व्यक्ति बैठे हैं; V, P और W के ठीक बीच में बैठा है; R, T का निकटतम पड़ोसी है।\nअब, हम पाते हैं कि P, U के नहीं बल्कि Q के विपरीत बैठा है; W, S का निकटतम पड़ोसी नहीं है और Q, V के नहीं बल्कि P के विपरीत बैठा है।\nअतः कोई भी कथन निश्चित रूप से सत्य नहीं है।\nअतः विकल्प (d) सही है।",
+      "en": "Fix R at any one seat (rotation does not matter)\nSince Q and S are neither adjacent nor opposite to R, they cannot occupy the two adjacent seats or the opposite seat.\nThere are exactly two persons between T and U, so they are separated by three seats along the circle.\nAlso, R is an immediate neighbor of T, which fixes the position of T, and consequently U.\nNow, place V exactly between P and W. the remaining vacant consecutive seats allow only one valid placement after satisfying all previous conditions.\nOne valid arrangement (clockwise) is:\nR - T - P - V - W - U - Q - S\nThis arrangement satisfies every given condition like Q and S are neither adjacent nor opposite to R; two persons lie between T and U; V is exactly between P, and W. R is adjacent to T.\nNow we get P is opposite to Q not U; W is not adjacent to S and Q is opposite to P not V.\nSo, none of the statements is definitely true.\nHence, option (d) is correct."
     }
   },
   {
@@ -1411,8 +1411,8 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "हम देख सकते हैं कि C, B और D के बीच बैठा है। अतः CBD आवश्यक संयोजन है। अतः विकल्प (c) सही है।[cite: 2]",
-      "en": "We can see that C is sitting between B and D. So, CBD is the required combination. Hence, option (c) is correct.[cite: 2]"
+      "hi": "हम देख सकते हैं कि C, B और D के बीच बैठा है। अतः CBD आवश्यक संयोजन है। अतः विकल्प (c) सही है।",
+      "en": "We can see that C is sitting between B and D. So, CBD is the required combination. Hence, option (c) is correct."
     }
   },
   {
@@ -1454,8 +1454,8 @@
     ],
     "correctAnswer": "D",
     "explanation": {
-      "hi": "हम स्पष्ट रूप से देख सकते हैं कि H, B के दाईं ओर चौथे स्थान पर बैठा है। अतः विकल्प (d) सही है।[cite: 2]",
-      "en": "We can clearly see that H is fourth to right of B. Hence, option (d) is correct.[cite: 2]"
+      "hi": "हम स्पष्ट रूप से देख सकते हैं कि H, B के दाईं ओर चौथे स्थान पर बैठा है। अतः विकल्प (d) सही है।",
+      "en": "We can clearly see that H is fourth to right of B. Hence, option (d) is correct."
     }
   },
   {
@@ -1505,8 +1505,8 @@
     ],
     "correctAnswer": "B",
     "explanation": {
-      "hi": "दिये गए प्रतिबंधों के अनुसार, A, B, D, E और F की स्थिति केवल आंशिक रूप से निर्धारित की जा सकती है। C, G और H के लिये तीन स्थान शेष रहते हैं, इसलिये अभी C की निश्चित स्थिति ज्ञात नहीं की जा सकती।\nकथन 1: H, G के ठीक दाई ओर बैठा है। शेष स्थानों में G और H की स्थिति अभी भी परस्पर बदल सकती है, इसलिये उन्हें निश्चित रूप से निर्धारित नहीं किया जा सकता। अतः केवल कथन 1 पर्याप्त नहीं है।\nकथन 2: C, D के विपरीत बैठा है। चूँकि D की स्थिति दिये गए प्रतिबंधों से पहले ही निश्चित है, इसलिये D के ठीक विपरीत स्थान भी निश्चित होगा। इस प्रकार, C की स्थिति निश्चित हो जाती है।\nअतः केवल कथन 2 ही पर्याप्त है।\nअतः विकल्प (b) सही है।[cite: 2]",
-      "en": "According to given conditions, the position of A, B, D, E, and F can be determined only partially. Three seats remain available for C, G, and H., so the exact position of C cannot yet be identified.\nStatement 1: H is immediately to the right of G. The position of G and H can still interchange among remaining seats, so cannot be uniquely located. Hence, statement 1 alone is not sufficient.\nStatement 2: C sits opposite D. since D's position is already fixed from the given information; the seat opposite D is uniquely determined. Thus, C's position becomes fixed.\nTherefore, Statement 2 alone is sufficient.\nHence, option (b) is correct.[cite: 2]"
+      "hi": "दिये गए प्रतिबंधों के अनुसार, A, B, D, E और F की स्थिति केवल आंशिक रूप से निर्धारित की जा सकती है। C, G और H के लिये तीन स्थान शेष रहते हैं, इसलिये अभी C की निश्चित स्थिति ज्ञात नहीं की जा सकती।\nकथन 1: H, G के ठीक दाई ओर बैठा है। शेष स्थानों में G और H की स्थिति अभी भी परस्पर बदल सकती है, इसलिये उन्हें निश्चित रूप से निर्धारित नहीं किया जा सकता। अतः केवल कथन 1 पर्याप्त नहीं है।\nकथन 2: C, D के विपरीत बैठा है। चूँकि D की स्थिति दिये गए प्रतिबंधों से पहले ही निश्चित है, इसलिये D के ठीक विपरीत स्थान भी निश्चित होगा। इस प्रकार, C की स्थिति निश्चित हो जाती है।\nअतः केवल कथन 2 ही पर्याप्त है।\nअतः विकल्प (b) सही है।",
+      "en": "According to given conditions, the position of A, B, D, E, and F can be determined only partially. Three seats remain available for C, G, and H., so the exact position of C cannot yet be identified.\nStatement 1: H is immediately to the right of G. The position of G and H can still interchange among remaining seats, so cannot be uniquely located. Hence, statement 1 alone is not sufficient.\nStatement 2: C sits opposite D. since D's position is already fixed from the given information; the seat opposite D is uniquely determined. Thus, C's position becomes fixed.\nTherefore, Statement 2 alone is sufficient.\nHence, option (b) is correct."
     }
   },
   {
@@ -1545,8 +1545,8 @@
     ],
     "correctAnswer": "B",
     "explanation": {
-      "hi": "10 और 15 का लघुत्तम समापवर्त्य (LCM) 30 इकाई है।\nठंडे पानी की पाइप से भरने की दर = 30/10 = 3 इकाई/मिनट\nगर्म पानी के पाइप से भरने की दर = 30/15 = 2 इकाई/मिनट\nअतः, दोनों पाइपों द्वारा संयुक्त रूप से टब भरने की दर = 3 + 2 = 5 इकाई/मिनट\nबिना किसी रिसाव के, टब को भरने में लगने वाला समय = 30/5 = 6 मिनट\nलेकिन 6 मिनट के बाद भी टब पूरा नहीं भरता है, क्योंकि अपशिष्ट (खराब) पाइप खुला हुआ है।\nचूँकि उस समय अपशिष्ट पाइप बंद कर दिया जाता है और टब अगले 4 मिनट में पूरी तरह भर जाता है, अतः अभी आवश्यक पानी की मात्रा = 5 × 4 = 20 इकाई\nइसलिये, पहले 6 मिनट में भरी गई पानी की मात्रा = 30 - 20 = 10 इकाई\nअतः, जब अपशिष्ट पाइप खुला था, तब प्रभावी रूप से भरने की दर: 10 ÷ 6 = 5/3 इकाई/मिनट\nअब, संयुक्त रूप से भरने की दर - अपशिष्ट रूप से पाइप की दर = प्रभावी रूप से भरने की दर\n5 - अपशिष्ट पाइप की दर = 5/3\nअपशिष्ट पाइप की दर = 5 - 5/3 = 10/3 इकाई/मिनट\nइसलिये, केवल अपशिष्ट पाइप द्वारा पूरे भरे हुए टब को खाली करने में लगने वाला समय = 30 / (10/3) = 30 × 3/10 = 9 मिनट\nअतः विकल्प (b) सही है।[cite: 2]",
-      "en": "Take LCM of 10 and 15 = 30 units\nCold pipe fills = 30/10 = 3 units/min\nHot pipe fills = 30/15 = 2 units/min\nSo, both pipes together fill = 3 + 2 = 5 units/min\nWithout any leakage, the tub would be full in 30/5 = 6 minutes\nBut after 6 minutes, the tub is not full because the waste pipe is open.\nSince the waste pipe is closed at that moment and the tub fills completely in next 4 minutes, the amount of water still needed is 5 × 4 = 20 units\nTherefore, in first 6 minutes, only filled = 30 - 20 = 10 units\nHence, effective falling rate while the waste pipe was open was:\n10 ÷ 6 = 5/3 units/min\nNow, Combined filling rate - waste pipe rate = effective filling rate\n5 - waste pipe rate = 5/3\nWaste pipe rate = 5 - 5/3 = 10/3 units/min\nSo, time taken by the waste pipe alone to empty the full tub = 30 / (10/3) = 30 × 3/10 = 9 minutes\nHence, option (b) is correct.[cite: 2]"
+      "hi": "10 और 15 का लघुत्तम समापवर्त्य (LCM) 30 इकाई है।\nठंडे पानी की पाइप से भरने की दर = 30/10 = 3 इकाई/मिनट\nगर्म पानी के पाइप से भरने की दर = 30/15 = 2 इकाई/मिनट\nअतः, दोनों पाइपों द्वारा संयुक्त रूप से टब भरने की दर = 3 + 2 = 5 इकाई/मिनट\nबिना किसी रिसाव के, टब को भरने में लगने वाला समय = 30/5 = 6 मिनट\nलेकिन 6 मिनट के बाद भी टब पूरा नहीं भरता है, क्योंकि अपशिष्ट (खराब) पाइप खुला हुआ है।\nचूँकि उस समय अपशिष्ट पाइप बंद कर दिया जाता है और टब अगले 4 मिनट में पूरी तरह भर जाता है, अतः अभी आवश्यक पानी की मात्रा = 5 × 4 = 20 इकाई\nइसलिये, पहले 6 मिनट में भरी गई पानी की मात्रा = 30 - 20 = 10 इकाई\nअतः, जब अपशिष्ट पाइप खुला था, तब प्रभावी रूप से भरने की दर: 10 ÷ 6 = 5/3 इकाई/मिनट\nअब, संयुक्त रूप से भरने की दर - अपशिष्ट रूप से पाइप की दर = प्रभावी रूप से भरने की दर\n5 - अपशिष्ट पाइप की दर = 5/3\nअपशिष्ट पाइप की दर = 5 - 5/3 = 10/3 इकाई/मिनट\nइसलिये, केवल अपशिष्ट पाइप द्वारा पूरे भरे हुए टब को खाली करने में लगने वाला समय = 30 / (10/3) = 30 × 3/10 = 9 मिनट\nअतः विकल्प (b) सही है।",
+      "en": "Take LCM of 10 and 15 = 30 units\nCold pipe fills = 30/10 = 3 units/min\nHot pipe fills = 30/15 = 2 units/min\nSo, both pipes together fill = 3 + 2 = 5 units/min\nWithout any leakage, the tub would be full in 30/5 = 6 minutes\nBut after 6 minutes, the tub is not full because the waste pipe is open.\nSince the waste pipe is closed at that moment and the tub fills completely in next 4 minutes, the amount of water still needed is 5 × 4 = 20 units\nTherefore, in first 6 minutes, only filled = 30 - 20 = 10 units\nHence, effective falling rate while the waste pipe was open was:\n10 ÷ 6 = 5/3 units/min\nNow, Combined filling rate - waste pipe rate = effective filling rate\n5 - waste pipe rate = 5/3\nWaste pipe rate = 5 - 5/3 = 10/3 units/min\nSo, time taken by the waste pipe alone to empty the full tub = 30 / (10/3) = 30 × 3/10 = 9 minutes\nHence, option (b) is correct."
     }
   },
   {
@@ -1585,8 +1585,8 @@
     ],
     "correctAnswer": "A",
     "explanation": {
-      "hi": "मान लीजिये कि पंप की टंकी भरने की क्षमता x घन मीटर/मिनट है।\nतब टंकी को खाली करने की क्षमता = (x + 10) घन मीटर/मिनट होगी।\nटंकी की क्षमता = 2400 घन मीटर\nटंकी को भरने में लिया गया समय = (2400 / x) मिनट\nटंकी को खाली करने में लिया गया समय = 2400 / (x + 10) मिनट\nप्रश्नानुसार, 2400/x - 2400/(x + 10) = 8\nदोनों पक्षों को x(x + 10) से गुणा करने पर।\n2400(x + 10) - 2400x = 8x(x + 10)\n24000 = 8x(x + 10)\n3000 = x² + 10x\nx² + 10x - 3000 = 0\n(x + 60)(x - 50) = 0\nक्षमता ऋणात्मक नहीं हो सकती है।\nअतः, x = 50\nइसलिये, पंप की टंकी भरने की क्षमता = 50 घन मीटर/मिनट\nअतः विकल्प (a) सही है।[cite: 2]",
-      "en": "Let the filling capacity of the pump be x m³/min\nThen the emptying capacity is (x + 10) m³/min\nCapacity of tank = 2400 m³\nTime taken to fill = (2400 / x) minutes\nTime taken to empty = 2400 / (x + 10) minutes\nAccording to the question,\n2400/x - 2400/(x + 10) = 8\nMultiplying both sides by x(x + 10)\n2400(x + 10) - 2400x = 8x(x + 10)\n24000 = 8x(x + 10)\n3000 = x² + 10x\nx² + 10x - 3000 = 0\n(x + 60)(x - 50) = 0\nCapacity cannot be negative\nSo, x = 50\nTherefore, filling capacity of the pump = 50 m³/min\nHence, option (a) is correct.[cite: 2]"
+      "hi": "मान लीजिये कि पंप की टंकी भरने की क्षमता x घन मीटर/मिनट है।\nतब टंकी को खाली करने की क्षमता = (x + 10) घन मीटर/मिनट होगी।\nटंकी की क्षमता = 2400 घन मीटर\nटंकी को भरने में लिया गया समय = (2400 / x) मिनट\nटंकी को खाली करने में लिया गया समय = 2400 / (x + 10) मिनट\nप्रश्नानुसार, 2400/x - 2400/(x + 10) = 8\nदोनों पक्षों को x(x + 10) से गुणा करने पर।\n2400(x + 10) - 2400x = 8x(x + 10)\n24000 = 8x(x + 10)\n3000 = x² + 10x\nx² + 10x - 3000 = 0\n(x + 60)(x - 50) = 0\nक्षमता ऋणात्मक नहीं हो सकती है।\nअतः, x = 50\nइसलिये, पंप की टंकी भरने की क्षमता = 50 घन मीटर/मिनट\nअतः विकल्प (a) सही है।",
+      "en": "Let the filling capacity of the pump be x m³/min\nThen the emptying capacity is (x + 10) m³/min\nCapacity of tank = 2400 m³\nTime taken to fill = (2400 / x) minutes\nTime taken to empty = 2400 / (x + 10) minutes\nAccording to the question,\n2400/x - 2400/(x + 10) = 8\nMultiplying both sides by x(x + 10)\n2400(x + 10) - 2400x = 8x(x + 10)\n24000 = 8x(x + 10)\n3000 = x² + 10x\nx² + 10x - 3000 = 0\n(x + 60)(x - 50) = 0\nCapacity cannot be negative\nSo, x = 50\nTherefore, filling capacity of the pump = 50 m³/min\nHence, option (a) is correct."
     }
   },
   {
@@ -1625,8 +1625,8 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "चूँकि शीर्ष पर पहुँचने के बाद पर्वतारोही फिसलता नहीं है, इसलिये केवल प्रथम 44 प्रयासों में ही चढ़ाई और फिसलना दोनों शामिल होंगे।\nपर्वतारोही P द्वारा वॉचटावर A पर;\nप्रत्येक पूर्ण प्रयास में शुद्ध वृद्धि = 8 - 3 = 5 सेमी.\n44 प्रयासों के बाद ऊँचाई = 44 × 5 = 220 सेमी.\nअंतिम चढ़ाई = 8 सेमी.\nइसलिये, A की ऊँचाई = 220 + 8 = 228 सेमी.\nपर्वतारोही Q द्वारा वॉचटावर B पर;\nप्रत्येक पूर्ण प्रयास में शुद्ध वृद्धि = 9 - 5 = 4 सेमी.\n44 प्रयासों के बाद ऊँचाई = 44 × 4 = 176 सेमी.\nअंतिम चढ़ाई = 9 सेमी.\nइसलिये, B की ऊँचाई = 176 + 9 = 185 सेमी.\nपर्वतारोही R द्वारा वॉचटावर C पर;\nप्रत्येक पूर्ण प्रयास में शुद्ध वृद्धि = 10 - 4 = 6 सेमी.\n44 प्रयासों के बाद ऊँचाई = 44 × 6 = 264 सेमी.\nअंतिम चढ़ाई = 10 सेमी.\nअतः, C की ऊँचाई = 264 + 10 = 274 सेमी.\nइसलिये, तीनों वॉचटावरों में C की ऊँचाई अधिकतम 274 सेमी. है।\nअतः विकल्प (c) सही है।[cite: 2]",
-      "en": "Since a climber does not slip after reaching the top, only the first 44 attempts include both climbing and slipping.\nOn watchtower A by mountaineer P;\nNet gain per completed attempt = 8 - 3 = 5 cm\nHeight after 44 attempts = 44 × 5 = 220 cm\nFinal climb = 8 cm\nSo, height of A = 220 + 8 = 228 cm\nOn watchtower B by mountaineer Q;\nNet gain per completed attempt = 9 - 5 = 4 cm\nHeight after 44 attempts = 44 × 4 = 176 cm\nFinal climb = 9 cm\nSo, height of B = 176 + 9 = 185 cm\nOn watchtower C by mountaineer R;\nNet gain per completed attempt = 10 - 4 = 6 cm\nHeight after 44 attempts = 44 × 6 = 264 cm\nFinal climb = 10 cm\nSo, height of C = 264 + 10 = 274 cm\nSo, in all three watchtowers C has a maximum height of 274 cm.\nHence, option (c) is correct.[cite: 2]"
+      "hi": "चूँकि शीर्ष पर पहुँचने के बाद पर्वतारोही फिसलता नहीं है, इसलिये केवल प्रथम 44 प्रयासों में ही चढ़ाई और फिसलना दोनों शामिल होंगे।\nपर्वतारोही P द्वारा वॉचटावर A पर;\nप्रत्येक पूर्ण प्रयास में शुद्ध वृद्धि = 8 - 3 = 5 सेमी.\n44 प्रयासों के बाद ऊँचाई = 44 × 5 = 220 सेमी.\nअंतिम चढ़ाई = 8 सेमी.\nइसलिये, A की ऊँचाई = 220 + 8 = 228 सेमी.\nपर्वतारोही Q द्वारा वॉचटावर B पर;\nप्रत्येक पूर्ण प्रयास में शुद्ध वृद्धि = 9 - 5 = 4 सेमी.\n44 प्रयासों के बाद ऊँचाई = 44 × 4 = 176 सेमी.\nअंतिम चढ़ाई = 9 सेमी.\nइसलिये, B की ऊँचाई = 176 + 9 = 185 सेमी.\nपर्वतारोही R द्वारा वॉचटावर C पर;\nप्रत्येक पूर्ण प्रयास में शुद्ध वृद्धि = 10 - 4 = 6 सेमी.\n44 प्रयासों के बाद ऊँचाई = 44 × 6 = 264 सेमी.\nअंतिम चढ़ाई = 10 सेमी.\nअतः, C की ऊँचाई = 264 + 10 = 274 सेमी.\nइसलिये, तीनों वॉचटावरों में C की ऊँचाई अधिकतम 274 सेमी. है।\nअतः विकल्प (c) सही है।",
+      "en": "Since a climber does not slip after reaching the top, only the first 44 attempts include both climbing and slipping.\nOn watchtower A by mountaineer P;\nNet gain per completed attempt = 8 - 3 = 5 cm\nHeight after 44 attempts = 44 × 5 = 220 cm\nFinal climb = 8 cm\nSo, height of A = 220 + 8 = 228 cm\nOn watchtower B by mountaineer Q;\nNet gain per completed attempt = 9 - 5 = 4 cm\nHeight after 44 attempts = 44 × 4 = 176 cm\nFinal climb = 9 cm\nSo, height of B = 176 + 9 = 185 cm\nOn watchtower C by mountaineer R;\nNet gain per completed attempt = 10 - 4 = 6 cm\nHeight after 44 attempts = 44 × 6 = 264 cm\nFinal climb = 10 cm\nSo, height of C = 264 + 10 = 274 cm\nSo, in all three watchtowers C has a maximum height of 274 cm.\nHence, option (c) is correct."
     }
   },
   {
@@ -1665,8 +1665,8 @@
     ],
     "correctAnswer": "B",
     "explanation": {
-      "hi": "सबसे बड़े पात्र का अधिकतम बार उपयोग करने परः\n404 = 75 × 5 + 29\nपाँच मापों से प्राप्त मात्रा = 75 × 5 = 375 लीटर\nशेष मात्रा = 404 - 375 = 29 लीटर\nअब, 29 = 20 × 1 + 9\nएवं, 9 = 7 × 1 + 2\n2 = 2 × 1\nअतः, 75 लीटर पात्र का उपयोग = 5 बार\n20 लीटर पात्र का उपयोग = 1 बार\n7 लीटर पात्र का उपयोग = 1 बार\n2 लीटर पात्र का उपयोग = 1 बार\nइसलिये, कुल मापों की संख्या = 5 + 1 + 1 + 1 = 8\nअतः विकल्प (b) सही है।[cite: 2]",
-      "en": "Use the largest container as many times as possible.\n404 = 75 × 5 + 29\nFive measurements give = 75 × 5 = 375 litres\nRemaining = 404 - 375 = 29\nNow, 29 = 20 × 1 + 9\nAnd 9 = 7 × 1 + 2\n2 = 2 × 1\nSo, 75 litres container = 5 times\n20 litres container = 1 time\n7 litres container = 1 time\n2 litres container = 1 time\nTherefore, total measurements = 5 + 1 + 1 + 1 = 8\nHence, option (b) is correct.[cite: 2]"
+      "hi": "सबसे बड़े पात्र का अधिकतम बार उपयोग करने परः\n404 = 75 × 5 + 29\nपाँच मापों से प्राप्त मात्रा = 75 × 5 = 375 लीटर\nशेष मात्रा = 404 - 375 = 29 लीटर\nअब, 29 = 20 × 1 + 9\nएवं, 9 = 7 × 1 + 2\n2 = 2 × 1\nअतः, 75 लीटर पात्र का उपयोग = 5 बार\n20 लीटर पात्र का उपयोग = 1 बार\n7 लीटर पात्र का उपयोग = 1 बार\n2 लीटर पात्र का उपयोग = 1 बार\nइसलिये, कुल मापों की संख्या = 5 + 1 + 1 + 1 = 8\nअतः विकल्प (b) सही है।",
+      "en": "Use the largest container as many times as possible.\n404 = 75 × 5 + 29\nFive measurements give = 75 × 5 = 375 litres\nRemaining = 404 - 375 = 29\nNow, 29 = 20 × 1 + 9\nAnd 9 = 7 × 1 + 2\n2 = 2 × 1\nSo, 75 litres container = 5 times\n20 litres container = 1 time\n7 litres container = 1 time\n2 litres container = 1 time\nTherefore, total measurements = 5 + 1 + 1 + 1 = 8\nHence, option (b) is correct."
     }
   },
   {
@@ -1705,8 +1705,8 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "प्रत्येक थैले की क्षमता 756 और 1,134 दोनों को पूर्णतः विभाजित करनी चाहिये।\nअतः, आवश्यक थैलों की क्षमताएँ 756 और 1,134 के उभयनिष्ठ गुणनखंड होंगी।\n1134 = 756 × 1 + 378\n756 = 378 × 2 + 0\nअतः, HCF (378, 1134) = 378\nअब, 378 = 2 × 3³ × 7\nअतः, धनात्मक गुणनखंडों की संख्या है:\n(1 + 1)(3 + 1)(1 + 1) = 2 × 4 × 2 = 16\nइसलिये, थैलों की क्षमताओं के 16 विभिन्न मान हैं।\nअतः विकल्प (c) सही है।[cite: 2]",
-      "en": "The capacity of each bag must exactly divide both 756 and 1,134.\nTherefore, the required bag capacities are the common factor of 756 and 1,134.\n1134 = 756 × 1 + 378\n756 = 378 × 2 + 0\nSo, HCF (378, 1134) = 378\nNow, 378 = 2 × 3³ × 7\nTherefore, the number of positive factors is\n(1 + 1)(3 + 1)(1 + 1) = 2 × 4 × 2 = 16\nSo, there are 16 different bag capacities.\nHence, option (c) is correct.[cite: 2]"
+      "hi": "प्रत्येक थैले की क्षमता 756 और 1,134 दोनों को पूर्णतः विभाजित करनी चाहिये।\nअतः, आवश्यक थैलों की क्षमताएँ 756 और 1,134 के उभयनिष्ठ गुणनखंड होंगी।\n1134 = 756 × 1 + 378\n756 = 378 × 2 + 0\nअतः, HCF (378, 1134) = 378\nअब, 378 = 2 × 3³ × 7\nअतः, धनात्मक गुणनखंडों की संख्या है:\n(1 + 1)(3 + 1)(1 + 1) = 2 × 4 × 2 = 16\nइसलिये, थैलों की क्षमताओं के 16 विभिन्न मान हैं।\nअतः विकल्प (c) सही है।",
+      "en": "The capacity of each bag must exactly divide both 756 and 1,134.\nTherefore, the required bag capacities are the common factor of 756 and 1,134.\n1134 = 756 × 1 + 378\n756 = 378 × 2 + 0\nSo, HCF (378, 1134) = 378\nNow, 378 = 2 × 3³ × 7\nTherefore, the number of positive factors is\n(1 + 1)(3 + 1)(1 + 1) = 2 × 4 × 2 = 16\nSo, there are 16 different bag capacities.\nHence, option (c) is correct."
     }
   },
   {
@@ -1756,8 +1756,8 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "कथन 1; हम P और Q की भराव दर ज्ञात कर सकते हैं। हालाँकि R की खाली करने की दर या R की कितनी पाइपलाइनें खुली हैं, इसकी कोई जानकारी उपलब्ध नहीं है। अतः, कथन 1 अकेले पर्याप्त नहीं है।\nकथन 2; यह R की दर प्रदान करता है, लेकिन यह P और Q के समूहों की भराव दर प्रदान नहीं करता है। अतः, कथन 2 अकेले पर्याप्त नहीं है।\nदोनों कथनों का उपयोग करने पर;\nP के समूह की दर = 80% = 4/5\n24 पाइपलाइनों की दर = (4/5) / 16 = 1/20\nअतः, P की 24 पाइपलाइनें प्रति मिनट जलाशय का 1/20 भाग भरती हैं।\nQ की दर = 30% = 3/10\n12 पाइपलाइनों की दर = (3/10) / 9 = 1/30\nअतः, Q की 12 पाइपलाइनें प्रति मिनट जलाशय का 1/30 भाग भरती हैं।\nR की दर = 45% = 9/20\n18 पाइपलाइनों की दर = (9/20) / 15 = 3/100\nइसके अतिरिक्त,\nP की आधी पाइपलाइनें खुली हैं = 12 पाइपलाइनें\nQ की सभी पाइपलाइनें खुली हैं = 12 पाइपलाइनें\nR की एक-तिहाई पाइपलाइनें खुली हैं = 6 पाइपलाइनें\nकुल भराव दर = 1/2 × 1/20 + 1/30 - 1/3 × 3/100\n= 1/40 + 1/30 - 1/100\n= 29/600 टैंक प्रति मिनट\n75% (3/4) भरने में लगने वाला समय\n(3/4) / (29/600) = 3/4 × 600/29 = 450/29 मिनट\nइसलिये, दोनों कथनों का एक साथ उपयोग करने पर आवश्यक समय को विशिष्ट रूप से निर्धारित किया जा सकता है।\nअतः विकल्प (c) सही है।[cite: 2]",
-      "en": "Statement 1: We can find the filling rate of P and Q. however; there is no information about the emptying rate of R or how many R pipelines are open,\nHence, statement 1 alone is not sufficient.\nStatement 2: This gives rate of R, but it does not provide the filling rates of sets P and Q.\nHence, statement 2 alone is not sufficient.\nUsing both statements;\nRate of set P = 80% = 4/5\nRate of 24 pipelines = (4/5) / 16 = 1/20\nSo, 24 pipelines of P fill 1/20 of the reservoir per minute.\nRate of Q = 30% = 3/10\nRate of 12 pipelines = (3/10) / 9 = 1/30\nSo, 12 pipelines of Q fill 1/30 of the reservoir per minute.\nRate of R = 45% = 9/20\nRate of 18 pipelines = (9/20) / 15 = 3/100\nAlso, Half of P are open = 12 pipelines\nAll Q are open = 12 pipelines\nOne-third of R are open = 6 pipelines\nNet filling rate = 1/2 × 1/20 + 1/30 - 1/3 × 3/100\n= 1/40 + 1/30 - 1/100\n= 29/600 tank per minute\nTime to fill 75% (3/4)\n(3/4) / (29/600) = 3/4 × 600/29 = 450/29 minutes\nThus, using both statements together, the required time can be determined uniquely.\nHence, option (c) is correct.[cite: 2]"
+      "hi": "कथन 1; हम P और Q की भराव दर ज्ञात कर सकते हैं। हालाँकि R की खाली करने की दर या R की कितनी पाइपलाइनें खुली हैं, इसकी कोई जानकारी उपलब्ध नहीं है। अतः, कथन 1 अकेले पर्याप्त नहीं है।\nकथन 2; यह R की दर प्रदान करता है, लेकिन यह P और Q के समूहों की भराव दर प्रदान नहीं करता है। अतः, कथन 2 अकेले पर्याप्त नहीं है।\nदोनों कथनों का उपयोग करने पर;\nP के समूह की दर = 80% = 4/5\n24 पाइपलाइनों की दर = (4/5) / 16 = 1/20\nअतः, P की 24 पाइपलाइनें प्रति मिनट जलाशय का 1/20 भाग भरती हैं।\nQ की दर = 30% = 3/10\n12 पाइपलाइनों की दर = (3/10) / 9 = 1/30\nअतः, Q की 12 पाइपलाइनें प्रति मिनट जलाशय का 1/30 भाग भरती हैं।\nR की दर = 45% = 9/20\n18 पाइपलाइनों की दर = (9/20) / 15 = 3/100\nइसके अतिरिक्त,\nP की आधी पाइपलाइनें खुली हैं = 12 पाइपलाइनें\nQ की सभी पाइपलाइनें खुली हैं = 12 पाइपलाइनें\nR की एक-तिहाई पाइपलाइनें खुली हैं = 6 पाइपलाइनें\nकुल भराव दर = 1/2 × 1/20 + 1/30 - 1/3 × 3/100\n= 1/40 + 1/30 - 1/100\n= 29/600 टैंक प्रति मिनट\n75% (3/4) भरने में लगने वाला समय\n(3/4) / (29/600) = 3/4 × 600/29 = 450/29 मिनट\nइसलिये, दोनों कथनों का एक साथ उपयोग करने पर आवश्यक समय को विशिष्ट रूप से निर्धारित किया जा सकता है।\nअतः विकल्प (c) सही है।",
+      "en": "Statement 1: We can find the filling rate of P and Q. however; there is no information about the emptying rate of R or how many R pipelines are open,\nHence, statement 1 alone is not sufficient.\nStatement 2: This gives rate of R, but it does not provide the filling rates of sets P and Q.\nHence, statement 2 alone is not sufficient.\nUsing both statements;\nRate of set P = 80% = 4/5\nRate of 24 pipelines = (4/5) / 16 = 1/20\nSo, 24 pipelines of P fill 1/20 of the reservoir per minute.\nRate of Q = 30% = 3/10\nRate of 12 pipelines = (3/10) / 9 = 1/30\nSo, 12 pipelines of Q fill 1/30 of the reservoir per minute.\nRate of R = 45% = 9/20\nRate of 18 pipelines = (9/20) / 15 = 3/100\nAlso, Half of P are open = 12 pipelines\nAll Q are open = 12 pipelines\nOne-third of R are open = 6 pipelines\nNet filling rate = 1/2 × 1/20 + 1/30 - 1/3 × 3/100\n= 1/40 + 1/30 - 1/100\n= 29/600 tank per minute\nTime to fill 75% (3/4)\n(3/4) / (29/600) = 3/4 × 600/29 = 450/29 minutes\nThus, using both statements together, the required time can be determined uniquely.\nHence, option (c) is correct."
     }
   },
   {
@@ -1796,8 +1796,8 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "पाइप A, 6 घंटे तक खुला रहता है।\nपाइप B को 2 घंटे बाद खोला जाता है, अतः यह 4 घंटे तक खुला रहता है।\nपाइप C को इसके अतिरिक्त 2 घंटे बाद खोला जाता है, अतः यह 2 घंटे तक खुला रहता है।\nइसलिये, 6/x + 4/(x + 7) + 2/(x + 15) = 1\nx = 9 की जाँच करने परः\n6/9 + 4/(9 + 7) + 2/(9 + 15) = 6/9 + 4/16 + 2/24\n= 2/3 + 1/4 + 1/12\nLCM 12 लेने पर: 8/12 + 3/12 + 1/12 = 12/12 = 1\nअतः पूरी टंकी भर जाती है।\nइसलिये, x = 9 घंटे\nअतः विकल्प (c) सही है।[cite: 2]",
-      "en": "Pipe A remains open for 6 hours.\nPipe B is opened after 2 hours, so it remains open for 4 hours.\nPipe C is opened after another 2 hours, so it remains open for 2 hours.\nTherefore, 6/x + 4/(x + 7) + 2/(x + 15) = 1\nChecking x = 9:\n6/9 + 4/(9 + 7) + 2/(9 + 15) = 6/9 + 4/16 + 2/24\n= 2/3 + 1/4 + 1/12\nTaking LCM 12: = 8/12 + 3/12 + 1/12 = 12/12 = 1\nThus, the entire tank is filled.\nSo, x = 9 hours\nHence, option (c) is correct.[cite: 2]"
+      "hi": "पाइप A, 6 घंटे तक खुला रहता है।\nपाइप B को 2 घंटे बाद खोला जाता है, अतः यह 4 घंटे तक खुला रहता है।\nपाइप C को इसके अतिरिक्त 2 घंटे बाद खोला जाता है, अतः यह 2 घंटे तक खुला रहता है।\nइसलिये, 6/x + 4/(x + 7) + 2/(x + 15) = 1\nx = 9 की जाँच करने परः\n6/9 + 4/(9 + 7) + 2/(9 + 15) = 6/9 + 4/16 + 2/24\n= 2/3 + 1/4 + 1/12\nLCM 12 लेने पर: 8/12 + 3/12 + 1/12 = 12/12 = 1\nअतः पूरी टंकी भर जाती है।\nइसलिये, x = 9 घंटे\nअतः विकल्प (c) सही है।",
+      "en": "Pipe A remains open for 6 hours.\nPipe B is opened after 2 hours, so it remains open for 4 hours.\nPipe C is opened after another 2 hours, so it remains open for 2 hours.\nTherefore, 6/x + 4/(x + 7) + 2/(x + 15) = 1\nChecking x = 9:\n6/9 + 4/(9 + 7) + 2/(9 + 15) = 6/9 + 4/16 + 2/24\n= 2/3 + 1/4 + 1/12\nTaking LCM 12: = 8/12 + 3/12 + 1/12 = 12/12 = 1\nThus, the entire tank is filled.\nSo, x = 9 hours\nHence, option (c) is correct."
     }
   },
   {
@@ -1836,8 +1836,8 @@
     ],
     "correctAnswer": "D",
     "explanation": {
-      "hi": "A का 1 दिन का कार्य = 1/20\nB का 1 दिन का कार्य = 1/30\nA और B द्वारा 1 दिन में किया गया संयुक्त कार्यः\n= 1/20 + 1/30\n20 और 30 का लघुत्तम समापवर्त्य (LCM) = 60\n= 3/60 + 2/60 = 5/60 = 1/12\nA और B मिलकर 1 दिन में कार्य का 1/12 भाग पूरा करते हैं।\nA और B द्वारा 5 दिनों में किया गया कार्य\n= 5 × 1/12 = 5/12\nशेष कार्य = 1 - 5/12 = 7/12\nअब केवल B कार्य करता है।\nB पूरे कार्य को 30 दिनों में पूरा कर सकता है।\nअतः B कार्य के 7/12 भाग को पूरा करेगा = 30 × 7/12\n= 210/12 = 17.5 दिन\nकुल समय = 5 + 17.5 = 22.5 दिन\nइसलिये, पूरा कार्य 22.5 दिनों में पूर्ण हो जाएगा।\nअतः विकल्प (d) सही है।[cite: 2]",
-      "en": "A's 1 day work = 1/20\nB's 1 day work = 1/30\nA and B together do in 1 day:\n= 1/20 + 1/30\nLCM of 20 and 30 = 60\n= 3/60 + 2/60 = 5/60 = 1/12\nSo, A and B together complete 1/12 of the work in 1 day.\nWork done by A and B together in 5 days\n= 5 × 1/12 = 5/12\nRemaining work = 1 - 5/12 = 7/12\nNow only B works.\nB can complete the whole work in 30 days.\nSo, B will complete 7/12 of the work in = 30 × 7/12\n= 210/12 = 17.5 days\nTotal time = 5 + 17.5 = 22.5 days\nSo, the whole work will be completed in 22.5 days.\nHence, option (d) is correct.[cite: 2]"
+      "hi": "A का 1 दिन का कार्य = 1/20\nB का 1 दिन का कार्य = 1/30\nA और B द्वारा 1 दिन में किया गया संयुक्त कार्यः\n= 1/20 + 1/30\n20 और 30 का लघुत्तम समापवर्त्य (LCM) = 60\n= 3/60 + 2/60 = 5/60 = 1/12\nA और B मिलकर 1 दिन में कार्य का 1/12 भाग पूरा करते हैं।\nA और B द्वारा 5 दिनों में किया गया कार्य\n= 5 × 1/12 = 5/12\nशेष कार्य = 1 - 5/12 = 7/12\nअब केवल B कार्य करता है।\nB पूरे कार्य को 30 दिनों में पूरा कर सकता है।\nअतः B कार्य के 7/12 भाग को पूरा करेगा = 30 × 7/12\n= 210/12 = 17.5 दिन\nकुल समय = 5 + 17.5 = 22.5 दिन\nइसलिये, पूरा कार्य 22.5 दिनों में पूर्ण हो जाएगा।\nअतः विकल्प (d) सही है।",
+      "en": "A's 1 day work = 1/20\nB's 1 day work = 1/30\nA and B together do in 1 day:\n= 1/20 + 1/30\nLCM of 20 and 30 = 60\n= 3/60 + 2/60 = 5/60 = 1/12\nSo, A and B together complete 1/12 of the work in 1 day.\nWork done by A and B together in 5 days\n= 5 × 1/12 = 5/12\nRemaining work = 1 - 5/12 = 7/12\nNow only B works.\nB can complete the whole work in 30 days.\nSo, B will complete 7/12 of the work in = 30 × 7/12\n= 210/12 = 17.5 days\nTotal time = 5 + 17.5 = 22.5 days\nSo, the whole work will be completed in 22.5 days.\nHence, option (d) is correct."
     }
   }
 ]
