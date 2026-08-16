@@ -1,0 +1,707 @@
+[
+  {
+    "id": 1,
+    "subject": "Polity",
+    "topic": "मूल कर्तव्य (Fundamental Duties)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इन कर्तव्यों को प्रवर्तित करने के लिये एक विधायी प्रक्रिया दी गई है।",
+        "en": "A legislative process has been provided to enforce these duties."
+      },
+      {
+        "id": 2,
+        "hi": "वे विधिक कर्तव्यों के साथ परस्पर संबंधित हैं।",
+        "en": "They are correlative to legal duties."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों में से कौन-सा/से भारतीय नागरिक के मूल कर्तव्यों के विषय में सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Which of the following statements is/are true of the Fundamental Duties of an Indian citizen?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "मूल कर्तव्यों को प्रवर्तित करने के लिये संविधान में न तो कोई विधायी प्रक्रिया दी गई है और न ही वे विधिक कर्तव्यों के साथ परस्पर संबंधित हैं। अतः विकल्प (D) सही है।[cite: 1]",
+      "en": "There is no legislative process provided in the Constitution to enforce Fundamental Duties, nor are they correlative to legal duties. Hence, option (D) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 2,
+    "subject": "Polity",
+    "topic": "मूल कर्तव्य (Fundamental Duties)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "\"भारत की प्रभुता, एकता और अखंडता की रक्षा करें और उसे अक्षुण्ण रखें।\" यह उपबंध किसमें किया गया है?",
+      "en": "\"To uphold and protect the Sovereignty, Unity and Integrity of India\" is a provision made in the:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "संविधान की उद्देशिका",
+        "en": "Preamble to the Constitution"
+      },
+      {
+        "id": "B",
+        "hi": "राज्य की नीति के निदेशक तत्त्व",
+        "en": "Directive Principles of State Policy"
+      },
+      {
+        "id": "C",
+        "hi": "मूल अधिकार",
+        "en": "Fundamental Rights"
+      },
+      {
+        "id": "D",
+        "hi": "मूल कर्तव्य",
+        "en": "Fundamental Duties"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "भारत की प्रभुता, एकता और अखंडता की रक्षा करने एवं उसे अक्षुण्ण बनाए रखने की बात भारतीय संविधान के भाग 4क के अंतर्गत शामिल किये गए मूल कर्तव्यों के खण्ड में की गई है। ज्ञातव्य है कि अनुच्छेद-51क(ग) में भारत की संप्रभुता, एकता और अखंडता की रक्षा करने का प्रावधान है।[cite: 1]",
+      "en": "The provision to uphold and protect the sovereignty, unity, and integrity of India is mentioned under the section of Fundamental Duties incorporated in Part IVA of the Indian Constitution. Article 51A(c) specifically provides for the protection of India's sovereignty, unity, and integrity.[cite: 1]"
+    }
+  },
+  {
+    "id": 3,
+    "subject": "Polity",
+    "topic": "मूल कर्तव्य (Fundamental Duties)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "मिश्रित संस्कृति की समृद्ध विरासत की रक्षा",
+        "en": "To preserve the rich heritage of our composite culture"
+      },
+      {
+        "id": 2,
+        "hi": "सामाजिक अन्याय से कमज़ोर वर्गों की रक्षा",
+        "en": "To protect the weaker sections from social injustice"
+      },
+      {
+        "id": 3,
+        "hi": "वैज्ञानिक मनोदशा और खोज की भावना का विकास",
+        "en": "To develop the scientific temper and spirit of inquiry"
+      },
+      {
+        "id": 4,
+        "hi": "वैयक्तिक और सामूहिक कार्यकलापों के सभी क्षेत्रों में उत्कृष्टता के लिये प्रयत्न",
+        "en": "To strive towards excellence in all spheres of individual and collective activity"
+      }
+    ],
+    "question": {
+      "hi": "भारतीय संविधान द्वारा प्रदत्त नागरिकों के मूल कर्तव्यों में निम्नलिखित में से क्या है/हैं?\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये:",
+      "en": "Which of the following is/are among the Fundamental Duties of citizens laid down in the Indian Constitution?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "मिश्रित (सामासिक) संस्कृति की गौरवशाली एवं समृद्ध विरासत की रक्षा, वैज्ञानिक मनोदशा और खोज की भावना का विकास तथा व्यक्तिगत और सामूहिक कार्यकलापों के सभी क्षेत्रों में उत्कृष्टता के लिये प्रयत्न आदि सभी मूल कर्तव्यों में शामिल हैं, जबकि सामाजिक अन्याय से कमज़ोर वर्गों की रक्षा का प्रावधान मूल कर्तव्यों में शामिल नहीं है। अतः विकल्प (C) सही है।[cite: 1]",
+      "en": "Preserving the rich heritage of our composite culture, developing a scientific temper and spirit of inquiry, and striving for excellence in all spheres of individual and collective activity are all included in the Fundamental Duties. Protecting weaker sections from social injustice is not included. Hence, option (C) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 4,
+    "subject": "Polity",
+    "topic": "मूल कर्तव्य (Fundamental Duties)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारतीय संविधान के अंतर्गत निम्नलिखित में से कौन-सा मूल कर्तव्य नहीं है?",
+      "en": "Which of the following is not a Fundamental Duty under the Indian Constitution?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "लोक चुनावों में मतदान करना",
+        "en": "To vote in public elections"
+      },
+      {
+        "id": "B",
+        "hi": "वैज्ञानिक प्रवृत्ति विकसित करना",
+        "en": "To develop the scientific temper"
+      },
+      {
+        "id": "C",
+        "hi": "सार्वजनिक संपत्ति की सुरक्षा करना",
+        "en": "To safeguard public property"
+      },
+      {
+        "id": "D",
+        "hi": "संविधान के प्रति निष्ठावान रहना और उसके आदर्शों का सम्मान करना",
+        "en": "To abide by the Constitution and respect its ideals"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "लोक चुनावों में मतदान करना मौलिक कर्तव्यों (अनुच्छेद 51क) के विषयों में शामिल नहीं है। इसके अतिरिक्त सभी विकल्प मौलिक कर्तव्यों के अंतर्गत आते हैं। अतः विकल्प (A) सही है।[cite: 1]",
+      "en": "Voting in public elections is not included in the subjects of Fundamental Duties (Article 51A). Apart from this, all other options fall under Fundamental Duties. Hence, option (A) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 5,
+    "subject": "Polity",
+    "topic": "राज्य की नीति के निदेशक तत्त्व (DPSP)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारतीय संविधान के अंतर्गत धन का केंद्रीकरण किसका उल्लंघन करता है?",
+      "en": "Under the Indian Constitution, concentration of wealth violates:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "समता का अधिकार",
+        "en": "Right to Equality"
+      },
+      {
+        "id": "B",
+        "hi": "राज्य की नीति के निदेशक तत्त्व",
+        "en": "Directive Principles of State Policy"
+      },
+      {
+        "id": "C",
+        "hi": "स्वातन्त्र्य का अधिकार",
+        "en": "Right to Freedom"
+      },
+      {
+        "id": "D",
+        "hi": "कल्याण की अवधारणा",
+        "en": "Concept of Welfare"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "संविधान के भाग-4 में अनुच्छेद-36-51 के मध्य 'राज्य की नीति के निदेशक तत्त्व' वर्णित हैं। भाग-4 के ही अंतर्गत अनुच्छेद-39 के खंड (ग) में प्रावधान है कि राज्य अपनी नीति का विशिष्टतया इस प्रकार संचालन करेगा कि सुनिश्चित रूप से आर्थिक व्यवस्था इस प्रकार चले जिससे धन और उत्पादन-साधनों का सर्वसाधारण के लिये अहितकारी संकेंद्रण न हो। इस प्रकार विकल्प (B) सही उत्तर होगा।[cite: 1]",
+      "en": "Part IV of the Constitution, from Articles 36 to 51, deals with the 'Directive Principles of State Policy'. Article 39(c) under Part IV provides that the State shall direct its policy towards securing that the operation of the economic system does not result in the concentration of wealth and means of production to the common detriment. Thus, option (B) is the correct answer.[cite: 1]"
+    }
+  },
+  {
+    "id": 6,
+    "subject": "Polity",
+    "topic": "राज्य की नीति के निदेशक तत्त्व (DPSP)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के संविधान का कौन-सा भाग कल्याणकारी राज्य के आदर्श की घोषणा करता है?",
+      "en": "Which part of the Constitution of India declares the ideal of a Welfare State?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "राज्य की नीति के निदेशक तत्त्व",
+        "en": "Directive Principles of State Policy"
+      },
+      {
+        "id": "B",
+        "hi": "मूल-अधिकार",
+        "en": "Fundamental Rights"
+      },
+      {
+        "id": "C",
+        "hi": "उद्देशिका",
+        "en": "Preamble"
+      },
+      {
+        "id": "D",
+        "hi": "सातवीं अनुसूची",
+        "en": "Seventh Schedule"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "भारतीय संविधान के भाग-4 (राज्य की नीति के निदेशक तत्त्व) में यह निहित है कि राज्य लोक कल्याण को बढ़ावा देने वाली सामाजिक व्यवस्था सुनिश्चित करेगा। संविधान के अनुच्छेद-38(1) में प्रावधान है कि राज्य ऐसी सामाजिक व्यवस्था की, जिसमें सामाजिक, आर्थिक और राजनीतिक न्याय राष्ट्रीय जीवन की सभी संस्थाओं को अनुप्रमाणित करे, स्थापना और संरक्षण करके लोक कल्याण की अभिवृद्धि का प्रयास करेगा। अतः विकल्प (A) सही उत्तर होगा।[cite: 1]",
+      "en": "It is enshrined in Part IV (Directive Principles of State Policy) of the Indian Constitution that the State shall secure a social order for the promotion of the welfare of the people. Article 38(1) provides that the State shall strive to promote the welfare of the people by securing and protecting a social order in which social, economic, and political justice shall inform all the institutions of the national life. Hence, option (A) is the correct answer.[cite: 1]"
+    }
+  },
+  {
+    "id": 7,
+    "subject": "Polity",
+    "topic": "राज्य की नीति के निदेशक तत्त्व (DPSP)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "वे न्यायालयों द्वारा प्रवर्तनीय होंगे।",
+        "en": "They shall be enforceable by courts."
+      },
+      {
+        "id": 2,
+        "hi": "वे किसी भी न्यायालय द्वारा प्रवर्तनीय नहीं होंगे।",
+        "en": "They shall not be enforceable by any court."
+      },
+      {
+        "id": 3,
+        "hi": "इस भाग में अधिकथित सिद्धांत राज्य के द्वारा कानून बनाने को प्रभावित करेंगे।",
+        "en": "The principles laid down in this part are to influence the making of laws by the State."
+      }
+    ],
+    "question": {
+      "hi": "भारत के संविधान के भाग IV में अंतर्विष्ट प्रावधानों के संदर्भ में, निम्नलिखित कथनों में से कौन-सा/से सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "With reference to the provisions contained in Part IV of the Constitution of India, which of the following statements is/are correct?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 3",
+        "en": "1 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "संविधान के भाग-4 (अनुच्छेद-36-51 तक) में राज्य की नीति के निदेशक तत्त्वों के संबंध में चर्चा की गई है। अनुच्छेद-37 में प्रावधान है कि इस भाग के अंतर्गत उपबंध किसी न्यायालय द्वारा प्रवर्तनीय नहीं होंगे, फिर भी इनमें अधिकथित तत्त्व देश के शासन में मूलभूत हैं एवं विधि बनाने में इन तत्त्वों को लागू करना राज्य का कर्तव्य होगा। अतः कथन 1 गलत है तथा 2 व 3 सही हैं।[cite: 1]",
+      "en": "Part IV of the Constitution (Articles 36 to 51) discusses the Directive Principles of State Policy. Article 37 provides that the provisions contained in this Part shall not be enforceable by any court, but the principles therein laid down are nevertheless fundamental in the governance of the country and it shall be the duty of the State to apply these principles in making laws. Therefore, statement 1 is incorrect, and 2 and 3 are correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 8,
+    "subject": "Polity",
+    "topic": "राज्य की नीति के निदेशक तत्त्व (DPSP)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत में, न्यायपालिका का कार्यपालिका से पृथक्करण, किससे व्यादेशित है?",
+      "en": "In India, separation of judiciary from the executive is enjoined by:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "संविधान की उद्देशिका द्वारा",
+        "en": "The Preamble of the Constitution"
+      },
+      {
+        "id": "B",
+        "hi": "राज्य की नीति के निदेशक तत्त्व द्वारा",
+        "en": "A Directive Principle of State Policy"
+      },
+      {
+        "id": "C",
+        "hi": "सातवीं अनुसूची द्वारा",
+        "en": "The Seventh Schedule"
+      },
+      {
+        "id": "D",
+        "hi": "परंपरागत व्यवहार द्वारा",
+        "en": "Conventional practice"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारत में न्यायपालिका का कार्यपालिका से पृथक्करण, 'राज्य की नीति के निदेशक तत्त्व' द्वारा व्यादेशित है। इसी के अंतर्गत अनुच्छेद-50 के अनुसार, \"राज्य की लोकसेवाओं में, न्यायपालिका को कार्यपालिका से पृथक् करने के लिये राज्य कदम उठाएगा।\"[cite: 1]",
+      "en": "In India, the separation of the judiciary from the executive is enjoined by a 'Directive Principle of State Policy'. Under this, Article 50 states, \"The State shall take steps to separate the judiciary from the executive in the public services of the State.\"[cite: 1]"
+    }
+  },
+  {
+    "id": 9,
+    "subject": "Polity",
+    "topic": "राज्य की नीति के निदेशक तत्त्व (DPSP)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "विधायिका के कृत्यों पर निर्बंधन करते हैं।",
+        "en": "Constitute limitations upon legislative function."
+      },
+      {
+        "id": 2,
+        "hi": "कार्यपालिका के कृत्यों पर निर्बंधन करते हैं।",
+        "en": "Constitute limitations upon executive function."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nभारत के संविधान के संदर्भ में, राज्य की नीति के निदेशक तत्त्व\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWith reference to the Constitution of India, the Directive Principles of State Policy\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "भारत के संविधान के भाग 4 में अनुच्छेद-36 से 51 तक राज्य के नीति-निदेशक सिद्धांतों का वर्णन किया गया है। ये राज्य की शासन व्यवस्था के मूल आधार हैं। इस प्रकार ये सिद्धांत देश के प्रशासकों के लिये एक आचार संहिता प्रस्तुत करते हैं। इन आधारभूत सिद्धांतों का उद्देश्य एक कल्याणकारी राज्य की स्थापना करना है परंतु ये गैर-बाध्यकारी प्रकृति के हैं। साथ ही, ये न तो विधायिका और न ही कार्यपालिका पर किसी प्रकार का निर्बन्धन लगाते हैं। अतः दिये गए विकल्पों में (D) सही है।[cite: 1]",
+      "en": "Part IV of the Constitution of India describes the Directive Principles of State Policy from Articles 36 to 51. They form the basic foundation of the governance of the State. Thus, these principles present a code of conduct for the administrators of the country. The aim of these fundamental principles is to establish a welfare state, but they are of non-binding nature. Also, they do not impose any limitations on either the legislature or the executive. Hence, among the given options, (D) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 10,
+    "subject": "Polity",
+    "topic": "राज्य की नीति के निदेशक तत्त्व (DPSP)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "संविधान के 42वें संशोधन द्वारा, निम्नलिखित में से कौन-सा सिद्धांत राज्य की नीति के निदेशक तत्त्वों में जोड़ा गया था?",
+      "en": "Which of the following principles was added to the Directive Principles of State Policy by the 42nd Amendment to the Constitution?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "पुरुष और स्त्री दोनों के लिये समान कार्य का समान वेतन",
+        "en": "Equal pay for equal work for both men and women"
+      },
+      {
+        "id": "B",
+        "hi": "उद्योगों के प्रबंधन में कामगारों की सहभागिता",
+        "en": "Participation of workers in the management of industries"
+      },
+      {
+        "id": "C",
+        "hi": "काम, शिक्षा और सार्वजनिक सहायता पाने का अधिकार",
+        "en": "Right to work, education and public assistance"
+      },
+      {
+        "id": "D",
+        "hi": "श्रमिकों के लिये निर्वाह-योग्य वेतन एवं काम की मानवीय दशाएँ सुरक्षित करना",
+        "en": "Securing living wage and human conditions of work to workers"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारतीय संविधान का अनुच्छेद-43A उद्योग प्रबंधन में कामगारों की भागीदारी से संबद्ध है और इसका उल्लेख भारतीय संविधान के भाग IV में राज्य के नीति निदेशक तत्त्वों के तहत किया गया है। यह अनुच्छेद-42वें संविधान संशोधन अधिनियम, 1976 के द्वारा सम्मिलित किया गया।[cite: 1]",
+      "en": "Article 43A of the Indian Constitution relates to the participation of workers in the management of industries, and it is mentioned under the Directive Principles of State Policy in Part IV of the Indian Constitution. This Article was added by the 42nd Constitutional Amendment Act, 1976.[cite: 1]"
+    }
+  },
+  {
+    "id": 11,
+    "subject": "Polity",
+    "topic": "राज्य की नीति के निदेशक तत्त्व (DPSP)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के संविधान में 'कल्याणकारी राज्य' का आदर्श किसमें प्रतिष्ठापित है?",
+      "en": "The ideal of 'Welfare State' in the Indian Constitution is enshrined in its:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "उद्देशिका",
+        "en": "Preamble"
+      },
+      {
+        "id": "B",
+        "hi": "राज्य की नीति के निदेशक तत्त्व",
+        "en": "Directive Principles of State Policy"
+      },
+      {
+        "id": "C",
+        "hi": "मूल अधिकार",
+        "en": "Fundamental Rights"
+      },
+      {
+        "id": "D",
+        "hi": "सातवीं अनुसूची",
+        "en": "Seventh Schedule"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारत के संविधान में कल्याणकारी राज्य की संकल्पना का समावेश राज्य की नीति के निदेशक तत्त्वों में किया गया है। 'कल्याणकारी राज्य' से तात्पर्य एक ऐसे राज्य से है जहाँ सामाजिक, आर्थिक एवं राजनैतिक न्याय हो। नीति के निदेशक तत्त्वों में सामाजिक, आर्थिक एवं राजनैतिक न्याय स्थापित करने की बात कही गई है।[cite: 1]",
+      "en": "The concept of a Welfare State in the Constitution of India is included in the Directive Principles of State Policy. A 'Welfare State' implies a state where social, economic, and political justice exists. The Directive Principles talk about establishing social, economic, and political justice.[cite: 1]"
+    }
+  },
+  {
+    "id": 12,
+    "subject": "Polity",
+    "topic": "राज्य की नीति के निदेशक तत्त्व (DPSP)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "ये तत्त्व देश के सामाजिक-आर्थिक लोकतंत्र की व्याख्या करते हैं।",
+        "en": "The principles spell out the socio-economic democracy in the country."
+      },
+      {
+        "id": 2,
+        "hi": "इन तत्त्वों में अन्तर्विष्ट उपबंध किसी न्यायालय द्वारा प्रवर्तनीय (enforceable) नहीं हैं।",
+        "en": "The provisions contained in these Principles are not enforceable by any court."
+      }
+    ],
+    "question": {
+      "hi": "राज्य की नीति के निदेशक तत्त्वों के बारे में निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements regarding the Directive Principles of State Policy:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "अनुच्छेद-37 के अनुसार, इस भाग (अर्थात् भाग 4; अनुच्छेद-36 से 51 तक) के अंतर्गत शामिल उपबंध किसी न्यायालय के द्वारा प्रवर्तनीय नहीं होंगे किंतु फिर भी इनमें अधिकथित तत्त्व देश के शासन में मूलभूत हैं और विधि बनाने में इन तत्त्वों को लागू करना राज्य का कर्त्तव्य होगा।[cite: 1]",
+      "en": "According to Article 37, the provisions contained in this Part (i.e., Part IV; Articles 36 to 51) shall not be enforceable by any court, but the principles therein laid down are nevertheless fundamental in the governance of the country, and it shall be the duty of the State to apply these principles in making laws.[cite: 1]"
+    }
+  },
+  {
+    "id": 13,
+    "subject": "Polity",
+    "topic": "राज्य की नीति के निदेशक तत्त्व (DPSP)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के संविधान में अंतर्राष्ट्रीय शांति और सुरक्षा की अभिवृद्धि का कहाँ उल्लेख है?",
+      "en": "In the Constitution of India, promotion of international peace and security is included in the:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "संविधान की उद्देशिका में",
+        "en": "Preamble to the Constitution"
+      },
+      {
+        "id": "B",
+        "hi": "राज्य की नीति के निदेशक तत्त्वों में",
+        "en": "Directive Principles of State Policy"
+      },
+      {
+        "id": "C",
+        "hi": "मूल कर्त्तव्यों में",
+        "en": "Fundamental Duties"
+      },
+      {
+        "id": "D",
+        "hi": "नौवीं अनुसूची में",
+        "en": "Ninth Schedule"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारत के संविधान में राज्य की नीति के निदेशक तत्त्वों के खण्ड में अंतर्राष्ट्रीय शांति और सुरक्षा की अभिवृद्धि का उल्लेख है। यह प्रावधान भारतीय संविधान में अनुच्छेद-51 के अंतर्गत किया गया है।[cite: 1]",
+      "en": "The promotion of international peace and security is mentioned in the Directive Principles of State Policy section of the Constitution of India. This provision has been made under Article 51 of the Indian Constitution.[cite: 1]"
+    }
+  },
+  {
+    "id": 14,
+    "subject": "Polity",
+    "topic": "राज्य की नीति के निदेशक तत्त्व (DPSP)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के संविधान के उद्देश्यों में से एक के रूप में 'आर्थिक न्याय' का किसमें उपबंध किया गया है?",
+      "en": "'Economic Justice' as one of the objectives of the Indian Constitution has been provided in:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "उद्देशिका और मूल अधिकार",
+        "en": "The Preamble and the Fundamental Rights"
+      },
+      {
+        "id": "B",
+        "hi": "उद्देशिका और राज्य की नीति के निदेशक तत्त्व",
+        "en": "The Preamble and the Directive Principles of State Policy"
+      },
+      {
+        "id": "C",
+        "hi": "मूल अधिकार और राज्य की नीति के निदेशक तत्त्व",
+        "en": "The Fundamental Rights and the Directive Principles of State Policy"
+      },
+      {
+        "id": "D",
+        "hi": "उपर्युक्त में से किसी में नहीं",
+        "en": "None of the above"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारत के संविधान की उद्देशिका एवं राज्य की नीति के निदेशक तत्त्वों में संविधान के उद्देश्यों में से एक के रूप में 'आर्थिक न्याय' का उपबंध किया गया है। उद्देशिका: 'हम भारत के लोग', भारत को एक संपूर्ण प्रभुत्व-सम्पन्न, समाजवादी, पंथनिरपेक्ष, लोकतंत्रात्मक गणराज्य बनाने के लिये तथा उसके समस्त नागरिकों को सामाजिक, आर्थिक और राजनैतिक न्याय...। इसी प्रकार राज्य की नीति के निदेशक तत्त्वों के अंतर्गत अनुच्छेद-38 में आर्थिक न्याय का उपबंध किया गया है।[cite: 1]",
+      "en": "'Economic Justice' as one of the objectives of the Constitution has been provided in the Preamble and the Directive Principles of State Policy of the Constitution of India. The Preamble states: 'We, the people of India, having solemnly resolved to constitute India into a Sovereign Socialist Secular Democratic Republic and to secure to all its citizens: Justice, social, economic and political...'. Similarly, Article 38 under the Directive Principles of State Policy provides for economic justice.[cite: 1]"
+    }
+  },
+  {
+    "id": 15,
+    "subject": "Polity",
+    "topic": "राज्य की नीति के निदेशक तत्त्व (DPSP)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के संविधान के अनुसार निम्नलिखित में से कौन-सा देश के शासन के लिये आधारभूत है?",
+      "en": "According to the Constitution of India, which of the following are fundamental for the governance of the country?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "मूल अधिकार",
+        "en": "Fundamental Rights"
+      },
+      {
+        "id": "B",
+        "hi": "मूल कर्त्तव्य",
+        "en": "Fundamental Duties"
+      },
+      {
+        "id": "C",
+        "hi": "राज्य की नीति के निदेशक तत्त्व",
+        "en": "Directive Principles of State Policy"
+      },
+      {
+        "id": "D",
+        "hi": "मूल अधिकार तथा मूल कर्त्तव्य",
+        "en": "Fundamental Rights and Fundamental Duties"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "भारतीय संविधान के भाग 4 में शामिल राज्य की नीति के निदेशक तत्त्वों (अनुच्छेद-36 से अनुच्छेद-51 तक) को देश के शासन में आधारभूत तत्त्वों के रूप में शामिल किया गया है। अनुच्छेद-37 में स्पष्ट रूप से उल्लेख किया गया है कि भाग 4 में अंतर्विष्ट उपबंध किसी न्यायालय के द्वारा प्रवर्तनीय नहीं होंगे किंतु फिर भी इस भाग में अधिकथित तत्त्व देश के शासन में मूलभूत हैं और विधि बनाने में इन तत्त्वों को लागू करना राज्य का कर्त्तव्य होगा।[cite: 1]",
+      "en": "The Directive Principles of State Policy (from Article 36 to Article 51) included in Part IV of the Indian Constitution have been made fundamental in the governance of the country. Article 37 clearly mentions that the provisions contained in Part IV shall not be enforceable by any court, but the principles therein laid down are nevertheless fundamental in the governance of the country and it shall be the duty of the State to apply these principles in making laws.[cite: 1]"
+    }
+  },
+  {
+    "id": 16,
+    "subject": "Polity",
+    "topic": "राज्य की नीति के निदेशक तत्त्व (DPSP)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारतीय नागरिकों के लिये समान नागरिक (सिविल) संहिता सुरक्षित करना",
+        "en": "Securing for citizens of India a uniform civil code"
+      },
+      {
+        "id": 2,
+        "hi": "ग्राम पंचायतों को संगठित करना",
+        "en": "Organizing village Panchayats"
+      },
+      {
+        "id": 3,
+        "hi": "ग्रामीण क्षेत्रों में कुटीर उद्योगों को प्रोत्साहित करना",
+        "en": "Promoting cottage industries in rural areas"
+      },
+      {
+        "id": 4,
+        "hi": "सभी कर्मकारों के लिये यथोचित अवकाश तथा सांस्कृतिक अवसर सुरक्षित करना",
+        "en": "Securing for all the workers reasonable leisure and cultural opportunities"
+      }
+    ],
+    "question": {
+      "hi": "भारतीय संविधान में प्रतिष्ठापित राज्य की नीति के निदेशक तत्त्वों के अंतर्गत निम्नलिखित प्रावधानों पर विचार कीजिये:\nउपर्युक्त में से कौन-से गांधीवादी सिद्धांत हैं, जो राज्य की नीति के निदेशक तत्त्वों में प्रतिबिंबित होते हैं?",
+      "en": "Consider the following provisions under the Directive Principles of State Policy as enshrined in the Constitution of India:\nWhich of the above are the Gandhian Principles that are reflected in the Directive Principles of State Policy?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 4",
+        "en": "1, 2 and 4 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "उपर्युक्त कथनों में से केवल कथन 2 और 3 ही ऐसे नीति के निदेशक तत्त्व हैं जो गांधीवादी सिद्धांतों से मेल खाते हैं। ज्ञातव्य है कि गांधी जी सामाजिक एवं आर्थिक समानता के पक्षधर थे। उन्होंने कभी भी समान नागरिक संहिता की बात नहीं कही। गांधी जी आत्मनिर्भर ग्रामीण अर्थव्यवस्था के पक्षधर थे। इसके लिये वे ग्रामों में कुटीर उद्योगों को प्रोत्साहित करने के हिमायती थे। इसी प्रकार ग्राम पंचायतों के संगठन की अवधारणा भी गांधीवादी सिद्धांतों से मेल खाती है।[cite: 1]",
+      "en": "Out of the above statements, only statements 2 and 3 are Directive Principles of State Policy that reflect Gandhian principles. Gandhiji was an advocate of social and economic equality. He never advocated for a uniform civil code. Gandhiji favored a self-reliant rural economy. For this, he was an advocate of promoting cottage industries in villages. Similarly, the concept of organizing village panchayats also matches Gandhian principles.[cite: 1]"
+    }
+  }
+]

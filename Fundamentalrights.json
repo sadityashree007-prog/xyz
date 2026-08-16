@@ -1,0 +1,724 @@
+[
+  {
+    "id": 1,
+    "subject": "Polity",
+    "topic": "मूल अधिकार (Fundamental Rights)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत के संविधान में उपबंध: राज्य की लोक सेवा में न्यायपालिका का कार्यपालिका से पृथक्करण - किसके अधीन कथित: राज्य की नीति के निदेशक तत्त्व",
+        "en": "Provision in the Constitution of India: Separation of judiciary from executive in the public services of the State - Stated under: Directive Principles of State Policy"
+      },
+      {
+        "id": 2,
+        "hi": "भारत के संविधान में उपबंध: हमारी सामासिक संस्कृति की समृद्ध विरासत का महत्त्व समझना और उसका परिरक्षण करना - किसके अधीन कथित: मूल कर्त्तव्य",
+        "en": "Provision in the Constitution of India: To value and preserve the rich heritage of our composite culture - Stated under: Fundamental Duties"
+      },
+      {
+        "id": 3,
+        "hi": "भारत के संविधान में उपबंध: कारखानों में 14 वर्ष से कम आयु के बच्चों के नियोजन का निषेध - किसके अधीन कथित: मूल अधिकार",
+        "en": "Provision in the Constitution of India: Prohibition of employment of children below the age of 14 years in factories - Stated under: Fundamental Rights"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये:\nउपर्युक्त युग्मों में से कितने सही सुमेलित हैं?",
+      "en": "Consider the following pairs:\nHow many of the above pairs are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "भाग IV के तहत अनुच्छेद-50, राज्य की नीति के निदेशक तत्त्व राज्य को राज्य की सार्वजनिक सेवाओं में न्यायपालिका को कार्यपालिका से पृथक करने का निर्देश देता है। अतः युग्म I सही सुमेलित है। भाग IV(A) के अंतर्गत अनुच्छेद-51A(f), मौलिक कर्त्तव्य प्रत्येक नागरिक को हमारी समग्र संस्कृति की समृद्ध विरासत को महत्त्व देने और संरक्षित करने के लिये बाध्य करता है। अतः युग्म II सही सुमेलित है। भाग III के अंतर्गत अनुच्छेद-24, मूल अधिकार कारखानों, खदानों या अन्य खतरनाक रोज़गार में 14 वर्ष से कम उम्र के बच्चों के रोज़गार पर प्रतिबंध लगाता है। अतः युग्म III सही सुमेलित है। अतः विकल्प (C) सही है।[cite: 1]",
+      "en": "Under Part IV, Article 50 (DPSP) directs the State to separate the judiciary from the executive in the public services of the State. Hence, Pair I is correctly matched. Under Part IV(A), Article 51A(f) (Fundamental Duties) obliges every citizen to value and preserve the rich heritage of our composite culture. Hence, Pair II is correctly matched. Under Part III, Article 24 (Fundamental Rights) prohibits the employment of children below the age of 14 years in any factory, mine, or other hazardous employment. Hence, Pair III is correctly matched. Therefore, option (C) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 2,
+    "subject": "Polity",
+    "topic": "मूल अधिकार (Fundamental Rights)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के उच्चतम न्यायालय ने निजता के अधिकार को भारत के संविधान के निम्नलिखित में से किस अनुच्छेद के अंतर्गत रखा है?",
+      "en": "Under which of the following Articles of the Constitution of India has the Supreme Court of India placed the Right to Privacy?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अनुच्छेद-15",
+        "en": "Article 15"
+      },
+      {
+        "id": "B",
+        "hi": "अनुच्छेद-16",
+        "en": "Article 16"
+      },
+      {
+        "id": "C",
+        "hi": "अनुच्छेद-19",
+        "en": "Article 19"
+      },
+      {
+        "id": "D",
+        "hi": "अनुच्छेद-21",
+        "en": "Article 21"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "उच्चतम न्यायालय ने वर्ष 2017 में के.एस. पुट्टास्वामी बनाम भारत संघ के ऐतिहासिक निर्णय में गोपनीयता और इसके महत्त्व का वर्णन करते हुए उल्लिखित किया था कि निजता का अधिकार मौलिक एवं अविभाज्य है तथा यह व्यक्ति से जुड़ा हुआ है। अनुच्छेद-21 के अंतर्गत जीवन एवं व्यक्तिगत स्वतंत्रता के अधिकार के आंतरिक भाग के रूप में निजता के अधिकार को संरक्षित किया गया है। अतः विकल्प (D) सही है।[cite: 1]",
+      "en": "The Supreme Court in its landmark judgment in K.S. Puttaswamy vs Union of India (2017), describing privacy and its importance, stated that the right to privacy is fundamental and inalienable and attaches to the person. The right to privacy is protected as an intrinsic part of the right to life and personal liberty under Article 21. Therefore, option (D) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 3,
+    "subject": "Polity",
+    "topic": "मूल अधिकार (Fundamental Rights)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "सारभूत रूप में, 'विधि की सम्यक प्रक्रिया' (Due process of law) का अभिप्राय क्या है?",
+      "en": "In essence, what does 'Due process of law' mean?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "नैसर्गिक न्याय का सिद्धांत",
+        "en": "The principle of natural justice"
+      },
+      {
+        "id": "B",
+        "hi": "विधि द्वारा स्थापित पद्धति",
+        "en": "Procedure established by law"
+      },
+      {
+        "id": "C",
+        "hi": "विधि की निष्पक्ष प्रयुक्ति",
+        "en": "Fair application of law"
+      },
+      {
+        "id": "D",
+        "hi": "विधि के समक्ष समता",
+        "en": "Equality before law"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "सारभूत रूप में 'विधि की सम्यक प्रक्रिया' का अभिप्राय है- नैसर्गिक न्याय का सिद्धांत। नैसर्गिक न्याय के सिद्धांत का उद्देश्य प्रशासनिक और कानूनी कार्यवाही में निष्पक्ष और न्यायपूर्ण निर्णय लेना सुनिश्चित करना है। इसे दो श्रेणियों में वर्गीकृत किया जा सकता है- मूल (पर्याप्त) और प्रक्रियात्मक निष्पक्षता। अतः विकल्प (A) सही है।[cite: 1]",
+      "en": "In essence, 'due process of law' implies the principle of natural justice. The principle of natural justice aims to ensure fair and just decisions in administrative and legal proceedings. It can be classified into two categories - substantive and procedural fairness. Therefore, option (A) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 4,
+    "subject": "Polity",
+    "topic": "मूल अधिकार (Fundamental Rights)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत के संविधान के अनुसार, केंद्र सरकार का यह एक दायित्व है कि वह राज्यों को आंतरिक असुरक्षा से बचाए।",
+        "en": "According to the Constitution of India, it is a duty of the Central Government to protect States from internal disturbances."
+      },
+      {
+        "id": 2,
+        "hi": "भारत का संविधान राज्यों को, निवारक निरोध में रखे जा रहे किसी व्यक्ति को विधिक काउंसिल उपलब्ध कराने से छूट प्रदान करता है।",
+        "en": "The Constitution of India exempts the States from providing legal counsel to a person being held under preventive detention."
+      },
+      {
+        "id": 3,
+        "hi": "आतंकवाद निवारण अधिनियम, 2002 के अनुसार, पुलिस के समक्ष अभियुक्त की संस्वीकृति को साक्ष्य के रूप में प्रयुक्त नहीं किया जा सकता।",
+        "en": "According to the Prevention of Terrorism Act, 2002, confession of the accused before the police cannot be used as evidence."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कितने कथन सही हैं?",
+      "en": "Consider the following statements:\nHow many of the above statements are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "अनुच्छेद-355 के अनुसार, संघ का यह कर्तव्य होगा कि वह प्रत्येक राज्य को बाह्य आक्रमण और आंतरिक असुरक्षा से बचाए। अतः कथन 1 सही है। संविधान का अनुच्छेद-22(1) कानूनी परामर्श के अधिकारों को सुनिश्चित करता है, लेकिन अनुच्छेद-22(3)(B) निवारक निरोध कानून के तहत हिरासत में लिये गए व्यक्तियों से यह अधिकार छीन लेता है। अतः कथन 2 सही है। आतंकवाद निवारण अधिनियम, 2002 (पोटा) ने पुलिस अधिकारियों के समक्ष अभियुक्तों द्वारा दिये गए बयानों को स्वीकार करने का प्रावधान किया था। अतः कथन 3 सही नहीं है। अतः विकल्प (B) सही है।[cite: 1]",
+      "en": "As per Article 355, it shall be the duty of the Union to protect every State against external aggression and internal disturbance. Thus, statement 1 is correct. Article 22(1) ensures the right to legal counsel, but Article 22(3)(b) takes away this right from persons detained under preventive detention laws. Thus, statement 2 is correct. The Prevention of Terrorism Act, 2002 (POTA) had a provision making confessions made by the accused before police officers admissible. Thus, statement 3 is incorrect. Hence, option (B) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 5,
+    "subject": "Polity",
+    "topic": "मूल अधिकार (Fundamental Rights)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारतरत्न और पद्म पुरस्कार भारत के संविधान के अनुच्छेद-18(1) के अंतर्गत उपाधियाँ हैं।",
+        "en": "Bharat Ratna and Padma Awards are titles under Article 18(1) of the Constitution of India."
+      },
+      {
+        "id": 2,
+        "hi": "वर्ष 1954 में प्रारंभ किये गए पद्म पुरस्कारों को केवल एक बार निलंबित किया गया था।",
+        "en": "Padma Awards, which were instituted in the year 1954, were suspended only once."
+      },
+      {
+        "id": 3,
+        "hi": "किसी वर्ष-विशेष में भारतरत्न पुरस्कारों की अधिकतम संख्या पाँच तक सीमित है।",
+        "en": "The number of Bharat Ratna Awards is restricted to a maximum of five in a particular year."
+      }
+    ],
+    "question": {
+      "hi": "भारतरत्न और पद्म पुरस्कारों के संबंध में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-से सही नहीं हैं?",
+      "en": "Consider the following statements in respect of Bharat Ratna and Padma Awards:\nWhich of the above statements are not correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "संविधान का अनुच्छेद-18(1) यह प्रावधान करता है कि राज्य, सेना या विद्या संबंधी सम्मान के सिवाय और कोई उपाधि प्रदान नहीं करेगा। 1995 में बालाजी राघवन मामले में यह स्पष्ट किया गया कि भारतरत्न व पद्म पुरस्कार अनुच्छेद-18(1) में वर्णित उपाधियाँ नहीं हैं। अतः कथन 1 सही नहीं है। वर्ष 1954 में आरंभ किये जाने के पश्चात् पद्म पुरस्कार दो बार (1978-79 व 1993-97) निलंबित किये गए। अतः कथन 2 सही नहीं है। किसी वर्ष-विशेष में अधिकतम 3 भारतरत्न पुरस्कार दिये जा सकते हैं। अतः कथन 3 सही नहीं है। इस प्रकार विकल्प (D) सही है।[cite: 1]",
+      "en": "Article 18(1) provides that no title, not being a military or academic distinction, shall be conferred by the State. In the Balaji Raghavan case (1995), the Supreme Court clarified that Bharat Ratna and Padma awards are not titles within the meaning of Article 18(1). Hence, statement 1 is not correct. Padma Awards were instituted in 1954 and have been suspended twice (1978-79 and 1993-97). Hence, statement 2 is not correct. A maximum of 3 Bharat Ratna awards can be given in a particular year. Hence, statement 3 is not correct. Thus, option (D) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 6,
+    "subject": "Polity",
+    "topic": "मूल अधिकार (Fundamental Rights)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "न्यायिक हिरासत का अर्थ है कि अभियुक्त संबंधित मजिस्ट्रेट की हिरासत में है और ऐसे अभियुक्त को पुलिस स्टेशन के हवालात में रखा जाता है न कि जेल में।",
+        "en": "Judicial custody means an accused is in the custody of the concerned magistrate and such accused is locked up in police station, not in jail."
+      },
+      {
+        "id": 2,
+        "hi": "न्यायिक हिरासत के दौरान, मामले के प्रभारी पुलिस अधिकारी, न्यायालय की अनुमति के बिना संदिग्ध व्यक्ति से पूछताछ नहीं कर सकते।",
+        "en": "During judicial custody, the police officer in charge of the case is not allowed to interrogate the suspect without the approval of the court."
+      }
+    ],
+    "question": {
+      "hi": "भारत के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to India, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारत के संदर्भ में न्यायिक हिरासत का अर्थ है कि अभियुक्त संबंधित मजिस्ट्रेट की हिरासत में है और उसे जेल में रखा जाता है। अतः कथन 1 सही नहीं है। साथ ही, यदि मामले का प्रभारी पुलिस अधिकारी न्यायिक हिरासत के दौरान किसी संदिग्ध व्यक्ति से पूछताछ करना चाहता है तो उसके द्वारा न्यायालय की अनुमति ली जाना अनिवार्य है। अतः कथन 2 सही है। विकल्प (B) सही उत्तर होगा।[cite: 1]",
+      "en": "In the context of India, judicial custody means the accused is in the custody of the concerned magistrate and is lodged in jail, not a police station lockup. Hence, statement 1 is not correct. Also, if the investigating police officer wants to interrogate a suspect during judicial custody, it is mandatory to seek the court's permission. Hence, statement 2 is correct. Option (B) is the correct answer.[cite: 1]"
+    }
+  },
+  {
+    "id": 7,
+    "subject": "Polity",
+    "topic": "मूल अधिकार (Fundamental Rights)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "जब एक कैदी पर्याप्त आधार प्रस्तुत करता है, तो ऐसे कैदी को पैरोल मना नहीं किया जा सकता, क्योंकि वह उसके अधिकार का मामला बन जाता है।",
+        "en": "When a prisoner makes out a sufficient case, parole cannot be denied to such prisoner because it becomes a matter of his/her right."
+      },
+      {
+        "id": 2,
+        "hi": "कैदी को पैरोल पर छोड़ने के लिये राज्य सरकारों के अपने नियम हैं।",
+        "en": "State Governments have their own Prisoners Release on Parole Rules."
+      }
+    ],
+    "question": {
+      "hi": "भारत के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to India, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारत में कारागारों में सज़ा काट रहे बंदियों को पैरोल पर छोड़े जाने की व्यवस्था प्रचलित है। सामान्यतः एक बंदी द्वारा पर्याप्त आधार प्रस्तुत किये जाने पर उसे पैरोल दी जा सकती है। हालाँकि पैरोल पर छोड़े जाना किसी भी प्रकार से बंदी के अधिकार का मामला नहीं है और प्रशासन उसे पैरोल देने से इनकार कर सकता है। अतः कथन 1 सही नहीं है। संविधान की सातवीं अनुसूची के अंतर्गत दी गई राज्य सूची की प्रविष्टि संख्या 4 कारागारों से संबंधित है। इससे यह स्पष्ट है कि पैरोल के नियमों सहित कारागारों से संबंधित विधि बनाना राज्य विधानसभाओं का क्षेत्राधिकार है। अतः कथन 2 सही है।[cite: 1]",
+      "en": "In India, there is a system of releasing prisoners on parole. Generally, parole can be granted if the prisoner presents sufficient grounds. However, release on parole is in no way a matter of right for the prisoner, and the administration can refuse to grant it despite sufficient grounds. Hence, statement 1 is not correct. Under the Seventh Schedule of the Constitution, Entry 4 of the State List relates to prisons. Thus, making rules relating to prisons, including parole rules, falls under the jurisdiction of State Legislatures. Hence, statement 2 is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 8,
+    "subject": "Polity",
+    "topic": "मूल अधिकार (Fundamental Rights)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "कानून को लागू करने के मामले में कोई विधान, जो किसी कार्यपालक अथवा प्रशासनिक प्राधिकारी को अनिर्देशित एवं अनियंत्रित विवेकाधिकार देता है, भारत के संविधान के निम्नलिखित अनुच्छेदों में से किसका उल्लंघन करता है?",
+      "en": "A legislation which confers on the executive or administrative authority an unguided and uncontrolled discretionary power in the matter of application of law violates which one of the following Articles of the Constitution of India?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अनुच्छेद-14",
+        "en": "Article 14"
+      },
+      {
+        "id": "B",
+        "hi": "अनुच्छेद-28",
+        "en": "Article 28"
+      },
+      {
+        "id": "C",
+        "hi": "अनुच्छेद-32",
+        "en": "Article 32"
+      },
+      {
+        "id": "D",
+        "hi": "अनुच्छेद-44",
+        "en": "Article 44"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "भारतीय संविधान के अनुच्छेद-14 में यह प्रावधान है कि राज्य, भारत के राज्यक्षेत्र में किसी व्यक्ति को विधि के समक्ष समता से या विधियों के समान संरक्षण से वंचित नहीं करेगा। यहाँ 'विधि के समक्ष समता' का आशय यह है कि सभी व्यक्ति विधि के दायरे में समान रूप से आएंगे और किसी को भी कोई विशेषाधिकार प्राप्त नहीं होगा। ऐसे में यदि कोई विधान किसी प्राधिकारी को अनिर्देशित एवं अनियंत्रित विवेकाधिकार देता है तो 'विधि के समक्ष समता' के सिद्धांत का उल्लंघन होगा। इस प्रकार विकल्प (A) सही उत्तर होगा।[cite: 1]",
+      "en": "Article 14 of the Indian Constitution provides that the State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India. 'Equality before law' implies the absence of any special privileges and equal subjection of all classes to the ordinary law. Thus, if a legislation confers unguided and uncontrolled discretionary power, it violates the principle of 'equality before law'. Hence, option (A) is the correct answer.[cite: 1]"
+    }
+  },
+  {
+    "id": 9,
+    "subject": "Polity",
+    "topic": "मूल अधिकार (Fundamental Rights)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के संविधान के किस अनुच्छेद के अंतर्गत 'निजता का अधिकार' संरक्षित है?",
+      "en": "Under which Article of the Constitution of India is the 'Right to Privacy' protected?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अनुच्छेद-15",
+        "en": "Article 15"
+      },
+      {
+        "id": "B",
+        "hi": "अनुच्छेद-19",
+        "en": "Article 19"
+      },
+      {
+        "id": "C",
+        "hi": "अनुच्छेद-21",
+        "en": "Article 21"
+      },
+      {
+        "id": "D",
+        "hi": "अनुच्छेद-29",
+        "en": "Article 29"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "24 अगस्त, 2017 को उच्चतम न्यायालय की 9 न्यायाधीशों वाली संवैधानिक पीठ ने 'जस्टिस के.एस. पुट्टास्वामी बनाम भारत संघ' मामले में ऐतिहासिक निर्णय देते हुए 'निजता के अधिकार' को मौलिक अधिकार के रूप में मान्यता दी। न्यायालय ने कहा कि निजता का अधिकार अनुच्छेद-21 के तहत प्रदत्त प्राण और दैहिक स्वतंत्रता के अधिकार के अंतर्भूत (Intrinsic) भाग के रूप में संरक्षित है। अतः विकल्प (C) सही उत्तर होगा।[cite: 1]",
+      "en": "On August 24, 2017, a 9-judge Constitutional Bench of the Supreme Court in the landmark judgment of 'Justice K.S. Puttaswamy vs Union of India' recognized the 'Right to Privacy' as a Fundamental Right. The Court ruled that the right to privacy is protected as an intrinsic part of the right to life and personal liberty under Article 21. Hence, option (C) is the correct answer.[cite: 1]"
+    }
+  },
+  {
+    "id": 10,
+    "subject": "Polity",
+    "topic": "मूल अधिकार (Fundamental Rights)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित मूल अधिकारों के किस संवर्ग में अस्पृश्यता के रूप में किये गए विभेदन के विरुद्ध संरक्षण समाविष्ट है?",
+      "en": "Which one of the following categories of Fundamental Rights incorporates protection against untouchability as a form of discrimination?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "शोषण के विरुद्ध अधिकार",
+        "en": "Right against Exploitation"
+      },
+      {
+        "id": "B",
+        "hi": "स्वतंत्रता का अधिकार",
+        "en": "Right to Freedom"
+      },
+      {
+        "id": "C",
+        "hi": "सांविधानिक उपचार का अधिकार",
+        "en": "Right to Constitutional Remedies"
+      },
+      {
+        "id": "D",
+        "hi": "समता का अधिकार",
+        "en": "Right to Equality"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "संविधान में 'समता का अधिकार' अनुच्छेद-14 से अनुच्छेद-18 में निहित है। इसी के अंतर्गत अनुच्छेद-17 में प्रावधान है कि 'अस्पृश्यता का अंत किया जाता है और उसका किसी भी रूप में आचरण निषिद्ध किया जाता है।' अतः विकल्प (D) सही है।[cite: 1]",
+      "en": "The 'Right to Equality' is enshrined in Articles 14 to 18 of the Constitution. Under this, Article 17 provides for the abolition of untouchability and forbids its practice in any form. Hence, option (D) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 11,
+    "subject": "Polity",
+    "topic": "मूल अधिकार (Fundamental Rights)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उद्देशिका",
+        "en": "Preamble"
+      },
+      {
+        "id": 2,
+        "hi": "राज्य की नीति के निदेशक तत्त्व",
+        "en": "Directive Principles of State Policy"
+      },
+      {
+        "id": 3,
+        "hi": "मूल कर्त्तव्य",
+        "en": "Fundamental Duties"
+      }
+    ],
+    "question": {
+      "hi": "मूल अधिकारों के अतिरिक्त, भारत के संविधान का निम्नलिखित में से कौन-सा/से भाग मानव अधिकारों की सार्वभौम घोषणा 1948 (Universal Declaration of Human Rights 1948) के सिद्धांतों एवं प्रावधानों को प्रतिबिंबित करता/करते है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Other than the Fundamental Rights, which of the following parts of the Constitution of India reflect/reflects the principles and provisions of the Universal Declaration of Human Rights (1948)?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "'मानव अधिकारों की सार्वभौम घोषणा, 1948' प्रत्येक मनुष्य की समानता और गरिमा को स्थापित करती है। भारत के संविधान में 'प्रस्तावना' के उद्देश्य जैसे न्याय, समानता आदि घोषणा के सिद्धांतों को दर्शाते हैं। निदेशक सिद्धांत सामाजिक और आर्थिक न्याय प्रदान करने के उद्देश्य से हैं और मानव अधिकारों के अनुरूप हैं। मौलिक कर्त्तव्यों के अंतर्गत अनुच्छेद-51क (ञ) व घोषणा का अनुच्छेद-29 व्यक्ति द्वारा सामुदायिक दायित्व निभाते हुए व्यक्तिगत विकास किये जाने की बात कहते हैं। अतः तीनों सही हैं।[cite: 1]",
+      "en": "The Universal Declaration of Human Rights, 1948 establishes the equality and dignity of every human being. The objectives of the Preamble like justice, equality etc. reflect these principles. DPSPs aim to provide social and economic justice and are in line with human rights. Under Fundamental Duties, Article 51A(j) and Article 29 of the Declaration talk about individual development while fulfilling community responsibilities. Hence, all three are correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 12,
+    "subject": "Polity",
+    "topic": "मूल अधिकार (Fundamental Rights)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के संविधान का कौन-सा अनुच्छेद अपनी पसंद के व्यक्ति से विवाह करने के किसी व्यक्ति के अधिकार को संरक्षण देता है?",
+      "en": "Which Article of the Constitution of India safeguards one's right to marry the person of one's choice?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अनुच्छेद-19",
+        "en": "Article 19"
+      },
+      {
+        "id": "B",
+        "hi": "अनुच्छेद-21",
+        "en": "Article 21"
+      },
+      {
+        "id": "C",
+        "hi": "अनुच्छेद-25",
+        "en": "Article 25"
+      },
+      {
+        "id": "D",
+        "hi": "अनुच्छेद-29",
+        "en": "Article 29"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "उच्चतम न्यायालय ने 'हादिया वाद' के निर्णय में कहा कि अनुच्छेद-21 अपनी पसंद के व्यक्ति से विवाह करने के किसी व्यक्ति के अधिकार को संरक्षण प्रदान करता है।[cite: 1]",
+      "en": "In the 'Hadiya case' judgment, the Supreme Court held that Article 21 protects an individual's right to marry a person of their choice.[cite: 1]"
+    }
+  },
+  {
+    "id": 13,
+    "subject": "Polity",
+    "topic": "मूल अधिकार (Fundamental Rights)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निजता के अधिकार को जीवन एवं व्यक्तिगत स्वतन्त्रता के अधिकार के अंतर्भूत भाग के रूप में संरक्षित किया जाता है। भारत के संविधान में निम्नलिखित में से किससे उपर्युक्त कथन सही एवं समुचित ढंग से अर्थित होता है?",
+      "en": "Right to Privacy is protected as an intrinsic part of Right to Life and Personal Liberty. Which of the following in the Constitution of India correctly and appropriately imply the above statement?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अनुच्छेद-14 एवं संविधान के 42वें संशोधन के अधीन उपबंध",
+        "en": "Article 14 and the provisions under the 42nd Amendment to the Constitution."
+      },
+      {
+        "id": "B",
+        "hi": "अनुच्छेद-17 एवं भाग IV में दिये राज्य की नीति के निदेशक तत्त्व",
+        "en": "Article 17 and the Directive Principles of State Policy in Part IV."
+      },
+      {
+        "id": "C",
+        "hi": "अनुच्छेद-21 एवं भाग III में गारंटी की गई स्वतंत्रताएँ",
+        "en": "Article 21 and the freedoms guaranteed in Part III."
+      },
+      {
+        "id": "D",
+        "hi": "अनुच्छेद-24 एवं संविधान के 44वें संशोधन के अधीन उपबंध",
+        "en": "Article 24 and the provisions under the 44th Amendment to the Constitution."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "सुप्रीम कोर्ट के अनुसार, निजता का अधिकार एक मौलिक अधिकार है, जिसे भारतीय संविधान के अनुच्छेद-21 के अंतर्गत संरक्षण प्राप्त है। अगस्त 2017 में सुप्रीम कोर्ट ने कहा कि निजता का अधिकार अनुच्छेद 21 के तहत जीवन और व्यक्तिगत स्वतंत्रता के अधिकार का एक सह-उत्पाद है।[cite: 1]",
+      "en": "According to the Supreme Court, the Right to Privacy is a fundamental right protected under Article 21 of the Indian Constitution. In August 2017, the Supreme Court ruled that the right to privacy is an intrinsic part of the right to life and personal liberty under Article 21 and the freedoms guaranteed in Part III.[cite: 1]"
+    }
+  },
+  {
+    "id": 14,
+    "subject": "Polity",
+    "topic": "मूल अधिकार (Fundamental Rights)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित कथनों में से कौन-सा एक सही है?",
+      "en": "Which one of the following statements is correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अधिकार नागरिकों के विरुद्ध राज्य के दावे हैं।",
+        "en": "Rights are claims of the State against the citizens."
+      },
+      {
+        "id": "B",
+        "hi": "अधिकार वे विशेषाधिकार हैं जो किसी राज्य के संविधान में समाविष्ट हैं।",
+        "en": "Rights are privileges which are incorporated in the Constitution of a State."
+      },
+      {
+        "id": "C",
+        "hi": "अधिकार राज्य के विरुद्ध नागरिकों के दावे हैं।",
+        "en": "Rights are claims of the citizens against the State."
+      },
+      {
+        "id": "D",
+        "hi": "अधिकार अधिकांश लोगों के विरुद्ध कुछ नागरिकों के विशेषाधिकार हैं।",
+        "en": "Rights are privileges of a few citizens against the many."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "नागरिक अधिकारों का अर्थ वे मूल स्वतंत्रताएँ हैं जिनका उपयोग नागरिक कर सकता है और यदि इन अधिकारों के उपयोग में बाधा उत्पन्न हो तो वह न्यायालयों की सहायता ले सकता है। अतः स्पष्ट है कि अधिकार राज्य के विरुद्ध नागरिकों के दावे हैं।[cite: 1]",
+      "en": "Civil rights mean those fundamental freedoms that a citizen can enjoy, and if there is any hindrance, they can seek the help of courts. Hence, it is clear that rights are claims of the citizens against the State.[cite: 1]"
+    }
+  },
+  {
+    "id": 15,
+    "subject": "Polity",
+    "topic": "मूल अधिकार (Fundamental Rights)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के संदर्भ में, निम्नलिखित में से कौन-सा अधिकारों और कर्त्तव्यों के बीच सही संबंध है?",
+      "en": "In the context of India, which one of the following is the correct relationship between Rights and Duties?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अधिकार कर्त्तव्यों के साथ सह-संबंधित हैं।",
+        "en": "Rights are correlative with Duties."
+      },
+      {
+        "id": "B",
+        "hi": "अधिकार व्यक्तिगत हैं अतः समाज और कर्त्तव्यों से स्वतंत्र हैं।",
+        "en": "Rights are personal and hence independent of society and Duties."
+      },
+      {
+        "id": "C",
+        "hi": "नागरिक के व्यक्तित्व के विकास के लिये अधिकार, न कि कर्त्तव्य, महत्त्वपूर्ण हैं।",
+        "en": "Rights, not Duties, are important for the advancement of the personality of the citizen."
+      },
+      {
+        "id": "D",
+        "hi": "राज्य के स्थायित्व के लिये कर्त्तव्य, न कि अधिकार, महत्त्वपूर्ण हैं।",
+        "en": "Duties, not Rights, are important for the stability of the State."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "भारतीय परंपरा में अधिकार एवं कर्त्तव्य सहगामी एवं परस्पर पूरक माने जाते हैं। अतः ये सह-संबंधित होते हैं। भारतीय संविधान में यद्यपि मूल अधिकारों की तरह मूल कर्त्तव्यों को प्रवर्तनीय नहीं किया गया है, लेकिन ऐसी अपेक्षा रहती है कि नागरिक अधिकारों के साथ-साथ कर्त्तव्यों के प्रति भी सजग रहे।[cite: 1]",
+      "en": "In the Indian tradition, rights and duties are considered concurrent and complementary. Thus, they are correlative. Although fundamental duties are not enforceable like fundamental rights in the Indian Constitution, it is expected that citizens remain vigilant towards their duties along with their rights.[cite: 1]"
+    }
+  },
+  {
+    "id": 16,
+    "subject": "Polity",
+    "topic": "मूल अधिकार (Fundamental Rights)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "मानव देह व्यापार और बंधुआ मज़दूरी (बेगारी) का निषेध",
+        "en": "Prohibition of traffic in human beings and forced labour"
+      },
+      {
+        "id": 2,
+        "hi": "अस्पृश्यता का उन्मूलन",
+        "en": "Abolition of untouchability"
+      },
+      {
+        "id": 3,
+        "hi": "अल्पसंख्यकों के हितों की सुरक्षा",
+        "en": "Protection of the interests of minorities"
+      },
+      {
+        "id": 4,
+        "hi": "कारखानों और खदानों में बच्चों के नियोजन का निषेध",
+        "en": "Prohibition of employment of children in factories and mines"
+      }
+    ],
+    "question": {
+      "hi": "भारत के संविधान में 'शोषण के विरुद्ध अधिकार' द्वारा निम्नलिखित में से कौन-से परिकल्पित हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Which of the following are envisaged by the 'Right against Exploitation' in the Constitution of India?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 4",
+        "en": "1, 2 and 4 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 4",
+        "en": "1 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "शोषण के विरुद्ध अधिकार (अनुच्छेद-23 व 24) के अंतर्गत 'मानव दुर्व्यापार एवं बलात् श्रम का निषेध' तथा कारखानों आदि में बालकों के नियोजन का निषेध सम्मिलित है। अतः विकल्प (C) सही है।[cite: 1]",
+      "en": "The Right against Exploitation (Articles 23 and 24) includes the 'Prohibition of traffic in human beings and forced labour' and the prohibition of employment of children in factories, etc. Hence, option (C) is correct.[cite: 1]"
+    }
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "id": 1,
+    "year": "2024",
+    "subject": "Polity",
+    "topic": "न्यायपालिका (Judiciary)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "प्रतिषेध रिट उच्चतम न्यायालय या उच्च न्यायालयों द्वारा किसे और किस प्रयोजन से जारी किया गया एक आदेश है?",
+      "en": "A writ of Prohibition is an order issued by the Supreme Court or High Courts to whom and for what purpose?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "किसी सरकारी अधिकारी को, उसे किसी विशिष्ट कार्रवाई करने से प्रतिषेध करने के लिये",
+        "en": "To a government officer, to prohibit him from taking a particular action"
+      },
+      {
+        "id": "B",
+        "hi": "संसद/विधानसभा को, मद्यनिषेध पर कोई विधि पारित करने के लिये",
+        "en": "To the Parliament/Legislative Assembly, to pass a law on prohibition of liquor"
+      },
+      {
+        "id": "C",
+        "hi": "निचली अदालत को, किसी मामले में कार्यवाही जारी रखने का प्रतिषेध करने के लिये",
+        "en": "To a lower court, to prohibit it from continuing proceedings in a case"
+      },
+      {
+        "id": "D",
+        "hi": "सरकार को, उसे किसी असंवैधानिक नीति का अनुपालन करने से प्रतिषेध करने के लिये",
+        "en": "To the Government, to prohibit it from following an unconstitutional policy"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "प्रतिषेध का शाब्दिक अर्थ है 'निषेध करना'। यह उच्च न्यायालय द्वारा निचली अदालत या न्यायाधिकरण को उसके अधिकार क्षेत्र से बाहर जाने या उसके अधिकार क्षेत्र का अतिक्रमण करने से रोकने के लिये जारी किया जाता है। इस प्रकार, गतिविधि को निर्देशित करने वाले परमादेश के विपरीत, प्रतिषेध निष्क्रियता को निर्देशित करता है। अतः विकल्प (C) सही है।[cite: 1]",
+      "en": "The literal meaning of Prohibition is 'to forbid'. It is issued by a higher court to a lower court or tribunal to prevent the latter from exceeding its jurisdiction or usurping a jurisdiction that it does not possess. Thus, unlike mandamus that directs activity, the prohibition directs inactivity. Hence, option (C) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 2,
+    "year": "2023",
+    "subject": "Polity",
+    "topic": "न्यायपालिका (Judiciary)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत के उच्चतम न्यायालय ने अपने कतिपय निर्णयों में यह विचारण किया है कि भारत के संविधान के अनुच्छेद-16(4) के अधीन बनाई गई आरक्षण नीतियाँ प्रशासन की दक्षता को बनाए रखने के लिये अनुच्छेद-335 द्वारा सीमित होंगी।",
+        "en": "The Supreme Court of India has held in some judgments that the reservation policies made under Article 16(4) of the Constitution of India would be limited by Article 335 for maintenance of efficiency of administration."
+      },
+      {
+        "id": 2,
+        "hi": "भारत के संविधान का अनुच्छेद-335 'प्रशासन की दक्षता' पद को परिभाषित करता है।",
+        "en": "Article 335 of the Constitution of India defines the term 'efficiency of administration'."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों के बारे में, निम्नलिखित में से कौन-सा एक सही है?",
+      "en": "Consider the following statements:\nWhich one of the following is correct in respect of the above statements?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कथन-I और कथन-II दोनों सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+        "en": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I."
+      },
+      {
+        "id": "B",
+        "hi": "कथन-I और कथन-II दोनों सही हैं तथा कथन-II, कथन-I की सही व्याख्या नहीं है।",
+        "en": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I."
+      },
+      {
+        "id": "C",
+        "hi": "कथन-I सही है किंतु कथन-II गलत है।",
+        "en": "Statement-I is correct but Statement-II is incorrect."
+      },
+      {
+        "id": "D",
+        "hi": "कथन-I गलत है किंतु कथन-II सही है।",
+        "en": "Statement-I is incorrect but Statement-II is correct."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "न्यायालय ने कई निर्णय दिए हैं (इन्दिरा साहनी मामला 1993, एम. नागराज मामला 2006) कि संविधान के अनुच्छेद-16(4) के तहत बनाई गई आरक्षण नीतियाँ अनुच्छेद-335 द्वारा सीमित होंगी जो 'प्रशासन की दक्षता' बनाए रखने का प्रावधान करती हैं। अतः कथन I सही है। ऐसा तब किया गया है जबकि संविधान 'प्रशासन की दक्षता' पद को परिभाषित नहीं करता है। अतः कथन II सही नहीं है। अतः विकल्प (C) सही है।[cite: 1]",
+      "en": "The Supreme Court has held in several judgments (Indra Sawhney case 1993, M. Nagaraj case 2006) that the reservation policies made under Article 16(4) of the Constitution would be limited by Article 335 which provides for the 'maintenance of efficiency of administration'. Thus, Statement I is correct. However, the Constitution does not define the term 'efficiency of administration'. Thus, Statement II is incorrect. Hence, option (C) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 3,
+    "year": "2022",
+    "subject": "Polity",
+    "topic": "न्यायपालिका (Judiciary)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "एच.एन. सान्याल समिति की रिपोर्ट के अनुसरण में, न्यायालय की अवमानना अधिनियम, 1971 पारित किया गया था।",
+        "en": "Pursuant to the report of H.N. Sanyal Committee, the Contempt of Courts Act, 1971 was passed."
+      },
+      {
+        "id": 2,
+        "hi": "भारत का संविधान उच्चतम न्यायालय और उच्च न्यायालयों को, अपनी अवमानना के लिए दंड देने हेतु, शक्ति प्रदान करता है।",
+        "en": "The Constitution of India empowers the Supreme Court and the High Courts to punish for contempt of themselves."
+      },
+      {
+        "id": 3,
+        "hi": "भारत का संविधान सिविल अवमानना और आपराधिक अवमानना को परिभाषित करता है।",
+        "en": "The Constitution of India defines Civil Contempt and Criminal Contempt."
+      },
+      {
+        "id": 4,
+        "hi": "भारत में, न्यायालय की अवमानना के विषय में कानून बनाने के लिए संसद में शक्ति निहित है।",
+        "en": "In India, the Parliament is vested with the power to make laws on Contempt of Court."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "1, 2 और 4",
+        "en": "1, 2 and 4"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3 और 4",
+        "en": "3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "सत्यपाल समिति द्वारा तैयार किये गए 1963 के विधेयक का संसद की संयुक्त समिति (भार्गव समिति) द्वारा पुनर्विलोकन किया गया था, जिसके आधार पर न्यायालय की अवमानना अधिनियम, 1971 अधिनियमित किया गया था। (एच.एन. सान्याल समिति की रिपोर्ट के अनुसरण में)। अतः कथन 1 सही है। संविधान के अनुच्छेद-129 ने उच्चतम न्यायालय को और अनुच्छेद-215 ने उच्च न्यायालयों को स्वयं की अवमानना के लिये दंडित करने की शक्ति प्रदान की। अतः कथन 2 सही है। अभिव्यक्ति 'अदालत की अवमानना' को संविधान द्वारा परिभाषित नहीं किया गया है (इसे न्यायालय की अवमानना अधिनियम 1971 में परिभाषित किया गया है)। अतः कथन 3 सही नहीं है। अवमानना के लिये दंड देने की शक्ति उच्चतम न्यायालय में निहित एक संवैधानिक शक्ति है जिसे विधायी अधिनियम द्वारा भी कम या समाप्त नहीं किया जा सकता है। अनुच्छेद-142(2) में कहा गया है कि 'संसद द्वारा इस संबंध में बनाए गए किसी भी कानून के प्रावधानों के अधीन' संसद कानून बना सकती है। अतः कथन 4 सही है। अतः विकल्प (B) सही है।[cite: 1]",
+      "en": "The Contempt of Courts Act, 1971 was passed on the recommendations of the H.N. Sanyal Committee. Hence, statement 1 is correct. Article 129 empowers the Supreme Court and Article 215 empowers the High Courts to punish for contempt of themselves. Hence, statement 2 is correct. The Constitution of India does not define the expression 'Contempt of Court' (It is defined in the Contempt of Courts Act, 1971). Hence, statement 3 is not correct. Parliament is vested with the power to make laws on Contempt of Court (subject to the provisions of the Constitution). Hence, statement 4 is correct. Thus, option (B) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 4,
+    "year": "2022",
+    "subject": "Polity",
+    "topic": "न्यायपालिका (Judiciary)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सरकारी विधि अधिकारी और विधिक फर्म अधिवक्ता के रूप में मान्यता-प्राप्त हैं, किंतु कॉर्पोरेट वकील और पेटेंट न्यायवादी अधिवक्ता की मान्यता से बाहर रखे गए हैं।",
+        "en": "Government law officers and legal firms are recognized as advocates, but corporate lawyers and patent attorneys are excluded from recognition as advocates."
+      },
+      {
+        "id": 2,
+        "hi": "विधिज्ञ परिषदों (बार काउंसिलों) को विधिक शिक्षा और विधि महाविद्यालयों की मान्यता के बारे में नियम अधिकथित करने की शक्ति है।",
+        "en": "Bar Councils have the power to lay down the rules relating to legal education and recognition of law colleges."
+      }
+    ],
+    "question": {
+      "hi": "भारत के सन्दर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में कौन-सा/से सही है/हैं?",
+      "en": "With reference to India, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "सरकारी विधि अधिकारी, विधिक फर्म और पेटेंट न्यायवादी अधिवक्ता के रूप में मान्यता प्राप्त हैं, जबकि कॉर्पोरेट वकील अधिवक्ता की मान्यता से बाहर हैं। अतः कथन 1 सही नहीं है। भारतीय विधिज्ञ परिषद, अधिवक्ता अधिनियम 1961 की धारा 4 के तहत स्थापित एक वैधानिक निकाय है जो भारत में विधिक अभ्यास और विधिक शिक्षा को नियंत्रित करता है। यह विधिक शिक्षा के लिये मानक भी निर्धारित करता है और उन विश्वविद्यालयों को मान्यता प्रदान करता है जिनकी विधि की डिग्री छात्रों के लिये अधिवक्ता के रूप में नामांकन के लिये योग्यता के रूप में काम करेगी। अतः कथन 2 सही है। अतः विकल्प (B) सही है।[cite: 1]",
+      "en": "Government law officers, legal firms, and patent attorneys are recognized as advocates, while corporate lawyers are excluded from recognition. Hence, statement 1 is not correct. The Bar Council of India is a statutory body created by Parliament to regulate and represent the Indian bar. It performs the regulatory function by prescribing standards of professional conduct and etiquette, and by exercising disciplinary jurisdiction. It also sets standards for legal education and grants recognition to Universities whose degree in law will serve as qualification for enrolment as an advocate. Hence, statement 2 is correct. Thus, option (B) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 5,
+    "year": "2022",
+    "subject": "Polity",
+    "topic": "न्यायपालिका (Judiciary)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "किसी प्राइवेट संगठन के विरुद्ध, जब तक कि उसको कोई सार्वजनिक कार्य नहीं सौंपा गया हो, परमादेश (मैंडेमस) नहीं होगा।",
+        "en": "Mandamus will not lie against a private organisation unless it is entrusted with a public duty."
+      },
+      {
+        "id": 2,
+        "hi": "किसी कंपनी के विरुद्ध, भले ही वह कोई सरकारी कंपनी हो, परमादेश (मैंडेमस) नहीं होगा।",
+        "en": "Mandamus will not lie against a Company even though it may be a Government Company."
+      },
+      {
+        "id": 3,
+        "hi": "कोई भी लोक-प्रवण व्यक्ति (पब्लिक माइंडेड पर्सन) अधिकार-पृच्छा (क्यो वारंटो) रिट प्राप्त करने हेतु न्यायालय में समावेदन करने के लिए याची (पिटीशनर) हो सकता है।",
+        "en": "Any public minded person can be a petitioner to move the Court to obtain the writ of Quo Warranto."
+      }
+    ],
+    "question": {
+      "hi": "भारत के न्यायालयों द्वारा जारी रिटों के सन्दर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में कौन-से सही हैं?",
+      "en": "With reference to the writs issued by the Courts in India, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "परमादेश किसी प्राइवेट संगठन के विरुद्ध (जब तक कि उसको कोई सार्वजनिक कार्य नहीं सौंपा गया हो) जारी नहीं होगा। अतः कथन 1 सही है। परमादेश किसी कंपनी के विरुद्ध, भले ही वह कोई सरकारी कंपनी हो, जारी नहीं होगा। अतः कथन 2 सही है। कोई भी लोक-प्रवण व्यक्ति अधिकार-पृच्छा रिट प्राप्त करने हेतु न्यायालय में समावेदन करने के लिए याची हो सकता है, इसके लिए उसका पीड़ित व्यक्ति होना आवश्यक नहीं है। अतः कथन 3 सही है। अतः विकल्प (D) सही है।[cite: 1]",
+      "en": "Mandamus will not lie against a private organisation unless it is entrusted with a public duty. Hence, statement 1 is correct. Mandamus will not lie against a Company even though it may be a Government Company. Hence, statement 2 is correct. Any public-minded person can be a petitioner to move the Court to obtain the writ of Quo Warranto; they do not necessarily have to be an aggrieved person. Hence, statement 3 is correct. Thus, option (D) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 6,
+    "year": "2021",
+    "subject": "Polity",
+    "topic": "न्यायपालिका (Judiciary)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत के राष्ट्रपति की पूर्वानुमति से भारत के मुख्य न्यायमूर्ति द्वारा उच्चतम न्यायालय से सेवानिवृत्त किसी न्यायाधीश को उच्चतम न्यायालय के न्यायाधीश के पद पर बैठने और कार्य करने हेतु बुलाया जा सकता है।",
+        "en": "Any retired judge of the Supreme Court of India can be called back to sit and act as a Supreme Court judge by the Chief Justice of India with prior permission of the President of India."
+      },
+      {
+        "id": 2,
+        "hi": "भारत में किसी भी उच्च न्यायालय को अपने निर्णय के पुनर्विलोकन की शक्ति प्राप्त है, जैसा कि उच्चतम न्यायालय के पास है।",
+        "en": "A High Court in India has the power to review its own judgement as the Supreme Court does."
+      }
+    ],
+    "question": {
+      "hi": "भारतीय न्यायपालिका के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to Indian Judiciary, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "संविधान के अनुच्छेद-128 में यह प्रावधान है कि आवश्यकता पड़ने पर सेवानिवृत्त न्यायाधीशों को भी अल्पकाल के लिये उच्चतम न्यायालय के न्यायाधीश के रूप में बैठने और कार्य करने का अनुरोध किया जाता है। उच्चतम न्यायालय का मुख्य न्यायाधीश राष्ट्रपति की पूर्व सहमति से ऐसे न्यायाधीश से लिखित अनुरोध कर सकता है। अतः कथन 1 सही है। 'न्यायिक समीक्षा' शब्दावली का प्रयोग संविधान में कहीं भी नहीं किया गया है परंतु अनुच्छेद-13 और अनुच्छेद-226 में उच्च न्यायालयों द्वारा न्यायिक समीक्षा के उपबंध स्पष्ट हैं। जबकि अपने स्वयं के निर्णय के पुनर्विलोकन की स्पष्ट शक्ति केवल उच्चतम न्यायालय को (अनुच्छेद-137) प्राप्त है, उच्च न्यायालयों को स्पष्ट रूप से नहीं। अतः कथन 2 सही नहीं है। विकल्प (A) सही उत्तर होगा।[cite: 1]",
+      "en": "Article 128 of the Constitution provides that the Chief Justice of India may at any time, with the previous consent of the President, request any person who has held the office of a Judge of the Supreme Court to sit and act as a Judge of the Supreme Court. Hence, statement 1 is correct. The power to review its own judgement is explicitly granted to the Supreme Court under Article 137. The High Courts do not have explicitly this power mentioned in the Constitution in the same manner. Hence, statement 2 is not correct. Option (A) is the correct answer.[cite: 1]"
+    }
+  },
+  {
+    "id": 7,
+    "year": "2019",
+    "subject": "Polity",
+    "topic": "न्यायपालिका (Judiciary)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के संविधान के संदर्भ में, सामान्य विधियों में अंतर्विष्ट प्रतिषेध अथवा निर्बंधन अथवा उपबंध, अनुच्छेद-142 के अधीन सांविधानिक शक्तियों पर प्रतिषेध अथवा निर्बंधन की तरह कार्य नहीं कर सकते। निम्नलिखित में से कौन-सा एक, इसका अर्थ हो सकता है?",
+      "en": "With reference to the Constitution of India, prohibitions or limitations or provisions contained in ordinary laws cannot act as prohibitions or limitations on the constitutional powers under Article 142. It could mean which one of the following?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भारत के निर्वाचन आयोग द्वारा अपने कर्त्तव्यों का निर्वहन करते समय लिये गए निर्णयों को किसी भी न्यायालय में चुनौती नहीं दी जा सकती।",
+        "en": "The decisions taken by the Election Commission of India while discharging its duties cannot be challenged in any court of law."
+      },
+      {
+        "id": "B",
+        "hi": "भारत का उच्चतम न्यायालय अपनी शक्तियों के प्रयोग में संसद द्वारा निर्मित विधियों से बाध्य नहीं होता।",
+        "en": "The Supreme Court of India is not constrained in the exercise of its powers by laws made by the Parliament."
+      },
+      {
+        "id": "C",
+        "hi": "देश में गंभीर वित्तीय संकट की स्थिति में, भारत का राष्ट्रपति मंत्रिमंडल के परामर्श के बिना वित्तीय आपात घोषित कर सकता है।",
+        "en": "In the event of a grave financial crisis in the country, the President of India can declare a Financial Emergency without the counsel from the Cabinet."
+      },
+      {
+        "id": "D",
+        "hi": "कुछ मामलों में राज्य विधानमंडल, संघ विधानमंडल की सहमति के बिना, विधि निर्मित नहीं कर सकते।",
+        "en": "State Legislatures cannot make laws on certain matters without the concurrence of Union Legislature."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "अनुच्छेद-142 के तहत सुप्रीम कोर्ट अपने क्षेत्राधिकार का इस्तेमाल कर डिक्री या आदेश पारित करता है। अगर ज़रूरी हो तो किसी भी पेंडिंग मामले में वह आदेश पारित कर सकता है और यह आदेश देश भर में लागू होगा। संसद द्वारा निर्मित सामान्य विधियों के प्रावधान इस शक्ति को सीमित नहीं कर सकते। इसका अर्थ है कि उच्चतम न्यायालय पूर्ण न्याय करने के लिये अपनी शक्तियों के प्रयोग में संसद द्वारा निर्मित विधियों से बाध्य नहीं होता।[cite: 1]",
+      "en": "Under Article 142, the Supreme Court in the exercise of its jurisdiction may pass such decree or make such order as is necessary for doing complete justice in any cause or matter pending before it. The provisions of ordinary laws cannot act as limitations on this power. This means that the Supreme Court of India is not constrained in the exercise of its powers by laws made by the Parliament to ensure complete justice.[cite: 1]"
+    }
+  },
+  {
+    "id": 8,
+    "year": "2019",
+    "subject": "Polity",
+    "topic": "न्यायपालिका (Judiciary)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत के संविधान के 44वें संशोधन द्वारा लाए गए एक अनुच्छेद ने प्रधानमंत्री के निर्वाचन को न्यायिक पुनर्विलोकन के परे कर दिया।",
+        "en": "The 44th Amendment to the Constitution of India introduced an Article placing the election of the Prime Minister beyond judicial review."
+      },
+      {
+        "id": 2,
+        "hi": "भारत के संविधान के 99वें संशोधन को भारत के उच्चतम न्यायालय ने अभिखंडित कर दिया क्योंकि यह न्यायपालिका की स्वतंत्रता का अतिक्रमण करता था।",
+        "en": "The Supreme Court of India struck down the 99th Amendment to the Constitution of India as being violative of the independence of judiciary."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये-\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "39वाँ संविधान (संशोधन) अधिनियम, 1975 द्वारा संविधान में अनुच्छेद-329A को जोड़कर राष्ट्रपति, उपराष्ट्रपति, प्रधानमंत्री और लोकसभा अध्यक्ष के निर्वाचन को न्यायिक पुनर्विलोकन से परे कर दिया गया था, जिसे 44वें संविधान (संशोधन) अधिनियम, 1978 की धारा 36 द्वारा निरसित कर दिया गया। अतः कथन 1 गलत है। 99वाँ संविधान (संशोधन) अधिनियम, 2014 उच्चतम न्यायालय और उच्च न्यायालयों में जजों की नियुक्ति के लिये राष्ट्रीय न्यायिक नियुक्ति आयोग (NJAC) का प्रावधान करता है। हालाँकि, वर्ष 2015 में उच्चतम न्यायालय ने दिये अपने निर्णय में इस संशोधन को न्यायपालिका की स्वतंत्रता का उल्लंघन मानते हुए इसे असंवैधानिक एवं रद्द घोषित कर दिया। अतः कथन 2 सही है।[cite: 1]",
+      "en": "The 39th Amendment Act, 1975 inserted Article 329A which placed the election of the President, Vice-President, Prime Minister and Speaker beyond judicial review. This was repealed by the 44th Amendment Act, 1978. Hence, statement 1 is incorrect. The 99th Amendment Act, 2014 provided for the National Judicial Appointments Commission (NJAC). However, in 2015, the Supreme Court struck down this amendment declaring it unconstitutional as it violated the independence of the judiciary. Hence, statement 2 is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 9,
+    "year": "2019",
+    "subject": "Polity",
+    "topic": "न्यायपालिका (Judiciary)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "न्यायाधीश (जाँच) अधिनियम, 1968 के अनुसार, भारत के उच्चतम न्यायालय के किसी न्यायाधीश पर महाभियोग चलाने के प्रस्ताव को लोकसभा के अध्यक्ष द्वारा अस्वीकार नहीं किया जा सकता।",
+        "en": "Pursuant to the Judges (Inquiry) Act, 1968, a motion for impeachment of a Judge of the Supreme Court of India cannot be rejected by the Speaker of the Lok Sabha."
+      },
+      {
+        "id": 2,
+        "hi": "भारत का संविधान यह परिभाषित करता है और ब्यौरे देता है कि क्या-क्या भारत के उच्चतम न्यायालय के न्यायाधीशों की 'अक्षमता और सिद्ध कदाचार' को गठित करते हैं।",
+        "en": "The Constitution of India defines and gives details of what constitutes 'incapacity and proved misbehaviour' of the Judges of the Supreme Court of India."
+      },
+      {
+        "id": 3,
+        "hi": "भारत के उच्चतम न्यायालय के न्यायाधीशों के महाभियोग की प्रक्रिया के ब्यौरे न्यायाधीश (जाँच) अधिनियम, 1968 में दिये गए हैं।",
+        "en": "The details of the process of impeachment of the Judges of the Supreme Court of India are given in the Judges (Inquiry) Act, 1968."
+      },
+      {
+        "id": 4,
+        "hi": "यदि किसी न्यायाधीश के महाभियोग के प्रस्ताव को मतदान हेतु लिया जाता है, तो विधि द्वारा अपेक्षित है कि यह प्रस्ताव संसद के प्रत्येक सदन द्वारा समर्थित हो और उस सदन की कुल सदस्य संख्या के बहुमत द्वारा तथा संसद के उस सदन के कुल उपस्थित और मत देने वाले सदस्यों के कम-से-कम दो-तिहाई द्वारा समर्थित हो।",
+        "en": "If the motion for the impeachment of a Judge is taken up for voting, the law requires the motion to be backed by each House of the Parliament and supported by a majority of total membership of that House and by not less than two-thirds of total members of that House present and voting."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये-\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3 और 4",
+        "en": "3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 3 और 4",
+        "en": "1, 3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "न्यायाधीश (जाँच) अधिनियम, 1968 की धारा 3 के खंड-1 के अनुसार भारत के उच्चतम न्यायालय या उच्च न्यायालयों के किसी न्यायाधीश पर महाभियोग चलाने के प्रस्ताव को लोकसभा के अध्यक्ष अथवा राज्यसभा के सभापति द्वारा स्वीकार या अस्वीकार किया जा सकता है। अतः कथन 1 गलत है। कथन 2 भी गलत है क्योंकि संविधान के अनुच्छेद-124(4) में उच्चतम न्यायालय के किसी न्यायाधीश को पदमुक्त करने का आधार (अक्षमता और सिद्ध कदाचार) और प्रक्रिया विहित है, किंतु अक्षमता और कदाचार को परिभाषित नहीं किया गया है। गौरतलब है कि कथन 3 और 4 सही हैं। अतः विकल्प (C) सही उत्तर है।[cite: 1]",
+      "en": "According to Section 3(1) of the Judges (Inquiry) Act, 1968, a motion for impeachment of a Judge of the Supreme Court or High Courts can be admitted or refused by the Speaker of the Lok Sabha or the Chairman of the Rajya Sabha. Hence, statement 1 is incorrect. Statement 2 is also incorrect because Article 124(4) of the Constitution prescribes the grounds (proved misbehaviour or incapacity) for removal, but does not define what constitutes them. Statements 3 and 4 are correct. Hence, option (C) is the correct answer.[cite: 1]"
+    }
+  },
+  {
+    "id": 10,
+    "year": "2019",
+    "subject": "Polity",
+    "topic": "न्यायपालिका (Judiciary)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "किसी भी केंद्रीय विधि को सांविधानिक रूप से अवैध घोषित करने की किसी भी उच्च न्यायालय की अधिकारिता नहीं होगी।",
+        "en": "No High Court shall have the jurisdiction to declare any central law to be constitutionally invalid."
+      },
+      {
+        "id": 2,
+        "hi": "भारत के संविधान के किसी भी संशोधन पर भारत के उच्चतम न्यायालय द्वारा प्रश्न नहीं उठाया जा सकता।",
+        "en": "An amendment to the Constitution of India cannot be called into question by the Supreme Court of India."
+      }
+    ],
+    "question": {
+      "hi": "भारत के संविधान के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये-\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "With reference to the Constitution of India, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "अनुच्छेद-226 के अंतर्गत मूल अधिकारों का अतिक्रमण करने वाली केंद्रीय विधि को भी उच्च न्यायालय असंवैधानिक घोषित करते हुए समाप्त कर सकता है। अतः कथन 1 गलत है। केशवानंद भारती वाद (1973) में उच्चतम न्यायालय ने यह स्पष्ट किया है कि आधारभूत ढाँचे के विरुद्ध किसी भी संविधान संशोधन को उच्चतम न्यायालय रद्द कर सकता है और इसी आधार पर NJAC अधिनियम को उच्चतम न्यायालय ने निरस्त कर दिया था। अतः कथन 2 भी गलत है।[cite: 1]",
+      "en": "Under Article 226, the High Court can strike down a central law if it violates fundamental rights by declaring it unconstitutional. Hence, statement 1 is incorrect. In the Kesavananda Bharati case (1973), the Supreme Court clarified that any constitutional amendment violating the basic structure can be struck down, and on this basis the NJAC Act was repealed. Hence, statement 2 is also incorrect.[cite: 1]"
+    }
+  },
+  {
+    "id": 11,
+    "year": "2017",
+    "subject": "Polity",
+    "topic": "न्यायपालिका (Judiciary)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत में, न्यायिक पुनरीक्षण का अर्थ है-",
+      "en": "In India, Judicial Review implies"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "विधियों और कार्यपालिक आदेशों की सांविधानिकता के विषय में प्रख्यापन करने का न्यायपालिका का अधिकार।",
+        "en": "the power of the Judiciary to pronounce upon the constitutionality of laws and executive orders."
+      },
+      {
+        "id": "B",
+        "hi": "विधानमंडलों द्वारा निर्मित विधियों के प्रज्ञान को प्रश्नगत करने का न्यायपालिका का अधिकार।",
+        "en": "the power of the Judiciary to question the wisdom of the laws enacted by the Legislatures."
+      },
+      {
+        "id": "C",
+        "hi": "न्यायपालिका का, सभी विधायी अधिनियमनों के, राष्ट्रपति द्वारा उन पर सहमति प्रदान किये जाने के पूर्व, पुनरीक्षण का अधिकार।",
+        "en": "the power of the Judiciary to review all the legislative enactments before they are assented to by the President."
+      },
+      {
+        "id": "D",
+        "hi": "न्यायपालिका का, समान या भिन्न वादों में पूर्व में दिये गए स्वयं के निर्णयों के पुनरीक्षण का अधिकार।",
+        "en": "the power of the Judiciary to review its own judgements given earlier in similar or different cases."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "न्यायिक समीक्षा विधायी अधिनियमनों तथा कार्यपालिका आदेशों की संवैधानिकता की जाँच की न्यायपालिका की शक्ति है जो केंद्र और राज्य सरकारों पर लागू होती है। अतः विकल्प (A) सही उत्तर है।[cite: 1]",
+      "en": "Judicial review is the power of the judiciary to examine the constitutionality of legislative enactments and executive orders of both the Central and State governments. Hence, option (A) is the correct answer.[cite: 1]"
+    }
+  },
+  {
+    "id": 12,
+    "year": "2016",
+    "subject": "Polity",
+    "topic": "न्यायपालिका (Judiciary)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इस अधिनियम के अनुसार ग्राम न्यायालय केवल सिविल मामलों की सुनवाई कर सकता है, आपराधिक मामलों की नहीं।",
+        "en": "As per the Act, Gram Nyayalayas can hear only civil cases and not criminal cases."
+      },
+      {
+        "id": 2,
+        "hi": "यह अधिनियम स्थानीय सामाजिक सक्रियतावादियों को मध्यस्थ/सुलहकर्त्ता के रूप में स्वीकार करता है।",
+        "en": "The Act allows local social activists as mediators/reconciliators."
+      }
+    ],
+    "question": {
+      "hi": "'ग्राम न्यायालय अधिनियम' के संदर्भ में निम्नलिखित कथनों में से कौन-सा/से सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये-",
+      "en": "With reference to the 'Gram Nyayalaya Act', which of the following statements is/are correct?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "इस अधिनियम के अध्याय 3 में धारा 11 के तहत ग्राम न्यायालय सिविल प्रक्रिया संहिता और दंड प्रक्रिया संहिता दोनों के तहत सुनवाई कर सकता है (सिविल तथा आपराधिक दोनों)। अतः कथन 1 गलत है। इस अधिनियम के अध्याय 5 में धारा 27(1) के अनुसार स्थानीय सामाजिक सक्रियतावादियों को मध्यस्थ/सुलहकर्त्ता के रूप में स्वीकार किया जाता है। अतः कथन 2 सही है।[cite: 1]",
+      "en": "Under Section 11 in Chapter 3 of this Act, the Gram Nyayalaya can hear both civil and criminal cases under the CPC and CrPC. Hence, statement 1 is incorrect. According to Section 27(1) in Chapter 5 of this Act, local social activists are accepted as mediators/reconciliators. Hence, statement 2 is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 13,
+    "year": "2015",
+    "subject": "Polity",
+    "topic": "न्यायपालिका (Judiciary)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन भारत के संविधान का अभिरक्षक (कस्टोडियन) है?",
+      "en": "Who/Which of the following is the custodian of the Constitution of India?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भारत का राष्ट्रपति",
+        "en": "The President of India"
+      },
+      {
+        "id": "B",
+        "hi": "भारत का प्रधानमंत्री",
+        "en": "The Prime Minister of India"
+      },
+      {
+        "id": "C",
+        "hi": "लोक सभा सचिवालय",
+        "en": "The Lok Sabha Secretariat"
+      },
+      {
+        "id": "D",
+        "hi": "भारत का उच्चतम न्यायालय",
+        "en": "The Supreme Court of India"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "भारत का उच्चतम न्यायालय संविधान का अभिरक्षक है। जब भी कोई संवैधानिक प्रावधान अस्पष्ट होता है तो उच्चतम न्यायालय उसकी व्याख्या कर उसे स्पष्ट करता है। इसी प्रकार जब भी कोई संसदीय विधान संविधान के आधारभूत ढाँचे का उल्लंघन करता है तो उच्चतम न्यायालय उसे अवैध घोषित कर संविधान के अभिरक्षक की भूमिका अदा करता है।[cite: 1]",
+      "en": "The Supreme Court of India is the custodian of the Constitution. Whenever a constitutional provision is ambiguous, the Supreme Court interprets and clarifies it. Similarly, whenever a parliamentary legislation violates the basic structure of the Constitution, the Supreme Court declares it invalid, thus playing the role of the custodian of the Constitution.[cite: 1]"
+    }
+  },
+  {
+    "id": 14,
+    "year": "2014",
+    "subject": "Polity",
+    "topic": "न्यायपालिका (Judiciary)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "केंद्र और राज्यों के बीच होने वाले विवादों का निर्णय करने की भारत के उच्चतम न्यायालय की शक्ति किसके अंतर्गत आती है?",
+      "en": "The power of the Supreme Court of India to decide disputes between the Centre and the States falls under its"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "परामर्शी अधिकारिता के अंतर्गत",
+        "en": "advisory jurisdiction"
+      },
+      {
+        "id": "B",
+        "hi": "अपीली अधिकारिता के अंतर्गत",
+        "en": "appellate jurisdiction"
+      },
+      {
+        "id": "C",
+        "hi": "मूल अधिकारिता के अंतर्गत",
+        "en": "original jurisdiction"
+      },
+      {
+        "id": "D",
+        "hi": "रिट अधिकारिता के अंतर्गत",
+        "en": "writ jurisdiction"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "केंद्र एवं राज्यों के बीच होने वाले विवादों का निर्णय करने की भारत के उच्चतम न्यायालय की शक्ति मूल अधिकारिता (Original Jurisdiction) के अंतर्गत आती है। मूल अधिकारिता का तात्पर्य यह है कि किसी अन्य न्यायालय को विवादों के निपटान के संबंध में ऐसी शक्तियाँ प्राप्त नहीं हैं। इसमें भारत सरकार और एक या अधिक राज्यों के बीच का विवाद, या दो या अधिक राज्यों के बीच का विवाद शामिल है।[cite: 1]",
+      "en": "The power of the Supreme Court of India to decide disputes between the Centre and the States falls under its Original Jurisdiction. Original jurisdiction means that no other court has such powers regarding the settlement of these disputes. It includes disputes between the Government of India and one or more States, or between two or more States.[cite: 1]"
+    }
+  },
+  {
+    "id": 15,
+    "year": "2014",
+    "subject": "Polity",
+    "topic": "न्यायपालिका (Judiciary)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के उच्चतम न्यायालय में न्यायाधीशों की संख्या में वृद्धि करने की शक्ति किसमें निहित है?",
+      "en": "The power to increase the number of judges in the Supreme Court of India is vested in"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भारत का राष्ट्रपति",
+        "en": "the President of India"
+      },
+      {
+        "id": "B",
+        "hi": "संसद",
+        "en": "the Parliament"
+      },
+      {
+        "id": "C",
+        "hi": "भारत का मुख्य न्यायमूर्ति",
+        "en": "the Chief Justice of India"
+      },
+      {
+        "id": "D",
+        "hi": "विधि आयोग",
+        "en": "the Law Commission"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारतीय संविधान के अनुच्छेद-124(1) के तहत उच्चतम न्यायालय में न्यायाधीशों की संख्या में वृद्धि करने की शक्ति संसद में निहित है। संविधान में मुख्य न्यायमूर्ति के अतिरिक्त 7 न्यायाधीशों की व्यवस्था की गई थी। संसद द्वारा पारित उच्चतम न्यायालय (न्यायाधीश संख्या) संशोधन अधिनियम, 2019 के संशोधनानुसार स्वीकृत संख्या 33 (मुख्य न्यायमूर्ति के अतिरिक्त) हो गई है।[cite: 1]",
+      "en": "Under Article 124(1) of the Indian Constitution, the power to increase the number of judges in the Supreme Court is vested in the Parliament. Originally, the Constitution provided for 7 judges in addition to the Chief Justice. Following the Supreme Court (Number of Judges) Amendment Act, 2019 passed by Parliament, the sanctioned strength has become 33 (excluding the Chief Justice).[cite: 1]"
+    }
+  },
+  {
+    "id": 16,
+    "year": "2012",
+    "subject": "Polity",
+    "topic": "न्यायपालिका (Judiciary)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत सरकार तथा एक या अधिक राज्यों के बीच का विवाद",
+        "en": "a dispute between the Government of India and one or more States"
+      },
+      {
+        "id": 2,
+        "hi": "संसद के किसी सदन या राज्य विधान मंडल में हुए चुनाव पर विवाद",
+        "en": "a dispute regarding elections to either House of the Parliament or that of Legislature of a State"
+      },
+      {
+        "id": 3,
+        "hi": "भारत सरकार तथा किसी संघ राज्यक्षेत्र के बीच का विवाद",
+        "en": "a dispute between the Government of India and a Union Territory"
+      },
+      {
+        "id": 4,
+        "hi": "दो या अधिक राज्यों के बीच का विवाद",
+        "en": "a dispute between two or more States"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-से उच्चतम न्यायालय की आरंभिक अधिकारिता में आते हैं?\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये-",
+      "en": "Which of the following are included in the original jurisdiction of the Supreme Court?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 4",
+        "en": "1 and 4"
+      },
+      {
+        "id": "D",
+        "hi": "3 और 4",
+        "en": "3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "उच्चतम न्यायालय की आरंभिक अधिकारिता में निम्नलिखित पक्षों को शामिल किया जाता है- केंद्र व एक या अधिक राज्यों के बीच का विवाद, या दो या अधिक राज्यों के बीच का विवाद, या एक ओर भारत सरकार और किसी राज्य या राज्यों और दूसरी ओर एक या एक से अधिक अन्य राज्यों के बीच का विवाद। अतः 1 और 4 सही हैं।[cite: 1]",
+      "en": "The original jurisdiction of the Supreme Court includes disputes between the Centre and one or more states, or disputes between two or more states, or disputes between the Government of India and any state or states on one side and one or more other states on the other. Hence, 1 and 4 are correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 17,
+    "year": "2012",
+    "subject": "Polity",
+    "topic": "न्यायपालिका (Judiciary)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उच्चतम न्यायालय के न्यायाधीशों की नियुक्ति करते समय भारत के राष्ट्रपति को भारत के मुख्य न्यायाधीश से विचार-विमर्श करना पड़ता है।",
+        "en": "While appointing the Supreme Court Judges, the President of India has to consult the Chief Justice of India."
+      },
+      {
+        "id": 2,
+        "hi": "उच्चतम न्यायालय के न्यायाधीशों को केवल भारत के मुख्य न्यायाधीश द्वारा हटाया जा सकता है।",
+        "en": "The Supreme Court Judges can be removed by the Chief Justice of India only."
+      },
+      {
+        "id": 3,
+        "hi": "न्यायाधीशों का वेतन भारत की संचित निधि पर आरोपित होता है, जिस पर विधानमंडल को अपना मत नहीं देना होता है।",
+        "en": "The salaries of the Judges are charged on the Consolidated Fund of India to which the legislature does not have to vote."
+      },
+      {
+        "id": 4,
+        "hi": "भारत के उच्चतम न्यायालय के अफसरों और कर्मचारियों की सभी नियुक्तियाँ सरकार द्वारा भारत के मुख्य न्यायाधीश से विचार-विमर्श के पश्चात् ही की जाती हैं।",
+        "en": "All appointments of officers and staffs of the Supreme Court of India are made by the Government only after consulting the Chief Justice of India."
+      }
+    ],
+    "question": {
+      "hi": "भारत के उच्चतम न्यायालय की स्वायत्तता की रक्षा हेतु क्या प्रावधान हैं?\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "What is the provision to safeguard the autonomy of the Supreme Court of India?\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3 और 4",
+        "en": "3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 4",
+        "en": "4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "भारतीय संविधान के अनुच्छेद-124(2) के परंतुक में स्पष्ट किया गया है कि मुख्य न्यायाधीश को छोड़कर किसी अन्य न्यायाधीश की नियुक्ति की स्थिति में राष्ट्रपति के द्वारा सदैव भारत के मुख्य न्यायाधीश से परामर्श किया जाएगा। अतः कथन (1) सही है। उच्चतम न्यायालय के किसी न्यायाधीश को उसके पद से साबित कदाचार या असमर्थता के आधार पर संसद के प्रत्येक सदन द्वारा अपनी कुल सदस्य संख्या के बहुमत तथा उपस्थित और मत देने वाले सदस्यों के कम-से-कम दो-तिहाई बहुमत समर्थित समावेदन और राष्ट्रपति द्वारा उसी सत्र में हस्ताक्षर से ही हटाया जा सकेगा। उच्चतम न्यायालयों के न्यायाधीशों का वेतन भारत की संचित निधि पर भारित होता है जिस पर विधानमंडल में मतदान नहीं होता। अतः कथन (3) सही है। अनुच्छेद-146(1) में यह बात स्पष्ट की गई है कि उच्चतम न्यायालय के अधिकारियों और सेवकों की नियुक्तियाँ भारत का मुख्य न्यायाधीश या ऐसा कोई अधिकारी करेगा जिसे वह निर्दिष्ट करे।[cite: 1]",
+      "en": "The proviso to Article 124(2) of the Indian Constitution clarifies that in the case of appointment of a Judge other than the Chief Justice, the Chief Justice of India shall always be consulted by the President. Hence, statement (1) is correct. A Judge of the Supreme Court can be removed from his office on the ground of proved misbehaviour or incapacity only by an order of the President passed after an address by each House of Parliament supported by a majority of the total membership of that House and by a majority of not less than two-thirds of the members of that House present and voting has been presented to the President in the same session. The salaries of Supreme Court Judges are charged upon the Consolidated Fund of India, which is not put to vote in the legislature. Hence, statement (3) is correct. Article 146(1) clarifies that appointments of officers and servants of the Supreme Court shall be made by the Chief Justice of India or such other Judge or officer of the Court as he may direct.[cite: 1]"
+    }
+  }
+]

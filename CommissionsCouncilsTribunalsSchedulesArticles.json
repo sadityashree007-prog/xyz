@@ -1,0 +1,1481 @@
+[
+  {
+    "id": 1,
+    "year": 2025,
+    "subject": "Polity",
+    "topic": "आयोग/परिषद/अधिकरण (Commissions/Councils/Tribunals)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "प्रवर्तन निदेशालय - भगोड़ा आर्थिक अपराधी अधिनियम, 2018 का प्रवर्तन - आंतरिक सुरक्षा प्रभाग-I, गृह मंत्रालय",
+        "en": "Enforcement Directorate - Enforcement of Fugitive Economic Offenders Act, 2018 - Internal Security Division-I, Ministry of Home Affairs"
+      },
+      {
+        "id": 2,
+        "hi": "राजस्व आसूचना निदेशालय - सीमा-शुल्क अधिनियम, 1962 के उपबंधों को प्रवर्तित करना - राजस्व विभाग, वित्त मंत्रालय",
+        "en": "Directorate of Revenue Intelligence - Enforcing the provisions of the Customs Act, 1962 - Department of Revenue, Ministry of Finance"
+      },
+      {
+        "id": 3,
+        "hi": "प्रणाली एवं आँकड़ा प्रबंधन महानिदेशालय - बेहतर नीति और कर-वंचकों को पकड़ने में कर अधिकारियों की सहायता के लिये वृहत आँकड़ा (डेटा) विश्लेषण का उपयोग करना - राजस्व विभाग, वित्त मंत्रालय",
+        "en": "Directorate General of Systems and Data Management - Using big data analytics to assist tax officials in better policy and catching tax evaders - Department of Revenue, Ministry of Finance"
+      }
+    ],
+    "question": {
+      "hi": "भारत सरकार के संदर्भ में उपर्युक्त संगठन, उनके कार्य और वे किसके अधीन कार्य करते हैं, पर विचार कीजिये:\nउपर्युक्त में से कितनी पंक्तियों में सूचना सही सुमेलित है?",
+      "en": "With reference to the Government of India, consider the above organizations, their functions, and under whom they operate:\nIn how many of the above rows is the information correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "प्रवर्तन निदेशालय (ED) भगोड़ा आर्थिक अपराधी अधिनियम, 2018 को प्रवर्तित करता है, लेकिन यह गृह मंत्रालय के अधीन नहीं, बल्कि वित्त मंत्रालय के राजस्व विभाग के अधीन कार्य करता है। अतः पंक्ति I सही सुमेलित नहीं है। राजस्व आसूचना निदेशालय (DRI) और प्रणाली एवं आँकड़ा प्रबंधन महानिदेशालय दोनों वित्त मंत्रालय के राजस्व विभाग के अधीन सही ढंग से सूचीबद्ध हैं और उनके कार्य भी सही दिए गए हैं। अतः पंक्तियाँ II और III सही सुमेलित हैं। अतः विकल्प (B) सही है।[cite: 1]",
+      "en": "The Enforcement Directorate (ED) enforces the Fugitive Economic Offenders Act, 2018, but it operates under the Department of Revenue, Ministry of Finance, not the Ministry of Home Affairs. Hence, row I is incorrectly matched. Both DRI and DG Systems are correctly listed under the Department of Revenue, Ministry of Finance, with their respective functions. Hence, rows II and III are correctly matched. Thus, option (B) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 2,
+    "year": 2025,
+    "subject": "Polity",
+    "topic": "आयोग/परिषद/अधिकरण (Commissions/Councils/Tribunals)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "लोकपाल की शक्ति भारत के लोक सेवकों पर प्रयुक्त होती है किंतु भारत से बाहर पदस्थापित भारतीय लोक सेवकों पर प्रयुक्त नहीं होती।",
+        "en": "The power of Lokpal applies to public servants in India but does not apply to Indian public servants posted outside India."
+      },
+      {
+        "id": 2,
+        "hi": "संसद का कोई सदस्य या किसी राज्य या संघ राज्यक्षेत्र के विधानमंडल का कोई सदस्य इसका अध्यक्ष या सदस्य नहीं होगा और केवल भारत का मुख्य न्यायमूर्ति, चाहे वह पदधारी हो या सेवानिवृत्त, इसका अध्यक्ष होगा।",
+        "en": "No member of Parliament or member of the Legislature of any State or Union Territory shall be its Chairperson or Member, and only the Chief Justice of India, whether sitting or retired, shall be its Chairperson."
+      },
+      {
+        "id": 3,
+        "hi": "इसका अध्यक्ष या सदस्य के रूप में पद धारण करने की तारीख को पैंतालीस वर्ष से कम आयु का व्यक्ति नहीं होगा।",
+        "en": "No person shall be less than forty-five years of age on the date of assuming office as its Chairperson or Member."
+      },
+      {
+        "id": 4,
+        "hi": "लोकपाल भारत के पदारूढ़ प्रधानमंत्री के विरुद्ध भ्रष्टाचार के अभिकथनों की जाँच नहीं कर सकता।",
+        "en": "The Lokpal cannot investigate allegations of corruption against the incumbent Prime Minister of India."
+      }
+    ],
+    "question": {
+      "hi": "लोकपाल के विषय में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/कौन-से सही है/हैं?",
+      "en": "Consider the following statements regarding the Lokpal:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 4",
+        "en": "1 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "उपर्युक्त कथनों में से कोई भी सही नहीं है",
+        "en": "None of the above statements are correct"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "लोकपाल अधिनियम भारत के बाहर पदस्थापित भारतीय लोक सेवकों पर भी लागू होता है। अतः कथन 1 गलत है। लोकपाल का अध्यक्ष सुप्रीम कोर्ट का वर्तमान या पूर्व न्यायाधीश या कोई प्रतिष्ठित व्यक्ति हो सकता है (केवल मुख्य न्यायाधीश ही नहीं)। अतः कथन 2 गलत है। अध्यक्ष और सदस्यों की न्यूनतम आयु 45 वर्ष होनी चाहिए। अतः कथन 3 सही है। लोकपाल कुछ अपवादों (अंतरराष्ट्रीय संबंध, सुरक्षा आदि) को छोड़कर प्रधानमंत्री के खिलाफ भी भ्रष्टाचार के आरोपों की जांच कर सकता है। अतः कथन 4 गलत है। अतः विकल्प (A) सही है।[cite: 1]",
+      "en": "The Lokpal Act also applies to Indian public servants posted outside India. Hence, Statement 1 is incorrect. The Chairperson can be a current or former Supreme Court Judge or an eminent person (not just the CJI). Hence, Statement 2 is incorrect. The minimum age for the Chairperson and members is 45 years. Hence, Statement 3 is correct. The Lokpal can investigate the Prime Minister, subject to certain safeguards (e.g., excluding international relations, security, etc.). Hence, Statement 4 is incorrect. Thus, option (A) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 3,
+    "year": 2025,
+    "subject": "Polity",
+    "topic": "आयोग/परिषद/अधिकरण (Commissions/Councils/Tribunals)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अंतर-राज्य परिषद",
+        "en": "Inter-State Council"
+      },
+      {
+        "id": 2,
+        "hi": "राष्ट्रीय सुरक्षा परिषद",
+        "en": "National Security Council"
+      },
+      {
+        "id": 3,
+        "hi": "क्षेत्रीय परिषदें",
+        "en": "Zonal Councils"
+      }
+    ],
+    "question": {
+      "hi": "भारत के संदर्भ में, उपर्युक्त निकायों पर विचार कीजिये:\nउपर्युक्त में से कितनी भारत के संविधान के उपबंधों के अनुसार स्थापित हुईं?",
+      "en": "With reference to India, consider the above bodies:\nHow many of the above were established under the provisions of the Constitution of India?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "अंतर-राज्य परिषद (Inter-State Council) की स्थापना संविधान के अनुच्छेद 263 के तहत की गई है, अतः यह एक संवैधानिक निकाय है। राष्ट्रीय सुरक्षा परिषद (NSC) एक कार्यकारी निकाय है, जबकि क्षेत्रीय परिषदें (Zonal Councils) राज्य पुनर्गठन अधिनियम 1956 के तहत स्थापित वैधानिक निकाय हैं। अतः केवल एक (अंतर-राज्य परिषद) संवैधानिक निकाय है। विकल्प (A) सही है।[cite: 1]",
+      "en": "The Inter-State Council is established under Article 263 of the Constitution, making it a constitutional body. The National Security Council (NSC) is an executive body, while Zonal Councils are statutory bodies established under the States Reorganisation Act, 1956. Therefore, only one body is constitutional. Option (A) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 4,
+    "year": 2025,
+    "subject": "Polity",
+    "topic": "आयोग/परिषद/अधिकरण (Commissions/Councils/Tribunals)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कच्चे तेल का उत्पादन",
+        "en": "Production of crude oil"
+      },
+      {
+        "id": 2,
+        "hi": "पेट्रोलियम का परिष्करण, संग्रहण और वितरण",
+        "en": "Refining, storage, and distribution of petroleum"
+      },
+      {
+        "id": 3,
+        "hi": "पेट्रोलियम उत्पादों का विपणन और विक्रय",
+        "en": "Marketing and sale of petroleum products"
+      },
+      {
+        "id": 4,
+        "hi": "प्राकृतिक गैस का उत्पादन",
+        "en": "Production of natural gas"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित क्रियाकलापों पर विचार कीजिये:\nउपर्युक्त क्रियाकलापों में से कितने हमारे देश में पेट्रोलियम और प्राकृतिक गैस नियामक बोर्ड (PNGRB) द्वारा विनियमित हैं?",
+      "en": "Consider the following activities:\nHow many of the above activities are regulated by the Petroleum and Natural Gas Regulatory Board (PNGRB) in our country?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "केवल तीन",
+        "en": "Only three"
+      },
+      {
+        "id": "D",
+        "hi": "सभी चार",
+        "en": "All four"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "PNGRB पेट्रोलियम, पेट्रोलियम उत्पादों और प्राकृतिक गैस के परिष्करण, प्रसंस्करण, भंडारण, परिवहन, वितरण, विपणन और बिक्री को विनियमित करता है। हालाँकि, यह कच्चे तेल और प्राकृतिक गैस के उत्पादन को विनियमित नहीं करता है (यह कार्य DGH द्वारा किया जाता है)। अतः केवल कथन 2 और 3 PNGRB के अधिकार क्षेत्र में आते हैं। विकल्प (B) सही है।[cite: 1]",
+      "en": "PNGRB regulates the refining, processing, storage, transportation, distribution, marketing, and sale of petroleum, petroleum products, and natural gas. However, it does not regulate the production of crude oil and natural gas (which falls under DGH). Hence, only activities 2 and 3 fall under PNGRB's jurisdiction. Option (B) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 5,
+    "year": 2024,
+    "subject": "Polity",
+    "topic": "आयोग/परिषद/अधिकरण (Commissions/Councils/Tribunals)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "संघटक राज्य का राज्यपाल",
+        "en": "Governor of the constituent state"
+      },
+      {
+        "id": 2,
+        "hi": "संघटक राज्य का मुख्यमंत्री",
+        "en": "Chief Minister of the constituent state"
+      },
+      {
+        "id": 3,
+        "hi": "भारत के राष्ट्रपति द्वारा नामनिर्दिष्ट तीन सदस्य",
+        "en": "Three members nominated by the President of India"
+      },
+      {
+        "id": 4,
+        "hi": "भारत का गृह मंत्री",
+        "en": "Home Minister of India"
+      }
+    ],
+    "question": {
+      "hi": "पूर्वोत्तर परिषद (NEC) की स्थापना पूर्वोत्तर परिषद अधिनियम, 1971 द्वारा की गई थी। वर्ष 2002 में NEC अधिनियम में संशोधन के बाद, परिषद में निम्नलिखित में से किन-किन सदस्यों को शामिल किया गया है?",
+      "en": "The North Eastern Council (NEC) was established by the North Eastern Council Act, 1971. Subsequent to the amendment of the NEC Act in 2002, which of the following members are included in the Council?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "पूर्वोत्तर परिषद (संशोधन) अधिनियम, 2002 के अनुसार, NEC में आठ पूर्वोत्तर राज्यों के राज्यपाल और मुख्यमंत्री शामिल होते हैं। इसके अलावा, राष्ट्रपति द्वारा तीन सदस्यों को मनोनीत किया जाता है। गृह मंत्री इसके सदस्य नहीं होते (हालाँकि गृह मंत्री इसके पदेन अध्यक्ष होते हैं, लेकिन अधिनियम के मूल पाठ में सदस्यों के रूप में राज्यपाल, मुख्यमंत्री और 3 मनोनीत सदस्यों का ही विशेष उल्लेख है)। अतः विकल्प (A) सही है।[cite: 1]",
+      "en": "According to the NEC (Amendment) Act, 2002, the Council consists of the Governors and Chief Ministers of the eight northeastern states, along with three members nominated by the President. While the Home Minister serves as the ex-officio Chairman, the statutory members strictly listed are the Governors, CMs, and 3 nominated members. Hence, option (A) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 6,
+    "year": 2023,
+    "subject": "Polity",
+    "topic": "आयोग/परिषद/अधिकरण (Commissions/Councils/Tribunals)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "राष्ट्रीय पिछड़ा वर्ग आयोग",
+        "en": "National Commission for Backward Classes"
+      },
+      {
+        "id": 2,
+        "hi": "राष्ट्रीय मानव अधिकार आयोग",
+        "en": "National Human Rights Commission"
+      },
+      {
+        "id": 3,
+        "hi": "राष्ट्रीय विधि आयोग",
+        "en": "National Law Commission"
+      },
+      {
+        "id": 4,
+        "hi": "राष्ट्रीय उपभोक्ता विवाद निवारण आयोग",
+        "en": "National Consumer Disputes Redressal Commission"
+      }
+    ],
+    "question": {
+      "hi": "भारत के निम्नलिखित संगठनों/निकायों पर विचार कीजिये:\nउपर्युक्त में से कितने सांविधानिक निकाय हैं?",
+      "en": "Consider the following organizations/bodies in India:\nHow many of the above are constitutional bodies?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "केवल तीन",
+        "en": "Only three"
+      },
+      {
+        "id": "D",
+        "hi": "सभी चार",
+        "en": "All four"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "इन निकायों में से केवल 'राष्ट्रीय पिछड़ा वर्ग आयोग' (NCBC) एक संवैधानिक निकाय है (अनुच्छेद 338B के तहत 102वें संविधान संशोधन द्वारा स्थापित)। राष्ट्रीय मानव अधिकार आयोग और राष्ट्रीय उपभोक्ता विवाद निवारण आयोग वैधानिक निकाय (Statutory bodies) हैं। राष्ट्रीय विधि आयोग एक गैर-सांविधिक कार्यकारी निकाय (Non-statutory executive body) है। अतः विकल्प (A) सही है।[cite: 1]",
+      "en": "Among these bodies, only the National Commission for Backward Classes (NCBC) is a constitutional body (established under Article 338B via the 102nd Amendment). NHRC and NCDRC are statutory bodies. The National Law Commission is an executive, non-statutory body. Thus, only one body is constitutional. Option (A) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 7,
+    "year": 2020,
+    "subject": "Polity",
+    "topic": "आयोग/परिषद/अधिकरण (Commissions/Councils/Tribunals)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "1,00,000 रुपए से कम वार्षिक आय वाले व्यक्ति को",
+        "en": "A person with an annual income of less than Rs. 1,00,000"
+      },
+      {
+        "id": 2,
+        "hi": "2,00,000 रुपए से कम वार्षिक आय वाले ट्रांसजेंडर को",
+        "en": "A transgender person with an annual income of less than Rs. 2,00,000"
+      },
+      {
+        "id": 3,
+        "hi": "3,00,000 रुपए से कम वार्षिक आय वाले अन्य पिछड़े वर्ग (OBC) के सदस्य को",
+        "en": "A member of Other Backward Classes (OBC) with an annual income of less than Rs. 3,00,000"
+      },
+      {
+        "id": 4,
+        "hi": "सभी वरिष्ठ नागरिकों को",
+        "en": "All senior citizens"
+      }
+    ],
+    "question": {
+      "hi": "भारत में, विधिक सेवा प्रदान करने वाले प्राधिकरण (Legal Services Authorities) निम्नलिखित में से किस प्रकार के नागरिकों को निःशुल्क विधिक सेवाएँ प्रदान करते हैं?",
+      "en": "In India, Legal Services Authorities provide free legal services to which of the following type of citizens?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3 और 4",
+        "en": "3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1 और 4",
+        "en": "1 and 4 only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "विधिक सेवा प्राधिकरण अधिनियम, 1987 के तहत उन व्यक्तियों को मुफ्त विधिक सहायता दी जाती है जिनकी आय राज्य द्वारा निर्धारित सीमा (जैसे 1,00,000 रुपये) से कम हो। इसके अलावा, दिल्ली जैसे कुछ स्थानों पर 2 लाख रुपये से कम आय वाले ट्रांसजेंडर को भी यह सुविधा प्राप्त है। अधिनियम में विशेष रूप से OBC या सभी वरिष्ठ नागरिकों के लिए कोई प्रावधान नहीं है (वरिष्ठ नागरिकों के लिए भी आय सीमा लागू होती है)। अतः विकल्प (A) सही है।[cite: 1]",
+      "en": "Under the Legal Services Authorities Act, 1987, free legal aid is provided to persons whose annual income is less than a prescribed limit (e.g., Rs. 1,00,000 in many states). Also, in places like Delhi, transgenders with an income below Rs. 2,00,000 are eligible. The act does not specifically mention OBCs, nor does it blanket cover 'all' senior citizens (income limits apply to them as well). Hence, option (A) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 8,
+    "year": 2018,
+    "subject": "Polity",
+    "topic": "आयोग/परिषद/अधिकरण (Commissions/Councils/Tribunals)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "NGT का गठन एक अधिनियम द्वारा किया गया है जबकि CPCB का गठन सरकार के कार्यपालक आदेश से किया गया है।",
+        "en": "The NGT has been established by an Act whereas the CPCB has been created by an executive order of the Government."
+      },
+      {
+        "id": 2,
+        "hi": "NGT पर्यावरणीय न्याय उपलब्ध कराता है और उच्चतर न्यायालयों में मुकदमों के भार को कम करने में सहायता करता है जबकि CPCB झरनों और कुओं की सफाई को प्रोत्साहित करता है, तथा देश में वायु की गुणवत्ता में सुधार लाने का लक्ष्य रखता है।",
+        "en": "The NGT provides environmental justice and helps reduce the burden of litigation in the higher courts whereas the CPCB promotes cleanliness of streams and wells, and aims to improve the quality of air in the country."
+      }
+    ],
+    "question": {
+      "hi": "राष्ट्रीय हरित अधिकरण (NGT) किस प्रकार केंद्रीय प्रदूषण नियंत्रण बोर्ड (CPCB) से भिन्न है?",
+      "en": "How is the National Green Tribunal (NGT) different from the Central Pollution Control Board (CPCB)?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "NGT की स्थापना NGT अधिनियम, 2010 के तहत की गई थी। CPCB भी एक वैधानिक निकाय है, जिसकी स्थापना जल (प्रदूषण निवारण और नियंत्रण) अधिनियम, 1974 के तहत की गई थी (न कि कार्यकारी आदेश द्वारा)। अतः कथन 1 गलत है। NGT पर्यावरण न्याय प्रदान करता है और अदालतों पर बोझ कम करता है, जबकि CPCB वायु और जल प्रदूषण को नियंत्रित करने और गुणवत्ता में सुधार पर केंद्रित है। अतः कथन 2 सही है। अतः विकल्प (B) सही है।[cite: 1]",
+      "en": "The NGT was established by the NGT Act, 2010. The CPCB is also a statutory body, constituted under the Water (Prevention and Control of Pollution) Act, 1974 (not by an executive order). Hence, Statement 1 is incorrect. NGT provides environmental justice and reduces the burden on courts, while CPCB focuses on improving air and water quality. Hence, Statement 2 is correct. Thus, option (B) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 9,
+    "year": 2017,
+    "subject": "Polity",
+    "topic": "आयोग/परिषद/अधिकरण (Commissions/Councils/Tribunals)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत का निर्वाचन आयोग पाँच-सदस्यीय निकाय है।",
+        "en": "The Election Commission of India is a five-member body."
+      },
+      {
+        "id": 2,
+        "hi": "संघ का गृह मंत्रालय, आम चुनाव और उप-चुनावों दोनों के लिये चुनाव कार्यक्रम तय करता है।",
+        "en": "The Union Ministry of Home Affairs decides the election schedule for the conduct of both general elections and bye-elections."
+      },
+      {
+        "id": 3,
+        "hi": "निर्वाचन आयोग मान्यता-प्राप्त राजनीतिक दलों के विभाजन/विलय से संबंधित विवाद निपटाता है।",
+        "en": "Election Commission resolves the disputes relating to splits/mergers of recognised political parties."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:",
+      "en": "Consider the following statements:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "वर्तमान में भारत का निर्वाचन आयोग तीन सदस्यीय निकाय है (एक मुख्य चुनाव आयुक्त और दो अन्य चुनाव आयुक्त)। अतः कथन 1 गलत है। चुनावों का कार्यक्रम तय करने का काम चुनाव आयोग का है, न कि गृह मंत्रालय का। अतः कथन 2 गलत है। राजनीतिक दलों के विभाजन या विलय से संबंधित विवादों को चुनाव आयोग द्वारा चुनाव चिह्न (आरक्षण और आवंटन) आदेश, 1968 के तहत निपटाया जाता है। अतः कथन 3 सही है। अतः विकल्प (D) सही है।[cite: 1]",
+      "en": "The Election Commission of India is currently a three-member body (one CEC and two ECs). Hence, statement 1 is incorrect. The election schedule is decided by the Election Commission, not the Ministry of Home Affairs. Hence, statement 2 is incorrect. The Election Commission resolves disputes related to splits/mergers of recognized political parties under the Election Symbols (Reservation and Allotment) Order, 1968. Hence, statement 3 is correct. Thus, option (D) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 10,
+    "year": 2015,
+    "subject": "Polity",
+    "topic": "आयोग/परिषद/अधिकरण (Commissions/Councils/Tribunals)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत सरकार ने नीति (NITI) आयोग की स्थापना निम्नलिखित में से किसका स्थान लेने के लिये की है?",
+      "en": "The Government of India has established NITI Aayog to replace the:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "मानव अधिकार आयोग",
+        "en": "Human Rights Commission"
+      },
+      {
+        "id": "B",
+        "hi": "वित्त आयोग",
+        "en": "Finance Commission"
+      },
+      {
+        "id": "C",
+        "hi": "विधि आयोग",
+        "en": "Law Commission"
+      },
+      {
+        "id": "D",
+        "hi": "योजना आयोग",
+        "en": "Planning Commission"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "भारत सरकार ने 1 जनवरी 2015 को योजना आयोग (Planning Commission) को समाप्त कर उसके स्थान पर नीति (NITI - National Institution for Transforming India) आयोग की स्थापना की है। यह सरकार के थिंक-टैंक के रूप में कार्य करता है।[cite: 1]",
+      "en": "The Government of India replaced the Planning Commission with the NITI (National Institution for Transforming India) Aayog on January 1, 2015. It serves as the apex public policy think tank of the Government of India.[cite: 1]"
+    }
+  },
+  {
+    "id": 11,
+    "year": 2014,
+    "subject": "Polity",
+    "topic": "आयोग/परिषद/अधिकरण (Commissions/Councils/Tribunals)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "वित्त आयोग",
+        "en": "Finance Commission"
+      },
+      {
+        "id": 2,
+        "hi": "राष्ट्रीय विकास परिषद",
+        "en": "National Development Council"
+      },
+      {
+        "id": 3,
+        "hi": "संघीय ग्रामीण विकास मंत्रालय",
+        "en": "Union Ministry of Rural Development"
+      },
+      {
+        "id": 4,
+        "hi": "संघीय शहरी विकास मंत्रालय",
+        "en": "Union Ministry of Urban Development"
+      },
+      {
+        "id": 5,
+        "hi": "संसद",
+        "en": "Parliament"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-से भारत में 'योजना' (Planning) से सम्बद्ध हैं?",
+      "en": "Which of the following are associated with 'Planning' in India?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 5",
+        "en": "1, 2 and 5 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 5",
+        "en": "2 and 5 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3, 4 और 5",
+        "en": "1, 2, 3, 4 and 5"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "राष्ट्रीय विकास परिषद (NDC) का उद्देश्य पंचवर्षीय योजनाओं के कार्यान्वयन में राज्यों का सहयोग प्राप्त करना था। योजना आयोग द्वारा तैयार योजना का मसौदा केंद्रीय मंत्रिमंडल और फिर NDC को भेजा जाता था, जिसके बाद इसे संसद में प्रस्तुत किया जाता था। वित्त आयोग और अन्य मंत्रालयों का 'योजना' (पंचवर्षीय योजनाओं) के निर्माण और अनुमोदन से प्रत्यक्ष संबंध नहीं था। अतः विकल्प (C) सही है।[cite: 1]",
+      "en": "The National Development Council (NDC) was involved in the approval of Five-Year Plans. The draft plan prepared by the Planning Commission was submitted to the Union Cabinet, then to the NDC, and finally to the Parliament for approval. The Finance Commission and other ministries are not directly associated with 'Planning' in this context. Hence, option (C) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 12,
+    "year": 2013,
+    "subject": "Polity",
+    "topic": "आयोग/परिषद/अधिकरण (Commissions/Councils/Tribunals)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "प्रधानमंत्री",
+        "en": "The Prime Minister"
+      },
+      {
+        "id": 2,
+        "hi": "अध्यक्ष, वित्त आयोग",
+        "en": "The Chairman, Finance Commission"
+      },
+      {
+        "id": 3,
+        "hi": "संघीय मंत्रिमंडल के मंत्रीगण",
+        "en": "Ministers of the Union Cabinet"
+      },
+      {
+        "id": 4,
+        "hi": "राज्यों के मुख्यमंत्री",
+        "en": "Chief Ministers of the States"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन राष्ट्रीय विकास परिषद् (NDC) की रचना करते हैं?",
+      "en": "Which of the following constitute the National Development Council?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "राष्ट्रीय विकास परिषद् (NDC) में प्रधानमंत्री (अध्यक्ष के रूप में), सभी केंद्रीय कैबिनेट मंत्री, सभी राज्यों के मुख्यमंत्री और योजना आयोग के सदस्य शामिल होते थे। वित्त आयोग के अध्यक्ष की इसमें कोई भूमिका नहीं होती है। अतः विकल्प (B) सही है।[cite: 1]",
+      "en": "The National Development Council (NDC) comprised the Prime Minister (as Chairman), all Union Cabinet Ministers, Chief Ministers of all States, and Members of the Planning Commission. The Chairman of the Finance Commission was not a member. Hence, option (B) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 13,
+    "year": 2013,
+    "subject": "Polity",
+    "topic": "आयोग/परिषद/अधिकरण (Commissions/Councils/Tribunals)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "राष्ट्रीय विकास परिषद्",
+        "en": "National Development Council"
+      },
+      {
+        "id": 2,
+        "hi": "योजना आयोग",
+        "en": "Planning Commission"
+      },
+      {
+        "id": 3,
+        "hi": "क्षेत्रीय परिषदें",
+        "en": "Zonal Councils"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से किस निकाय/किन निकायों का संविधान में उल्लेख नहीं है?",
+      "en": "Which of the following bodies does not/do not find mention in the Constitution?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "राष्ट्रीय विकास परिषद् और योजना आयोग का गठन कार्यपालिका के आदेश द्वारा हुआ था (ये न तो संवैधानिक निकाय हैं और न ही वैधानिक)। क्षेत्रीय परिषदों का गठन राज्य पुनर्गठन अधिनियम, 1956 के तहत किया गया था, अतः ये वैधानिक निकाय हैं। इनमें से किसी का भी उल्लेख संविधान में नहीं है। अतः विकल्प (D) सही है।[cite: 1]",
+      "en": "The National Development Council and the Planning Commission were created by executive resolutions (extra-constitutional and non-statutory bodies). Zonal Councils are statutory bodies established under the States Reorganisation Act, 1956. None of them find mention in the Constitution. Hence, option (D) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 14,
+    "year": 2012,
+    "subject": "Polity",
+    "topic": "आयोग/परिषद/अधिकरण (Commissions/Councils/Tribunals)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "परिसीमन आयोग के आदेशों को किसी न्यायालय में चुनौती नहीं दी जा सकती।",
+        "en": "The orders of the Delimitation Commission cannot be challenged in a Court of Law."
+      },
+      {
+        "id": 2,
+        "hi": "परिसीमन आयोग के आदेश जब लोक सभा अथवा राज्य विधान सभा के सम्मुख रखे जाते हैं, तब उन आदेशों में कोई संशोधन नहीं किया जा सकता।",
+        "en": "When the orders of the Delimitation Commission are laid before the Lok Sabha or State Legislative Assembly, they cannot effect any modifications in the orders."
+      }
+    ],
+    "question": {
+      "hi": "परिसीमन आयोग के संदर्भ में निम्नलिखित कथनों पर विचार कीजिये:",
+      "en": "With reference to the Delimitation Commission, consider the following statements:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "परिसीमन आयोग एक उच्च शक्ति प्राप्त निकाय है जिसके आदेशों को कानून के समान शक्ति प्राप्त होती है और उन्हें किसी भी न्यायालय में चुनौती नहीं दी जा सकती। अतः कथन 1 सही है। परिसीमन आयोग के आदेशों की प्रतियाँ लोकसभा और संबंधित राज्य विधानसभाओं के समक्ष रखी जाती हैं, लेकिन उन्हें इन आदेशों में कोई संशोधन करने की अनुमति नहीं होती है। अतः कथन 2 भी सही है। विकल्प (C) सही है।[cite: 1]",
+      "en": "The Delimitation Commission is a high-power body whose orders have the force of law and cannot be called in question before any court. Hence, Statement 1 is correct. The orders are laid before the Lok Sabha and the respective State Legislative Assemblies, but modifications are not permitted. Hence, Statement 2 is also correct. Option (C) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 15,
+    "year": 2012,
+    "subject": "Polity",
+    "topic": "आयोग/परिषद/अधिकरण (Commissions/Councils/Tribunals)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "स्वस्थ पर्यावरण के अधिकार के आनुरूप्य, जो अनुच्छेद-21 के अंतर्गत जीवन के अधिकार का अंग माना जाता है।",
+        "en": "Right to healthy environment, construed as a part of Right to life under Article 21"
+      },
+      {
+        "id": 2,
+        "hi": "अनुच्छेद-275(1) के अंतर्गत अनुसूचित जनजातियों के कल्याण हेतु अनुसूचित क्षेत्रों में प्रशासन का स्तर बढ़ाने के लिये प्रावधानिक अनुदान के आनुरूप्य।",
+        "en": "Provision of grants for raising the level of administration in the Scheduled Areas for the welfare of Scheduled Tribes under Article 275(1)"
+      },
+      {
+        "id": 3,
+        "hi": "अनुच्छेद-243(A) के अंतर्गत उल्लिखित ग्राम सभा की शक्तियों और कार्यों के आनुरूप्य।",
+        "en": "Powers and functions of Gram Sabha as mentioned under Article 243(A)"
+      }
+    ],
+    "question": {
+      "hi": "राष्ट्रीय हरित न्यायाधिकरण (NGT) अधिनियम, 2010 भारतीय संविधान के निम्नलिखित में से कौन-सा/से प्रावधान के आनुरूप्य अधिनियमित हुआ था/हुए थे?",
+      "en": "The National Green Tribunal Act, 2010 was enacted in consonance with which of the following provisions of the Constitution of India?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "संविधान के अनुच्छेद-21 के अंतर्गत जीवन के अधिकार के भाग के रूप में 'स्वच्छ और स्वस्थ पर्यावरण के अधिकार' को मान्यता दी गई है। इसी के अनुपालन में पर्यावरण मामलों के त्वरित निपटान के लिए NGT अधिनियम 2010 लागू किया गया था। इसका अनुच्छेद 275 या 243(A) से कोई प्रत्यक्ष संबंध नहीं है। अतः विकल्प (A) सही है।[cite: 1]",
+      "en": "The 'Right to a healthy environment' is interpreted as a part of the Right to Life under Article 21. In consonance with this, the NGT Act 2010 was enacted for effective and expeditious disposal of cases relating to environmental protection. It has no direct relation to Article 275 or 243(A). Hence, option (A) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 16,
+    "year": 2011,
+    "subject": "Polity",
+    "topic": "आयोग/परिषद/अधिकरण (Commissions/Councils/Tribunals)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के वित्त आयोग के संदर्भ में निम्नलिखित में से कौन-सा एक कथन सही है?",
+      "en": "With reference to the Finance Commission of India, which of the following statements is correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "वह अवसंरचना विकास हेतु विदेशी पूंजी अंतर्प्रवाह प्रोत्साहित करता है",
+        "en": "It encourages the inflow of foreign capital for infrastructure development"
+      },
+      {
+        "id": "B",
+        "hi": "वह सार्वजनिक क्षेत्र के प्रतिष्ठानों में समुचित वित्त वितरण को सुगम बनाता है",
+        "en": "It facilitates the proper distribution of finances among the Public Sector Undertakings"
+      },
+      {
+        "id": "C",
+        "hi": "वह वित्तीय प्रशासन में पारदर्शिता सुनिश्चित करता है",
+        "en": "It ensures transparency in financial administration"
+      },
+      {
+        "id": "D",
+        "hi": "इस संदर्भ में उपर्युक्त (a), (b) तथा (c) कथनों में से कोई भी सही नहीं है",
+        "en": "None of the statements (a), (b) and (c) given above is correct in this context"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "वित्त आयोग का प्रावधान भारतीय संविधान के अनुच्छेद-280 के तहत किया गया है। इसका मुख्य कार्य संघ और राज्यों के बीच करों के शुद्ध आगमों का वितरण और राज्यों के बीच आवंटन करना है। इसके कार्यों में विदेशी पूंजी प्रवाह, पीएसयू का वित्त पोषण या वित्तीय प्रशासन की पारदर्शिता सुनिश्चित करना शामिल नहीं है। अतः विकल्प (D) सही है।[cite: 1]",
+      "en": "The Finance Commission is constituted under Article 280 of the Constitution. Its primary function is to make recommendations regarding the distribution of net proceeds of taxes between the Union and the States, and the allocation between the States. The functions mentioned in options A, B, and C are not related to the Finance Commission. Hence, option (D) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 17,
+    "year": 2025,
+    "subject": "Polity",
+    "topic": "अनुसूची/अनुच्छेद (Schedules/Articles)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "ऐसे क्षेत्रों में राज्य सरकार अपनी कार्यपालिका शक्ति खो देती है और एक स्थानीय निकाय पूर्ण प्रशासन ग्रहण कर लेता है।",
+        "en": "In such areas, the State Government loses its executive power and a local body assumes full administration."
+      },
+      {
+        "id": 2,
+        "hi": "संघ की सरकार कतिपय परिस्थितियों में राज्यपाल की सिफारिश पर ऐसे क्षेत्रों के पूर्ण प्रशासन को अपने हाथ में ले सकती है।",
+        "en": "The Union Government can, under certain circumstances, take over the full administration of such areas on the recommendation of the Governor."
+      }
+    ],
+    "question": {
+      "hi": "भारत के संविधान के संदर्भ में, यदि पांचवीं अनुसूची के अधीन किसी राज्य में कोई क्षेत्र अनुसूचित क्षेत्र घोषित कर दिया जाता है, तो:",
+      "en": "With reference to the Constitution of India, if an area in a State is declared a Scheduled Area under the Fifth Schedule, then:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल I",
+        "en": "I only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल II",
+        "en": "II only"
+      },
+      {
+        "id": "C",
+        "hi": "I और II दोनों",
+        "en": "Both I and II"
+      },
+      {
+        "id": "D",
+        "hi": "न तो I और न ही II",
+        "en": "Neither I nor II"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "पांचवीं अनुसूची के अंतर्गत अनुसूचित क्षेत्रों के संदर्भ में, राज्य सरकार अपनी कार्यपालिका शक्ति नहीं खोती है, हालाँकि उस पर कुछ प्रतिबंध लागू होते हैं। अतः कथन I सही नहीं है। केंद्र सरकार राज्यपाल की सिफारिश पर प्रशासन को पूरी तरह अपने हाथ में नहीं लेती, बल्कि केंद्र सरकार इन क्षेत्रों के प्रशासन के संबंध में राज्यों को निर्देश दे सकती है। अतः कथन II सही नहीं है। अतः विकल्प (D) सही है।[cite: 1]",
+      "en": "Under the Fifth Schedule, the State Government does not lose its executive power over Scheduled Areas, though certain restrictions apply. Hence, Statement I is incorrect. The Union Government does not take over full administration on the recommendation of the Governor; it merely has the power to give directions to the State regarding the administration of these areas. Hence, Statement II is incorrect. Thus, option (D) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 18,
+    "year": 2024,
+    "subject": "Polity",
+    "topic": "अनुसूची/अनुच्छेद (Schedules/Articles)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के संविधान के अनुसार निम्नलिखित में से कौन-सा कथन सही है?",
+      "en": "Which one of the following statements is correct according to the Constitution of India?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अंतरराज्यीय व्यापार और वाणिज्य राज्य सूची के अधीन एक राज्य विषय है।",
+        "en": "Inter-State trade and commerce is a State subject under the State List."
+      },
+      {
+        "id": "B",
+        "hi": "अंतरराज्यीय प्रवासन राज्य सूची के अधीन एक राज्य विषय है।",
+        "en": "Inter-State migration is a State subject under the State List."
+      },
+      {
+        "id": "C",
+        "hi": "अंतरराज्यीय संगरोध (क्वारंटाइन) संघ सूची के अधीन एक संघ विषय है।",
+        "en": "Inter-State quarantine is a Union subject under the Union List."
+      },
+      {
+        "id": "D",
+        "hi": "निगम कर राज्य सूची के अधीन एक राज्य विषय है।",
+        "en": "Corporation tax is a State subject under the State List."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "संविधान की सातवीं अनुसूची में तीन सूचियाँ हैं। प्रविष्टि 42 (संघ सूची) में अंतरराज्यीय व्यापार और वाणिज्य है। प्रविष्टि 81 (संघ सूची) में अंतरराज्यीय प्रवासन और अंतरराज्यीय संगरोध (Quarantine) शामिल है। प्रविष्टि 85 (संघ सूची) में निगम कर शामिल है। अतः केवल विकल्प (C) सही है।[cite: 1]",
+      "en": "In the Seventh Schedule, Entry 42 of the Union List covers Inter-State trade and commerce. Entry 81 of the Union List covers Inter-State migration and Inter-State quarantine. Entry 85 of the Union List covers Corporation tax. Therefore, only option (C) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 19,
+    "year": 2023,
+    "subject": "Polity",
+    "topic": "अनुसूची/अनुच्छेद (Schedules/Articles)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत में, दैनंदिन जेल प्रशासन के लिये, जेलों का अनुरक्षण राज्य सरकारें अपने नियमों और विनियमों से करती हैं।",
+        "en": "In India, prisons are managed by State Governments with their own rules and regulations for the day-to-day administration of prisons."
+      },
+      {
+        "id": 2,
+        "hi": "भारत में, जेल का नियंत्रण जेल अधिनियम, 1894 द्वारा किया जाता है, जिससे जेल का विषय स्पष्ट रूप से प्रांतीय सरकारों के नियंत्रण में रहा।",
+        "en": "In India, prisons are governed by the Prisons Act, 1894 which expressly kept the subject of prisons in the control of Provincial Governments."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों के बारे में, निम्नलिखित में से कौन-सा एक सही है?",
+      "en": "Consider the following statements:\nWhich one of the following is correct in respect of the above statements?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कथन-I और कथन-II दोनों सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+        "en": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I."
+      },
+      {
+        "id": "B",
+        "hi": "कथन-I और कथन-II दोनों सही हैं तथा कथन-II, कथन-I की सही व्याख्या नहीं है।",
+        "en": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I."
+      },
+      {
+        "id": "C",
+        "hi": "कथन-I सही है किंतु कथन-II गलत है।",
+        "en": "Statement-I is correct but Statement-II is incorrect."
+      },
+      {
+        "id": "D",
+        "hi": "कथन-I गलत है किंतु कथन-II सही है।",
+        "en": "Statement-I is incorrect but Statement-II is correct."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "संविधान की सातवीं अनुसूची की सूची II की प्रविष्टि संख्या 4 के तहत 'जेल' राज्य सूची का विषय है। जेलों और कैदियों का प्रशासन एवं प्रबंधन राज्य सरकारों की ज़िम्मेदारी है। अतः कथन I सही है। कारागार अधिनियम 1894 के तहत जेलों का प्रबंधन एवं प्रशासन प्रांतीय/राज्य सरकारों के क्षेत्राधिकार में आता है। अतः कथन II सही है तथा यह कथन I की सही व्याख्या है।[cite: 1]",
+      "en": "Prisons/persons detained therein is a State subject under Entry 4 of List II of the Seventh Schedule. The administration and management of prisons is the responsibility of State Governments. Hence, Statement I is correct. Under the Prisons Act, 1894, the management of prisons was expressly kept under the control of provincial governments. Hence, Statement II is correct and is the correct explanation for Statement I.[cite: 1]"
+    }
+  },
+  {
+    "id": 20,
+    "year": 2023,
+    "subject": "Polity",
+    "topic": "अनुसूची/अनुच्छेद (Schedules/Articles)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "किसी राज्य के भीतर, किसी क्षेत्र की 'अनुसूचित क्षेत्र' के रूप में अधिसूचना राष्ट्रपति के एक आदेश के माध्यम से होती है।",
+        "en": "Within a State, the notification of an area as Scheduled Area takes place through an Order of the President."
+      },
+      {
+        "id": 2,
+        "hi": "अनुसूचित क्षेत्र के रूप में बनने वाली सबसे बड़ी प्रशासकीय इकाई ज़िला होता है और सबसे छोटी इकाई ब्लॉक में गाँवों का समूह होता है।",
+        "en": "The largest administrative unit forming the Scheduled Area is the District and the lowest is the cluster of villages in the Block."
+      },
+      {
+        "id": 3,
+        "hi": "संबंधित राज्यों के मुख्यमंत्रियों से अपेक्षित है कि वे राज्यों के अनुसूचित क्षेत्रों के प्रशासन के विषय में केंद्रीय गृह मंत्रालय को वार्षिक प्रतिवेदन दें।",
+        "en": "The Chief Ministers of the concerned States are required to submit annual reports to the Union Home Ministry on the administration of Scheduled Areas in the States."
+      }
+    ],
+    "question": {
+      "hi": "भारत में 'अनुसूचित क्षेत्र' के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कितने कथन सही हैं?",
+      "en": "With reference to 'Scheduled Areas' in India, consider the following statements:\nHow many of the above statements are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "किसी क्षेत्र को अनुसूचित क्षेत्र घोषित करने का अधिकार राष्ट्रपति को है। अतः कथन 1 सही है। अनुसूचित क्षेत्रों का गठन करने वाली सबसे बड़ी प्रशासनिक इकाई ज़िला और ब्लॉक स्तर पर ग्रामीण समूह सबसे छोटी इकाई है। अतः कथन 2 सही है। राज्यों के मुख्यमंत्री नहीं, बल्कि 'राज्यपाल' राष्ट्रपति को एक वार्षिक रिपोर्ट प्रस्तुत करते हैं। अतः कथन 3 सही नहीं है। अतः केवल दो कथन सही हैं।[cite: 1]",
+      "en": "The President is empowered to declare an area as a Scheduled Area. Hence, statement 1 is correct. The largest administrative unit forming a Scheduled Area is the district, and the lowest is a cluster of villages in a block. Hence, statement 2 is correct. The Governor of the State, not the Chief Minister, submits a report annually to the President (not the Home Ministry) regarding the administration of Scheduled Areas. Hence, statement 3 is incorrect. Only two statements are correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 21,
+    "year": 2022,
+    "subject": "Polity",
+    "topic": "अनुसूची/अनुच्छेद (Schedules/Articles)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "यदि किसी विशिष्ट क्षेत्र को भारत के संविधान की पांचवीं अनुसूची के अधीन लाया जाए, तो निम्नलिखित कथनों में से कौन-सा एक, इसके परिणाम को सर्वोत्तम रूप से प्रतिबिंबित करता है?",
+      "en": "If a particular area is brought under the Fifth Schedule of the Constitution of India, which one of the following statements best reflects the consequence of it?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इससे जनजातीय लोगों की जमीनें गैर-जनजातीय लोगों को अंतरित करने पर रोक लगेगी।",
+        "en": "This would prevent the transfer of land of tribal people to non-tribal people."
+      },
+      {
+        "id": "B",
+        "hi": "इससे उस क्षेत्र में एक स्थानीय स्वशासी निकाय का सृजन होगा।",
+        "en": "This would create a local self-governing body in that area."
+      },
+      {
+        "id": "C",
+        "hi": "इससे वह क्षेत्र संघ राज्यक्षेत्र में बदल जाएगा।",
+        "en": "This would convert that area into a Union Territory."
+      },
+      {
+        "id": "D",
+        "hi": "जिस राज्य के पास ऐसे क्षेत्र होंगे, उसे विशेष कोटि का राज्य घोषित किया जाएगा।",
+        "en": "The State having such areas would be declared a Special Category State."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "पांचवीं अनुसूची के प्रावधानों के तहत राज्यपाल जनजातीय क्षेत्रों में सुशासन के लिए नियम बना सकता है, जिसमें अनुसूचित जनजातियों के सदस्यों द्वारा या उनके बीच भूमि के हस्तांतरण पर रोक लगाना शामिल है। अतः यह आदिवासियों की जमीन गैर-आदिवासियों को बेचने से रोकता है। विकल्प (A) सर्वोत्तम उत्तर है।[cite: 1]",
+      "en": "Under the Fifth Schedule, the Governor may make regulations for the peace and good government of Scheduled Areas, which includes prohibiting or restricting the transfer of land by or among members of the Scheduled Tribes. Thus, it prevents the alienation of tribal lands to non-tribals. Option (A) is the best consequence.[cite: 1]"
+    }
+  },
+  {
+    "id": 22,
+    "year": 2021,
+    "subject": "Polity",
+    "topic": "अनुसूची/अनुच्छेद (Schedules/Articles)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत में संपत्ति के अधिकार की क्या स्थिति है?",
+      "en": "What is the position of the Right to Property in India?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "यह विधिक अधिकार है, जो केवल नागरिकों को प्राप्त है",
+        "en": "Legal right available to citizens only"
+      },
+      {
+        "id": "B",
+        "hi": "यह विधिक अधिकार है, जो किसी भी व्यक्ति को प्राप्त है",
+        "en": "Legal right available to any person"
+      },
+      {
+        "id": "C",
+        "hi": "यह मूल अधिकार है, जो केवल नागरिकों को प्राप्त है",
+        "en": "Fundamental Right available to citizens only"
+      },
+      {
+        "id": "D",
+        "hi": "यह न तो मूल अधिकार है, न ही विधिक अधिकार",
+        "en": "Neither a Fundamental Right nor a legal right"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "44वें संविधान संशोधन (1978) द्वारा संपत्ति के अधिकार को मौलिक अधिकारों की सूची से हटा दिया गया और इसे संविधान के भाग XII में अनुच्छेद-300A के तहत एक विधिक (कानूनी) अधिकार बना दिया गया। अनुच्छेद 300A कहता है कि 'किसी भी व्यक्ति को कानून के प्राधिकार के बिना उसकी संपत्ति से वंचित नहीं किया जाएगा।' यह अधिकार नागरिकों और गैर-नागरिकों दोनों (किसी भी व्यक्ति) को प्राप्त है।[cite: 1]",
+      "en": "The 44th Amendment Act (1978) abolished the right to property as a Fundamental Right and made it a legal right under Article 300A in Part XII of the Constitution. Article 300A states that 'no person shall be deprived of his property save by authority of law'. This right is available to any person, not just citizens.[cite: 1]"
+    }
+  },
+  {
+    "id": 23,
+    "year": 2019,
+    "subject": "Polity",
+    "topic": "अनुसूची/अनुच्छेद (Schedules/Articles)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के संविधान की किस अनुसूची के अधीन जनजातीय भूमि का, खनन के लिये निजी पक्षकारों को अंतरण अकृत और शून्य (Null and Void) घोषित किया जा सकता है?",
+      "en": "Under which Schedule of the Constitution of India can the transfer of tribal land to private parties for mining be declared null and void?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "तीसरी अनुसूची",
+        "en": "Third Schedule"
+      },
+      {
+        "id": "B",
+        "hi": "पांचवीं अनुसूची",
+        "en": "Fifth Schedule"
+      },
+      {
+        "id": "C",
+        "hi": "नौवीं अनुसूची",
+        "en": "Ninth Schedule"
+      },
+      {
+        "id": "D",
+        "hi": "बारहवीं अनुसूची",
+        "en": "Twelfth Schedule"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "समता बनाम आंध्र प्रदेश राज्य मामले (1997) में सुप्रीम कोर्ट ने निर्णय दिया था कि पांचवीं अनुसूची के तहत आने वाले अनुसूचित क्षेत्रों में जनजातीय भूमि को निजी खनन कंपनियों को पट्टे पर देना अकृत और शून्य है। अतः विकल्प (B) सही है।[cite: 1]",
+      "en": "In the Samatha vs State of Andhra Pradesh case (1997), the Supreme Court ruled that the transfer of tribal land to private parties for mining in the Scheduled Areas under the Fifth Schedule is null and void. Hence, option (B) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 24,
+    "year": 2019,
+    "subject": "Polity",
+    "topic": "अनुसूची/अनुच्छेद (Schedules/Articles)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "किस प्रधानमंत्री के कार्यकाल के दौरान भारत के संविधान में नौवीं अनुसूची को पुरःस्थापित किया गया था?",
+      "en": "The Ninth Schedule was introduced in the Constitution of India during the prime ministership of:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "जवाहरलाल नेहरू",
+        "en": "Jawaharlal Nehru"
+      },
+      {
+        "id": "B",
+        "hi": "लाल बहादुर शास्त्री",
+        "en": "Lal Bahadur Shastri"
+      },
+      {
+        "id": "C",
+        "hi": "इंदिरा गांधी",
+        "en": "Indira Gandhi"
+      },
+      {
+        "id": "D",
+        "hi": "मोरारजी देसाई",
+        "en": "Morarji Desai"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "प्रथम संविधान संशोधन अधिनियम, 1951 द्वारा संविधान में नौवीं अनुसूची जोड़ी गई थी। इस समय भारत के प्रधानमंत्री पं. जवाहरलाल नेहरू थे।[cite: 1]",
+      "en": "The Ninth Schedule was added to the Constitution by the First Constitutional Amendment Act, 1951. Pt. Jawaharlal Nehru was the Prime Minister of India at that time.[cite: 1]"
+    }
+  },
+  {
+    "id": 25,
+    "year": 2018,
+    "subject": "Polity",
+    "topic": "अनुसूची/अनुच्छेद (Schedules/Articles)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "यदि भारत का राष्ट्रपति संविधान के अनुच्छेद-356 के अधीन यथा उपबंधित अपनी शक्तियों का किसी विशेष राज्य के संबंध में प्रयोग करता है, तो",
+      "en": "If the President of India exercises his power as provided under Article 356 of the Constitution in respect of a particular State, then"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "उस राज्य की विधानसभा स्वतः भंग हो जाती है।",
+        "en": "the Assembly of the State is automatically dissolved."
+      },
+      {
+        "id": "B",
+        "hi": "उस राज्य के विधानमंडल की शक्तियाँ संसद द्वारा या उसके प्राधिकार के अधीन प्रयोज्य होंगी।",
+        "en": "the powers of the Legislature of that State shall be exercisable by or under the authority of the Parliament."
+      },
+      {
+        "id": "C",
+        "hi": "उस राज्य में अनुच्छेद-19 निलंबित हो जाता है।",
+        "en": "Article 19 is suspended in that State."
+      },
+      {
+        "id": "D",
+        "hi": "राष्ट्रपति उस राज्य से संबंधित विधियाँ बना सकता है।",
+        "en": "the President can make laws relating to that State."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "यदि राष्ट्रपति अनुच्छेद-356 (राष्ट्रपति शासन) का प्रयोग करता है, तो राज्य विधानसभा या तो निलंबित हो जाती है या भंग हो जाती है (स्वतः भंग नहीं होती)। राज्य विधानमंडल की विधायी शक्तियाँ संसद द्वारा या उसके प्राधिकार के तहत प्रयुक्त की जाती हैं। अतः विकल्प (B) सही है।[cite: 1]",
+      "en": "When President's Rule (Article 356) is imposed, the State Legislative Assembly is either suspended or dissolved (not automatically dissolved). The powers of the State Legislature are to be exercised by or under the authority of the Parliament. Hence, option (B) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 26,
+    "year": 2018,
+    "subject": "Polity",
+    "topic": "अनुसूची/अनुच्छेद (Schedules/Articles)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत की संसद किसी कानून विशेष को भारत के संविधान की नौवीं अनुसूची में डाल सकती है।",
+        "en": "The Parliament of India can place a particular law in the Ninth Schedule of the Constitution of India."
+      },
+      {
+        "id": 2,
+        "hi": "नौवीं अनुसूची में डाले गए किसी कानून की वैधता का परीक्षण किसी न्यायालय द्वारा नहीं किया जा सकता एवं उसके ऊपर कोई निर्णय भी नहीं किया जा सकता है।",
+        "en": "The validity of a law placed in the Ninth Schedule cannot be examined by any court and no judgement can be made on it."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "संविधान के प्रथम संशोधन (1951) द्वारा नौवीं अनुसूची जोड़ी गई, जिसके तहत संसद किसी कानून को इसमें डाल सकती है। अतः कथन 1 सही है। यद्यपि मूल रूप से इसका उद्देश्य न्यायिक समीक्षा से बचना था, लेकिन आई.आर. कोएल्हो मामले (2007) में सुप्रीम कोर्ट ने कहा कि 24 अप्रैल 1973 के बाद नौवीं अनुसूची में डाले गए कानूनों की न्यायिक समीक्षा की जा सकती है यदि वे मौलिक अधिकारों या संविधान के मूल ढाँचे का उल्लंघन करते हैं। अतः कथन 2 गलत है।[cite: 1]",
+      "en": "The Parliament can place laws in the Ninth Schedule, introduced by the First Amendment Act in 1951. Hence, statement 1 is correct. However, the Supreme Court ruled in the I.R. Coelho case (2007) that laws placed in the Ninth Schedule after April 24, 1973, are open to judicial review if they violate fundamental rights or the basic structure of the Constitution. Hence, statement 2 is incorrect.[cite: 1]"
+    }
+  },
+  {
+    "id": 27,
+    "year": 2015,
+    "subject": "Polity",
+    "topic": "अनुसूची/अनुच्छेद (Schedules/Articles)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के संविधान में पांचवीं अनुसूची और छठी अनुसूची के उपबंध निम्नलिखित में से किसलिये किये गए हैं?",
+      "en": "The provisions in Fifth Schedule and Sixth Schedule in the Constitution of India are made in order to"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अनुसूचित जनजातियों के हितों के संरक्षण के लिये",
+        "en": "protect the interests of Scheduled Tribes"
+      },
+      {
+        "id": "B",
+        "hi": "राज्यों के बीच सीमाओं के निर्धारण के लिये",
+        "en": "determine the boundaries between States"
+      },
+      {
+        "id": "C",
+        "hi": "पंचायतों की शक्तियों, प्राधिकारों और उत्तरदायित्वों के निर्धारण के लिये",
+        "en": "determine the powers, authority and responsibilities of Panchayats"
+      },
+      {
+        "id": "D",
+        "hi": "सभी सीमावर्ती राज्यों के हितों के संरक्षण के लिये",
+        "en": "protect the interests of all the border States"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "संविधान की पाँचवीं और छठी अनुसूचियाँ अनुसूचित क्षेत्रों और जनजातीय क्षेत्रों के प्रशासन तथा अनुसूचित जनजातियों के हितों के संरक्षण से संबंधित हैं।[cite: 1]",
+      "en": "The Fifth and Sixth Schedules of the Indian Constitution deal with the administration of Scheduled Areas and Tribal Areas, respectively, to protect the interests of Scheduled Tribes.[cite: 1]"
+    }
+  },
+  {
+    "id": 28,
+    "year": 2014,
+    "subject": "Polity",
+    "topic": "अनुसूची/अनुच्छेद (Schedules/Articles)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के संविधान की निम्नलिखित में से कौन-सी एक अनुसूची में दल-बदल विरोध विषयक उपबंध है?",
+      "en": "Which one of the following Schedules of the Constitution of India contains provisions regarding anti-defection?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "दूसरी अनुसूची",
+        "en": "Second Schedule"
+      },
+      {
+        "id": "B",
+        "hi": "पांचवीं अनुसूची",
+        "en": "Fifth Schedule"
+      },
+      {
+        "id": "C",
+        "hi": "आठवीं अनुसूची",
+        "en": "Eighth Schedule"
+      },
+      {
+        "id": "D",
+        "hi": "दसवीं अनुसूची",
+        "en": "Tenth Schedule"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "भारतीय संविधान की 10वीं अनुसूची में दल-बदल विरोध विषयक उपबंध किये गए हैं। इसे 52वें संविधान संशोधन अधिनियम, 1985 द्वारा जोड़ा गया था।[cite: 1]",
+      "en": "The Tenth Schedule of the Indian Constitution contains provisions regarding anti-defection. It was added by the 52nd Constitutional Amendment Act, 1985.[cite: 1]"
+    }
+  },
+  {
+    "id": 29,
+    "year": 2012,
+    "subject": "Polity",
+    "topic": "अनुसूची/अनुच्छेद (Schedules/Articles)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "राज्य की नीति के निदेशक तत्त्व",
+        "en": "Directive Principles of State Policy"
+      },
+      {
+        "id": 2,
+        "hi": "ग्रामीण और शहरी स्थानीय निकाय",
+        "en": "Rural and Urban Local Bodies"
+      },
+      {
+        "id": 3,
+        "hi": "पंचम अनुसूची",
+        "en": "Fifth Schedule"
+      },
+      {
+        "id": 4,
+        "hi": "षष्ठ अनुसूची",
+        "en": "Sixth Schedule"
+      },
+      {
+        "id": 5,
+        "hi": "सप्तम अनुसूची",
+        "en": "Seventh Schedule"
+      }
+    ],
+    "question": {
+      "hi": "भारतीय संविधान के निम्नलिखित में से कौन-से प्रावधान शिक्षा पर प्रभाव डालते हैं?\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये:",
+      "en": "Which of the following provisions of the Constitution of India have a bearing on Education?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3, 4 और 5",
+        "en": "3, 4 and 5 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 2 और 5",
+        "en": "1, 2 and 5 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3, 4 और 5",
+        "en": "1, 2, 3, 4 and 5"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "राज्य की नीति के निदेशक तत्त्वों में अनुच्छेद 45 के तहत शिक्षा का प्रावधान है। ग्रामीण और शहरी स्थानीय निकायों को भी शिक्षा से जुड़े कार्य सौंपे गए हैं (11वीं और 12वीं अनुसूची)। पाँचवीं और छठी अनुसूचियों में अनुसूचित क्षेत्रों के प्रशासन से जुड़े प्रावधान हैं जिनका प्रभाव शिक्षा व विकास पर पड़ता है। सातवीं अनुसूची में समवर्ती सूची के तहत 'शिक्षा' को शामिल किया गया है। अतः सभी विकल्प सही हैं।[cite: 1]",
+      "en": "The DPSP under Article 45 has provisions for early childhood care and education. Rural and Urban local bodies are assigned functions related to education under the 11th and 12th Schedules. The 5th and 6th Schedules deal with the administration of Scheduled Areas, which inherently includes aspects like education and development. The 7th Schedule contains 'Education' in the Concurrent List. Hence, all provisions have a bearing on education.[cite: 1]"
+    }
+  }
+]

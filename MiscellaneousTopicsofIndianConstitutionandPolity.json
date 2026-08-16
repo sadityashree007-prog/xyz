@@ -1,0 +1,1278 @@
+[
+  {
+    "id": 1,
+    "year": 2025,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अरुणाचल प्रदेश : एक किले से राजधानी का नाम पड़ा और राज्य में दो राष्ट्रीय उद्यान (नेशनल पार्क) हैं",
+        "en": "Arunachal Pradesh : Capital is named after a fort and the state has two national parks"
+      },
+      {
+        "id": 2,
+        "hi": "नागालैंड : यह राज्य एक संविधान संशोधन अधिनियम के आधार पर अस्तित्त्व में आया",
+        "en": "Nagaland : This state came into existence on the basis of a constitutional amendment act"
+      },
+      {
+        "id": 3,
+        "hi": "त्रिपुरा : प्रारंभ में यह भाग 'ग' (पार्ट 'सी') राज्य था, यह वर्ष 1956 में राज्यों का पुनर्गठन होने पर केंद्रशासित राज्यक्षेत्र बना और बाद में इसने एक पूर्ण राज्य का दर्जा प्राप्त किया",
+        "en": "Tripura : Initially it was a Part 'C' state, it became a Union Territory upon the reorganization of states in 1956 and later attained the status of a full state"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये:\nउपर्युक्त युग्मों में से कितने सही सुमेलित हैं?",
+      "en": "Consider the following pairs:\nHow many of the above pairs are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "अरुणाचल प्रदेश की राजधानी ईटानगर है, जिसका नाम ईटा किले के नाम पर रखा गया है। राज्य में दो राष्ट्रीय उद्यान हैं: नमदफा नेशनल पार्क और मौलिंग नेशनल पार्क। अतः युग्म I सही सुमेलित है। नागालैंड, संविधान (तेरहवाँ संशोधन) अधिनियम, 1962 के माध्यम से अस्तित्व में आया। अतः युग्म II सही सुमेलित है। वर्ष 1949 में भारतीय संघ में विलय के बाद त्रिपुरा एक भाग 'ग' (पार्ट 'सी') राज्य था। वर्ष 1956 के राज्य पुनर्गठन अधिनियम के बाद यह एक केंद्रशासित राज्यक्षेत्र बन गया और बाद में वर्ष 1972 में त्रिपुरा एक पूर्ण राज्य बना। अतः युग्म III सही सुमेलित है। विकल्प (c) सही है।[cite: 1]",
+      "en": "The capital of Arunachal Pradesh is Itanagar, named after the Ita Fort. The state has two national parks: Namdapha and Mouling. Hence, Pair I is correctly matched. Nagaland came into existence through the Constitution (Thirteenth Amendment) Act, 1962. Hence, Pair II is correctly matched. Tripura was a Part 'C' state after merging with the Indian Union in 1949. It became a Union Territory after the States Reorganization Act of 1956, and later attained full statehood in 1972. Hence, Pair III is correctly matched. Option (c) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 2,
+    "year": 2025,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत का राष्ट्रपति",
+        "en": "The President of India"
+      },
+      {
+        "id": 2,
+        "hi": "भारत का प्रधानमंत्री",
+        "en": "The Prime Minister of India"
+      },
+      {
+        "id": 3,
+        "hi": "भारत का मुख्य न्यायमूर्ति",
+        "en": "The Chief Justice of India"
+      },
+      {
+        "id": 4,
+        "hi": "लोकसभा में प्रतिपक्ष का नेता",
+        "en": "The Leader of Opposition in the Lok Sabha"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से किनसे मिलकर 'गांधी शांति पुरस्कार' के प्राप्तकर्त्ता का चयन करने के लिये जूरी बनती है?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "The jury for selecting the recipient of the 'Gandhi Peace Prize' consists of which of the following?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल II और IV",
+        "en": "II and IV only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल I, II और III",
+        "en": "I, II and III only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल II, III और IV",
+        "en": "II, III and IV only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल I और III",
+        "en": "I and III only"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "गांधी शांति पुरस्कार निर्णायक मंडल (जूरी) में प्रधानमंत्री की अध्यक्षता में पाँच सदस्य होते हैं। अन्य सदस्यों में भारत के मुख्य न्यायाधीश (CJI) और लोकसभा में विपक्ष के नेता शामिल हैं, जो इसके स्थायी सदस्य हैं। दो अन्य जूरी सदस्यों को तीन वर्ष की अवधि के लिये नामित किया जाता है। राष्ट्रपति इस जूरी के सदस्य नहीं होते। अतः विकल्प (c) सही है।[cite: 1]",
+      "en": "The jury for the Gandhi Peace Prize consists of five members, chaired by the Prime Minister. Other permanent members include the Chief Justice of India (CJI) and the Leader of the Opposition in the Lok Sabha. Two other eminent persons are nominated as members for a period of three years. The President of India is not a member of this jury. Hence, option (c) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 3,
+    "year": 2025,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कथन I: भारत में राज्य सरकारों के पास गौण खनिजों के निष्कर्षण के बारे में रियायत देने के लिये नियम बनाने की कोई शक्ति नहीं है, भले ही ऐसे खनिज उनके अपने भूभाग में अवस्थित हों।",
+        "en": "Statement I: State Governments in India do not have the power to frame rules regarding the grant of concessions for the extraction of minor minerals, even if such minerals are located within their own territory."
+      },
+      {
+        "id": 2,
+        "hi": "कथन II: भारत में केंद्र सरकार के पास प्रासंगिक विधि के अधीन गौण खनिजों को अधिसूचित करने की शक्ति है।",
+        "en": "Statement II: The Central Government in India has the power to notify minor minerals under the relevant law."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों के संदर्भ में, निम्नलिखित में से कौन-सा एक सही है?",
+      "en": "Consider the following statements:\nWhich one of the following is correct in respect of the above statements?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कथन I और कथन II दोनों सही हैं तथा कथन II, कथन I की व्याख्या करता है",
+        "en": "Both Statement I and Statement II are correct and Statement II is the correct explanation for Statement I"
+      },
+      {
+        "id": "B",
+        "hi": "कथन I और कथन II दोनों सही हैं किंतु कथन II, कथन I की व्याख्या नहीं करता है",
+        "en": "Both Statement I and Statement II are correct but Statement II is not the correct explanation for Statement I"
+      },
+      {
+        "id": "C",
+        "hi": "कथन I सही है किंतु कथन II सही नहीं है",
+        "en": "Statement I is correct but Statement II is not correct"
+      },
+      {
+        "id": "D",
+        "hi": "कथन I सही नहीं है किंतु कथन II सही है",
+        "en": "Statement I is not correct but Statement II is correct"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "खान और खनिज (विकास और विनियमन) अधिनियम, 1957 की धारा 15 के तहत राज्यों को लघु/गौण खनिजों के लिये नियम बनाने का अधिकार है। अतः कथन I सही नहीं है। केंद्र सरकार के पास यह अधिसूचित करने का अधिकार है कि अधिनियम की धारा 3(e) के तहत किन खनिजों को लघु/गौण खनिजों के रूप में वर्गीकृत किया गया है। अतः कथन II सही है। विकल्प (d) सही है।[cite: 1]",
+      "en": "Under Section 15 of the Mines and Minerals (Development and Regulation) Act, 1957, State Governments have the power to make rules in respect of minor minerals. Hence, Statement I is not correct. The Central Government has the power to notify which minerals are classified as minor minerals under Section 3(e) of the Act. Hence, Statement II is correct. Option (d) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 4,
+    "year": 2023,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा एक कथन किसी देश के 'संविधान' के मुख्य प्रयोजन को सर्वोत्तम रूप से प्रतिबिंबित करता है?",
+      "en": "Which one of the following statements best reflects the chief purpose of the 'Constitution' of a country?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "यह आवश्यक विधियों के निर्माण के उद्देश्य का निर्धारण करता है।",
+        "en": "It determines the objective for the making of necessary laws."
+      },
+      {
+        "id": "B",
+        "hi": "यह राजनीतिक पदों और सरकार के सृजन को सुकर बनाता है।",
+        "en": "It enables the creation of political offices and a government."
+      },
+      {
+        "id": "C",
+        "hi": "यह सरकार की शक्तियों को परिभाषित और सीमाबद्ध करता है।",
+        "en": "It defines and limits the powers of government."
+      },
+      {
+        "id": "D",
+        "hi": "यह सामाजिक न्याय, सामाजिक समता और सामाजिक सुरक्षा को प्रतिभूत करता है।",
+        "en": "It secures social justice, social equality and social security."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "किसी भी संविधान का मुख्य उद्देश्य एक सरकार के मौलिक सिद्धांतों, संरचना एवं कार्यों को स्थापित करना और एक देश के भीतर व्यक्तियों के अधिकारों एवं स्वतंत्रता को परिभाषित करना है। संविधान देश के उच्चतम कानून (Supreme law of the land) के रूप में कार्य करता है और शासन हेतु एक रूपरेखा प्रदान करता है, शक्ति संतुलन सुनिश्चित करता है, व्यक्तिगत अधिकारों की रक्षा करता है तथा राज्य के कामकाज या कार्यप्रणाली का मार्गदर्शन करता है। सबसे प्रमुख रूप से यह सरकार की शक्तियों को सीमित और परिभाषित करता है। अतः विकल्प (c) सही है।[cite: 1]",
+      "en": "The chief purpose of any Constitution is to establish the fundamental principles, structure, and functions of a government and to define the rights and liberties of individuals within a country. It serves as the supreme law of the land, providing a framework for governance, ensuring a balance of power, protecting individual rights, and guiding the functioning of the state. Most importantly, it defines and limits the powers of the government to prevent tyranny. Hence, option (c) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 5,
+    "year": 2021,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारतीय राज-व्यवस्था में, निम्नलिखित में से कौन-सी अनिवार्य विशेषता है, जो यह दर्शाती है कि उसका स्वरूप संघीय है?",
+      "en": "Which one of the following in Indian polity is an essential feature that indicates that it is federal in character?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "न्यायपालिका की स्वतंत्रता सुरक्षित है।",
+        "en": "The independence of judiciary is safeguarded."
+      },
+      {
+        "id": "B",
+        "hi": "संघ की विधायिका में संघटक इकाइयों के निर्वाचित प्रतिनिधि होते हैं।",
+        "en": "The Union Legislature has elected representatives from constituent units."
+      },
+      {
+        "id": "C",
+        "hi": "केंद्रीय मंत्रिमंडल में क्षेत्रीय पार्टियों के निर्वाचित प्रतिनिधि हो सकते हैं।",
+        "en": "The Union Cabinet can have elected representatives from regional parties."
+      },
+      {
+        "id": "D",
+        "hi": "मूल अधिकार न्यायालयों द्वारा प्रवर्तनीय हैं।",
+        "en": "The Fundamental Rights are enforceable by Courts of Law."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "संघवाद की अनिवार्य विशेषताओं की बात की जाए तो इसके अंतर्गत—संघ व राज्य के बीच शक्तियों का स्पष्ट संवैधानिक विभाजन; लिखित, कठोर एवं उच्चतम संविधान; द्विस्तरीय सरकार तथा स्वतंत्र व निष्पक्ष न्यायपालिका इत्यादि तत्त्व माने जाते हैं। इस प्रकार विकल्प (a) सही उत्तर होगा। उल्लेखनीय है कि संघीय विधायिका में संघटक इकाइयों के निर्वाचित प्रतिनिधि होना संघीय राजव्यवस्था का लक्षण तो है परंतु यह अनिवार्य नहीं है।[cite: 1]",
+      "en": "Essential features of federalism include a clear constitutional division of powers between the Union and the States, a written, rigid, and supreme Constitution, a dual government system, and an independent and impartial judiciary. Thus, option (a) is the correct answer. Having elected representatives from constituent units in the Union legislature is a feature of a federal polity but not an essential or defining one compared to an independent judiciary which acts as the umpire of the federal structure.[cite: 1]"
+    }
+  },
+  {
+    "id": 6,
+    "year": 2021,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा 'राज्य' शब्द को सर्वोत्तम रूप से परिभाषित करता है?",
+      "en": "Which one of the following best defines the term 'State'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "व्यक्तियों का एक समुदाय, जो बिना किसी बाह्य नियंत्रण के एक निश्चित भू-भाग में स्थायी रूप से निवास करता है और जिसकी एक संगठित सरकार है।",
+        "en": "A community of persons permanently occupying a definite territory independent of external control and possessing an organized government."
+      },
+      {
+        "id": "B",
+        "hi": "एक निश्चित भू-भाग के राजनीतिक रूप से संगठित लोग, जो स्वयं पर शासन करने, कानून एवं व्यवस्था को बनाए रखने, अपने नैसर्गिक अधिकारों की रक्षा करने तथा अपनी जीविका के साधनों को सुरक्षित रखने का अधिकार रखते हैं।",
+        "en": "A politically organized people of a definite territory and possessing an authority to govern them, maintain law and order, protect their natural rights and safeguard their means of sustenance."
+      },
+      {
+        "id": "C",
+        "hi": "बहुत से व्यक्ति, जो एक निश्चित भू-भाग में बहुत लंबे समय से अपनी संस्कृति, परंपरा और शासन-व्यवस्था के साथ रहते आए हैं।",
+        "en": "A number of persons who have been living in a definite territory for a very long time with their own culture, tradition and government."
+      },
+      {
+        "id": "D",
+        "hi": "एक निश्चित भू-भाग में स्थायी रूप से रह रहा समाज, जिसकी एक केंद्रीय प्राधिकारी तथा केंद्रीय प्राधिकारी के प्रति उत्तरदायी कार्यपालिका और एक स्वतंत्र न्यायपालिका है।",
+        "en": "A society permanently living in a definite territory with a central authority, an executive responsible to the central authority and an independent judiciary."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "वर्तमान समय में राज्य के चार अनिवार्य तत्त्व माने जाते हैं— जनसंख्या, भू-भाग, सरकार व संप्रभुता। दूसरे शब्दों में, यदि व्यक्तियों का एक अथवा अनेक समुदाय (जनसंख्या) एक निश्चित भू-भाग में स्थायी रूप से निवास करता है, एक संगठित सरकार वहाँ के शासन-प्रशासन का दायित्व सँभालती है तथा उस भू-भाग में निवास करने वाले समुदाय या समुदायों पर किसी प्रकार का कोई बाह्य नियंत्रण (संप्रभुता) नहीं है, तो इसे 'राज्य' की संज्ञा दी जाएगी। इस प्रकार उपलब्ध विकल्पों में से विकल्प (a) 'राज्य' शब्द को सर्वोत्तम रूप से परिभाषित करता है।[cite: 1]",
+      "en": "In modern political science, a State has four essential elements: population, territory, government, and sovereignty. In other words, if a community of persons (population) permanently occupies a definite territory, possesses an organized government, and is completely independent of external control (sovereignty), it is termed a 'State'. Thus, option (a) best defines the term 'State'.[cite: 1]"
+    }
+  },
+  {
+    "id": 7,
+    "year": 2021,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा कारक किसी उदार लोकतंत्र में स्वतंत्रता की सर्वोत्तम सुरक्षा को नियत करता है?",
+      "en": "Which one of the following factors constitutes the best safeguard of liberty in a liberal democracy?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एक प्रतिबद्ध न्यायपालिका",
+        "en": "A committed judiciary"
+      },
+      {
+        "id": "B",
+        "hi": "शक्तियों का केंद्रीकरण",
+        "en": "Centralization of powers"
+      },
+      {
+        "id": "C",
+        "hi": "निर्वाचित सरकार",
+        "en": "Elected government"
+      },
+      {
+        "id": "D",
+        "hi": "शक्तियों का पृथक्करण",
+        "en": "Separation of powers"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "किसी उदार लोकतंत्र में स्वतंत्रता की सर्वोत्तम सुरक्षा के लिये यह अनिवार्य है कि शक्तियों का केंद्रीकरण न हो। उल्लेखनीय है कि शक्तियों के पृथक्करण को यदि शासन का आधार बनाया जाता है, तो राज्य की विधायी, कार्यपालिका व न्यायिक शक्तियों का उपयोग पृथक्-पृथक् संस्थाओं द्वारा स्वायत्त रूप से किया जाता है और इसमें न्यायपालिका स्वतंत्र होती है, जिससे शासन व्यवस्था के किसी एक अंग द्वारा स्वतंत्रता पर आघात किये जाने की स्थिति में अन्य अंग नागरिकों की स्वतंत्रता के संरक्षण के लिये आगे आते हैं। अतः शक्तियों के पृथक्करण के माध्यम से ही स्वतंत्रता की सर्वोत्तम रक्षा की जा सकती है।[cite: 1]",
+      "en": "In a liberal democracy, the best safeguard of liberty is the separation of powers. This ensures that the legislative, executive, and judicial powers of the state are exercised autonomously by separate institutions. An independent judiciary can check the arbitrary actions of the executive or legislature. Thus, through the separation of powers, the concentration of power is discouraged, thereby safeguarding individual liberty.[cite: 1]"
+    }
+  },
+  {
+    "id": 8,
+    "year": 2021,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "जहाँ तक विधि-निर्माण का संबंध है, ब्रिटिश संसद सर्वोपरि अथवा संप्रभु है, किंतु भारत में संसद की विधि-निर्माण की शक्ति परिसीमित है।",
+        "en": "As regards legislation, the British Parliament is supreme or sovereign but in India, the power of the Parliament to legislate is limited."
+      },
+      {
+        "id": 2,
+        "hi": "भारत में, संसद के किसी अधिनियम के संशोधन की संवैधानिकता से संबंधित मामले उच्चतम न्यायालय द्वारा संविधान पीठ को भेजे जाते हैं।",
+        "en": "In India, matters related to the constitutionality of the Amendment of an Act of the Parliament are referred to the Constitution Bench by the Supreme Court."
+      }
+    ],
+    "question": {
+      "hi": "हमने ब्रिटिश मॉडल पर आधारित संसदीय लोकतंत्र को अपनाया है, किंतु हमारा मॉडल उस मॉडल से किस प्रकार भिन्न है?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "We adopted parliamentary democracy based on the British model, but how does our model differ from that model?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "विधि निर्माण के संदर्भ में ब्रिटिश संसद संप्रभु है, जबकि भारत में संसदीय संप्रभुता के स्थान पर संविधान की सर्वोच्चता को स्वीकार किया गया है, अतः संसद की विधि निर्माण की शक्ति संविधान के प्रावधानों के द्वारा परिसीमित की जाती है। अतः कथन 1 सही है। संविधान के अनुच्छेद-145 के अंतर्गत उच्चतम न्यायालय को प्रदत्त शक्तियों के आधार पर संसद द्वारा पारित किसी अधिनियम में संशोधन की संवैधानिकता जाँचने, अर्थात् उसमें निहित विधि के सारवान प्रश्न को संबोधित करने के लिये, न्यायालय की संविधान पीठ को भेजा जा सकता है। अतः कथन 2 सही है। विकल्प (c) सही उत्तर होगा।[cite: 1]",
+      "en": "In Britain, the Parliament is sovereign in matters of legislation. In India, the Constitution is supreme, and the Parliament's legislative powers are limited by the constitutional provisions and subject to judicial review. Hence, statement 1 is correct. Under Article 145(3) of the Constitution, any case involving a substantial question of law as to the interpretation of the Constitution (including the constitutionality of an amendment to an Act) is referred to a Constitution Bench of the Supreme Court. Hence, statement 2 is correct. Option (c) is the correct answer.[cite: 1]"
+    }
+  },
+  {
+    "id": 9,
+    "year": 2021,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "एन. गोपालस्वामी आयंगर समिति ने सुझाव दिया था कि किसी मंत्री और किसी सचिव को प्रशासनिक सुधार करने और उसे बढ़ावा देने के लिये पूर्णतः नामित किया जाना चाहिये।",
+        "en": "The N. Gopalaswamy Ayyangar Committee suggested that a minister and a secretary be designated solely for pursuing the subject of administrative reform and promoting it."
+      },
+      {
+        "id": 2,
+        "hi": "प्रशासनिक सुधार आयोग, 1966 की संस्तुति के आधार पर वर्ष 1970 में कार्मिक विभाग का गठन किया गया और इसे प्रधानमंत्री के प्रभार के अधीन रखा गया।",
+        "en": "In 1970, the Department of Personnel was constituted on the recommendation of the Administrative Reforms Commission, 1966, and this was placed under the Prime Minister's charge."
+      }
+    ],
+    "question": {
+      "hi": "संघ सरकार के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to the Union Government, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "एन. गोपालस्वामी आयंगर ने 1950 में 'केंद्र सरकार की मशीनरी का पुनर्गठन' नामक रिपोर्ट में मंत्रालयों के समूहीकरण, कर्मियों की क्षमताओं में सुधार तथा ऑर्गेनाइजेशन एंड मेथड्स (ओ एंड एम) डिवीज़न के कामकाज से संबंधित सिफारिश की थी। इस रिपोर्ट में यह उल्लेख नहीं है कि एक मंत्री और एक सचिव को केवल प्रशासनिक सुधार के विषय को आगे बढ़ाने के लिये नामित किया जाना चाहिये। अतः कथन 1 सही नहीं है। 1970 में 'प्रशासनिक सुधार आयोग, 1966' की अनुशंसा पर कैबिनेट सचिवालय के प्रभार के अधीन कार्मिक विभाग का गठन किया गया था। 1985 में इसका प्रभार प्रधानमंत्री कार्यालय को हस्तांतरित कर दिया गया था। उल्लेखनीय है कि कैबिनेट सचिवालय प्रभावी रूप से प्रधानमंत्री के प्रभार के अधीन है। अतः कथन 2 सही है। इस प्रकार विकल्प (b) सही उत्तर होगा।[cite: 1]",
+      "en": "N. Gopalaswamy Ayyangar in his report 'Reorganization of the Machinery of Central Government' in 1950 did not recommend that a minister and a secretary be designated solely for pursuing administrative reforms. Hence, statement 1 is incorrect. On the recommendation of the First Administrative Reforms Commission (1966), the Department of Personnel was constituted in 1970 under the Cabinet Secretariat, which functions directly under the Prime Minister. Hence, statement 2 is correct. Thus, option (b) is the correct answer.[cite: 1]"
+    }
+  },
+  {
+    "id": 10,
+    "year": 2021,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "सांविधानिक सरकार का आशय क्या है?",
+      "en": "What is meant by Constitutional government?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "किसी राष्ट्र की परिसंघीय संरचना वाली एक प्रतिनिधि सरकार",
+        "en": "A representative government of a nation with federal structure"
+      },
+      {
+        "id": "B",
+        "hi": "कोई सरकार, जिसके प्रमुख के पास नाममात्र की शक्तियाँ हों",
+        "en": "A government whose Head enjoys nominal powers"
+      },
+      {
+        "id": "C",
+        "hi": "कोई सरकार, जिसके प्रमुख के पास वास्तविक शक्तियाँ हों",
+        "en": "A government whose Head enjoys real powers"
+      },
+      {
+        "id": "D",
+        "hi": "कोई सरकार, जो संविधान की सीमाओं से परिबद्ध हो",
+        "en": "A government limited by the terms of the Constitution"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "परिभाषा से, संवैधानिक सरकार वह सरकार है, जो संविधान की सीमाओं से परिबद्ध हो। अतः विकल्प (d) सही उत्तर होगा। उल्लेखनीय है कि सरकार के प्रमुख के पास नाममात्र की शक्तियाँ होना 'संसदीय प्रणाली' की सरकार का अभिलक्षण है, जबकि सरकार के प्रमुख के पास वास्तविक शक्तियाँ होना 'अध्यक्षात्मक प्रणाली' की सरकार का अभिलक्षण है।[cite: 1]",
+      "en": "By definition, a constitutional government is a government limited by the terms of the Constitution. Hence, option (d) is the correct answer. It is noteworthy that a government whose head enjoys nominal powers is a characteristic of a 'parliamentary system', while a government whose head enjoys real powers is a characteristic of a 'presidential system'.[cite: 1]"
+    }
+  },
+  {
+    "id": 11,
+    "year": 2020,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत का संविधान अपने 'मूल ढाँचे' को संघवाद, पंथनिरपेक्षता, मूल अधिकारों तथा लोकतंत्र के रूप में परिभाषित करता है।",
+        "en": "The Constitution of India defines its 'basic structure' in terms of federalism, secularism, fundamental rights and democracy."
+      },
+      {
+        "id": 2,
+        "hi": "भारत का संविधान, नागरिकों की स्वतंत्रता तथा उन आदर्शों जिन पर संविधान आधारित है, की सुरक्षा हेतु 'न्यायिक पुनरावलोकन' की व्यवस्था करता है।",
+        "en": "The Constitution of India provides for 'judicial review' to safeguard the citizens' liberties and to preserve the ideals on which the Constitution is based."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये-\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "भारत का संविधान मूल ढाँचे को परिभाषित नहीं करता है, यह एक न्यायिक नवाचार है। 1973 के केशवानंद भारती मामले में उच्चतम न्यायालय ने यह प्रतिपादित किया था। अतः कथन 1 सही नहीं है। संविधान में 'न्यायिक पुनरावलोकन' (Judicial Review) शब्दावली का प्रत्यक्ष उल्लेख नहीं है। अनुच्छेद-13(2) के अनुसार राज्य ऐसी कोई विधि नहीं बनाएगा जो मौलिक अधिकार छीनती हो, लेकिन 'नागरिकों की स्वतंत्रता तथा उन आदर्शों की सुरक्षा हेतु' स्पष्ट रूप से 'न्यायिक पुनरावलोकन' को परिभाषित नहीं किया गया है। UPSC के अनुसार दोनों कथन गलत हैं। अतः विकल्प (d) सही है।[cite: 1]",
+      "en": "The Constitution of India does not define the 'basic structure'; it is a judicial innovation propounded in the Kesavananda Bharati case (1973). Hence, Statement 1 is incorrect. The Constitution does not explicitly mention the term 'judicial review' nor does it explicitly state that it provides for judicial review to safeguard citizens' liberties and preserve constitutional ideals, even though Articles 13, 32, and 226 form its basis. UPSC considered both statements incorrect. Hence, option (d) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 12,
+    "year": 2020,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "गांधीवाद और मार्क्सवाद के बीच एक समान सहमति पाई जाती है। यह निम्नलिखित में से कौन-सी है?",
+      "en": "One common agreement between Gandhism and Marxism is"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एक अंतिम लक्ष्य के रूप में राज्यविहीन समाज",
+        "en": "the final goal of a stateless society"
+      },
+      {
+        "id": "B",
+        "hi": "वर्ग संघर्ष",
+        "en": "class struggle"
+      },
+      {
+        "id": "C",
+        "hi": "निजी संपत्ति की समाप्ति",
+        "en": "abolition of private property"
+      },
+      {
+        "id": "D",
+        "hi": "आर्थिक नियतिवाद",
+        "en": "economic determinism"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "गाँधीवाद और मार्क्सवाद दोनों का अंतिम उद्देश्य एक राज्यविहीन और वर्गविहीन समाज की स्थापना करना है, हालाँकि इस उद्देश्य को प्राप्त करने के लिये दोनों के साधन अलग हैं। महात्मा गांधी अहिंसक साधनों के माध्यम से इस अंत को प्राप्त करना चाहते थे, लेकिन मार्क्स इसे हिंसक साधनों के माध्यम से हासिल करना चाहते थे। इसलिये, विकल्प (a) सही है।[cite: 1]",
+      "en": "The ultimate goal of both Gandhism and Marxism is the establishment of a stateless and classless society, although their means to achieve this goal differ. Mahatma Gandhi wanted to achieve this through non-violent means, whereas Marx advocated for a violent revolution. Therefore, option (a) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 13,
+    "year": 2020,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "'आधार' मेटाडेटा को तीन महीने से अधिक संगृहीत नहीं रखा जा सकता है।",
+        "en": "Aadhaar metadata cannot be stored for more than three months."
+      },
+      {
+        "id": 2,
+        "hi": "राज्य निजी निगमों (Corporations) से 'आधार' डेटा को साझा करने के लिये कोई अनुबंध नहीं कर सकता।",
+        "en": "State cannot enter into any contract with private corporations for sharing of Aadhaar data."
+      },
+      {
+        "id": 3,
+        "hi": "'आधार' बीमा उत्पादों को प्राप्त करने के लिये अनिवार्य है।",
+        "en": "Aadhaar is mandatory for obtaining insurance products."
+      },
+      {
+        "id": 4,
+        "hi": "'आधार' भारत की संचित निधि से हितलाभ प्राप्त करने के लिये अनिवार्य है।",
+        "en": "Aadhaar is mandatory for getting benefits funded out of the Consolidated Fund of India."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये-\nउपर्युक्त कथनों में से कौन-सा/से सहीं है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 4",
+        "en": "1 and 4 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "आधार (Aadhaar) भारतीय विशिष्ट पहचान प्राधिकरण (UIDAI) द्वारा दी जाने वाली एक विशिष्ट पहचान है। आधार मेटाडेटा को 6 माह से अधिक संगृहीत नहीं किया जा सकता है। अतः कथन 1 सही नहीं है। उच्चतम न्यायालय के दिशा-निर्देश के अनुसार राज्य निजी निगमों से आधार डेटा को साझा करने के लिये अनुबंध नहीं कर सकता। अतः कथन 2 सही है। बीमा उत्पादों को प्राप्त करने के लिये आधार अनिवार्य नहीं है। अतः कथन 3 सही नहीं है। भारत की संचित निधि से हितलाभ प्राप्त करने के लिये आधार अनिवार्य है। अतः कथन 4 सही है। अतः विकल्प (B) सही है।[cite: 1]",
+      "en": "Aadhaar authentication metadata cannot be stored for more than 6 months (as per the Supreme Court judgment striking down the 5-year retention period). Hence, statement 1 is incorrect. The State cannot enter into a contract with private corporations for sharing Aadhaar data. Hence, statement 2 is correct. Aadhaar is not mandatory for obtaining insurance products. Hence, statement 3 is incorrect. Aadhaar is mandatory for getting welfare benefits funded out of the Consolidated Fund of India. Hence, statement 4 is correct. Thus, option (B) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 14,
+    "year": 2020,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "परिभाषा से, संवैधानिक सरकार का अर्थ है-",
+      "en": "A constitutional government by definition is a"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "विधान मंडल द्वारा सरकार",
+        "en": "government by legislature"
+      },
+      {
+        "id": "B",
+        "hi": "लोकप्रिय सरकार",
+        "en": "popular government"
+      },
+      {
+        "id": "C",
+        "hi": "बहु-दलीय सरकार",
+        "en": "multi-party government"
+      },
+      {
+        "id": "D",
+        "hi": "सीमित सरकार",
+        "en": "limited government"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "संवैधानिक सरकार से तात्पर्य ऐसी सरकार से है जो संविधान की व्यवस्थाओं के अनुसार गठित, नियंत्रित व सीमित हो तथा व्यक्ति विशेष की इच्छाओं के स्थान पर विधि के अनुरूप ही संचालित होती हो। राज्य में केवल संविधान का होना मात्र सरकार को संवैधानिक नहीं बनाता है, बल्कि वही सरकार संवैधानिक कही जाएगी जो वास्तव में संविधान द्वारा सीमित व नियंत्रित हो। अतः विकल्प (d) सही है।[cite: 1]",
+      "en": "A constitutional government implies a government that is constituted, controlled, and limited by the provisions of the Constitution, and is governed by laws rather than the whims of individuals. The mere existence of a constitution does not make a government constitutional; it is the limitation on government powers that defines it. Therefore, a constitutional government by definition is a limited government. Hence, option (d) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 15,
+    "year": 2019,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "राज्य-व्यवस्था के संदर्भ में, निम्नलिखित में से किस एक को आप स्वतंत्रता की सर्वाधिक उपयुक्त व्याख्या के रूप में स्वीकार करेंगे?",
+      "en": "In the context of polity, which one of the following would you accept as the most appropriate definition of liberty?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "राजनीतिक शासकों की तानाशाही के विरुद्ध संरक्षण",
+        "en": "Protection against the tyranny of political rulers"
+      },
+      {
+        "id": "B",
+        "hi": "नियंत्रण का अभाव",
+        "en": "Absence of restraint"
+      },
+      {
+        "id": "C",
+        "hi": "इच्छानुसार कुछ भी करने का अवसर",
+        "en": "Opportunity to do whatever one likes"
+      },
+      {
+        "id": "D",
+        "hi": "स्वयं को पूर्णतः विकसित करने का अवसर",
+        "en": "Opportunity to develop oneself fully"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "व्यक्ति पर बाहरी प्रतिबंधों का अभाव ही स्वतंत्रता है, किंतु प्रतिबंधों का न होना स्वतंत्रता का केवल एक पहलू है। स्वतंत्रता का अर्थ व्यक्ति की आत्म-अभिव्यक्ति की योग्यता का विस्तार करना और उसके अंदर की संभावनाओं को विकसित करना भी है। इस अर्थ में स्वतंत्रता वह स्थिति है, जिसमें लोग अपनी रचनात्मकता और क्षमताओं का पूर्ण विकास कर सकें। अतः विकल्प (d) सर्वाधिक उपयुक्त है।[cite: 1]",
+      "en": "The absence of external constraints is one aspect of liberty, but it is not the complete definition. Liberty also means the ability to expand one's capacity for self-expression and to develop one's potential. In this positive sense, liberty is the condition in which people can fully develop their creativity and capabilities. Hence, option (d) is the most appropriate definition.[cite: 1]"
+    }
+  },
+  {
+    "id": 16,
+    "year": 2018,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "विधि और स्वाधीनता के बीच सबसे उपयुक्त संबंध को, निम्नलिखित में से कौन प्रतिबिम्बित करता है?",
+      "en": "Which one of the following reflects the most appropriate relationship between law and liberty?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "यदि विधियाँ अधिक होती हैं तो स्वाधीनता कम होती है।",
+        "en": "If there are more laws, there is less liberty."
+      },
+      {
+        "id": "B",
+        "hi": "यदि विधि नहीं हैं तो स्वाधीनता भी नहीं है।",
+        "en": "If there are no laws, there is no liberty."
+      },
+      {
+        "id": "C",
+        "hi": "यदि स्वाधीनता है तो विधि-निर्माण जनता को करना होगा।",
+        "en": "If there is liberty, laws have to be made by the people."
+      },
+      {
+        "id": "D",
+        "hi": "यदि विधि-परिवर्तन बार-बार होता है तो वह स्वाधीनता के लिये खतरा है।",
+        "en": "If laws are changed too often, liberty is in danger."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कथन (b) विधि और स्वाधीनता के बीच सबसे उपयुक्त संबंध को प्रतिबिम्बित करता है। प्रसिद्ध विद्वान 'जॉन लॉक' ने भी इस कथन की पुष्टि की है और कहा है, \"जहाँ कोई विधि नहीं है वहाँ कोई स्वाधीनता नहीं है\" (Where there is no law there is no freedom)। इसलिये स्वतंत्रता के अस्तित्व के लिये विधि का अस्तित्व आवश्यक है। विधि ही स्वतंत्रता की रक्षा करती है। विधि की अनुपस्थिति में समाज में अराजकता प्रबल होगी।[cite: 1]",
+      "en": "Statement (b) reflects the most appropriate relationship between law and liberty. Famous philosopher John Locke also confirmed this statement, saying, \"Where there is no law there is no freedom.\" Therefore, the existence of law is necessary for the existence of liberty. Law protects liberty. In the absence of law, anarchy would prevail in society, and the strong would oppress the weak.[cite: 1]"
+    }
+  },
+  {
+    "id": 17,
+    "year": 2018,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "शक्तियों का परिसीमन",
+        "en": "Limitation of powers"
+      },
+      {
+        "id": 2,
+        "hi": "विधि के समक्ष समता",
+        "en": "Equality before law"
+      },
+      {
+        "id": 3,
+        "hi": "सरकार के प्रति जन-उत्तरदायित्व",
+        "en": "People's responsibility to the Government"
+      },
+      {
+        "id": 4,
+        "hi": "स्वतंत्रता और नागरिक अधिकार",
+        "en": "Liberty and civil rights"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से किनको 'विधि के शासन' के प्रमुख लक्षणों के रूप में माना जाएगा?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Which of the following are regarded as the main features of the \"Rule of Law\"?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2 और 4",
+        "en": "1, 2 and 4"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "ब्रिटिश न्यायविद् ए.वी. डायसी का मानना है कि 'विधि के समक्ष समता' का विचार 'विधि के शासन' के सिद्धांत का मूल तत्त्व है। व्यक्तिगत अधिकारों की स्वतंत्रता अर्थात् संविधान व्यक्तिगत अधिकारों का परिणाम है जिससे नागरिक अधिकार तथा स्वतंत्रता 'विधि के शासन' के प्रमुख लक्षणों में शामिल है। शक्तियों पर युक्ति-युक्त निर्बंधन/परिसीमन 'विधि के शासन' के अहम पक्षों में से एक है। सरकार के प्रति जन-उत्तरदायित्व इसका लक्षण नहीं है। अतः विकल्प (C) सही है।[cite: 1]",
+      "en": "British jurist A.V. Dicey considered 'equality before law' as a core element of the 'Rule of Law'. Liberty and civil rights (primacy of the rights of the individual) are also main features. Limitation of powers (absence of arbitrary power) is another crucial aspect. 'People's responsibility to the Government' is not a feature of the Rule of Law. Hence, option (C) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 18,
+    "year": 2017,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "समाज में समानता के होने का एक निहितार्थ यह है कि उसमें",
+      "en": "One of the implications of equality in society is the absence of"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "विशेषाधिकारों का अभाव है",
+        "en": "Privileges"
+      },
+      {
+        "id": "B",
+        "hi": "अवरोधों का अभाव है",
+        "en": "Restraints"
+      },
+      {
+        "id": "C",
+        "hi": "प्रतिस्पर्द्धा का अभाव है",
+        "en": "Competition"
+      },
+      {
+        "id": "D",
+        "hi": "विचारधारा का अभाव है",
+        "en": "Ideology"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "समानता मूल्य को साकार करने का अर्थ विशेषाधिकारों के अभाव से लगाया जाता है। प्राकृतिक विषमता दूर करना हमारे अधिकार क्षेत्र में नहीं, परंतु इस आधार पर समाज में जो विषमताएँ निर्मित की जाती हैं उन्हें दूर करना सभी समाजों का लक्ष्य होना चाहिये। हेराल्ड लास्की के अनुसार समानता में किसी को विशेषाधिकार प्राप्त नहीं होना चाहिये।[cite: 1]",
+      "en": "Equality in society implies the absence of special privileges to any class or individual. According to Harold Laski, equality means that no man shall be so placed in society that he can overreach his neighbor to the extent which constitutes a denial of the latter's citizenship, implying the absence of privileges.[cite: 1]"
+    }
+  },
+  {
+    "id": 19,
+    "year": 2017,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत में मताधिकार और निर्वाचित होने का अधिकार",
+      "en": "Right to vote and to be elected in India is a"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "मूल अधिकार है",
+        "en": "Fundamental Right"
+      },
+      {
+        "id": "B",
+        "hi": "नैसर्गिक अधिकार है",
+        "en": "Natural Right"
+      },
+      {
+        "id": "C",
+        "hi": "सांविधानिक अधिकार है",
+        "en": "Constitutional Right"
+      },
+      {
+        "id": "D",
+        "hi": "विधिक अधिकार है",
+        "en": "Legal Right"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "भारत में मताधिकार और निर्वाचित होने का अधिकार एक संवैधानिक अधिकार है। संविधान के अनुच्छेद 326 के तहत वयस्क मताधिकार का प्रावधान किया गया है। इसे जनप्रतिनिधित्व कानून-1951 द्वारा शर्तों सहित सुनिश्चित किया जाता है। अतः विकल्प (c) सही है।[cite: 1]",
+      "en": "The right to vote and to be elected in India is a constitutional right. Article 326 of the Constitution provides for universal adult suffrage. It is also statutorily regulated by the Representation of the People Act, 1951. Since its origin stems from the Constitution, it is best classified as a Constitutional Right. Hence, option (c) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 20,
+    "year": 2017,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सी एक भारतीय संघराज्य पद्धति की विशेषता नहीं है?",
+      "en": "Which one of the following is not a feature of Indian federalism?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भारत में स्वतंत्र न्यायपालिका है।",
+        "en": "There is an independent judiciary in India."
+      },
+      {
+        "id": "B",
+        "hi": "केंद्र और राज्यों के बीच शक्तियों का स्पष्ट विभाजन किया गया है।",
+        "en": "Powers have been clearly divided between the Centre and the States."
+      },
+      {
+        "id": "C",
+        "hi": "संघबद्ध होने वाली इकाइयों को राज्य सभा में असमान प्रतिनिधित्व दिया गया है।",
+        "en": "The federating units have been given unequal representation in the Rajya Sabha."
+      },
+      {
+        "id": "D",
+        "hi": "यह संघबद्ध होने वाली इकाइयों के बीच एक सहमति का परिणाम है।",
+        "en": "It is the result of an agreement among the federating units."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "भारतीय संघ राज्य पद्धति संघबद्ध होने वाली इकाइयों के बीच एक सहमति का परिणाम नहीं है (जैसा कि अमेरिकी संघ है)। अन्य दी गई तीनों विशेषताएँ भारतीय संघ राज्य पद्धति की विशेषताएँ हैं। अतः विकल्प (d) सही उत्तर है।[cite: 1]",
+      "en": "The Indian federation is not the result of an agreement among the federating units (unlike the American federation). The other three features are indeed characteristics of Indian federalism. Hence, option (d) is the correct answer.[cite: 1]"
+    }
+  },
+  {
+    "id": 21,
+    "year": 2014,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "जो राज्य की सत्ता के हित में व्यक्ति की स्वतंत्रता पर प्रभावकारी प्रतिबंध लगाती है।",
+        "en": "Places effective restrictions on individual liberty in the interest of State Authority."
+      },
+      {
+        "id": 2,
+        "hi": "जो व्यक्ति की स्वतंत्रता के हित में राज्य की सत्ता पर प्रभावकारी प्रतिबंध लगाती है।",
+        "en": "Places effective restrictions on the Authority of the State in the interest of individual liberty."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nसंवैधानिक सरकार वह है-\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nA Constitutional Government is one which\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "संवैधानिक सरकार राज्य की सत्ता के हित में व्यक्ति की स्वतंत्रता पर प्रभावकारी प्रतिबंध नहीं लगाती है बल्कि व्यक्ति की स्वतंत्रता के हित में राज्य की सत्ता पर प्रभावकारी प्रतिबंध लगाती है। उदाहरण के तौर पर भारत में स्थापित संवैधानिक सरकार लोगों को मौलिक अधिकार प्रदान करती है जो न्यायालय द्वारा प्रवर्तनीय हैं एवं राज्य की सत्ता पर एक सीमा तक अंकुश लगाते हैं। अतः कथन (2) सही है।[cite: 1]",
+      "en": "A Constitutional Government does not place effective restrictions on individual liberty in the interest of State Authority; rather, it places effective restrictions on the Authority of the State in the interest of individual liberty. For instance, the constitutional government in India provides Fundamental Rights to people which are enforceable by courts and place a check on state authority. Hence, statement (2) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 22,
+    "year": 2014,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "विक्रय कर, जिसका भुगतान आप कोई टूथपेस्ट खरीदते समय करते हैं, निम्नलिखित में से किस प्रकार का कर है?",
+      "en": "The sales tax you pay while purchasing a toothpaste is a"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केंद्र सरकार द्वारा आरोपित कर",
+        "en": "tax imposed by the Central Government"
+      },
+      {
+        "id": "B",
+        "hi": "केंद्र सरकार द्वारा आरोपित, किंतु राज्य सरकार द्वारा संगृहीत कर",
+        "en": "tax imposed by the Central Government but collected by the State Government"
+      },
+      {
+        "id": "C",
+        "hi": "राज्य सरकार द्वारा आरोपित, किंतु केंद्र सरकार द्वारा संगृहीत कर",
+        "en": "tax imposed by the State Government but collected by the Central Government"
+      },
+      {
+        "id": "D",
+        "hi": "राज्य सरकार द्वारा आरोपित एवं संगृहीत कर",
+        "en": "tax imposed and collected by the State Government"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "विक्रय कर, जिसका भुगतान कोई वस्तु खरीदते समय उपभोक्ता को करना होता है, राज्य सरकार के द्वारा आरोपित एवं राज्य सरकार के द्वारा ही संगृहीत किया जाता है। इसका उपभोग भी राज्य सरकार के द्वारा ही किया जाता है।[cite: 1]",
+      "en": "Sales tax, which a consumer pays while purchasing an item, is a tax imposed and collected by the State Government. It is also consumed by the State Government.[cite: 1]"
+    }
+  },
+  {
+    "id": 23,
+    "year": 2013,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "राष्ट्रीय विकास परिषद्, योजना आयोग का एक अंग है।",
+        "en": "National Development Council is an organ of the Planning Commission."
+      },
+      {
+        "id": 2,
+        "hi": "आर्थिक और सामाजिक योजना को भारत के संविधान की समवर्ती सूची में रखा गया है।",
+        "en": "Economic and Social Planning is kept in the Concurrent List in the Constitution of India."
+      },
+      {
+        "id": 3,
+        "hi": "भारत का संविधान यह विहित करता है कि पंचायतों को आर्थिक विकास एवं सामाजिक न्याय की योजना बनाने का कार्यभार दिया जाना चाहिये।",
+        "en": "The Constitution of India prescribes that Panchayats should be assigned the task of preparation of plans for economic development and social justice."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये-\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "प्रश्न पूछे जाने के समय राष्ट्रीय विकास परिषद् (NDC) एक स्वतंत्र सलाहकारी निकाय था, यह योजना आयोग का अंग नहीं था। अतः कथन 1 गलत है। आर्थिक और सामाजिक योजना को भारत के संविधान की सातवीं अनुसूची की समवर्ती सूची में प्रविष्टि संख्या 20 में दर्ज किया गया है। अतः कथन (2) सही है। भारत के संविधान के अनुच्छेद-243G(a) में यह उल्लेख किया गया है कि पंचायतों को आर्थिक विकास एवं सामाजिक न्याय की योजना बनाने का कार्यभार दिया जाना चाहिये। अतः कथन (3) सही है।[cite: 1]",
+      "en": "The National Development Council (NDC) was an independent advisory body, not an organ of the Planning Commission. Hence, Statement 1 is incorrect. Economic and social planning is listed in Entry 20 of the Concurrent List in the Seventh Schedule. Hence, Statement 2 is correct. Article 243G(a) of the Constitution states that Panchayats should be endowed with powers and authority to prepare plans for economic development and social justice. Hence, Statement 3 is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 24,
+    "year": 2011,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह संप्रदाय/समुदाय विशेष शैक्षणिक संस्थानों की स्थापना और संचालन कर सकता है।",
+        "en": "It can establish and administer exclusive educational institutions."
+      },
+      {
+        "id": 2,
+        "hi": "भारत के राष्ट्रपति स्वयमेव इस संप्रदाय/समुदाय के एक प्रतिनिधि को लोक सभा में मनोनीत कर देते हैं।",
+        "en": "The President of India automatically nominates a representative of the community to Lok Sabha."
+      },
+      {
+        "id": 3,
+        "hi": "यह संप्रदाय/समुदाय प्रधानमंत्री के 15 पॉइंट कार्यक्रम के लाभ प्राप्त कर सकता है।",
+        "en": "It can derive benefits from the Prime Minister's 15-Point Programme."
+      }
+    ],
+    "question": {
+      "hi": "भारत के किसी धार्मिक संप्रदाय/समुदाय को यदि राष्ट्रीय स्तर पर अल्पसंख्यक वर्ग का दर्जा दिया जाता है तो वह किस/किन विशेष लाभ/लाभों का हकदार हो जाता है?",
+      "en": "If a particular plant species is placed under Schedule VI of The Wildlife Protection Act, 1972, what is the implication? (Wait, English translation matching Hindi: If a religious sect/community is given the status of a national minority, what special advantages is it entitled to?)"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "भारतीय संविधान के अनुच्छेद-30(1) के अनुसार, धर्म या भाषा पर आधारित सभी अल्पसंख्यक वर्गों को अपनी रुचि के शिक्षा संस्थानों की स्थापना तथा प्रशासन का अधिकार होगा। अल्पसंख्यक समुदाय प्रधानमंत्री के 15 सूत्रीय कार्यक्रम के तहत लाभ प्राप्त करते हैं। किंतु राष्ट्रपति के द्वारा इस वर्ग के लोगों को लोक सभा में मनोनीत करने का कोई प्रावधान नहीं है। अतः कथन 2 गलत है तथा 1 और 3 सही हैं।[cite: 1]",
+      "en": "Under Article 30(1) of the Indian Constitution, all minorities, whether based on religion or language, shall have the right to establish and administer educational institutions of their choice. Minority communities also derive benefits from the PM's 15-Point Programme. However, there is no provision for the President to automatically nominate a representative of the minority community to the Lok Sabha. Hence, statement 2 is incorrect. Therefore, 1 and 3 are correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 25,
+    "year": 2011,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "स्थायी सरकार लेखानुमोदन के प्रावधान का प्रयोग करती है, जबकि कार्यवाहक सरकार अंतरिम बजट के प्रावधान का प्रयोग करती है।",
+        "en": "The provision of a \"vote-on-account\" is used by a regular Government, while an \"interim budget\" is a provision used by a caretaker Government."
+      },
+      {
+        "id": 2,
+        "hi": "लेखानुमोदन सरकार के बजट के व्यय पक्ष मात्र से संबद्ध होता है, जबकि अंतरिम बजट में व्यय तथा आवती दोनों सम्मिलित होते हैं।",
+        "en": "A \"vote-on-account\" only deals with the expenditure in Government's budget, while an \"interim budget\" includes both expenditure and receipts."
+      }
+    ],
+    "question": {
+      "hi": "लेखानुमोदन और अंतरिम बजट के बीच क्या अंतर है?\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "What is the difference between \"vote-on-account\" and \"interim budget\"?\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "चूँकि बजट प्रक्रिया पूरी न होने की स्थिति किसी भी सरकार के समक्ष उपस्थित हो सकती है, अतः लेखानुदान का प्रावधान स्थायी एवं अस्थायी दोनों प्रकार की सरकारों के द्वारा किया जा सकता है। अतः कथन (1) गलत है। लेखानुदान पारित करने का कारण व्यय के लिये धन की व्यवस्था करना होता है, जबकि अंतरिम बजट में व्यय एवं प्राप्तियों दोनों का विवरण रहता है। अतः कथन (2) सही है।[cite: 1]",
+      "en": "Since the situation of the budget process not being completed can arise before any government, the provision of vote-on-account can be used by both regular and caretaker governments. Hence, statement (1) is incorrect. A vote-on-account deals only with the expenditure side to keep the government functioning, whereas an interim budget includes both expenditure and receipts. Hence, statement (2) is correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 26,
+    "year": 2011,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सरकार द्वारा चलाए जा रहे स्कूलों में 18 वर्ष की आयु तक निःशुल्क शिक्षा।",
+        "en": "Free schooling till the age of 18 years in government-run schools."
+      },
+      {
+        "id": 2,
+        "hi": "व्यवसाय स्थापित करने के लिये वरीयता से भूमि का आवंटन।",
+        "en": "Preferential allotment of land for setting up business."
+      },
+      {
+        "id": 3,
+        "hi": "सार्वजनिक भवनों में ढाल का उपलब्ध होना।",
+        "en": "Ramps in public buildings."
+      }
+    ],
+    "question": {
+      "hi": "भारत में विकलांग व्यक्तियों (Persons with disabilities) की संख्या लाखों में है। वैधानिक स्तर पर उन्हें कौन-कौन से लाभ उपलब्ध हैं?\nउपर्युक्त में से कौन-सा/कौन-से कथन सही है/हैं?",
+      "en": "In India, there are lakhs of Persons with disabilities. What benefits are available to them under law?\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "विकलांग व्यक्ति (समान अवसर, संरक्षण का अधिकार एवं पूर्ण भागीदारी) अधिनियम, 1995 के तहत 18 वर्ष की आयु तक निःशुल्क शिक्षा, व्यवसाय स्थापित करने के लिये भूमि आवंटन में वरीयता, तथा सार्वजनिक भवनों, शौचालयों आदि में रैंप (ढाल) की व्यवस्था सुनिश्चित करने के प्रावधान किये गए हैं। अतः 1, 2 और 3 तीनों सही हैं।[cite: 1]",
+      "en": "Under the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995, provisions are made for free education up to the age of 18, preferential allotment of land for setting up business, and ensuring ramps in public buildings for easy access. Hence, 1, 2, and 3 are all correct.[cite: 1]"
+    }
+  },
+  {
+    "id": 27,
+    "year": 2011,
+    "subject": "Polity",
+    "topic": "भारतीय संविधान एवं शासन व्यवस्था के विविध विषय (Miscellaneous Topics of Indian Constitution and Governance)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "शिक्षा का अधिकार।",
+        "en": "Right to Education"
+      },
+      {
+        "id": 2,
+        "hi": "समानता के साथ सार्वजनिक सेवा प्राप्त करने का अधिकार।",
+        "en": "Right to equal access to public service"
+      },
+      {
+        "id": 3,
+        "hi": "भोजन का अधिकार।",
+        "en": "Right to food"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पर विचार कीजिये-\n'मानव अधिकारों की व्यापक उद्घोषणा' के अंतर्गत उपर्युक्त में से कौन-सा/कौन-से अधिकार मानव अधिकार/अधिकारों में आता है/आते हैं?",
+      "en": "Consider the following:\nWhich of the above is/are Human Right/Human Rights under \"Universal Declaration of Human Rights\"?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "'मानवाधिकारों की व्यापक उद्घोषणा' (UDHR) को संयुक्त राष्ट्र महासभा द्वारा 1948 में अपनाया गया था। इसके तहत घोषित प्रमुख मानवाधिकारों में शिक्षा का अधिकार, भोजन, वस्त्र, आवास एवं चिकित्सा सेवाओं का अधिकार तथा सार्वजनिक सेवाओं तक समान पहुँच का अधिकार शामिल है। अतः तीनों विकल्प सही हैं।[cite: 1]",
+      "en": "The 'Universal Declaration of Human Rights' (UDHR) was adopted by the UN General Assembly in 1948. The major human rights declared under it include the right to education, the right to food, clothing, housing, and medical care, and the right to equal access to public service. Hence, all three options are correct.[cite: 1]"
+    }
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "subject": "Polity",
+    "topic": "उद्देशिका (Preamble)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "डॉ. राजेंद्र प्रसाद के कार्यभार संभालने से पहले संविधान सभा के अस्थायी सभापति कौन थे?",
+      "en": "Who was the provisional President of the Constituent Assembly before Dr. Rajendra Prasad took charge?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सी. राजगोपालाचारी",
+        "en": "C. Rajagopalachari"
+      },
+      {
+        "id": "B",
+        "hi": "डॉ. बी.आर. अंबेडकर",
+        "en": "Dr. B.R. Ambedkar"
+      },
+      {
+        "id": "C",
+        "hi": "टी.टी. कृष्णामचारी",
+        "en": "T.T. Krishnamachari"
+      },
+      {
+        "id": "D",
+        "hi": "डॉ. सच्चिदानंद सिन्हा",
+        "en": "Dr. Sachchidananda Sinha"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "संविधान सभा की प्रथम बैठक 9 दिसंबर, 1946 को आहूत की गई, जिसमें मुस्लिम लीग ने अलग राज्य पाकिस्तान की मांग करते हुए सत्र का बहिष्कार किया। परिणामस्वरूप, केवल 211 सदस्य ही उपस्थित हुए। फ्रांसीसी परंपरा का पालन करते हुए सबसे वरिष्ठ सदस्य डॉ. सच्चिदानंद सिन्हा को संविधान सभा का अस्थायी अध्यक्ष चुना गया। इसके बाद संविधान सभा द्वारा डॉ. राजेंद्र प्रसाद को स्थायी अध्यक्ष नियुक्त किया गया तथा एच. सी. मुखर्जी एवं वी. टी. कृष्णामचारी को उपाध्यक्ष के रूप में चयनित किया गया। अतः विकल्प (D) सही है।",
+      "en": "The first meeting of the Constituent Assembly was convened on 9 December 1946, which the Muslim League boycotted demanding a separate state of Pakistan. As a result, only 211 members attended. Following the French practice, the oldest member Dr. Sachchidananda Sinha was elected as the temporary President of the Constituent Assembly. Later, Dr. Rajendra Prasad was elected as the permanent President of the Assembly, and H.C. Mukherjee and V.T. Krishnamachari were elected as Vice-Presidents. Therefore, option (D) is correct."
+    }
+  },
+  {
+    "id": 2,
+    "subject": "Polity",
+    "topic": "उद्देशिका (Preamble)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "नागरिकों के बीच संवैधानिक मूल्यों को संवर्द्धित करने के लिये संविधान दिवस प्रतिवर्ष 26 नवंबर को मनाया जाता है।",
+        "en": "Constitution Day is celebrated on 26th November every year to promote constitutional values among citizens."
+      },
+      {
+        "id": 2,
+        "hi": "26 नवंबर, 1949 को, भारत की संविधान सभा में भारत के संविधान का प्रारूप तैयार करने के लिये डॉ बी.आर. अंबेडकर की अध्यक्षता में प्रारूपण समिति बनाई।",
+        "en": "On 26th November, 1949, the Constituent Assembly of India set up a Drafting Committee under the Chairmanship of Dr. B.R. Ambedkar to prepare a Draft Constitution of India."
+      }
+    ],
+    "question": {
+      "hi": "संविधान दिवस के बारे में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों के बारे में, निम्नलिखित में से कौन-सा एक सही है?",
+      "en": "Consider the following statements in respect of Constitution Day:\nWhich one of the following is correct in respect of the above statements?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कथन-I और कथन-II दोनों सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+        "en": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I."
+      },
+      {
+        "id": "B",
+        "hi": "कथन-I और कथन-II दोनों सही हैं तथा कथन-II, कथन-I की सही व्याख्या नहीं है।",
+        "en": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I."
+      },
+      {
+        "id": "C",
+        "hi": "कथन-I सही है किंतु कथन-II गलत है।",
+        "en": "Statement-I is correct but Statement-II is incorrect."
+      },
+      {
+        "id": "D",
+        "hi": "कथन-I गलत है किंतु कथन-II सही है।",
+        "en": "Statement-I is incorrect but Statement-II is correct."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "26 नवंबर को संविधान दिवस के रूप में मनाया जाता है। इसी दिन वर्ष 1949 में भारतीय संविधान सभा ने औपचारिक रूप से भारत के संविधान को अपनाया, जो आगे चलकर 26 जनवरी, 1950 को लागू हुआ। अतः कथन 1 सही है। 29 अगस्त, 1947 को संविधान सभा ने डॉ. बी.आर. अंबेडकर की अध्यक्षता में प्रारूप समिति का गठन किया, जिसने भारतीय संविधान के प्रारूप को तैयार किया। अतः कथन 2 सही नहीं है। अतः विकल्प (C) सही है।",
+      "en": "Constitution Day is celebrated on 26th November. On this day in 1949, the Constituent Assembly formally adopted the Constitution of India, which came into effect on 26th January 1950. Thus, Statement I is correct. On 29 August 1947, the Constituent Assembly set up a Drafting Committee under the chairmanship of Dr. B.R. Ambedkar to prepare the draft constitution. Thus, Statement II is incorrect. Hence, option (C) is correct."
+    }
+  },
+  {
+    "id": 3,
+    "subject": "Polity",
+    "topic": "उद्देशिका (Preamble)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "26 जनवरी, 1950 को भारत की वास्तविक संवैधानिक स्थिति क्या थी?",
+      "en": "What was the exact constitutional status of India on 26th January, 1950?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "लोकतंत्रात्मक गणराज्य",
+        "en": "A Democratic Republic"
+      },
+      {
+        "id": "B",
+        "hi": "संपूर्ण प्रभुत्व-संपन्न लोकतंत्रात्मक गणराज्य",
+        "en": "A Sovereign Democratic Republic"
+      },
+      {
+        "id": "C",
+        "hi": "संपूर्ण प्रभुत्व-संपन्न पंथनिरपेक्ष लोकतंत्रात्मक गणराज्य",
+        "en": "A Sovereign Secular Democratic Republic"
+      },
+      {
+        "id": "D",
+        "hi": "संपूर्ण प्रभुत्व-संपन्न समाजवादी पंथनिरपेक्ष लोकतंत्रात्मक गणराज्य",
+        "en": "A Sovereign Socialist Secular Democratic Republic"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "26 जनवरी, 1950 को लागू हुए भारतीय संविधान की उद्देशिका में भारत को 'संपूर्ण प्रभुत्व-संपन्न लोकतंत्रात्मक गणराज्य' के रूप में घोषित किया गया था। अर्थात्, तब के अनुसार भारत की वास्तविक संवैधानिक स्थिति 'संपूर्ण प्रभुत्व-संपन्न लोकतंत्रात्मक गणराज्य' की ही थी। अतः विकल्प (B) सही उत्तर होगा। (नोट: 1976 में 42वें संशोधन के पश्चात् 'समाजवादी', 'पंथनिरपेक्ष' और 'अखंडता' शब्द जोड़े गए थे।)",
+      "en": "In the Preamble of the Indian Constitution, which came into force on 26 January 1950, India was declared a 'Sovereign Democratic Republic'. Therefore, the exact constitutional status of India at that time was a 'Sovereign Democratic Republic'. Hence, option (B) is the correct answer. (Note: The words 'Socialist', 'Secular', and 'Integrity' were added later by the 42nd Amendment in 1976.)"
+    }
+  },
+  {
+    "id": 4,
+    "subject": "Polity",
+    "topic": "उद्देशिका (Preamble)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के संविधान की उद्देशिका-",
+      "en": "The Preamble to the Constitution of India is-"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "संविधान का भाग है किंतु कोई विधिक प्रभाव नहीं रखती",
+        "en": "a part of the Constitution but has no legal effect"
+      },
+      {
+        "id": "B",
+        "hi": "संविधान का भाग नहीं है और कोई विधिक प्रभाव भी नहीं रखती",
+        "en": "not a part of the Constitution and has no legal effect either"
+      },
+      {
+        "id": "C",
+        "hi": "संविधान का भाग है और वैसा ही विधिक प्रभाव रखती है जैसा कि उसका कोई अन्य भाग",
+        "en": "a part of the Constitution and has the same legal effect as any other part"
+      },
+      {
+        "id": "D",
+        "hi": "संविधान का भाग है किंतु उसके अन्य भागों से स्वतंत्र होकर उसका कोई विधिक प्रभाव नहीं है।",
+        "en": "a part of the Constitution but has no legal effect independently of other parts"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "1973 के केशवानंद भारती मामले में उच्चतम न्यायालय ने यह स्पष्ट किया कि संविधान की प्रस्तावना को संविधान का हिस्सा माना जाएगा। न्यायालय ने यह भी कहा कि प्रस्तावना का सामान्यतः कोई विधिक प्रभाव नहीं है परंतु संविधान के अन्य भागों की व्याख्या करने के लिये प्रस्तावना की सहायता ली जा सकती है। हालाँकि संविधान के अन्य भागों से स्वतंत्र प्रस्तावना का कोई विधिक प्रभाव नहीं है। इस आधार पर विकल्प (D) सही उत्तर होगा।",
+      "en": "In the Kesavananda Bharati case of 1973, the Supreme Court clarified that the Preamble to the Constitution will be considered a part of the Constitution. The Court also held that the Preamble generally has no legal effect on its own, but it can be used to interpret other parts of the Constitution. However, independent of other parts of the Constitution, the Preamble has no legal effect. Therefore, option (D) is the correct answer."
+    }
+  },
+  {
+    "id": 5,
+    "subject": "Polity",
+    "topic": "उद्देशिका (Preamble)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित उद्देश्यों में से कौन-सा एक भारत के संविधान की उद्देशिका में सन्निविष्ट नहीं है?",
+      "en": "Which one of the following objectives is not embodied in the Preamble to the Constitution of India?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "विचार की स्वतंत्रता",
+        "en": "Liberty of thought"
+      },
+      {
+        "id": "B",
+        "hi": "आर्थिक स्वतंत्रता",
+        "en": "Economic liberty"
+      },
+      {
+        "id": "C",
+        "hi": "अभिव्यक्ति की स्वतंत्रता",
+        "en": "Liberty of expression"
+      },
+      {
+        "id": "D",
+        "hi": "विश्वास की स्वतंत्रता",
+        "en": "Liberty of belief"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारत के संविधान की उद्देशिका में कुछ स्वतंत्रताओं, जैसे- विचार, अभिव्यक्ति, विश्वास, धर्म और उपासना की स्वतंत्रता की चर्चा की गई है। 'आर्थिक स्वतंत्रता' की चर्चा नहीं की गई है। सामाजिक और राजनीतिक न्याय के साथ-साथ 'आर्थिक न्याय' को सन्निविष्ट किया गया है, 'स्वतंत्रता' को नहीं।",
+      "en": "The Preamble to the Constitution of India mentions certain liberties, such as liberty of thought, expression, belief, faith, and worship. It does not mention 'Economic liberty'. It embodies 'Economic Justice' along with social and political justice, but not 'economic liberty'."
+    }
+  },
+  {
+    "id": 6,
+    "subject": "Polity",
+    "topic": "उद्देशिका (Preamble)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के संविधान के निर्माताओं का मत निम्नलिखित में से किसमें प्रतिबिंबित होता है?",
+      "en": "The mind of the makers of the Constitution of India is reflected in which of the following?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "उद्देशिका",
+        "en": "The Preamble"
+      },
+      {
+        "id": "B",
+        "hi": "मूल अधिकार",
+        "en": "The Fundamental Rights"
+      },
+      {
+        "id": "C",
+        "hi": "राज्य की नीति के निदेशक तत्त्व",
+        "en": "The Directive Principles of State Policy"
+      },
+      {
+        "id": "D",
+        "hi": "मूल कर्त्तव्य",
+        "en": "The Fundamental Duties"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "संविधान की उद्देशिका में उन आधारभूत दर्शन और राजनीतिक, धार्मिक व नैतिक मूल्यों का उल्लेख है जो हमारे संविधान के आधार हैं। इसमें संविधान सभा की महान और आदर्श सोच उल्लिखित है। अतः विकल्प (A) सबसे सटीक है।",
+      "en": "The Preamble to the Constitution mentions the basic philosophy and the political, religious, and moral values that form the basis of our Constitution. It reflects the great and noble vision of the Constituent Assembly. Therefore, option (A) is the most accurate."
+    }
+  }
+]
