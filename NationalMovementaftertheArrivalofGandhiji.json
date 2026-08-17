@@ -1,0 +1,1220 @@
+[
+  {
+    "id": 1,
+    "year": "2025",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "न्यायालयों और विदेशी वस्त्र का बहिष्कार",
+        "en": "Boycott of law courts and foreign cloth"
+      },
+      {
+        "id": 2,
+        "hi": "अहिंसा का कठोर अनुपालन",
+        "en": "Strict adherence to non-violence"
+      },
+      {
+        "id": 3,
+        "hi": "उपाधियों और सम्मानों का, उनका सार्वजनिक उपयोग न करते हुए, प्रतिधारण",
+        "en": "Retention of titles and honours while not using them publicly"
+      },
+      {
+        "id": 4,
+        "hi": "विवादों के निपटारे के लिये पंचायतों की स्थापना",
+        "en": "Establishment of panchayats for settlement of disputes"
+      }
+    ],
+    "question": {
+      "hi": "असहयोग कार्यक्रम के बारे में निम्नलिखित विषयों पर विचार कीजिये:\nउपर्युक्त में से कितने असहयोग कार्यक्रम के अवयव हैं?",
+      "en": "Consider the following items with reference to the Non-Cooperation programme:\nHow many of the above are components of the Non-Cooperation programme?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "केवल तीन",
+        "en": "Only three"
+      },
+      {
+        "id": "D",
+        "hi": "सभी चार",
+        "en": "All four"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "सितंबर 1920 में कलकत्ता में कॉन्ग्रेस का एक विशेष अधिवेशन आयोजित किया गया, जिसमें असहयोग के मुद्दे पर अंतिम रूप से विचार-विमर्श कर निर्णय लिया गया। इसमें सरकारी उपाधियों, सम्मान और मानद पदों का त्याग (प्रतिधारण नहीं) तथा सरकारी स्कूलों व कॉलेजों, विधिक न्यायालयों एवं विदेशी वस्त्र का बहिष्कार शामिल था। अतः कथन I सही है किंतु कथन III सही नहीं है। इसके अतिरिक्त, राष्ट्रीय विद्यालय और कॉलेज स्थापित करने, विवादों के निपटारे के लिये पंचायतों की स्थापना और उन्हें सुदृढ़ करने, हथकरघा और बुनाई को बढ़ावा देने, अस्पृश्यता की निंदा एवं त्याग, सांप्रदायिक सौहार्द बनाए रखने तथा अहिंसा का कठोर अनुपालन करने का निर्णय लिया गया। अतः कथन II और कथन IV सही हैं। अतः विकल्प (c) सही है।",
+      "en": "A special session of the Congress was held in Calcutta in September 1920, where the issue of non-cooperation was finally discussed and decided. It included the surrender (not retention) of government titles, honours and honorary posts, and the boycott of government schools and colleges, law courts, and foreign cloth. Hence, statement I is correct but statement III is incorrect. In addition, decisions were made to set up national schools and colleges, establish panchayats to settle disputes, promote hand-spinning and weaving, condemn and renounce untouchability, maintain communal harmony, and strictly adhere to non-violence. Hence statements II and IV are correct. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 2,
+    "year": "2025",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कॉन्ग्रेस ने घोषणा की कि सभी वैध और शांतिपूर्ण तरीकों से 'स्वराज' प्राप्त करना उसका उद्देश्य है।",
+        "en": "The Congress declared that the attainment of 'Swaraj' by all legitimate and peaceful means is its objective."
+      },
+      {
+        "id": 2,
+        "hi": "इसे चरणों में कार्यान्वित किया जाना था, जिसमें सविनय अवज्ञा और करों का भुगतान न करना अगले चरण के लिये थे, केवल तब, जब 'स्वराज' एक वर्ष में प्राप्त न होता और सरकार दमन पर उतर आती।",
+        "en": "It was to be implemented in stages, with civil disobedience and non-payment of taxes left for the next stage, only if 'Swaraj' was not achieved in a year and the government resorted to repression."
+      }
+    ],
+    "question": {
+      "hi": "असहयोग आंदोलन के संबंध में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/कौन-से सही है/हैं?",
+      "en": "With reference to the Non-Cooperation Movement, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल I",
+        "en": "I only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल II",
+        "en": "II only"
+      },
+      {
+        "id": "C",
+        "hi": "I और II दोनों",
+        "en": "Both I and II"
+      },
+      {
+        "id": "D",
+        "hi": "न तो I और न ही II",
+        "en": "Neither I nor II"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कॉन्ग्रेस की नीति और तरीकों में मूलभूत परिवर्तन को 1921 में संविधान के अनुच्छेद-1 में परिलक्षित हुआ: 'भारतीय राष्ट्रीय कॉन्ग्रेस का उद्देश्य भारत के लोगों द्वारा सभी वैध एवं शांतिपूर्ण तरीकों से स्वराज्य की प्राप्ति है।' असंवैधानिक साधन, बशर्ते वे 'वैध और शांतिपूर्ण' हों, भी प्रयोग किये जा सकते थे। अतः कथन I सही है। गांधीजी ने प्रस्ताव दिया कि आंदोलन को चरणों में आगे बढ़ाया जाना चाहिये। इसकी शुरुआत सरकार द्वारा दी गई उपाधियों के त्याग तथा सिविल सेवाओं, सेना, पुलिस, न्यायालयों एवं विधान परिषदों, स्कूलों और विदेशी वस्तुओं के बहिष्कार से होनी चाहिये। फिर अगर सरकार दमन का इस्तेमाल करती है तो एक पूर्ण सविनय अवज्ञा अभियान शुरू किया जाएगा। अतः कथन II सही है। अतः विकल्प (c) सही है।",
+      "en": "A fundamental change in the Congress's policy and methods was reflected in Article-1 of the constitution in 1921: 'The object of the Indian National Congress is the attainment of Swarajya by the people of India by all legitimate and peaceful means.' Unconstitutional means, provided they were 'legitimate and peaceful', could also be used. Hence, statement I is correct. Gandhiji proposed that the movement should be carried forward in stages. It should begin with the surrender of titles awarded by the government and boycott of civil services, army, police, courts and legislative councils, schools and foreign goods. Then if the government uses repression, a full civil disobedience campaign would be launched. Hence, statement II is correct. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 3,
+    "year": "2025",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "गांधीजी ने विख्यात वक्तव्य \"राजद्रोह मेरा धर्म हो गया है\" कब दिया था?",
+      "en": "When did Gandhiji make the famous statement \"Sedition has become my religion\"?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "चंपारण सत्याग्रह के समय",
+        "en": "During Champaran Satyagraha"
+      },
+      {
+        "id": "B",
+        "hi": "दांडी में नमक कानून का सार्वजनिक रूप से उल्लंघन करने के समय",
+        "en": "At the time of publicly violating the salt law at Dandi"
+      },
+      {
+        "id": "C",
+        "hi": "लंदन में द्वितीय गोलमेज़ सम्मेलन (सेकंड राउंड टेबल कॉन्फ्रेंस) में शामिल होने के समय",
+        "en": "While attending the Second Round Table Conference in London"
+      },
+      {
+        "id": "D",
+        "hi": "भारत छोड़ो आंदोलन के प्रारंभ के समय",
+        "en": "At the beginning of the Quit India Movement"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "गांधीजी ने यह कथन \"राजद्रोह मेरा धर्म बन गया है\" वर्ष 1930 के सविनय अवज्ञा आंदोलन के दौरान दिया था, विशेष रूप से 6 अप्रैल, 1930 को दांडी में नमक कानून तोड़ने के बाद। एक मुट्ठी नमक उठाकर ब्रिटिश सरकार द्वारा थोपे गए नमक कानून को तोड़ने के बाद, गांधीजी द्वारा घोषणा की गई: \"...राजद्रोह मेरा धर्म बन गया है। हमारा संघर्ष अहिंसक है... लेकिन यह हमारा धर्म है कि इस सरकार के अभिशाप को मिटा दिया जाए।\" अतः सही विकल्प (b) है।",
+      "en": "Gandhiji made the statement \"Sedition has become my religion\" during the Civil Disobedience Movement of 1930, specifically after breaking the salt law at Dandi on April 6, 1930. After breaking the salt law imposed by the British government by picking up a handful of salt, Gandhiji declared: \"...Sedition has become my religion. Our struggle is non-violent... but it is our dharma to wipe out the curse of this government.\" Hence, the correct option is (b)."
+    }
+  },
+  {
+    "id": 4,
+    "year": "2025",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "चौरी-चौरा घटना के परिणामस्वरूप बंदी बनाए गए लोगों को किसने विधिक प्रतिरक्षा (लीगल डिफेंस) प्रदान की?",
+      "en": "Who provided legal defence to the people arrested as a result of the Chauri-Chaura incident?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सी. आर. दास",
+        "en": "C. R. Das"
+      },
+      {
+        "id": "B",
+        "hi": "मदन मोहन मालवीय और कृष्णकांत",
+        "en": "Madan Mohan Malaviya and Krishnakant"
+      },
+      {
+        "id": "C",
+        "hi": "डॉ. सैफुद्दीन किचलू और ख्वाजा हसन निज़ामी",
+        "en": "Dr. Saifuddin Kitchlew and Khwaja Hasan Nizami"
+      },
+      {
+        "id": "D",
+        "hi": "एम.ए. जिन्ना",
+        "en": "M. A. Jinnah"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "चौरी-चौरा, जो संयुक्त प्रांत (वर्तमान उत्तर प्रदेश) के गोरखपुर ज़िले में स्थित है, वर्ष 1922 में स्वतंत्रता आंदोलन के दौरान हुई घटना के कारण प्रसिद्ध हुआ। वर्ष 1923 में प्रमुख वकील और स्वतंत्रता सेनानी महामना मदन मोहन मालवीय इस घटना के बाद गिरफ्तार किये गए और मृत्युदंड पाने वाले लोगों को कानूनी सहायता प्रदान करने के लिये आगे आए। उन्होंने न्यायालय में लगातार चार दिन तक बहस की और पूरे जोश से आरोपितों का पक्ष रखा। अतः विकल्प (b) सही है।",
+      "en": "Chauri-Chaura, located in Gorakhpur district of the United Provinces (present Uttar Pradesh), became famous due to the incident during the freedom movement in 1922. In 1923, prominent lawyer and freedom fighter Mahamana Madan Mohan Malaviya came forward to provide legal assistance to the people arrested and sentenced to death after this incident. He argued in the court for four consecutive days and passionately presented the side of the accused. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 5,
+    "year": "2025",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से किस एक घटना के उपरांत, गांधीजी ने, जो अस्पृश्यता का सतत विरोध करते रहे और सभी क्षेत्रों में से उसके उन्मूलन के लिये अपील करते रहे, अपने राजनीतिक और सामाजिक कार्यक्रम में 'हरिजनों' के उत्थान को शामिल करने का निश्चय किया?",
+      "en": "After which one of the following events did Gandhiji, who had been continuously opposing untouchability and appealing for its eradication from all spheres, decide to include the upliftment of 'Harijans' in his political and social programme?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "पूना समझौता",
+        "en": "Poona Pact"
+      },
+      {
+        "id": "B",
+        "hi": "गांधी-इरविन समझौता (दिल्ली समझौता)",
+        "en": "Gandhi-Irwin Pact (Delhi Pact)"
+      },
+      {
+        "id": "C",
+        "hi": "भारत छोड़ो आंदोलन के समय कॉन्ग्रेस के नेताओं की गिरफ्तारी",
+        "en": "Arrest of Congress leaders during the Quit India Movement"
+      },
+      {
+        "id": "D",
+        "hi": "भारत सरकार अधिनियम, 1935 की प्रख्यापना (प्रॉमल्गेशन)",
+        "en": "Promulgation of the Government of India Act, 1935"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "सितंबर 1932 में मदन मोहन मालवीय और डॉ. बी.आर. अंबेडकर के बीच हुए पूना समझौते के बाद गांधीजी ने हरिजनों (अनुसूचित जातियों) के उत्थान के लिये अपना अभियान तेज़ कर दिया। इस समझौते के तहत दलित वर्गों के लिये पृथक निर्वाचन क्षेत्रों को छोड़ दिया गया, लेकिन संयुक्त निर्वाचन क्षेत्रों में आरक्षण की शुरुआत की गई, जिसे गांधीजी ने आमरण अनशन शुरू करने के बाद ही स्वीकार किया। इस प्रकार, पूना पैक्ट (1932) एक महत्त्वपूर्ण मोड़ था जब गांधीजी ने हरिजन उत्थान को अपने राजनीतिक और सामाजिक एजेंडे में औपचारिक रूप से शामिल किया। अतः विकल्प (a) सही है।",
+      "en": "Following the Poona Pact between Madan Mohan Malaviya and Dr. B.R. Ambedkar in September 1932, Gandhiji intensified his campaign for the upliftment of the Harijans (Scheduled Castes). Under this pact, separate electorates for the depressed classes were abandoned, but reservation in joint electorates was introduced, which was accepted only after Gandhiji started a fast unto death. Thus, the Poona Pact (1932) was a turning point when Gandhiji formally included Harijan upliftment in his political and social agenda. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 6,
+    "year": "2023",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "7 अगस्त को राष्ट्रीय हथकरघा दिवस के रूप में घोषित किया गया है।",
+        "en": "7th August is declared as the National Handloom Day."
+      },
+      {
+        "id": 2,
+        "hi": "1905 में, इसी दिन स्वदेशी आंदोलन शुरू किया गया था।",
+        "en": "It was in 1905 that the Swadeshi Movement was launched on the same day."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों के बारे में, निम्नलिखित में से कौन-सा एक सही है?",
+      "en": "Consider the following statements:\nWhich one of the following is correct in respect of the above statements?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कथन-I और कथन-II दोनों सही हैं तथा कथन-II, कथन-I की सही व्याख्या है",
+        "en": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
+      },
+      {
+        "id": "B",
+        "hi": "कथन-I और कथन-II दोनों सही हैं तथा कथन-II, कथन-I की सही व्याख्या नहीं है",
+        "en": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I"
+      },
+      {
+        "id": "C",
+        "hi": "कथन-I सही है किंतु कथन-II गलत है",
+        "en": "Statement-I is correct but Statement-II is incorrect"
+      },
+      {
+        "id": "D",
+        "hi": "कथन-I गलत है किंतु कथन-II सही है",
+        "en": "Statement-I is incorrect but Statement-II is correct"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "हथकरघा बुनकरों को सम्मानित करने एवं देश के सामाजिक विकास में हथकरघा उद्योग के महत्त्व के बारे में जागरूकता विकसित करने तथा हथकरघा उद्योग को बढ़ावा देने के उद्देश्य से प्रति वर्ष 7 अगस्त को राष्ट्रीय हथकरघा दिवस मनाया जाता है। अतः कथन 1 सही है। 7 अगस्त को 'स्वदेशी' आंदोलन (1905) की स्मृति में राष्ट्रीय हथकरघा दिवस को नामित किया गया था। इसलिये राष्ट्रीय हथकरघा दिवस एवं स्वदेशी आंदोलन के बीच गहरा संबंध है। अतः कथन 2 सही है तथा सही व्याख्या भी करता है। अतः विकल्प (a) सही है।",
+      "en": "National Handloom Day is celebrated every year on 7th August to honor the handloom weavers and to create awareness about the importance of handloom industry in the socio-economic development of the country and to promote handloom industry. Hence, Statement 1 is correct. 7th August was designated as National Handloom Day to commemorate the 'Swadeshi' movement (1905). Therefore, there is a deep connection between the National Handloom Day and the Swadeshi Movement. Hence, Statement 2 is correct and also provides the correct explanation. Thus, option (a) is correct."
+    }
+  },
+  {
+    "id": 7,
+    "year": "2021",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारतीय इतिहास में 8 अगस्त, 1942 के संदर्भ में, निम्नलिखित कथनों में से कौन-सा सही है?",
+      "en": "With reference to 8th August 1942 in Indian history, which one of the following statements is correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ए.आई.सी.सी. (AICC) द्वारा भारत छोड़ो प्रस्ताव अंगीकार किया गया।",
+        "en": "The Quit India Resolution was adopted by the AICC."
+      },
+      {
+        "id": "B",
+        "hi": "वायसराय की एक्ज़ेक्यूटिव काउंसिल का विस्तार अधिक संख्या में भारतीयों को सम्मिलित करने के लिये किया गया।",
+        "en": "The Viceroy's Executive Council was expanded to include more Indians."
+      },
+      {
+        "id": "C",
+        "hi": "सात प्रांतों में कॉन्ग्रेस मंत्रिमंडलों ने त्यागपत्र दिया।",
+        "en": "The Congress ministries resigned in seven provinces."
+      },
+      {
+        "id": "D",
+        "hi": "क्रिप्स ने प्रस्ताव रखा कि द्वितीय विश्वयुद्ध समाप्त होते ही संपूर्ण डोमिनियन स्टेटस वाले भारतीय संघ की स्थापना की जाएगी।",
+        "en": "Cripps proposed an Indian Union with full Dominion Status once the Second World War was over."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "8 अगस्त, 1942 को ए.आई.सी.सी. (All India Congress Committee) के बंबई अधिवेशन में गांधी जी ने भारत छोड़ो आंदोलन का आह्वान किया था और भारत छोड़ो प्रस्ताव अंगीकार किया गया था। अतः विकल्प (a) सही है।",
+      "en": "On August 8, 1942, Gandhiji gave the call for the Quit India Movement at the Bombay session of the AICC (All India Congress Committee) and the Quit India Resolution was adopted. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 8,
+    "year": "2021",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "question": {
+      "hi": "इनमें से कौन अंग्रेज़ी में अनूदित प्राचीन भारतीय धार्मिक गीतिकाव्य- 'सॉन्ग्स फ्रॉम प्रिज़न' (Songs from Prison) से संबद्ध है?",
+      "en": "Who among the following is associated with 'Songs from Prison', a translation of ancient Indian religious lyrics in English?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "बाल गंगाधर तिलक",
+        "en": "Bal Gangadhar Tilak"
+      },
+      {
+        "id": "B",
+        "hi": "जवाहरलाल नेहरू",
+        "en": "Jawaharlal Nehru"
+      },
+      {
+        "id": "C",
+        "hi": "मोहनदास करमचंद गांधी",
+        "en": "Mohandas Karamchand Gandhi"
+      },
+      {
+        "id": "D",
+        "hi": "सरोजिनी नायडू",
+        "en": "Sarojini Naidu"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "यरवडा जेल, पूना में गांधी जी ने भारतीय धार्मिक गीतिकाव्य का अनुवाद अंग्रेज़ी में 'सॉन्ग्स फ्रॉम प्रिज़न' नाम से किया था। अतः विकल्प (c) सही है।",
+      "en": "In Yerwada Jail, Poona, Gandhiji translated Indian religious lyrics into English under the name 'Songs from Prison'. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 9,
+    "year": "2021",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "आंध्र प्रदेश में मदनपल्ली के संदर्भ में, निम्नलिखित में से कौन-सा कथन सही है?",
+      "en": "With reference to Madanapalle of Andhra Pradesh, which one of the following statements is correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "पिंगली वेंकैया ने यहाँ भारतीय राष्ट्रीय ध्वज तिरंगे का डिज़ाइन किया।",
+        "en": "Pingali Venkayya designed the tricolour Indian National Flag here."
+      },
+      {
+        "id": "B",
+        "hi": "पट्टाभि सीतारमैया ने यहाँ से आंध्र क्षेत्र में भारत छोड़ो आंदोलन का नेतृत्व किया।",
+        "en": "Pattabhi Sitaramayya led the Quit India Movement of Andhra region from here."
+      },
+      {
+        "id": "C",
+        "hi": "रवींद्रनाथ टैगोर ने यहाँ राष्ट्रगान का बांग्ला से अंग्रेज़ी में अनुवाद किया।",
+        "en": "Rabindranath Tagore translated the National Anthem from Bengali to English here."
+      },
+      {
+        "id": "D",
+        "hi": "मैडम ब्लवात्स्की तथा कर्नल ऑल्कॉट ने सबसे पहले यहाँ थियोसोफिकल सोसाइटी का मुख्यालय स्थापित किया।",
+        "en": "Madame Blavatsky and Colonel Olcott set up headquarters of Theosophical Society first here."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "गुरुदेव रवींद्रनाथ टैगोर ने 1919 में 'जन गण मन' का बांग्ला से अंग्रेज़ी में अनुवाद मदनपल्ली (चित्तूर, आंध्र प्रदेश) के बेसेंट थियोसोफिकल कॉलेज (एनी बेसेंट द्वारा स्थापित) में किया था। इसकी धुन भी उसी समय उन्होंने बनाई। उस समय कॉलेज के प्रधानाध्यापक शिक्षाविद् जेम्स हेनरी कज़िन्स की पत्नी मार्गरेट कज़िन्स ने 'जन गण मन' को संगीताबद्ध किया। अतः विकल्प (c) सही है।",
+      "en": "Gurudev Rabindranath Tagore translated 'Jana Gana Mana' from Bengali to English in 1919 at the Besant Theosophical College (founded by Annie Besant) in Madanapalle (Chittoor, Andhra Pradesh). He also composed its tune at the same time. At that time, Margaret Cousins, wife of the college principal educationist James Henry Cousins, set 'Jana Gana Mana' to music. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 10,
+    "year": "2020",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "राउंड टेबल कॉन्फ्रेंस में भाग लेने के लिये कॉन्ग्रेस को आमंत्रित करना",
+        "en": "Invitation to Congress to participate in the Round Table Conference"
+      },
+      {
+        "id": 2,
+        "hi": "असहयोग आंदोलन के संबंध में जारी किये गए अध्यादेशों को वापस लेना",
+        "en": "Withdrawal of ordinances promulgated in connection with the Civil Disobedience Movement"
+      },
+      {
+        "id": 3,
+        "hi": "पुलिस की ज़्यादतियों की जाँच करने हेतु गांधीजी के सुझाव की स्वीकृति",
+        "en": "Acceptance of Gandhiji's suggestion for enquiry into police excesses"
+      },
+      {
+        "id": 4,
+        "hi": "केवल उन्हीं कैदियों की रिहाई जिन पर हिंसा का अभियोग नहीं था",
+        "en": "Release of only those prisoners who were not charged with violence"
+      }
+    ],
+    "question": {
+      "hi": "गांधी-इरविन समझौते में निम्नलिखित में से क्या सम्मिलित था/थे?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "The Gandhi-Irwin Pact included which of the following?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1, 2 और 4",
+        "en": "1, 2 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3 and 4 only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "गांधी-इरविन समझौता 5 मार्च, 1931 को हुआ था। उस समय सविनय अवज्ञा आंदोलन चल रहा था। इस समझौते में निम्न बातें सम्मिलित थीं: गोलमेज़ सम्मेलन में भाग लेने के लिये कॉन्ग्रेस को आमंत्रित करना, सविनय अवज्ञा आंदोलन के संबंध में जारी किये गए अध्यादेशों को वापस लेना, और केवल उन्हीं कैदियों की रिहाई जिन पर हिंसा का अभियोग नहीं था। पुलिस की ज़्यादतियों की जाँच हेतु जनता की जाँच समिति बनाने की गांधीजी ने मांग की थी, परंतु वायसराय लॉर्ड इरविन ने गांधी की इस मांग को अस्वीकार कर दिया था। (नोट: यूपीएससी ने हिंदी अनुवाद में Civil Disobedience को असहयोग आंदोलन लिख दिया था जो कि त्रुटिपूर्ण है।)",
+      "en": "The Gandhi-Irwin Pact was signed on March 5, 1931. The Civil Disobedience Movement was going on at that time. This agreement included: inviting the Congress to participate in the Round Table Conference, withdrawing the ordinances issued in connection with the Civil Disobedience Movement, and the release of only those prisoners who were not charged with violence. Gandhiji had demanded the formation of a public inquiry committee to investigate police excesses, but Viceroy Lord Irwin rejected this demand of Gandhi. (Note: UPSC had translated Civil Disobedience as Asahayog Andolan in Hindi, which is erroneous.)"
+    }
+  },
+  {
+    "id": 11,
+    "year": "2019",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "महात्मा गांधी 'गिरमिटिया (इंडेंचर्ड लेबर)' प्रणाली के उन्मूलन में सहायक थे।",
+        "en": "Mahatma Gandhi was instrumental in the abolition of the system of 'indentured labour'."
+      },
+      {
+        "id": 2,
+        "hi": "लॉर्ड चेम्सफोर्ड की 'वॉर कॉन्फ्रेंस' में महात्मा गांधी ने विश्व युद्ध के लिये भारतीयों की भर्ती से संबंधित प्रस्ताव का समर्थन नहीं किया था।",
+        "en": "In Lord Chelmsford's 'War Conference', Mahatma Gandhi did not support the resolution on recruiting Indians for World War."
+      },
+      {
+        "id": 3,
+        "hi": "भारत के लोगों द्वारा नमक कानून तोड़े जाने के परिणामस्वरूप, औपनिवेशिक शासकों द्वारा भारतीय राष्ट्रीय कॉन्ग्रेस को अवैध घोषित कर दिया गया था।",
+        "en": "Consequent upon the breaking of Salt Law by Indian people, the Indian National Congress was declared illegal by the colonial rulers."
+      }
+    ],
+    "question": {
+      "hi": "भारत में ब्रिटिश औपनिवेशिक शासन के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कौन-से कथन सही हैं?",
+      "en": "With reference to the British colonial rule in India, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारत में ब्रिटिश औपनिवेशिक शासन के अंतर्गत दांडी मार्च के दौरान 6 अप्रैल, 1930 को नमक कानून तोड़े जाने के परिणामस्वरूप ब्रिटिश शासकों द्वारा भारतीय राष्ट्रीय कॉन्ग्रेस को अवैध घोषित कर दिया गया था। अतः कथन 3 सही है। भारत को स्वायत्तता की शर्त पर गांधीजी ने प्रथम विश्वयुद्ध के दौरान ब्रिटिश सेना में भारतीयों की भर्ती के प्रस्ताव का समर्थन किया था। अतः कथन 2 गलत है। महात्मा गांधी 'गिरमिटिया (इंडेंचर्ड लेबर)' प्रणाली के उन्मूलन में मददगार थे। 1894 में गांधीजी ने दक्षिण अफ्रीका में 'नटाल इंडियन कॉन्ग्रेस' की स्थापना की और रंगभेद की नीति के विरुद्ध आंदोलन भी शुरू किया। उनके प्रयासों व आंदोलन के कारण दक्षिण अफ्रीकी सरकार द्वारा सन् 1914 में अधिकांश रंगभेद कानूनों को रद्द कर दिया गया। अतः कथन 1 सही है। अतः विकल्प (b) सही उत्तर है।",
+      "en": "Under the British colonial rule in India, consequent upon the breaking of the salt law on April 6, 1930 during the Dandi March, the Indian National Congress was declared illegal by the British rulers. Hence, statement 3 is correct. Gandhiji supported the proposal of recruiting Indians in the British Army during the First World War on the condition of autonomy for India. Hence, statement 2 is incorrect. Mahatma Gandhi was instrumental in the abolition of the 'indentured labour' system. In 1894, Gandhiji founded the 'Natal Indian Congress' in South Africa and started a movement against the apartheid policy. Due to his efforts and movement, most apartheid laws were annulled by the South African government in 1914. Hence, statement 1 is correct. Thus, option (b) is the correct answer."
+    }
+  },
+  {
+    "id": 12,
+    "year": "2017",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "रॉयल इंडियन नेवी में ग़दर",
+        "en": "Mutiny in Royal Indian Navy"
+      },
+      {
+        "id": 2,
+        "hi": "भारत छोड़ो आंदोलन का प्रारंभ",
+        "en": "Quit India Movement launched"
+      },
+      {
+        "id": 3,
+        "hi": "द्वितीय गोलमेज़ सम्मेलन",
+        "en": "Second Round Table Conference"
+      }
+    ],
+    "question": {
+      "hi": "भारतीय स्वतंत्रता संघर्ष के संबंध में, निम्नलिखित घटनाओं पर विचार कीजिये:\nउपर्युक्त घटनाओं का सही कालानुक्रम क्या है?",
+      "en": "With reference to Indian freedom struggle, consider the following events:\nWhat is the correct chronological sequence of the above events?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 – 2 – 3",
+        "en": "1 – 2 – 3"
+      },
+      {
+        "id": "B",
+        "hi": "2 – 1 – 3",
+        "en": "2 – 1 – 3"
+      },
+      {
+        "id": "C",
+        "hi": "3 – 2 – 1",
+        "en": "3 – 2 – 1"
+      },
+      {
+        "id": "D",
+        "hi": "3 – 1 – 2",
+        "en": "3 – 1 – 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "इन घटनाओं का सही कालानुक्रम इस प्रकार है:\nद्वितीय गोलमेज़ सम्मेलन (1931)\nभारत छोड़ो आंदोलन का प्रारंभ (1942)\nरॉयल इंडियन नेवी में ग़दर (1946)\nअतः विकल्प (c) सही है।",
+      "en": "The correct chronological sequence of these events is as follows:\nSecond Round Table Conference (1931)\nQuit India Movement launched (1942)\nMutiny in Royal Indian Navy (1946)\nHence, option (c) is correct."
+    }
+  },
+  {
+    "id": 13,
+    "year": "2017",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "1927 की बटलर कमेटी का उद्देश्य था-",
+      "en": "The object of the Butler Committee of 1927 was to?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केंद्रीय एवं प्रांतीय सरकारों की अधिकारिता निश्चित करना।",
+        "en": "Define the jurisdiction of the Central and Provincial Governments."
+      },
+      {
+        "id": "B",
+        "hi": "भारत के सेक्रेटरी ऑफ स्टेट की शक्तियाँ निश्चित करना।",
+        "en": "Define the powers of the Secretary of State for India."
+      },
+      {
+        "id": "C",
+        "hi": "राष्ट्रवादी प्रेस पर सेंसर-व्यवस्था अधिरोपित करना।",
+        "en": "Impose censorship on national press."
+      },
+      {
+        "id": "D",
+        "hi": "भारत सरकार एवं देशी रियासतों के बीच संबंध सुधारना।",
+        "en": "Improve the relationship between the Government of India and the Indian States."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "भारतीय राज्य समिति ने सर हरकोर्ट बटलर की अध्यक्षता में 1927 में एक समिति गठित की जिसे बटलर समिति भी कहा जाता है। इस समिति का गठन भारत सरकार और देशी राजाओं के बीच के संबंधों की जाँच और स्पष्टीकरण के लिये किया गया था। इसके गठन का उद्देश्य भारत सरकार और भारतीय राजाओं के मध्य संबंधों की जाँच करना और उनके मध्य के इन संबंधों को बेहतर बनाने के लिये सुझाव देना था ताकि ब्रिटिश भारत और देशी रियासतों के मध्य संतोषजनक संबंधों की स्थापना की जा सके। अतः विकल्प (d) सही है।",
+      "en": "The Indian States Committee formed a committee in 1927 under the chairmanship of Sir Harcourt Butler, which is also known as the Butler Committee. This committee was formed to investigate and clarify the relationship between the Government of India and the native princes. Its objective was to examine the relations between the Government of India and the Indian princes and suggest measures to improve these relations, so that satisfactory relations could be established between British India and the princely states. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 14,
+    "year": "2015",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "रॉलेट अधिनियम 'सेडिशन कमिटी' की सिफारिश पर आधारित था।",
+        "en": "The Rowlatt Act was based on the recommendations of the 'Sedition Committee'."
+      },
+      {
+        "id": 2,
+        "hi": "रॉलेट सत्याग्रह में गांधीजी ने होमरूल लीग का उपयोग करने का प्रयास किया।",
+        "en": "In Rowlatt Satyagraha, Gandhiji tried to utilize the Home Rule League."
+      },
+      {
+        "id": 3,
+        "hi": "साइमन कमीशन के आगमन के विरुद्ध हुए प्रदर्शन रॉलेट सत्याग्रह के साथ-साथ हुए।",
+        "en": "Demonstrations against the arrival of Simon Commission coincided with Rowlatt Satyagraha."
+      }
+    ],
+    "question": {
+      "hi": "रॉलेट सत्याग्रह के संदर्भ में निम्नलिखित में से कौन-सा/से कथन सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "With reference to Rowlatt Satyagraha, which of the following statements is/are correct?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "C",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारत में क्रांतिकारियों के प्रभाव का अध्ययन तथा उसे समाप्त करने के लिये 1917 में सर सिडनी रॉलेट की अध्यक्षता में सेडिशन कमिटी गठित की गई। इसी की सिफारिश पर रॉलेट अधिनियम पारित हुआ। इसके तहत मजिस्ट्रेट को किसी भी संदेहास्पद व्यक्ति को जेल में डालने का अधिकार था। उस व्यक्ति को अपील करने की भी अनुमति नहीं थी। गांधीजी ने इसके विरोध में सत्याग्रह सभा की स्थापना की तथा रॉलेट एक्ट के विरुद्ध सारे देश में हड़तालों का आयोजन किया। इसके लिये गांधीजी ने होमरूल लीग के नेताओं एवं कार्यकर्त्ताओं के उपयोग का प्रयास किया। साइमन कमीशन 1927 ई. में गठित किया गया, जिसके सभी सदस्य अंग्रेज़ होने के कारण 1927-28 में इसका व्यापक विरोध हुआ, जबकि रॉलेट सत्याग्रह की घटना 1919 की है। अतः इन दोनों के विरोध प्रदर्शन साथ-साथ नहीं हुए (कथन 3 गलत है)। अतः विकल्प (b) सही है।",
+      "en": "To study and eliminate the influence of revolutionaries in India, the Sedition Committee was formed in 1917 under the chairmanship of Sir Sidney Rowlatt. The Rowlatt Act was passed on its recommendation. Under this, the magistrate had the right to put any suspicious person in jail. That person was not even allowed to appeal. Gandhiji established Satyagraha Sabha in protest against it and organized strikes all over the country against the Rowlatt Act. For this, Gandhiji tried to use the leaders and workers of the Home Rule League. Simon Commission was constituted in 1927 CE, whose all members were Englishmen due to which there was widespread opposition to it in 1927-28, while the incident of Rowlatt Satyagraha is of 1919. So the protests for both did not happen simultaneously (Statement 3 is incorrect). Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 15,
+    "year": "2015",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "इनमें से किसने अप्रैल 1930 में नमक कानून तोड़ने के लिये तंजौर तट पर एक अभियान संगठित किया था?",
+      "en": "Who of the following organized a march on the Tanjore coast to break the Salt Law in April 1930?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "वी.ओ. चिदंबरम पिल्लै",
+        "en": "V. O. Chidambaram Pillai"
+      },
+      {
+        "id": "B",
+        "hi": "सी. राजगोपालाचारी",
+        "en": "C. Rajagopalachari"
+      },
+      {
+        "id": "C",
+        "hi": "के. कामराज",
+        "en": "K. Kamaraj"
+      },
+      {
+        "id": "D",
+        "hi": "एनी बेसेंट",
+        "en": "Annie Besant"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "तंजौर (तंजावुर) तमिलनाडु राज्य में है जहाँ सी. राजगोपालाचारी ने त्रिचिनापल्ली से वेदारण्यम तक की यात्रा की तथा नमक कानून तोड़ने के लिये तंजौर के तट पर अभियान संगठित किया। सविनय अवज्ञा आंदोलन गांधीजी की साबरमती से दांडी तक की यात्रा से प्रारंभ हुआ। 6 अप्रैल, 1930 ई. को गांधीजी ने दांडी में नमक बनाकर कानून तोड़ा। पश्चिमोत्तर प्रांत (पेशावर) में इसका नेतृत्व खान अब्दुल गफ्फार खाँ ने किया, जो 'लाल कुर्ती' आंदोलन नाम से प्रसिद्ध हुआ। बंबई में इसका केंद्र-बिंदु धरसाना था, जहाँ सरोजिनी नायडू एक महत्त्वपूर्ण नेत्री थीं। अतः विकल्प (b) सही है।",
+      "en": "Tanjore (Thanjavur) is in Tamil Nadu state where C. Rajagopalachari marched from Trichinopoly to Vedaranyam and organized a campaign on the Tanjore coast to break the salt law. The Civil Disobedience Movement started with Gandhiji's march from Sabarmati to Dandi. On April 6, 1930 AD, Gandhiji broke the law by making salt at Dandi. In the North-West Frontier Province (Peshawar), it was led by Khan Abdul Ghaffar Khan, which became famous as the 'Red Shirt' movement. In Bombay, its center was Dharasana, where Sarojini Naidu was an important leader. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 16,
+    "year": "2014",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "स्वतंत्रता आंदोलन के इतिहास में भारतीय राष्ट्रीय कॉन्ग्रेस का 1929 का अधिवेशन इसलिये महत्त्वपूर्ण है, क्योंकि इस अधिवेशन में:",
+      "en": "The 1929 Session of Indian National Congress is of significance in the history of the Freedom Movement because the"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कॉन्ग्रेस के उद्देश्य के तौर पर स्वशासन प्राप्ति की घोषणा की गई।",
+        "en": "attainment of Self-Government was declared as the objective of the Congress."
+      },
+      {
+        "id": "B",
+        "hi": "कॉन्ग्रेस के लक्ष्य के तौर पर पूर्ण स्वराज प्राप्ति को स्वीकृत किया गया।",
+        "en": "attainment of Poorna Swaraj was adopted as the goal of the Congress."
+      },
+      {
+        "id": "C",
+        "hi": "असहयोग आंदोलन का आरंभ हुआ।",
+        "en": "Non-Cooperation Movement was launched."
+      },
+      {
+        "id": "D",
+        "hi": "लंदन में गोलमेज़ सम्मेलन में भागीदारी करने का निर्णय लिया गया।",
+        "en": "decision to participate in the Round Table Conference in London was taken."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "दिसंबर 1929 में कॉन्ग्रेस का अधिवेशन लाहौर (रावी नदी के किनारे) में हुआ। इस अधिवेशन के अध्यक्ष जवाहरलाल नेहरू थे। इस अधिवेशन में स्पष्ट कहा गया कि नेहरू रिपोर्ट को लागू करने की अवधि समाप्त हो गई है, अतः अब पूर्ण स्वाधीनता की प्राप्ति ही एकमात्र ध्येय है। अतः विकल्प (b) सही है।",
+      "en": "In December 1929, the Congress session was held in Lahore (on the banks of the Ravi River). The President of this session was Jawaharlal Nehru. It was clearly stated in this session that the period for implementing the Nehru Report has expired, so now the attainment of complete independence is the only goal. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 17,
+    "year": "2013",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "साइमन कमीशन के आने के विरुद्ध भारतीय जन-आंदोलन क्यों हुआ?",
+      "en": "The people of India agitated against the arrival of Simon Commission because"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भारतीय 1919 के अधिनियम की कार्यवाही का पुनरीक्षण कभी नहीं चाहते थे",
+        "en": "Indians never wanted the review of the working of the Act of 1919"
+      },
+      {
+        "id": "B",
+        "hi": "साइमन कमीशन ने प्रांतों में द्विशासन की समाप्ति की संस्तुति की थी",
+        "en": "Simon Commission recommended the abolition of Dyarchy (Diarchy) in the Provinces"
+      },
+      {
+        "id": "C",
+        "hi": "साइमन कमीशन में कोई भी भारतीय सदस्य नहीं था",
+        "en": "there was no Indian member in the Simon Commission"
+      },
+      {
+        "id": "D",
+        "hi": "साइमन कमीशन ने देश के विभाजन का सुझाव दिया था",
+        "en": "the Simon Commission suggested the partition of the country"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "1927 में गठित 7 सदस्यीय साइमन कमीशन का उद्देश्य भारत के राजनीतिक भविष्य का फैसला करना था, जिसमें एक भी भारतीय सदस्य नहीं था। अतः भारतीयों को यह बात गलत लगी कि हमारे भविष्य के फैसले में हमारी कोई भूमिका ही नहीं है। इसलिये साइमन कमीशन के विरुद्ध जन-आंदोलन हुआ। अतः विकल्प (c) बिल्कुल सही उत्तर है। साइमन की अध्यक्षता में नियुक्त इस समिति के सभी सदस्य यूरोपीय थे, भारत में इसके विरोध का यही सबसे बड़ा कारण था।",
+      "en": "The 7-member Simon Commission constituted in 1927 was aimed at deciding the political future of India, in which there was not a single Indian member. Therefore, Indians felt it was wrong that they had no role in deciding their own future. That is why there was a mass movement against the Simon Commission. Hence, option (c) is the absolutely correct answer. All the members of this committee appointed under the chairmanship of Simon were Europeans, this was the biggest reason for its opposition in India."
+    }
+  },
+  {
+    "id": 18,
+    "year": "2013",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत छोड़ो आंदोलन किसकी प्रतिक्रिया में प्रारंभ किया गया?",
+      "en": "Quit India Movement was launched in response to"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कैबिनेट मिशन योजना",
+        "en": "Cabinet Mission Plan"
+      },
+      {
+        "id": "B",
+        "hi": "क्रिप्स प्रस्ताव",
+        "en": "Cripps Proposals"
+      },
+      {
+        "id": "C",
+        "hi": "साइमन कमीशन रिपोर्ट",
+        "en": "Simon Commission Report"
+      },
+      {
+        "id": "D",
+        "hi": "वेवेल योजना",
+        "en": "Wavell Plan"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "'भारत छोड़ो आंदोलन' की शुरुआत 8 अगस्त, 1942 को हुई थी। प्रस्तुत विकल्पों में कैबिनेट मिशन योजना 1946 की है, साइमन कमीशन रिपोर्ट 1930 की है तथा वेवेल योजना 1945 में आई और क्रिप्स मिशन मार्च 1942 में भारत आया। इसलिये उपर्युक्त विकल्पों में भारत छोड़ो आंदोलन की संगति क्रिप्स मिशन से ही बैठाई जा सकती है। क्रिप्स प्रस्ताव में कोई ठोस योजना न होने के कारण कॉन्ग्रेस ने इसका विरोध किया। अतः एक तो क्रिप्स मिशन द्वारा छले जाने तथा दूसरे जापान के तेज़ी से बढ़ते हुए प्रभुत्व के कारण वर्धा बैठक में 'भारत छोड़ो आंदोलन' प्रारंभ करने का संकल्प लिया गया। अतः विकल्प (b) सही है।",
+      "en": "The 'Quit India Movement' started on August 8, 1942. Among the given options, the Cabinet Mission Plan is from 1946, the Simon Commission Report is from 1930, the Wavell Plan came in 1945, and the Cripps Mission came to India in March 1942. Therefore, in the above options, the Quit India Movement can only be associated with the Cripps Mission. The Congress opposed the Cripps proposal because it did not have any concrete plan. Therefore, due to being deceived by the Cripps Mission and the rapidly increasing dominance of Japan, a resolution was taken in the Wardha meeting to start the 'Quit India Movement'. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 19,
+    "year": "2012",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "रॉलेट एक्ट का लक्ष्य था-",
+      "en": "The Rowlatt Act aimed at"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "युद्ध प्रयासों को अनिवार्य आर्थिक समर्थन",
+        "en": "compulsory economic support to war efforts"
+      },
+      {
+        "id": "B",
+        "hi": "बिना मुकदमा चलाए बंदी बनाना और मुकदमों की सुनवाई संक्षिप्त प्रक्रिया द्वारा",
+        "en": "imprisonment without trial and summary procedures for trial"
+      },
+      {
+        "id": "C",
+        "hi": "खिलाफत आंदोलन का दमन",
+        "en": "suppression of the Khilafat Movement"
+      },
+      {
+        "id": "D",
+        "hi": "प्रेस स्वातंत्र्य पर प्रतिबंध लगाना",
+        "en": "imposition of restrictions on freedom of the press"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "ब्रिटिश सरकार ने क्रांतिकारी और राष्ट्रवादी भावनाओं को कुचलने के लिये सिडनी रॉलेट की अध्यक्षता में 1919 में एक रॉलेट एक्ट पारित किया। इस एक्ट के तहत किसी भी व्यक्ति को संदेह के आधार पर गिरफ्तार करना, गुप्त रूप से मुकदमा चलाना आदि प्रावधान शामिल थे। इस एक्ट को बिना वकील, बिना अपील तथा बिना दलील का कानून भी कहा गया। भारतीय जनता ने 'काला कानून' कहकर इसका विरोध किया। अतः विकल्प (b) सही है।",
+      "en": "To crush the revolutionary and nationalist sentiments, the British government passed a Rowlatt Act in 1919 under the chairmanship of Sidney Rowlatt. Under this act, provisions like arresting any person on the basis of suspicion, secretly conducting trials, etc., were included. This act was also called the law of no lawyer, no appeal, and no argument. The Indian public protested against it by calling it a 'black law'. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 20,
+    "year": "2012",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कॉन्ग्रेस ने पूर्ण स्वराज की मांग का एक संकल्प पारित किया",
+        "en": "the Congress passed a resolution demanding complete independence"
+      },
+      {
+        "id": 2,
+        "hi": "इस अधिवेशन में उग्रवादियों एवं उदारवादियों के बीच झगड़े को सुलझा लिया गया",
+        "en": "the rift between the extremists and moderates was resolved in that Session"
+      },
+      {
+        "id": 3,
+        "hi": "इस अधिवेशन में दो राष्ट्रों की मांग के सिद्धांत को अस्वीकार करते हुए एक संकल्प पारित किया गया",
+        "en": "a resolution was passed rejecting the two-nation theory in that Session"
+      }
+    ],
+    "question": {
+      "hi": "भारतीय राष्ट्रीय कॉन्ग्रेस का लाहौर अधिवेशन (1929) इतिहास में इसलिये बहुत प्रसिद्ध है, क्योंकि",
+      "en": "The Lahore Session of the Indian National Congress (1929) is very important in history, because"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 3",
+        "en": "1 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "उपर्युक्त में से कोई नहीं",
+        "en": "None of the above"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "केवल कथन 1 सही है। द्वितीय कथन गलत है, क्योंकि उग्रवादी व उदारवादियों का झगड़ा 1916 के लखनऊ अधिवेशन में ही सुलझा लिया गया था और 1929 तक द्वि-राष्ट्र का सिद्धांत सामने नहीं आया था। इसलिये 1929 के लाहौर अधिवेशन में इस पर कॉन्ग्रेस द्वारा संकल्प प्रस्ताव पारित कर इसे अस्वीकार करने का कथन पूर्णतया असत्य है। अतः सही उत्तर (a) है। कॉन्ग्रेस के कलकत्ता अधिवेशन में ब्रिटिश सरकार को दी गई एक वर्ष की समय सीमा (डोमिनियन स्टेटस के संदर्भ में) समाप्त हो जाने के बाद दिसंबर 1929 में कॉन्ग्रेस के लाहौर अधिवेशन का आयोजन हुआ, जिसमें 'पूर्ण स्वराज' को राष्ट्रीय आंदोलन का लक्ष्य निर्धारित किया गया।",
+      "en": "Only statement 1 is correct. The second statement is wrong, because the dispute between the extremists and the moderates was resolved in the Lucknow session of 1916 itself, and till 1929 the two-nation theory had not come to the fore. Therefore, the statement of rejecting it by passing a resolution on it by the Congress in the Lahore session of 1929 is completely untrue. Hence the correct answer is (a). After the expiry of the one-year deadline (in the context of Dominion Status) given to the British government in the Calcutta session of the Congress, the Lahore session of the Congress was organized in December 1929, in which 'Poorna Swaraj' was set as the goal of the national movement."
+    }
+  },
+  {
+    "id": 21,
+    "year": "2012",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "question": {
+      "hi": "1939 में कॉन्ग्रेस मंत्रिमंडल ने सात प्रांतों में त्यागपत्र दे दिया था, क्योंकि",
+      "en": "The Congress ministries resigned in the seven provinces in 1939, because"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कॉन्ग्रेस अन्य चार प्रांतों में मंत्रिमंडल नहीं बना पाई थी",
+        "en": "the Congress could not form ministries in the other four provinces"
+      },
+      {
+        "id": "B",
+        "hi": "कॉन्ग्रेस में 'वामपक्ष' के उदय से मंत्रिमंडल का कार्य कर सकना असंभव हो गया था",
+        "en": "emergence of a 'left wing' in the Congress made the working of the ministries impossible"
+      },
+      {
+        "id": "C",
+        "hi": "उनके प्रांतों में बहुत अधिक सांप्रदायिक अशांति थी",
+        "en": "there were widespread communal disturbances in their provinces"
+      },
+      {
+        "id": "D",
+        "hi": "उपर्युक्त कथनों (a), (b) और (c) में से कोई भी सही नहीं है",
+        "en": "None of the statements (a), (b) and (c) given above is correct"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "उपर्युक्त में से कोई भी कथन सही नहीं है क्योंकि कॉन्ग्रेस मंत्रिमंडलों ने 1939 में इसलिये इस्तीफा दिया क्योंकि उनकी सहमति के बिना ही भारत की द्वितीय विश्व युद्ध में भागीदारी तय कर दी गई थी। वर्ष 1939 में द्वितीय विश्व युद्ध प्रारंभ हो गया था। कॉन्ग्रेस यह चाहती थी कि ब्रिटेन यह घोषणा करे कि युद्ध का एकमात्र उद्देश्य साम्राज्यवाद का उन्मूलन होगा और भारत को स्वतंत्र राष्ट्र का दर्जा दिया जाएगा, परंतु वायसराय लॉर्ड लिनलिथगो कोई स्पष्ट जवाब नहीं दे रहा था। इसके अतिरिक्त, लिनलिथगो ने बिना भारतीयों की अनुमति के यह घोषणा कर दी कि भारत भी जर्मनी के विरुद्ध ब्रिटेन के साथ युद्ध में शामिल है। अतः कॉन्ग्रेस शासित प्रदेशों के मंत्रियों ने 28 माह पुराने मंत्रिमण्डलों से त्यागपत्र दे दिया। अतः विकल्प (d) सही है।",
+      "en": "None of the above statements is correct because the Congress ministries resigned in 1939 as India's participation in the Second World War was decided without their consent. The Second World War started in the year 1939. The Congress wanted Britain to declare that the sole purpose of the war would be the eradication of imperialism and India would be granted the status of an independent nation, but Viceroy Lord Linlithgow was not giving any clear answer. Additionally, Linlithgow announced without the permission of the Indians that India was also involved in the war with Britain against Germany. Thus, the ministers of the Congress-ruled provinces resigned from the 28-month-old ministries. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 22,
+    "year": "2012",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "1932 में महात्मा गांधी ने मरणपर्यन्त उपवास प्रधानतया इसलिये किया कि",
+      "en": "Mahatma Gandhi undertook fast unto death in 1932, mainly because"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "गोलमेज़ सभा भारतीय राजनीतिक आकांक्षाओं को संतुष्ट करने में असफल हुई",
+        "en": "Round Table Conference failed to satisfy Indian political aspirations"
+      },
+      {
+        "id": "B",
+        "hi": "कॉन्ग्रेस और मुस्लिम लीग में मतभिन्नता थी",
+        "en": "Congress and Muslim League had differences of opinion"
+      },
+      {
+        "id": "C",
+        "hi": "रैम्ज़े मैकडोनाल्ड ने सांप्रदायिक अधिनिर्णय (कम्युनल अवॉर्ड) की घोषणा की।",
+        "en": "Ramsay Macdonald announced the Communal Award"
+      },
+      {
+        "id": "D",
+        "hi": "इस संदर्भ में उपर्युक्त (a), (b) तथा (c) कथनों में से कोई भी सही नहीं है।",
+        "en": "None of the statements (a), (b) and (c) given above is correct in this context"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "रैम्जे मैकडोनाल्ड ने कम्युनल अवॉर्ड की घोषणा की। इसके विरोध में गांधीजी ने आमरण अनशन (मरणपर्यन्त) किया। अंग्रेज़ों की 'बाँटो और राज करो' की नीति के तहत ब्रिटिश प्रधानमंत्री 'रैम्जे मैकडोनाल्ड' ने 16 अगस्त, 1932 को साम्प्रदायिक निर्णय प्रस्तुत किया। इसके तहत प्रत्येक अल्पसंख्यक समुदाय के लिये विधानमंडलों में कुछ सीटें सुरक्षित कर दी गईं जिनके सदस्यों का चुनाव पृथक् निर्वाचक मंडलों द्वारा किया जाना था। अब दलित वर्ग को भी अल्पसंख्यक मानकर हिंदुओं से अलग कर दिया गया। इस समय गांधीजी यरवदा जेल में थे। वे इसके विरोध में जेल में आमरण अनशन पर बैठ गए। अतः विकल्प (c) सही है।",
+      "en": "Ramsay MacDonald announced the Communal Award. In protest against this, Gandhiji went on a fast unto death. Under the British policy of 'Divide and Rule', British Prime Minister 'Ramsay MacDonald' presented the Communal Award on August 16, 1932. Under this, some seats were reserved in the legislatures for every minority community, whose members were to be elected by separate electorates. Now the depressed class was also separated from the Hindus considering them as a minority. At this time Gandhiji was in Yerwada jail. He sat on a fast unto death in the jail in protest against this. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 23,
+    "year": "2011",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत के लिये पूर्ण स्वतंत्रता",
+        "en": "Complete Independence for India"
+      },
+      {
+        "id": 2,
+        "hi": "अल्पसंख्यकों हेतु आरक्षित स्थानों के लिये संयुक्त निर्वाचन क्षेत्र",
+        "en": "Joint electorates for reservation of seats for minorities"
+      },
+      {
+        "id": 3,
+        "hi": "संविधान में भारतीयों के लिये मौलिक अधिकारों का प्रावधान",
+        "en": "Provision of fundamental rights for the people of India in the Constitution"
+      }
+    ],
+    "question": {
+      "hi": "भारतीय स्वतंत्रता आंदोलन के काल के संदर्भ में नेहरू रिपोर्ट में निम्नलिखित में से किसकी/किन-किन की अनुशंसा की गई थी?\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये:",
+      "en": "With reference to the period of Indian freedom struggle, which of the following was/were recommended by the Nehru report?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "नेहरू रिपोर्ट में भारत के लिये पूर्ण स्वतंत्रता की मांग नहीं की गई थी (डोमिनियन का दर्ज़ा माँगा गया था), अतः कथन (1) गलत है। बाकी दोनों कथन सत्य हैं। साइमन कमीशन को नियुक्त करने वाले तत्कालीन राज्य सचिव लॉर्ड बर्कनहेड का यह सोचना था कि भारतीय लोग संवैधानिक सुधार के लिये ठोस प्रस्ताव बनाने में असमर्थ हैं। भारतीय नेताओं ने इस चुनौती को स्वीकार करते हुए फरवरी, मई और अगस्त 1928 में विभिन्न सर्वदलीय सम्मेलनों का आयोजन किया तथा पंडित मोतीलाल नेहरू की अध्यक्षता में एक समिति की स्थापना की गई। इसी समिति की रिपोर्ट 'नेहरू रिपोर्ट' कहलाई। इसकी सिफारिशों में भारत को डोमिनियन का दर्जा देना, सांप्रदायिक आधार पर पृथक् निर्वाचन मंडल अस्वीकार करना (अल्पसंख्यकों हेतु आरक्षित स्थानों के लिये संयुक्त निर्वाचन क्षेत्र), और मौलिक अधिकारों को प्रतिपादित करना शामिल था। अतः विकल्प (b) सही है।",
+      "en": "The Nehru report did not ask for complete independence for India (Dominion status was asked for), hence statement (1) is incorrect. Both the other statements are true. Lord Birkenhead, the then Secretary of State who appointed the Simon Commission, thought that the Indian people were unable to make concrete proposals for constitutional reform. Accepting this challenge, Indian leaders organized various all-party conferences in February, May and August 1928, and a committee was established under the chairmanship of Pandit Motilal Nehru. The report of this committee was called 'Nehru Report'. Its recommendations included giving Dominion status to India, rejecting separate electorates on communal lines (joint electorates for reservation of seats for minorities), and establishing fundamental rights. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 24,
+    "year": "2011",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारतीय स्वतंत्रता आंदोलन के संदर्भ में उषा मेहता की ख्याति-",
+      "en": "With reference to Indian freedom struggle, Usha Mehta is well-known for"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भारत छोड़ो आंदोलन के समय में गुप्त कॉन्ग्रेस रेडियो चलाने हेतु है",
+        "en": "Running the secret Congress Radio in the wake of Quit India Movement"
+      },
+      {
+        "id": "B",
+        "hi": "द्वितीय गोलमेज़ सम्मेलन में सहभागिता हेतु है",
+        "en": "Participating in the Second Round Table Conference"
+      },
+      {
+        "id": "C",
+        "hi": "आज़ाद हिंद फौज की एक टुकड़ी का नेतृत्व करने हेतु है",
+        "en": "Leading a contingent of Indian National Army"
+      },
+      {
+        "id": "D",
+        "hi": "पंडित जवाहरलाल नेहरू की अंतरिम सरकार के गठन में सहायक भूमिका निभाने हेतु है",
+        "en": "Assisting in the formation of Interim Government under Pandit Jawaharlal Nehru"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "उषा मेहता ने भारत के स्वतंत्रता आंदोलन में सक्रिय भूमिका निभाई। वह भारत छोड़ो आंदोलन के समय खुफ़िया रेडियो (गुप्त कॉन्ग्रेस रेडियो) चलाने के कारण पूरे देश में विख्यात हुईं। भारत छोड़ो आंदोलन के प्रारंभ से ही दमन के निर्णय के कारण ब्रिटिश सरकार ने सभी प्रमुख नेताओं को गिरफ्तार कर जेल भेज दिया, परंतु द्वितीय पंक्ति के नेताओं ने भूमिगत होकर आंदोलन का नेतृत्व किया। रेडियो स्टेशन का मुख्य कार्य कॉन्ग्रेस की सूचनाओं का प्रसारण करना होता था। अतः विकल्प (a) सही है।",
+      "en": "Usha Mehta played an active role in India's freedom movement. She became famous throughout the country for running a secret radio (secret Congress Radio) during the Quit India Movement. Due to the decision of suppression right from the beginning of the Quit India Movement, the British government arrested all the prominent leaders and sent them to jail, but the second-line leaders went underground and led the movement. The main function of the radio station was to broadcast Congress information. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 25,
+    "year": "2011",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "1942 के भारत छोड़ो आंदोलन के संबंध में निम्नलिखित में से कौन-सी एक टिप्पणी सत्य नहीं है?",
+      "en": "With reference to the Quit India Movement of 1942, which one of the following statements is not true?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "यह आंदोलन अहिंसक था",
+        "en": "It was a non-violent movement"
+      },
+      {
+        "id": "B",
+        "hi": "उसका नेतृत्व महात्मा गांधी ने किया था",
+        "en": "It was led by Mahatma Gandhi"
+      },
+      {
+        "id": "C",
+        "hi": "यह आंदोलन स्वतः प्रवर्तित था",
+        "en": "It was a spontaneous movement"
+      },
+      {
+        "id": "D",
+        "hi": "इसने सामान्य श्रमिक वर्ग को आकर्षित नहीं किया था",
+        "en": "It did not attract the labour class in general"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारत छोड़ो आंदोलन स्वतःस्फूर्त था, अतः नेतृत्व कई स्तरों पर बँटा हुआ था। इसका नेतृत्व महात्मा गांधी ने पूर्णतः नहीं किया था, क्योंकि सरकार ने आंदोलन का दमन करने के लिये अगले ही दिन सभी महत्त्वपूर्ण नेताओं को गिरफ्तार कर लिया था। अतः यह कहना कि उसका नेतृत्व महात्मा गांधी ने किया था, सत्य नहीं है। अतः विकल्प (b) सही उत्तर है (चूँकि यह असत्य कथन है)।",
+      "en": "The Quit India Movement was spontaneous, so the leadership was divided at many levels. It was not entirely led by Mahatma Gandhi, because the government arrested all important leaders the very next day to suppress the movement. Therefore, it is not true to say that it was led by Mahatma Gandhi. Hence, option (b) is the correct answer (since it is an untrue statement)."
+    }
+  },
+  {
+    "id": 26,
+    "year": "2011",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अकाल पड़ने के बावज़ूद प्रशासन ने भू-राजस्व की उगाही स्थगित नहीं की थी।",
+        "en": "The Administration did not suspend the land revenue collection in spite of a drought."
+      },
+      {
+        "id": 2,
+        "hi": "प्रशासन का यह प्रस्ताव था कि गुजरात में स्थायी बंदोबस्त लागू कर दिया जाए।",
+        "en": "The Administration proposed to introduce Permanent Settlement in Gujarat."
+      }
+    ],
+    "question": {
+      "hi": "खेड़ा के किसानों के पक्ष में महात्मा गांधी के सत्याग्रह संगठित करने का क्या कारण था?\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "What was the reason for Mahatma Gandhi to organize a satyagraha on behalf of the peasants of Kheda?\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "खेड़ा आंदोलन का गुजरात में स्थायी बंदोबस्त लागू करने से कोई संबंध नहीं था, लेकिन अकाल पड़ने के बावज़ूद अंग्रेज़ सरकार ने करों को निलंबित नहीं किया, इसलिये महात्मा गांधी ने खेड़ा के किसानों के पक्ष में आंदोलन शुरू किया। वर्ष 1918 ई. में गुजरात के खेड़ा ज़िले में किसानों की फसल अकाल के कारण बर्बाद हो गई, जिसके कारण वहाँ के किसान मालगुज़ारी देने में असमर्थ हो गए थे। किसान मालगुज़ारी को माफ करने की मांग कर रहे थे, फिर भी सरकार ने उनसे मालगुज़ारी वसूलना स्थगित नहीं किया। अतः केवल कथन 1 सही है और विकल्प (a) सही उत्तर है।",
+      "en": "The Kheda movement had nothing to do with the implementation of the permanent settlement in Gujarat, but despite the famine, the British government did not suspend the taxes, so Mahatma Gandhi started a movement in favour of the farmers of Kheda. In the year 1918 AD, the crops of farmers in Kheda district of Gujarat were ruined due to famine, due to which the farmers there were unable to pay the land revenue. The farmers were demanding waiver of the land revenue, yet the government did not postpone collecting the land revenue from them. Hence only statement 1 is correct and option (a) is the correct answer."
+    }
+  },
+  {
+    "id": 27,
+    "year": "2011",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पश्चात् राष्ट्रीय आंदोलन (National Movement after the Arrival of Gandhiji)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "महात्मा गांधी ने कहा था कि उनकी कुछ सबसे गहन धारणाएँ 'अन्टू दिस लास्ट' (Unto this last) नामक पुस्तक में प्रतिबिंबित होती हैं और इस पुस्तक ने उनके जीवन को बदल डाला। इस पुस्तक का वह संदेश क्या था जिसने महात्मा गांधी को बदल डाला?",
+      "en": "Mahatma Gandhi said that some of his deepest convictions were reflected in a book titled, 'Unto this Last' and the book transformed his life. What was the message from the book that transformed Mahatma Gandhi?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सुशिक्षित व्यक्ति का यह नैतिक दायित्व है कि वह शोषित तथा निर्धनों का उत्थान करे",
+        "en": "Uplifting the oppressed and poor is the moral responsibility of an educated man"
+      },
+      {
+        "id": "B",
+        "hi": "व्यक्ति का कल्याण सबके कल्याण में निहित है",
+        "en": "The good of individual is contained in the good of all"
+      },
+      {
+        "id": "C",
+        "hi": "उच्च जीवन के लिये ब्रह्मचर्य तथा आध्यात्मिक चिंतन अनिवार्य है",
+        "en": "The life of celibacy and spiritual pursuit are essential for a noble life"
+      },
+      {
+        "id": "D",
+        "hi": "इस संदर्भ में सभी उपर्युक्त (a), (b) तथा (c) कथन सही हैं",
+        "en": "All the statements (a), (b) and (c) are correct in this context"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "'अन्टू दिस लास्ट' (Unto this Last) जॉन रस्किन द्वारा अर्थव्यवस्था पर लिखा गया एक लेख है। इस लेख में उसने बताया है कि वास्तविक संपत्ति मुद्रा या सोना नहीं है बल्कि वास्तविक संपत्ति जीवन है। इसी तरह इस लेख का एक अंश \"व्यक्ति का कल्याण सबके कल्याण में निहित है\" ने महात्मा गांधी को प्रभावित किया। इसी से प्रभावित होकर गांधीजी ने 'सर्वोदय' तथा 'अंत्योदय' जैसी अवधारणाओं का विकास किया। अतः विकल्प (b) सही है।",
+      "en": "'Unto this Last' is an essay on economy written by John Ruskin. In this article, he has stated that real wealth is not currency or gold but real wealth is life. Similarly, an excerpt from this article \"The good of individual is contained in the good of all\" influenced Mahatma Gandhi. Influenced by this, Gandhiji developed concepts like 'Sarvodaya' and 'Antyodaya'. Hence, option (b) is correct."
+    }
+  }
+]

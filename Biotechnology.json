@@ -1,0 +1,1687 @@
+[
+  {
+    "id": 1,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "वे मानव-निर्मित प्रोटीन हैं।",
+        "en": "They are man-made proteins."
+      },
+      {
+        "id": 2,
+        "hi": "वे विशिष्ट प्रतिजनों (एंटीजन) से बंधन बनाने की अपनी क्षमता के कारण प्रतिरक्षात्मक प्रकार्य को उद्दीपित करते हैं।",
+        "en": "They stimulate immune function due to their ability to bind to specific antigens."
+      },
+      {
+        "id": 3,
+        "hi": "वे निपा विषाणु के संक्रमण जैसे विषाणु संक्रमणों के उपचार में प्रयुक्त होते हैं।",
+        "en": "They are used in the treatment of viral infections such as Nipah virus infection."
+      }
+    ],
+    "question": {
+      "hi": "प्रायः समाचारों में चर्चित, एकक्लोनीय प्रतिरक्षियों (मोनोक्लोनल एंटीबॉडी) के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये –\nउपर्युक्त कथनों में कौन-कौन से सही हैं?",
+      "en": "With reference to monoclonal antibodies, often seen in the news, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल I और II",
+        "en": "I and II only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल II और III",
+        "en": "II and III only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल I और III",
+        "en": "I and III only"
+      },
+      {
+        "id": "D",
+        "hi": "I, II और III",
+        "en": "I, II and III"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "कथन I सही है: मोनोक्लोनल एंटीबॉडी प्रयोगशाला में तैयार किया गया कृत्रिम (मानव-निर्मित) प्रोटीन होता है, जो हमारी प्रतिरक्षा प्रणाली की तरह हानिकारक रोगजनकों से लड़ने का कार्य करता है।\nकथन II सही है: इनकी प्रतिरक्षा क्रियाएँ किसी विशेष एंटीजन से जुड़ने पर आधारित होती हैं और कभी-कभी यह क्रिया अन्य एफेक्टर फंक्शन पर भी निर्भर करती है।\nकथन III सही है: इन्हें वायरल संक्रमणों के इलाज में भी टेस्ट किया गया है, जैसे कि निपाह वायरस। उदाहरण के तौर पर, m102.4 नामक मोनोक्लोनल एंटीबॉडी ने निपाह वायरस को निष्क्रिय करने में आशाजनक परिणाम दिखाए हैं।\nअतः विकल्प (d) सही उत्तर है।",
+      "en": "Statement I is correct: Monoclonal antibodies are artificial (man-made) proteins created in the laboratory that act like our immune system to fight against harmful pathogens.\nStatement II is correct: Their immune actions are based on binding to a specific antigen and sometimes this action also depends on other effector functions.\nStatement III is correct: They have also been tested in the treatment of viral infections, such as Nipah virus. For example, a monoclonal antibody called m102.4 has shown promising results in neutralizing the Nipah virus.\nTherefore, option (d) is the correct answer."
+    }
+  },
+  {
+    "id": 2,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "महासागरीय जल में कोई विषाणु जीवित नहीं बच सकता।",
+        "en": "No virus can survive in ocean water."
+      },
+      {
+        "id": 2,
+        "hi": "कोई विषाणु, जीवाणुओं में संक्रमण नहीं कर सकता।",
+        "en": "A virus cannot infect bacteria."
+      },
+      {
+        "id": 3,
+        "hi": "कोई विषाणु, परपोषी कोशिका में कोशिकीय अनुलेखनात्मक सक्रियता को परिवर्तित नहीं कर सकता।",
+        "en": "A virus cannot alter cellular transcriptional activity in a host cell."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये –\nउपर्युक्त में से कितने कथन सही हैं?",
+      "en": "Consider the following statements:\nHow many of the above statements are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "कथन I सही नहीं है: विभिन्न अध्ययनों ने महासागरीय प्रणालियों में विषाणुओं के जीवित रहने की क्षमता और उनके स्रोतों से समुद्री तटों या शेलफिश जल में परिवहित होने की संभावना का अन्वेषण किया है।\nकथन II सही नहीं है: विषाणु जीवाणुओं (बैक्टीरियोफेज), पौधों और जानवरों सहित विभिन्न प्रकार के जीवों को संक्रमित कर सकते हैं।\nकथन III सही नहीं है: विषाणु कोशिकीय अनुलेखनात्मक सक्रियता (ट्रांसक्रिप्शनल एक्टिविटी) और प्रोटीन-प्रोटीन अंतःक्रियाओं को भी परिवर्तित कर सकते हैं, जिससे संतति वायरस (प्रोजेनी वायरस) का कुशल उत्पादन बढ़ता है।\nअतः विकल्प (d) सही उत्तर है।",
+      "en": "Statement I is not correct: Various studies have explored the ability of viruses to survive in ocean systems and their potential to be transported from their sources to beaches or shellfish waters.\nStatement II is not correct: Viruses can infect various types of organisms including bacteria (bacteriophages), plants, and animals.\nStatement III is not correct: Viruses can also alter cellular transcriptional activity and protein-protein interactions, which enhances the efficient production of progeny viruses.\nTherefore, option (d) is the correct answer."
+    }
+  },
+  {
+    "id": 3,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "किसी पादप या प्राणी की आयु का आकलन करने के लिये",
+        "en": "To assess the age of a plant or animal"
+      },
+      {
+        "id": 2,
+        "hi": "समान दिखने वाली प्रजातियों के बीच भिन्नता जानने के लिये",
+        "en": "To distinguish among species that look alike"
+      },
+      {
+        "id": 3,
+        "hi": "प्रसंस्कृत खाद्य पदार्थों में अवांछित प्राणी या पादप सामग्री को पहचानने के लिये",
+        "en": "To identify undesirable animal or plant materials in processed foods"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये –\nDNA बारकोडिंग किसका उपसाधन हो सकता है?",
+      "en": "Consider the following statements:\nDNA barcoding can be a tool to:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "कथन 1 सही नहीं है: परमाणु या ऑर्गेनेल जीनोम से लघु DNA अनुक्रमों का उपयोग कर जैविक प्रतिदर्शों की पहचान करने की नई तकनीक को DNA बारकोडिंग कहा जाता है। इसका उपयोग आयु आकलन के लिए नहीं किया जाता है।\nकथन 2 और 3 सही हैं: लुप्तप्राय वन्यजीवों की प्रजातियों की पहचान (एक जैसी दिखने वाली प्रजातियों के बीच अंतर), कीट संगरोध और रोग वाहक (अवांछनीय जानवरों/पौधों की पहचान करना) कुछ ऐसे क्षेत्र हैं जिनमें DNA बारकोडिंग शोधकर्ताओं, प्रवर्तन एजेंटों और उपभोक्ताओं हेतु बहुत कम समय-सीमा में निर्णय लेती है।\nअतः विकल्प (d) सही उत्तर है।",
+      "en": "Statement 1 is not correct: The new technique of identifying biological specimens using short DNA sequences from nuclear or organelle genomes is called DNA barcoding. It is not used for assessing age.\nStatements 2 and 3 are correct: Identification of endangered wildlife species (distinguishing between similar-looking species), pest quarantine, and disease vectors (identifying undesirable animals/plants) are some areas where DNA barcoding helps researchers, enforcement agents, and consumers make quick decisions.\nTherefore, option (d) is the correct answer."
+    }
+  },
+  {
+    "id": 4,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इन वैक्सीनों के विकास में आनुवंशिक इंजीनियरी का प्रयोग किया जाता है।",
+        "en": "Genetic engineering is used in the development of these vaccines."
+      },
+      {
+        "id": 2,
+        "hi": "जीवाणुओं और विषाणुओं का प्रयोग रोगवाहक (वेक्टर) के रूप में किया जाता है।",
+        "en": "Bacteria and viruses are used as vectors."
+      }
+    ],
+    "question": {
+      "hi": "'पुनर्संयोजित (रीकॉम्बिनेंट) वेक्टर वैक्सीन' से संबंधित हाल के विकास के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये –\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to recent developments regarding 'Recombinant Vector Vaccines', consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कथन 1 सही है: पुनर्संयोजित (Recombinant) वेक्टर वैक्सीन एक नवीन तकनीक है। इन वैक्सीनों के विकास में आनुवंशिक इंजीनियरी (Genetic Engineering) का प्रयोग किया जाता है।\nकथन 2 सही है: वेक्टर जीवित जीव हैं जो रोगजनकों को प्रसारित कर सकते हैं। वैक्सीन एक सुरक्षित जीवाणुओं और विषाणुओं का उपयोग रोगवाहक (वेक्टर) के रूप में करते हैं ताकि रोग पैदा किये बिना प्रतिरक्षा प्रतिक्रिया को ट्रिगर किया जा सके।\nअतः विकल्प (c) सही उत्तर है।",
+      "en": "Statement 1 is correct: Recombinant vector vaccine is a novel technology. Genetic engineering is used in the development of these vaccines.\nStatement 2 is correct: Vectors are living organisms that can transmit infectious pathogens. The vaccines use safe bacteria and viruses as vectors to trigger an immune response without causing the disease.\nTherefore, option (c) is the correct answer."
+    }
+  },
+  {
+    "id": 5,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अंडों के अंतःपात्र (इन विट्रो) निषेचन से या तो पहले या बाद में सूत्रकणिका प्रतिस्थापन (माइटोकॉन्ड्रियल रिप्लेसमेंट) चिकित्सा द्वारा सूत्रकणिका रोगों (माइटोकॉन्ड्रियल डिज़ीज़) को माता-पिता से संतान में जाने से रोका जा सकता है।",
+        "en": "Passing on of mitochondrial diseases from parent to child can be prevented by mitochondrial replacement therapy either before or after in vitro fertilization of egg."
+      },
+      {
+        "id": 2,
+        "hi": "किसी संतान में सूत्रकणिका रोग आनुवंशिक रूप से पूर्णतः माता से जाता है न कि पिता से।",
+        "en": "A child inherits mitochondrial diseases entirely from mother and not from father."
+      }
+    ],
+    "question": {
+      "hi": "आनुवंशिक रोगों के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये –\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "In the context of hereditary diseases, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कथन 1 सही है: सूत्रकणिका प्रतिस्थापन चिकित्सा (Mitochondrial Replacement Therapy) में इन विट्रो फर्टिलाइजेशन (IVF) के माध्यम से दोषपूर्ण माइटोकॉन्ड्रियल डीएनए को दुरुस्त किया जा सकता है, जो निषेचन से पहले या बाद में किया जा सकता है।\nकथन 2 सही है: मनुष्य केवल अपनी माता से माइटोकॉन्ड्रिया प्राप्त करता है (Mt. DNA के माध्यम से), इसलिए माइटोकॉन्ड्रियल रोग आनुवंशिक रूप से पूर्णतः माता से संतान में जाते हैं।\nअतः विकल्प (c) सही उत्तर है।",
+      "en": "Statement 1 is correct: In Mitochondrial Replacement Therapy, defective mitochondrial DNA can be corrected through In Vitro Fertilization (IVF), which can be done either before or after fertilization.\nStatement 2 is correct: Humans inherit mitochondria solely from their mother (via Mt. DNA), therefore mitochondrial diseases are inherited entirely from the mother to the child.\nTherefore, option (c) is the correct answer."
+    }
+  },
+  {
+    "id": 6,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "बॉलगार्ड-I और बॉलगार्ड-II प्रौद्योगिकियों का उल्लेख किसके संदर्भ में किया जाता है?",
+      "en": "Bollgard-I and Bollgard-II technologies are mentioned in the context of:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "फसली पादपों का क्लोनी प्रवर्धन",
+        "en": "Clonal propagation of crop plants"
+      },
+      {
+        "id": "B",
+        "hi": "आनुवंशिक रूप से रूपांतरित फसली पादपों का विकास",
+        "en": "Developing genetically modified crop plants"
+      },
+      {
+        "id": "C",
+        "hi": "पादप वृद्धिकर पदार्थों का उत्पादन",
+        "en": "Production of plant growth substances"
+      },
+      {
+        "id": "D",
+        "hi": "जैव उर्वरकों का उत्पादन",
+        "en": "Production of biofertilizers"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "बॉलगार्ड-I और बॉलगार्ड-II बीटी कपास (Bt Cotton) से संबंधित तकनीक हैं। यह भारत की पहली बायोटेक फसल तकनीक है जिसे आनुवंशिक रूप से रूपांतरित (Genetically Modified) करके विकसित किया गया है। अतः विकल्प (b) सही है।",
+      "en": "Bollgard-I and Bollgard-II are technologies related to Bt Cotton. It is India's first biotech crop technology developed by genetically modifying crop plants. Therefore, option (b) is correct."
+    }
+  },
+  {
+    "id": 7,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "'ACE2' पद का उल्लेख किस संदर्भ में किया जाता है?",
+      "en": "The term 'ACE2' is mentioned in the context of:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "आनुवंशिक रूप से रूपांतरित पादपों में पुरःस्थापित (इन्ट्रोड्यूस्ड) जीन",
+        "en": "Genes introduced in the genetically modified plants"
+      },
+      {
+        "id": "B",
+        "hi": "भारत के निजी उपग्रह संचालन प्रणाली का विकास",
+        "en": "Development of India's own satellite navigation system"
+      },
+      {
+        "id": "C",
+        "hi": "वन्य प्राणियों पर निगाह रखने के लिये रेडियो कॉलर",
+        "en": "Radio collars for wildlife tracking"
+      },
+      {
+        "id": "D",
+        "hi": "विषाणुजनित रोगों का प्रसार",
+        "en": "Spread of viral diseases"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "ACE2 (Angiotensin-Converting Enzyme 2) मानव कोशिकाओं की सतह पर एक एंजाइम है जो रिसेप्टर के रूप में कार्य करता है। यह SARS-CoV-2 (COVID-19) वायरस को कोशिकाओं को संक्रमित करने में सक्षम बनाता है, जिससे यह विषाणुजनित रोगों के प्रसार से संबंधित है। अतः विकल्प (d) सही है।",
+      "en": "ACE2 (Angiotensin-Converting Enzyme 2) is an enzyme on the surface of human cells that acts as a receptor. It enables the SARS-CoV-2 (COVID-19) virus to infect cells, thereby relating it to the spread of viral diseases. Therefore, option (d) is correct."
+    }
+  },
+  {
+    "id": 8,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भावी माता-पिता के अंड या शुक्राणु उत्पन्न करने वाली कोशिकाओं में आनुवंशिक परिवर्तन किये जा सकते हैं।",
+        "en": "Genetic changes can be introduced in the cells that produce eggs or sperms of a prospective parent."
+      },
+      {
+        "id": 2,
+        "hi": "व्यक्ति का जीनोम जन्म से पूर्व प्रारंभिक भ्रूणीय अवस्था में संपादित किया जा सकता है।",
+        "en": "A person's genome can be edited before birth at the early embryonic stage."
+      },
+      {
+        "id": 3,
+        "hi": "मानव प्रेरित बहुशक्त स्टेम (Pluripotent Stem) कोशिकाओं को एक शूकर के भ्रूण में अंतर्वेशित किया जा सकता है।",
+        "en": "Human induced pluripotent stem cells can be injected into the embryo of a pig."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "कथन 1 और 2 सही हैं: 'जर्म लाइन' जीन थेरेपी के माध्यम से अंड या शुक्राणु उत्पन्न करने वाली कोशिकाओं में तथा प्रारंभिक भ्रूणीय अवस्था में जीनोम संपादित (Edit) किया जा सकता है।\nकथन 3 सही है: मानव स्टेम कोशिकाओं को शूकर के भ्रूण में डालकर मानव अंग बनाए जा सकते हैं, ऐसे भ्रूण को 'काइमेरा एम्ब्रियो' (Chimera Embryos) नाम दिया गया है।\nअतः विकल्प (d) सही उत्तर है।",
+      "en": "Statements 1 and 2 are correct: Through 'germline' gene therapy, genetic changes can be introduced in egg or sperm-producing cells, and a genome can be edited at the early embryonic stage before birth.\nStatement 3 is correct: Human stem cells can be injected into a pig embryo to grow human organs; such embryos are termed 'Chimera Embryos'.\nTherefore, option (d) is the correct answer."
+    }
+  },
+  {
+    "id": 9,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "ये वैक्सीन न्यूमोनिया और साथ ही तानिकाशोथ और सेप्सिस के विरुद्ध प्रभावी हैं।",
+        "en": "These vaccines are effective against pneumonia as well as meningitis and sepsis."
+      },
+      {
+        "id": 2,
+        "hi": "उन प्रतिजैविकियों पर निर्भरता कम की जा सकती है जो औषध-प्रतिरोधी जीवाणु के विरुद्ध प्रभावी नहीं हैं।",
+        "en": "Dependence on antibiotics that are not effective against drug-resistant bacteria can be reduced."
+      },
+      {
+        "id": 3,
+        "hi": "इन वैक्सीन के कोई गौण प्रभाव (Side Effects) नहीं हैं और न ही ये वैक्सीन कोई प्रत्यूर्जता संबंधी अभिक्रियाएँ (Allergic Reactions) करती हैं।",
+        "en": "These vaccines have no side effects and cause no allergic reactions."
+      }
+    ],
+    "question": {
+      "hi": "भारत में न्यूमोकोकल संयुग्मी वैक्सीन (Pneumococcal Conjugate Vaccine) के उपयोग का क्या महत्त्व है?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "What is the importance of using Pneumococcal Conjugate Vaccines in India?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कथन 1 और 2 सही हैं: न्यूमोकोकल कॉन्जुगेट वैक्सीन (PCV) गंभीर न्यूमोकोकल संक्रमण (जैसे मेनिन्जाइटिस, बैक्टीरेमिक निमोनिया और सेप्टिसीमिया) से बचाव कर सकता है। यह उन एंटीबायोटिक्स पर निर्भरता कम करने में भी मदद करता है जो औषधि-प्रतिरोधी जीवाणुओं के विरुद्ध प्रभावी नहीं हैं।\nकथन 3 सही नहीं है: इस वैक्सीन के कुछ साइड इफेक्ट्स (गौण प्रभाव) हो सकते हैं, जैसे वैक्सीन लेने वाले बच्चों में एलर्जी (लोकल रिएक्शन) या क्षणिक बुखार जैसे लक्षण।\nअतः विकल्प (b) सही उत्तर है।",
+      "en": "Statements 1 and 2 are correct: Pneumococcal Conjugate Vaccine (PCV) can protect against severe pneumococcal infections (such as meningitis, bacteremic pneumonia, and septicemia). It also helps reduce dependence on antibiotics that are not effective against drug-resistant bacteria.\nStatement 3 is not correct: This vaccine can have side effects, such as allergic (local) reactions or transient fever in children receiving the vaccine.\nTherefore, option (b) is the correct answer."
+    }
+  },
+  {
+    "id": 10,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "मानव प्रजनन तकनीकी में अभिनव प्रगति के संदर्भ में, 'प्राक्केंद्रिक स्थानांतरण' (Pronuclear Transfer) का प्रयोग किसलिये होता है?",
+      "en": "In the context of recent advances in human reproductive technology, 'Pronuclear Transfer' is used for:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इन विट्रो अंड के निषेचन के लिये दाता शुक्राणु का उपयोग",
+        "en": "Fertilization of egg in vitro by the donor sperm"
+      },
+      {
+        "id": "B",
+        "hi": "शुक्राणु उत्पन्न करने वाली कोशिकाओं का आनुवंशिक रूपांतरण",
+        "en": "Genetic modification of sperm producing cells"
+      },
+      {
+        "id": "C",
+        "hi": "स्टेम (Stem) कोशिकाओं का कार्यात्मक भ्रूणों में विकास",
+        "en": "Development of stem cells into functional embryos"
+      },
+      {
+        "id": "D",
+        "hi": "संतान में सूत्रकणिका वाले रोगों का निरोध",
+        "en": "Prevention of mitochondrial diseases in offspring"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "'प्राक्केंद्रिक स्थानांतरण' (Pronuclear Transfer) के अंतर्गत प्राक्केंद्रों को एक युग्मनज (Zygote) से दूसरे युग्मनज में स्थानांतरित किया जाता है। यह प्रक्रिया संतानों में सूत्रकणिका रोगों (Mitochondrial Diseases) की रोकथाम हेतु विकसित की गई है। अतः विकल्प (d) सही है।",
+      "en": "Under 'Pronuclear Transfer', pronuclei are transferred from one zygote to another. This procedure has been developed for the prevention of mitochondrial diseases in offspring. Therefore, option (d) is correct."
+    }
+  },
+  {
+    "id": 11,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह जीन अभिव्यक्ति को रोकने (जीन साइलेंसिंग) के उपचारों के विकास में प्रयुक्त होता है।",
+        "en": "It is used in developing gene silencing therapies."
+      },
+      {
+        "id": 2,
+        "hi": "इसे कैंसर की चिकित्सा में रोगोपचार विकसित करने हेतु प्रयुक्त किया जा सकता है।",
+        "en": "It can be used in developing therapies for the treatment of cancer."
+      },
+      {
+        "id": 3,
+        "hi": "इसे हार्मोन प्रतिस्थापन रोगोपचार विकसित करने हेतु प्रयुक्त किया जा सकता है।",
+        "en": "It can be used to develop hormone replacement therapies."
+      },
+      {
+        "id": 4,
+        "hi": "इसे ऐसी फसल पादपों को उगाने के लिये प्रयुक्त किया जा सकता है, जो विषाणु रोगजनकों के लिये प्रतिरोधी हों।",
+        "en": "It can be used to produce crop plants that are resistant to viral pathogens."
+      }
+    ],
+    "question": {
+      "hi": "‘RNA अंतर्क्षेप [RNA interference (RNAi)]’ प्रौद्योगिकी ने पिछले कुछ वर्षों में लोकप्रियता हासिल कर ली है। क्यों?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "‘RNA interference (RNAi)’ technology has gained popularity in the last few years. Why?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 2 और 4",
+        "en": "1, 2 and 4"
+      },
+      {
+        "id": "B",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 3",
+        "en": "1 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1 और 4",
+        "en": "1 and 4 only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कथन 1, 2 और 4 सही हैं। RNA अंतर्क्षेप (RNAi) एक जीन साइलेंसिंग तकनीक है जो प्रोटीन संश्लेषण को रोकती है। इसका उपयोग कैंसर और वायरल संक्रमणों के उपचार तथा प्रतिरोधी फसल उगाने में किया जा सकता है। कथन 3 गलत है क्योंकि हार्मोन रिप्लेसमेंट थेरेपी (HRT) में इसका कोई योगदान नहीं है।",
+      "en": "Statements 1, 2, and 4 are correct. RNAi is a gene silencing technology that inhibits protein synthesis. It can be used in cancer and viral infection treatments and to grow resistant crops. Statement 3 is incorrect as it has no role in Hormone Replacement Therapy (HRT)."
+    }
+  },
+  {
+    "id": 12,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "प्रायः समाचारों में आने वाला Cas9 प्रोटीन क्या है?",
+      "en": "What is Cas9 protein that is often mentioned in news?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "लक्ष्य-साधित जीन संपादन (टारगेटेड जीन एडिटिंग) में प्रयुक्त आण्विक कैंची",
+        "en": "A molecular scissors used in targeted gene editing"
+      },
+      {
+        "id": "B",
+        "hi": "रोगियों में रोगजनकों की ठीक-ठीक पहचान के लिये प्रयुक्त जैव संवेदक",
+        "en": "A biosensor used in the accurate detection of pathogens in patients"
+      },
+      {
+        "id": "C",
+        "hi": "एक जीन जो पादपों को पीड़क-प्रतिरोधी बनाता है",
+        "en": "A gene that makes plants pest-resistant"
+      },
+      {
+        "id": "D",
+        "hi": "आनुवंशिकतः रूपांतरित फसलों में संश्लेषित होने वाला एक शाकनाशी पदार्थ",
+        "en": "A herbicidal substance synthesized in genetically modified crops"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "Cas9 प्रोटीन वस्तुतः लक्ष्य साधित जीन संपादन (टारगेटेड जीन एडिटिंग) में प्रयुक्त आण्विक कैंची (Molecular scissors) है। इसका मुख्य कार्य DNA को काटना है।",
+      "en": "Cas9 protein is essentially a molecular scissors used in targeted gene editing. Its main function is to cut DNA."
+    }
+  },
+  {
+    "id": 13,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारतीय पेटेंट अधिनियम के अनुसार, किसी बीज को बनाने की जैव प्रक्रिया को भारत में पेटेंट कराया जा सकता है।",
+        "en": "According to the Indian Patent Act, a biological process to create a seed can be patented in India."
+      },
+      {
+        "id": 2,
+        "hi": "भारत में कोई बौद्धिक संपदा अपील बोर्ड नहीं है।",
+        "en": "In India, there is no Intellectual Property Appellate Board."
+      },
+      {
+        "id": 3,
+        "hi": "पादप किस्में भारत में पेटेंट कराए जाने के पात्र नहीं हैं।",
+        "en": "Plant varieties are not eligible to be patented in India."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कथन 1 गलत है: पेटेंट एक्ट, 1970 के अनुसार जैविक प्रक्रियाओं को पेटेंट नहीं कराया जा सकता। कथन 2 गलत है: 1958 में IPAB गठित किया गया था। कथन 3 सही है: पादप किस्में पेटेंट के पात्र नहीं हैं।",
+      "en": "Statement 1 is incorrect: Biological processes cannot be patented as per the Patent Act, 1970. Statement 2 is incorrect: IPAB was established in 1958. Statement 3 is correct: Plant varieties are not eligible for patents."
+    }
+  },
+  {
+    "id": 14,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "GM सरसों में मृदा जीवाणु के जीन होते हैं जो पादप को अनेक किस्मों के पीड़कों के विरुद्ध पीड़क-प्रतिरोध का गुण देते हैं।",
+        "en": "GM mustard has the genes of a soil bacterium that give the plant the property of pest-resistance to a wide variety of pests."
+      },
+      {
+        "id": 2,
+        "hi": "GM सरसों में वे जीन होते हैं जो पादप में पर-परागण और संकरण को सुकर बनाते हैं।",
+        "en": "GM mustard has the genes that allow the plant cross-pollination and hybridization."
+      },
+      {
+        "id": 3,
+        "hi": "GM सरसों का विकास IARI और पंजाब कृषि विश्वविद्यालय द्वारा संयुक्त रूप से किया गया है।",
+        "en": "GM mustard has been developed jointly by the IARI and Punjab Agricultural University."
+      }
+    ],
+    "question": {
+      "hi": "भारत में विकसित आनुवंशिकतः रूपांतरित सरसों (GM सरसों) के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to the genetically modified mustard (GM mustard) developed in India, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कथन 3 गलत है: इसे दिल्ली विश्वविद्यालय के सेंटर फॉर जेनेटिक मैनिपुलेशन द्वारा विकसित किया गया है। कथन 1 गलत है: इसमें प्रयुक्त जीन शाकनाशी (herbicide) के विरुद्ध प्रतिरोध प्रदान करता है, न कि पीड़कनाशी (pest) के विरुद्ध। कथन 2 सही है: यह पर-परागण को सक्षम बनाता है।",
+      "en": "Statement 3 is incorrect: It was developed by Delhi University. Statement 1 is incorrect: The genes confer herbicide resistance, not pest resistance. Statement 2 is correct: It allows cross-pollination."
+    }
+  },
+  {
+    "id": 15,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "विभिन्न फसली पौधों में रोग प्रतिरोध और सूखा सहिष्णुता के लिये आनुवंशिक सूचकों का अभिज्ञान करने के लिये जीनोम अनुक्रमण का उपयोग किया जा सकता है।",
+        "en": "Genome sequencing can be used to identify genetic markers for disease resistance and drought tolerance in various crop plants."
+      },
+      {
+        "id": 2,
+        "hi": "यह तकनीक, फसली पौधों की नई किस्मों को विकसित करने में लगने वाले आवश्यक समय को घटाने में मदद करती है।",
+        "en": "This technique helps in reducing the time required to develop new varieties of crop plants."
+      },
+      {
+        "id": 3,
+        "hi": "इसका प्रयोग, फसलों में पोषी-रोगाणु संबंधों को समझने के लिये किया जा सकता है।",
+        "en": "It can be used to decipher the host-pathogen relationships in crops."
+      }
+    ],
+    "question": {
+      "hi": "भारत में कृषि के संदर्भ में, प्रायः समाचारों में आने वाले ‘जीनोम अनुक्रमण’ की तकनीक का आसन्न भविष्य में किस प्रकार उपयोग किया जा सकता है?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "In the context of agriculture in India, how can the technique of 'genome sequencing', often seen in the news, be used in the immediate future?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "तीनों कथन सही हैं। जीनोम अनुक्रमण से रोग प्रतिरोधी और सूखा सहिष्णु जीनों का पता लगाया जा सकता है, नई किस्मों के विकास का समय घटता है और पोषी-रोगाणु संबंधों को समझने में मदद मिलती है।",
+      "en": "All three statements are correct. Genome sequencing helps identify disease-resistant and drought-tolerant genes, reduces development time for new varieties, and helps decipher host-pathogen relationships."
+    }
+  },
+  {
+    "id": 16,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "लिपस्टिक - सीसा",
+        "en": "Lipstick - Lead"
+      },
+      {
+        "id": 2,
+        "hi": "शीतल पेय - ब्रोमीनित वनस्पति तेल",
+        "en": "Soft drinks - Brominated vegetable oil"
+      },
+      {
+        "id": 3,
+        "hi": "चाइनीज़ फास्ट फूड - मोनोसोडियम ग्लूटामेट",
+        "en": "Chinese fast food - Monosodium glutamate"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये– (सामान्यतः प्रयुक्त पदार्थ : संभावित अवांछनीय रसायन)\nऊपर दिये गए युग्मों में से कौन-सा/से सही सुमेलित है/हैं?",
+      "en": "Consider the following pairs: (Commonly used material : Possible undesirable chemical)\nWhich of the pairs given above is/are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "तीनों युग्म सही सुमेलित हैं। लिपस्टिक में सीसा (Lead), शीतल पेय में ब्रोमीनित वनस्पति तेल और चाइनीज़ फास्ट फूड में मोनोसोडियम ग्लूटामेट (MSG) पाया जाता है।",
+      "en": "All pairs are correctly matched. Lipstick contains Lead, soft drinks contain brominated vegetable oil, and Chinese fast food contains monosodium glutamate (MSG)."
+    }
+  },
+  {
+    "id": 17,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "कायिक कोशिका न्यूक्लीय अंतरण प्रौद्योगिकी (सोमैटिक सेल न्यूक्लियर ट्रांसफर टेक्नोलॉजी) का अनुप्रयोग क्या है?",
+      "en": "What is the application of Somatic Cell Nuclear Transfer Technology?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "जैव-डिंभनाशी का उत्पादन",
+        "en": "Production of biolarvicides"
+      },
+      {
+        "id": "B",
+        "hi": "जैव- निम्नीकरणीय प्लास्टिक का निर्माण",
+        "en": "Manufacture of biodegradable plastics"
+      },
+      {
+        "id": "C",
+        "hi": "जंतुओं की जननीय क्लोनिंग",
+        "en": "Reproductive cloning of animals"
+      },
+      {
+        "id": "D",
+        "hi": "रोग मुक्त जीवों का उत्पादन",
+        "en": "Production of organisms free of diseases"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "इस तकनीक में किसी जीव की दैहिक कोशिका के केंद्रक को निकालकर उससे नया जीव (क्लोन) बनाया जाता है। इसे जंतुओं की क्लोनिंग कहा जाता है।",
+      "en": "In this technique, the nucleus of a somatic cell of an organism is extracted to create a new organism (clone). It is used for reproductive cloning of animals."
+    }
+  },
+  {
+    "id": 18,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "जैव सूचना-विज्ञान (बायोइन्फॉर्मेटिक्स) में घटनाक्रमों के संदर्भ में समाचारों में कभी-कभी दिखने वाला पद 'ट्रांसक्रिप्टोम (Transcriptome)' किसे निर्दिष्ट करता है?",
+      "en": "In the context of developments in bioinformatics, the term 'Transcriptome', sometimes seen in the news, refers to:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "जीनोम संपादन (जीनोम एडिटिंग) में प्रयुक्त एंजाइमों की एक श्रेणी",
+        "en": "A range of enzymes used in genome editing"
+      },
+      {
+        "id": "B",
+        "hi": "किसी जीव द्वारा अभिव्यक्त mRNA अणुओं की पूर्ण शृंखला",
+        "en": "The full range of mRNA molecules expressed by an organism"
+      },
+      {
+        "id": "C",
+        "hi": "जीन अभिव्यक्ति की क्रियाविधि का वर्णन",
+        "en": "The description of the mechanism of gene expression"
+      },
+      {
+        "id": "D",
+        "hi": "कोशिकाओं में होने वाले आनुवंशिक उत्परिवर्तनों की एक क्रियाविधि",
+        "en": "A mechanism of genetic mutations taking place in cells"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "ट्रांसक्रिप्टोम किसी जीव द्वारा अभिव्यक्त mRNA (messenger RNA) अणुओं की पूर्ण शृंखला को निर्दिष्ट करता है।",
+      "en": "Transcriptome refers to the full range of mRNA (messenger RNA) molecules expressed by an organism."
+    }
+  },
+  {
+    "id": 19,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "जैव शौचालयों में मानव अपशिष्ट का अपघटन फंगल इनॉकुलम (fungal inoculum) द्वारा उपक्रमित (इनिशिएट) होता है।",
+        "en": "Decomposition of human waste in the bio-toilets is initiated by a fungal inoculum."
+      },
+      {
+        "id": 2,
+        "hi": "इस अपघटन के अंत्य उत्पाद केवल अमोनिया एवं जलवाष्प होते हैं, जो वायुमण्डल में निर्मुक्त हो जाते हैं।",
+        "en": "The end products of this decomposition are only ammonia and water vapour, which are released into the atmosphere."
+      }
+    ],
+    "question": {
+      "hi": "भारतीय रेल द्वारा उपयोग में लाए जाने वाले जैव शौचालयों (बायो-टॉयलेट्स) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to bio-toilets used by the Indian Railways, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "कथन 1 गलत है: इसमें मानव अपशिष्ट का अपघटन अवायवीय जीवाणुओं (Anaerobic Bacteria) द्वारा किया जाता है। कथन 2 गलत है: इसके अंत्य उत्पाद जल एवं मीथेन तथा कार्बन डाइऑक्साइड गैसें होती हैं।",
+      "en": "Statement 1 is incorrect: Decomposition is done by anaerobic bacteria, not fungal inoculum. Statement 2 is incorrect: The end products are water, methane, and carbon dioxide, not just ammonia and water vapour."
+    }
+  },
+  {
+    "id": 20,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "परितारिका (Iris) क्रमवीक्षण",
+        "en": "Iris scanning"
+      },
+      {
+        "id": 2,
+        "hi": "दृष्टिपटल (Retina) क्रमवीक्षण",
+        "en": "Retinal scanning"
+      },
+      {
+        "id": 3,
+        "hi": "वाक् (Voice) अभिज्ञान",
+        "en": "Voice recognition"
+      }
+    ],
+    "question": {
+      "hi": "किसी व्यक्ति की जीवमितीय पहचान (Biometric Identification) हेतु, अँगुलि-छाप क्रमवीक्षण के अलावा, निम्नलिखित में से कौन-सा/से प्रयोग में लाया जा सकता है/लाए जा सकते हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "In addition to fingerprint scanning, which of the following can be used in the biometric identification of a person?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "बायोमेट्रिक पहचान में फिंगर प्रिंटिंग के अलावा आइरिस, रेटिना स्कैनिंग, और वॉयस रिकग्निशन सभी का प्रयोग किया जा सकता है।",
+      "en": "In addition to fingerprinting, biometric identification can use iris scanning, retinal scanning, and voice recognition. All three are correct."
+    }
+  },
+  {
+    "id": 21,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "मक्का का मंड के उत्पादन के लिये प्रयोग किया जा सकता है।",
+        "en": "Maize can be used for the production of starch."
+      },
+      {
+        "id": 2,
+        "hi": "मक्का से निष्कर्षित तेल जैव-डीज़ल के लिये फीडस्टॉक हो सकता है।",
+        "en": "Oil extracted from maize can be a feedstock for biodiesel."
+      },
+      {
+        "id": 3,
+        "hi": "मक्का के प्रयोग से एल्कोहली पेय उत्पन्न किया जा सकता है।",
+        "en": "Alcoholic beverages can be produced by using maize."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "मक्का का प्रयोग खाद्य के अलावा मंड (स्टार्च), अल्कोहली पेय, और जैव-ईंधन (बायो-एथेनॉल/बायोडीजल) के निर्माण में भी किया जाता है। अतः सभी कथन सही हैं।",
+      "en": "Apart from food, maize is used for producing starch, alcoholic beverages, and biofuels (bioethanol/biodiesel). Therefore, all statements are correct."
+    }
+  },
+  {
+    "id": 22,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "भारत में ग्वार (क्लस्टर बीन) का पारंपरिक रूप से सब्जी या पशु आहार के रूप में उपयोग किया जाता है, किंतु हाल ही में इसकी खेती ने महत्त्व का स्थान प्राप्त किया है। इस संदर्भ में निम्नलिखित में से कौन-सा एक कथन सही है?",
+      "en": "In India, cluster bean (Guar) is traditionally used as a vegetable or animal feed, but recently the cultivation of this has assumed significance. Which one of the following statements is correct in this context?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "बीजों से निकाला गया तेल जैव-निम्नीकरणीय सुघट्यों के निर्माण में प्रयुक्त होता है।",
+        "en": "The oil extracted from seeds is used in the manufacture of biodegradable plastics."
+      },
+      {
+        "id": "B",
+        "hi": "इसके बीजों से निर्मित गोंद शेल गैस के निष्कर्षण में प्रयुक्त होता है।",
+        "en": "The gum made from its seeds is used in the extraction of shale gas."
+      },
+      {
+        "id": "C",
+        "hi": "इस पौधे की पत्तियों के सार में प्रतिहिस्टामिन गुणधर्म होता है।",
+        "en": "The leaf extract of this plant has antihistamine properties."
+      },
+      {
+        "id": "D",
+        "hi": "यह उच्च गुणता के जैव-डीज़ल का एक स्रोत है।",
+        "en": "It is a source of high quality biodiesel."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "ग्वार के बीजों से ग्वार गोंद (Guar gum) बनता है जिसका प्रयोग हाइड्रोलिक फ्रैक्चरिंग तकनीक के जरिए शेल गैस निष्कर्षण में बड़े पैमाने पर किया जाता है।",
+      "en": "Guar seeds are used to produce guar gum, which is extensively used in the extraction of shale gas through hydraulic fracturing technology."
+    }
+  },
+  {
+    "id": 23,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "पौधों की विभिन्न जातियों में",
+        "en": "across different species of plants"
+      },
+      {
+        "id": 2,
+        "hi": "जंतुओं से पौधों में",
+        "en": "from animals to plants"
+      },
+      {
+        "id": 3,
+        "hi": "सूक्ष्म जीवों से उच्चतर जीवों में",
+        "en": "from microorganisms to higher organisms"
+      }
+    ],
+    "question": {
+      "hi": "पुनर्योगज DNA प्रौद्योगिकी (आनुवंशिक इंजीनियरी) जीनों को स्थानांतरित होने देता है–\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "Recombinant DNA technology (Genetic Engineering) allows genes to be transferred:\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "पुनर्योगज (Recombinant) DNA तकनीक के तहत जीनों का स्थानांतरण पौधों की विभिन्न प्रजातियों में, जंतुओं से पौधों में, तथा सूक्ष्म जीवों से उच्चतर जीवों में संभव है। अतः तीनों कथन सही हैं।",
+      "en": "Recombinant DNA technology enables the transfer of genes across different plant species, from animals to plants, and from microorganisms to higher organisms. Thus, all three statements are correct."
+    }
+  },
+  {
+    "id": 24,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "Bt बैंगन की रचना इसके जीनोम में मृदा कवक के जीन को प्रवेश कराकर की गई है।",
+        "en": "Bt Brinjal has been created by inserting a gene from a soil fungus into its genome."
+      },
+      {
+        "id": 2,
+        "hi": "Bt बैंगन के बीज टर्मिनेटर बीज हैं, जिसके कारण किसानों को प्रत्येक मौसम के पहले बीज कम्पनियों से बीज खरीदना पड़ता है।",
+        "en": "The seeds of Bt Brinjal are terminator seeds, which causes farmers to buy seeds from seed companies before every season."
+      },
+      {
+        "id": 3,
+        "hi": "एक आशंका है कि Bt बैंगन के उपभोग का स्वास्थ्य पर विपरीत प्रभाव पड़ सकता है।",
+        "en": "There is an apprehension that the consumption of Bt Brinjal may have adverse impact on health."
+      },
+      {
+        "id": 4,
+        "hi": "यह भी चिन्ता है कि Bt बैंगन के प्रवेशन से जैव-विविधता पर विपरीत प्रभाव हो सकता है।",
+        "en": "There is also a concern that the introduction of Bt Brinjal may have adverse impact on biodiversity."
+      }
+    ],
+    "question": {
+      "hi": "भारत में Bt बैंगन के प्रवेशन पर लोगों के विरोध के कारण क्या हैं?\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये–",
+      "en": "What are the reasons for the people's resistance to the introduction of Bt Brinjal in India?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3 और 4",
+        "en": "3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कथन 1 गलत है क्योंकि Bt बैंगन में 'मृदा जीवाणु' (Bacillus Thuringiensis) का जीन डाला गया है, कवक का नहीं। कथन 2 गलत है क्योंकि टर्मिनेटर बीज की बात मात्र अफवाह थी। कथन 3 और 4 सही हैं (स्वास्थ्य और जैव-विविधता पर संभावित विपरीत प्रभाव को लेकर विरोध है)।",
+      "en": "Statement 1 is incorrect because Bt Brinjal contains a gene from a 'soil bacterium', not a fungus. Statement 2 is incorrect as the terminator seed claim was a rumor. Statements 3 and 4 are correct as opposition stems from potential adverse impacts on health and biodiversity."
+    }
+  },
+  {
+    "id": 25,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "स्टेम कोशिकाएँ केवल स्तनपायी जीवों से ही प्राप्त की जा सकती हैं।",
+        "en": "Stem cells can be derived from mammals only."
+      },
+      {
+        "id": 2,
+        "hi": "स्टेम कोशिकाएँ नई औषधियों को परखने के लिये प्रयोग की जा सकती हैं।",
+        "en": "Stem cells can be used for screening new drugs."
+      },
+      {
+        "id": 3,
+        "hi": "स्टेम कोशिकाएँ चिकित्सा थेरेपी के लिये प्रयोग की जा सकती हैं।",
+        "en": "Stem cells can be used for medical therapies."
+      }
+    ],
+    "question": {
+      "hi": "अक्सर सुर्खियों में रहने वाली ‘स्टेम कोशिकाओं’ के संदर्भ में, निम्नलिखित में से कौन-सा/से कथन सही है/हैं?\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये–",
+      "en": "With reference to 'stem cells', frequently in the news, which of the following statements is/are correct?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कथन 1 गलत है: स्टेम कोशिकाएँ केवल स्तनपायी ही नहीं बल्कि पौधों और अन्य जीवों से भी प्राप्त की जा सकती हैं। कथन 2 और 3 सही हैं: इनका उपयोग नई औषधियों के परीक्षण और चिकित्सा उपचार में किया जाता है।",
+      "en": "Statement 1 is incorrect: Stem cells can be derived not only from mammals but also from plants and other organisms. Statements 2 and 3 are correct: They are used for testing new drugs and in medical therapies."
+    }
+  },
+  {
+    "id": 26,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "हाल ही में ‘ऑयलजैपर’ समाचारों में था। यह क्या है?",
+      "en": "Recently, 'Oilzapper' was in the news. What is it?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "यह तैलीय पंक तथा बिखरे हुए तेल के उपचार हेतु पारिस्थितिकी के अनुकूल विकसित प्रौद्योगिकी है।",
+        "en": "It is an eco-friendly technology for the remediation of oily sludge and oil spills."
+      },
+      {
+        "id": "B",
+        "hi": "यह समुद्र के भीतर तेल अन्वेषण हेतु विकसित अत्याधुनिक प्रौद्योगिकी है।",
+        "en": "It is the latest technology developed for under-sea oil exploration."
+      },
+      {
+        "id": "C",
+        "hi": "यह आनुवंशिक इंजीनियरी से निर्मित उच्च मात्रा में जैव-ईंधन प्रदान करने वाली मक्का की किस्म है।",
+        "en": "It is a genetically engineered high-yielding maize variety providing bio-fuel."
+      },
+      {
+        "id": "D",
+        "hi": "यह तेल के कुओं में आकस्मिक उठी लपटों को नियंत्रित करने वाली अत्याधुनिक प्रौद्योगिकी है।",
+        "en": "It is the latest technology to control accidentally erupted flames in oil wells."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "ऑयलजैपर (Oilzapper) बैक्टीरिया का एक समूह है जिसका उपयोग बायोरेमेडिएशन तकनीक के तहत तैलीय पंक तथा बिखरे हुए तेल के उपचार के लिए किया जाता है। अतः विकल्प (a) सही है।",
+      "en": "Oilzapper is a consortium of bacteria used under bioremediation technology for the treatment of oily sludge and oil spills. Therefore, option (a) is correct."
+    }
+  },
+  {
+    "id": 27,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उसकी मदद से पशुधन की वंशावली जानी जा सकती है।",
+        "en": "Pedigree of livestock can be known with its help."
+      },
+      {
+        "id": 2,
+        "hi": "उसकी मदद से सभी मानव रोगों के कारण ज्ञात हो सकते हैं।",
+        "en": "Causes of all human diseases can be known with its help."
+      },
+      {
+        "id": 3,
+        "hi": "उसकी मदद से पशुओं की रोग-सह नस्लें विकसित की जा सकती हैं।",
+        "en": "Disease-resistant animal breeds can be developed with its help."
+      }
+    ],
+    "question": {
+      "hi": "वर्तमान में वैज्ञानिक किसी गुणसूत्र में जीन इकाइयों का विन्यास अथवा उनकी सापेक्षिक स्थिति अथवा डी.एन.ए. अनुक्रमों को निर्धारित कर सकते हैं। यह ज्ञान हमारे लिये किस प्रकार उपयोगी है?\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "At present, scientists can determine the arrangement or relative position of genes or DNA sequences on a chromosome. How does this knowledge benefit us?\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कथन 2 गलत है: सभी मानव रोगों के कारण केवल डीएनए अनुक्रमण (DNA Sequencing) से नहीं जाने जा सकते (जैसे कि कुछ रोग पर्यावरणीय होते हैं)। कथन 1 और 3 सही हैं।",
+      "en": "Statement 2 is incorrect: The causes of ALL human diseases cannot be known merely by DNA sequencing (as some diseases are environmentally driven). Statements 1 and 3 are correct."
+    }
+  },
+  {
+    "id": 28,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "बैंगन की आनुवंशिक अभियांत्रिकी से उसकी एक नई किस्म Bt–बैंगन विकसित की गई है। इसका लक्ष्य-",
+      "en": "A new genetically engineered variety of brinjal, known as Bt-Brinjal, has been developed. The objective of this is:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इसे नाशकजीव-सह बनाना है",
+        "en": "To make it pest-resistant"
+      },
+      {
+        "id": "B",
+        "hi": "इसे अधिक स्वादिष्ट और पौष्टिक बनाना है",
+        "en": "To make it more nutritious and tasty"
+      },
+      {
+        "id": "C",
+        "hi": "इसे जलाभाव-सह बनाना है",
+        "en": "To make it drought-resistant"
+      },
+      {
+        "id": "D",
+        "hi": "इसकी निधानी आयु बढ़ाना है",
+        "en": "To increase its shelf life"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "Bt-बैंगन में बैसिलस थुरिंजिएंसिस (Bacillus Thuringiensis) बैक्टीरिया का जीन डाला गया है जिससे यह स्वयं कीटनाशक प्रोटीन उत्पन्न करता है और पीड़क/नाशकजीव प्रतिरोधी (Pest-resistant) बन जाता है।",
+      "en": "Bt-Brinjal contains a gene from the bacterium Bacillus thuringiensis, which enables it to produce an insecticidal protein, making it pest-resistant."
+    }
+  },
+  {
+    "id": 29,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "पारंपरिक ऐस्फाल्ट के विपरीत, बायोऐस्फाल्ट जीवाश्म ईंधनों पर आधारित नहीं होता।",
+        "en": "Unlike traditional asphalt, bio-asphalt is not based on fossil fuels."
+      },
+      {
+        "id": 2,
+        "hi": "बायोऐस्फाल्ट अनवीकरणीय (नॉन-रिन्यूएबल) साधनों से निर्मित हो सकता है।",
+        "en": "Bio-asphalt can be created from non-renewable resources."
+      },
+      {
+        "id": 3,
+        "hi": "बायोऐस्फाल्ट जैव अपशिष्ट पदार्थों से निर्मित हो सकता है।",
+        "en": "Bio-asphalt can be created from organic waste materials."
+      },
+      {
+        "id": 4,
+        "hi": "बायोऐस्फाल्ट से सड़कों की ऊपरी सतह बिछाना पारिस्थितिकी के अनुकूल है।",
+        "en": "It is eco-friendly to use bio-asphalt for surfacing of the roads."
+      }
+    ],
+    "question": {
+      "hi": "केंद्रीय बजट 2011-12 में जैव-मूल ऐस्फाल्ट (बायोऐस्फाल्ट) पर मूल सीमा शुल्क की पूरी छूट प्रदान की गई है। इस पदार्थ का क्या महत्त्व है?\nउपर्युक्त में से कौन-से कथन सही हैं?",
+      "en": "In the Union Budget 2011-12, a full exemption from the basic customs duty was extended to bio-asphalt. What is the importance of this material?\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कथन 2 गलत है: बायोऐस्फाल्ट अनवीकरणीय साधनों से नहीं, बल्कि नवीकरणीय साधनों (Renewable resources) और अपशिष्ट पदार्थों से बनता है। कथन 1, 3 और 4 सही हैं।",
+      "en": "Statement 2 is incorrect: Bio-asphalt is not made from non-renewable resources, but from renewable resources and waste materials. Statements 1, 3, and 4 are correct."
+    }
+  },
+  {
+    "id": 30,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "जैवपरत (बायोफिल्म) मानव ऊतकों के भीतर चिकित्सकीय अंतर्रोपों पर बन सकती हैं।",
+        "en": "Biofilms can form on medical implants within human tissues."
+      },
+      {
+        "id": 2,
+        "hi": "जैवपरत खाद्य पदार्थ और खाद्य प्रसंस्करण सतहों पर बन सकती हैं।",
+        "en": "Biofilms can form on food and food processing surfaces."
+      },
+      {
+        "id": 3,
+        "hi": "जैवपरत प्रतिजैविक प्रतिरोध दर्शा सकती हैं।",
+        "en": "Biofilms can exhibit antibiotic resistance."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में कौन-से सही हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "सभी कथन सही हैं। बायोफिल्म (जैवपरत) सूक्ष्मजीवों का एक समूह है जो सतहों (जैसे मेडिकल इम्प्लांट्स और खाद्य प्रसंस्करण सतहों) पर चिपक जाते हैं और इनमें एंटीबायोटिक दवाओं के प्रति भारी प्रतिरोधक क्षमता होती है।",
+      "en": "All statements are correct. Biofilms are consortia of microorganisms that stick to surfaces (like medical implants and food processing surfaces) and exhibit strong resistance to antibiotics."
+    }
+  },
+  {
+    "id": 31,
+    "subject": "Science and Technology",
+    "topic": "Biotechnology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "प्रजैविक, जीवाणु और यीस्ट दोनों के बने होते हैं।",
+        "en": "Probiotics are made of both bacteria and yeast."
+      },
+      {
+        "id": 2,
+        "hi": "प्रजैविकों में जीव, खाए जाने वाले खाद्य में होते हैं किंतु वे नैसर्गिक रूप से हमारी आहार-नली में नहीं पाए जाते।",
+        "en": "The organisms in probiotics are found in foods we ingest but they do not naturally occur in our gut."
+      },
+      {
+        "id": 3,
+        "hi": "प्रजैविक दुग्ध शर्कराओं के पाचन में सहायक हैं।",
+        "en": "Probiotics help in the digestion of milk sugars."
+      }
+    ],
+    "question": {
+      "hi": "प्रजैविकों (प्रोबायोटिक्स) के सन्दर्भ में निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में कौन-सा/से सही है/हैं?",
+      "en": "With reference to probiotics, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 3",
+        "en": "1 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कथन 1 सही है: प्रोबायोटिक्स जीवित लाभकारी बैक्टीरिया या यीस्ट का संयोजन हैं। कथन 2 गलत है: प्रोबायोटिक्स नैसर्गिक रूप से हमारे शरीर/आहार-नली में मौजूद होते हैं। कथन 3 सही है: ये दुग्ध शर्करा (लैक्टोज) को लैक्टिक एसिड में विखंडित कर पाचन में मदद करते हैं।",
+      "en": "Statement 1 is correct: Probiotics are made up of live beneficial bacteria or yeast. Statement 2 is incorrect: Probiotic organisms naturally occur in our gut. Statement 3 is correct: They help digest milk sugars (lactose) by breaking them down into lactic acid."
+    }
+  }
+]

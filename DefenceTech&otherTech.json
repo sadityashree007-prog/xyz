@@ -1,0 +1,1618 @@
+[
+  {
+    "id": 1,
+    "year": 2025,
+    "subject": "Science and Technology",
+    "topic": "Defence Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "कभी-कभी समाचार माध्यमों में चर्चित सामान्यतः CL-20, HMX और LLM-105 के रूप में ज्ञात रासायनिक पदार्थों में सर्वनिष्ठ अभिलक्षण क्या है?",
+      "en": "What is the common characteristic of the chemical substances commonly known as CL-20, HMX and LLM-105, sometimes seen in the news?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ये हाइड्रोफ्लोरोकार्बन प्रशीतकों के विकल्प हैं",
+        "en": "They are alternatives to hydrofluorocarbon refrigerants"
+      },
+      {
+        "id": "B",
+        "hi": "ये सैन्य आयुधों के विस्फोटक हैं",
+        "en": "They are explosives for military munitions"
+      },
+      {
+        "id": "C",
+        "hi": "ये क्रूज़ मिसाइलों के लिये उच्च-ऊर्जा ईंधन हैं",
+        "en": "They are high-energy fuels for cruise missiles"
+      },
+      {
+        "id": "D",
+        "hi": "ये रॉकेट नोदन हेतु ईंधन हैं",
+        "en": "They are fuels for rocket propulsion"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "CL-20, HMX और LLM-105 उच्च ऊर्जा विस्फोटक यौगिक हैं, जिन्हें मुख्य रूप से सैन्य अनुप्रयोगों (विशेष रूप से वॉरहेड्स, बम और उन्नत गोला-बारूद में) के लिये विकसित किया गया है।",
+      "en": "CL-20, HMX and LLM-105 are high energy explosive compounds developed primarily for military applications (specifically in warheads, bombs, and advanced ammunition)."
+    }
+  },
+  {
+    "id": 2,
+    "year": 2025,
+    "subject": "Science and Technology",
+    "topic": "Defence Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "डोर्नियर-228 : समुद्री गश्ती वायुयान",
+        "en": "Dornier-228 : Maritime patrol aircraft"
+      },
+      {
+        "id": 2,
+        "hi": "IL-76 : पराध्वनिक युद्धक वायुयान",
+        "en": "IL-76 : Supersonic combat aircraft"
+      },
+      {
+        "id": 3,
+        "hi": "C-17 ग्लोबमास्टर III : सैन्य परिवहन वायुयान",
+        "en": "C-17 Globemaster III : Military transport aircraft"
+      }
+    ],
+    "question": {
+      "hi": "भारत की रक्षा के संदर्भ में निम्नलिखित युग्मों पर विचार कीजिये –\nउपर्युक्त युग्मों में से कितने सही सुमेलित हैं?",
+      "en": "With reference to the defence of India, consider the following pairs:\nHow many of the above pairs are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "युग्म I सही है: डोर्नियर-228 समुद्री गश्ती वायुयान है। युग्म II गलत है: IL-76 एक सैन्य परिवहन वायुयान है, पराध्वनिक युद्धक वायुयान नहीं। युग्म III सही है: C-17 ग्लोबमास्टर III एक सैन्य परिवहन वायुयान है।",
+      "en": "Pair I is correct: Dornier-228 is a maritime patrol aircraft. Pair II is incorrect: IL-76 is a military transport aircraft, not a supersonic combat aircraft. Pair III is correct: C-17 Globemaster III is a military transport aircraft."
+    }
+  },
+  {
+    "id": 3,
+    "year": 2024,
+    "subject": "Science and Technology",
+    "topic": "Defence Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "राफेल",
+        "en": "Rafale"
+      },
+      {
+        "id": 2,
+        "hi": "MiG-29",
+        "en": "MiG-29"
+      },
+      {
+        "id": 3,
+        "hi": "तेजस MK-1",
+        "en": "Tejas MK-1"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित विमानों पर विचार कीजिये –\nउपर्युक्त में से कितने पाँचवीं पीढ़ी के लड़ाकू विमान माने जाते हैं?",
+      "en": "Consider the following aircraft:\nHow many of the above are considered fifth-generation fighter aircraft?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "वर्तमान में रूस के पास सुखोई Su-57, चीन के पास चेंगदू J-20 और अमेरिका के पास F-35 पांचवीं पीढ़ी (5G) के लड़ाकू विमान हैं। राफेल, मिग-29 और तेजस MK-1 पाँचवीं पीढ़ी के विमान नहीं हैं।",
+      "en": "Currently, Russia's Sukhoi Su-57, China's Chengdu J-20, and USA's F-35 are fifth-generation (5G) fighter aircraft. Rafale, MiG-29, and Tejas MK-1 are not fifth-generation aircraft."
+    }
+  },
+  {
+    "id": 4,
+    "year": 2020,
+    "subject": "Science and Technology",
+    "topic": "Defence Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "भारत में, क्यों कुछ परमाणु रिएक्टर 'आई.ए.ई.ए. (IAEA) सुरक्षा उपायों' के अधीन रखे जाते हैं, जबकि अन्य इस सुरक्षा के अधीन नहीं रखे जाते?",
+      "en": "In India, why are some nuclear reactors kept under 'IAEA safeguards' while others are not?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कुछ यूरेनियम का प्रयोग करते हैं और अन्य थोरियम का",
+        "en": "Some use uranium and others use thorium"
+      },
+      {
+        "id": "B",
+        "hi": "कुछ आयातित यूरेनियम का प्रयोग करते हैं और अन्य घरेलू आपूर्ति का",
+        "en": "Some use imported uranium and others use domestic supplies"
+      },
+      {
+        "id": "C",
+        "hi": "कुछ विदेशी उद्यमों द्वारा संचालित होते हैं और अन्य घरेलू उद्यमों द्वारा",
+        "en": "Some are operated by foreign enterprises and others by domestic enterprises"
+      },
+      {
+        "id": "D",
+        "hi": "कुछ सरकारी स्वामित्व वाले होते हैं और अन्य निजी स्वामित्व वाले",
+        "en": "Some are State-owned and others are privately-owned"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारत में जो परमाणु रिएक्टर आयातित यूरेनियम (विदेशी आपूर्ति) का उपयोग करते हैं, उन्हें 'IAEA सुरक्षा उपायों' के अधीन रखा जाता है।",
+      "en": "Nuclear reactors in India that use imported uranium are kept under 'IAEA safeguards'."
+    }
+  },
+  {
+    "id": 5,
+    "year": 2018,
+    "subject": "Science and Technology",
+    "topic": "Defence Technology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "कभी-कभी समाचार में उल्लिखित 'टर्मिनल हाई ऑल्टीट्यूड एरिया डिफेंस (टी.एच.ए.ए.डी.)' क्या है?",
+      "en": "What is 'Terminal High Altitude Area Defense (THAAD)', sometimes seen in the news?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इज़राइल की एक रडार प्रणाली",
+        "en": "An Israeli radar system"
+      },
+      {
+        "id": "B",
+        "hi": "भारत का घरेलू मिसाइल-प्रतिरोधी कार्यक्रम",
+        "en": "India's indigenous anti-missile programme"
+      },
+      {
+        "id": "C",
+        "hi": "अमेरिकी मिसाइल-प्रतिरोधी प्रणाली",
+        "en": "An American anti-missile system"
+      },
+      {
+        "id": "D",
+        "hi": "जापान और दक्षिण कोरिया के बीच एक रक्षा सहयोग",
+        "en": "A defence collaboration between Japan and South Korea"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "THAAD (Terminal High Altitude Area Defense) एक अमेरिकी एंटी-बैलिस्टिक मिसाइल डिफेंस सिस्टम है।",
+      "en": "THAAD (Terminal High Altitude Area Defense) is an American anti-ballistic missile defense system."
+    }
+  },
+  {
+    "id": 6,
+    "year": 2016,
+    "subject": "Science and Technology",
+    "topic": "Defence Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "'INS अस्त्रधारिणी' का, जिसका हाल ही में समाचारों में उल्लेख हुआ था, निम्नलिखित में से कौन-सा सर्वोत्तम वर्णन है?",
+      "en": "Which one of the following is the best description of 'INS Astradharini', that was in the news recently?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "उभयचर युद्धपोत",
+        "en": "Amphibious warfare ship"
+      },
+      {
+        "id": "B",
+        "hi": "नाभिकीय शक्ति-चालित पनडुब्बी",
+        "en": "Nuclear-powered submarine"
+      },
+      {
+        "id": "C",
+        "hi": "टॉरपीडो प्रमोचन और पुनर्प्राप्ति (recovery) जलयान",
+        "en": "Torpedo launch and recovery vessel"
+      },
+      {
+        "id": "D",
+        "hi": "नाभिकीय शक्ति-चालित विमान-वाहक",
+        "en": "Nuclear-powered aircraft carrier"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "INS अस्त्रधारिणी भारतीय नौसेना का एक स्वदेशी रूप से डिज़ाइन और निर्मित 'टॉरपीडो लॉन्च और रिकवरी पोत' (Torpedo Launch and Recovery Vessel) है।",
+      "en": "INS Astradharini is an indigenously designed and built Torpedo Launch and Recovery Vessel of the Indian Navy."
+    }
+  },
+  {
+    "id": 7,
+    "year": 2014,
+    "subject": "Science and Technology",
+    "topic": "Defence Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह धरातल-से-धरातल पर मार करने वाला प्रक्षेपास्त्र है।",
+        "en": "It is a surface-to-surface missile."
+      },
+      {
+        "id": 2,
+        "hi": "इसमें केवल द्रव नोदक ईंधन के रूप में इस्तेमाल होता है।",
+        "en": "It is fuelled by liquid propellant only."
+      },
+      {
+        "id": 3,
+        "hi": "यह एक टन नाभिकीय वारहेड को 7500 किमी दूरी तक फेंक सकता है।",
+        "en": "It can deliver one-tonne nuclear warheads about 7500 km away."
+      }
+    ],
+    "question": {
+      "hi": "अग्नि-IV प्रक्षेपास्त्र के संदर्भ में निम्नलिखित कथनों में से कौन-सा/से सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "With reference to Agni-IV missile, which of the following statements is/are correct?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कथन 1 सही है: यह सतह-से-सतह पर मार करने वाली बैलिस्टिक मिसाइल है। कथन 2 गलत है: इसमें ठोस ईंधन (Solid propellant) का उपयोग किया जाता है। कथन 3 गलत है: इसकी मारक क्षमता लगभग 4000 किमी (दिए गए विकल्प में 7500 किमी है जो गलत है) है।",
+      "en": "Statement 1 is correct: It is a surface-to-surface ballistic missile. Statement 2 is incorrect: It uses solid propellant. Statement 3 is incorrect: Its strike range is around 4000 km, not 7500 km."
+    }
+  },
+  {
+    "id": 8,
+    "year": 2024,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "हाल ही में, 'पंप-स्टोरेज हाइड्रोपावर' शब्द की वास्तव में और समुचित रूप से निम्नलिखित में से किसके संदर्भ में चर्चा की गई है?",
+      "en": "Recently, the term 'pumped-storage hydropower' was discussed most appropriately in the context of which of the following?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सीढ़ीदार खेतों की सिंचाई",
+        "en": "Irrigation of terraced fields"
+      },
+      {
+        "id": "B",
+        "hi": "धान्य (अनाज) फसलों की उत्थान सिंचाई",
+        "en": "Lift irrigation of cereal crops"
+      },
+      {
+        "id": "C",
+        "hi": "दीर्घावधि ऊर्जा भंडारण",
+        "en": "Long-duration energy storage"
+      },
+      {
+        "id": "D",
+        "hi": "वर्षा-जल संचयन प्रणाली",
+        "en": "Rainwater harvesting system"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "पंप-स्टोरेज हाइड्रोपावर एक प्रकार का हाइड्रोइलेक्ट्रिक ऊर्जा भंडारण है, जो विद्युत उत्पादन के लिये अलग-अलग ऊँचाई पर दो जलाशयों में संग्रहीत जल का उपयोग करता है (दीर्घावधि ऊर्जा भंडारण)।",
+      "en": "Pumped-storage hydropower is a type of hydroelectric energy storage used for long-duration energy storage, utilizing water stored in two reservoirs at different elevations."
+    }
+  },
+  {
+    "id": 9,
+    "year": 2024,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "'मेम्ब्रेन बायोरिएक्टरों' की चर्चा प्रायः किस संदर्भ में की जाती है?",
+      "en": "'Membrane bioreactors' are often discussed in the context of:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सहायता प्राप्त प्रजनन प्रौद्योगिकियाँ",
+        "en": "Assisted reproductive technologies"
+      },
+      {
+        "id": "B",
+        "hi": "औषधि डिलीवरी नैनो-प्रौद्योगिकियाँ",
+        "en": "Drug delivery nano-technologies"
+      },
+      {
+        "id": "C",
+        "hi": "टीका (वैक्सीन) उत्पादन प्रौद्योगिकियाँ",
+        "en": "Vaccine production technologies"
+      },
+      {
+        "id": "D",
+        "hi": "अपशिष्ट-जल शोधन प्रौद्योगिकियाँ",
+        "en": "Wastewater treatment technologies"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "मेम्ब्रेन बायोरिएक्टर (MBR) तकनीक पारंपरिक जैविक अपशिष्ट जल शोधन और उन्नत झिल्ली प्रक्रियाओं का एक कुशल संकर उत्पाद है, जिसका उपयोग अपशिष्ट जल शोधन में किया जाता है।",
+      "en": "Membrane bioreactor (MBR) technology is a combination of traditional biological wastewater treatment and advanced membrane processes, used for wastewater treatment."
+    }
+  },
+  {
+    "id": 10,
+    "year": 2024,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "रोगियों में नियंत्रित औषधि डिलीवरी",
+        "en": "Controlled drug delivery in patients"
+      },
+      {
+        "id": 2,
+        "hi": "चल वातानुकूलन प्रणाली",
+        "en": "Mobile air-conditioning systems"
+      },
+      {
+        "id": 3,
+        "hi": "औद्योगिक स्नेहकों का विरचन",
+        "en": "Preparation of industrial lubricants"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से किनमें हाइड्रोजेलों का प्रयोग होता है?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये –",
+      "en": "In which of the following are hydrogels used?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "हाइड्रोजेल (Hydrogel) जलप्रिय बहुलकों का एक 3D नेटवर्क है। इसका उपयोग 'रोगियों में नियंत्रित औषधि डिलीवरी' में व्यापक रूप से किया जाता है।",
+      "en": "Hydrogels are a 3D network of hydrophilic polymers. They are widely used in 'controlled drug delivery in patients'."
+    }
+  },
+  {
+    "id": 11,
+    "year": 2024,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा हाइड्रोजन द्वारा चालित फ्यूल सेल इलेक्ट्रिक वाहनों से निकलने वाला निर्वातक नली उत्सर्जन है?",
+      "en": "Which one of the following is the tailpipe emission from fuel cell electric vehicles driven by hydrogen?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "हाइड्रोजन परॉक्साइड",
+        "en": "Hydrogen peroxide"
+      },
+      {
+        "id": "B",
+        "hi": "हाइड्रोनियम",
+        "en": "Hydronium"
+      },
+      {
+        "id": "C",
+        "hi": "ऑक्सीजन",
+        "en": "Oxygen"
+      },
+      {
+        "id": "D",
+        "hi": "जल-वाष्प",
+        "en": "Water vapour"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "ईंधन-सेल इलेक्ट्रिक वाहन (FCEV) केवल जल वाष्प और गर्म हवा उत्सर्जित करते हैं, जिससे हानिकारक उत्सर्जन नहीं होता है।",
+      "en": "Fuel Cell Electric Vehicles (FCEVs) emit only water vapour and warm air, resulting in no harmful tailpipe emissions."
+    }
+  },
+  {
+    "id": 12,
+    "year": 2023,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उर्वरक संयंत्र",
+        "en": "Fertilizer plants"
+      },
+      {
+        "id": 2,
+        "hi": "तेलशोधक कारखाने",
+        "en": "Oil refineries"
+      },
+      {
+        "id": 3,
+        "hi": "इस्पात संयंत्र",
+        "en": "Steel plants"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित भारी उद्योगों पर विचार कीजिये –\nउपर्युक्त में से कितने उद्योगों के विर्काबनन (Decarbonisation) में हरित हाइड्रोजन की महत्त्वपूर्ण भूमिका होने की अपेक्षा है?",
+      "en": "Consider the following heavy industries:\nIn how many of the above industries is green hydrogen expected to play a significant role in decarbonization?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "हरित हाइड्रोजन का उपयोग उर्वरक निर्माण, इस्पात निर्माण और तेल शोधन (रिफाइनरी) प्रक्रियाओं को डिकार्बोनाइज (कार्बन मुक्त) करने में किया जा सकता है। अतः सभी तीन सही हैं।",
+      "en": "Green hydrogen can be used to decarbonize fertilizer production, steel manufacturing, and oil refining processes. Thus, all three are correct."
+    }
+  },
+  {
+    "id": 13,
+    "year": 2023,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बड़े पैमाने पर बारीक पिसी हुई बेसाल्ट शैल खेतों में बिछाना",
+        "en": "Spreading finely ground basalt rock on farmlands extensively"
+      },
+      {
+        "id": 2,
+        "hi": "चूना मिलाकर महासागरों की क्षारीयता बढ़ाना",
+        "en": "Increasing the alkalinity of oceans by adding lime"
+      },
+      {
+        "id": 3,
+        "hi": "विभिन्न उद्योगों द्वारा निर्मुक्त कार्बन डाइऑक्साइड का अभिग्रहण कर उसे कार्बोनिटीकृत जल के रूप में परित्यक्त भूमिगत खानों के अंदर पंप करना",
+        "en": "Capturing carbon dioxide released by various industries and pumping it into abandoned subterranean mines in the form of carbonated water"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित गतिविधियों पर विचार कीजिये –\nउपर्युक्त गतिविधियों में से कितनी कार्बन अभिग्रहण और विविक्तीभवन (सिक्वेस्टेशन) के लिये प्रायः विचार और चर्चा में लाई जाती है?",
+      "en": "Consider the following activities:\nHow many of the above activities are often considered and discussed for carbon capture and sequestration?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "बेसाल्ट शैल का खेतों में उपयोग, महासागरों की क्षारीयता बढ़ाना, और CO2 को भूमिगत खदानों में स्टोर करना - ये तीनों ही कार्बन सिक्वेस्टेशन (कार्बन को वातावरण से हटाने और सुरक्षित रखने) की तकनीकें हैं।",
+      "en": "Spreading basalt rock on fields, increasing ocean alkalinity, and storing CO2 in underground mines—all three are techniques for carbon capture and sequestration."
+    }
+  },
+  {
+    "id": 14,
+    "year": 2022,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "परासूक्ष्मकण (नैनोपार्टिकल्स), मानव-निर्मित होने के सिवाय, प्रकृति में अस्तित्व में नहीं हैं।",
+        "en": "Other than those made by humans, nanoparticles do not exist in nature."
+      },
+      {
+        "id": 2,
+        "hi": "कुछ धात्विक ऑक्साइडों के परासूक्ष्मकण, प्रसाधन-सामग्री (कॉस्मेटिक्स) के निर्माण में काम आते हैं।",
+        "en": "Nanoparticles of some metallic oxides are used in the manufacture of some cosmetics."
+      },
+      {
+        "id": 3,
+        "hi": "कुछ वाणिज्यिक उत्पादों के परासूक्ष्मकण, जो पर्यावरण में आ जाते हैं, मनुष्यों के लिये असुरक्षित हैं।",
+        "en": "Nanoparticles of some commercial products which enter the environment are unsafe for humans."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "कथन 1 गलत है: नैनोपार्टिकल्स प्रकृति में भी बड़ी मात्रा में पाए जाते हैं (जैसे धुएं, ज्वालामुखीय राख आदि में)। कथन 2 और 3 सही हैं।",
+      "en": "Statement 1 is incorrect: Nanoparticles also exist in large quantities in nature (e.g., in smoke, volcanic ash, etc.). Statements 2 and 3 are correct."
+    }
+  },
+  {
+    "id": 15,
+    "year": 2022,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "वे भौतिक परिसंपत्तियों के अंकीय निरूपण (डिजिटल रिप्रजेंटेशन) को सुकर बनाते हैं।",
+        "en": "They enable the digital representation of physical assets."
+      },
+      {
+        "id": 2,
+        "hi": "वे अनन्य क्रिप्टोग्राफिक टोकंस हैं जो किसी ब्लॉकचेन में विद्यमान हैं।",
+        "en": "They are unique cryptographic tokens that exist on a blockchain."
+      },
+      {
+        "id": 3,
+        "hi": "उनका, तुल्यता पर, व्यापार या विनिमय किया जा सकता है और इसलिये उनका वाणिज्यिक लेन-देन के माध्यम के रूप में इस्तेमाल किया जा सकता है।",
+        "en": "They can be traded or exchanged at equivalency and therefore can be used as a medium of commercial transactions."
+      }
+    ],
+    "question": {
+      "hi": "नॉन-फंजिबल टोकन्स (Non-Fungible Tokens–NFTs) के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये –\nउपर्युक्त कथनों में कौन-से सही हैं?",
+      "en": "With reference to Non-Fungible Tokens (NFTs), consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कथन 1 और 2 सही हैं। कथन 3 गलत है: नॉन-फंजिबल का अर्थ ही यह है कि वे 'अतुल्य' (unique) होते हैं और उन्हें समान मूल्य पर (तुल्यता पर) विनिमय (exchange) नहीं किया जा सकता जैसे कि सामान्य मुद्रा या बिटकॉइन को किया जाता है।",
+      "en": "Statements 1 and 2 are correct. Statement 3 is incorrect: 'Non-Fungible' means they are unique and cannot be traded or exchanged at equivalency like fiat currency or Bitcoin."
+    }
+  },
+  {
+    "id": 16,
+    "year": 2022,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "निम्नलिखित स्थितियों में से किस एक में “जैवशैल प्रौद्योगिकी (बायोरॉक टेक्नोलॉजी)” की बातें होती हैं?",
+      "en": "In which one of the following contexts is 'Biorock Technology' talked about?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "क्षतिग्रस्त प्रवाल भित्तियों (कोरल रीफ्स) की बहाली",
+        "en": "Restoration of damaged coral reefs"
+      },
+      {
+        "id": "B",
+        "hi": "पादप अवशिष्टों का प्रयोग कर भवन-निर्माण सामग्री का विकास",
+        "en": "Development of building materials using plant residues"
+      },
+      {
+        "id": "C",
+        "hi": "शेल गैस के अन्वेषण/निष्कर्षण के लिये क्षेत्रों की पहचान करना",
+        "en": "Identification of areas for exploration/extraction of shale gas"
+      },
+      {
+        "id": "D",
+        "hi": "वनों/संरक्षित क्षेत्रों में जंगली पशुओं के लिये लवण-लेहिकाएँ (साल्ट लिक्स) उपलब्ध कराना",
+        "en": "Providing salt licks for wild animals in forests/protected areas"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "बायोरॉक (Biorock) तकनीक का उपयोग समुद्र में इस्पात संरचनाओं पर विद्युत प्रवाहित कर खनिजों के निक्षेपण द्वारा प्रवाल भित्तियों (कोरल रीफ) के पुनर्निर्माण और बहाली के लिए किया जाता है।",
+      "en": "Biorock technology is used for the restoration and reconstruction of coral reefs by running a small electrical current through a steel structure underwater to deposit minerals."
+    }
+  },
+  {
+    "id": 17,
+    "year": 2022,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आरोग्य सेतु",
+        "en": "Aarogya Setu"
+      },
+      {
+        "id": 2,
+        "hi": "कोविन",
+        "en": "CoWIN"
+      },
+      {
+        "id": 3,
+        "hi": "डिजीलॉकर",
+        "en": "DigiLocker"
+      },
+      {
+        "id": 4,
+        "hi": "दीक्षा",
+        "en": "DIKSHA"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पर विचार कीजिये –\nउपर्युक्त में से कौन-से, ओपन सोर्स डिजिटल प्लेटफॉर्म पर बनाए गए हैं?",
+      "en": "Consider the following:\nWhich of the above are built on open-source digital platforms?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "आरोग्य सेतु, कोविन (CoWIN), डिजीलॉकर और दीक्षा (DIKSHA) - ये सभी भारत सरकार द्वारा 'ओपन सोर्स' डिजिटल प्लेटफॉर्म के रूप में विकसित या उपलब्ध कराए गए हैं।",
+      "en": "Aarogya Setu, CoWIN, DigiLocker, and DIKSHA — all these have been developed or made available as 'open source' digital platforms by the Government of India."
+    }
+  },
+  {
+    "id": 18,
+    "year": 2020,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "खेत में फसल पर पीड़कनाशी छिड़कना",
+        "en": "Spraying pesticides on a crop field"
+      },
+      {
+        "id": 2,
+        "hi": "सक्रिय ज्वालामुखियों के मुखों का निरीक्षण करना",
+        "en": "Inspecting the craters of active volcanoes"
+      },
+      {
+        "id": 3,
+        "hi": "डी.एन.ए. विश्लेषण के लिये उत्क्षेपण करती हुई ह्वेलों के श्वास के नमूने एकत्र करना",
+        "en": "Collecting breath samples from spouting whales for DNA analysis"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित गतिविधियों पर विचार कीजिये–\nतकनीकी के वर्तमान स्तर पर, उपर्युक्त गतिविधियों में से किसे, ड्रोन के प्रयोग से सफलतापूर्वक किया जा सकता है?",
+      "en": "Consider the following activities:\nAt the present level of technology, which of the above activities can be successfully carried out by using drones?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "वर्तमान तकनीक के साथ ड्रोन का उपयोग फसलों पर कीटनाशक छिड़कने, ज्वालामुखियों के निरीक्षण, और ह्वेलों के श्वास के नमूने एकत्र करने (जैसे सनोबोट परियोजना में) के लिए किया जा रहा है।",
+      "en": "With current technology, drones are successfully used for spraying pesticides, inspecting volcanic craters, and collecting breath samples from whales (e.g., SnotBot project)."
+    }
+  },
+  {
+    "id": 19,
+    "year": 2020,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "औद्योगिक इकाइयों में विद्युत् की खपत कम करना",
+        "en": "Bring down electricity consumption in industrial units"
+      },
+      {
+        "id": 2,
+        "hi": "सार्थक लघु कहानियों और गीतों की रचना",
+        "en": "Create meaningful short stories and songs"
+      },
+      {
+        "id": 3,
+        "hi": "रोगों का निदान",
+        "en": "Disease diagnosis"
+      },
+      {
+        "id": 4,
+        "hi": "टेक्स्ट से स्पीच (Text-to-Speech) में परिवर्तन",
+        "en": "Text-to-Speech Conversion"
+      },
+      {
+        "id": 5,
+        "hi": "विद्युत् ऊर्जा का बेतार संचरण",
+        "en": "Wireless transmission of electrical energy"
+      }
+    ],
+    "question": {
+      "hi": "विकास की वर्तमान स्थिति में, कृत्रिम बुद्धिमत्ता (Artificial Intelligence), निम्नलिखित में से किस कार्य को प्रभावी रूप से कर सकती है?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "With the present state of development, Artificial Intelligence can effectively do which of the following?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2, 3 और 5",
+        "en": "1, 2, 3 and 5 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2, 4 और 5",
+        "en": "2, 4 and 5 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3, 4 और 5",
+        "en": "1, 2, 3, 4 and 5"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "UPSC की आधिकारिक उत्तर कुंजी के अनुसार इसका उत्तर (b) है। हालांकि AI का प्रयोग अनेक क्षेत्रों में हो रहा है, परन्तु 2020 के तकनीकी विकास के स्तर पर UPSC ने 'विद्युत ऊर्जा के बेतार संचरण' और रचनात्मक लेखन को पूर्णतः AI की 'प्रभावी' क्षमता नहीं माना।",
+      "en": "According to the official UPSC answer key, the answer is (b). While AI has advanced, at the state of development in 2020, UPSC did not consider wireless transmission of electrical energy and fully creative short story/song generation as effectively achieved solely by AI."
+    }
+  },
+  {
+    "id": 20,
+    "year": 2020,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह एक सार्वजनिक खाता है जिसका हर कोई निरीक्षण कर सकता है, परंतु जिसे कोई भी एक उपभोक्ता नियंत्रित नहीं करता।",
+        "en": "It is a public ledger that everyone can inspect, but which no single user controls."
+      },
+      {
+        "id": 2,
+        "hi": "ब्लॉकचेन की संरचना और अभिकल्प ऐसा है कि इसका समूचा डेटा केवल क्रिप्टोकरेंसी के विषय में है।",
+        "en": "The structure and design of blockchain is such that all the data in it are about cryptocurrency only."
+      },
+      {
+        "id": 3,
+        "hi": "ब्लॉकचेन के आधारभूत वैशिष्ट्यों पर आधारित अनुप्रयोगों को बिना किसी व्यक्ति की अनुमति के विकसित किया जा सकता है।",
+        "en": "Applications that depend on basic features of blockchain can be developed without anybody's permission."
+      }
+    ],
+    "question": {
+      "hi": "“ब्लॉकचेन तकनीकी” के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to “Blockchain Technology”, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "कथन 2 गलत है क्योंकि ब्लॉकचेन का उपयोग केवल क्रिप्टोकरेंसी तक सीमित नहीं है (इसका उपयोग हेल्थकेयर, बैंकिंग, सप्लाई चेन आदि में भी होता है)। कथन 1 और 3 सही हैं।",
+      "en": "Statement 2 is incorrect because the use of blockchain is not limited to cryptocurrency only (it is used in healthcare, banking, supply chain, etc.). Statements 1 and 3 are correct."
+    }
+  },
+  {
+    "id": 21,
+    "year": 2020,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सौर ऊर्जा का प्रयोग पृष्ठीय पंपों को चलाने के लिये हो सकता है और निमज्जनी (Submersible) पंपों के लिये नहीं।",
+        "en": "Solar power can be used for running surface pumps and not for submersible pumps."
+      },
+      {
+        "id": 2,
+        "hi": "सौर ऊर्जा का प्रयोग अपकेंद्री पंपों को चलाने के लिये हो सकता है और पिस्टन वालों के लिये नहीं।",
+        "en": "Solar power can be used for running centrifugal pumps and not the ones with piston."
+      }
+    ],
+    "question": {
+      "hi": "सौर जल पंपों के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to solar water pumps, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "सौर ऊर्जा का उपयोग पृष्ठीय (Surface) और निमज्जनी (Submersible) दोनों प्रकार के पंपों को चलाने के लिए किया जा सकता है। इसके अलावा, इसका उपयोग अपकेंद्री (Centrifugal) और पिस्टन दोनों प्रकार के पंपों के लिए किया जा सकता है। अतः दोनों कथन गलत हैं।",
+      "en": "Solar power can be used to run both surface and submersible pumps. Moreover, it can be used for both centrifugal and piston pumps. Thus, both statements are incorrect."
+    }
+  },
+  {
+    "id": 22,
+    "year": 2018,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "मिष्टान्न की चीजें बनाने में",
+        "en": "Preparation of confectionary items"
+      },
+      {
+        "id": 2,
+        "hi": "जैव-इलेक्ट्रॉनिकी कर्ण के निर्माण में",
+        "en": "Manufacture of bionic ears"
+      },
+      {
+        "id": 3,
+        "hi": "ऑटोमोटिव उद्योग में",
+        "en": "Automotive industry"
+      },
+      {
+        "id": 4,
+        "hi": "पुनर्निर्माणकारी शल्यकर्म में",
+        "en": "Reconstructive surgeries"
+      },
+      {
+        "id": 5,
+        "hi": "दत्त (डेटा) संसाधन प्रौद्योगिकियों में",
+        "en": "Data processing technologies"
+      }
+    ],
+    "question": {
+      "hi": "'3D मुद्रण' का निम्नलिखित में से किसमें प्रयोग होता है?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "'3D printing' has applications in which of the following?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2, 3 और 5",
+        "en": "2, 3 and 5 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 4",
+        "en": "1 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3, 4 और 5",
+        "en": "1, 2, 3, 4 and 5"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "3D प्रिंटिंग का उपयोग खाद्य पदार्थों (मिष्टान्न), बायो-मेडिकल (बायोनिक कान, शल्यकर्म), ऑटोमोबाइल, और डेटा प्रोसेसिंग (यंत्रों के निर्माण) सहित लगभग सभी क्षेत्रों में किया जा रहा है।",
+      "en": "3D printing has applications in almost all fields including food (confectionary), biomedical (bionic ears, reconstructive surgeries), automobile, and data processing hardware manufacturing."
+    }
+  },
+  {
+    "id": 23,
+    "year": 2018,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बेल II प्रयोग - कृत्रिम बुद्धि",
+        "en": "Belle II experiment - Artificial Intelligence"
+      },
+      {
+        "id": 2,
+        "hi": "ब्लॉकचेन प्रौद्योगिकी - डिजिटल/क्रिप्टो मुद्रा",
+        "en": "Blockchain technology - Digital/Cryptocurrency"
+      },
+      {
+        "id": 3,
+        "hi": "CRISPR–Cas9 - कण भौतिकी",
+        "en": "CRISPR-Cas9 - Particle Physics"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये (कभी-कभी समाचारों में आने वाले शब्द : संदर्भ/विषय)\nउपर्युक्त युग्मों में से कौन-सा/से सही सुमेलित है/हैं?",
+      "en": "Consider the following pairs (Terms sometimes seen in news : Context/Topic):\nWhich of the pairs given above is/are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "युग्म 1 गलत है: बेल II (Belle II) प्रयोग 'कण भौतिकी' से संबंधित है। युग्म 3 गलत है: CRISPR-Cas9 'जीन एडिटिंग' से संबंधित है। केवल युग्म 2 (ब्लॉकचेन - क्रिप्टोकरेंसी) सही है।",
+      "en": "Pair 1 is incorrect: Belle II experiment is related to Particle Physics. Pair 3 is incorrect: CRISPR-Cas9 is related to Genome Editing. Only Pair 2 (Blockchain - Cryptocurrency) is correct."
+    }
+  },
+  {
+    "id": 24,
+    "year": 2016,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "कभी-कभी समाचारों में 'नेट मीटरिंग (Net metering)' निम्नलिखित में से किसको प्रोत्साहित करने के संदर्भ में देखा जाता है?",
+      "en": "'Net metering' is sometimes seen in the news in the context of promoting the:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "परिवारों/उपभोक्ताओं द्वारा सौर ऊर्जा का उत्पादन और उपयोग",
+        "en": "production and use of solar energy by the households/consumers"
+      },
+      {
+        "id": "B",
+        "hi": "घरों के रसोईघरों में पाइप्ड नेचुरल गैस का उपयोग",
+        "en": "use of piped natural gas in the kitchens of households"
+      },
+      {
+        "id": "C",
+        "hi": "मोटरगाड़ियों में CNG किट लगवाना",
+        "en": "installation of CNG kits in motor-cars"
+      },
+      {
+        "id": "D",
+        "hi": "शहरी घरों में पानी के मीटर लगवाना",
+        "en": "installation of water meters in urban households"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "नेट मीटरिंग एक ऐसा तंत्र है जो उपभोक्ताओं को सौर ऊर्जा पैनल लगाकर अपनी बिजली पैदा करने की अनुमति देता है। अतिरिक्त बिजली ग्रिड को बेची जा सकती है।",
+      "en": "Net metering is a mechanism which allows consumers who generate some or all of their own electricity (e.g., via solar panels) to use that electricity anytime, instead of when it is generated, by selling excess power back to the grid."
+    }
+  },
+  {
+    "id": 25,
+    "year": 2015,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "नैनोटेक्नोलॉजी के द्वारा लक्ष्ययुक्त औषधि प्रदान करना (टारगेटेड ड्रग डिलीवरी) संभव कर दिया गया है।",
+        "en": "Targeted drug delivery is made possible by nanotechnology."
+      },
+      {
+        "id": 2,
+        "hi": "नैनोटेक्नोलॉजी जीन उपचार (जीन थेरेपी) में एक बड़ा योगदान दे सकती है।",
+        "en": "Nanotechnology can largely contribute to gene therapy."
+      }
+    ],
+    "question": {
+      "hi": "स्वास्थ्य क्षेत्र में नैनोटेक्नोलॉजी के उपयोग के संदर्भ में निम्नलिखित कथनों में से कौन-सा/से सही है/हैं?\nनीच दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "With reference to the use of nanotechnology in health sector, which of the following statements is/are correct?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "नैनो तकनीक आधारित नैनोबॉट्स एवं नैनो कैप्सूल्स के माध्यम से शरीर में 'टारगेटेड ड्रग डिलीवरी' संभव है। साथ ही, नैनो-पार्टिकल्स का आकार बहुत छोटा होने के कारण ये 'जीन थेरेपी' में भी बड़ा योगदान दे सकते हैं। दोनों कथन सही हैं।",
+      "en": "Targeted drug delivery is possible through nanotechnology (like nanobots and nanocapsules). Also, due to their microscopic size, nanoparticles can easily interact with cells, significantly contributing to gene therapy. Both statements are correct."
+    }
+  },
+  {
+    "id": 26,
+    "year": 2012,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह एक द्वि-आयामीय पदार्थ है और इसकी विद्युत् चालकता उत्तम है।",
+        "en": "It is a two-dimensional material and has good electrical conductivity."
+      },
+      {
+        "id": 2,
+        "hi": "यह अब तक जाँचे गए सबसे तनु किंतु सबसे शक्तिशाली पदार्थों में से है।",
+        "en": "It is one of the thinnest but strongest materials tested so far."
+      },
+      {
+        "id": 3,
+        "hi": "यह पूर्णतः सिलिकॉन से बना होता है और इसकी चाक्षुष पारदर्शिता उच्च होती है।",
+        "en": "It is entirely made of silicon and has high optical transparency."
+      },
+      {
+        "id": 4,
+        "hi": "इसका टच स्क्रीन, LCD और कार्बनिक LED के लिये 'चालक इलेक्ट्रोड' के रूप में इस्तेमाल किया जा सकता है।",
+        "en": "It can be used as 'conducting electrodes' required for touch screens, LCDs and organic LEDs."
+      }
+    ],
+    "question": {
+      "hi": "ग्राफीन आजकल प्रायः सुर्ख़ियों में रहता है। इसका क्या महत्त्व है?\nउपर्युक्त में से कौन-से कथन सही हैं?",
+      "en": "Graphene is frequently in news recently. What is its importance?\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3 और 4",
+        "en": "3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 2 और 4",
+        "en": "1, 2 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कथन 3 गलत है: ग्राफीन कार्बन का अपरूप है, न कि सिलिकॉन का। यह एक 2D पदार्थ है, अत्यधिक मजबूत व सुचालक है, और इसका उपयोग टच स्क्रीन एवं LED में किया जा सकता है। अतः 1, 2 और 4 सही हैं।",
+      "en": "Statement 3 is incorrect: Graphene is an allotrope of carbon, not silicon. It is a 2D material, extremely strong and conductive, and can be used in touch screens and LEDs. Thus, 1, 2, and 4 are correct."
+    }
+  },
+  {
+    "id": 27,
+    "year": 2012,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "नारियल आवरण, मूंगफली का छिलका और धान की भूसी का उपयोग जीवभार गैसीकरण के लिये किया जा सकता है।",
+        "en": "Coconut shells, groundnut shells and rice husk can be used in biomass gasification."
+      },
+      {
+        "id": 2,
+        "hi": "जीवभार गैसीकरण द्वारा जनित ज्वलनशील गैसों में केवल हाइड्रोजन और कार्बन डाइऑक्साइड होती हैं।",
+        "en": "The combustible gases generated from biomass gasification consist of hydrogen and carbon dioxide only."
+      },
+      {
+        "id": 3,
+        "hi": "जीवभार गैसीकरण द्वारा जनित ज्वलनशील गैसों का ऊष्मा उत्पादन में सीधे ही उपयोग कर सकते हैं, लेकिन अंतर्दहन इंजनों में नहीं।",
+        "en": "The combustible gases generated from biomass gasification can be used for direct heat generation but not in internal combustion engines."
+      }
+    ],
+    "question": {
+      "hi": "जीवभार गैसीकरण को भारत में ऊर्जा संकट के धारणीय (सस्टेनेबल) हलों में से एक समझा जाता है। इस संदर्भ में कौन-सा/से कथन सही है/हैं?\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये–",
+      "en": "Biomass gasification is considered to be one of the sustainable solutions to the power crisis in India. In this context, which of the following statements is/are correct?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कथन 2 गलत है: जनित गैस में कार्बन मोनोऑक्साइड, मीथेन, हाइड्रोजन आदि होती हैं (इसे प्रोड्यूसर गैस कहते हैं), 'केवल' हाइड्रोजन और कार्बन डाइऑक्साइड नहीं। कथन 3 गलत है: इसका उपयोग अंतर्दहन इंजनों (Internal Combustion Engines) में भी किया जा सकता है। अतः केवल 1 सही है।",
+      "en": "Statement 2 is incorrect: The generated gas contains carbon monoxide, methane, hydrogen, etc. (called Producer Gas), not 'only' hydrogen and carbon dioxide. Statement 3 is incorrect: It CAN be used in internal combustion engines. Thus, only statement 1 is correct."
+    }
+  },
+  {
+    "id": 28,
+    "year": 2011,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "प्रकाश उत्पन्न करने के लिये सीएफएल पारा-वाष्प और संदीपक का प्रयोग करता है, जबकि एलईडी लैंप अर्द्धचालक पदार्थों का प्रयोग करता है।",
+        "en": "To produce light, a CFL uses mercury vapour and phosphor while an LED lamp uses semiconductor material."
+      },
+      {
+        "id": 2,
+        "hi": "सीएफएल की औसत जीवन-अवधि एलईडी लैंप से बहुत अधिक होती है।",
+        "en": "The average life span of a CFL is much longer than that of an LED lamp."
+      },
+      {
+        "id": 3,
+        "hi": "एलईडी लैंप की तुलना में सीएफएल कम ऊर्जा सक्षम है।",
+        "en": "A CFL is less energy-efficient as compared to an LED lamp."
+      }
+    ],
+    "question": {
+      "hi": "सीएफएल (CFL) तथा एलईडी (LED) लैंप में क्या अंतर है?\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "What is the difference between a CFL and an LED lamp?\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कथन 2 गलत है: LED की जीवन-अवधि CFL से बहुत अधिक होती है (LED की लगभग 50,000 घंटे, CFL की लगभग 8,000 घंटे)। कथन 1 और 3 सही हैं।",
+      "en": "Statement 2 is incorrect: The lifespan of an LED is much longer than that of a CFL (LED ~50,000 hrs, CFL ~8,000 hrs). Statements 1 and 3 are correct."
+    }
+  },
+  {
+    "id": 29,
+    "year": 2011,
+    "subject": "Science and Technology",
+    "topic": "Other Emerging Technologies",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "डीवीडी मानक परिभाषा वीडियो (स्टैंडर्ड डेफिनिशन वीडियो) को समर्थित करता है, जबकि बीडी उच्च परिभाषा वीडियो (हाई डेफिनिशन वीडियो) को समर्थित करता है।",
+        "en": "DVD supports Standard Definition video while BD supports High Definition video."
+      },
+      {
+        "id": 2,
+        "hi": "डीवीडी की तुलना में बीडी फॉर्मेट की भंडारण क्षमता कई गुना अधिक है।",
+        "en": "Compared to a DVD, the BD format has several times more storage capacity."
+      },
+      {
+        "id": 3,
+        "hi": "बीडी की मोटाई 2.4 mm है, जबकि डीवीडी की मोटाई 1.2 mm है।",
+        "en": "Thickness of BD is 2.4 mm while that of DVD is 1.2 mm."
+      }
+    ],
+    "question": {
+      "hi": "ऑप्टिकल डिस्क का नया फॉर्मेट, जो ब्लू-रे डिस्क (BD; बीडी) के नाम से जाना जाता है, लोकप्रिय हो रहा है। यह परंपरागत डीवीडी (DVD) से किस प्रकार भिन्न है?\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "A new optical disc format known as the Blu-ray Disc (BD) is becoming popular. In what way is it different from the traditional DVD?\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कथन 3 गलत है: DVD और BD दोनों की मोटाई लगभग बराबर (1.2 mm) होती है। BD में नीली लेज़र का प्रयोग होता है, जिससे इसकी भंडारण क्षमता DVD से काफी अधिक होती है और यह HD वीडियो सपोर्ट करता है। अतः कथन 1 और 2 सही हैं।",
+      "en": "Statement 3 is incorrect: Both DVD and BD have approximately the same thickness (1.2 mm). BD uses a blue laser, which gives it much higher storage capacity than DVD and supports HD video. Thus, statements 1 and 2 are correct."
+    }
+  }
+]

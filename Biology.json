@@ -1,0 +1,2920 @@
+[
+  {
+    "id": 1,
+    "year": 2025,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "महासागरीय जल में कोई विषाणु जीवित नहीं बच सकता।",
+        "en": "No virus can survive in ocean water."
+      },
+      {
+        "id": 2,
+        "hi": "कोई विषाणु, जीवाणुओं में संक्रमण नहीं कर सकता।",
+        "en": "A virus cannot infect bacteria."
+      },
+      {
+        "id": 3,
+        "hi": "कोई विषाणु, परपोषी कोशिका में कोशिकीय अनुलेखनात्मक सक्रियता को परिवर्तित नहीं कर सकता।",
+        "en": "A virus cannot alter cellular transcriptional activity in a host cell."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त में से कितने कथन सही हैं?",
+      "en": "Consider the following statements:\nHow many of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "कथन I गलत है: समुद्री जल में वायरस अत्यधिक मात्रा में पाए जाते हैं। कथन II गलत है: बैक्टीरियोफेज (Bacteriophage) ऐसे वायरस हैं जो बैक्टीरिया को संक्रमित करते हैं। कथन III गलत है: वायरस होस्ट कोशिका की ट्रांसक्रिप्शनल गतिविधि (DNA से RNA निर्माण) को परिवर्तित कर देते हैं। अतः कोई भी कथन सही नहीं है।",
+      "en": "Statement I is incorrect: Viruses are highly abundant in ocean water. Statement II is incorrect: Bacteriophages are viruses that infect bacteria. Statement III is incorrect: Viruses alter the transcriptional activity of host cells to replicate. Therefore, none of the statements are correct."
+    }
+  },
+  {
+    "id": 2,
+    "year": 2025,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कसावा (Cassava) - काष्ठीय झाड़ी",
+        "en": "Cassava - Woody shrub"
+      },
+      {
+        "id": 2,
+        "hi": "अदरक (Ginger) - आभासी-तनायुक्त शाक",
+        "en": "Ginger - Herb with pseudo-stem"
+      },
+      {
+        "id": 3,
+        "hi": "मालाबार पालक (Malabar spinach) - शाकीय आरोही लता",
+        "en": "Malabar spinach - Herbaceous climber"
+      },
+      {
+        "id": 4,
+        "hi": "पुदीना (Mint) - वार्षिक झाड़ी",
+        "en": "Mint - Annual shrub"
+      },
+      {
+        "id": 5,
+        "hi": "पपीता (Papaya) - काष्ठीय झाड़ी",
+        "en": "Papaya - Woody shrub"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये– (पादप : वर्णन)\nउपर्युक्त में से कितने सही सुमेलित हैं?",
+      "en": "Consider the following pairs: (Plant : Description)\nHow many of the above are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "केवल चार",
+        "en": "Only four"
+      },
+      {
+        "id": "D",
+        "hi": "सभी पाँच",
+        "en": "All five"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "युग्म I (कसावा - काष्ठीय झाड़ी) और युग्म III (मालाबार पालक - शाकीय आरोही लता) सही हैं। अदरक का भूमिगत तना राइजोम होता है, पुदीना बहुवर्षीय शाक है, और पपीता एक बड़ा शाकीय पौधा (या अर्ध-काष्ठीय) होता है। अतः केवल दो युग्म सही सुमेलित हैं।",
+      "en": "Pair I (Cassava - Woody shrub) and Pair III (Malabar spinach - Herbaceous climber) are correct. Ginger has a rhizome, Mint is a perennial herb, and Papaya is a large herbaceous (or semi-woody) plant. Thus, only two pairs are correctly matched."
+    }
+  },
+  {
+    "id": 3,
+    "year": 2024,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कैराबिड बीटल्स (Carabid beetles)",
+        "en": "Carabid beetles"
+      },
+      {
+        "id": 2,
+        "hi": "कांतर (सेंटीपीड्स / Centipedes)",
+        "en": "Centipedes"
+      },
+      {
+        "id": 3,
+        "hi": "मक्खियाँ (Flies)",
+        "en": "Flies"
+      },
+      {
+        "id": 4,
+        "hi": "दीमक (Termites)",
+        "en": "Termites"
+      },
+      {
+        "id": 5,
+        "hi": "बर्र (वास्प्स / Wasps)",
+        "en": "Wasps"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पर विचार कीजिये –\nउपर्युक्त में से कितने प्रकार के जीवों में परजीव्याभ प्रजातियाँ (पैरासिटॉइड स्पीशीज़) पाई जाती हैं?",
+      "en": "Consider the following:\nHow many of the above types of organisms have parasitoid species?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "B",
+        "hi": "केवल तीन",
+        "en": "Only three"
+      },
+      {
+        "id": "C",
+        "hi": "केवल चार",
+        "en": "Only four"
+      },
+      {
+        "id": "D",
+        "hi": "सभी पाँच",
+        "en": "All five"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "पैरासिटॉइड (Parasitoid) वे जीव हैं जो अपने भोजन के लिए दूसरे पर निर्भर होते हैं (प्रायः उन्हें मार देते हैं)। इनमें बर्र (Wasps), मक्खियाँ (Flies) और बीटल्स (Beetles) शामिल हैं। सेंटीपीड शिकारी होते हैं और दीमक सेल्यूलोज खाते हैं। अतः केवल 3 सही हैं।",
+      "en": "Parasitoids are organisms that live on or in a host and ultimately kill it. Wasps, Flies, and Beetles include parasitoid species. Centipedes are predators and termites eat cellulose. Thus, only three are correct."
+    }
+  },
+  {
+    "id": 4,
+    "year": 2024,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा, मानव शरीर में संश्लेषित होता है जो रक्त वाहिकाओं को विस्फारित करता है और रक्त प्रवाह को बढ़ाता है?",
+      "en": "Which one of the following is synthesized in the human body that dilates blood vessels and increases blood flow?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "नाइट्रिक ऑक्साइड",
+        "en": "Nitric oxide"
+      },
+      {
+        "id": "B",
+        "hi": "नाइट्रस ऑक्साइड",
+        "en": "Nitrous oxide"
+      },
+      {
+        "id": "C",
+        "hi": "नाइट्रोजन डाइऑक्साइड",
+        "en": "Nitrogen dioxide"
+      },
+      {
+        "id": "D",
+        "hi": "नाइट्रोजन पेंटॉक्साइड",
+        "en": "Nitrogen pentoxide"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "नाइट्रिक ऑक्साइड (NO) मानव शरीर में रक्त वाहिकाओं की अंदरूनी परत द्वारा बनता है। यह मांसपेशियों को आराम देकर रक्त वाहिकाओं को फैलाता है (विस्फारित करता है), जिससे रक्त प्रवाह बढ़ता है।",
+      "en": "Nitric Oxide (NO) is produced by the endothelium of blood vessels. It relaxes the smooth muscles of the blood vessels, causing them to dilate and increase blood flow."
+    }
+  },
+  {
+    "id": 5,
+    "year": 2024,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "मूँगफली (Groundnut)",
+        "en": "Groundnut"
+      },
+      {
+        "id": 2,
+        "hi": "कुलथी (हॉर्स-ग्राम / Horse-gram)",
+        "en": "Horse-gram"
+      },
+      {
+        "id": 3,
+        "hi": "सोयाबीन (Soyabean)",
+        "en": "Soyabean"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पौधों पर विचार कीजिये –\nउपर्युक्त में से कितने मटर कुल (फैमिली) के हैं?",
+      "en": "Consider the following plants:\nHow many of the above belong to the pea family?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "मूँगफली, कुलथी और सोयाबीन तीनों फैबेसी (Fabaceae) या लेग्यूमिनोसी कुल से संबंधित हैं, जिसे सामान्यतः 'मटर कुल' कहा जाता है। अतः सभी तीन सही हैं।",
+      "en": "Groundnut, Horse-gram, and Soyabean all belong to the family Fabaceae (or Leguminosae), commonly known as the pea family. Therefore, all three are correct."
+    }
+  },
+  {
+    "id": 6,
+    "year": 2023,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "‘वोल्बैचिया पद्धति (Wolbachia method)’ का कभी-कभी निम्नलिखित में से किस एक के संदर्भ में उल्लेख होता है?",
+      "en": "'Wolbachia method' is sometimes talked about with reference to which one of the following?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "मच्छरों से होने वाले विषाणु रोगों के प्रसार को नियंत्रित करना",
+        "en": "Controlling the viral diseases spread by mosquitoes"
+      },
+      {
+        "id": "B",
+        "hi": "शेष शस्य (क्रॉप रेज़िड्यू) से संवेष्टन सामग्री (पैकिंग मटेरियल) बनाना",
+        "en": "Converting crop residues into packing material"
+      },
+      {
+        "id": "C",
+        "hi": "जैव निम्नीकरणीय प्लास्टिकों का उत्पादन करना",
+        "en": "Producing biodegradable plastics"
+      },
+      {
+        "id": "D",
+        "hi": "जैव मात्रा के ऊष्मरासायनिक रूपांतरण से बायोचार का उत्पादन करना",
+        "en": "Producing biochar from thermo-chemical conversion of biomass"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "वोल्बैचिया पद्धति का उपयोग डेंगू, जीका, चिकनगुनिया जैसे मच्छरों से फैलने वाले वायरल रोगों को नियंत्रित करने के लिए किया जाता है। इसमें एडीसी मच्छरों में वोल्बैचिया बैक्टीरिया प्रवेश कराया जाता है, जो वायरस की वृद्धि को रोकता है।",
+      "en": "The Wolbachia method is used to control viral diseases transmitted by mosquitoes, like Dengue, Zika, and Chikungunya. Introducing the Wolbachia bacterium into Aedes mosquitoes prevents the virus from replicating."
+    }
+  },
+  {
+    "id": 7,
+    "year": 2023,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "‘एरियल मेटाजिनोमिक्स (Aerial Metagenomics)’ निम्नलिखित में से किस एक स्थिति को सबसे सही निर्दिष्ट करता है?",
+      "en": "'Aerial Metagenomics' best refers to which one of the following situations?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "किसी पर्यावास में वायु से डी.एन.ए. प्रतिदर्शों को एक बार में एकत्र करना",
+        "en": "Collecting DNA samples from air in a habitat at one go"
+      },
+      {
+        "id": "B",
+        "hi": "किसी पर्यावास की पक्षी प्रजातियों की आनुवंशिक रचना को समझना",
+        "en": "Understanding the genetic makeup of avian species of a habitat"
+      },
+      {
+        "id": "C",
+        "hi": "गतिशील प्राणियों से रुधिर प्रतिदर्श लेने के लिये वायुवाहित युक्तियों का प्रयोग करना",
+        "en": "Using air-borne devices to draw blood samples from moving animals"
+      },
+      {
+        "id": "D",
+        "hi": "भूमितल और जल निकायों से पादप एवं जंतु प्रतिदर्श एकत्र करने के लिये अगम्य क्षेत्रों में ड्रोन भेजना",
+        "en": "Sending drones to inaccessible areas to collect plant and animal samples from land surfaces and water bodies"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "एरियल मेटाजिनोमिक्स वह वैज्ञानिक विधि है जिसमें हवा (वायु) में मौजूद जैविक कणों से एक ही बार में DNA/RNA के नमूने एकत्र कर उनका आनुवंशिक विश्लेषण किया जाता है।",
+      "en": "Aerial Metagenomics refers to the scientific method of collecting DNA/RNA samples from biological particles present in the air in a given habitat at one go for genetic analysis."
+    }
+  },
+  {
+    "id": 8,
+    "year": 2023,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "‘माइक्रोसेटेलाइट डी.एन.ए.’ का उपयोग निम्नलिखित में से किस के लिये किया जाता है?",
+      "en": "For which one of the following is 'Microsatellite DNA' used?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "प्राणिजात की विभिन्न जातियों के बीच विकासपरक संबंधों का अध्ययन करना",
+        "en": "Studying the evolutionary relationships among various species of fauna"
+      },
+      {
+        "id": "B",
+        "hi": "‘स्टेम कोशिकाओं’ को विविध प्रकार्यात्मक ऊतकों में रूपांतरित होने के लिये प्रेरित करना",
+        "en": "Stimulating 'stem cells' to transform into diverse functional tissues"
+      },
+      {
+        "id": "C",
+        "hi": "उद्यान-कृषि के पादपों के क्लोनी प्रसार को संवर्द्धित करना",
+        "en": "Promoting clonal propagation of horticultural plants"
+      },
+      {
+        "id": "D",
+        "hi": "किसी समष्टि में शृंखलाबद्ध औषध परीक्षण कर औषधों की प्रभावकारिता का आकलन करना",
+        "en": "Assessing the efficacy of drugs by conducting series of drug trials in a population"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "माइक्रोसेटेलाइट DNA का उपयोग आनुवंशिक विविधता (Genetic diversity), प्रजातियों के बीच निकटता, और विकासात्मक इतिहास (Evolutionary relationships/Phylogeny) को समझने में किया जाता है।",
+      "en": "Microsatellite DNA is used to study genetic diversity, relatedness among populations, and the evolutionary relationships (phylogeny) among various species of fauna."
+    }
+  },
+  {
+    "id": 9,
+    "year": 2023,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इसमें स्कूल जाने से पूर्व के (प्री-स्कूल) बच्चों, किशोरों और गर्भवती महिलाओं के लिये रोगनिरोधक कैल्शियम पूरकता प्रदान की जाती है।",
+        "en": "It provides prophylactic calcium supplementation for pre-school children, adolescents and pregnant women."
+      },
+      {
+        "id": 2,
+        "hi": "इसमें शिशु जन्म के समय देरी से रज्जु बंद करने (Delayed cord clamping) के लिये अभियान चलाया जाता है।",
+        "en": "It runs a campaign for delayed cord clamping at the time of child-birth."
+      },
+      {
+        "id": 3,
+        "hi": "इसमें बच्चों और किशोरों की निर्धारित अवधियों पर कृमि-मुक्ति की जाती है।",
+        "en": "It provides for periodic deworming to children and adolescents."
+      },
+      {
+        "id": 4,
+        "hi": "इसमें मलेरिया, हीमोग्लोबिनोपैथी और फ्लोरोसिस पर विशेष ध्यान देने के साथ स्थानिक बस्तियों में एनीमिया के गैर-पोषण कारणों की ओर ध्यान दिलाना शामिल है।",
+        "en": "It addresses non-nutritional causes of anaemia in endemic pockets with special focus on malaria, hemoglobinopathies and fluorosis."
+      }
+    ],
+    "question": {
+      "hi": "एनीमिया मुक्त भारत रणनीति के अंतर्गत की जा रही व्यवस्थाओं के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त में से कितने कथन सही हैं?",
+      "en": "Consider the following statements in the context of interventions being undertaken under Anaemia Mukt Bharat Strategy:\nHow many of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "केवल तीन",
+        "en": "Only three"
+      },
+      {
+        "id": "D",
+        "hi": "सभी चार",
+        "en": "All four"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कथन 1 गलत है: इसमें रोगनिरोधक 'कैल्शियम' नहीं, बल्कि 'आयरन और फोलिक एसिड' पूरकता प्रदान की जाती है। कथन 2, 3 और 4 सही हैं (देरी से रज्जु बंद करना, कृमि-मुक्ति, और गैर-पोषण कारणों पर ध्यान)। अतः 3 कथन सही हैं।",
+      "en": "Statement 1 is incorrect: It provides prophylactic 'Iron and Folic Acid' supplementation, not calcium. Statements 2, 3, and 4 are correct (delayed cord clamping, deworming, and addressing non-nutritional causes). Thus, three statements are correct."
+    }
+  },
+  {
+    "id": 10,
+    "year": 2022,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "निम्नलिखित कथनों में कौन-सा एक, मानव शरीर में B कोशिकाओं और T कोशिकाओं की भूमिका का सर्वोत्तम वर्णन है?",
+      "en": "Which one of the following statements best describes the role of B cells and T cells in the human body?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "वे शरीर को पर्यावरणीय प्रत्यूर्जकों (एलर्ज़नों) से संरक्षित करती हैं।",
+        "en": "They protect the body from environmental allergens."
+      },
+      {
+        "id": "B",
+        "hi": "वे शरीर के दर्द और सूजन का उपशमन करती हैं।",
+        "en": "They alleviate the body's pain and inflammation."
+      },
+      {
+        "id": "C",
+        "hi": "वे शरीर के प्रतिरक्षा-निरोधकों की तरह काम करती हैं।",
+        "en": "They act as immunosuppressants in the body."
+      },
+      {
+        "id": "D",
+        "hi": "वे शरीर को रोगजनकों द्वारा होने वाले रोगों से बचाती हैं।",
+        "en": "They protect the body from the diseases caused by pathogens."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "B कोशिकाएँ और T कोशिकाएँ मानव प्रतिरक्षा प्रणाली (Immune System) का हिस्सा हैं। B कोशिकाएँ एंटीबॉडी बनाती हैं और T कोशिकाएँ रोगजनकों (Pathogens - वायरस, बैक्टीरिया) को नष्ट करने में मदद करती हैं, जिससे शरीर रोगों से बचता है।",
+      "en": "B cells and T cells are part of the adaptive immune system. B cells produce antibodies, and T cells help destroy infected cells. Together, they protect the body from diseases caused by pathogens."
+    }
+  },
+  {
+    "id": 11,
+    "year": 2022,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "निम्नलिखित में से किस एक जीव की कुछ प्रजातियाँ कवकों के कृषकों के रूप में जानी जाती हैं?",
+      "en": "Certain species of which one of the following organisms are well known as cultivators of fungi?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "चींटी",
+        "en": "Ant"
+      },
+      {
+        "id": "B",
+        "hi": "कॉकरोच",
+        "en": "Cockroach"
+      },
+      {
+        "id": "C",
+        "hi": "केकड़ा",
+        "en": "Crab"
+      },
+      {
+        "id": "D",
+        "hi": "मकड़ी",
+        "en": "Spider"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "चींटियों की कुछ प्रजातियां (जैसे लीफकटर चींटियां) कवक (Fungi) की खेती करती हैं, जो उनके भोजन का मुख्य स्रोत होता है।",
+      "en": "Certain species of ants (like leafcutter ants) are known to cultivate fungi for food. Thus, ants are well known as cultivators of fungi."
+    }
+  },
+  {
+    "id": 12,
+    "year": 2022,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारतीय सीरम संस्थान ने mRNA प्लेटफॉर्म का प्रयोग कर कोविशील्ड नामक कोविड-19 वैक्सीन निर्मित की।",
+        "en": "Serum Institute of India produced COVID-19 vaccine named Covishield using mRNA platform."
+      },
+      {
+        "id": 2,
+        "hi": "स्पुतनिक V वैक्सीन रोगवाहक (वेक्टर) आधारित प्लेटफॉर्म का प्रयोग कर बनाई गई है।",
+        "en": "Sputnik V vaccine is manufactured using vector based platform."
+      },
+      {
+        "id": 3,
+        "hi": "कोवैक्सीन एक निष्क्रिय रोगजनक आधारित वैक्सीन है।",
+        "en": "COVAXIN is an inactivated pathogen based vaccine."
+      }
+    ],
+    "question": {
+      "hi": "कोविड-19 विश्वमहामारी को रोकने के लिये बनाई जा रही वैक्सीनों के प्रसंग में, निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में कौन-से सही हैं?",
+      "en": "In the context of vaccines manufactured to prevent COVID-19 pandemic, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कथन 1 गलत है: कोविशील्ड mRNA प्लेटफॉर्म पर नहीं, बल्कि 'वायरल वेक्टर' तकनीक पर आधारित है। कथन 2 सही है: स्पुतनिक V एक वेक्टर-आधारित वैक्सीन है। कथन 3 सही है: कोवैक्सीन एक निष्क्रिय वायरस (Inactivated pathogen) आधारित वैक्सीन है।",
+      "en": "Statement 1 is incorrect: Covishield is based on a viral vector platform, not mRNA. Statement 2 is correct: Sputnik V uses a viral vector platform. Statement 3 is correct: Covaxin is an inactivated pathogen-based vaccine."
+    }
+  },
+  {
+    "id": 13,
+    "year": 2022,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "प्राइवेट अस्पतालों और सरकारी अस्पतालों को इसे अवश्य अपनाना चाहिये।",
+        "en": "Private and public hospitals must adopt it."
+      },
+      {
+        "id": 2,
+        "hi": "चूँकि इसका लक्ष्य स्वास्थ्य की सर्वजनीन व्याप्ति है, अंततोगत्वा भारत के हर नागरिक को इसका हिस्सा हो जाना चाहिये।",
+        "en": "As it aims to achieve universal health coverage, every citizen of India should be part of it ultimately."
+      },
+      {
+        "id": 3,
+        "hi": "यह पूरे देश में निर्बाध रूप से लागू किया जा सकता है।",
+        "en": "It has seamless portability across the country."
+      }
+    ],
+    "question": {
+      "hi": "आयुष्मान भारत डिजिटल मिशन के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में कौन-सा/से सही है/हैं?",
+      "en": "With reference to Ayushman Bharat Digital Mission, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कथन 1 गलत है: निजी और सरकारी अस्पतालों के लिए इसे अपनाना स्वैच्छिक (voluntary) है, अनिवार्य नहीं। कथन 2 गलत है: नागरिकों के लिए भी इसमें शामिल होना स्वैच्छिक है। कथन 3 सही है: इस डिजिटल हेल्थ रिकॉर्ड प्रणाली को पूरे देश में निर्बाध रूप (seamlessly) से उपयोग किया जा सकता है।",
+      "en": "Statement 1 is incorrect: Adoption by private and public hospitals is voluntary, not mandatory. Statement 2 is incorrect: It is voluntary for citizens to join it. Statement 3 is correct: It allows seamless portability of health records across the country."
+    }
+  },
+  {
+    "id": 14,
+    "year": 2021,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "निम्नलिखित में से किसका उपयोग प्राकृतिक मच्छर प्रतिकर्षी (मॉस्किटो रिपेलेंट) तैयार करने में किया जाता है?",
+      "en": "Which of the following is used in preparing a natural mosquito repellent?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कांग्रेस घास",
+        "en": "Congress grass"
+      },
+      {
+        "id": "B",
+        "hi": "एलिफेंट घास",
+        "en": "Elephant grass"
+      },
+      {
+        "id": "C",
+        "hi": "लेमन घास",
+        "en": "Lemon grass"
+      },
+      {
+        "id": "D",
+        "hi": "नट घास",
+        "en": "Nut grass"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "लेमन घास (Lemongrass) में सिट्रोनेला (Citronella) नामक तेल पाया जाता है, जिसकी तेज़ गंध के कारण इसका उपयोग प्राकृतिक मच्छर प्रतिकर्षी (Repellent) बनाने में किया जाता है।",
+      "en": "Lemon grass contains citronella oil, which has a strong scent that acts as a natural mosquito repellent."
+    }
+  },
+  {
+    "id": 15,
+    "year": 2021,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "जीवाणु (Bacteria)",
+        "en": "Bacteria"
+      },
+      {
+        "id": 2,
+        "hi": "कवक (Fungi)",
+        "en": "Fungi"
+      },
+      {
+        "id": 3,
+        "hi": "विषाणु (Virus)",
+        "en": "Virus"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पर विचार कीजिये–\nउपर्युक्त में से किन्हें कृत्रिम/संश्लेषित माध्यम में संवर्द्धित (Cultured) किया जा सकता है?",
+      "en": "Consider the following:\nWhich of the above can be cultured in artificial/synthetic medium?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "जीवाणु और कवक को कृत्रिम माध्यम (जैसे पेट्री डिश में अगर-अगर) पर संवर्द्धित किया जा सकता है। परंतु विषाणु (Virus) केवल जीवित कोशिकाओं के अंदर ही गुणन (reproduce) कर सकते हैं, उन्हें कृत्रिम/निर्जीव माध्यम में नहीं उगाया जा सकता। अतः 1 और 2 सही हैं।",
+      "en": "Bacteria and fungi can be cultured in artificial/synthetic media (like agar plates). However, viruses require living host cells to replicate and cannot be cultured in a synthetic, non-living medium. Thus, 1 and 2 are correct."
+    }
+  },
+  {
+    "id": 16,
+    "year": 2021,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "एडीनोवायरसों में एकल-तंतु डी.एन.ए. संजीन (जीनोम) होते हैं, जबकि रेट्रोवायरसों में द्वि-तंतु डी.एन.ए. संजीन (जीनोम) होते हैं।",
+        "en": "Adenoviruses have single-stranded DNA genomes whereas retroviruses have double-stranded DNA genomes."
+      },
+      {
+        "id": 2,
+        "hi": "कभी-कभी सामान्य जुकाम एडीनोवायरस के कारण होता है, जबकि एड्स (ए.आई.डी.एस.) रेट्रोवायरस के कारण होता है।",
+        "en": "Common cold is sometime caused by an adenovirus whereas AIDS is caused by a retrovirus."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कथन 1 गलत है: एडीनोवायरस में डबल-स्ट्रैंडेड DNA (dsDNA) होता है, जबकि रेट्रोवायरस में सिंगल-स्ट्रैंडेड RNA (ssRNA) जीनोम होता है। कथन 2 सही है: सामान्य जुकाम एडीनोवायरस के कारण हो सकता है, और AIDS (HIV) एक रेट्रोवायरस के कारण होता है।",
+      "en": "Statement 1 is incorrect: Adenoviruses have double-stranded DNA (dsDNA) genomes, whereas retroviruses have single-stranded RNA (ssRNA) genomes. Statement 2 is correct: Common cold can be caused by adenoviruses, and AIDS is caused by a retrovirus (HIV)."
+    }
+  },
+  {
+    "id": 17,
+    "year": 2021,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "निम्नलिखित में से किसमें 'ट्राइक्लोसन' के विद्यमान होने की सर्वाधिक संभावना है, जिसके लंबे समय तक उच्च स्तर के प्रभावन में रहने को हानिकारक माना जाता है?",
+      "en": "Water can dissolve more substances than any other liquid because... wait, the question is: Triclosan, considered harmful when exposed to high levels for a long time, is most likely present in which of the following?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "खाद्य परिरक्षक",
+        "en": "Food preservatives"
+      },
+      {
+        "id": "B",
+        "hi": "फल पकाने वाले पदार्थ",
+        "en": "Fruit-ripening substances"
+      },
+      {
+        "id": "C",
+        "hi": "पुनःप्रयुक्त प्लास्टिक के पात्र",
+        "en": "Reused plastic containers"
+      },
+      {
+        "id": "D",
+        "hi": "प्रसाधन सामग्री",
+        "en": "Toiletries"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "ट्राइक्लोसन (Triclosan) एक जीवाणुरोधी घटक है जिसे कुछ साबुन, बॉडी वॉश, टूथपेस्ट और सौंदर्य प्रसाधनों (Toiletries) में मिलाया जाता है। लंबे समय तक इसके उपयोग से स्वास्थ्य को नुकसान पहुंच सकता है (जैसे न्यूरोटॉक्सिक प्रभाव)।",
+      "en": "Triclosan is an antibacterial and antifungal agent added to many consumer products, notably cosmetics and toiletries (like soaps, body washes, toothpastes). Prolonged exposure to it is considered harmful."
+    }
+  },
+  {
+    "id": 18,
+    "year": 2020,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "पादप कोशिकाओं में सेल्यूलोज़ कोशिका भित्तियाँ होती हैं जबकि प्राणि कोशिकाओं में वे नहीं होतीं।",
+        "en": "Plant cells have cellulose cell walls whilst animal cells do not."
+      },
+      {
+        "id": 2,
+        "hi": "पादप कोशिकाओं में प्लाज़्मा झिल्ली नहीं होती जबकि इसके विपरीत प्राणि कोशिकाओं में वे होती हैं।",
+        "en": "Plant cells do not have plasma membrane unlike animal cells which do."
+      },
+      {
+        "id": 3,
+        "hi": "परिपक्व पादप कोशिका में एक बृहत्‌ रसधानी होती है जबकि प्राणि कोशिका में अनेक छोटी रसधानियाँ होती हैं।",
+        "en": "Mature plant cell has one large vacuole whilst animal cell has many small vacuoles."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों में से कौन-से पादप और प्राणि कोशिकाओं के बीच सामान्य अंतर के बारे में सही हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "Which of the following statements are correct regarding the general difference between plant and animal cells?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कथन 1 सही है: पादप कोशिकाओं में सेल्यूलोज़ की कोशिका भित्ति होती है जो प्राणी कोशिकाओं में नहीं होती। कथन 2 गलत है: प्लाज्मा झिल्ली (Cell membrane) पादप और प्राणी दोनों कोशिकाओं में होती है। कथन 3 सही है: पादप कोशिकाओं में एक बड़ी रसधानी (Vacuole) होती है जबकि प्राणी कोशिका में छोटी रसधानियां होती हैं।",
+      "en": "Statement 1 is correct: Plant cells have a cellulose cell wall; animal cells do not. Statement 2 is incorrect: Both plant and animal cells have a plasma membrane. Statement 3 is correct: Plant cells typically have a large central vacuole, while animal cells have smaller vacuoles."
+    }
+  },
+  {
+    "id": 19,
+    "year": 2019,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "विज्ञान में हुए अभिनव विकासों के संदर्भ में, निम्नलिखित में से कौन-सा एक कथन सही नहीं है?",
+      "en": "In the context of recent advances in science, which one of the following statements is not correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "विभिन्न जातियों की कोशिकाओं से लिये गए DNA के खंडों को जोड़कर प्रकार्यात्मक गुणसूत्र रचे जा सकते हैं।",
+        "en": "Functional chromosomes can be created by joining segments of DNA taken from cells of different species."
+      },
+      {
+        "id": "B",
+        "hi": "प्रयोगशालाओं में कृत्रिम प्रकार्यात्मक DNA के हिस्से रचे जा सकते हैं।",
+        "en": "Pieces of artificial functional DNA can be created in laboratories."
+      },
+      {
+        "id": "C",
+        "hi": "किसी जंतु कोशिका से निकाले गए DNA के किसी हिस्से को जीवित कोशिका से बाहर, प्रयोगशाला में, प्रतिकृत कराया जा सकता है।",
+        "en": "A piece of DNA taken out from an animal cell can be made to replicate outside a living cell in a laboratory."
+      },
+      {
+        "id": "D",
+        "hi": "पादपों और जंतुओं से निकाली गई कोशिकाओं में प्रयोगशाला की पेट्री डिश में कोशिका विभाजन कराया जा सकता है।",
+        "en": "Cells taken out from plants and animals can be made to undergo cell division in laboratory petri dishes."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कथन (a) सही नहीं है। विभिन्न प्रजातियों के DNA खंडों को जोड़कर कृत्रिम रूप से कार्यशील 'जीन' (Recombinant DNA) बनाए जा सकते हैं, लेकिन पूरा का पूरा 'प्रकार्यात्मक गुणसूत्र' (Functional chromosome) कृत्रिम रूप से बनाना अभी तक तकनीकी रूप से पूर्णतः व्यवहार्य नहीं हुआ है।",
+      "en": "Statement (a) is not correct. While pieces of DNA can be joined to create recombinant DNA (functional genes), creating entirely new functional 'chromosomes' by joining DNA segments from different species is not fully viable. The other statements about artificial DNA, PCR replication, and cell culture are true."
+    }
+  },
+  {
+    "id": 20,
+    "year": 2019,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कुछ व्यक्तियों में आनुवंशिक पूर्ववृत्ति (जेनेटिक प्रीडिस्पोज़ीशन) का होना",
+        "en": "Genetic predisposition of some people"
+      },
+      {
+        "id": 2,
+        "hi": "रोगों के उपचार के लिये प्रतिजैविकों (ऐंटिबायोटिक्स) की गलत खुराकें लेना",
+        "en": "Taking incorrect doses of antibiotics to cure diseases"
+      },
+      {
+        "id": 3,
+        "hi": "पशुधन फार्मिंग में प्रतिजैविकों का इस्तेमाल करना",
+        "en": "Using antibiotics in livestock farming"
+      },
+      {
+        "id": 4,
+        "hi": "कुछ व्यक्तियों में चिरकालिक रोगों की बहुलता होना",
+        "en": "Multiple chronic diseases in some people"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-से, भारत में सूक्ष्मजैविक रोगजनकों में बहु-औषध प्रतिरोध के होने के कारण हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये :",
+      "en": "Which of the following are the reasons for the occurrence of multi-drug resistance in microbial pathogens in India?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "1, 3 और 4",
+        "en": "1, 3 and 4"
+      },
+      {
+        "id": "D",
+        "hi": "2, 3 और 4",
+        "en": "2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "सूक्ष्मजैविक रोगजनकों में बहु-औषध प्रतिरोध (Multi-drug resistance) मुख्य रूप से एंटीबायोटिक्स के गलत इस्तेमाल या अत्यधिक प्रयोग के कारण होता है। इसमें गलत खुराक लेना (2) और पशुधन फार्मिंग में अनावश्यक एंटीबायोटिक्स का प्रयोग (3) शामिल है। आनुवंशिक पूर्ववृत्ति या चिरकालिक रोग इसके प्रत्यक्ष कारण नहीं हैं। अतः केवल 2 और 3 सही हैं।",
+      "en": "Multi-drug resistance in microbial pathogens is primarily caused by the misuse and overuse of antimicrobials. This includes taking incorrect doses (2) and the unregulated use of antibiotics in livestock farming (3). Genetic predisposition and chronic diseases are not direct causes. Thus, 2 and 3 are correct."
+    }
+  },
+  {
+    "id": 21,
+    "year": 2019,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा एक कथन सही नहीं है?",
+      "en": "Which one of the following statements is not correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "यकृतशोथ B विषाणु काफी कुछ HIV की तरह ही संचारित होता है।",
+        "en": "Hepatitis B virus is transmitted much like HIV."
+      },
+      {
+        "id": "B",
+        "hi": "यकृतशोथ C का टीका होता है, जबकि यकृतशोथ B का कोई टीका नहीं होता।",
+        "en": "Hepatitis C vaccine is available, whereas there is no vaccine for Hepatitis B."
+      },
+      {
+        "id": "C",
+        "hi": "सार्वभौम रूप से यकृतशोथ B और C विषाणुओं से संक्रमित व्यक्तियों की संख्या HIV से संक्रमित लोगों की संख्या से कई गुना अधिक है।",
+        "en": "Globally, the number of people infected with Hepatitis B and C viruses is several times higher than those infected with HIV."
+      },
+      {
+        "id": "D",
+        "hi": "यकृतशोथ B और C विषाणुओं से संक्रमित कुछ व्यक्तियों में अनेक वर्षों तक इसके लक्षण दिखाई नहीं देते।",
+        "en": "Some of those infected with Hepatitis B and C viruses do not show the symptoms for many years."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कथन (b) गलत है। यकृतशोथ B (Hepatitis B) का टीका उपलब्ध है और यह बहुत प्रभावी है, जबकि यकृतशोथ C (Hepatitis C) के लिए अभी तक कोई टीका (vaccine) उपलब्ध नहीं है। अन्य सभी कथन सही हैं।",
+      "en": "Statement (b) is incorrect. A vaccine is available for Hepatitis B and it is very effective, whereas there is NO vaccine available for Hepatitis C. The other statements are correct."
+    }
+  },
+  {
+    "id": 22,
+    "year": 2018,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "पक्षी",
+        "en": "Birds"
+      },
+      {
+        "id": 2,
+        "hi": "उड़ती धूल",
+        "en": "Dust blowing"
+      },
+      {
+        "id": 3,
+        "hi": "वर्षा",
+        "en": "Rain"
+      },
+      {
+        "id": 4,
+        "hi": "बहती हवा",
+        "en": "Wind blowing"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पर विचार कीजिये–\nउपर्युक्त में से कौन-से पादप रोग फैलाते हैं?",
+      "en": "Consider the following:\nWhich of the above spread plant diseases?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3 और 4",
+        "en": "3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 2 और 4",
+        "en": "1, 2 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "पादप रोगों के रोगाणु (फंगस, बैक्टीरिया, वायरस) एक पौधे से दूसरे पौधे तक पक्षियों, उड़ती धूल, वर्षा के पानी और बहती हवा के माध्यम से आसानी से संचारित हो जाते हैं। अतः 1, 2, 3 और 4 सभी सही हैं।",
+      "en": "Plant diseases (pathogens like fungi, bacteria, viruses) can be spread by birds, dust blowing, rain splashes, and wind blowing. Therefore, all 1, 2, 3, and 4 are correct agents."
+    }
+  },
+  {
+    "id": 23,
+    "year": 2018,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कठोर एवं मोमी पर्ण",
+        "en": "Hard and waxy leaves"
+      },
+      {
+        "id": 2,
+        "hi": "लघु पर्ण",
+        "en": "Tiny leaves"
+      },
+      {
+        "id": 3,
+        "hi": "पर्ण की जगह काँटे",
+        "en": "Thorns instead of leaves"
+      }
+    ],
+    "question": {
+      "hi": "मरुस्थल क्षेत्रों में जल ह्रास को रोकने के लिये निम्नलिखित में से कौन-सा/से पर्ण रूपांतरण होता है/होते हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "Which of the following leaf modifications occur(s) in the desert areas to inhibit water loss?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "मरुस्थलीय क्षेत्रों में पानी की कमी होती है। अतः पौधे वाष्पोत्सर्जन को कम करने के लिए अपनी पत्तियों को कठोर और मोमी (waxy) बना लेते हैं, पत्तियों का आकार छोटा कर लेते हैं या पत्तियां कांटों में रूपांतरित हो जाती हैं (जैसे कैक्टस)। तीनों विकल्प सही हैं।",
+      "en": "In desert areas, plants modify their leaves to reduce water loss via transpiration. These modifications include hard and waxy leaves, tiny leaves, or leaves completely modified into thorns (e.g., cactus). All three are correct."
+    }
+  },
+  {
+    "id": 24,
+    "year": 2017,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उष्णकटिबंधीय प्रदेशों में, जीका वायरस रोग उसी मच्छर द्वारा संचारित होता है जिससे डेंगू संचारित होता है।",
+        "en": "In tropical regions, Zika virus disease is transmitted by the same mosquito that transmits dengue."
+      },
+      {
+        "id": 2,
+        "hi": "जीका वायरस रोग का लैंगिक संचरण होना संभव है।",
+        "en": "Sexual transmission of Zika virus disease is possible."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "जीका वायरस और डेंगू दोनों एडीज़ एजिप्टी (Aedes aegypti) मच्छरों द्वारा फैलते हैं। इसके अलावा, जीका वायरस का लैंगिक संचरण (Sexual transmission) भी संभव है। अतः दोनों कथन सही हैं।",
+      "en": "Zika virus and Dengue are both transmitted by the Aedes aegypti mosquitoes. Additionally, sexual transmission of the Zika virus is also possible. Thus, both statements are correct."
+    }
+  },
+  {
+    "id": 25,
+    "year": 2016,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "जीवाणुओं को",
+        "en": "Bacteria"
+      },
+      {
+        "id": 2,
+        "hi": "कवकों को",
+        "en": "Fungi"
+      },
+      {
+        "id": 3,
+        "hi": "पादपों को",
+        "en": "Plants"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों में से कौन-सा/से सही है/हैं?\nविषाणु संक्रमण कर सकते हैं–\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "Which of the following statements is/are correct?\nViruses can infect:\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "विषाणु (वायरस) जीवित कोशिकाओं में संक्रमण करते हैं। वे जीवाणुओं (जैसे बैक्टीरियोफेज), कवकों (माइकोवायरस), पादपों और जंतुओं सभी को संक्रमित कर सकते हैं।",
+      "en": "Viruses require living cells to replicate. They can infect bacteria (bacteriophages), fungi (mycoviruses), plants, and animals. Thus, all three are correct."
+    }
+  },
+  {
+    "id": 26,
+    "year": 2015,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "H1 N1 विषाणु प्रायः समाचारों में निम्नलिखित में से किस एक बीमारी के संदर्भ में उल्लेख किया जाता है?",
+      "en": "H1N1 virus is sometimes mentioned in the news with reference to which one of the following diseases?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एड्स (AIDS)",
+        "en": "AIDS"
+      },
+      {
+        "id": "B",
+        "hi": "बर्ड फ्लू",
+        "en": "Bird flu"
+      },
+      {
+        "id": "C",
+        "hi": "डेंगू",
+        "en": "Dengue"
+      },
+      {
+        "id": "D",
+        "hi": "स्वाइन फ्लू",
+        "en": "Swine flu"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "H1N1 इन्फ्लूएंजा ए (Influenza A) वायरस का एक उपप्रकार है जो स्वाइन फ्लू (Swine Flu) बीमारी का कारण बनता है।",
+      "en": "The H1N1 virus is a subtype of the Influenza A virus that causes Swine Flu."
+    }
+  },
+  {
+    "id": 27,
+    "year": 2014,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "फल वाले पादपों में मुकुलन (Budding) और रोपण (Planting)",
+        "en": "Budding and grafting in fruit plants"
+      },
+      {
+        "id": 2,
+        "hi": "कोशिकाद्रव्यी नर बन्ध्यता",
+        "en": "Cytoplasmic male sterility"
+      },
+      {
+        "id": 3,
+        "hi": "जीन नीरवता",
+        "en": "Gene silencing"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित तकनीकों/परिघटनाओं पर विचार कीजिये–\nउपर्युक्त में से कौन-सी/से ट्रांसजेनिक फसलों को बनाने में प्रयुक्त होता है/होते हैं?",
+      "en": "Consider the following techniques/phenomena:\nWhich of the above is/are used in creating transgenic crops?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "ट्रांसजेनिक फसलों के निर्माण में 'जीन नीरवता' (Gene Silencing / RNAi) और 'कोशिकाद्रव्यी नर बन्ध्यता' (Cytoplasmic male sterility) का उपयोग किया जाता है। मुकुलन और रोपण पौधों के वानस्पतिक प्रवर्धन की पारंपरिक विधियां हैं, आनुवंशिक इंजीनियरिंग की नहीं।",
+      "en": "Gene silencing (RNAi) and cytoplasmic male sterility are biotechnology tools used in developing transgenic (genetically modified) crops. Budding and grafting are traditional vegetative propagation methods, not transgenic techniques."
+    }
+  },
+  {
+    "id": 28,
+    "year": 2014,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा एक आहार शृंखला का सही क्रम है?",
+      "en": "Which one of the following is the correct sequence of a food chain?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "डायटम–क्रस्टेशियाई–हेरिंग",
+        "en": "Diatoms - Crustaceans - Herrings"
+      },
+      {
+        "id": "B",
+        "hi": "क्रस्टेशियाई–डायटम–हेरिंग",
+        "en": "Crustaceans - Diatoms - Herrings"
+      },
+      {
+        "id": "C",
+        "hi": "डायटम–हेरिंग–क्रस्टेशियाई",
+        "en": "Diatoms - Herrings - Crustaceans"
+      },
+      {
+        "id": "D",
+        "hi": "क्रस्टेशियाई–हेरिंग–डायटम",
+        "en": "Crustaceans - Herrings - Diatoms"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "आहार शृंखला का सही क्रम: डायटम (उत्पादक/Phytoplankton) → क्रस्टेशियाई (प्राथमिक उपभोक्ता/Zooplankton) → हेरिंग (द्वितीयक उपभोक्ता/मछली)।",
+      "en": "The correct sequence of the food chain is: Diatoms (producers/phytoplankton) -> Crustaceans (primary consumers/zooplankton) -> Herrings (secondary consumers/fish)."
+    }
+  },
+  {
+    "id": 29,
+    "year": 2014,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "डिफ्थीरिया",
+        "en": "Diphtheria"
+      },
+      {
+        "id": 2,
+        "hi": "छोटी माता (चिकनपॉक्स)",
+        "en": "Chickenpox"
+      },
+      {
+        "id": 3,
+        "hi": "चेचक (स्मॉलपॉक्स)",
+        "en": "Smallpox"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित रोगों पर विचार कीजिये–\nउपर्युक्त में से किस रोग/किन रोगों का भारत में उन्मूलन हो चुका है?",
+      "en": "Consider the following diseases:\nWhich of the above diseases has/have been eradicated in India?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "चेचक (Smallpox) का भारत और पूरे विश्व से उन्मूलन हो चुका है (1980 में WHO द्वारा घोषित)। डिफ्थीरिया और चिकनपॉक्स अभी भी होते हैं।",
+      "en": "Smallpox is the only disease among the options that has been completely eradicated globally (declared by WHO in 1980). Diphtheria and Chickenpox still occur."
+    }
+  },
+  {
+    "id": 30,
+    "year": 2014,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा एक प्रक्रम प्रकाश संश्लेषण में सम्मिलित है?",
+      "en": "Which one of the following processes is involved in photosynthesis?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "स्थितिज ऊर्जा (Potential Energy) मुक्त होकर प्राप्यतम (Free) ऊर्जा बनती है।",
+        "en": "Potential energy is released to form free energy."
+      },
+      {
+        "id": "B",
+        "hi": "प्राप्यतम ऊर्जा, स्थितिज ऊर्जा में परिवर्तित होती है और संचित हो जाती है।",
+        "en": "Free energy is converted into potential energy and stored."
+      },
+      {
+        "id": "C",
+        "hi": "भोजन ऑक्सीकृत होकर कार्बन डाइऑक्साइड और जल मुक्त करता है।",
+        "en": "Food is oxidized to release carbon dioxide and water."
+      },
+      {
+        "id": "D",
+        "hi": "ऑक्सीजन ली जाती है तथा कार्बन डाइऑक्साइड और जलवाष्प बाहर निकलते हैं।",
+        "en": "Oxygen is taken, and carbon dioxide and water vapour are given out."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "प्रकाश संश्लेषण में सौर ऊर्जा (प्राप्यतम ऊर्जा) को रासायनिक ऊर्जा (स्थितिज ऊर्जा) में परिवर्तित किया जाता है और यह कार्बोहाइड्रेट के रूप में संचित हो जाती है।",
+      "en": "In photosynthesis, light energy (free energy) is converted into chemical energy (potential energy) and stored in the bonds of glucose/carbohydrates."
+    }
+  },
+  {
+    "id": 31,
+    "year": 2014,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कायिक प्रवर्द्धन क्लोनीय जनसंख्या को उत्पन्न करता है।",
+        "en": "Vegetative propagation produces clonal population."
+      },
+      {
+        "id": 2,
+        "hi": "कायिक प्रवर्द्धन विषाणुओं का निष्प्रभावन करने में सहायक है।",
+        "en": "Vegetative propagation helps in eliminating the viruses."
+      },
+      {
+        "id": 3,
+        "hi": "कायिक प्रवर्द्धन वर्ष के अधिकतर भाग में चल सकता है।",
+        "en": "Vegetative propagation can be practiced most of the year."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा/से कथन पौधों के कायिक प्रवर्द्धन के संबंध में सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "Which of the following statements is/are correct regarding vegetative propagation of plants?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कथन 2 गलत है: कायिक प्रवर्द्धन (Vegetative propagation) से विषाणुओं का निष्प्रभावन नहीं होता; संक्रमित पौधे से बने नए पौधे भी संक्रमित ही होते हैं। कथन 1 और 3 सही हैं (यह क्लोन बनाता है और इसे वर्ष के अधिकतर भाग में किया जा सकता है)।",
+      "en": "Statement 2 is incorrect: Vegetative propagation does not eliminate viruses; if the parent plant is infected, the offspring will also carry the virus. Statements 1 and 3 are correct (it produces clones and can be practiced most of the year)."
+    }
+  },
+  {
+    "id": 32,
+    "year": 2014,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "विटामिन C - स्कर्वी",
+        "en": "Vitamin C - Scurvy"
+      },
+      {
+        "id": 2,
+        "hi": "विटामिन D - रिकेट्स",
+        "en": "Vitamin D - Rickets"
+      },
+      {
+        "id": 3,
+        "hi": "विटामिन E - रात्रि अंधता",
+        "en": "Vitamin E - Night blindness"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये– (विटामिन : इसकी हीनता से होने वाले रोग)\nउपर्युक्त में से कौन-सा/से युग्म सही सुमेलित है/हैं?",
+      "en": "Consider the following pairs: (Vitamin : Disease caused by its deficiency)\nWhich of the pairs given above is/are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "रात्रि अंधता (Night blindness) विटामिन A की कमी से होता है, न कि विटामिन E की कमी से। अतः युग्म 3 गलत है। युग्म 1 और 2 सही सुमेलित हैं।",
+      "en": "Night blindness is caused by a deficiency of Vitamin A, not Vitamin E. Therefore, pair 3 is incorrectly matched. Pairs 1 and 2 are correctly matched."
+    }
+  },
+  {
+    "id": 33,
+    "year": 2014,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "लाइकेन, जो एक नग्न चट्टान पर भी पारिस्थितिक अनुक्रम को प्रारंभ करने में सक्षम है, वास्तव में किनके सहजीवी साहचर्य हैं?",
+      "en": "Lichens, which are capable of initiating ecological succession even on a bare rock, are actually a symbiotic association of"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "शैवाल और जीवाणु",
+        "en": "algae and bacteria"
+      },
+      {
+        "id": "B",
+        "hi": "शैवाल और कवक",
+        "en": "algae and fungi"
+      },
+      {
+        "id": "C",
+        "hi": "जीवाणु और कवक",
+        "en": "bacteria and fungi"
+      },
+      {
+        "id": "D",
+        "hi": "कवक और मॉस",
+        "en": "fungi and mosses"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "लाइकेन (Lichen) वास्तव में शैवाल (Algae) और कवक (Fungi) का एक सहजीवी साहचर्य (Symbiotic association) है।",
+      "en": "Lichens are a symbiotic association between algae (or cyanobacteria) and fungi."
+    }
+  },
+  {
+    "id": 34,
+    "year": 2014,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा एक जीव, अन्य तीन जीवों के वर्ग का नहीं है?",
+      "en": "Which one of the following organisms does not belong to the class of the other three?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केकड़ा",
+        "en": "Crab"
+      },
+      {
+        "id": "B",
+        "hi": "बरूथी",
+        "en": "Mite"
+      },
+      {
+        "id": "C",
+        "hi": "बिच्छू",
+        "en": "Scorpion"
+      },
+      {
+        "id": "D",
+        "hi": "मकड़ी",
+        "en": "Spider"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "बरूथी (Mite), बिच्छू और मकड़ी एरेक्निडा (Arachnida) वर्ग से संबंधित हैं, जबकि केकड़ा (Crab) मैलाकोस्ट्राका (Malacostraca/Crustacea) वर्ग का जीव है।",
+      "en": "Mites, scorpions, and spiders belong to the class Arachnida, whereas crab belongs to the class Malacostraca (Crustacea). Thus, crab is the odd one out."
+    }
+  },
+  {
+    "id": 35,
+    "year": 2014,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "चमगादड़",
+        "en": "Bat"
+      },
+      {
+        "id": 2,
+        "hi": "भालू",
+        "en": "Bear"
+      },
+      {
+        "id": 3,
+        "hi": "कृंतक (रोडेन्ट)",
+        "en": "Rodent"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पर विचार कीजिये–\nउपर्युक्त में से किस प्रकार के जंतु में शीतनिष्क्रियता की परिघटना का प्रेक्षण किया जा सकता है?",
+      "en": "Consider the following:\nIn which of the above kinds of animals can the phenomenon of hibernation be observed?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "शीतनिष्क्रियता उपर्युक्त में से किसी में भी नहीं प्रेक्षित की जा सकती।",
+        "en": "Hibernation cannot be observed in any of the above."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "भालू (Bear), चमगादड़ (Bat) और कृंतक (Rodents) तीनों में ही सर्दियों से बचने के लिए शीतनिष्क्रियता (Hibernation) पाई जाती है।",
+      "en": "Hibernation can be observed in bats, bears, and rodents as an adaptation to survive harsh winter conditions. Thus, all three are correct."
+    }
+  },
+  {
+    "id": 36,
+    "year": 2014,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कुछ जाति के कीटों और बरूथियों के प्रचुरोद्भवन को नियंत्रित करने के लिये नीम के तेल का प्रयोग कीटनाशक के रूप में किया जा सकता है।",
+        "en": "Neem oil can be used as a pesticide to control the proliferation of some species of insects and mites."
+      },
+      {
+        "id": 2,
+        "hi": "नीम के बीजों का प्रयोग जैव-ईंधन और अस्पताल अपमार्जकों का निर्माण करने में होता है।",
+        "en": "Neem seeds are used in the manufacture of biofuels and hospital detergents."
+      },
+      {
+        "id": 3,
+        "hi": "नीम के तेल का अनुप्रयोग औषधि उद्योग में होता है।",
+        "en": "Neem oil has applications in pharmaceutical industry."
+      }
+    ],
+    "question": {
+      "hi": "नीम के पेड़ के संदर्भ में निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to Neem tree, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कथन 2 गलत है: यद्यपि नीम का उपयोग बायोडीजल में हो सकता है, लेकिन इसका उपयोग 'अस्पताल अपमार्जकों' (hospital detergents) में सामान्यतः नहीं किया जाता क्योंकि यह विषाक्त प्रभाव दे सकता है। कथन 1 और 3 सही हैं।",
+      "en": "Statement 2 is generally considered incorrect by UPSC as neem is not typically used for manufacturing hospital detergents (due to potential toxicity). Statements 1 and 3 are correct."
+    }
+  },
+  {
+    "id": 37,
+    "year": 2013,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "समुद्री गाय",
+        "en": "Sea cow"
+      },
+      {
+        "id": 2,
+        "hi": "समुद्री घोड़ा",
+        "en": "Sea horse"
+      },
+      {
+        "id": 3,
+        "hi": "समुद्री सिंह",
+        "en": "Sea lion"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित जंतुओं पर विचार कीजिये–\nउपर्युक्त में से कौन-सा/से स्तनधारी है/हैं?",
+      "en": "Consider the following animals:\nWhich of the above is/are mammal/mammals?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "समुद्री गाय (Dugong/Sea cow) और समुद्री सिंह (Sea lion) दोनों स्तनधारी (Mammals) हैं। समुद्री घोड़ा (Sea horse) एक प्रकार की मछली (Fish) है। अतः केवल 1 और 3 सही हैं।",
+      "en": "Sea cow (Dugong) and Sea lion are mammals. Sea horse is a type of fish. Thus, only 1 and 3 are mammals."
+    }
+  },
+  {
+    "id": 38,
+    "year": 2013,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सूखे का प्रतिरोध करने एवं अवशोषण क्षेत्र बढ़ाने की क्षमता आ जाती है।",
+        "en": "Resist drought and increase absorptive area"
+      },
+      {
+        "id": 2,
+        "hi": "pH की अतिसीमाओं को सहन करने की क्षमता आ जाती है।",
+        "en": "Tolerate extremes of pH"
+      },
+      {
+        "id": 3,
+        "hi": "रोगग्रस्तता से प्रतिरोध की क्षमता आ जाती है।",
+        "en": "Resist disease infestation"
+      }
+    ],
+    "question": {
+      "hi": "कवकमूलीय (Mycorrhizal) जैव प्रौद्योगिकी को निम्नीकृत स्थलों के पुनर्वासन में उपयोग में लाया गया है, क्योंकि कवकमूल के द्वारा पौधों में– \nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "Mycorrhizal biotechnology has been used in rehabilitating degraded sites because mycorrhiza enables the plants to:\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "कवकमूल (Mycorrhiza) कवक और पौधे की जड़ों के बीच का सहजीवी संबंध है। यह पौधों को सूखे और pH की चरम स्थितियों को सहन करने में मदद करता है, रोगों से बचाता है, और पानी व खनिजों के अवशोषण क्षेत्र को बढ़ाता है। अतः तीनों कथन सही हैं।",
+      "en": "Mycorrhiza is a symbiotic association between a fungus and the roots of a vascular plant. It helps plants to resist drought, tolerate pH extremes, resist diseases, and increases the absorptive area for water and nutrients. All three are correct."
+    }
+  },
+  {
+    "id": 39,
+    "year": 2013,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "विषाणुओं में ऊर्जा-उत्पादन के लिये आवश्यक एंजाइम नहीं होते।",
+        "en": "Viruses lack enzymes necessary for the generation of energy."
+      },
+      {
+        "id": 2,
+        "hi": "विषाणुओं को किसी भी संश्लेषित माध्यम में संवर्द्धित किया जा सकता है।",
+        "en": "Viruses can be cultured in any synthetic medium."
+      },
+      {
+        "id": 3,
+        "hi": "विषाणुओं का एक जीव से दूसरे जीव में संचारण केवल जैवकीय संवाहकों द्वारा ही होता है।",
+        "en": "Viruses are transmitted from one organism to another by biological vectors only."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों में से कौन-सा/से सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "Which of the following statements is/are correct?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कथन 2 गलत है: विषाणु जीवित कोशिकाओं के बाहर गुणन नहीं कर सकते, इसलिए उन्हें कृत्रिम/संश्लेषित माध्यम में संवर्द्धित नहीं किया जा सकता। कथन 3 गलत है: विषाणु हवा, पानी, और सतहों के माध्यम से भी फैल सकते हैं, केवल जैवकीय संवाहकों द्वारा नहीं। केवल कथन 1 सही है।",
+      "en": "Statement 2 is incorrect: Viruses cannot be cultured in a synthetic medium as they require living host cells to replicate. Statement 3 is incorrect: Viruses can be transmitted through air, water, and fomites, not 'only' by biological vectors. Only statement 1 is correct."
+    }
+  },
+  {
+    "id": 40,
+    "year": 2013,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "कई प्रतिरोपित पौधे इसलिये नहीं बढ़ते हैं, क्योंकि",
+      "en": "Many transplanted seedlings do not grow because"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "नई मिट्टी में इष्ट खनिज पदार्थ नहीं रहते हैं",
+        "en": "the new soil does not contain favorable minerals"
+      },
+      {
+        "id": "B",
+        "hi": "अधिकांश मूल रोम नई मिट्टी को अधिक सख्ती से जकड़ लेते हैं",
+        "en": "most of the root hairs grip the new soil too hard"
+      },
+      {
+        "id": "C",
+        "hi": "प्रतिरोपण के दौरान अधिकांश मूल रोम नष्ट हो जाते हैं",
+        "en": "most of the root hairs are lost during transplantation"
+      },
+      {
+        "id": "D",
+        "hi": "प्रतिरोपण के दौरान पत्तियाँ क्षतिग्रस्त हो जाती हैं",
+        "en": "leaves get damaged during transplantation"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "प्रतिरोपण (Transplanting) के दौरान पौधों के अधिकांश मूल रोम (Root Hairs) नष्ट हो जाते हैं। मूल रोम ही पानी और खनिजों को सोखने का मुख्य कार्य करते हैं, उनके नष्ट होने से पौधे सूख जाते हैं।",
+      "en": "During transplantation, most of the fine root hairs are lost or damaged. Root hairs are primarily responsible for the absorption of water and minerals, which is why the seedling struggles to grow."
+    }
+  },
+  {
+    "id": 41,
+    "year": 2013,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कैल्शियम",
+        "en": "Calcium"
+      },
+      {
+        "id": 2,
+        "hi": "लौह",
+        "en": "Iron"
+      },
+      {
+        "id": 3,
+        "hi": "सोडियम",
+        "en": "Sodium"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित खनिजों पर विचार कीजिये–\nउपर्युक्त खनिजों में से मानव शरीर में पेशियों के संकुचन के लिये किसकी/किनकी आवश्यकता होती है/हैं?",
+      "en": "Consider the following minerals:\nWhich of the minerals given above is/are required by human body for the contraction of muscles?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "पेशियों के संकुचन में कैल्शियम (Ca++) और सोडियम (Na+) आयनों की प्रत्यक्ष आवश्यकता होती है। लौह (Iron) मायोग्लोबिन का हिस्सा है जो पेशियों को ऑक्सीजन पहुँचाता है, जिससे वायवीय श्वसन होता है और पेशियों को संकुचन के लिए ऊर्जा मिलती है। अतः अप्रत्यक्ष रूप से इसकी भी आवश्यकता है। अतः तीनों सही हैं।",
+      "en": "Calcium and Sodium ions are directly involved in muscle contraction. Iron is a component of myoglobin, which provides the oxygen necessary for aerobic respiration to supply energy for muscle contraction. Hence, all three are required."
+    }
+  },
+  {
+    "id": 42,
+    "year": 2013,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "चिकनगुनिया",
+        "en": "Chikungunya"
+      },
+      {
+        "id": 2,
+        "hi": "हेपेटाइटिस-बी",
+        "en": "Hepatitis-B"
+      },
+      {
+        "id": 3,
+        "hi": "एचआईवी-एड्स",
+        "en": "HIV-AIDS"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित बीमारियों में से कौन-सी टैटू बनवाने के द्वारा एक व्यक्ति से दूसरे व्यक्ति में संचारित हो सकती है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "Which of the following diseases can be transmitted from one person to another through tattooing?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "टैटू बनवाने (सुई के माध्यम से रक्त संपर्क) से हेपेटाइटिस-बी और एचआईवी-एड्स जैसी रक्त-जनित बीमारियां संचारित हो सकती हैं। चिकनगुनिया मच्छरों (एडीज) के काटने से होता है। अतः 2 और 3 सही हैं।",
+      "en": "Blood-borne diseases like Hepatitis-B and HIV-AIDS can be transmitted through infected needles used in tattooing. Chikungunya is transmitted by mosquito bites. Thus, only 2 and 3 are correct."
+    }
+  },
+  {
+    "id": 43,
+    "year": 2013,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "एगैरिकस",
+        "en": "Agaricus"
+      },
+      {
+        "id": 2,
+        "hi": "नॉस्टॉक",
+        "en": "Nostoc"
+      },
+      {
+        "id": 3,
+        "hi": "स्पाइरोगाइरा",
+        "en": "Spirogyra"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित जीवों पर विचार कीजिये–\nउपर्युक्त में से कौन-सा/से जैव उर्वरक के रूप में प्रयुक्त होता है/होते हैं?",
+      "en": "Consider the following organisms:\nWhich of the above is/are used as biofertilizer/biofertilizers?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "नॉस्टॉक (Nostoc) एक नीले-हरे शैवाल (सायनोबैक्टीरिया) का प्रकार है जो नाइट्रोजन स्थिरीकरण करता है, इसलिए इसका उपयोग जैव उर्वरक के रूप में किया जाता है। एगैरिकस एक मशरूम है और स्पाइरोगाइरा एक शैवाल है जो नाइट्रोजन स्थिरीकरण नहीं करता।",
+      "en": "Nostoc is a cyanobacterium (blue-green algae) capable of nitrogen fixation, thus used as a biofertilizer. Agaricus is a mushroom (fungi) and Spirogyra is a green algae not used as a biofertilizer."
+    }
+  },
+  {
+    "id": 44,
+    "year": 2013,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "अनाजों और तिलहनों के अनुपयुक्त रख-रखाव और भंडारण के परिणामस्वरूप आविषों (Toxins) का उत्पादन होता है, जिन्हें अफ्लाटॉक्सिन (Aflatoxin) के नाम से जाना जाता है, जो सामान्यतः भोजन बनाने की आम विधि द्वारा नष्ट नहीं होते। अफ्लाटॉक्सिन किसके द्वारा उत्पादित होते हैं?",
+      "en": "Improper handling and storage of cereal grains and oilseeds result in the production of toxins known as aflatoxins which are not generally destroyed by normal cooking process. Aflatoxins are produced by:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "जीवाणु",
+        "en": "bacteria"
+      },
+      {
+        "id": "B",
+        "hi": "प्रोटोज़ोआ",
+        "en": "protozoa"
+      },
+      {
+        "id": "C",
+        "hi": "फफूँदी",
+        "en": "fungi"
+      },
+      {
+        "id": "D",
+        "hi": "विषाणु",
+        "en": "viruses"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "अफ्लाटॉक्सिन (Aflatoxin) विषैले रसायन होते हैं जो कुछ प्रकार के कवकों/फफूँदी (मुख्य रूप से Aspergillus flavus और Aspergillus parasiticus) द्वारा उत्पन्न होते हैं।",
+      "en": "Aflatoxins are poisonous carcinogens and mutagens that are produced by certain molds/fungi (particularly Aspergillus species) which grow in soil, decaying vegetation, hay, and grains."
+    }
+  },
+  {
+    "id": 45,
+    "year": 2013,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "शीत कोष्ठ में भंडारित फल अधिक समय तक चलते हैं, क्योंकि–",
+      "en": "Fruits stored in a cold chamber exhibit longer storage life because"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सूरज की रोशनी नहीं पड़ने दी जाती है",
+        "en": "exposure to sunlight is prevented"
+      },
+      {
+        "id": "B",
+        "hi": "पर्यावरण में कार्बन डाइऑक्साइड की सान्द्रता बढ़ा दी जाती है",
+        "en": "concentration of carbon dioxide in the environment is increased"
+      },
+      {
+        "id": "C",
+        "hi": "श्वसन की दर घटा दी जाती है",
+        "en": "rate of respiration is decreased"
+      },
+      {
+        "id": "D",
+        "hi": "आर्द्रता बढ़ जाती है",
+        "en": "there is an increase in humidity"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कम तापमान पर फलों की श्वसन दर (Respiration rate) घट जाती है, जिससे उनके पकने और सड़ने की प्रक्रिया धीमी हो जाती है और वे अधिक समय तक सुरक्षित रहते हैं।",
+      "en": "Cold storage lowers the temperature, which decreases the rate of respiration in fruits. This slows down the ripening and decaying process, thereby extending their shelf life."
+    }
+  },
+  {
+    "id": 46,
+    "year": 2012,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "चमगादड़",
+        "en": "Bat"
+      },
+      {
+        "id": 2,
+        "hi": "मधुमक्खी",
+        "en": "Bee"
+      },
+      {
+        "id": 3,
+        "hi": "पक्षी",
+        "en": "Bird"
+      }
+    ],
+    "question": {
+      "hi": "जीवों के निम्नलिखित प्रकारों पर विचार कीजिये–\nउपर्युक्त में से कौन-सा/से परागणकारी है/हैं?",
+      "en": "Consider the following kinds of organisms:\nWhich of the above is/are pollinating agent/agents?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "चमगादड़, मधुमक्खियां और पक्षी तीनों ही पौधों में परागण (Pollination) का कार्य करते हैं। अतः सभी 1, 2 और 3 सही हैं।",
+      "en": "Bats, bees, and birds all act as pollinating agents for various plants. Thus, all 1, 2, and 3 are correct."
+    }
+  },
+  {
+    "id": 47,
+    "year": 2012,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सूखा सहन करने के लिये उन्हें सक्षम बनाना",
+        "en": "To enable them to withstand drought"
+      },
+      {
+        "id": 2,
+        "hi": "उत्पाद में पोषकीय मान बढ़ाना",
+        "en": "To increase the nutritive value of the produce"
+      },
+      {
+        "id": 3,
+        "hi": "अंतरिक्ष यानों और अंतरिक्ष स्टेशनों में उन्हें उगने और प्रकाश संश्लेषण करने के लिये सक्षम बनाना",
+        "en": "To enable them to grow and do photosynthesis in spaceships and space stations"
+      },
+      {
+        "id": 4,
+        "hi": "उनकी शेल्फ (Shelf) लाइफ बढ़ाना",
+        "en": "To increase their shelf life"
+      }
+    ],
+    "question": {
+      "hi": "पीड़कों (Pests) को प्रतिरोध के अतिरिक्त, वे कौन-सी सम्भावनाएँ हैं, जिनके लिये आनुवंशिक रूप से रूपान्तरित पादपों का निर्माण किया गया है?\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये–",
+      "en": "Other than resistance to pests, what are the prospects for which genetically engineered plants have been created?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3 और 4",
+        "en": "3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 2 और 4",
+        "en": "1, 2 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "आनुवंशिक रूप से संशोधित (GM) पौधों का विकास सूखा सहने (Drought resistance), पोषण मूल्य बढ़ाने (जैसे गोल्डन राइस), और शेल्फ लाइफ बढ़ाने (जैसे फ्लेवर सेवर टमाटर) के लिए किया गया है। अंतरिक्ष स्टेशनों में उगाने के लिए GM फसलों का मुख्य उद्देश्य नहीं है। अतः 1, 2 और 4 सही हैं।",
+      "en": "Genetically modified (GM) plants are developed for drought resistance, increasing nutritional value (e.g. Golden Rice), and increasing shelf life (e.g. Flavr Savr tomato). Growing them in spaceships is not a primary prospect for creating GM crops. Thus, 1, 2, and 4 are correct."
+    }
+  },
+  {
+    "id": 48,
+    "year": 2012,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "जीवाणु",
+        "en": "Bacteria"
+      },
+      {
+        "id": 2,
+        "hi": "कवक",
+        "en": "Fungi"
+      },
+      {
+        "id": 3,
+        "hi": "पुष्पीय पादप",
+        "en": "Flowering plants"
+      }
+    ],
+    "question": {
+      "hi": "जीवों के निम्नलिखित प्रकारों पर विचार कीजिये–\nउपर्युक्त जीव-प्रकारों में से किसकी/किनकी कुछ जातियों को जैव पीड़कनाशियों के रूप में प्रयोग किया जाता है?",
+      "en": "Consider the following kinds of organisms:\nSome species of which of the above kinds of organisms are employed as biopesticides?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "जैव पीड़कनाशी (Biopesticides) के रूप में जीवाणु (जैसे बैसिलस थुरिंजिएंसिस), कवक (जैसे ट्राइकोडर्मा), और पुष्पीय पादप (जैसे क्राइसेंथेमम से पाइरेथ्रम या नीम) का उपयोग किया जाता है। अतः तीनों सही हैं।",
+      "en": "Bacteria (e.g., Bacillus thuringiensis), fungi (e.g., Trichoderma), and flowering plants (e.g., Pyrethrum from Chrysanthemum or Neem) are all used as biopesticides. Thus, all three are correct."
+    }
+  },
+  {
+    "id": 49,
+    "year": 2011,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "आहार में नियमित रूप से ताज़े फल और सब्ज़ियाँ ग्रहण करना वांछनीय है, क्योंकि ये ऑक्सीकरण-रोधी (Antioxidants) तत्त्वों के अच्छे स्रोत होते हैं। ऑक्सीकरण-रोधी तत्त्व व्यक्ति के स्वस्थ बने रहने और दीर्घायु होने में किस प्रकार सहायक सिद्ध होते हैं?",
+      "en": "Regular intake of fresh fruits and vegetables is recommended in the diet since they are a good source of antioxidants. How do antioxidants help a person maintain health and promote longevity?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ये शरीर में उन एंजाइमों को सक्रिय कर देते हैं, जो विटामिनों के संश्लेषण के लिये आवश्यक होते हैं और विटामिन-हीनता नहीं होने देने में मदद करते हैं",
+        "en": "They activate the enzymes necessary for vitamin synthesis in the body and help prevent vitamin deficiency"
+      },
+      {
+        "id": "B",
+        "hi": "ये शरीर में कार्बोहाइड्रेट, वसा तथा प्रोटीन के अतिरिक्त ऑक्सीकरण को रोकते हैं और ऊर्जा को अनावश्यक नष्ट होने से बचाने में मदद करते हैं",
+        "en": "They prevent excessive oxidation of carbohydrates, fats and proteins in the body and help avoid unnecessary wastage of energy"
+      },
+      {
+        "id": "C",
+        "hi": "ये शरीर में उपापचय (Metabolism) के उपोत्पाद के रूप में उत्पन्न मुक्त मूलकों को निष्क्रिय बनाते हैं",
+        "en": "They neutralize the free radicals produced in the body during metabolism"
+      },
+      {
+        "id": "D",
+        "hi": "ये शरीर की कोशिकाओं में कुछ जीन को सक्रिय करते हैं और वृद्धत्व की क्रिया को विलम्बित करने में मदद करते हैं",
+        "en": "They activate certain genes in the cells of the body and help delay the aging process"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "ऑक्सीकरण-रोधी (Antioxidants) वे पदार्थ हैं जो शरीर की कोशिकाओं को 'मुक्त मूलकों' (Free radicals) से होने वाले नुकसान से बचाते हैं। मुक्त मूलक उपापचय (Metabolism) के दौरान उत्पन्न होते हैं। इन्हें निष्क्रिय बनाकर एंटीऑक्सीडेंट्स स्वस्थ और दीर्घायु रहने में मदद करते हैं।",
+      "en": "Antioxidants protect the cells in the body from damage caused by 'free radicals', which are highly reactive molecules produced as a by-product of normal metabolism. By neutralizing these free radicals, they help maintain health."
+    }
+  },
+  {
+    "id": 50,
+    "year": 2011,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "ये जीवित जीवों को उत्प्रेरक के रूप में प्रयुक्त कर कुछ सबस्ट्रेटों से विद्युतीय उत्पादन कर सकती हैं।",
+        "en": "They use living organisms as catalysts to generate electricity from certain substrates."
+      },
+      {
+        "id": 2,
+        "hi": "ये विविध प्रकार के अजैव पदार्थ सबस्ट्रेट के रूप में प्रयुक्त करती हैं।",
+        "en": "They use a variety of inorganic materials as substrates."
+      },
+      {
+        "id": 3,
+        "hi": "ये जल का शोधन और विद्युत् उत्पादन करने के लिये अपशिष्ट जल शोधन संयंत्रों में स्थापित की जा सकती हैं।",
+        "en": "They can be installed in wastewater treatment plants to cleanse water and produce electricity."
+      }
+    ],
+    "question": {
+      "hi": "सूक्ष्मजैविक ईंधन कोशिकाएँ (माइक्रोबियल फ्यूल सेल्स) ऊर्जा का धारणीय (सस्टेनेबल) स्रोत समझी जाती हैं। क्यों?\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Microbial fuel cells are considered a source of sustainable energy. Why?\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "माइक्रोबियल फ्यूल सेल जीवित जीवों (सूक्ष्मजीवों) का उपयोग करके कार्बनिक पदार्थों (अजैव नहीं) का ऑक्सीकरण करते हैं और विद्युत उत्पन्न करते हैं। इनका उपयोग अपशिष्ट जल शोधन संयंत्रों में किया जा सकता है। कथन 2 गलत है क्योंकि ये मुख्य रूप से 'जैव/कार्बनिक' (organic) पदार्थों का उपयोग करते हैं। अतः 1 और 3 सही हैं।",
+      "en": "Microbial fuel cells use living organisms to generate electricity by oxidizing 'organic' matter (not inorganic). Thus, statement 2 is incorrect. They can be installed in wastewater treatment plants to cleanse water while producing electricity. Thus, 1 and 3 are correct."
+    }
+  },
+  {
+    "id": 51,
+    "year": 2011,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "जब किसी वृक्ष की छाल, वृक्ष के आधार के पास से गोलाकार चारों तरफ से हटा दी जाती है, तो यह वृक्ष धीरे-धीरे सूखकर मर जाता है, क्योंकि–",
+      "en": "If the bark of a tree is removed in a circular fashion all around near its base, it gradually dries up and dies because:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "मृदा से जल वायव अंगों में नहीं पहुँच पाता",
+        "en": "water from soil cannot rise to aerial parts"
+      },
+      {
+        "id": "B",
+        "hi": "जड़ें ऊर्जा से वंचित रह जाती हैं",
+        "en": "roots are starved of energy"
+      },
+      {
+        "id": "C",
+        "hi": "वृक्ष मृदा-जीवाणुओं से संक्रमित हो जाता है",
+        "en": "tree is infected by soil microbes"
+      },
+      {
+        "id": "D",
+        "hi": "जड़ों को श्वसन हेतु ऑक्सीजन नहीं प्राप्त हो पाता",
+        "en": "roots do not receive oxygen for respiration"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "वृक्ष की छाल के भीतर फ्लोएम (Phloem) होता है जो पत्तियों से भोजन (ऊर्जा) को जड़ों तक पहुँचाता है। यदि छाल को गोलाकार हटा दिया जाए, तो भोजन जड़ों तक नहीं पहुँच पाता, जिससे जड़ें ऊर्जा से वंचित रह जाती हैं और वृक्ष सूख जाता है। (जल के परिवहन के लिए जाइलम अंदर होता है)।",
+      "en": "The bark contains the phloem, which transports food (energy) from the leaves down to the roots. If the bark is removed, the roots are starved of food/energy and eventually die, killing the tree. (Xylem, which transports water, is deeper inside)."
+    }
+  },
+  {
+    "id": 52,
+    "year": 2011,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "एक विवाहित दंपत्ति ने एक बालक को गोद लिया। इसके कुछ वर्ष उपरान्त उन्हें जुड़वाँ पुत्र हुए। दंपत्ति में एक का रक्त वर्ग AB पॉजिटिव है और दूसरे का O नेगेटिव है। तीनों पुत्रों में से एक का रक्त वर्ग A पॉजिटिव, दूसरे का B पॉजिटिव और तीसरे का O पॉजिटिव है। गोद लिये गए पुत्र का रक्त वर्ग कौन-सा है?",
+      "en": "A married couple adopted a male child. A few years later, twin boys were born to them. The blood group of the couple is AB positive and O negative. The blood group of the three sons is A positive, B positive, and O positive. The blood group of the adopted son is:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "O पॉजिटिव",
+        "en": "O positive"
+      },
+      {
+        "id": "B",
+        "hi": "A पॉजिटिव",
+        "en": "A positive"
+      },
+      {
+        "id": "C",
+        "hi": "B पॉजिटिव",
+        "en": "B positive"
+      },
+      {
+        "id": "D",
+        "hi": "उपलब्ध जानकारी के आधार पर कहा नहीं जा सकता",
+        "en": "Cannot be determined on the basis of the given data"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "यदि माता-पिता का ब्लड ग्रुप AB और O है, तो उनके जैविक बच्चों का ब्लड ग्रुप केवल A या B हो सकता है (O या AB नहीं हो सकता)। चूंकि उनके तीन बेटों में से एक का ब्लड ग्रुप O+ है, इसलिए वही बच्चा गोद लिया हुआ है।",
+      "en": "If the parents have blood groups AB and O, their biological children can only have blood group A or B (never O or AB). Since one of the three sons has blood group O positive, he must be the adopted son."
+    }
+  },
+  {
+    "id": 53,
+    "year": 2011,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कंपनी के आहार उत्पाद हाइड्रोजनीकृत तेलों से नहीं निर्मित किये जाते।",
+        "en": "The food products are not made out of hydrogenated oils."
+      },
+      {
+        "id": 2,
+        "hi": "कंपनी के आहार उत्पाद पशु उत्पन्न वसा/तेलों से नहीं निर्मित किये जाते।",
+        "en": "The food products are not made out of animal fats/oils."
+      },
+      {
+        "id": 3,
+        "hi": "कंपनी के द्वारा प्रयुक्त तेल संभवतया उपभोक्ताओं के हृद्वाहिका स्वास्थ्य को क्षति नहीं पहुँचाएगा।",
+        "en": "The oils used are not likely to damage the cardiovascular health of the consumers."
+      }
+    ],
+    "question": {
+      "hi": "आहार-उत्पादों के विक्रय में जुटी एक कंपनी यह विज्ञापित करती है कि उसके उत्पादों में ट्रांस-वसा (ट्रांसफैट्स) नहीं होती। उसके इस अभियान का उपभोक्ताओं के लिये क्या अभिप्राय है?\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "A company marketing food products advertises that its items do not contain trans-fats. What does this campaign signify to the customers?\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "ट्रांस फैट मुख्य रूप से वनस्पति तेलों के हाइड्रोजनीकरण (Hydrogenation) से बनते हैं और हृदय रोगों (Cardiovascular health) के जोखिम को बढ़ाते हैं। इसलिए 'जीरो ट्रांस फैट' का अर्थ है कि इसमें हाइड्रोजनीकृत तेलों का प्रयोग नहीं हुआ है और यह हृदय के लिए कम हानिकारक है। पशु वसा का इससे सीधा संबंध नहीं है। अतः 1 और 3 सही हैं।",
+      "en": "Trans fats are primarily created artificially during the hydrogenation of vegetable oils and are known to increase the risk of cardiovascular diseases. 'No trans-fats' signifies the absence of hydrogenated oils and a lower risk to cardiovascular health. It does not necessarily mean the absence of animal fats. Thus, 1 and 3 are correct."
+    }
+  },
+  {
+    "id": 54,
+    "year": 2011,
+    "subject": "General Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "बाज़ार में बिकने वाला ऐस्पर्टेम (Aspartame) कृत्रिम मधुरक है। यह अमीनो अम्लों से बना होता है और अन्य अमीनो अम्लों के समान ही कैलोरी प्रदान करता है, फिर भी यह भोज्य पदार्थों में कम कैलोरी मधुरक के रूप में इस्तेमाल होता है। इसके इस इस्तेमाल का क्या आधार है?",
+      "en": "Aspartame is an artificial sweetener sold in the market. It consists of amino acids and provides calories like other amino acids. Yet, it is used as a low-calorie sweetening agent in food items. What is the basis of this use?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ऐस्पर्टेम सामान्य चीनी जितना ही मीठा होता है, किंतु चीनी के विपरीत यह मानव शरीर में आवश्यक एंजाइमों के अभाव के कारण शीघ्र ऑक्सीकृत नहीं हो पाता",
+        "en": "Aspartame is as sweet as table sugar, but unlike table sugar, it is not readily oxidized in human body due to lack of requisite enzymes"
+      },
+      {
+        "id": "B",
+        "hi": "जब ऐस्पर्टेम आहार प्रसंस्करण में प्रयुक्त होता है, तब उसका मीठा स्वाद तो बना रहता है, किंतु यह ऑक्सीकरण-प्रतिरोधी हो जाता है",
+        "en": "When aspartame is used in food processing, the sweet taste remains, but it becomes resistant to oxidation"
+      },
+      {
+        "id": "C",
+        "hi": "ऐस्पर्टेम चीनी जितना ही मीठा होता है, किंतु शरीर में अंतर्ग्रहण होने के बाद यह कुछ ऐसे उपापचयों (मेटाबोलाइट्स) में परिवर्तित हो जाता है, जो कोई कैलोरी नहीं देते",
+        "en": "Aspartame is as sweet as sugar, but after ingestion into the body, it converts into metabolites that yield no calories"
+      },
+      {
+        "id": "D",
+        "hi": "ऐस्पर्टेम सामान्य चीनी से कई गुना अधिक मीठा होता है, अतः थोड़े-से ऐस्पर्टेम में बने भोज्य पदार्थ ऑक्सीकृत होने पर कम कैलोरी प्रदान करते हैं",
+        "en": "Aspartame is several times sweeter than table sugar, hence food items made with small quantities of aspartame yield fewer calories on oxidation"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "ऐस्पर्टेम सामान्य चीनी की तुलना में लगभग 200 गुना अधिक मीठा होता है। इसलिए, मिठास का समान स्तर प्राप्त करने के लिए इसकी बहुत कम मात्रा की आवश्यकता होती है, जिससे इससे प्राप्त होने वाली कैलोरी की मात्रा नगण्य हो जाती है।",
+      "en": "Aspartame is about 200 times sweeter than regular table sugar. Because it is so much sweeter, only a very tiny amount is needed to sweeten food or drinks, making the calorie contribution virtually negligible."
+    }
+  }
+]

@@ -1,0 +1,3333 @@
+[
+  {
+    "id": 1,
+    "year": "2025",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह एक सर्वाहारी परुश-कवची (क्रस्टेशियाई) है।",
+        "en": "It is an omnivorous crustacean."
+      },
+      {
+        "id": 2,
+        "hi": "इसका प्राकृतिक आवास भारत में केवल कुछ वनों तक ही सीमित है।",
+        "en": "Its natural habitat is restricted to only a few forests in India."
+      },
+      {
+        "id": 3,
+        "hi": "अपने प्राकृतिक आवास में यह एक वृक्षीय जाति है।",
+        "en": "In its natural habitat, it is an arboreal species."
+      }
+    ],
+    "question": {
+      "hi": "पीकॉक टैरेंटुला (गूटी टैरेंटुला) के बारे में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/कौन-से सही है/हैं?",
+      "en": "With reference to the Peacock Tarantula (Gooty Tarantula), consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल I",
+        "en": "I only"
+      },
+      {
+        "id": "B",
+        "hi": "I और III",
+        "en": "I and III"
+      },
+      {
+        "id": "C",
+        "hi": "केवल II",
+        "en": "II only"
+      },
+      {
+        "id": "D",
+        "hi": "II और III",
+        "en": "II and III"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "पीकॉक टैरेंटुला एक अरैक्निड (मकड़ी) है, न कि कोई क्रस्टेशियाई प्राणी। यह सर्वाहारी (omnivorous) भी नहीं है, बल्कि यह एक शिकारी (predator) है जो मुख्यत: कीटों और अन्य छोटे अकशेरुकी जीवों का शिकार करता है। अतः कथन I सही नहीं है। यह मकड़ी की एक गंभीर रूप से संकटग्रस्त (critically endangered) प्रजाति है, जो भारत में पाई जाती है। यह केवल आंध्र प्रदेश के एक छोटे वन क्षेत्र, विशेषकर पूर्वी घाट में गूटी नामक नगर के पास पाई जाती है। अतः कथन II सही है। यह प्रजाति वृक्षवासी (arboreal) है अर्थात् यह पेड़ों पर निवास करती है। अतः कथन III सही है। अतः विकल्प (d) सही है।",
+      "en": "The Peacock Tarantula is an arachnid (spider), not a crustacean. It is not omnivorous, but a predator that mainly preys on insects and other small invertebrates. Hence, statement I is incorrect. It is a critically endangered species of spider found in India. It is restricted to a small forest area in Andhra Pradesh, specifically near the town of Gooty in the Eastern Ghats. Hence, statement II is correct. This species is arboreal, meaning it lives in trees. Hence, statement III is correct. Thus, option (d) is correct."
+    }
+  },
+  {
+    "id": 2,
+    "year": "2024",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "जीव 'सिकाडा (साइकेडा)', 'मंडूकफुदक (फ्रॉगहॉपर)' और 'ताल-विसर्पी (पॉन्ड स्केटर)' क्या हैं?",
+      "en": "What are the organisms 'Cicada', 'Froghopper' and 'Pond skater'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "पक्षी",
+        "en": "Birds"
+      },
+      {
+        "id": "B",
+        "hi": "मत्स्य",
+        "en": "Fishes"
+      },
+      {
+        "id": "C",
+        "hi": "कीट",
+        "en": "Insects"
+      },
+      {
+        "id": "D",
+        "hi": "सरीसृप",
+        "en": "Reptiles"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "सिकाडा ऐसे कीट हैं जो अपना अधिकांश जीवन भूमिगत रूप से निम्फ के रूप में बिताने के साथ पेड़ की जड़ों से रस चूसते हैं। फ्रॉगहॉपर एक कीट है। शीर्ष पर नुकीले होने के साथ इनके शरीर का मध्य भाग संकीर्ण होता है तथा यह कूदने वाले मेंढक की तरह दिखते हैं। पॉन्ड स्केटर (वाटर स्ट्राइडर) लंबे पादयुक्त वाले कीट समूह हैं जो जल की सतह पर रहते हैं। अतः विकल्प (c) सही है।",
+      "en": "Cicadas are insects that spend most of their lives underground as nymphs, sucking sap from tree roots. A froghopper is an insect. Their bodies are pointed at the head and narrow in the middle, and they look like jumping frogs. Pond skaters (water striders) are a group of long-legged insects that live on the surface of the water. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 3,
+    "year": "2024",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "ब्राज़ील : इंद्री",
+        "en": "Brazil : Indri"
+      },
+      {
+        "id": 2,
+        "hi": "इंडोनेशिया : एल्क",
+        "en": "Indonesia : Elk"
+      },
+      {
+        "id": 3,
+        "hi": "मेडागास्कर : बोनोबो",
+        "en": "Madagascar : Bonobo"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये (देश और अपने प्राकृतिक आवास में पाया जाने वाला जंतु):\nउपर्युक्त युग्मों में से कितने सही सुमेलित हैं?",
+      "en": "Consider the following pairs (Country and Animal found in its natural habitat):\nHow many of the above pairs are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "इंद्री, मेडागास्कर का स्थानिक है। अतः युग्म 1 सही नहीं है। एल्क (लाल हिरण) उत्तरी अमेरिका तथा मध्य एशिया के ऊँचे पहाड़ों में पाया जाता है। अतः युग्म 2 सही नहीं है। बोनोबो को केवल कांगो लोकतांत्रिक गणराज्य (DRC) में कांगो नदी के दक्षिण में स्थित जंगलों में देखा जा सकता है। अतः युग्म 3 सही नहीं है। अतः विकल्प (d) सही है।",
+      "en": "The indri is endemic to Madagascar. Hence, pair 1 is not correct. The elk (red deer) is found in the high mountains of North America and Central Asia. Hence, pair 2 is not correct. The bonobo can only be found in the forests south of the Congo River in the Democratic Republic of the Congo (DRC). Hence, pair 3 is not correct. Thus, option (d) is correct."
+    }
+  },
+  {
+    "id": 4,
+    "year": "2024",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सिंह की कोई विशेष प्रजनन ऋतु नहीं होती है।",
+        "en": "Lions have no specific breeding season."
+      },
+      {
+        "id": 2,
+        "hi": "अधिकांश अन्य बड़ी बिल्लियों से भिन्न, चीता दहाड़ता नहीं है।",
+        "en": "Unlike most other big cats, cheetahs do not roar."
+      },
+      {
+        "id": 3,
+        "hi": "नर सिंह से भिन्न, नर तेंदुए गंध चिह्न द्वारा अपना क्षेत्र घोषित नहीं करते हैं।",
+        "en": "Unlike male lions, male leopards do not declare their territory by scent marking."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "सिंह की कोई विशेष प्रजनन ऋतु नहीं होती है। मादा सिंह लगभग हर दो वर्ष में गर्भ धारण करती है। अतः कथन 1 सही है। चीते 'गुराने वाली बिल्लियों' के उप-समूह से संबंधित हैं, इसलिये यह दहाड़ते नहीं हैं। अतः कथन 2 सही है। नर और मादा तेंदुए, दोनों ही अपने क्षेत्रों को चिह्नित करने के लिये मूत्र की गंध का उपयोग करते हैं तथा गंध चिह्न द्वारा अपना क्षेत्र घोषित करते हैं। अतः कथन 3 सही नहीं है। अतः विकल्प (a) सही है।",
+      "en": "Lions do not have a specific breeding season. A lioness conceives approximately once every two years. Hence, statement 1 is correct. Cheetahs belong to the 'purring cats' sub-group, so they do not roar. Hence, statement 2 is correct. Both male and female leopards use urine scent to mark their territories and declare their territory by scent marking. Hence, statement 3 is not correct. Thus, option (a) is correct."
+    }
+  },
+  {
+    "id": 5,
+    "year": "2024",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा वृक्ष, एक ऐसे कीट के साथ एक अद्वितीय संबंध को दर्शाता है जो इस वृक्ष के साथ सह-विकसित हुआ है और वह एकमात्र कीट है जो इस पेड़ को परागित कर सकता है?",
+      "en": "Which of the following trees shows a unique relationship with an insect that has co-evolved with this tree and is the only insect that can pollinate this tree?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अंजीर",
+        "en": "Fig"
+      },
+      {
+        "id": "B",
+        "hi": "महुआ",
+        "en": "Mahua"
+      },
+      {
+        "id": "C",
+        "hi": "चंदन",
+        "en": "Sandalwood"
+      },
+      {
+        "id": "D",
+        "hi": "सेमल (सिल्क कॉटन)",
+        "en": "Silk cotton"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "अंजीर का पेड़ अपनी वायवीय मूल के लिये प्रसिद्ध है। इस वृक्ष का एक कीट, अंजीर ततैया (Fig Wasp) के साथ भी अद्वितीय संबंध है जो इसके साथ ही विकसित होता है और एकमात्र कीट है जो इसे परागित कर सकता है। अतः विकल्प (a) सही है। महुआ का परागण मुख्य रूप से चमगादड़ों और पक्षियों द्वारा होता है। चंदन एक अर्द्ध-परजीवी वृक्ष है लेकिन इसका परागण कीटों (तितलियों, मधुमक्खियों) द्वारा होता है। सेमल (सिल्क कॉटन) के बड़े लाल फूलों का परागण मुख्य रूप से पक्षियों द्वारा होता है।",
+      "en": "The fig tree is famous for its aerial roots. This tree also has a unique relationship with an insect, the fig wasp, which co-evolves with it and is the only insect that can pollinate it. Hence, option (a) is correct. Mahua is pollinated primarily by bats and birds. Sandalwood is a hemi-parasitic tree, but its pollination is done by insects (butterflies, bees). The large red flowers of the silk cotton tree are primarily pollinated by birds."
+    }
+  },
+  {
+    "id": 6,
+    "year": "2024",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "तितली",
+        "en": "Butterfly"
+      },
+      {
+        "id": 2,
+        "hi": "मत्स्य",
+        "en": "Fish"
+      },
+      {
+        "id": 3,
+        "hi": "मंडूक (मेंढक)",
+        "en": "Frog"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पर विचार कीजिये:\nउपर्युक्त में से कितनों में विषाक्त जातियाँ हैं?",
+      "en": "Consider the following:\nHow many of the above have poisonous species?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "तितलियों की कई प्रजातियाँ विषाक्त होती हैं (जैसे- रेड लेसिंग तितली)। मत्स्य की विभिन्न प्रजातियों में ज़हरीले बायोटॉक्सिन होते हैं (जैसे- पैरट फिश, ट्रिगरफिश)। कुछ मेंढक भी ज़हरीले हो सकते हैं (जैसे- पॉइज़न डार्ट मेंढक)। अतः तीनों में विषाक्त प्रजातियाँ होती हैं। अतः विकल्प (c) सही है।",
+      "en": "Many species of butterflies are poisonous (e.g., Red Lacewing butterfly). Various species of fish contain poisonous biotoxins (e.g., parrot fish, triggerfish). Some frogs can also be poisonous (e.g., poison dart frogs). Therefore, all three have poisonous species. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 7,
+    "year": "2024",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "काजू",
+        "en": "Cashew"
+      },
+      {
+        "id": 2,
+        "hi": "पपीता",
+        "en": "Papaya"
+      },
+      {
+        "id": 3,
+        "hi": "रक्त चंदन",
+        "en": "Red Sanders"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पर विचार कीजिये:\nउपर्युक्त में से कितने वृक्ष वास्तव में भारत के देशीय वृक्ष हैं?",
+      "en": "Consider the following:\nHow many of the above trees are actually native to India?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "काजू ब्राज़ील के उष्णकटिबंधीय क्षेत्रों का स्थानिक है जिसे पुर्तगाली भारत लाए थे। पपीते की उत्पत्ति दक्षिण मैक्सिको और कोस्टा रिका में हुई थी। रक्त चंदन (Red Sanders) भारत का स्थानिक है और केवल पूर्वी घाट के दक्षिणी भागों में इसे देखा जा सकता है। अतः केवल एक वृक्ष भारत का देशीय (स्थानिक) है। अतः विकल्प (a) सही है।",
+      "en": "Cashew is endemic to the tropical regions of Brazil and was brought to India by the Portuguese. Papaya originated in southern Mexico and Costa Rica. Red Sanders is endemic to India and can be seen only in the southern parts of the Eastern Ghats. Thus, only one tree is native to India. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 8,
+    "year": "2024",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इंडियन फ्लाइंग फॉक्स को वन्य जीव (संरक्षण) अधिनियम, 1972 के अधीन 'पीड़क जंतु' (Vermin) की श्रेणी में रखा गया है।",
+        "en": "Indian Flying Fox is placed in the 'Vermin' category under the Wildlife (Protection) Act, 1972."
+      },
+      {
+        "id": 2,
+        "hi": "इंडियन फ्लाइंग फॉक्स अन्य जंतुओं का रक्त पीता है।",
+        "en": "Indian Flying Fox feeds on the blood of other animals."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों के संबंध में, निम्नलिखित में से कौन-सा सही है?",
+      "en": "Consider the following statements:\nWhich one of the following is correct in respect of the above statements?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कथन-I और कथन-II दोनों सही हैं तथा कथन-II, कथन-I की व्याख्या करता है",
+        "en": "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I"
+      },
+      {
+        "id": "B",
+        "hi": "कथन-I और कथन-II दोनों सही हैं, किंतु कथन-II, कथन-I की व्याख्या नहीं करता है",
+        "en": "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I"
+      },
+      {
+        "id": "C",
+        "hi": "कथन-I सही है, किंतु कथन-II सही नहीं है",
+        "en": "Statement-I is correct, but Statement-II is not correct"
+      },
+      {
+        "id": "D",
+        "hi": "कथन-I सही नहीं है, किंतु कथन-II सही है",
+        "en": "Statement-I is not correct, but Statement-II is correct"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "पटेरोपस गिगेंटस, जिसे आमतौर पर इंडियन फ्लाइंग फॉक्स के रूप में जाना जाता है, फलों के खेतों के प्रति अपनी विनाशकारी प्रवृत्ति के कारण भारतीय वन्यजीव (संरक्षण) अधिनियम, 1972 में 'पीड़क जंतु' (Vermin) के रूप में सूचीबद्ध किया गया था। अतः कथन I सही है। इंडियन फ्लाइंग फॉक्स अपने आहार में कीटों के साथ-साथ फलों को भी शामिल करती है, जिसमें रस और मकरंद युक्त फूल भी शामिल हैं। यह अन्य जंतुओं का रक्त नहीं पीता। अतः कथन II सही नहीं है। (नोट: संघ लोक सेवा आयोग द्वारा इस प्रश्न को हटा दिया गया था, क्योंकि हाल के संशोधनों में इसकी अनुसूची बदल दी गई है, किंतु दिये गए विकल्पों के अनुसार (c) सही होना चाहिये)।",
+      "en": "Pteropus giganteus, commonly known as the Indian Flying Fox, was listed as a 'vermin' in the Indian Wildlife (Protection) Act, 1972 due to its destructive tendency towards fruit orchards. Hence, Statement I is correct. The Indian Flying Fox includes insects as well as fruits in its diet, including flowers containing sap and nectar. It does not feed on the blood of other animals. Hence, Statement II is incorrect. (Note: This question was dropped by UPSC, probably because its schedule has been changed in recent amendments, but according to the given options (c) should be correct)."
+    }
+  },
+  {
+    "id": 9,
+    "year": "2023",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कुछ छत्रकों (मशरूमों) में औषधीय गुण होते हैं।",
+        "en": "Some mushrooms have medicinal properties."
+      },
+      {
+        "id": 2,
+        "hi": "कुछ छत्रकों में मनःप्रभावी (साइकोएक्टिव) गुण होते हैं।",
+        "en": "Some mushrooms have psychoactive properties."
+      },
+      {
+        "id": 3,
+        "hi": "कुछ छत्रकों में कीटनाशी गुण होते हैं।",
+        "en": "Some mushrooms have insecticidal properties."
+      },
+      {
+        "id": 4,
+        "hi": "कुछ छत्रकों में जैव संदीप्तिशील (बायोल्यूमिनिसेंट) गुण होते हैं।",
+        "en": "Some mushrooms have bioluminescent properties."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कितने कथन सही हैं?",
+      "en": "Consider the following statements:\nHow many of the above statements are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "केवल तीन",
+        "en": "Only three"
+      },
+      {
+        "id": "D",
+        "hi": "सभी चार",
+        "en": "All four"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "मशरूम जीवाणुरोधी, प्रतिरक्षा प्रणाली में वृद्धि करने और कोलेस्ट्रॉल को कम करने का कार्य करते हैं। अतः कथन 1 सही है। मैजिक मशरूम (साइकोएक्टिव कवक) में साइलोसाइबिन और साइलोसिन पाए जाते हैं, जो मतिभ्रमकारी प्रभाव उत्पन्न करते हैं। अतः कथन 2 सही है। कुछ मशरूम कीटनाशी गुणों से लैस होते हैं; उदाहरण के लिए, 'फ्लाय एगारिक' में ऐसे विषैले यौगिक होते हैं जो कीटों के लिए घातक साबित होते हैं। अतः कथन 3 सही है। पूर्वोत्तर भारतीय वनों में एक नई बायोल्यूमिनिसेंट या जैवसंदीप्तिशील गुण वाले मशरूम की किस्म की खोज की गई है। अतः कथन 4 सही है। अतः विकल्प (d) सही है।",
+      "en": "Mushrooms act as antibacterial, boost the immune system and lower cholesterol. Hence statement 1 is correct. Magic mushrooms (psychoactive fungi) contain psilocybin and psilocin, which produce hallucinogenic effects. Hence statement 2 is correct. Some mushrooms are equipped with insecticidal properties; for example, the 'fly agaric' contains toxic compounds that prove fatal to insects. Hence statement 3 is correct. A new variety of mushroom with bioluminescent properties has been discovered in the forests of North-East India. Hence statement 4 is correct. Thus, option (d) is correct."
+    }
+  },
+  {
+    "id": 10,
+    "year": "2023",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कुछ सूक्ष्मजीव जल के क्वथनांक से ऊपर के तापमान वाले वातावरण में पनप सकते हैं।",
+        "en": "Some microorganisms can grow in environments with temperature above the boiling point of water."
+      },
+      {
+        "id": 2,
+        "hi": "कुछ सूक्ष्मजीव जल के हिमांक से नीचे के तापमान वाले वातावरण में पनप सकते हैं।",
+        "en": "Some microorganisms can grow in environments with temperature below the freezing point of water."
+      },
+      {
+        "id": 3,
+        "hi": "कुछ सूक्ष्मजीव 3 से कम pH वाले अत्यंत अम्लीय वातावरण में पनप सकते हैं।",
+        "en": "Some microorganisms can grow in highly acidic environment with a pH below 3."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कितने कथन सही हैं?",
+      "en": "Consider the following statements:\nHow many of the above statements are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "हाइपरथर्मोफिलिक ('सुपरहीट-लविंग') बैक्टीरिया और आर्किया उच्च तापमान वाले वातावरण (जल के क्वथनांक से ऊपर) में पाए जाते हैं। अतः कथन 1 सही है। सूक्ष्मजीव जीवमंडल के हर भाग में रहते हैं और उनमें से कुछ कम तापमान (हिमांक बिंदु से नीचे भी) पर भी विकास करने में सक्षम होते हैं। अतः कथन 2 सही है। एसिडोफिल्स ऐसे सूक्ष्मजीव हैं जो अत्यधिक अम्लीय वातावरण में इष्टतम वृद्धि दिखाते हैं। अत्यधिक एसिडोफिल्स जीव pH मान <3 वाले वातावरण में रहते हैं। अतः कथन 3 सही है। अतः विकल्प (c) सही है।",
+      "en": "Hyperthermophilic ('superheat-loving') bacteria and archaea are found in high-temperature environments (above the boiling point of water). Hence statement 1 is correct. Microorganisms inhabit every part of the biosphere and some of them are capable of growing even at low temperatures (even below freezing point). Hence statement 2 is correct. Acidophiles are microorganisms that show optimal growth in highly acidic environments. Extreme acidophiles live in environments with a pH value < 3. Hence statement 3 is correct. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 11,
+    "year": "2023",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन, किसी वृक्ष या लकड़ी के लट्ठे में बने छिद्र में से कीटों को खुरचने के लिये लकड़ी का औज़ार बनाता है?",
+      "en": "Which of the following makes a wooden tool to scrape insects from a hole in a tree or a log of wood?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "मत्स्यन मार्जार (फिशिंग कैट)",
+        "en": "Fishing cat"
+      },
+      {
+        "id": "B",
+        "hi": "ओरांगउतैन",
+        "en": "Orangutan"
+      },
+      {
+        "id": "C",
+        "hi": "ऊदबिलाव",
+        "en": "Otter"
+      },
+      {
+        "id": "D",
+        "hi": "स्लॉथ बियर",
+        "en": "Sloth bear"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "शोधकर्ताओं ने ओरांगउतैन को वृक्ष या लकड़ी के लट्ठे में बने छिद्र में से कीटों को खुरचने के लिये लकड़ी को औज़ार के रूप में उपयोग करते हुए देखा है। अतः विकल्प (b) सही है। मत्स्यन मार्जार (Fishing Cat) मुख्य रूप से मछली पकड़ने में माहिर होते हैं। ऊदबिलाव पत्थरों का उपयोग घोंघे या केकड़ों के कवच को तोड़ने के लिए करते हैं। स्लॉथ भालू कीटों को खाने के लिए अपने लंबे नाखूनों और सक्शन शक्ति का उपयोग करते हैं।",
+      "en": "Researchers have observed orangutans using wood as a tool to scrape insects out of holes in trees or logs of wood. Hence, option (b) is correct. Fishing cats are mainly experts in catching fish. Otters use stones to break the shells of snails or crabs. Sloth bears use their long claws and suction power to eat insects."
+    }
+  },
+  {
+    "id": 12,
+    "year": "2023",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "जैव निस्यंदक, बिना खाए हुए मत्स्य चारे को हटाकर, अपशिष्ट उपचार प्रदान करते हैं।",
+        "en": "Biofilters provide waste treatment by removing uneaten fish feed."
+      },
+      {
+        "id": 2,
+        "hi": "जैव निस्यंदक, मत्स्य अपशिष्ट में विद्यमान अमोनिया को नाइट्रेट में बदल देते हैं।",
+        "en": "Biofilters convert ammonia present in fish waste to nitrate."
+      },
+      {
+        "id": 3,
+        "hi": "जैव निस्यंदक, जल में मत्स्य के लिये पोषक तत्त्व के रूप में फॉस्फोरस को बढ़ाते हैं।",
+        "en": "Biofilters increase phosphorus as nutrient for fish in water."
+      }
+    ],
+    "question": {
+      "hi": "पुनर्संचरणशील एक्वाकल्चर प्रणाली (Recirculating Aquaculture System) में जैव निस्यंदकों (बायोफिल्टर) की भूमिका के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कितने कथन सही हैं?",
+      "en": "Consider the following statements regarding the role of biofilters in Recirculating Aquaculture System (RAS):\nHow many of the above statements are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "RAS बायोफिल्टर मत्स्य अपशिष्ट उपोत्पादों को हटाने का कार्य करते हैं जिसमें बिना खाया हुआ चारा भी शामिल होता है। अतः कथन 1 सही है। बायोफिल्टर के माध्यम से अमोनिया को हटा दिया जाता है। ये नाइट्रिफाइंग बैक्टीरिया अमोनिया का सेवन करते हैं एवं नाइट्राइट का उत्पादन करते हैं। अन्य नाइट्रिफाइंग बैक्टीरिया नाइट्राइट का उपभोग करते हैं और नाइट्रेट का उत्पादन करते हैं। अतः कथन 2 सही है। बायोफिल्टर सिस्टम संलिष्ट जल से नाइट्राइट, नाइट्रेट, फास्फोरस और अमोनियम आयनों की सांद्रता को कम करता है (बढ़ाता नहीं है)। अतः कथन 3 सही नहीं है। अतः विकल्प (b) सही है।",
+      "en": "RAS biofilters serve to remove fish waste byproducts including uneaten feed. Hence statement 1 is correct. Ammonia is removed through the biofilter. These nitrifying bacteria consume ammonia and produce nitrite. Other nitrifying bacteria consume nitrite and produce nitrate. Hence statement 2 is correct. The biofilter system reduces (does not increase) the concentration of nitrite, nitrate, phosphorus and ammonium ions from the synthetic water. Hence statement 3 is incorrect. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 13,
+    "year": "2023",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत में जैव विविधता प्रबंधन समितियाँ नागोया प्रोटोकॉल के उद्देश्यों को हासिल करने के लिये प्रमुख कुंजी हैं।",
+        "en": "Biodiversity Management Committees are key to the realization of the objectives of Nagoya Protocol."
+      },
+      {
+        "id": 2,
+        "hi": "जैव विविधता प्रबंधन समितियों के, अपने क्षेत्राधिकार के अंतर्गत, जैविक संसाधनों तक पहुँच के लिये संग्रह शुल्क लगाने की शक्ति सहित, पहुँच और लाभ सहभागिता निर्धारित करने के लिए, महत्त्वपूर्ण प्रकार्य हैं।",
+        "en": "The Biodiversity Management Committees have important functions in determining access and benefit sharing, including the power to levy collection fees on the access of biological resources within its jurisdiction."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "भारत का जैविक विविधता अधिनियम, 2002 नागोया प्रोटोकॉल से निकटतम रूप से संबंधित है। जैविक विविधता अधिनियम, 2002 की धारा 41(1) के तहत राज्य में प्रत्येक स्थानीय निकाय अपने अधिकार क्षेत्र के भीतर एक जैव विविधता प्रबंधन समिति (BMC) का गठन करेगा। अतः कथन 1 सही है। BMC अपने संबंधित क्षेत्राधिकार में जैविक संसाधनों तक पहुँच के लिये संग्रह शुल्क लगाने तथा लाभों को साझा करने के तरीकों के बारे में जानकारी देने के लिए ज़िम्मेदार होगा। अतः कथन 2 सही है। अतः विकल्प (c) सही है।",
+      "en": "India's Biological Diversity Act, 2002 is closely related to the Nagoya Protocol. Under Section 41(1) of the Biological Diversity Act, 2002, every local body in the State shall constitute a Biodiversity Management Committee (BMC) within its area of jurisdiction. Hence statement 1 is correct. The BMC shall be responsible for levying collection fees on access to biological resources within its respective jurisdiction and providing information on ways to share benefits. Hence statement 2 is correct. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 14,
+    "year": "2022",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "वन्यजीव, एकमात्र सरकार की संपत्ति हैं।",
+        "en": "Wild animals are the sole property of the government."
+      },
+      {
+        "id": 2,
+        "hi": "जब किसी वन्यजीव को संरक्षित घोषित किया जाता है, तो यह जीव चाहे संरक्षित क्षेत्र में हो या उससे बाहर, समान संरक्षण का हकदार है।",
+        "en": "When a wild animal is declared protected, such animal is entitled for equal protection whether it is found in protected areas or outside."
+      },
+      {
+        "id": 3,
+        "hi": "किसी संरक्षित वन्यजीव के मानव जीवन के लिए खतरा बन जाने की आशंका उस जीव को पकड़ने या मार दिये जाने का पर्याप्त आधार है।",
+        "en": "Apprehension of a protected wild animal becoming a danger to human life is sufficient ground for its capture or killing."
+      }
+    ],
+    "question": {
+      "hi": "वन्यजीव संरक्षण के बारे में भारतीय विधियों के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में कौन-सा/से सही है/हैं?",
+      "en": "With reference to Indian laws about wildlife protection, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 3",
+        "en": "1 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "बॉम्बे उच्च न्यायालय ने फैसला सुनाया है कि बाघों सहित जंगली जानवरों को 'सभी उद्देश्यों के लिए सरकारी संपत्ति' माना जाना चाहिये, परंतु वन्यजीव 'एकमात्र' सरकार की संपत्ति नहीं है। अतः कथन 1 सही नहीं है। जब किसी जानवर को वन्यजीव (संरक्षण) अधिनियम, 1972 के तहत संरक्षित घोषित किया जाता है, तो उसे समान सुरक्षा का लाभ मिलेगा, चाहे वह संरक्षित क्षेत्र के अंदर हो या बाहर। अतः कथन 2 सही है। केवल आशंका पर्याप्त आधार नहीं है। अधिनियम के अनुसार जब तक मुख्य वन्यजीव वार्डन संतुष्ट न हो जाए कि ऐसे जानवर को पकड़ा, शांत या स्थानांतरित नहीं किया जा सकता, उसे मारने का आदेश नहीं दिया जाएगा। अतः कथन 3 सही नहीं है। अतः विकल्प (b) सही है।",
+      "en": "The Bombay High Court has ruled that wild animals, including tigers, should be treated as 'government property for all purposes', but wildlife is not the 'sole' property of the government. Hence statement 1 is incorrect. When an animal is declared protected under the Wildlife (Protection) Act, 1972, it will enjoy the same protection whether it is inside a protected area or outside. Hence statement 2 is correct. Mere apprehension is not sufficient ground. According to the Act, an order to kill such an animal shall not be given unless the Chief Wildlife Warden is satisfied that such an animal cannot be captured, tranquilized or translocated. Hence statement 3 is incorrect. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 15,
+    "year": "2022",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "\"यदि वर्षावन और उष्णकटिबंधीय वन पृथ्वी के फेफड़े हैं, तो निश्चित ही आर्द्रभूमियाँ इसके गुर्दों की तरह काम करती हैं।\" निम्नलिखित में से आर्द्रभूमियों का कौन-सा एक कार्य उपर्युक्त कथन को सर्वोत्तम रूप से प्रतिबिंबित करता है?",
+      "en": "\"If rainforests and tropical forests are the lungs of the Earth, then surely wetlands function as its kidneys.\" Which one of the following functions of wetlands best reflects the above statement?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "आर्द्रभूमियों के जल चक्र में सतही अपवाह, अवमृदा अंतःस्रवण और वाष्पन शामिल होते हैं।",
+        "en": "The water cycle in wetlands involves surface runoff, subsoil percolation and evaporation."
+      },
+      {
+        "id": "B",
+        "hi": "शैवालों से वह पोषक आधार बनता है, जिस पर मत्स्य, परुषकवची (क्रस्टेशियाई), मृदुकवची (मोलस्क), पक्षी, सरीसृप और स्तनधारी फलते-फूलते हैं।",
+        "en": "Algae form the nutrient base upon which fish, crustaceans, molluscs, birds, reptiles and mammals thrive."
+      },
+      {
+        "id": "C",
+        "hi": "आर्द्रभूमियाँ अवसाद संतुलन और मृदा स्थिरीकरण बनाए रखने में महत्त्वपूर्ण भूमिका निभाती हैं।",
+        "en": "Wetlands play a vital role in maintaining sedimentation balance and soil stabilization."
+      },
+      {
+        "id": "D",
+        "hi": "जलीय पादप भारी धातुओं और पोषकों के आधिक्य को अवशोषित कर लेते हैं।",
+        "en": "Aquatic plants absorb heavy metals and excess nutrients."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "आर्द्रभूमि महत्त्वपूर्ण निस्यंदक (Filter) हैं। ये अवसाद को ट्रैप करती हैं, प्रदूषकों को हटाती हैं और जल को शुद्ध करती हैं। वे अपशिष्टों को अवशोषित करके 'पृथ्वी के गुर्दे' के रूप में कार्य करती हैं। एक प्रकार से भारी धातुओं और पोषकों के आधिक्य को अवशोषित करती हैं। अतः विकल्प (d) सही है।",
+      "en": "Wetlands are important filters. They trap sediments, remove pollutants and purify water. They act as the 'kidneys of the earth' by absorbing wastes. In a way, they absorb heavy metals and excess nutrients. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 16,
+    "year": "2021",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "फर्न",
+        "en": "Fern"
+      },
+      {
+        "id": 2,
+        "hi": "लाइकेन",
+        "en": "Lichen"
+      },
+      {
+        "id": 3,
+        "hi": "मॉस",
+        "en": "Moss"
+      },
+      {
+        "id": 4,
+        "hi": "छत्रक (मशरूम)",
+        "en": "Mushroom"
+      }
+    ],
+    "question": {
+      "hi": "प्रकृति में, निम्नलिखित में से किस जीव का/किन जीवों के मृदाविहीन सतह पर जीवित पाए जाने की सर्वाधिक संभावना है?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "In nature, which of the following is/are most likely to be found surviving on a surface without soil?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 4",
+        "en": "1 and 4 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "1, 3 और 4",
+        "en": "1, 3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "लाइकेन समेत मॉस ऐसे सजीव हैं, जो चट्टानों पर उगते हैं। इस प्रकार इनकी मृदाविहीन सतह पर जीवित पाए जाने की संभावना है। मशरूम मिट्टी में, लट्ठे तथा वृक्षों के ठूँठों पर और सजीव पादपों के अंदर परजीवी के रूप में उगते हैं। अतः विकल्प (c) सही है।",
+      "en": "Mosses, including lichens, are living organisms that grow on rocks. Thus they are likely to be found surviving on a soil-less surface. Mushrooms grow in soil, on logs and tree stumps, and as parasites inside living plants. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 17,
+    "year": "2021",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कॉपीपोड",
+        "en": "Copepods"
+      },
+      {
+        "id": 2,
+        "hi": "साइनोबैक्टीरिया",
+        "en": "Cyanobacteria"
+      },
+      {
+        "id": 3,
+        "hi": "डायटम",
+        "en": "Diatoms"
+      },
+      {
+        "id": 4,
+        "hi": "फोरैमिनिफेरा",
+        "en": "Foraminifera"
+      }
+    ],
+    "question": {
+      "hi": "जीवों के निम्नलिखित प्रकारों पर विचार कीजिये-\nउपर्युक्त में से कौन-से जीव महासागरों की आहार शृंखलाओं में प्राथमिक उत्पादक हैं?",
+      "en": "Consider the following kinds of organisms:\nWhich of the above are primary producers in the food chains of oceans?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "C",
+        "hi": "3 और 4",
+        "en": "3 and 4"
+      },
+      {
+        "id": "D",
+        "hi": "1 और 4",
+        "en": "1 and 4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "हरे पेड़-पौधे, कुछ खास जीवाणु एवं शैवाल जो सूर्य प्रकाश की उपस्थिति में अपना भोजन स्वयं बना सकते हैं, स्वपोषी अथवा प्राथमिक उत्पादक कहलाते हैं। महासागरों की आहार शृंखलाओं में पादपप्लवक प्रमुख उत्पादक होते हैं। इसमें साइनोबैक्टीरिया (नील हरित शैवाल) एवं डायटम क्लोरोफिल की उपस्थिति में अपना भोजन स्वयं बनाते हैं, वहीं कॉपीपोड तथा फोरैमिनिफेरा उपभोक्ता की श्रेणी में आते हैं। अतः विकल्प (b) सही है।",
+      "en": "Green plants, some specific bacteria and algae which can make their own food in the presence of sunlight, are called autotrophs or primary producers. Phytoplankton are the main producers in the food chains of the oceans. Among these, Cyanobacteria (blue-green algae) and Diatoms make their own food in the presence of chlorophyll, while Copepods and Foraminifera fall in the category of consumers. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 18,
+    "year": "2021",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "जाहक (हेजहॉग)",
+        "en": "Hedgehog"
+      },
+      {
+        "id": 2,
+        "hi": "शैलमूषक (मारमोट)",
+        "en": "Marmot"
+      },
+      {
+        "id": 3,
+        "hi": "वज्रशल्क (पैंगोलिन)",
+        "en": "Pangolin"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित प्राणियों पर विचार कीजिये-\nउपर्युक्त में से कौन-सा/से जीव परभक्षियों द्वारा पकड़े जाने की संभावना को कम करने के लिये, स्वयं को लपेटकर अपने सुभेद्य अंगों की रक्षा करता है/करते हैं?",
+      "en": "Consider the following animals:\nTo reduce the chance of being captured by predators, which of the above organisms rolls up/roll up and protects/protect its/their vulnerable parts?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1 और 3",
+        "en": "1 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "जाहक (हेजहॉग) और वज्रशल्क (पैंगोलिन) ऐसे जीव हैं जो परभक्षियों द्वारा पकड़े जाने की संभावना को कम करने के लिये स्वयं को लपेटकर अपनी रक्षा करते हैं। वहीं शैलमूषक (मारमोट) गिलहरी परिवार के सबसे भारी सदस्य हैं जो गर्मियों के दौरान सक्रिय होते हैं। अतः विकल्प (d) सही है।",
+      "en": "Hedgehogs and Pangolins are organisms that protect themselves by rolling up to reduce the chance of being captured by predators. On the other hand, Marmots are the heaviest members of the squirrel family and are active during summers. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 19,
+    "year": "2021",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा जीव निस्यंदक भोजी (फिल्टर फीडर) है?",
+      "en": "Which one of the following is a filter feeder?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अशल्क मीन (कैटफिश)",
+        "en": "Catfish"
+      },
+      {
+        "id": "B",
+        "hi": "अष्टभुज (ऑक्टोपस)",
+        "en": "Octopus"
+      },
+      {
+        "id": "C",
+        "hi": "सीप (ऑयस्टर)",
+        "en": "Oyster"
+      },
+      {
+        "id": "D",
+        "hi": "हवाशील (पेलिकन)",
+        "en": "Pelican"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "फिल्टर फीडर ऐसे जीव हैं (जैसे बड़ी सीपी या बेलन व्हेल) जो अपने शरीर के कुछ हिस्से से गुज़रने वाली पानी की धारा से कार्बनिक पदार्थ या सूक्ष्म जीवों को छानकर अपना भोजन प्राप्त करते हैं। सीप (ऑयस्टर) प्राकृतिक फिल्टर फीडर हैं। अतः विकल्प (c) सही है।",
+      "en": "Filter feeders are animals (such as large clams or baleen whales) that feed by straining suspended matter and food particles from water, typically by passing the water over a specialized filtering structure. Oysters are natural filter feeders. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 20,
+    "year": "2020",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह दो ज़िलों में विस्तृत है।",
+        "en": "It is spread over two districts."
+      },
+      {
+        "id": 2,
+        "hi": "उद्यान के अंदर कोई मानव वास स्थल नहीं है।",
+        "en": "There is no human habitation inside the Park."
+      },
+      {
+        "id": 3,
+        "hi": "यह 'ग्रेट इंडियन बस्टर्ड' के प्राकृतिक आवासों में से एक है।",
+        "en": "It is one of the natural habitats of Great Indian Bustard."
+      }
+    ],
+    "question": {
+      "hi": "भारत के 'मरु राष्ट्रीय उद्यान' के संदर्भ में, निम्नलिखित में से कौन-से कथन सही हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "With reference to India's Desert National Park, which of the following statements are correct?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "मरु राष्ट्रीय उद्यान राजस्थान के जैसलमेर एवं बाड़मेर ज़िले में विस्तृत है (कथन 1 सही है)। यहाँ पर मानव जनसंख्या 4 से 5 प्रति व्यक्ति किमी. आकलित की गई है (कथन 2 गलत है)। यह राष्ट्रीय उद्यान अत्यधिक संकटापन्न प्रजाति गोडावण (ग्रेट इंडियन बस्टर्ड) के प्राकृतिक आवासों में से एक है (कथन 3 सही है)। अतः विकल्प (c) सही है।",
+      "en": "Desert National Park is spread over Jaisalmer and Barmer districts of Rajasthan (Statement 1 is correct). Human population density here is estimated to be 4 to 5 persons per sq km (Statement 2 is incorrect). This national park is one of the natural habitats of the highly endangered species Godawan (Great Indian Bustard) (Statement 3 is correct). Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 21,
+    "year": "2020",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित बाघ आरक्षित क्षेत्रों में \"क्रांतिक बाघ आवास (Critical Tiger Habitat)\" के अंतर्गत सबसे बड़ा क्षेत्र किसके पास है?",
+      "en": "Among the following Tiger Reserves, which one has the largest area under \"Critical Tiger Habitat\"?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कॉर्बेट",
+        "en": "Corbett"
+      },
+      {
+        "id": "B",
+        "hi": "रणथम्भौर",
+        "en": "Ranthambore"
+      },
+      {
+        "id": "C",
+        "hi": "नागार्जुनसागर-श्रीसैलम",
+        "en": "Nagarjunsagar-Srisailam"
+      },
+      {
+        "id": "D",
+        "hi": "सुंदरबन",
+        "en": "Sunderbans"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "क्रांतिक बाघ आवास का क्षेत्रफल:\nजिम कॉर्बेट: 821.99 वर्ग किमी.\nरणथम्भौर: 1113.364 वर्ग किमी.\nनागार्जुनसागर-श्रीसैलम: 2595.72 वर्ग किमी.\nसुंदरबन: 1699.62 वर्ग किमी.\nइस प्रकार विकल्प (c) सही उत्तर है।",
+      "en": "Area of Critical Tiger Habitat:\nJim Corbett: 821.99 sq km.\nRanthambore: 1113.364 sq km.\nNagarjunasagar-Srisailam: 2595.72 sq km.\nSunderbans: 1699.62 sq km.\nThus, option (c) is the correct answer."
+    }
+  },
+  {
+    "id": 22,
+    "year": "2020",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "हाथियों के समूह का नेतृत्व मादा करती है।",
+        "en": "The leader of an elephant group is a female."
+      },
+      {
+        "id": 2,
+        "hi": "हाथी की अधिकतम गर्भावधि 22 माह तक हो सकती है।",
+        "en": "The maximum gestation period can be 22 months."
+      },
+      {
+        "id": 3,
+        "hi": "सामान्यतः हाथी में 40 वर्ष की आयु तक ही बच्चे पैदा करने की क्षमता होती है।",
+        "en": "An elephant can normally go on calving till the age of 40 years only."
+      },
+      {
+        "id": 4,
+        "hi": "भारत के राज्यों में, हाथियों की सर्वाधिक जनसंख्या केरल में है।",
+        "en": "Among the States in India, the highest elephant population is in Kerala."
+      }
+    ],
+    "question": {
+      "hi": "भारतीय हाथियों के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to Indian elephants, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "भारतीय हाथी एशियाई हाथी की तीन जीवित उप-प्रजातियों में से एक है। ये 6-7 मादा हाथियों के समूह में रहते हैं जिसका नेतृत्व सबसे बड़ी एवं वृहद मादा करती है (कथन 1 सही है)। सभी स्थलीय स्तनधारियों में सर्वाधिक लंबा गर्भकाल (18-22 महीना) हाथियों का होता है (कथन 2 सही है)। हाथी गणना 2017 के अनुसार भारत में हाथियों की सर्वाधिक संख्या (6049) कर्नाटक में है (कथन 4 गलत है)। अतः दिये गए विकल्पों में से विकल्प (a) सही है।",
+      "en": "The Indian elephant is one of the three extant subspecies of the Asian elephant. They live in herds of 6-7 female elephants led by the oldest and largest female (Statement 1 is correct). Elephants have the longest gestation period (18-22 months) among all terrestrial mammals (Statement 2 is correct). According to the 2017 elephant census, the highest number of elephants in India (6049) is in Karnataka (Statement 4 is incorrect). Therefore, among the given options, option (a) is correct."
+    }
+  },
+  {
+    "id": 23,
+    "year": "2020",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत की जैव-विविधता के संदर्भ में सीलोन फ्रॉगमाउथ, कॉपरस्मिथ बार्बेट, ग्रे-चिन्ड मिनिवेट और व्हाइट-थ्रोटेड रेडस्टार्ट क्या हैं?",
+      "en": "With reference to India's biodiversity, Ceylon frogmouth, Coppersmith barbet, Gray-chinned minivet and White-throated redstart are"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "पक्षी",
+        "en": "Birds"
+      },
+      {
+        "id": "B",
+        "hi": "प्राइमेट",
+        "en": "Primates"
+      },
+      {
+        "id": "C",
+        "hi": "सरीसृप",
+        "en": "Reptiles"
+      },
+      {
+        "id": "D",
+        "hi": "उभयचर",
+        "en": "Amphibians"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "सीलोन फ्रॉग माउथ, कॉपर स्मिथ बार्बेट, ग्रे चिन्ड मिनिवेट, व्हाइट-थ्रोटेड रेडस्टार्ट आदि पक्षियों की प्रमुख प्रजातियाँ भारत में पायी जाती हैं। अतः विकल्प (a) सही है।",
+      "en": "Ceylon frogmouth, Coppersmith barbet, Gray-chinned minivet, White-throated redstart are prominent bird species found in India. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 24,
+    "year": "2020",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारतीय अनूप मृग (बारहसिंगा) की उस उपजाति, जो पक्की भूमि पर फलती-फूलती है और केवल घासभक्षी है, के संरक्षण के लिये निम्नलिखित में से कौन-सा संरक्षित क्षेत्र प्रसिद्ध है?",
+      "en": "Which one of the following protected areas is well-known for the conservation of a sub-species of the Indian swamp deer (Barasingha) that thrives well on hard ground and is exclusively graminivorous?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कान्हा राष्ट्रीय उद्यान",
+        "en": "Kanha National Park"
+      },
+      {
+        "id": "B",
+        "hi": "मानस राष्ट्रीय उद्यान",
+        "en": "Manas National Park"
+      },
+      {
+        "id": "C",
+        "hi": "मुदुमलाई वन्यजीव अभयारण्य",
+        "en": "Mudumalai Wildlife Sanctuary"
+      },
+      {
+        "id": "D",
+        "hi": "ताल छापर वन्यजीव अभयारण्य",
+        "en": "Tal Chhapar Wildlife Sanctuary"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "भारतीय अनूप मृग (बारहसिंगा) या स्वैंप डियर (Swamp Deer) पक्की भूमि पर रहने वाली हिरण की एक प्रजाति है जो विशेष रूप से कान्हा राष्ट्रीय उद्यान में पाई जाती है। यह मध्य प्रदेश का राजकीय पशु भी है। अतः विकल्प (a) सही है।",
+      "en": "The Indian Swamp Deer (Barasingha) is a deer species living on hard ground that is specially found in Kanha National Park. It is also the state animal of Madhya Pradesh. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 25,
+    "year": "2020",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अस्कोट वन्यजीव अभयारण्य",
+        "en": "Askot Wildlife Sanctuary"
+      },
+      {
+        "id": 2,
+        "hi": "गंगोत्री राष्ट्रीय उद्यान",
+        "en": "Gangotri National Park"
+      },
+      {
+        "id": 3,
+        "hi": "किशनपुर वन्यजीव अभयारण्य",
+        "en": "Kishanpur Wildlife Sanctuary"
+      },
+      {
+        "id": 4,
+        "hi": "मानस राष्ट्रीय उद्यान",
+        "en": "Manas National Park"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-से ऐसे सर्वाधिक संभावनीय स्थान हैं जहाँ कस्तूरी मृग अपने प्राकृतिक आवास में मिल सकता है?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Which of the following are the most likely places to find the musk deer in its natural habitat?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3 और 4",
+        "en": "3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1 और 4",
+        "en": "1 and 4 only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कस्तूरी मृग (Musk Deer) का प्राकृतिक आवास हिमालय क्षेत्र है। यह हिमालयी राज्य उत्तराखंड के नंदा देवी राष्ट्रीय उद्यान, फूलों की घाटी राष्ट्रीय उद्यान, गंगोत्री राष्ट्रीय उद्यान, केदारनाथ वन्यजीव अभयारण्य, गोविंद वन्यजीव अभयारण्य, अस्कोट वन्यजीवन अभयारण्य में पाए जाते हैं। अतः विकल्प (a) सही है। किशनपुर वन्यजीव अभयारण्य दुधवा टाइगर रिज़र्व का भाग है जो उत्तर प्रदेश के मैदानी इलाके में है। मानस राष्ट्रीय उद्यान असम राज्य में स्थित है।",
+      "en": "The natural habitat of Musk Deer is the Himalayan region. It is found in Nanda Devi National Park, Valley of Flowers National Park, Gangotri National Park, Kedarnath Wildlife Sanctuary, Govind Wildlife Sanctuary, and Askot Wildlife Sanctuary in the Himalayan state of Uttarakhand. Hence, option (a) is correct. Kishanpur Wildlife Sanctuary is a part of Dudhwa Tiger Reserve located in the plains of Uttar Pradesh. Manas National Park is situated in the state of Assam."
+    }
+  },
+  {
+    "id": 26,
+    "year": "2019",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "एशियाई शेर प्राकृतिक रूप से सिर्फ भारत में पाया जाता है।",
+        "en": "Asiatic lion is naturally found in India only."
+      },
+      {
+        "id": 2,
+        "hi": "दो-कूबड़ वाला ऊँट प्राकृतिक रूप से सिर्फ भारत में पाया जाता है।",
+        "en": "Double-humped camel is naturally found in India only."
+      },
+      {
+        "id": 3,
+        "hi": "एक-सींग वाला गैंडा प्राकृतिक रूप से सिर्फ भारत में पाया जाता है।",
+        "en": "One-horned rhinoceros is naturally found in India only."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "एशियाई शेर प्राकृतिक रूप से सिर्फ भारत में पाया जाता है। भारत में गिर नेशनल पार्क (गुजरात) इसका प्रमुख आवासीय क्षेत्र है। अतः कथन 1 सही है। दो-कूबड़ वाला ऊँट भारत (लद्दाख क्षेत्र में) के अतिरिक्त मंगोलिया, चीन, कज़ाखस्तान, उज़्बेकिस्तान, तुर्की, रूस तथा तुर्कमेनिस्तान क्षेत्र में पाया जाता है। अतः कथन 2 गलत है। एक सींग वाला गैंडा प्राकृतिक रूप से मुख्यत: भारत व नेपाल में पाया जाता है। इसके अतिरिक्त यह भूटान, बांग्लादेश व पाकिस्तान में भी पाया जाता है। अतः कथन 3 गलत है। इस प्रकार विकल्प (a) सही उत्तर है।",
+      "en": "The Asiatic lion is naturally found only in India. Gir National Park (Gujarat) in India is its main habitat. Hence, statement 1 is correct. The double-humped camel is found in Mongolia, China, Kazakhstan, Uzbekistan, Turkey, Russia and Turkmenistan besides India (in Ladakh region). Hence, statement 2 is incorrect. The one-horned rhinoceros is naturally found mainly in India and Nepal. Apart from this, it is also found in Bhutan, Bangladesh and Pakistan. Hence, statement 3 is incorrect. Thus, option (a) is the correct answer."
+    }
+  },
+  {
+    "id": 27,
+    "year": "2019",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा नेशनल पार्क पूर्णतया शीतोष्ण अल्पाइन कटिबंध में स्थित है?",
+      "en": "Which one of the following National Parks lies completely in the temperate alpine zone?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "मानस नेशनल पार्क",
+        "en": "Manas National Park"
+      },
+      {
+        "id": "B",
+        "hi": "नामदफा नेशनल पार्क",
+        "en": "Namdapha National Park"
+      },
+      {
+        "id": "C",
+        "hi": "नेओरा घाटी नेशनल पार्क",
+        "en": "Neora Valley National Park"
+      },
+      {
+        "id": "D",
+        "hi": "फूलों की घाटी नेशनल पार्क",
+        "en": "Valley of Flowers National Park"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "फूलों की घाटी नेशनल पार्क, उत्तराखंड के गढ़वाल क्षेत्र के अंतर्गत चमोली ज़िले में स्थित है। यह नेशनल पार्क पूर्णतया शीतोष्ण अल्पाइन कटिबंध में स्थित है। फूलों की घाटी राष्ट्रीय उद्यान यूनेस्को (UNESCO) की विश्व विरासत सूची में भी शामिल है। अतः विकल्प (d) सही उत्तर है।",
+      "en": "Valley of Flowers National Park is located in Chamoli district under Garhwal region of Uttarakhand. This National Park is completely situated in the temperate alpine zone. The Valley of Flowers National Park is also included in the UNESCO World Heritage List. Hence, option (d) is the correct answer."
+    }
+  },
+  {
+    "id": 28,
+    "year": "2019",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-से अगस्त्यमाला जीवमंडल रिज़र्व में आते हैं?",
+      "en": "Which of the following are in Agasthyamala Biosphere Reserve?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "नेय्यार, पेप्पारा और शेंदुर्ने वन्य प्राणी अभयारण्य; और कलाकड़ मुंडनथुरई बाघ रिज़र्व",
+        "en": "Neyyar, Peppara and Shendurney Wildlife Sanctuaries; and Kalakad Mundanthurai Tiger Reserve"
+      },
+      {
+        "id": "B",
+        "hi": "मुदुमलाई, सत्यमंगलम और वायनाड वन्य प्राणी अभयारण्य; और साइलेंट वैली नेशनल पार्क",
+        "en": "Mudumalai, Sathyamangalam and Wayanad Wildlife Sanctuaries; and Silent Valley National Park"
+      },
+      {
+        "id": "C",
+        "hi": "कौंडिन्य, गुंडला ब्रह्मेश्वरम और पापीकोंडा वन्य प्राणी अभयारण्य; और मुकुर्थी नेशनल पार्क",
+        "en": "Kaundinya, Gundla Brahmeswaram and Papikonda Wildlife Sanctuaries; and Mukurthi National Park"
+      },
+      {
+        "id": "D",
+        "hi": "कावल और श्रीवेंकटेश्वर वन्य प्राणी अभयारण्य; और नागार्जुनसागर-श्रीशैलम बाघ रिज़र्व",
+        "en": "Kawal and Sri Venkateswara Wildlife Sanctuaries; and Nagarjunasagar-Srisailam Tiger Reserve"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "अगस्त्यमाला जैवमंडल रिज़र्व दक्षिण भारत में स्थित एक महत्त्वपूर्ण जैवमंडल रिज़र्व है। यह तमिलनाडु के तिरुनेलवेली व कन्याकुमारी तथा केरल के तिरुवनंतपुरम, कोल्लम व पत्तनमथिट्टा ज़िले में विस्तृत है। इसके अंतर्गत नेय्यार, पेप्पारा एवं शेंदुर्ने वन्य जीव अभयारण्य तथा कलाकड़ मुंडनथुरई बाघ रिज़र्व शामिल हैं। गौरतलब है कि वर्ष 2016 में अगस्त्यमाला जैवमंडल रिज़र्व को यूनेस्को (UNESCO) की सूची में शामिल किया गया था।",
+      "en": "Agasthyamala Biosphere Reserve is an important biosphere reserve located in South India. It is spread across Tirunelveli and Kanyakumari districts of Tamil Nadu and Thiruvananthapuram, Kollam and Pathanamthitta districts of Kerala. It includes Neyyar, Peppara and Shendurney Wildlife Sanctuaries and Kalakad Mundanthurai Tiger Reserve. Notably, in 2016, Agasthyamala Biosphere Reserve was included in the UNESCO list."
+    }
+  },
+  {
+    "id": 29,
+    "year": "2019",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "समुद्री कच्छपों की कुछ प्रजातियाँ शाकभक्षी होती हैं।",
+        "en": "Some species of turtles are herbivores."
+      },
+      {
+        "id": 2,
+        "hi": "मछली की कुछ प्रजातियाँ शाकभक्षी होती हैं।",
+        "en": "Some species of fish are herbivores."
+      },
+      {
+        "id": 3,
+        "hi": "समुद्री स्तनपायियों की कुछ प्रजातियाँ शाकभक्षी होती हैं।",
+        "en": "Some species of marine mammals are herbivores."
+      },
+      {
+        "id": 4,
+        "hi": "साँपों की कुछ प्रजातियाँ सजीवप्रजक होती हैं।",
+        "en": "Some species of snakes are viviparous."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कौन-से कथन सही हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "समुद्री कच्छपों की कुछ प्रजातियाँ शाकभक्षी तथा कुछ प्रजातियाँ सर्वाहारी होती हैं। चेलोनिया मिडास (Chelonia Mydas) प्रजाति मुख्यत: शैवाल और समुद्री घासों पर निर्भर रहती हैं। शाकाहारी मछलियाँ ऐसी मछलियाँ हैं जो पौधे पर निर्भर रहती हैं, जैसे- सर्जनफिश और पैरेटफिश। महासागरों में लाखों जीव निवास करते हैं जिनमें ज़्यादातर मांसाहारी होते हैं। इन जीवों में से कुछ जीव, जैसे- मैनेटेस तथा डगोंग शाकाहारी होते हैं। ये समुद्री पौधे और शाक खाते हैं। अधिकांश सर्प अंडे देते हैं जबकि साँपों की कुछ प्रजातियाँ, जैसे- ग्रीन एनाकोंडा और बोआ कंस्ट्रिक्टर्स बच्चे को जन्म देते हैं। अतः उपर्युक्त सभी कथन सही हैं।",
+      "en": "Some species of marine turtles are herbivores and some are omnivores. The Chelonia Mydas species mainly depends on algae and sea grasses. Herbivorous fishes are those which depend on plants, such as surgeonfish and parrotfish. Millions of creatures live in the oceans, most of which are carnivorous. Some of these creatures, such as manatees and dugongs, are herbivores. They eat sea plants and weeds. Most snakes lay eggs while some species of snakes, such as green anaconda and boa constrictors give birth to young ones. Hence all the above statements are correct."
+    }
+  },
+  {
+    "id": 30,
+    "year": "2019",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "नीले मीनपक्ष वाली महाशीर (Blue-finned Mahseer) : कावेरी नदी",
+        "en": "Blue-finned Mahseer : Cauvery River"
+      },
+      {
+        "id": 2,
+        "hi": "इरावदी डॉल्फिन (Irrawaddy Dolphin) : चंबल नदी",
+        "en": "Irrawaddy Dolphin : Chambal River"
+      },
+      {
+        "id": 3,
+        "hi": "मोरचाभ (रस्टी)-चित्तीदार बिल्ली : पूर्वी घाट",
+        "en": "Rusty-spotted Cat : Eastern Ghats"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये (वन्य प्राणी और प्राकृतिक रूप से कहाँ पाए जाते हैं):\nउपर्युक्त में से कौन-से युग्म सही सुमेलित हैं?",
+      "en": "Consider the following pairs (Wildlife and Naturally found in):\nWhich of the pairs given above are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "नीले मीनपक्ष वाली महाशीर एक मछली है जो भारत, मलेशिया तथा इंडोनेशिया आदि देशों में पाई जाती है। यह व्यावसायिक रूप से महत्त्वपूर्ण मछली है। यह मछली वर्तमान में संकटग्रस्त है और इसके लुप्त होने का खतरा है। यह मुख्यत: नर्मदा और कावेरी नदी में पाई जाती है। इरावदी डॉल्फिन (ओरकेला ब्रेविरोस्ट्रिस) समुद्र के तटों के पास, बंगाल की खाड़ी और दक्षिण-पूर्व एशिया की नदियों और समुद्र तटों में निकटवर्ती उप-खंडों में पाई जाने वाली समुद्री डॉल्फिन की एक यूरीहेलाइन प्रजाति है। इस प्रजाति का नाम म्याँमार (बर्मा) की प्रमुख नदी इरावदी के नाम पर पड़ा है। वर्ष 2017 में इरावदी डॉल्फिन को IUCN की रेड लिस्ट में संकटग्रस्त श्रेणी में शामिल किया गया है। अतः युग्म 2 गलत है। मोरचाभ-चित्तीदार बिल्ली (प्रियोनैलुरस रूबिगिनोसस), बिल्ली परिवार के सबसे छोटे सदस्यों में से एक है। यह भारत के पूर्वी घाट, श्रीलंका तथा नेपाल के पश्चिमी तराई इलाके में पाई जाती है। 2016 में इसे IUCN के रेडलिस्ट में शामिल किया गया है। अतः विकल्प (c) सही है।",
+      "en": "Blue-finned Mahseer is a fish found in India, Malaysia, and Indonesia etc. It is a commercially important fish. This fish is currently endangered and threatened with extinction. It is mainly found in the Narmada and Cauvery rivers. Irrawaddy Dolphin (Orcaella brevirostris) is a euryhaline species of marine dolphin found near sea coasts, in the Bay of Bengal and in rivers and coastal sub-sections of Southeast Asia. This species is named after the major river of Myanmar (Burma), the Irrawaddy. In 2017, the Irrawaddy dolphin has been included in the endangered category in the IUCN Red List. Hence pair 2 is incorrect. Rusty-spotted cat (Prionailurus rubiginosus) is one of the smallest members of the cat family. It is found in the Eastern Ghats of India, Sri Lanka and the western Terai region of Nepal. In 2016, it was included in the IUCN Red List. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 31,
+    "year": "2019",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "रामसर सम्मेलन के अनुसार, भारत के राज्यक्षेत्र में सभी आर्द्र भूमियों को बचाना और संरक्षित रखना भारत सरकार के लिये अधिदेशात्मक है।",
+        "en": "Under the Ramsar Convention, it is mandatory on the part of the Government of India to protect and conserve all the wetlands in the territory of India."
+      },
+      {
+        "id": 2,
+        "hi": "आर्द्र भूमि (संरक्षण और प्रबंधन) नियम, 2010, भारत सरकार ने रामसर सम्मेलन की संस्तुतियों के आधार पर बनाए थे।",
+        "en": "The Wetlands (Conservation and Management) Rules, 2010 were framed by the Government of India based on the recommendations of Ramsar Convention."
+      },
+      {
+        "id": 3,
+        "hi": "आर्द्र भूमि (संरक्षण और प्रबंधन) नियम, 2010, आर्द्र भूमियों के अपवाह क्षेत्र या जलग्रहण क्षेत्रों को भी सम्मिलित करते हैं, जैसा कि प्राधिकार द्वारा निर्धारित किया गया है।",
+        "en": "The Wetlands (Conservation and Management) Rules, 2010 also encompass the drainage area or catchment regions of the wetlands as determined by the authority."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "2 फरवरी, 1971 को आर्द्रभूमियों (Wetlands) के संरक्षण के लिये रामसर (कैस्पियन सागर के तट पर ईरान में अवस्थित) में एक अंतरसरकारी और बहुउद्देशीय सम्मेलन हुआ, जिसमें आर्द्रभूमियों व उनके संसाधनों के संरक्षण और युक्तियुक्त उपयोग के लिये राष्ट्रीय कार्रवाई और अंतर्राष्ट्रीय सहयोग की रूपरेखा तय की गई। यह समझौता 21 दिसंबर, 1975 को लागू हुआ। भारत 1982 में इसमें शामिल हुआ। दुनिया भर में आर्द्रभूमियों को सुरक्षित, संरक्षित करने के लिये इन्हें रामसर सूची में सम्मिलित किया जाता है। सभी आर्द्रभूमियों को नहीं। आर्द्रभूमि (संरक्षण और प्रबंधन) नियम, 2010, आर्द्रभूमियों के अपवाह क्षेत्र या जलग्रहण क्षेत्रों को भी सम्मिलित करते हैं, जैसा कि प्राधिकार द्वारा निर्धारित किया गया है। अतः कथन 1 गलत है जबकि कथन 3 सही है। भारत में आर्द्रभूमियों के संरक्षण के लिये विधिक रूप से बाध्यकारी नियामक प्रणाली की स्थापना हेतु सर्वप्रथम कदम राष्ट्रीय पर्यावरण नीति, 2006 के तहत उठाया गया। अतः कथन (2) सही नहीं है।",
+      "en": "On 2 February 1971, an intergovernmental and multipurpose convention on the conservation of wetlands was held in Ramsar (located in Iran on the shores of the Caspian Sea), outlining national action and international cooperation for the conservation and wise use of wetlands and their resources. This agreement came into force on 21 December 1975. India joined it in 1982. Wetlands around the world are included in the Ramsar list to protect and conserve them, not all wetlands. The Wetland (Conservation and Management) Rules, 2010 also include the drainage area or catchment areas of the wetlands, as determined by the authority. Hence statement 1 is incorrect while statement 3 is correct. The first step towards establishing a legally binding regulatory system for the conservation of wetlands in India was taken under the National Environment Policy, 2006. Hence statement (2) is not correct."
+    }
+  },
+  {
+    "id": 32,
+    "year": "2018",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित राज्यों में से किस एक में पाखुई वन्यजीव अभयारण्य अवस्थित है?",
+      "en": "In which one of the following States is Pakhui Wildlife Sanctuary located?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अरुणाचल प्रदेश",
+        "en": "Arunachal Pradesh"
+      },
+      {
+        "id": "B",
+        "hi": "मणिपुर",
+        "en": "Manipur"
+      },
+      {
+        "id": "C",
+        "hi": "मेघालय",
+        "en": "Meghalaya"
+      },
+      {
+        "id": "D",
+        "hi": "नागालैंड",
+        "en": "Nagaland"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "पाखुई वन्यजीव अभयारण्य अरुणाचल प्रदेश के पूर्वी कामेंग ज़िले में स्थित है। वर्ष 1977 में इसको वन्यजीव अभयारण्य, जबकि वर्ष 2002 में प्रोजेक्ट टाइगर के तहत टाइगर रिज़र्व भी घोषित किया गया। इसके अंतर्गत पाए जाने वाले प्रमुख जीवों में बाघ, तेंदुआ, जंगली कुत्ता, एशियाई सियार, एशियाई हाथी, भौंकने वाला हिरण तथा गौर शामिल हैं।",
+      "en": "Pakhui Wildlife Sanctuary is located in the East Kameng district of Arunachal Pradesh. It was declared a wildlife sanctuary in 1977, while in 2002 it was also declared a tiger reserve under Project Tiger. Prominent animals found here include tiger, leopard, wild dog, Asiatic jackal, Asiatic elephant, barking deer and gaur."
+    }
+  },
+  {
+    "id": 33,
+    "year": "2018",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "'संकटपूर्ण वन्यजीव पर्यावास' (क्रिटिकल वाइल्डलाइफ हैबिटैट) की परिभाषा वन अधिकार अधिनियम, 2006 में समाविष्ट है।",
+        "en": "The definition of \"Critical Wildlife Habitat\" is incorporated in the Forest Rights Act, 2006."
+      },
+      {
+        "id": 2,
+        "hi": "भारत में पहली बार बैगा (जनजाति) को पर्यावास (हैबिटैट) अधिकार दिये गए हैं।",
+        "en": "For the first time in India, Baigas have been given Habitat Rights."
+      },
+      {
+        "id": 3,
+        "hi": "केंद्रीय पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय भारत के किसी भाग में विशेष रूप से कमज़ोर जनजातीय समूहों के लिये पर्यावास अधिकार पर आधिकारिक रूप से निर्णय लेता है और उसकी घोषणा करता है।",
+        "en": "Union Ministry of Environment, Forest and Climate Change officially decides and declares Habitat Rights for Particularly Vulnerable Tribal Groups in any part of India."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "'संकटपूर्ण वन्यजीव पर्यावास' (क्रिटिकल वाइल्डलाइफ हैबिटेट) की परिभाषा वन अधिकार अधिनियम, 2006 में समाविष्ट है। वहीं, मध्य प्रदेश के डिंडौरी ज़िले में मुख्य रूप से निवासित बैगा (जनजाति) को वर्ष 2015 में वन अधिकार अधिनियम, 2006 के तहत पर्यावास का अधिकार दिया गया। यह अधिकार प्राप्त करने वाली यह देश की प्रथम जनजाति है। वन अधिकार अधिनियम, 2006 के अंतर्गत केंद्रीय जनजातीय कार्य मंत्रालय भारत के किसी भाग में विशेष रूप से कमज़ोर जनजातीय समूहों के लिये पर्यावास पर अधिकार को लेकर आधिकारिक रूप से निर्णय लेता है तथा उसकी घोषणा करता है (न कि पर्यावरण मंत्रालय)। अतः विकल्प (a) सही है।",
+      "en": "The definition of 'Critical Wildlife Habitat' is included in the Forest Rights Act, 2006. On the other hand, the Baiga (tribe) mainly residing in Dindori district of Madhya Pradesh was given habitat rights under the Forest Rights Act, 2006 in the year 2015. It is the first tribe in the country to get this right. Under the Forest Rights Act, 2006, the Union Ministry of Tribal Affairs officially takes decisions and makes declarations regarding habitat rights for particularly vulnerable tribal groups in any part of India (not the Environment Ministry). Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 34,
+    "year": "2018",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "प्रोसोपिस जूलीफ्लोरा नामक पादप प्रायः क्यों समाचारों में उल्लिखित होता है?",
+      "en": "Why is a plant called Prosopis juliflora often mentioned in news?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इसके सार का व्यापक रूप से प्रसाधन-सामग्रियों में उपयोग होता है।",
+        "en": "Its extract is widely used in cosmetics."
+      },
+      {
+        "id": "B",
+        "hi": "जिस क्षेत्र में यह उगता है वहाँ की जैव-विविधता को कम करने लगता है।",
+        "en": "It tends to reduce the biodiversity in the area in which it grows."
+      },
+      {
+        "id": "C",
+        "hi": "इसके सार का उपयोग कीटनाशकों के संश्लेषण में किया जाता है।",
+        "en": "Its extract is used in the synthesis of pesticides."
+      },
+      {
+        "id": "D",
+        "hi": "उपर्युक्त में से कोई नहीं",
+        "en": "None of the above"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "प्रोसोपिस जूलीफ्लोरा पादप जहाँ उगता है वहाँ की जैव विविधता को कम करने लगता है। इसके कारण इसके आस-पास के क्षेत्रों में वनस्पति को नुकसान होता है। साथ ही, यह जानवरों को भी नुकसान पहुँचाता है। इसके इस दुर्गुण के कारण मार्च 2017 में मद्रास हाईकोर्ट ने तथा मार्च 2018 में दिल्ली हाईकोर्ट ने भी इसे हटाने के निर्देश दिये हैं। अतः दिये गए इन विकल्पों में से (b) सही है।",
+      "en": "Prosopis juliflora plant tends to reduce the biodiversity in the area where it grows. Because of this, the vegetation in its surrounding areas is damaged. Also, it harms animals. Due to this demerit, the Madras High Court in March 2017 and the Delhi High Court in March 2018 have also given instructions to remove it. Hence, among these given options (b) is correct."
+    }
+  },
+  {
+    "id": 35,
+    "year": "2018",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "विश्व की सर्वाधिक प्रवाल भित्तियाँ उष्णकटिबंधीय सागर जलों में मिलती हैं।",
+        "en": "Most of the world's coral reefs are in tropical waters."
+      },
+      {
+        "id": 2,
+        "hi": "विश्व की एक-तिहाई से अधिक प्रवाल भित्तियाँ ऑस्ट्रेलिया, इंडोनेशिया और फिलीपींस के राज्य-क्षेत्रों में स्थित हैं।",
+        "en": "More than one-third of the world's coral reefs are located in the territories of Australia, Indonesia and Philippines."
+      },
+      {
+        "id": 3,
+        "hi": "उष्णकटिबंधीय वर्षा वनों की अपेक्षा, प्रवाल भित्तियाँ कहीं अधिक संख्या में जंतु संघों का परपोषण करती हैं।",
+        "en": "Coral reefs host far more number of animal phyla than those hosted by tropical rainforests."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "विश्व की सर्वाधिक प्रवाल भित्तियाँ उष्णकटिबंधीय सागरीय जल में मिलती हैं। विश्व की एक-तिहाई से अधिक प्रवाल भित्तियाँ ऑस्ट्रेलिया, इंडोनेशिया और फिलीपींस के राज्य-क्षेत्रों में अवस्थित हैं। उष्णकटिबंधीय वर्षा वनों की अपेक्षा प्रवाल भित्तियाँ कहीं अधिक संख्या में जंतु संघों का परपोषण करती हैं। अतः विकल्प (d) सही है।",
+      "en": "Most of the world's coral reefs are found in tropical marine waters. More than one-third of the world's coral reefs are located in the territories of Australia, Indonesia and Philippines. Coral reefs host a much larger number of animal phyla than tropical rainforests. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 36,
+    "year": "2017",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कुछ पौधों के परागण पर प्रतिकूल प्रभाव पड़ सकता है।",
+        "en": "Pollination of some plants could be adversely affected."
+      },
+      {
+        "id": 2,
+        "hi": "कुछ कृष्य पौधों में कवकीय संक्रमण प्रचंड रूप से बढ़ सकता है।",
+        "en": "There could be a drastic increase in the fungal infections of some cultivated plants."
+      },
+      {
+        "id": 3,
+        "hi": "इसके कारण बर्रों, मकड़ियों और पक्षियों की कुछ प्रजातियों की समष्टि में गिरावट हो सकती है।",
+        "en": "It could lead to a fall in the population of some species of wasps, spiders and birds."
+      }
+    ],
+    "question": {
+      "hi": "कुछ कारणों वश, यदि तितलियों की जाति (स्पीशीज़) की संख्या में बड़ी गिरावट होती है, तो इसका/इसके संभावित परिणाम क्या हो सकता/सकते है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Due to some reasons, if there is a huge fall in the population of species of butterflies, what could be its likely consequence/consequences?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "तितलियाँ पौधों के परागण में सहायक होती हैं, अतः तितलियों की संख्या में गिरावट से परागण पर प्रतिकूल प्रभाव पड़ेगा। अतः कथन (1) सही है। तितलियों की संख्या में गिरावट का कवक संक्रमण में वृद्धि से कोई स्पष्ट संबंध नहीं है। अतः कथन (2) गलत है। तितलियों की संख्या में गिरावट से आहार शृंखला नकारात्मक रूप से प्रभावित होगी। अतः कथन (3) सही है। अतः विकल्प (c) सही है।",
+      "en": "Butterflies are helpful in pollination of plants, so a decline in the number of butterflies will have an adverse effect on pollination. Hence statement (1) is correct. There is no clear relation between the decline in the number of butterflies and the increase in fungal infection. Hence statement (2) is incorrect. A decline in the number of butterflies will negatively affect the food chain. Hence statement (3) is correct. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 37,
+    "year": "2017",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "यदि आप घड़ियाल को उनके प्राकृतिक आवास में देखना चाहते हैं, तो निम्नलिखित में से किस स्थान पर जाना सबसे सही है?",
+      "en": "If you want to see gharials in their natural habitat, which one of the following is the best place to visit?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भितरकणिका मैंग्रोव",
+        "en": "Bhitarkanika Mangroves"
+      },
+      {
+        "id": "B",
+        "hi": "चंबल नदी",
+        "en": "Chambal River"
+      },
+      {
+        "id": "C",
+        "hi": "पुलिकट झील",
+        "en": "Pulicat Lake"
+      },
+      {
+        "id": "D",
+        "hi": "दीपोर बील",
+        "en": "Deepor Beel"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "घड़ियाल गहरे, साफ और तेज़ी से बहने वाले पानी में निवास करते हैं। चम्बल नदी इनका एक महत्त्वपूर्ण प्राकृतिक आवास है।",
+      "en": "Gharials reside in deep, clear and fast-flowing water. Chambal river is an important natural habitat for them."
+    }
+  },
+  {
+    "id": 38,
+    "year": "2016",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के निम्नलिखित क्षेत्रों में से 'ग्रेट इंडियन हॉर्नबिल' के अपने प्राकृतिक आवास में पाए जाने की सबसे अधिक संभावना कहाँ है?",
+      "en": "In which of the following regions of India are you most likely to come across the 'Great Indian Hornbill' in its natural habitat?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "उत्तर-पश्चिमी भारत के रेतीले मरुस्थल",
+        "en": "Sand deserts of northwest India"
+      },
+      {
+        "id": "B",
+        "hi": "जम्मू-कश्मीर के उच्चतर हिमालय क्षेत्र",
+        "en": "Higher Himalayas of Jammu and Kashmir"
+      },
+      {
+        "id": "C",
+        "hi": "पश्चिमी गुजरात के लवण कच्छ क्षेत्र",
+        "en": "Salt marshes of western Gujarat"
+      },
+      {
+        "id": "D",
+        "hi": "पश्चिमी घाट",
+        "en": "Western Ghats"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "हॉर्नबिल पक्षी उष्णकटिबंधीय वनों के बड़े और लंबे वृक्षों में निवास करती है। भारत में हॉर्नबिल पक्षी की 9 प्रजातियाँ पायी जाती हैं जिसमें इंडियन ग्रे हॉर्नबिल, मालाबार ग्रे हॉर्नबिल, मालाबार पाइड हॉर्नबिल और ग्रेट इंडियन हॉर्नबिल प्रजातियाँ पश्चिमी घाट में पायी जाती हैं। \nनोट: 'हॉर्नबिल' महोत्सव प्रतिवर्ष नगालैंड में दिसंबर के प्रथम सप्ताह में मनाया जाता है। इसे ‘Festival of Festivals’ कहा जाता है।",
+      "en": "Hornbill birds reside in large and tall trees of tropical forests. 9 species of hornbill birds are found in India, in which Indian Grey Hornbill, Malabar Grey Hornbill, Malabar Pied Hornbill and Great Indian Hornbill species are found in the Western Ghats.\nNote: 'Hornbill' festival is celebrated every year in Nagaland in the first week of December. It is called 'Festival of Festivals'."
+    }
+  },
+  {
+    "id": 39,
+    "year": "2016",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह समुद्री जल में तीन किलोमीटर तक तैरने में सक्षम है।",
+        "en": "It is capable of swimming up to three kilometres in seawater."
+      },
+      {
+        "id": 2,
+        "hi": "यह मैंग्रोव (Mangroves) की चराई पर जीता है।",
+        "en": "It survives by grazing on mangroves."
+      },
+      {
+        "id": 3,
+        "hi": "यह जंगली होता है और पालतू नहीं बनाया जा सकता है।",
+        "en": "It lives in the wild and cannot be domesticated."
+      }
+    ],
+    "question": {
+      "hi": "भारत में पाई जाने वाली नस्ल, 'खाराई ऊँट' के बारे में अनूठा क्या है/हैं?\nनीचे दिये गए कूटों का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "What is/are unique about 'Kharai camel', a breed found in India?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "खाराई ऊँट केवल गुजरात में पाए जाते हैं। यह सामान्य ऊँट से छोटा होता है तथा मैंग्रोव घास को चरने के लिये प्रतिदिन 5-7 किमी. जाता है। इनका पालन 'रेवारी' तथा 'समा' जनजाति के लोग करते हैं (अतः यह पालतू है)। पिछले कई वर्षों से इनकी संख्या में गिरावट आई है (चारा/मैंग्रोव की कमी के कारण)। इसे IUCN की 'संकटग्रस्त' (Endangered) सूची में डाला गया है। इसे 'समुद्र का जहाज़' भी कहा जाता है। अतः विकल्प (a) सही है।",
+      "en": "Kharai camels are found only in Gujarat. It is smaller than a normal camel and travels 5-7 km every day to graze on mangrove grass. They are reared by people of 'Rebari' and 'Sama' tribes (so it is domesticated). Their numbers have declined over the past few years (due to lack of fodder/mangroves). It has been put in the 'Endangered' list of IUCN. It is also called 'Ship of the Sea'. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 40,
+    "year": "2016",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह दक्षिण भारत के एक भाग में पाई जाने वाली एक वृक्ष जाति है।",
+        "en": "It is a tree species found in a part of South India."
+      },
+      {
+        "id": 2,
+        "hi": "यह दक्षिण भारत के उष्णकटिबंधीय वर्षावन क्षेत्रों के अति महत्त्वपूर्ण वृक्षों में से एक है।",
+        "en": "It is one of the most important trees in the tropical rainforest areas of South India."
+      }
+    ],
+    "question": {
+      "hi": "समाचारों में कभी-कभी दिखाई देने वाले 'रेड सैंडर्स (Red Sanders)' के संदर्भ में निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to 'Red Sanders', sometimes seen in the news, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "'रेड सैंडर्स (Red Sanders)/ रक्त चंदन' दक्षिण भारत में पाई जाने वाली वनस्पति है। यह प्रायद्वीपीय (दक्षिण भारत) भारत के दक्षिण-पूर्वी भागों पाए जाते हैं। विशेषरूप से पालकोंडा तथा शेषाचलम श्रेणी इसके लिये प्रसिद्ध हैं। यह \"उष्णकटिबंधीय शुष्क आर्द्र पर्णपाती\" वन है (वर्षावन नहीं)। इसका उपयोग चिकित्सा, डाई बनाने तथा प्राच्य (Oriental) संगीत यंत्र बनाने में किया जाता है। इसका अवैध व्यापार होता है। यह स्थानिक तथा संकटग्रस्त हैं। अतः विकल्प (a) सही है।",
+      "en": "'Red Sanders/ Rakt Chandan' is a flora found in South India. They are found in the south-eastern parts of peninsular (South India) India. Especially the Palkonda and Seshachalam ranges are famous for this. It is a \"tropical dry moist deciduous\" forest (not rainforest). It is used in medicine, making dyes and oriental musical instruments. It is traded illegally. It is endemic and endangered. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 41,
+    "year": "2016",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "हाल ही में हमारे वैज्ञानिकों ने केले के पौधे की एक नई और भिन्न जाति की खोज की है, जिसकी ऊँचाई लगभग 11 मीटर तक जाती है और उसके फल का गूदा नारंगी रंग का है। यह भारत के किस भाग में खोजी गई है?",
+      "en": "Recently, our scientists have discovered a new and distinct species of banana plant which attains a height of about 11 metres and has orange-coloured fruit pulp. In which part of India has it been discovered?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अंडमान द्वीप",
+        "en": "Andaman Islands"
+      },
+      {
+        "id": "B",
+        "hi": "अन्नामलाई वन",
+        "en": "Anamalai Forests"
+      },
+      {
+        "id": "C",
+        "hi": "मैकाल पहाड़ियाँ",
+        "en": "Maikal Hills"
+      },
+      {
+        "id": "D",
+        "hi": "पूर्वोत्तर उष्णकटिबंधीय वर्षा वन",
+        "en": "Tropical rain forests of northeast"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "11 मीटर केले की एक भिन्न जाति की खोज अंडमान द्वीप में की गई है। इसकी खोज बॉटनिकल सर्वे ऑफ इंडिया (BSI) द्वारा की गई है। यह नियमित केले से लगभग तीन गुना लंबी प्रजाति है।\nभारतीय वनस्पति सर्वेक्षण के वैज्ञानिकों ने छोटे अण्डमान द्वीपों के दूरस्थ उष्णकटिबंधीय वर्षा वन क्षेत्र से केले की एक नई प्रजाति की खोज की है। यह प्रजाति, मूसा इंडेंडामेनेंसिस, द्वीप के कृष्ण नालाह वन के लगभग 16 किमी. अंदर स्थित है। यह नई प्रजाति लगभग 11 मीटर ऊँची होती है जबकि सामान्य केले की प्रजाति की ऊँचाई तीन से चार मीटर होती है। नई प्रजाति के फल का आकार लगभग 1 मीटर होता है जो नियमित प्रजाति के केले के आकार से लगभग तीन गुना बड़ा होता है।",
+      "en": "A distinct species of 11 meter banana has been discovered in the Andaman Islands. It was discovered by the Botanical Survey of India (BSI). It is about three times taller than a regular banana. Scientists of the Botanical Survey of India have discovered a new species of banana from the remote tropical rain forest region of Little Andaman Islands. The species, Musa indandamanensis, is located about 16 km inside the Krishna Nalah forest in the island. This new species is about 11 metres high, whereas the normal banana species is about three to four metres high. The fruit size of the new species is about 1 metre which is about three times the size of a regular species banana."
+    }
+  },
+  {
+    "id": 42,
+    "year": "2015",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा एक नेशनल पार्क इसलिये अनूठा है कि वह एक प्लवमान (फ्लोटिंग) वनस्पति से युक्त अनूप (स्वैंप) होने के कारण समृद्ध जैव-विविधता को बढ़ावा देता है?",
+      "en": "Which one of the following National Parks has a climate that varies from tropical to subtropical, temperate and arctic? (Wait, the English translation of this question was 'Which one of the following National Parks is unique in being a swamp with floating vegetation that supports a rich biodiversity?')"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भीतरकणिका नेशनल पार्क",
+        "en": "Bhitarkanika National Park"
+      },
+      {
+        "id": "B",
+        "hi": "केइबुल लामजाओ नेशनल पार्क",
+        "en": "Keibul Lamjao National Park"
+      },
+      {
+        "id": "C",
+        "hi": "केवलादेव घाना नेशनल पार्क",
+        "en": "Keoladeo Ghana National Park"
+      },
+      {
+        "id": "D",
+        "hi": "सुल्तानपुर नेशनल पार्क",
+        "en": "Sultanpur National Park"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "केइबुल लामजाओ राष्ट्रीय पार्क मणिपुर राज्य के इंफाल और विष्णुपुर ज़िले में स्थित है। इसे 1977 में राष्ट्रीय पार्क घोषित किया गया था। यह पार्क लोकटक झील में स्थित है तथा यह विश्व का एकमात्र तैरता हुआ (Floating Park) राष्ट्रीय पार्क है। रामसर अभिसमय के तहत इसे 'अंतर्राष्ट्रीय महत्त्व का आर्द्रस्थल' घोषित किया गया है। इस उद्यान का प्रमुख जीव अति संकटग्रस्त (Critically Endangered) संगाई (मणिपुरी हिरण) है। अतः विकल्प (b) सही है।",
+      "en": "Keibul Lamjao National Park is located in Imphal and Bishnupur districts of Manipur state. It was declared a national park in 1977. This park is situated in Loktak Lake and it is the only floating national park in the world. It has been declared a 'Wetland of International Importance' under the Ramsar Convention. The prominent animal of this park is the critically endangered Sangai (Manipuri deer). Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 43,
+    "year": "2015",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह एक शाकाहारी समुद्री जानवर है।",
+        "en": "It is a herbivorous marine animal."
+      },
+      {
+        "id": 2,
+        "hi": "यह भारत के पूरे समुद्र तट के साथ-साथ पाया जाता है।",
+        "en": "It is found along the entire coast of India."
+      },
+      {
+        "id": 3,
+        "hi": "इसे वन्य जीव (संरक्षण) अधिनियम, 1972 की अनुसूची-I के अधीन विधिक संरक्षण दिया गया है।",
+        "en": "It is given legal protection under Schedule I of the Wildlife (Protection) Act, 1972."
+      }
+    ],
+    "question": {
+      "hi": "भारत में पाए जाने वाले स्तनधारी 'ड्यूगोंग' के सन्दर्भ में, निम्नलिखित कथनों में से कौन-सा/से सही है/हैं?\nनीचे दिये गए कूटों का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "With reference to 'Dugong', a mammal found in India, which of the following statements is/are correct?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "ड्यूगोंग (Dugong), मध्यम आकार का एक सागरीय स्तनधारी जीव है। इसे प्रायः समुद्री गाय (Sea Cow) भी कहा जाता है। यह एक शाकाहारी जीव है जो समुद्री घासों (Sea Grass Meadows) पर निर्भर रहता है। यही कारण है कि यह समुद्रतटीय सागरों में ही निवास करता है जहाँ समुद्री घास के चरागाह इसे पर्याप्त मात्रा में उपलब्ध होते हैं। यह जीव उष्णकटिबंधीय छिछले जलीय भागों एवं उपोष्ण कटिबंधों के तटीय एवं द्वीपीय भागों में, विशेषकर भारत-प्रशांत क्षेत्र में पूर्वी अफ्रीका से सोलोमन एवं वनुआतू द्वीप तक पाया जाता है। ड्यूगोंग, भारत के मन्नार की खाड़ी, पाल्क खाड़ी, कच्छ की खाड़ी एवं अंडमान-निकोबार द्वीप समूह में पाया जाता है। अतः यह भारत के पूरे समुद्र-तट के साथ नहीं पाया जाता है। अतः कथन 2 गलत है। सरकार द्वारा ड्यूगोंग के संरक्षण के लिये कुछ महत्त्वपूर्ण कदम उठाए गए हैं। 'तटीय पारितंत्र का संरक्षण कार्यक्रम' के तहत ड्यूगोंग के संरक्षण हेतु टास्क फोर्स (Task Force for Conservation of Dugong) का गठन किया गया है। इस जीव को भारतीय वन्यजीव संरक्षण अधिनियम, 1972 के तहत अनुसूची-1 में शामिल किया गया है, जो ड्यूगोंग को उच्च वैधानिक सुरक्षा प्रदान करता है। अतः विकल्प (c) सही है।",
+      "en": "Dugong is a medium-sized marine mammal. It is often called Sea Cow. It is a herbivorous animal that depends on Sea Grass Meadows. This is the reason why it resides only in coastal seas where sea grass pastures are available to it in sufficient quantities. This organism is found in shallow tropical waters and coastal and island parts of the subtropics, especially in the Indo-Pacific region from East Africa to Solomon and Vanuatu islands. Dugong is found in the Gulf of Mannar, Palk Bay, Gulf of Kutch and Andaman and Nicobar Islands of India. Therefore, it is not found along the entire coast of India. Hence statement 2 is incorrect. Some important steps have been taken by the government for the conservation of Dugongs. Under the 'Coastal Ecosystem Conservation Program', a Task Force for Conservation of Dugong has been formed. This animal is included in Schedule-1 under the Indian Wildlife Protection Act, 1972, which provides high legal protection to Dugongs. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 44,
+    "year": "2015",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा एक भारत का राष्ट्रीय जलीय प्राणी है?",
+      "en": "Which one of the following is the national aquatic animal of India?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "खारे पानी का मगर",
+        "en": "Saltwater crocodile"
+      },
+      {
+        "id": "B",
+        "hi": "ओलिव रिडले टर्टल (कूर्म)",
+        "en": "Olive ridley turtle"
+      },
+      {
+        "id": "C",
+        "hi": "गंगा की डॉल्फिन",
+        "en": "Gangetic dolphin"
+      },
+      {
+        "id": "D",
+        "hi": "घड़ियाल",
+        "en": "Gharial"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "गंगा नदी की डॉल्फिन: 5 अक्टूबर, 2009 को गंगा नदी की डॉल्फिन को भारत का राष्ट्रीय जलीय प्राणी घोषित किया गया। यह एक स्तनधारी जीव है। यह दक्षिण एशियाई देशों की नदियों में पाया जाता है। इसकी आँखें लेंस-रहित होती हैं फिर भी यह प्रकाश की दिशा तथा तीव्रता का पता लगा सकती है। इसकी घ्राण शक्ति अत्यंत तीव्र होती है। यह IUCN की लाल सूची में शामिल संकटापन्न (Endangered) जीव है। इसे भारतीय वन्य जीव संरक्षण कानून में भी संकटापन्न जीव रूप में शामिल किया गया है। अब भारत में इसकी संख्या 2 हज़ार से भी कम है। गंगा में बढ़ता प्रदूषण, बाँधों का निर्माण व शिकार इसकी संख्या में कमी के प्रमुख कारण हैं। अतः विकल्प (c) सही है।",
+      "en": "Gangetic Dolphin: On October 5, 2009, the Gangetic Dolphin was declared the national aquatic animal of India. It is a mammal. It is found in the rivers of South Asian countries. Its eyes are lensless, yet it can detect the direction and intensity of light. Its sense of smell is very acute. It is an endangered animal included in the IUCN Red List. It has also been included as an endangered animal in the Indian Wildlife Protection Act. Now its number in India is less than 2 thousand. Increasing pollution in the Ganges, construction of dams and hunting are the main reasons for the decline in its numbers. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 45,
+    "year": "2014",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "जैव विविधता के साथ-साथ मनुष्य के परम्परागत जीवन के संरक्षण के लिये सबसे महत्त्वपूर्ण रणनीति निम्नलिखित में से किस एक की स्थापना करने में निहित है?",
+      "en": "The most important strategy for the conservation of biodiversity together with traditional human life is the establishment of"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "जीवमंडल निचय (रिज़र्व)",
+        "en": "biosphere reserves"
+      },
+      {
+        "id": "B",
+        "hi": "वानस्पतिक उद्यान",
+        "en": "botanical gardens"
+      },
+      {
+        "id": "C",
+        "hi": "राष्ट्रीय उपवन",
+        "en": "national parks"
+      },
+      {
+        "id": "D",
+        "hi": "वन्यजीव अभयारण्य",
+        "en": "wildlife sanctuaries"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "बायोस्फीयर रिज़र्व: बायोस्फीयर रिज़र्व जैव विविधता संरक्षण की स्व-स्थाने (In-Situ) विधि के अंतर्गत संरक्षण स्थल हैं। ये स्थलीय तथा तटीय पारितंत्रों के क्षेत्र हैं जो जैव विविधता के धारणीय उपयोग के साथ उसके संरक्षण हेतु समाधान प्रस्तुत करते हैं। ये अंतर्राष्ट्रीय स्तर पर मान्यता प्राप्त, राष्ट्रीय सरकारों द्वारा नामित होते हैं तथा जहाँ पर स्थित हैं, उस राज्य के अधिकार क्षेत्र में आते हैं। अतः विकल्प (a) सही है।",
+      "en": "Biosphere Reserves: Biosphere reserves are conservation sites under the in-situ method of biodiversity conservation. These are areas of terrestrial and coastal ecosystems promoting solutions to reconcile the conservation of biodiversity with its sustainable use. They are internationally recognized, nominated by national governments and remain under the sovereign jurisdiction of the states where they are located. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 46,
+    "year": "2014",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "चित्रित बलाक",
+        "en": "Painted Stork"
+      },
+      {
+        "id": 2,
+        "hi": "साधारण मैना",
+        "en": "Common Myna"
+      },
+      {
+        "id": 3,
+        "hi": "काली गर्दन वाला सारस",
+        "en": "Black-necked Crane"
+      }
+    ],
+    "question": {
+      "hi": "यदि आप ग्रामीण क्षेत्र से होकर गुज़रते हैं, तो आपको यह देखने को मिल सकता है कि अनेक प्रकार के पक्षी, चरने वाले पशुओं/भैंसों के पीछे-पीछे चलते हैं और उनके घास में चलने से अशान्त होने वाले कीटों को पकड़ते हैं। निम्नलिखित में से कौन-सा/से ऐसा/ऐसे पक्षी है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "If you walk through countryside, you are likely to see some birds foraging alongside cattle to seize the insects disturbed by their movement through grasses. Which of the following is/are such bird/birds?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "चित्रित बलाक अथवा सारस, पानी में चलने वाले (Wading Bird) सारस कुल का एक बड़ा पक्षी है जो हिमालय के दक्षिण में भारतीय उपमहाद्वीप एवं विस्तारित रूप से दक्षिण-पूर्व एशिया के आर्द्र मैदानों में पाए जाते हैं। साधारण मैना, एशिया की स्थानिक प्रजाति है तथा भारत में पाई जाने वाली मैना को भारतीय मैना कहा जाता है। IUCN ने मैना को तीसरी सबसे बड़ी आक्रामक प्रजाति (Invasive Species) माना है। यह एक सर्वाहारी पक्षी है। साधारण मैना भारतीय उपमहाद्वीप के संपूर्ण भू-भाग पर पाई जाती है। ग्रामीण इलाकों में यह प्रजाति जानवरों के पीछे-पीछे झुंड बनाकर चलती हैं ताकि जानवरों के विक्षोभ से अस्थिर होने वाले कीड़ों का भक्षण कर सकें। काली गर्दन वाला सारस मुख्य रूप से तिब्बत के उच्च तुंगता वाले भाग में निवास करता है। चीन में इसकी काफी संख्या पाई जाती है तथा भारत में यह प्रजाति कम संख्या में जम्मू-कश्मीर, अरुणाचल प्रदेश व सिक्किम में पाई जाती है। इस प्रश्न का सही उत्तर विकल्प (b) है।",
+      "en": "The Painted Stork is a large wading bird in the stork family that is found in the wetlands of the plains of the Indian subcontinent south of the Himalayas, and extending into Southeast Asia. The Common Myna is a bird endemic to Asia and the myna found in India is called the Indian myna. IUCN has considered the myna as the third largest invasive species. It is an omnivorous bird. The Common Myna is found all over the Indian subcontinent. In rural areas, this species walks in flocks behind animals to eat the insects that are disturbed by the animals. The Black-necked Crane mainly resides in the high altitude areas of Tibet. A large number of it is found in China and in India this species is found in small numbers in Jammu and Kashmir, Arunachal Pradesh and Sikkim. The correct answer to this question is option (b)."
+    }
+  },
+  {
+    "id": 47,
+    "year": "2014",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "दाम्फा (दाम्पा) टाइगर रिज़र्व - मिज़ोरम",
+        "en": "Dampa Tiger Reserve - Mizoram"
+      },
+      {
+        "id": 2,
+        "hi": "गुमटी वन्यजीव अभयारण्य - सिक्किम",
+        "en": "Gumti Wildlife Sanctuary - Sikkim"
+      },
+      {
+        "id": 3,
+        "hi": "सारामती शिखर - नगालैंड",
+        "en": "Saramati Peak - Nagaland"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये:\nउपर्युक्त युग्मों में से कौन-सा/से सही सुमेलित है/हैं?",
+      "en": "Consider the following pairs:\nWhich of the above pairs is/are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "दाम्पा (डाम्पा) टाइगर रिज़र्व: इसको वर्ष 1994 में प्रोजेक्ट टाइगर के तहत टाइगर रिज़र्व का दर्जा प्रदान किया गया। यह मिज़ोरम राज्य के पश्चिमी भाग में अवस्थित है, यहाँ उष्णकटिबंधीय वनों में प्रचुर मात्रा में वनस्पति एवं प्राणी जैव-विविधता पाई जाती है। अतः युग्म 1 सही है।\nगुमटी वन्यजीव अभयारण्य: त्रिपुरा राज्य के दक्षिणी त्रिपुरा ज़िले में विस्तारित है। यहाँ एक बड़ी झील भी है, यहाँ के प्राकृतिक वातावरण में कोई विशेष छेड़छाड़ नहीं हुई है तथा यह कई घरेलू एवं प्रवासी पक्षियों का निवास-स्थल है। अतः युग्म 2 गलत है।\nसारामती शिखर: नगालैंड राज्य में म्याँमार की सीमा से संलग्न भाग में स्थित है। इसकी ऊँचाई 3826 मीटर है। सारामती शिखर नगालैंड की सबसे ऊँची पर्वत चोटी है। अतः युग्म 3 सही है। विकल्प (c) सही है।",
+      "en": "Dampa Tiger Reserve: It was given the status of Tiger Reserve under Project Tiger in the year 1994. It is located in the western part of Mizoram state, abundant flora and fauna biodiversity is found here in the tropical forests. Hence, pair 1 is correct.\nGumti Wildlife Sanctuary: Expanded in South Tripura district of Tripura state. There is also a large lake here, there has been no special tampering with the natural environment here and it is the habitat of many domestic and migratory birds. Hence, pair 2 is incorrect.\nSaramati Peak: Located in the part adjacent to the border of Myanmar in Nagaland state. Its height is 3826 meters. Saramati Peak is the highest mountain peak of Nagaland. Hence, pair 3 is correct. Option (c) is correct."
+    }
+  },
+  {
+    "id": 48,
+    "year": "2014",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "नदियों पर बाँधों और बैराजों का निर्माण",
+        "en": "Construction of dams and barrages on rivers"
+      },
+      {
+        "id": 2,
+        "hi": "नदियों में मगरमच्छों की समष्टि में वृद्धि",
+        "en": "Increase in the population of crocodiles in rivers"
+      },
+      {
+        "id": 3,
+        "hi": "संयोग से मछली पकड़ने के जालों में फँस जाना",
+        "en": "Getting trapped in fishing nets accidentally"
+      },
+      {
+        "id": 4,
+        "hi": "नदियों के आस-पास के फसल-खेतों में संश्लिष्ट उर्वरकों और अन्य कृषि रसायनों का इस्तेमाल",
+        "en": "Use of synthetic fertilizers and other agricultural chemicals in crop-fields in the vicinity of rivers"
+      }
+    ],
+    "question": {
+      "hi": "गंगा नदी डॉल्फिन की समष्टि में ह्रास के लिये शिकार-चोरी के अलावा और क्या संभव कारण हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Other than poaching, what are the possible reasons for the decline in the population of Ganges River Dolphins?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "शिकार एवं चोरी के अलावा गंगा डॉल्फिन की समष्टि में ह्रास के प्रमुख कारण निम्नलिखित हैं:\nआवासों का विनाश एवं अवक्रमण (Degradation)- अनेक बाँधों एवं सिंचाई संबंधी परियोजनाओं के कारण प्रवाह एवं गुणवत्ता में परिवर्तन, तलछट जमाव के कारण आवासों का विनाश एवं अवक्रमण हुआ है, साथ ही बाँधों के कारण इनके सदस्यों में अलगाव की वजह से प्रजनन भी प्रभावित हुआ है।\nप्रदूषण- औद्योगिक अपशिष्टों एवं नदियों के आस-पास के क्षेत्रों में प्रयुक्त संश्लिष्ट उर्वरकों एवं कृषि रसायनों के कारण इनके ऊतकों पर गंभीर प्रभाव पड़ा है। इसके अलावा अनेक रसायन गंगा डॉल्फिन की जनन क्षमता पर भी नकारात्मक असर डालते हैं।\nमछली पकड़ने के लिये प्रयुक्त जालों एवं हुकों में फँसकर भी अनेक गंगा डॉल्फिनों की मृत्यु हो जाती है। जिन क्षेत्रों में गंगा डॉल्फिन पाई जाती है, वहाँ मगरमच्छों की संख्या में वृद्धि नहीं, बल्कि कमी दर्ज की गई है। इस कमी का कारण भी उपर्युक्त बिंदु हैं। अतः कथन 1, 3 और 4 सही हैं जबकि कथन 2 गलत है।",
+      "en": "Apart from hunting and poaching, the main reasons for the decline in the population of Ganges dolphins are:\nHabitat destruction and degradation- Changes in flow and quality due to many dams and irrigation projects, habitat destruction and degradation due to sedimentation, as well as reproduction has been affected due to separation of their members because of dams.\nPollution- Industrial wastes and synthetic fertilizers and agro-chemicals used in areas around rivers have severely affected their tissues. Apart from this, many chemicals also negatively affect the reproductive capacity of Ganges dolphins.\nMany Ganges dolphins also die by getting caught in nets and hooks used for fishing. In the areas where Ganges dolphin is found, the number of crocodiles has not increased, but a decrease has been recorded. The reason for this decrease is also the above points. Hence statements 1, 3 and 4 are correct while statement 2 is incorrect."
+    }
+  },
+  {
+    "id": 49,
+    "year": "2013",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कॉर्बेट राष्ट्रीय उद्यान - गंगा",
+        "en": "Corbett National Park - Ganga"
+      },
+      {
+        "id": 2,
+        "hi": "काजीरंगा राष्ट्रीय उद्यान - मानस",
+        "en": "Kaziranga National Park - Manas"
+      },
+      {
+        "id": 3,
+        "hi": "साइलेंट वैली राष्ट्रीय उद्यान - कावेरी",
+        "en": "Silent Valley National Park - Cauvery"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये (राष्ट्रीय उद्यान और उद्यान से होकर बहने वाली नदी):\nउपर्युक्त युग्मों में से कौन-सा/से सही सुमेलित है/हैं?",
+      "en": "Consider the following pairs (National Park and River flowing through the Park):\nWhich of the above pairs is/are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 3",
+        "en": "1 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "कॉर्बेट राष्ट्रीय उद्यान: यह भारत का पहला राष्ट्रीय उद्यान है। इसकी स्थापना 1936 में 'हैली नेशनल पार्क' के रूप में संकटग्रस्त बंगाल टाइगर के संरक्षण हेतु की गई थी। इस उद्यान में पतली दून घाटी का निर्माण यहाँ बहने वाली नदी रामगंगा द्वारा किया गया है। अतः युग्म 1 गलत है।\nकाजीरंगा राष्ट्रीय उद्यान: यह उद्यान असम के नगांव एवं गोलाघाट ज़िले में स्थित है। ब्रह्मपुत्र नदी इस उद्यान की उत्तरी एवं पूर्वी सीमा तथा मोरा डिफ्लू नदी दक्षिणी सीमा निर्धारित करती है। इस उद्यान में बहने वाली नदियों में प्रमुख डिफ्लू एवं धनसिरी हैं किंतु मानस नदी इस उद्यान से नहीं बहती है। अतः युग्म 2 भी गलत है।\nसाइलेंट वैली राष्ट्रीय उद्यान: यह केरल के पलक्कड़ ज़िले में नीलगिरि की पहाड़ियों के मध्य फैला है। इसके मध्य से कुन्तीपूझा एवं भरतपूझा नदियाँ बहती हैं। कावेरी इस उद्यान से प्रवाहित नहीं होती है। अतः युग्म 3 भी गलत है।",
+      "en": "Corbett National Park: It is the first national park in India. It was established in 1936 as 'Hailey National Park' to protect the endangered Bengal tiger. The Patli Dun valley in this park is formed by the Ramganga river flowing here. Hence, pair 1 is incorrect.\nKaziranga National Park: This park is located in Nagaon and Golaghat districts of Assam. The Brahmaputra River forms the northern and eastern boundary of this park and the Mora Diphlu river forms the southern boundary. The major rivers flowing in this park are Diphlu and Dhansiri, but the Manas river does not flow through this park. Hence, pair 2 is also incorrect.\nSilent Valley National Park: It is spread amidst the Nilgiri hills in Palakkad district of Kerala. Kunthipuzha and Bharathappuzha rivers flow through its middle. Cauvery does not flow through this park. Hence, pair 3 is also incorrect."
+    }
+  },
+  {
+    "id": 50,
+    "year": "2013",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "नौकरेक जीवमंडल रिज़र्व - गारो पहाड़ियाँ",
+        "en": "Nokrek Biosphere Reserve - Garo Hills"
+      },
+      {
+        "id": 2,
+        "hi": "लोकटक (लोटक) झील - बरैल क्षेत्र",
+        "en": "Logtak (Loktak) Lake - Barail Range"
+      },
+      {
+        "id": 3,
+        "hi": "नामदफा राष्ट्रीय उद्यान - डफला पहाड़ियाँ",
+        "en": "Namdapha National Park - Dafla Hills"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये:\nउपर्युक्त युग्मों में से कौन-सा/से सही सुमेलित है/हैं?",
+      "en": "Consider the following pairs:\nWhich of the above pairs is/are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "नौकरेक जैवमंडल निचय: यह मेघालय के पश्चिमी गारो पहाड़ी में स्थित है। मई 2009 में यूनेस्को द्वारा इसे बायोस्फीयर रिज़र्व का दर्जा प्रदान किया गया। नौकरेक गारो पहाड़ी की शीर्ष चोटी है। यह रेड पांडा, एशियाई हाथी, बाघ, मार्बल बिल्ली इत्यादि प्रजातियों के लिये प्रसिद्ध है। अतः युग्म 1 सही है।\nलोकटक झील: यह पूर्वोत्तर भारत की सबसे बड़ी अलवणीय जल की झील है। यह मणिपुर के मोइरांग के समीप स्थित है। बरैल रेंज असम राज्य में स्थित है। अतः युग्म 2 गलत है।\nनामदफा राष्ट्रीय उद्यान: 'पूर्वी हिमालयन जैव-विविधता तप्तस्थल (Hotspot)' में अवस्थित है, जो अरुणाचल प्रदेश राज्य के चांगलांग ज़िले में म्याँमार की सीमा के समीप स्थित है। यह पार्क मिशमी पहाड़ियों एवं पटकाई बुम रेंज में अवस्थित है। डफला हिल्स अरुणाचल प्रदेश के पश्चिमी भाग में स्थित है। अतः युग्म 3 भी गलत है।",
+      "en": "Nokrek Biosphere Reserve: It is located in the West Garo Hills of Meghalaya. It was granted the status of Biosphere Reserve by UNESCO in May 2009. Nokrek is the highest peak of the Garo Hills. It is famous for species like Red Panda, Asian Elephant, Tiger, Marbled Cat etc. Hence, pair 1 is correct.\nLoktak Lake: It is the largest freshwater lake in Northeast India. It is located near Moirang in Manipur. Barail range is located in Assam state. Hence, pair 2 is incorrect.\nNamdapha National Park: Located in the 'Eastern Himalayan Biodiversity Hotspot', it is located near the border of Myanmar in Changlang district of Arunachal Pradesh state. This park is located in Mishmi Hills and Patkai Bum Range. Dafla Hills are located in the western part of Arunachal Pradesh. Hence, pair 3 is also incorrect."
+    }
+  },
+  {
+    "id": 51,
+    "year": "2013",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "तमिलनाडु",
+        "en": "Tamil Nadu"
+      },
+      {
+        "id": 2,
+        "hi": "केरल",
+        "en": "Kerala"
+      },
+      {
+        "id": 3,
+        "hi": "कर्नाटक",
+        "en": "Karnataka"
+      },
+      {
+        "id": 4,
+        "hi": "आंध्र प्रदेश",
+        "en": "Andhra Pradesh"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित राज्यों में से किसमें/किनमें सिंह-पुच्छी वानर (मकाक) अपने प्राकृतिक आवास में पाया जाता है?[cite: 3]\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:[cite: 3]",
+      "en": "In which of the following States is lion-tailed macaque found in its natural habitat?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "यह भारत के पश्चिमी घाट पर्वत के उत्तरी भाग में अंशी घाट (कर्नाटक) से दक्षिण में कलाकड़ पहाड़ियों (केरल और तमिलनाडु) की स्थानिक प्रजाति है, जो कर्नाटक, केरल तथा तमिलनाडु राज्य में पाई जाती है।[cite: 3] पश्चिमी घाट पर्वत का विस्तार आंध्र प्रदेश में नहीं पाया जाता बल्कि वहाँ पूर्वी घाट पर्वत का विस्तार है। अतः आंध्र प्रदेश में यह मकाक नहीं पाया जाता है।[cite: 3] साइलेंट वैली राष्ट्रीय उद्यान (केरल) इस मकाक का सबसे बड़ा निवास स्थल है।[cite: 3] अतः विकल्प (a) सही है।",
+      "en": "It is an endemic species of the Western Ghats from Anshi Ghat (Karnataka) in the north to Kalakad hills (Kerala and Tamil Nadu) in the south, which is found in the states of Karnataka, Kerala and Tamil Nadu. The expansion of the Western Ghats is not found in Andhra Pradesh, but rather the Eastern Ghats are there. Therefore, this macaque is not found in Andhra Pradesh. Silent Valley National Park (Kerala) is the largest habitat of this macaque. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 52,
+    "year": "2013",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "तारा कछुआ",
+        "en": "Star tortoise"
+      },
+      {
+        "id": 2,
+        "hi": "म़ॉनीटर छिपकली",
+        "en": "Monitor lizard"
+      },
+      {
+        "id": 3,
+        "hi": "वामन सूअर",
+        "en": "Pygmy hog"
+      },
+      {
+        "id": 4,
+        "hi": "स्पाइडर वानर",
+        "en": "Spider monkey"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पर विचार कीजिये:\nउपर्युक्त में से कौन-से भारत में प्राकृतिक रूप में पाए जाते हैं?[cite: 3]",
+      "en": "Consider the following:\nWhich of the above are naturally found in India?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 4",
+        "en": "1 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "तारा कछुआ भारत के अर्द्धशुष्क, झाड़ीदार एवं घासभूमि की स्थानीय प्रजाति है।[cite: 3] मॉनीटर छिपकली एक विशालकाय सरीसृप है, जो प्राकृतिक रूप से भारतीय प्रायद्वीप में निवास करती है।[cite: 3] 'वामन सूअर' (पिग्मी हॉग) सुअर की एक दुर्लभ प्रजाति है जो भारत के पूर्वोत्तर राज्यों में पाई जाती है।[cite: 3] स्पाइडर वानर मध्य एवं दक्षिण अमेरिका के उष्णकटिबंधीय सदाबहार वनों में पाए जाते हैं, यह प्रजाति प्राकृतिक रूप से भारत में नहीं पाई जाती है।[cite: 3] अतः सही उत्तर (a) है।[cite: 3]",
+      "en": "Star tortoise is an endemic species of semi-arid, scrub and grassland of India. Monitor lizard is a giant reptile that naturally resides in the Indian peninsula. 'Pygmy hog' is a rare species of pig found in the northeastern states of India. Spider monkeys are found in the tropical evergreen forests of Central and South America; this species is not naturally found in India. Hence the correct answer is (a)."
+    }
+  },
+  {
+    "id": 53,
+    "year": "2013",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "घड़ियाल",
+        "en": "Gharial"
+      },
+      {
+        "id": 2,
+        "hi": "चर्मपीठ कूर्म (लेदरबैक टर्टल)",
+        "en": "Leatherback turtle"
+      },
+      {
+        "id": 3,
+        "hi": "अनूप मृग",
+        "en": "Swamp deer"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित भारतीय प्राणिजात पर विचार कीजिये:\nउपर्युक्त में से कौन-सा/से संकटापन्न है/हैं?[cite: 3]",
+      "en": "Consider the following fauna of India:\nWhich of the above is/are endangered?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "भारत संकटग्रस्त प्रजातियों की संख्या के मामले में उच्च स्थान पर बना हुआ है। इनमें घड़ियाल, चर्मपीठ कूर्म (लेदरबैक टर्टल) तथा अनूप मृग भी शामिल हैं।[cite: 3] घड़ियाल को IUCN की लाल सूची में गंभीर रूप से संकटग्रस्त (Critically Endangered) प्रजाति के रूप में अंकित किया गया है।[cite: 3] चर्मपीठ कछुआ भी संकटग्रस्त है और CITES की सूची-1 में शामिल है।[cite: 3] अनूप मृग (Swamp Deer) जिसे बारहसिंगा भी कहा जाता है, IUCN की लाल सूची में संवेदनशील प्रजाति के रूप में दर्ज है।[cite: 3] अतः विकल्प (c) सही उत्तर है।",
+      "en": "India holds a high position in terms of the number of endangered species. These include the Gharial, Leatherback turtle, and Swamp deer. The Gharial is listed as a Critically Endangered species in the IUCN Red List. The Leatherback turtle is also endangered and is included in Appendix I of CITES. The Swamp Deer (Barasingha) is listed as a vulnerable species in the IUCN Red List. Hence, option (c) is the correct answer."
+    }
+  },
+  {
+    "id": 54,
+    "year": "2012",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्द्रभूमि के अंतर्गत देश का कुल भौगोलिक क्षेत्र अन्य राज्यों की तुलना में गुजरात में अधिक अंकित है।",
+        "en": "The country's total geographical area under the category of wetlands is recorded more in Gujarat as compared to other States."
+      },
+      {
+        "id": 2,
+        "hi": "भारत में तटीय आर्द्रभूमि का कुल भौगोलिक क्षेत्र, आंतरिक आर्द्रभूमि के कुल भौगोलिक क्षेत्र से अधिक है।",
+        "en": "In India, the total geographical area of coastal wetlands is larger than that of inland wetlands."
+      }
+    ],
+    "question": {
+      "hi": "भारत की आर्द्रभूमियों के सन्दर्भ में निम्नलिखित कथनों पर विचार कीजिये:[cite: 3]\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?[cite: 3]",
+      "en": "With reference to the wetlands of India, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "क्षेत्रफल के मामले में गुजरात में सर्वाधिक आर्द्रभूमि क्षेत्र आता है, जो कुल आर्द्रभूमि का 17.56% है। इस प्रकार कथन 1 सही है।[cite: 3] भारत में आंतरिक आर्द्रभूमियों का कुल भौगोलिक क्षेत्र (69.22%) तटीय आर्द्रभूमियों के कुल भौगोलिक क्षेत्र (27.13%) से अधिक है। अतः कथन 2 गलत है।[cite: 3] अतः विकल्प (a) सही है।",
+      "en": "In terms of area, Gujarat has the largest wetland area, which is 17.56% of the total wetlands. Thus statement 1 is correct. The total geographical area of inland wetlands in India (69.22%) is more than the total geographical area of coastal wetlands (27.13%). Hence statement 2 is incorrect. Thus, option (a) is correct."
+    }
+  },
+  {
+    "id": 55,
+    "year": "2012",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बांदीपुर",
+        "en": "Bandipur"
+      },
+      {
+        "id": 2,
+        "hi": "भितरकणिका",
+        "en": "Bhitarkanika"
+      },
+      {
+        "id": 3,
+        "hi": "मानस",
+        "en": "Manas"
+      },
+      {
+        "id": 4,
+        "hi": "सुंदरबन",
+        "en": "Sunderbans"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित रक्षित क्षेत्रों पर विचार कीजिये:[cite: 3]\nउपर्युक्त में से कौन-से बाघ आरक्षित क्षेत्र घोषित हैं?[cite: 3]",
+      "en": "Consider the following protected areas:\nWhich of the above are declared Tiger Reserves?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "प्रश्नांकित बांदीपुर, मानस तथा सुंदरबन टाइगर रिज़र्व के रूप में दर्ज हैं, जबकि भितरकणिका टाइगर रिज़र्व नहीं बल्कि एक राष्ट्रीय उद्यान (मगरमच्छ आदि के लिए) है।[cite: 3] इस प्रकार सही उत्तर विकल्प (b) है।",
+      "en": "The given Bandipur, Manas and Sunderbans are registered as Tiger Reserves, while Bhitarkanika is not a Tiger Reserve but a National Park (famous for crocodiles etc.). Thus the correct answer is option (b)."
+    }
+  },
+  {
+    "id": 56,
+    "year": "2012",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के निम्नलिखित में से किस वर्ग के आरक्षित क्षेत्रों में स्थानीय लोगों को जीवभार एकत्रित करने और उसके उपयोग की अनुमति नहीं है?[cite: 3]",
+      "en": "In which one among the following categories of protected areas in India are local people not allowed to collect and use the biomass?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "जैवमंडलीय आरक्षित क्षेत्रों में",
+        "en": "Biosphere Reserves"
+      },
+      {
+        "id": "B",
+        "hi": "राष्ट्रीय उद्यानों में",
+        "en": "National Parks"
+      },
+      {
+        "id": "C",
+        "hi": "रामसर सम्मेलन में घोषित आर्द्रभूमियों में",
+        "en": "Wetlands declared under Ramsar Convention"
+      },
+      {
+        "id": "D",
+        "hi": "वन्यजीव अभयारण्यों में",
+        "en": "Wildlife Sanctuaries"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "राष्ट्रीय उद्यान (National Parks) प्राकृतिक एवं जीव-भौगोलिक रूप से महत्त्वपूर्ण वनस्पति एवं वन्य जीवों से युक्त स्थान होते हैं।[cite: 3] यहाँ किसी भी प्रकार का भूमि स्वामित्व नहीं होता है तथा पशु चराई, वन कटाई, पशु हत्या एवं जैवभार (Biomass) एकत्रित करने पर पूर्ण प्रतिबंध होता है।[cite: 3] जबकि दिये गए अन्य तीन विकल्पों में आरक्षित क्षेत्रों में स्थानीय लोगों को जैवभार एकत्र करने और उसके उपयोग की अनुमति है।[cite: 3] अतः सही उत्तर (b) है।",
+      "en": "National Parks are places containing natural and bio-geographically important flora and wildlife. There is no land ownership of any kind here and there is a complete ban on animal grazing, deforestation, animal killing and collection of biomass. Whereas in the other three given options, local people are allowed to collect and use biomass in reserved areas. Hence, the correct answer is (b)."
+    }
+  },
+  {
+    "id": 57,
+    "year": "2012",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा एक प्राणी समूह संकटापन्न जातियों के संवर्ग के अंतर्गत आता है?[cite: 3]",
+      "en": "Which one of the following groups of animals belongs to the category of endangered species?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ग्रेट इंडियन बस्टर्ड, कस्तूरी मृग, लाल पांडा और एशियाई वन्य गधा",
+        "en": "Great Indian Bustard, Musk Deer, Red Panda and Asiatic Wild Ass"
+      },
+      {
+        "id": "B",
+        "hi": "कश्मीरी महामृग, चीतल, नील गाय और ग्रेट इंडियन बस्टर्ड",
+        "en": "Kashmir Stag, Cheetal, Blue Bull and Great Indian Bustard"
+      },
+      {
+        "id": "C",
+        "hi": "हिम तेंदुआ, अनूप मृग, रीसस बंदर और सारस (क्रेन)",
+        "en": "Snow Leopard, Swamp Deer, Rhesus Monkey and Saras (Crane)"
+      },
+      {
+        "id": "D",
+        "hi": "सिंहपुच्छी मकाक, नील गाय, हनुमान लंगूर और चीतल",
+        "en": "Lion-tailed Macaque, Blue Bull, Hanuman Langur and Cheetal"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "विकल्प (a) के सभी जीव नामतः ग्रेट इंडियन बस्टर्ड, कस्तूरी मृग, लाल पांडा और एशियाई वन्य गधा संकटग्रस्त (Endangered/Threatened) प्रजातियों की श्रेणी में आते हैं।[cite: 3]",
+      "en": "All the animals of option (a) namely Great Indian Bustard, Musk Deer, Red Panda and Asiatic Wild Ass come under the category of endangered/threatened species."
+    }
+  },
+  {
+    "id": 58,
+    "year": "2012",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "वैश्विक तापन",
+        "en": "Global warming"
+      },
+      {
+        "id": 2,
+        "hi": "आवास का विखंडन",
+        "en": "Fragmentation of habitat"
+      },
+      {
+        "id": 3,
+        "hi": "विदेशी जाति का संक्रमण",
+        "en": "Invasion of alien species"
+      },
+      {
+        "id": 4,
+        "hi": "शाकाहार को प्रोत्साहन",
+        "en": "Promotion of vegetarianism"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-से भौगोलिक क्षेत्र में जैव विविधता के लिये संकट हो सकते हैं?[cite: 3]\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये:[cite: 3]",
+      "en": "Which of the following can be threats to the biodiversity of a geographical area?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 4",
+        "en": "1 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "जैव विविधता के संकट के लिये निम्नलिखित कारक उत्तरदायी होते हैं- वैश्विक तापन, आवास विखंडन, विदेशी जाति का आक्रमण/संक्रमण, जलवायु परिवर्तन आदि।[cite: 3] जबकि शाकाहार को प्रोत्साहन देने से जैव विविधता को मजबूती मिलती है।[cite: 3] अतः सही विकल्प (a) होगा।[cite: 3]",
+      "en": "The following factors are responsible for the threat to biodiversity: Global warming, habitat fragmentation, invasion/infection of alien species, climate change, etc. Whereas promoting vegetarianism strengthens biodiversity. Hence, the correct option will be (a)."
+    }
+  },
+  {
+    "id": 59,
+    "year": "2012",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "कुछ वर्ष पहले तक गिद्ध भारतीय देहातों में आमतौर पर दिखाई देते थे, किंतु आजकल कभी-कभार ही नज़र आते हैं। इस स्थिति के लिये उत्तरदायी है-[cite: 3]",
+      "en": "Vultures which used to be very common in Indian countryside some years ago are rarely seen nowadays. This is attributed to"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "नवीन प्रवेशी जातियों द्वारा उनके नीड़ स्थलों का नाश",
+        "en": "the destruction of their nesting sites by new invasive species"
+      },
+      {
+        "id": "B",
+        "hi": "गोपशु मालिकों द्वारा रुग्ण पशुओं के उपचार हेतु प्रयुक्त एक औषधि",
+        "en": "a drug used by cattle owners for treating their diseased cattle"
+      },
+      {
+        "id": "C",
+        "hi": "उन्हें मिलने वाले भोजन में आई कमी",
+        "en": "scarcity of food available to them"
+      },
+      {
+        "id": "D",
+        "hi": "उनमें हुआ व्यापक, दीर्घस्थायी तथा घातक रोग",
+        "en": "a widespread, persistent and fatal disease among them"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "गिद्धों की संख्या में तीव्र कमी का प्रमुख कारण रुग्ण पशुओं के उपचार हेतु प्रयुक्त की जाने वाली डिक्लोफेनैक (Diclofenac) नामक दवा है, जो पशुओं के दर्द निवारण में सहायक होती है।[cite: 3] गिद्धों द्वारा गोपशुओं के मांस का सेवन करने से यह दवा उनके शरीर में प्रवेश कर जाती है जो कि गिद्धों की किडनी के लिये अत्यंत हानिकारक होती है।[cite: 3] अतः सही विकल्प (b) है।[cite: 3]",
+      "en": "The main reason for the sharp decline in the number of vultures is a drug called Diclofenac used for the treatment of sick animals, which helps in relieving pain in animals. By consuming the meat of cattle by vultures, this drug enters their body which is extremely harmful for the kidneys of vultures. Hence, the correct option is (b)."
+    }
+  },
+  {
+    "id": 60,
+    "year": "2012",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "ऐंटिलोप 'ऑरिक्स' और 'चीरू' के बीच क्या अंतर है?[cite: 3]",
+      "en": "What is the difference between the antelopes Oryx and Chiru?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ऑरिक्स गर्म और शुष्क क्षेत्रों में रहने के लिये अनुकूलित है जबकि चीरू ठंडे उच्च पर्वतीय घास के मैदान और अर्द्ध-मरुस्थलीय क्षेत्रों में रहने के लिये",
+        "en": "Oryx is adapted to live in hot and arid areas whereas Chiru is adapted to live in steppes and semi-desert areas of cold high mountains"
+      },
+      {
+        "id": "B",
+        "hi": "ऑरिक्स का शिकार शृंगाभों (Antlers) के लिये किया जाता है जबकि चीरू का शिकार कस्तूरी के लिये",
+        "en": "Oryx is poached for its antlers whereas Chiru is poached for its musk"
+      },
+      {
+        "id": "C",
+        "hi": "ऑरिक्स केवल पश्चिमी भारत में मिलता है जबकि चीरू केवल उत्तर-पूर्व भारत में",
+        "en": "Oryx exists in western India only whereas Chiru exists in north-east India only"
+      },
+      {
+        "id": "D",
+        "hi": "उपर्युक्त कथनों (a), (b) तथा (c) में से कोई भी सही नहीं है",
+        "en": "None of the statements (a), (b) and (c) given above is correct"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "'ऑरिक्स (Oryx)' ऐंटीलोप अफ्रीका के शुष्क क्षेत्र एवं अरब प्रायद्वीप में मिलता है जबकि चीरू ऐंटीलोप तिब्बत के पठारी क्षेत्र के अल्पाइन स्टेपी घास निवास स्थल में पाया जाता है।[cite: 3] सभी ऑरिक्स प्रजाति लगभग मरुस्थलीय जलवायु को पसंद करती हैं एवं लंबे समय तक पानी के बिना जिंदा रह सकती हैं।[cite: 3] अतः कथन (a) सही है।[cite: 3]",
+      "en": "'Oryx' antelope is found in the arid region of Africa and the Arabian Peninsula, while the Chiru antelope is found in the alpine steppe grass habitat of the Tibetan plateau region. All Oryx species prefer a near desert climate and can survive without water for long periods. Hence, statement (a) is correct."
+    }
+  },
+  {
+    "id": 61,
+    "year": "2012",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "काली गर्दन वाला सारस (कृष्णग्रीव सारस)",
+        "en": "Black-necked crane"
+      },
+      {
+        "id": 2,
+        "hi": "चीता",
+        "en": "Cheetah"
+      },
+      {
+        "id": 3,
+        "hi": "उड़न गिलहरी (कंदली)",
+        "en": "Flying squirrel"
+      },
+      {
+        "id": 4,
+        "hi": "हिम तेंदुआ",
+        "en": "Snow leopard"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पर विचार कीजिये:[cite: 3]\nउपर्युक्त में से कौन-से भारत में प्राकृतिक रूप से पाए जाते हैं?[cite: 3]",
+      "en": "Consider the following:\nWhich of the above are naturally found in India?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारत में कई प्राणी विलुप्त हो गए हैं, जैसे- डोडो पक्षी, गुलाबी सिर वाली बत्तख, भारतीय चीता, पहाड़ी बटेर आदि।[cite: 3] अतः चीता प्राकृतिक रूप से भारत में नहीं पाया जाता। काली गर्दन वाला सारस, उड़न गिलहरी और हिम तेंदुआ प्राकृतिक रूप से भारत में पाए जाते हैं।[cite: 3] अतः विकल्प (b) सही है।[cite: 3]",
+      "en": "Many animals have become extinct in India, such as the Dodo bird, Pink-headed duck, Indian Cheetah, Himalayan Quail, etc. Therefore, Cheetah is not found naturally in India. Black-necked crane, flying squirrel and snow leopard are naturally found in India. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 62,
+    "year": "2011",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "दो महत्त्वपूर्ण नदियाँ- जिनमें से एक का स्रोत झारखंड में है (और जो ओडिशा में दूसरे नाम से जानी जाती है) तथा दूसरी, जिसका स्रोत ओडिशा में है- समुद्र में प्रवाह करने से पूर्व एक ऐसे स्थान पर संगम करती हैं जो बंगाल की खाड़ी से कुछ ही दूर है। यह वन्यजीव तथा जैव-विविधता का प्रमुख स्थल है और सुरक्षित क्षेत्र है। निम्नलिखित में वह स्थल कौन-सा है?[cite: 3]",
+      "en": "Two important rivers — one with its source in Jharkhand (and known by a different name in Odisha), and another, with its source in Odisha — merge at a place only a short distance from the coast of Bay of Bengal before flowing into the sea. This is an important site of wildlife and biodiversity and a protected area. Which one of the following could be this?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भितरकणिका",
+        "en": "Bhitarkanika"
+      },
+      {
+        "id": "B",
+        "hi": "चांदीपुर-ऑन-सी",
+        "en": "Chandipur-on-sea"
+      },
+      {
+        "id": "C",
+        "hi": "गोपालपुर-ऑन-सी",
+        "en": "Gopalpur-on-sea"
+      },
+      {
+        "id": "D",
+        "hi": "सिमलीपाल",
+        "en": "Simlipal"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "ब्राह्मणी एवं वैतरणी नदियाँ समुद्र में गिरने से पूर्व जिस स्थल पर मिलती (संगम) हैं वहाँ भितरकणिका जैवमंडल निचय संरक्षित क्षेत्र स्थित है।[cite: 3] यह स्थान बंगाल की खाड़ी से कुछ दूरी पर ही है जो ओडिशा के उत्तर-पूर्वी तट के नज़दीक है।[cite: 3] ब्राह्मणी नदी का उद्गम झारखंड में राँची ज़िले से होता है जहाँ प्रारम्भ में दक्षिण कोयल नदी के नाम से जानी जाती है। ओडिशा में इसका नाम ब्राह्मणी नदी हो जाता है।[cite: 3] वैतरणी, ओडिशा के क्योंझर ज़िले से निकलती है तथा बंगाल की खाड़ी में गिरने से पूर्व ही ब्राह्मणी नदी से मिल जाती है।[cite: 3] अतः विकल्प (a) सही है।",
+      "en": "Bhitarkanika Biosphere Reserve protected area is situated at the place where Brahmani and Baitarani rivers meet (confluence) before falling into the sea. This place is at some distance from the Bay of Bengal which is near the north-eastern coast of Odisha. The Brahmani river originates from the Ranchi district in Jharkhand where it is initially known as the South Koel river. In Odisha, its name becomes Brahmani river. Baitarani originates from Keonjhar district of Odisha and joins Brahmani river just before falling into the Bay of Bengal. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 63,
+    "year": "2011",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "जाति बहुतायतता (Species richness)",
+        "en": "Species richness"
+      },
+      {
+        "id": 2,
+        "hi": "वानस्पतिक घनत्व",
+        "en": "Vegetation density"
+      },
+      {
+        "id": 3,
+        "hi": "स्थानिकता",
+        "en": "Endemism"
+      },
+      {
+        "id": 4,
+        "hi": "मानवजाति-वानस्पतिक महत्त्व",
+        "en": "Ethno-botanical importance"
+      },
+      {
+        "id": 5,
+        "hi": "आशंका बोध",
+        "en": "Threat perception"
+      },
+      {
+        "id": 6,
+        "hi": "वनस्पति एवं प्राणितजाति का उष्ण व आर्द्र परिस्थितियों के प्रति अनुकूलन",
+        "en": "Adaptation of flora and fauna to warm and humid conditions"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से तीन मानकों के आधार पर पश्चिमी घाट, श्रीलंका एवं इंडो-बर्मा क्षेत्रों को जैव-विविधता के प्रखर स्थलों (हॉटस्पॉट्स) के रूप में मान्यता प्राप्त हुई है:[cite: 3]\nउपर्युक्त में से कौन-से तीन मानक इस संदर्भ में सही हैं?[cite: 3]",
+      "en": "Three of the following criteria have contributed to the recognition of Western Ghats-Sri Lanka and Indo-Burma regions as hotspots of biodiversity:\nWhich three of the above are correct criteria in this context?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 2 और 6",
+        "en": "1, 2 and 6"
+      },
+      {
+        "id": "B",
+        "hi": "2, 4 और 6",
+        "en": "2, 4 and 6"
+      },
+      {
+        "id": "C",
+        "hi": "1, 3 और 5",
+        "en": "1, 3 and 5"
+      },
+      {
+        "id": "D",
+        "hi": "3, 4 और 6",
+        "en": "3, 4 and 6"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "बायोडायवर्सिटी हॉट-स्पॉट शब्द 'नॉर्मन मेयर्स' द्वारा संकल्पित किया गया है।[cite: 3] यह दो अनिवार्य एवं कठोर शर्तों के अधीन प्रदान की जाती है: 1. कोई भी प्रखर स्थल संवहनीय वनस्पतियों की कम-से-कम 1500 स्थानिक प्रजातियाँ रखता हो (जाति बहुतायतता और स्थानिकता)।[cite: 3] 2. संदर्भित प्रखर स्थल की लगभग 30% प्राकृतिक वनस्पतियों का मौलिक निवास नष्ट हो चुका हो (आशंका बोध)।[cite: 3] इस प्रकार, जाति बहुतायतता, स्थानिकता एवं आशंका बोध, ये तीन मानक दोनों अनिवार्य मानकों में अंतर्निहित हैं।[cite: 3] अतः विकल्प (c) सही है।[cite: 3]",
+      "en": "The term Biodiversity Hotspot was conceptualized by 'Norman Myers'. It is granted subject to two mandatory and strict conditions: 1. Any hotspot must contain at least 1500 endemic species of vascular plants (species richness and endemism). 2. About 30% of the original habitat of natural vegetation of the referred hotspot has been destroyed (threat perception). Thus, species richness, endemism and threat perception, these three criteria are inherent in both the mandatory criteria. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 64,
+    "year": "2011",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "हिमालय पर्वत प्रदेश जाति विविधता की दृष्टि से अत्यंत समृद्ध है। इस संवृद्धि (Phenomenon) के लिये निम्नलिखित में से कौन-सा कारण सबसे उपयुक्त है?[cite: 3]",
+      "en": "The Himalayan Range is very rich in species diversity. Which one among the following is the most appropriate reason for this phenomenon?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "यहाँ अधिक वर्षा होती है जो प्रचुर वनस्पति वृद्धि को बढ़ावा देती है",
+        "en": "It has a high rainfall that supports luxuriant vegetative growth"
+      },
+      {
+        "id": "B",
+        "hi": "यह विभिन्न जैव भौगोलिक प्रदेशों का संगम है",
+        "en": "It is a confluence of different biogeographical zones"
+      },
+      {
+        "id": "C",
+        "hi": "इस क्षेत्र में विदेशज तथा आक्रामक जातियाँ प्रवेश नहीं कराई गई हैं",
+        "en": "Exotic and invasive species have not been introduced in this region"
+      },
+      {
+        "id": "D",
+        "hi": "यहाँ मनुष्यों का कम हस्तक्षेप है",
+        "en": "It has less human interference"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "हिमालय पर्वत प्रदेश का विशाल क्षैतिज एवं ऊर्ध्वाधर विस्तार, विभिन्न प्रकार की जलवायु, मृदा प्रकारों एवं जैव भौगोलिक प्रदेशों का सृजन करता है, जिनमें वनस्पति एवं जीवों की अनेकानेक प्रजातियाँ पाई जाती हैं।[cite: 3] यह विभिन्न जैव भौगोलिक प्रदेशों का संगम है। अतः विकल्प (b) सर्वाधिक उपयुक्त कारण है।[cite: 3]",
+      "en": "The vast horizontal and vertical extent of the Himalayan mountain region creates different types of climates, soil types and biogeographical regions, in which numerous species of flora and fauna are found. It is a confluence of different bio-geographical regions. Therefore, option (b) is the most appropriate reason."
+    }
+  },
+  {
+    "id": 65,
+    "year": "2011",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आयात एवं निर्यात (नियंत्रण) अधिनियम, 1947",
+        "en": "Import and Export (Control) Act, 1947"
+      },
+      {
+        "id": 2,
+        "hi": "खनन एवं खनिज विकास (नियमन) अधिनियम, 1957",
+        "en": "Mining and Mineral Development (Regulation) Act, 1957"
+      },
+      {
+        "id": 3,
+        "hi": "सीमा शुल्क अधिनियम, 1962",
+        "en": "Customs Act, 1962"
+      },
+      {
+        "id": 4,
+        "hi": "भारतीय वन अधिनियम, 1927",
+        "en": "Indian Forest Act, 1927"
+      }
+    ],
+    "question": {
+      "hi": "भारत के संदर्भ में निम्नलिखित केंद्रीय अधिनियमों पर विचार कीजिये:[cite: 3]\nउपर्युक्त में से कौन-से अधिनियम देश में जैव-विविधता संरक्षण की दृष्टि से महत्त्वपूर्ण हैं अथवा उस पर असर डालते हैं?[cite: 3]",
+      "en": "Consider the following Central Acts in the context of India:\nWhich of the above Acts have relevance to/bearing on the biodiversity conservation in the country?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      },
+      {
+        "id": "D",
+        "hi": "उपर्युक्त अधिनियमों में से कोई नहीं",
+        "en": "None of the above Acts"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "राष्ट्रीय जैव-विविधता प्राधिकरण के अनुसार जैव-विविधता से संबंधित सभी अधिनियमों की सूची में आयात एवं निर्यात (नियंत्रण) अधिनियम 1947, खनन एवं खनिज विकास (नियमन) अधिनियम 1957, सीमा शुल्क अधिनियम 1962 तथा भारतीय वन अधिनियम 1927 शामिल हैं।[cite: 3] अतः 1, 2, 3 और 4 सभी देश में जैव-विविधता संरक्षण पर असर डालते हैं। विकल्प (c) सही है।[cite: 3]",
+      "en": "According to the National Biodiversity Authority, the list of all acts related to biodiversity includes the Import and Export (Control) Act 1947, Mining and Mineral Development (Regulation) Act 1957, Customs Act 1962 and Indian Forest Act 1927. Thus 1, 2, 3 and 4 all have a bearing on biodiversity conservation in the country. Option (c) is correct."
+    }
+  },
+  {
+    "id": 66,
+    "year": "2011",
+    "subject": "Environment",
+    "topic": "जैव विविधता (Biodiversity)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "बलुई और लवणीय क्षेत्र एक भारतीय पशु जाति का प्राकृतिक आवास है। उस क्षेत्र में उस पशु जाति का कोई परभक्षी नहीं है किंतु आवास ध्वंस होने के कारण उसका अस्तित्त्व खतरे में है। यह पशु निम्नलिखित में से कौन-सा हो सकता है?[cite: 3]",
+      "en": "A sandy and saline area is the natural habitat of an Indian animal species. The animal has no predators in that area but its existence is threatened due to the destruction of its habitat. Which one of the following could be that animal?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भारतीय वन्य भैंस",
+        "en": "Indian wild buffalo"
+      },
+      {
+        "id": "B",
+        "hi": "भारतीय वन्य गधा",
+        "en": "Indian wild ass"
+      },
+      {
+        "id": "C",
+        "hi": "भारतीय वन्य शूकर",
+        "en": "Indian wild boar"
+      },
+      {
+        "id": "D",
+        "hi": "भारतीय गज़ेल (कुरंग)",
+        "en": "Indian gazelle"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारतीय वन्य गधा विश्व के सबसे मज़बूत जानवरों में से एक है।[cite: 3] यह मरुस्थल में बिना किसी आश्रय के 48ºC या उससे ज़्यादा तापमान में लंबे समय तक सूखे की स्थिति में ज़िंदा रह सकता है, जहाँ अन्य जानवर जीवित नहीं रह पाते।[cite: 3] वर्तमान में इसका एकमात्र निवास गुजरात के रन (जो बलुई और लवणीय क्षेत्र है) में स्थित भारतीय वन्य गधा अभयारण्य में ही बचा है।[cite: 3] कृषि हेतु भूमि विस्तार के कारण इसके प्राकृतिक आवास नष्ट हो रहे हैं जिससे इसका अस्तित्त्व खतरे में है।[cite: 3] अतः सही उत्तर विकल्प (b) होगा।[cite: 3]",
+      "en": "The Indian wild ass is one of the strongest animals in the world. It can survive in the desert without any shelter at a temperature of 48ºC or more in prolonged drought conditions, where other animals cannot survive. At present its only habitat is left in the Indian Wild Ass Sanctuary located in the Rann of Gujarat (which is a sandy and saline area). Due to land expansion for agriculture, its natural habitat is being destroyed, which threatens its existence. Hence, the correct answer will be option (b)."
+    }
+  }
+]

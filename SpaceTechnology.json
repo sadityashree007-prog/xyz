@@ -1,0 +1,1007 @@
+[
+  {
+    "id": 1,
+    "year": 2025,
+    "subject": "Science and Technology",
+    "topic": "Space Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "एक्सिओम-4 (Axiom-4)",
+        "en": "Axiom-4"
+      },
+      {
+        "id": 2,
+        "hi": "स्पाडेक्स (SPADEX)",
+        "en": "SPADEX"
+      },
+      {
+        "id": 3,
+        "hi": "गगनयान (Gaganyaan)",
+        "en": "Gaganyaan"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित अंतरिक्ष मिशनों पर विचार कीजिये–\nउपर्युक्त अंतरिक्ष मिशनों में से कितने सूक्ष्मगुरुत्व (माइक्रोग्रैविटी) विषयक अनुसंधान को प्रोत्साहित और समर्थित करते हैं?",
+      "en": "Consider the following space missions:\nHow many of the above space missions encourage and support microgravity research?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "तीनों अंतरिक्ष मिशन सूक्ष्मगुरुत्व (माइक्रोग्रैविटी) अनुसंधान से संबंधित हैं। एक्सिओम-4 (ISS के लिए एक निजी मिशन), स्पाडेक्स (डॉकिंग तकनीक और माइक्रोग्रैविटी परीक्षण), और गगनयान (भारत का पहला मानव अंतरिक्ष मिशन) सभी सूक्ष्मगुरुत्व स्थितियों में वैज्ञानिक अनुसंधान का समर्थन करते हैं।",
+      "en": "All three space missions are related to microgravity research. Axiom-4 (a private mission to ISS), SPADEX (docking technology and microgravity testing), and Gaganyaan (India's first human space mission) all support scientific research under microgravity conditions."
+    }
+  },
+  {
+    "id": 2,
+    "year": 2024,
+    "subject": "Science and Technology",
+    "topic": "Space Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "विमानपत्तनों अथवा विमानों में यात्रियों के पास मौजूद स्वापक पदार्थों (नार्कोटिक्स) की पहचान",
+        "en": "Identification of narcotics with passengers in airports or aircraft"
+      },
+      {
+        "id": 2,
+        "hi": "वर्षण का मॉनीटरन",
+        "en": "Monitoring of precipitation"
+      },
+      {
+        "id": 3,
+        "hi": "पशुओं के प्रवास पर नज़र रखना (ट्रैकिंग)",
+        "en": "Tracking the migration of animals"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित गतिविधियों पर विचार कीजिये –\nउपर्युक्त में से कितनी गतिविधियों में रडारों का उपयोग किया जा सकता है?",
+      "en": "Consider the following activities:\nIn how many of the above activities can radars be used?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "रडार का उपयोग वर्षण (मौसम) की निगरानी और पशुओं के प्रवास (ट्रैकिंग) के लिए किया जा सकता है। परंतु यात्रियों के पास छिपे नशीले पदार्थों की पहचान के लिए एक्स-रे या अन्य स्कैनिंग तकनीकों का उपयोग किया जाता है, रडार का नहीं। अतः केवल 2 गतिविधियां सही हैं।",
+      "en": "Radar can be used for monitoring precipitation (weather radar) and tracking the migration of animals. However, identifying hidden narcotics with passengers relies on X-ray or other scanning technologies, not radar. Thus, only two activities are correct."
+    }
+  },
+  {
+    "id": 3,
+    "year": 2023,
+    "subject": "Science and Technology",
+    "topic": "Space Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बैलिस्टिक मिसाइल अपनी पूरी उड़ान में अवध्वनिक चाल पर प्रधार-नोदित होती हैं, जबकि क्रूज़ मिसाइल केवल उड़ान के आरंभिक चरण में रॉकेट संचालित होती हैं।",
+        "en": "Ballistic missiles are jet-propelled at subsonic speeds throughout their flights, while cruise missiles are rocket-powered only in the initial phase of flight."
+      },
+      {
+        "id": 2,
+        "hi": "अग्नि-V मध्यम दूरी की पराध्वनिक क्रूज़ मिसाइल है, जबकि ब्रह्मोस ठोस ईंधन चालित अंतरमहाद्वीपीय बैलिस्टिक मिसाइल है।",
+        "en": "Agni-V is a medium-range supersonic cruise missile, while BrahMos is a solid-fuelled intercontinental ballistic missile."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये –\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "कथन 1 गलत है: क्रूज़ मिसाइलें अपनी पूरी उड़ान में प्रधार-नोदित (Jet-propelled) होती हैं, जबकि बैलिस्टिक मिसाइलें आरंभिक चरण में रॉकेट संचालित होती हैं। कथन 2 गलत है: अग्नि-V अंतरमहाद्वीपीय बैलिस्टिक मिसाइल (ICBM) है, जबकि ब्रह्मोस सुपरसोनिक क्रूज़ मिसाइल है।",
+      "en": "Statement 1 is incorrect: Cruise missiles are jet-propelled throughout their flight, whereas ballistic missiles are rocket-powered only in the initial phase. Statement 2 is incorrect: Agni-V is an intercontinental ballistic missile (ICBM), whereas BrahMos is a supersonic cruise missile."
+    }
+  },
+  {
+    "id": 4,
+    "year": 2022,
+    "subject": "Science and Technology",
+    "topic": "Space Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "निम्नलिखित कथनों में कौन-सा एक, जनसंचार-माध्यमों में बहुचर्चित ‘प्रभाजी कक्षीय बमबारी प्रणाली’ (Fractional Orbital Bombardment System) के आधारभूत विचार को सर्वोत्तम रूप से प्रतिबिंबित करता है?",
+      "en": "Which one of the following statements best reflects the basic idea of the 'Fractional Orbital Bombardment System' often discussed in media?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अंतरिक्ष में अतिध्वनिक मिसाइल का प्रमोचन, पृथ्वी की तरफ बढ़ते हुए क्षुद्रग्रह का सामना कर उसका अंतरिक्ष में ही विस्फोटन कराने के लिये किया जाता है।",
+        "en": "A hypersonic missile is launched into space to counter an approaching asteroid and explode it in space."
+      },
+      {
+        "id": "B",
+        "hi": "कोई अंतरिक्षयान अनेक कक्षीय गतियों के बाद किसी अन्य ग्रह पर उतरता है।",
+        "en": "A spacecraft lands on another planet after several orbital motions."
+      },
+      {
+        "id": "C",
+        "hi": "कोई मिसाइल पृथ्वी के परितः किसी स्थिर कक्षा में स्थापित किया जाता है और वह पृथ्वी पर किसी लक्ष्य के ऊपर कक्षा को त्यागता है।",
+        "en": "A missile is put into a stable orbit around the Earth, and it de-orbits over a target on the Earth."
+      },
+      {
+        "id": "D",
+        "hi": "कोई अंतरिक्षयान किसी धूमकेतु के साथ-साथ उसी चाल से चलते हुए उसके पृष्ठ पर एक संपरीक्षित्र स्थापित करता है।",
+        "en": "A spacecraft moves along with a comet at the same speed and places a probe on its surface."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "फ्रैक्शनल ऑर्बिटल बॉम्बार्डमेंट सिस्टम (FOBS) का मूल विचार यह है कि मिसाइल के वॉरहेड को पृथ्वी की निम्न कक्षा में स्थापित किया जाता है और उपयुक्त समय पर उसे डी-ऑर्बिट कराकर लक्ष्य पर आक्रमण किया जाता है।",
+      "en": "The basic idea of the Fractional Orbital Bombardment System (FOBS) is that a missile's warhead is placed into a low Earth orbit, and at the appropriate time it de-orbits to strike a target."
+    }
+  },
+  {
+    "id": 5,
+    "year": 2020,
+    "subject": "Science and Technology",
+    "topic": "Space Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "“यह प्रयोग तीन ऐसे अंतरिक्षयानों को काम में लायेगा जो एक समबाहु त्रिभुज की आकृति में उड़ान भरेंगे जिसमें प्रत्येक भुजा एक मिलियन किलोमीटर लंबी है और यानों के बीच लेज़र चमक रही होंगी।” कथित प्रयोग किसे संदर्भित करता है?",
+      "en": "“The experiment will employ three such spacecraft flying in formation in the shape of an equilateral triangle that has sides one million kilometres long, with lasers shining between the craft.” The experiment in question refers to:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "वॉयजर-2 (Voyager-2)",
+        "en": "Voyager-2"
+      },
+      {
+        "id": "B",
+        "hi": "न्यू होराइजंस (New Horizons)",
+        "en": "New Horizons"
+      },
+      {
+        "id": "C",
+        "hi": "LISA पाथफाइंडर (LISA Pathfinder)",
+        "en": "LISA Pathfinder"
+      },
+      {
+        "id": "D",
+        "hi": "इवॉल्व्ड LISA (Evolved LISA)",
+        "en": "Evolved LISA"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "इवॉल्व्ड लेज़र इंटरफेरोमीटर स्पेस ऐन्टेना (eLISA) एक ऐसा प्रयोग है जिसमें तीन अंतरिक्षयानों को समबाहु त्रिभुज की आकृति में सूर्य के आसपास उड़ान भरनी है।",
+      "en": "The Evolved Laser Interferometer Space Antenna (eLISA) is an experiment involving three spacecraft flying in the shape of an equilateral triangle around the Sun."
+    }
+  },
+  {
+    "id": 6,
+    "year": 2019,
+    "subject": "Science and Technology",
+    "topic": "Space Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "किसी विशेष स्थान की वनस्पति में पर्णहरित का अंश",
+        "en": "Chlorophyll content in the vegetation of a specific location"
+      },
+      {
+        "id": 2,
+        "hi": "किसी विशेष स्थान के धान के खेतों से ग्रीनहाउस गैस का उत्सर्जन",
+        "en": "Greenhouse gas emissions from rice paddies of a specific location"
+      },
+      {
+        "id": 3,
+        "hi": "किसी विशेष स्थान का भूपृष्ठ तापमान",
+        "en": "Land surface temperature of a specific location"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से किसका/किनका मापन/आकलन करने के लिये उपग्रह चित्रों/सुदूर संवेदी आँकड़ों का इस्तेमाल किया जाता है?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "Which of the following is/are measured/estimated using satellite images/remote sensing data?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "सुदूर संवेदी उपग्रह आँकड़ों का प्रयोग वनस्पति में पर्णहरित का अंश, ग्रीनहाउस गैसों के उत्सर्जन, और भूपृष्ठ तापमान का आकलन करने के लिए किया जा सकता है।",
+      "en": "Remote sensing satellite data can be used to estimate chlorophyll content in vegetation, greenhouse gas emissions, and land surface temperature."
+    }
+  },
+  {
+    "id": 7,
+    "year": 2018,
+    "subject": "Science and Technology",
+    "topic": "Space Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "PSLV से वे उपग्रह प्रमोचित किये जाते हैं जो पृथ्वी के संसाधनों के मानीटरन में उपयोगी हैं, जबकि GSLV को मुख्यतः संचार उपग्रहों को प्रमोचित करने के लिये अभिकल्पित किया गया है।",
+        "en": "PSLVs launch the satellites useful for Earth resources monitoring whereas GSLVs are designed mainly to launch communication satellites."
+      },
+      {
+        "id": 2,
+        "hi": "PSLV द्वारा प्रमोचित उपग्रह आकाश में एक ही स्थिति में स्थायी रूप में स्थिर रहते प्रतीत होते हैं जैसा कि पृथ्वी के एक विशिष्ट स्थान से देखा जाता है।",
+        "en": "Satellites launched by PSLV appear to remain permanently fixed in the same position in the sky, as viewed from a particular location on Earth."
+      },
+      {
+        "id": 3,
+        "hi": "GSLV Mk III, एक चार-स्टेज वाला प्रमोचन वाहन है, जिसमें प्रथम और तृतीय चरणों में ठोस रॉकेट मोटरों का तथा द्वितीय और चतुर्थ चरणों में द्रव रॉकेट इंजनों का प्रयोग होता है।",
+        "en": "GSLV Mk III is a four-staged launch vehicle with the first and third stages using solid rocket motors; and the second and fourth stages using liquid rocket engines."
+      }
+    ],
+    "question": {
+      "hi": "भारत के उपग्रह प्रमोचित करने वाले वाहनों के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to India's satellite launch vehicles, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कथन 2 गलत है क्योंकि भू-स्थिर उपग्रह GSLV द्वारा प्रक्षेपित किये जाते हैं न कि PSLV द्वारा। कथन 3 गलत है क्योंकि GSLV Mk-III तीन चरणों वाला प्रक्षेपण यान है। केवल कथन 1 सही है।",
+      "en": "Statement 2 is incorrect because geostationary satellites are launched by GSLV, not PSLV. Statement 3 is incorrect because GSLV Mk-III is a three-stage launch vehicle. Only Statement 1 is correct."
+    }
+  },
+  {
+    "id": 8,
+    "year": 2018,
+    "subject": "Science and Technology",
+    "topic": "Space Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "IRNSS के तुल्यकाली (जियोस्टेशनरी) कक्षाओं में तीन उपग्रह हैं और भूतुल्यकाली (जियोसिंक्रोनस) कक्षाओं में चार उपग्रह हैं।",
+        "en": "IRNSS has three satellites in geostationary and four satellites in geosynchronous orbits."
+      },
+      {
+        "id": 2,
+        "hi": "IRNSS की व्याप्ति सम्पूर्ण भारत पर और इसकी सीमाओं के लगभग 5500 वर्ग किमी बाहर तक है।",
+        "en": "IRNSS covers entire India and about 5500 sq. km beyond its borders."
+      },
+      {
+        "id": 3,
+        "hi": "2019 के मध्य तक भारत की, पूर्ण वैश्विक व्याप्ति के साथ अपनी उपग्रह संचालन प्रणाली होगी।",
+        "en": "India will have its own satellite navigation system with full global coverage by the middle of 2019."
+      }
+    ],
+    "question": {
+      "hi": "भारतीय क्षेत्रीय-संचालन उपग्रह प्रणाली (IRNSS) के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to the Indian Regional Navigation Satellite System (IRNSS), consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कथन 1 सही है (3 जियोस्टेशनरी और 4 जियोसिंक्रोनस)। कथन 2 गलत है क्योंकि यह सीमा से 1500 किमी दूर तक कवर करता है। कथन 3 गलत है क्योंकि यह क्षेत्रीय (regional) है, वैश्विक (global) नहीं।",
+      "en": "Statement 1 is correct (3 geostationary and 4 geosynchronous). Statement 2 is incorrect as it covers up to 1500 km beyond borders, not 5500 sq km. Statement 3 is incorrect as it is a regional system, not global."
+    }
+  },
+  {
+    "id": 9,
+    "year": 2018,
+    "subject": "Science and Technology",
+    "topic": "Space Technology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "मोबाइल फोन प्रचालन",
+        "en": "Mobile phone operations"
+      },
+      {
+        "id": 2,
+        "hi": "बैंकिंग प्रचालन",
+        "en": "Banking operations"
+      },
+      {
+        "id": 3,
+        "hi": "पावर ग्रिडों का नियंत्रण",
+        "en": "Controlling the power grids"
+      }
+    ],
+    "question": {
+      "hi": "GPS तकनीक का उपयोग निम्नलिखित में से किन क्षेत्रों में हो सकता है?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "In which of the following areas can GPS technology be used?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "वर्तमान समय में GPS तकनीक का प्रयोग मोबाइल फोन प्रचालन, पावर ग्रिड प्रबंधन और बैंकिंग तंत्र (टाइमस्टैम्पिंग आदि) सभी में किया जा रहा है।",
+      "en": "Currently, GPS technology is used in mobile phone operations, power grid management, and banking systems (for timestamping, etc.)."
+    }
+  },
+  {
+    "id": 10,
+    "year": 2017,
+    "subject": "Science and Technology",
+    "topic": "Space Technology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "'विकसित लेज़र व्यतिकरणमापी अंतरिक्ष ऐन्टेना (इवॉल्व्ड लेज़र इंटरफेरोमीटर स्पेस ऐन्टेना / eLISA)' परियोजना का क्या प्रयोजन है?",
+      "en": "What is the purpose of 'evolved Laser Interferometer Space Antenna (eLISA)' project?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "न्यूट्रिनों का संसूचन करना",
+        "en": "To detect neutrinos"
+      },
+      {
+        "id": "B",
+        "hi": "गुरुत्वीय तरंगों का संसूचन करना",
+        "en": "To detect gravitational waves"
+      },
+      {
+        "id": "C",
+        "hi": "प्रक्षेपास्त्र रक्षा प्रणाली की प्रभावकारिता का संसूचन करना",
+        "en": "To detect the effectiveness of missile defence system"
+      },
+      {
+        "id": "D",
+        "hi": "हमारी संचार प्रणालियों पर सौर प्रज्वाल (सोलर फ्लेयर) के प्रभाव का अध्ययन करना",
+        "en": "To study the effect of solar flares on our communication systems"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "eLISA परियोजना का मुख्य उद्देश्य अंतरिक्ष में गुरुत्वीय तरंगों (Gravitational Waves) का संसूचन (Detection) करना है।",
+      "en": "The main objective of the eLISA project is the detection of gravitational waves in space."
+    }
+  },
+  {
+    "id": 11,
+    "year": 2016,
+    "subject": "Science and Technology",
+    "topic": "Space Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "को मार्स ऑर्बिटर मिशन भी कहा जाता है",
+        "en": "is also called the Mars Orbiter Mission"
+      },
+      {
+        "id": 2,
+        "hi": "ने भारत को, USA के बाद मंगल के चारों ओर अंतरिक्ष यान को चक्रमण कराने वाला दूसरा देश बना दिया है",
+        "en": "made India the second country to have a spacecraft orbit the Mars after USA"
+      },
+      {
+        "id": 3,
+        "hi": "ने भारत को एकमात्र ऐसा देश बना दिया है, जिसने अपने अंतरिक्ष यान को मंगल के चारों ओर चक्रमण कराने में पहली बार में ही सफलता प्राप्त कर ली",
+        "en": "made India the only country to be successful in making its spacecraft orbit the Mars in its very first attempt"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये– ISRO द्वारा प्रमोचित मंगलयान\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements: The Mangalyaan launched by ISRO\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कथन 2 गलत है क्योंकि भारत मंगल ग्रह की कक्षा में पहुंचने वाली चौथी अंतरिक्ष एजेंसी (रूस, USA और यूरोपीय अंतरिक्ष एजेंसी के बाद) थी। कथन 1 और 3 सही हैं (पहले प्रयास में सफलता प्राप्त करने वाला एकमात्र देश)।",
+      "en": "Statement 2 is incorrect because India was the fourth space agency to reach Mars orbit (after Russia, USA, and ESA). Statements 1 and 3 are correct (India is the only country to succeed in its first attempt)."
+    }
+  },
+  {
+    "id": 12,
+    "year": 2016,
+    "subject": "Science and Technology",
+    "topic": "Space Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "USA और रूस के अलावा केवल भारत एकमात्र ऐसा देश है जिसने अंतरिक्ष में उसी प्रकार की वेधशाला प्रमोचित की है।",
+        "en": "Other than USA and Russia, India is the only country to have launched a similar observatory into space."
+      },
+      {
+        "id": 2,
+        "hi": "ऐस्ट्रोसैट 2000 किलोग्राम का एक उपग्रह है, जो पृथ्वी की सतह के ऊपर 1650 किलोमीटर पर एक कक्षा में स्थापित है।",
+        "en": "Astrosat is a 2000 kg satellite placed in an orbit at 1650 km above the surface of the Earth."
+      }
+    ],
+    "question": {
+      "hi": "भारत द्वारा प्रमोचित खगोलीय वेधशाला, 'ऐस्ट्रोसैट (Astrosat)' के संदर्भ में निम्नलिखित कथनों में से कौन-सा/से सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "With reference to 'Astrosat', the astronomical observatory launched by India, which of the following statements is/are correct?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "कथन 1 गलत है (USA, यूरोपीय स्पेस एजेंसी, जापान और रूस ने भी ऐसी वेधशालाएं स्थापित की हैं)। कथन 2 भी गलत है (ऐस्ट्रोसैट का वजन 1513 किग्रा है और इसे 650 किमी की ऊँचाई पर स्थापित किया गया है)।",
+      "en": "Statement 1 is incorrect (USA, ESA, Japan, and Russia have also launched similar observatories). Statement 2 is also incorrect (Astrosat weighs 1513 kg and is placed at an altitude of 650 km)."
+    }
+  },
+  {
+    "id": 13,
+    "year": 2016,
+    "subject": "Science and Technology",
+    "topic": "Space Technology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "'ग्रीज़्ड लाइटनिंग-10 (GL-10)', जिसका हाल ही में समाचारों में उल्लेख हुआ, क्या है?",
+      "en": "What is 'Greased Lightning-10 (GL-10)', recently in the news?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "NASA द्वारा परीक्षित विद्युत् विमान",
+        "en": "Electric plane tested by NASA"
+      },
+      {
+        "id": "B",
+        "hi": "जापान द्वारा डिज़ाइन किया गया सौर शक्ति से चलने वाला दो सीटों वाला विमान",
+        "en": "Solar-powered two-seater aircraft designed by Japan"
+      },
+      {
+        "id": "C",
+        "hi": "चीन द्वारा लॉन्च की गई अंतरिक्ष वेधशाला",
+        "en": "Space observatory launched by China"
+      },
+      {
+        "id": "D",
+        "hi": "ISRO द्वारा डिज़ाइन किया गया पुनरुपयोगी रॉकेट",
+        "en": "Reusable rocket designed by ISRO"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "ग्रीज़्ड लाइटनिंग-10 (GL-10) NASA द्वारा निर्मित एक बैटरी संचालित विद्युत विमान (Electric Plane) है, जो क्षैतिज या ऊर्ध्वाधर उड़ान भर सकता है।",
+      "en": "Greased Lightning-10 (GL-10) is a battery-powered electric plane developed by NASA, capable of taking off vertically or horizontally."
+    }
+  },
+  {
+    "id": 14,
+    "year": 2015,
+    "subject": "Science and Technology",
+    "topic": "Space Technology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "'गोल्डीलॉक्स ज़ोन (Goldilocks Zone)' शब्द निम्नलिखित में से किसके संदर्भ में अक्सर समाचारों में देखा जाता है?",
+      "en": "The term 'Goldilocks Zone' is often seen in the news in the context of:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भूपृष्ठ के ऊपर वासयोग्य मण्डल की सीमाएँ",
+        "en": "the limits of habitable zone above the surface of the Earth"
+      },
+      {
+        "id": "B",
+        "hi": "पृथ्वी के अंदर का वह क्षेत्र, जिसमें शेल गैस उपलब्ध है",
+        "en": "regions inside the Earth where shale gas is available"
+      },
+      {
+        "id": "C",
+        "hi": "बाह्य अंतरिक्ष में पृथ्वी जैसे ग्रहों की खोज",
+        "en": "search for the Earth-like planets in outer space"
+      },
+      {
+        "id": "D",
+        "hi": "मूल्यवान धातुओं से युक्त उल्कापिंडों (मीटियोराइट्स) की खोज",
+        "en": "search for meteorites containing precious metals"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "गोल्डीलॉक्स ज़ोन बाह्य अंतरिक्ष में पृथ्वी जैसे ग्रहों (वासयोग्य क्षेत्र) की खोज से संबंधित है, जहाँ किसी ग्रह का तापमान न तो बहुत अधिक और न ही बहुत कम होता है, जिससे वहाँ तरल पानी मौजूद रह सकता है।",
+      "en": "Goldilocks Zone refers to the habitable zone in outer space around a star where a planet's temperature is neither too hot nor too cold, allowing liquid water to exist."
+    }
+  },
+  {
+    "id": 15,
+    "year": 2015,
+    "subject": "Science and Technology",
+    "topic": "Space Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "फसल की उपज का आकलन",
+        "en": "Assessment of crop productivity"
+      },
+      {
+        "id": 2,
+        "hi": "भौम जल (ग्राउंडवाटर) संसाधनों का स्थान निर्धारण",
+        "en": "Locating groundwater resources"
+      },
+      {
+        "id": 3,
+        "hi": "खनिज का अन्वेषण",
+        "en": "Mineral exploration"
+      },
+      {
+        "id": 4,
+        "hi": "दूरसंचार",
+        "en": "Telecommunications"
+      },
+      {
+        "id": 5,
+        "hi": "यातायात अध्ययन",
+        "en": "Traffic studies"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से किन कार्यकलापों में भारतीय दूर संवेदन (IRS) उपग्रहों का प्रयोग किया जाता है?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "In which of the following activities are Indian Remote Sensing (IRS) satellites used?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 4 और 5",
+        "en": "4 and 5 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3, 4 और 5",
+        "en": "1, 2, 3, 4 and 5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "भारतीय दूर संवेदन (IRS) उपग्रहों का प्रयोग फसल की उपज का आकलन, भौम जल निर्धारण और खनिज अन्वेषण में होता है। दूरसंचार के लिए INSAT/GSAT उपग्रहों का प्रयोग होता है।",
+      "en": "Indian Remote Sensing (IRS) satellites are used for crop productivity assessment, locating groundwater, and mineral exploration. Telecommunications use INSAT/GSAT satellites."
+    }
+  },
+  {
+    "id": 16,
+    "year": 2014,
+    "subject": "Science and Technology",
+    "topic": "Space Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कैसिनी-हाइगेंस – शुक्र की परिक्रमा करना और आँकड़ों का पृथ्वी तक संचारण करना",
+        "en": "Cassini-Huygens – Orbiting the Venus and transmitting data to the Earth"
+      },
+      {
+        "id": 2,
+        "hi": "मैसेंजर – बुध का मानचित्रण और अन्वेषण",
+        "en": "Messenger – Mapping and investigating the Mercury"
+      },
+      {
+        "id": 3,
+        "hi": "वॉयजर 1 और 2 – बाह्य सौर परिवार का अन्वेषण",
+        "en": "Voyager 1 and 2 – Exploring the outer solar system"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों में से कौन-सा/से सही सुमेलित है/हैं? (अंतरिक्ष यान : प्रयोजन)\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "Which of the pairs given below is/are correctly matched? (Spacecraft : Purpose)\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "युग्म 1 गलत है क्योंकि कैसिनी-हाइगेंस शनि ग्रह और उसके उपग्रहों (टाइटन) के अध्ययन के लिए था। युग्म 2 (मैसेंजर - बुध) और 3 (वॉयजर - बाह्य सौर परिवार) सही सुमेलित हैं।",
+      "en": "Pair 1 is incorrectly matched as Cassini-Huygens was for studying Saturn and its moons (Titan). Pairs 2 (Messenger - Mercury) and 3 (Voyager - Outer Solar System) are correctly matched."
+    }
+  },
+  {
+    "id": 17,
+    "year": 2012,
+    "subject": "Science and Technology",
+    "topic": "Space Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह खनिज पूर्वेक्षण और तेल की खोज को अधिक आसान और कम महँगा बना देगा।",
+        "en": "It will make mineral prospecting and oil exploration easier and cheaper."
+      },
+      {
+        "id": 2,
+        "hi": "यह ऐंटि-द्रव्य से निर्मित तारों और आकाशगंगाओं के होने की संभावना की जाँच करने में सहायक होगा।",
+        "en": "It will help test the possibility of the existence of stars and galaxies made of anti-matter."
+      },
+      {
+        "id": 3,
+        "hi": "यह ब्रह्माण्ड के विकास की समझ विकसित करने में सहायक होगा।",
+        "en": "It will help understand the evolution of the universe."
+      }
+    ],
+    "question": {
+      "hi": "ब्रुकहेवन नेशनल लैबोरेटरी के वैज्ञानिक दल, जिसमें भारतीय वैज्ञानिक भी सम्मिलित थे, ने ऐंटि-हीलियम केंद्रक के रूप में सबसे भारी ऐंटि-द्रव्य उत्पन्न किया। ऐंटि-द्रव्य उत्पन्न करने की क्या/क्या-क्या विवक्षा/विवक्षाएँ है/हैं?\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये–",
+      "en": "A team of scientists at Brookhaven National Laboratory including those from India created the heaviest anti-matter (anti-helium nucleus). What is/are the implication/implications of the creation of anti-matter?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "ऐंटि-द्रव्य (Anti-Matter) का विकास तारों, आकाशगंगाओं के निर्माण और ब्रह्माण्ड के विकास की समझ विकसित करने में सहायक होगा। इसका खनिज पूर्वेक्षण और तेल खोज से कोई संबंध नहीं है। अतः 2 और 3 सही हैं।",
+      "en": "The development of Anti-Matter will help in understanding the formation of stars, galaxies, and the evolution of the universe. It has no relation to mineral prospecting or oil exploration. Thus, 2 and 3 are correct."
+    }
+  },
+  {
+    "id": 18,
+    "year": 2011,
+    "subject": "Science and Technology",
+    "topic": "Space Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कक्षा भू-तुल्यकालिक होती है।",
+        "en": "The orbit is geosynchronous."
+      },
+      {
+        "id": 2,
+        "hi": "कक्षा वृत्ताकार होती है।",
+        "en": "The orbit is circular."
+      },
+      {
+        "id": 3,
+        "hi": "कक्षा पृथ्वी की भूमध्य रेखा के समतल होती है।",
+        "en": "The orbit lies in the plane of the Earth's equator."
+      },
+      {
+        "id": 4,
+        "hi": "कक्षा 22,236 km. की तुंगता पर होती है।",
+        "en": "The orbit is at an altitude of 22,236 km."
+      }
+    ],
+    "question": {
+      "hi": "दूरसंचार प्रसारण हेतु प्रयुक्त उपग्रहों को भू-अप्रगामी कक्षा में रखा जाता है। एक उपग्रह ऐसी कक्षा में तब होता है जब -\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये–",
+      "en": "Satellites used for telecommunication relay are kept in a geostationary orbit. A satellite is said to be in such an orbit when:\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "भू-स्थिर (Geostationary) कक्षा भूमध्य रेखा के समतल वृत्ताकार होती है और भू-तुल्यकालिक होती है। इसकी ऊंचाई लगभग 36,000 किमी (22,236 मील) होती है, 22,236 किमी नहीं। अतः कथन 4 गलत है।",
+      "en": "A geostationary orbit is circular, geosynchronous, and lies in the plane of the equator. Its altitude is approx 36,000 km (which is 22,236 miles), not 22,236 km. Thus, statement 4 is incorrect."
+    }
+  }
+]

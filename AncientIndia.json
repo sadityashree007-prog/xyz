@@ -1,0 +1,1891 @@
+[
+  {
+    "id": 1,
+    "year": "2025",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "प्राचीन भारत में इनमें से किस शासक ने 'मत्तविलास', 'विचित्रचित्त' और 'गुणभर' उपाधियाँ धारण की थीं?",
+      "en": "In ancient India, which of these rulers assumed the titles 'Mattavilasa', 'Vichitrachitta' and 'Gunabhara'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "महेंद्रवर्मन प्रथम",
+        "en": "Mahendravarman I"
+      },
+      {
+        "id": "B",
+        "hi": "सिंहविष्णु",
+        "en": "Simhavishnu"
+      },
+      {
+        "id": "C",
+        "hi": "नरसिंहवर्मन प्रथम",
+        "en": "Narasimhavarman I"
+      },
+      {
+        "id": "D",
+        "hi": "सिंहवर्मन",
+        "en": "Simhavarman"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "महेंद्रवर्मन प्रथम (600-630 ई.) अपने पिता सिंहविष्णु की मृत्यु के बाद शासक बने। उन्होंने 'मत्तविलास', 'विचित्रचित्त', 'गुणभर' जैसी उपाधियाँ धारण कीं। अतः विकल्प (a) सही है।",
+      "en": "Mahendravarman I (600-630 CE) became the ruler after the death of his father Simhavishnu. He assumed titles like 'Mattavilasa', 'Vichitrachitta', 'Gunabhara'. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 2,
+    "year": "2025",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "चीनी तीर्थयात्री फाह्यान ने इनमें से किसके शासनकाल में भारत की यात्रा की थी?",
+      "en": "During whose reign did the Chinese pilgrim Fa-Hien visit India?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "समुद्रगुप्त",
+        "en": "Samudragupta"
+      },
+      {
+        "id": "B",
+        "hi": "चंद्रगुप्त द्वितीय",
+        "en": "Chandragupta II"
+      },
+      {
+        "id": "C",
+        "hi": "कुमारगुप्त प्रथम",
+        "en": "Kumaragupta I"
+      },
+      {
+        "id": "D",
+        "hi": "स्कंदगुप्त",
+        "en": "Skandagupta"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "चीनी बौद्ध यात्री फाह्यान (404–411 ईसवी) ने चंद्रगुप्त द्वितीय (375-414 ई.) के शासनकाल में भारत की यात्रा की थी। अतः विकल्प (b) सही है।",
+      "en": "The Chinese Buddhist traveller Fa-Hien (404–411 CE) visited India during the reign of Chandragupta II (375-414 CE). Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 3,
+    "year": "2025",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "इनमें से किसने शक्तिशाली समुद्रवर्ती राज्य श्रीविजय के विरुद्ध, जिसका शासन मलय प्रायद्वीप, सुमात्रा, जावा और निकटवर्ती द्वीपों पर था, एक सफल सैन्य अभियान का नेतृत्व किया था?",
+      "en": "Who among the following led a successful military campaign against the powerful maritime state of Srivijaya, which ruled the Malay Peninsula, Sumatra, Java and adjacent islands?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अमोघवर्ष (राष्ट्रकूट)",
+        "en": "Amoghavarsha (Rashtrakuta)"
+      },
+      {
+        "id": "B",
+        "hi": "प्रतापरुद्र (काकतीय)",
+        "en": "Prataparudra (Kakatiya)"
+      },
+      {
+        "id": "C",
+        "hi": "राजेंद्र प्रथम (चोल)",
+        "en": "Rajendra I (Chola)"
+      },
+      {
+        "id": "D",
+        "hi": "विष्णुवर्धन (होयसल)",
+        "en": "Vishnuvardhana (Hoysala)"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "राजेंद्र चोल प्रथम ने 1025 ई. में श्रीविजय साम्राज्य के विरुद्ध एक सफल और ऐतिहासिक नौसैनिक अभियान का नेतृत्व किया था। अतः विकल्प (c) सही है।",
+      "en": "Rajendra Chola I led a successful and historic naval campaign against the Srivijaya Empire in 1025 CE. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 4,
+    "year": "2025",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अश्मक : गोदावरी",
+        "en": "Ashmaka : Godavari"
+      },
+      {
+        "id": 2,
+        "hi": "कंबोज : विपाश",
+        "en": "Kamboja : Vipasha (Beas)"
+      },
+      {
+        "id": 3,
+        "hi": "अवंति : महानदी",
+        "en": "Avanti : Mahanadi"
+      },
+      {
+        "id": 4,
+        "hi": "कोसल : सरयू",
+        "en": "Kosala : Saryu"
+      }
+    ],
+    "question": {
+      "hi": "प्राचीन भारत (600-322 ईसा पूर्व) के संदर्भ में, निम्नलिखित युग्मों पर विचार कीजिये (प्रादेशिक क्षेत्र और इस क्षेत्र में बहने वाली नदी):\nउपर्युक्त में से कितने युग्म सही सुमेलित हैं?",
+      "en": "With reference to ancient India (600-322 BCE), consider the following pairs (Territorial region and river flowing through it):\nHow many of the above pairs are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "केवल तीन",
+        "en": "Only three"
+      },
+      {
+        "id": "D",
+        "hi": "सभी चार",
+        "en": "All four"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "अश्मक दक्षिण भारत के दक्कन क्षेत्र में स्थित एक महाजनपद था जहाँ गोदावरी नदी बहती थी (युग्म 1 सही है)। कंबोज उत्तर-पश्चिम भारत में स्थित था, जबकि विपाश (ब्यास) नदी पंजाब क्षेत्र में बहती है (युग्म 2 गलत है)। अवंति पश्चिमी मध्य प्रदेश में था, जिसकी प्रमुख नदी चंबल है, महानदी नहीं (युग्म 3 गलत है)। कोसल पूर्वी उत्तर प्रदेश में था जहाँ सरयू नदी बहती है (युग्म 4 सही है)। अतः केवल दो युग्म सही हैं।",
+      "en": "Ashmaka was a Mahajanapada in the Deccan region of South India where the Godavari river flowed (Pair 1 is correct). Kamboja was in North-West India, whereas Vipasha (Beas) river flows in the Punjab region (Pair 2 is incorrect). Avanti was in western Madhya Pradesh, whose major river is Chambal, not Mahanadi (Pair 3 is incorrect). Kosala was in eastern Uttar Pradesh where the Saryu river flows (Pair 4 is correct). Thus, only two pairs are correct."
+    }
+  },
+  {
+    "id": 5,
+    "year": "2025",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "जैसा कि अशोक के अभिलेखों से ज्ञात होता है, 'प्रादेशिक', 'राजुक' और 'युक्त' किस स्तर पर महत्त्वपूर्ण अधिकारी थे?",
+      "en": "As is known from Ashoka's inscriptions, at what level were 'Pradeshika', 'Rajuka' and 'Yukta' important officials?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ग्राम-स्तरीय प्रशासन",
+        "en": "Village-level administration"
+      },
+      {
+        "id": "B",
+        "hi": "ज़िला-स्तरीय प्रशासन",
+        "en": "District-level administration"
+      },
+      {
+        "id": "C",
+        "hi": "प्रांतीय प्रशासन",
+        "en": "Provincial administration"
+      },
+      {
+        "id": "D",
+        "hi": "केंद्रीय प्रशासन स्तर",
+        "en": "Central administration level"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "अशोककालीन अभिलेखों से संकेत मिलता है कि प्रादेशिक, राजुक और युक्त ज़िला स्तर पर महत्त्वपूर्ण अधिकारी थे। अतः विकल्प (b) सही है।",
+      "en": "Ashokan inscriptions indicate that Pradeshika, Rajuka and Yukta were important officials at the district level. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 6,
+    "year": "2025",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "मोहनजोदड़ो से प्राप्त 'नाचती हुई लड़की (डांसिंग गर्ल)' नामक प्रख्यात नारी लघुमूर्ति किस पदार्थ की बनी हुई है?",
+      "en": "The famous female figurine called 'Dancing Girl' found at Mohenjodaro is made of which material?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इंद्रगोप मणि (कार्नेलियन)",
+        "en": "Carnelian"
+      },
+      {
+        "id": "B",
+        "hi": "मृत्तिका (क्ले)",
+        "en": "Clay"
+      },
+      {
+        "id": "C",
+        "hi": "कांस्य",
+        "en": "Bronze"
+      },
+      {
+        "id": "D",
+        "hi": "स्वर्ण",
+        "en": "Gold"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "'नाचती हुई लड़की' मोहनजोदड़ो से खोजी गई सिंधु घाटी सभ्यता की एक प्रसिद्ध कांस्य (Bronze) मूर्ति है। अतः विकल्प (c) सही है।",
+      "en": "The 'Dancing Girl' is a famous bronze figurine of the Indus Valley Civilization discovered at Mohenjodaro. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 7,
+    "year": "2024",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "नायपुत्त",
+        "en": "Nayaputta"
+      },
+      {
+        "id": 2,
+        "hi": "शाक्यमुनि",
+        "en": "Shakyamuni"
+      },
+      {
+        "id": 3,
+        "hi": "तथागत",
+        "en": "Tathagata"
+      }
+    ],
+    "question": {
+      "hi": "प्राचीन भारत के संदर्भ में, गौतम बुद्ध को सामान्यतः निम्नलिखित में से किन उपनामों से जाना जाता था?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "With reference to ancient India, by which of the following epithets was Gautama Buddha generally known?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "उपर्युक्त में से कोई भी गौतम बुद्ध के उपनाम नहीं हैं",
+        "en": "None of the above are epithets of Gautama Buddha"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "प्राचीन ग्रंथों में महावीर को नायपुत्त (नयस का पुत्र) कहा गया है (कथन 1 गलत)। बुद्ध को प्रायः 'शाक्यमुनि' (शाक्य वंश का ऋषि) और बौद्ध ग्रंथों में सबसे अधिक 'तथागत' के रूप में संबोधित किया जाता है (कथन 2 और 3 सही)। अतः विकल्प (b) सही है।",
+      "en": "In ancient texts, Mahavira is called Nayaputta (son of Nayas) (Statement 1 is incorrect). Buddha is often addressed as 'Shakyamuni' (sage of the Shakya clan) and most commonly as 'Tathagata' in Buddhist texts (Statements 2 and 3 are correct). Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 8,
+    "year": "2024",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "चंद्रकेतुगढ़ : ओडिशा : व्यापार बंदरगाह शहर",
+        "en": "Chandraketugarh : Odisha : Trading port city"
+      },
+      {
+        "id": 2,
+        "hi": "इनामगाँव : महाराष्ट्र : ताम्र-पाषाण स्थल",
+        "en": "Inamgaon : Maharashtra : Chalcolithic site"
+      },
+      {
+        "id": 3,
+        "hi": "मंगडु : केरल : महापाषाण स्थल",
+        "en": "Mangadu : Kerala : Megalithic site"
+      },
+      {
+        "id": 4,
+        "hi": "सालिहुंडम : आंध्र प्रदेश : शैलकृत गुफा मंदिर",
+        "en": "Salihundam : Andhra Pradesh : Rock-cut cave shrine"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित सूचना पर विचार कीजिये (पुरातात्विक स्थल, राज्य और विवरण):\nउपर्युक्त में से कौन-सी पंक्तियों में दी गई सूचना सही सुमेलित है?",
+      "en": "Consider the following information (Archaeological site, State and Description):\nIn how many of the above rows is the given information correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "C",
+        "hi": "3 और 4",
+        "en": "3 and 4"
+      },
+      {
+        "id": "D",
+        "hi": "1 और 4",
+        "en": "1 and 4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "चंद्रकेतुगढ़ पश्चिम बंगाल में स्थित है, न कि ओडिशा में (युग्म 1 गलत है)। इनामगाँव महाराष्ट्र में स्थित एक महत्त्वपूर्ण ताम्र-पाषाण स्थल है (युग्म 2 सही है)। मंगडु केरल में स्थित एक महापाषाण स्थल है (युग्म 3 सही है)। सालिहुंडम आंध्र प्रदेश में एक प्राचीन बौद्ध बस्ती है, यह शैलकृत मंदिरों के लिये नहीं जाना जाता (युग्म 4 गलत है)। अतः विकल्प (b) सही है।",
+      "en": "Chandraketugarh is located in West Bengal, not Odisha (Pair 1 is incorrect). Inamgaon is an important Chalcolithic site located in Maharashtra (Pair 2 is correct). Mangadu is a Megalithic site located in Kerala (Pair 3 is correct). Salihundam is an ancient Buddhist settlement in Andhra Pradesh, not known for rock-cut temples (Pair 4 is incorrect). Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 9,
+    "year": "2024",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उपनिषदों में कोई नीति-कथा (iSjWcWy) नहीं है।",
+        "en": "There is no parable in the Upanishads."
+      },
+      {
+        "id": 2,
+        "hi": "उपनिषदों की रचना पुराणों से भी पहले हुई थी।",
+        "en": "Upanishads were composed earlier than Puranas."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "उपनिषदों में दो पक्षियों की नीति-कथा (Parable) का उल्लेख प्राप्त होता है, अतः कथन 1 सही नहीं है। उपनिषदों का संकलन लगभग 7वीं से 5वीं शताब्दी ईसा पूर्व में हुआ, जबकि पुराणों की रचना संभवतः तीसरी से दसवीं शताब्दी ईसवी के बीच की गई थी। अतः कथन 2 सही है। अतः विकल्प (b) सही है।",
+      "en": "The parable of two birds is mentioned in the Upanishads, so statement 1 is not correct. The Upanishads were compiled around the 7th to 5th centuries BCE, while the Puranas were probably composed between the 3rd and 10th centuries CE. Hence, statement 2 is correct. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 10,
+    "year": "2023",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "प्राचीन दक्षिण भारत के संदर्भ में, कोरकई, पूमपुहार और मुचिरि किस रूप में सुविख्यात थे?",
+      "en": "With reference to ancient South India, Korkai, Poompuhar and Muchiri were well known as"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "राजधानी नगर",
+        "en": "Capital cities"
+      },
+      {
+        "id": "B",
+        "hi": "पत्तन",
+        "en": "Ports"
+      },
+      {
+        "id": "C",
+        "hi": "लोह और इस्पात निर्माण के केंद्र",
+        "en": "Centres of iron and steel making"
+      },
+      {
+        "id": "D",
+        "hi": "जैन तीर्थंकरों के चैत्य",
+        "en": "Shrines of Jain Tirthankaras"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कोरकई पांड्यों का एक प्रमुख पत्तन था। पूमपुहार भी एक प्राचीन समृद्ध पत्तन नगर था (कावेरी पूमपट्टिनम के नाम से जाना जाता था)। मुचिरि (मुज़िरिस) केरल का एक प्राचीन पत्तन नगर था जहाँ रोमन जहाज़ काली मिर्च के व्यापार के लिये आते थे। अतः विकल्प (b) सही है।",
+      "en": "Korkai was a major port of the Pandyas. Poompuhar was also an ancient prosperous port city (known as Kaveri Poompattinam). Muchiri (Muziris) was an ancient port city of Kerala where Roman ships came for the pepper trade. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 11,
+    "year": "2023",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा एक संगम कविता यथावर्णित 'वटकिरुतल' (Vatakkiruttal) की प्रथा को स्पष्ट करता है?",
+      "en": "Which one of the following explains the practice of 'Vatakkiruttal' as mentioned in Sangam poems?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "राजाओं द्वारा महिला अंगरक्षिकाओं को नियुक्त करना।",
+        "en": "Kings employing women bodyguards."
+      },
+      {
+        "id": "B",
+        "hi": "राजदरबारों में विद्वानों का धर्म और दर्शन के विषयों पर विचार-विमर्श हेतु एकत्र होना।",
+        "en": "Learned persons assembling in royal courts to discuss religious and philosophical matters."
+      },
+      {
+        "id": "C",
+        "hi": "किशोरियों द्वारा कृषि क्षेत्रों की निगरानी करना और चिड़ियों तथा पशुओं को भगाना।",
+        "en": "Young girls keeping watch over agricultural fields and driving away birds and animals."
+      },
+      {
+        "id": "D",
+        "hi": "युद्ध में पराजित राजा का आमरण अनशन अनुष्ठानिक मृत्युवरण करना।",
+        "en": "A king defeated in a battle committing ritual suicide by starving himself to death."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "वटकिरुतल, आमरण अनशन करने का एक तमिल अनुष्ठान था, जो संगम काल में प्रचलित था। तमिल राजा अपने सम्मान एवं प्रतिष्ठा को बचाने के लिये युद्ध में मृत्यु का सामना करने से पीछे न हटने के प्रतीक के तौर पर यह अनुष्ठानिक मृत्युवरण करते थे। अतः विकल्प (d) सही है।",
+      "en": "Vatakkiruttal was a Tamil ritual of fasting to death, prevalent in the Sangam period. Tamil kings performed this ritual suicide as a symbol of not backing down from facing death in battle to save their honor and prestige. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 12,
+    "year": "2023",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "देवीचंद्रगुप्त : बिल्हण",
+        "en": "Devichandragupta : Bilhana"
+      },
+      {
+        "id": 2,
+        "hi": "हम्मीर-महाकाव्य : नयचंद्र सूरि",
+        "en": "Hammira-Mahakavya : Nayachandra Suri"
+      },
+      {
+        "id": 3,
+        "hi": "मिलिंद-पन्ह : नागार्जुन",
+        "en": "Milinda-panha : Nagarjuna"
+      },
+      {
+        "id": 4,
+        "hi": "नीतिवाक्यामृत : सोमदेव सूरि",
+        "en": "Nitivakyamrita : Somadeva Suri"
+      }
+    ],
+    "question": {
+      "hi": "प्राचीन भारतीय इतिहास के संदर्भ में, निम्नलिखित युग्मों पर विचार कीजिये (साहित्यिक कृति और रचनाकार):\nउपर्युक्त युग्मों में से कितने सही सुमेलित हैं?",
+      "en": "With reference to ancient Indian History, consider the following pairs (Literary work and Author):\nHow many of the above pairs are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "केवल तीन",
+        "en": "Only three"
+      },
+      {
+        "id": "D",
+        "hi": "सभी चार",
+        "en": "All four"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "देवीचंद्रगुप्त की रचना विशाखदत्त ने की थी (युग्म 1 गलत है)। हम्मीर-महाकाव्य नयचंद्र सूरि द्वारा रचित है (युग्म 2 सही है)। मिलिंद-पन्ह की रचना नागसेन ने की थी, नागार्जुन ने नहीं (युग्म 3 गलत है)। नीतिवाक्यामृत की रचना सोमदेव सूरि ने की थी (युग्म 4 सही है)। अतः केवल दो युग्म सही हैं।",
+      "en": "Devichandragupta was authored by Vishakhadatta (Pair 1 is incorrect). Hammira-Mahakavya is authored by Nayachandra Suri (Pair 2 is correct). Milinda-panha was composed by Nagasena, not Nagarjuna (Pair 3 is incorrect). Nitivakyamrita was composed by Somadeva Suri (Pair 4 is correct). Thus, only two pairs are correct."
+    }
+  },
+  {
+    "id": 13,
+    "year": "2023",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "\"आत्मा केवल जंतु और पादप जीवन की संपदा नहीं है, बल्कि शिलाओं, प्रवाहित जलधाराओं और अन्य अनेक प्राकृतिक वस्तुओं की भी है, जिन्हें अन्य धार्मिक संप्रदाय जीवित नहीं मानते।\"\nउपर्युक्त कथन प्राचीन भारत के निम्नलिखित में से किस एक धार्मिक संप्रदाय के एक मूलभूत विश्वास को प्रतिबिंबित करता है?",
+      "en": "\"Souls are not only the property of animal and plant life, but also of rocks, running water and many other natural objects not looked upon as living by other religious sects.\"\nThe above statement reflects one of the core beliefs of which one of the following religious sects of ancient India?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "बौद्ध परंपरा",
+        "en": "Buddhism"
+      },
+      {
+        "id": "B",
+        "hi": "जैन परंपरा",
+        "en": "Jainism"
+      },
+      {
+        "id": "C",
+        "hi": "शैव परंपरा",
+        "en": "Shaivism"
+      },
+      {
+        "id": "D",
+        "hi": "वैष्णव परंपरा",
+        "en": "Vaishnavism"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "जैन परंपरा के अंतर्गत यह माना गया है कि पृथ्वी, जल, अग्नि, वायु और पौधों जैसी स्थिर इकाइयों में भी आत्माएँ होती हैं। जैन सिद्धांत के अनुसार सभी जीवित प्राणियों और सूक्ष्म कणों (शिलाओं, जलधाराओं आदि) में भी आत्मा होती है। अतः विकल्प (b) सही है।",
+      "en": "In Jain tradition, it is believed that souls exist even in stationary entities like earth, water, fire, air and plants. According to Jain doctrine, all living beings and microscopic particles (rocks, water streams, etc.) also have souls. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 14,
+    "year": "2023",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "question": {
+      "hi": "भारतीय इतिहास के संदर्भ में, अलेक्जेंडर री, ए.एच. लॉन्गहर्स्ट, रॉबर्ट सीवेल, जेम्स बर्गेस और वाल्टर इलियट किस गतिविधि से जुड़े थे?",
+      "en": "With reference to Indian History, Alexander Rea, A. H. Longhurst, Robert Sewell, James Burgess and Walter Elliot were associated with"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "पुरातात्विक उत्खनन",
+        "en": "archaeological excavations"
+      },
+      {
+        "id": "B",
+        "hi": "औपनिवेशिक भारत में अंग्रेज़ी प्रेस की स्थापना",
+        "en": "establishment of English Press in Colonial India"
+      },
+      {
+        "id": "C",
+        "hi": "देशी रजवाड़ों में गिरजाघरों की स्थापना",
+        "en": "establishment of Churches in Princely States"
+      },
+      {
+        "id": "D",
+        "hi": "औपनिवेशिक भारत में रेल का निर्माण",
+        "en": "construction of railways in Colonial India"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "ब्रिटिश पुरातत्त्वविद् अलेक्जेंडर री (आदिचनल्लूर में खुदाई), ए. एच. लॉन्गहर्स्ट (चंद्रकेतुगढ़ में खुदाई), रॉबर्ट सीवेल (पुरातत्त्व विभाग के प्रभारी), जेम्स बर्गेस और वाल्टर इलियट (अमरावती में खुदाई) भारत में पुरातात्विक उत्खनन से जुड़े हुए थे। अतः विकल्प (a) सही है।",
+      "en": "British archaeologists Alexander Rea (excavations at Adichanallur), A. H. Longhurst (excavations at Chandraketugarh), Robert Sewell (in-charge of the archaeological department), James Burgess and Walter Elliot (excavations at Amaravati) were associated with archaeological excavations in India. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 15,
+    "year": "2022",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "नन्नुक - चंदेल",
+        "en": "Nannuka - Chandela"
+      },
+      {
+        "id": 2,
+        "hi": "जयशक्ति - परमार",
+        "en": "Jayashakti - Paramara"
+      },
+      {
+        "id": 3,
+        "hi": "नागभट्ट द्वितीय - गुर्जर-प्रतिहार",
+        "en": "Nagabhata II - Gurjara-Pratihara"
+      },
+      {
+        "id": 4,
+        "hi": "भोज - राष्ट्रकूट",
+        "en": "Bhoja - Rashtrakuta"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये (राजा और राजवंश):\nउपर्युक्त युग्मों में से कितने सही सुमेलित हैं?",
+      "en": "Consider the following pairs (King and Dynasty):\nHow many of the above pairs are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक युग्म",
+        "en": "Only one pair"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो युग्म",
+        "en": "Only two pairs"
+      },
+      {
+        "id": "C",
+        "hi": "केवल तीन युग्म",
+        "en": "Only three pairs"
+      },
+      {
+        "id": "D",
+        "hi": "सभी चारों युग्म",
+        "en": "All four pairs"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "नन्नुक चंदेल वंश के संस्थापक थे (युग्म 1 सही है)। जयशक्ति का संबंध चंदेल वंश से था, न कि परमार वंश से (युग्म 2 गलत है)। नागभट्ट द्वितीय गुर्जर-प्रतिहार राजवंश के शक्तिशाली शासक थे (युग्म 3 सही है)। मिहिर भोज परमार वंश या गुर्जर-प्रतिहार वंश (भोज प्रथम) के राजा थे, न कि राष्ट्रकूट के (युग्म 4 गलत है)। अतः विकल्प (b) सही है।",
+      "en": "Nannuka was the founder of the Chandela dynasty (Pair 1 is correct). Jayashakti was associated with the Chandela dynasty, not the Paramara dynasty (Pair 2 is incorrect). Nagabhata II was a powerful ruler of the Gurjara-Pratihara dynasty (Pair 3 is correct). Mihira Bhoja was a king of the Paramara dynasty or Gurjara-Pratihara (Bhoja I), not Rashtrakuta (Pair 4 is incorrect). Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 16,
+    "year": "2022",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "न्यायिक दंड के परिणामस्वरूप कोई व्यक्ति दास हो सकता था।",
+        "en": "A person could be a slave as a result of a judicial punishment."
+      },
+      {
+        "id": 2,
+        "hi": "स्त्री दास अपने मालिक के संसर्ग से पुत्र जनन पर कानूनी तौर पर मुक्त हो जाती थी।",
+        "en": "If a female slave bore her master a son, she was legally free."
+      },
+      {
+        "id": 3,
+        "hi": "यदि स्त्री दास का मालिक उस स्त्री से पैदा हुए पुत्र का पिता हो, तो उस पुत्र को मालिक का पुत्र होने का कानूनी हक़ मिलता था।",
+        "en": "If a son born to a female slave was fathered by her master, the son was entitled to the legal status of the master's son."
+      }
+    ],
+    "question": {
+      "hi": "कौटिल्य अर्थशास्त्र के अनुसार, निम्नलिखित में कौन-से सही हैं?",
+      "en": "According to Kautilya's Arthashastra, which of the following are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "'अर्थशास्त्र' में कहा गया है कि एक आदमी जन्म से, स्वेच्छा से खुद को बेचकर, युद्ध में कैद होकर, या न्यायिक दंड के परिणामस्वरूप गुलाम/दास नहीं हो सकता है (कथन 1 गलत है)। यदि एक दासी ने अपने स्वामी के बच्चे को जन्म दिया, तो वह बंधन से मुक्ति की हक़दार होती थी (कथन 2 सही हैं)। यदि स्त्री दास का मालिक उस स्त्री से पैदा हुए पुत्र का पिता हो, तो उस पुत्र को मालिक का पुत्र होने का कानूनी हक़ मिलता था (कथन 3 सही है)। अतः विकल्प (b) सही है।",
+      "en": "The 'Arthashastra' states that an Arya cannot be made a slave by birth, by voluntarily selling himself, by being captured in war, or as a result of judicial punishment (Statement 1 is incorrect). If a female slave gave birth to her master's child, she was entitled to be freed from bondage (Statement 2 is correct). If a son born to a female slave was fathered by her master, the son was entitled to the legal status of the master's son (Statement 3 is correct). Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 17,
+    "year": "2021",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा प्राचीन नगर अपने उन्नत जल संचयन और प्रबंधन प्रणाली के लिये सुप्रसिद्ध है, जहाँ बाँधों की शृंखला का निर्माण किया गया था और संबद्ध जलाशयों में नहर के माध्यम से जल को प्रवाहित किया जाता था?",
+      "en": "Which one of the following ancient towns is well-known for its elaborate system of water harvesting and management by building a series of dams and channelizing water into connected reservoirs?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "धौलावीरा",
+        "en": "Dholavira"
+      },
+      {
+        "id": "B",
+        "hi": "कालीबंगा",
+        "en": "Kalibangan"
+      },
+      {
+        "id": "C",
+        "hi": "राखीगढ़ी",
+        "en": "Rakhigarhi"
+      },
+      {
+        "id": "D",
+        "hi": "रोपड़",
+        "en": "Ropar"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "हड़प्पा सभ्यता के एक प्रमुख नगर धौलावीरा की अनूठी विशेषताओं में से एक इसका उन्नत जल संचयन और प्रबंधन प्रणाली है जो पूरी तरह से पत्थरों से निर्मित है। यहाँ विशाल जलराशि के कुंड, बाँध, नहर और तटबंध मिले हैं। अतः विकल्प (a) सही है।",
+      "en": "One of the unique features of Dholavira, a major city of the Harappan civilization, is its advanced water harvesting and management system built entirely of stone. Huge water reservoirs, dams, canals and embankments have been found here. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 18,
+    "year": "2021",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "मगध के गुप्त",
+        "en": "Guptas of Magadha"
+      },
+      {
+        "id": 2,
+        "hi": "मालवा के परमार",
+        "en": "Paramaras of Malwa"
+      },
+      {
+        "id": 3,
+        "hi": "थानेसर के पुष्यभूति",
+        "en": "Pushyabhutis of Thanesar"
+      },
+      {
+        "id": 4,
+        "hi": "कन्नौज के मौखरि",
+        "en": "Maukharis of Kanauj"
+      },
+      {
+        "id": 5,
+        "hi": "देवगिरि के यादव",
+        "en": "Yadavas of Devagiri"
+      },
+      {
+        "id": 6,
+        "hi": "वल्लभी के मैत्रक",
+        "en": "Maitrakas of Valabhi"
+      }
+    ],
+    "question": {
+      "hi": "गुप्त वंश के पतन से लेकर आरंभिक सातवीं शताब्दी में हर्षवर्धन के उत्थान तक उत्तर भारत में निम्नलिखित में से किन राज्यों का शासन था?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "From the decline of Guptas until the rise of Harshavardhana in the early seventh century, which of the following kingdoms were holding power in Northern India?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 2 और 5",
+        "en": "1, 2 and 5"
+      },
+      {
+        "id": "B",
+        "hi": "1, 3, 4 और 6",
+        "en": "1, 3, 4 and 6"
+      },
+      {
+        "id": "C",
+        "hi": "2, 3 और 4",
+        "en": "2, 3 and 4"
+      },
+      {
+        "id": "D",
+        "hi": "5 और 6",
+        "en": "5 and 6"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "गुप्त वंश के पतन के पश्चात् तथा हर्षवर्धन के उत्थान तक उत्तर भारत में मगध के गुप्त शासक, थानेसर के पुष्यभूति, कन्नौज के मौखरि, वल्लभी के मैत्रक वंश का शासन था। मालवा के परमार और देवगिरि के यादवों ने दक्कन में 10वीं से 14वीं शताब्दी के मध्य शासन किया था। अतः विकल्प (b) सही है।",
+      "en": "After the fall of the Gupta dynasty and until the rise of Harshavardhana, Northern India was ruled by the Guptas of Magadha, Pushyabhutis of Thanesar, Maukharis of Kanauj, and the Maitraka dynasty of Valabhi. The Paramaras of Malwa and Yadavas of Devagiri ruled in the Deccan between the 10th and 14th centuries. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 19,
+    "year": "2021",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बुर्ज़होम : शैलकृत देव मंदिर",
+        "en": "Burzahom : Rock-cut shrines"
+      },
+      {
+        "id": 2,
+        "hi": "चंद्रकेतुगढ़ : टेराकोटा कला",
+        "en": "Chandraketugarh : Terracotta art"
+      },
+      {
+        "id": 3,
+        "hi": "गणेश्वर : ताम्र कलाकृतियाँ",
+        "en": "Ganeshwar : Copper artefacts"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये (ऐतिहासिक स्थान और ख्याति का कारण):\nउपर्युक्त युग्मों में से कौन-सा/से सही सुमेलित है/हैं?",
+      "en": "Consider the following pairs (Historical place and Well-known for):\nWhich of the pairs given above is/are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "बुर्ज़होम कश्मीर का एक नवपाषाणकालीन स्थल है जहाँ से गर्तावास के साक्ष्य मिले हैं, न कि देव मंदिर। अतः युग्म 1 गलत है। पश्चिम बंगाल में स्थित चंद्रकेतुगढ़ की खुदाई में टेराकोटा (पकी मिट्टी) की मूर्तियाँ मिली हैं। अतः युग्म 2 सही है। राजस्थान के सीकर ज़िले में स्थित गणेश्वर से ताम्र वस्तुएँ प्राप्त हुई हैं। अतः युग्म 3 सही है। अतः विकल्प (d) सही है।",
+      "en": "Burzahom is a Neolithic site in Kashmir from where pit-dwellings have been found, not rock-cut shrines. Hence, Pair 1 is incorrect. Terracotta figurines have been found in the excavation of Chandraketugarh in West Bengal. Hence, Pair 2 is correct. Copper artefacts have been found from Ganeshwar located in Sikar district of Rajasthan. Hence, Pair 3 is correct. Thus, option (d) is correct."
+    }
+  },
+  {
+    "id": 20,
+    "year": "2021",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "मिताक्षरा ऊँची जाति की सिविल विधि थी और दायभाग निम्न जाति की सिविल विधि थी।",
+        "en": "Mitakshara was the civil law for upper castes and Dayabhaga was the civil law for lower castes."
+      },
+      {
+        "id": 2,
+        "hi": "मिताक्षरा व्यवस्था में, पुत्र अपने पिता के जीवनकाल में ही संपत्ति पर अधिकार का दावा कर सकते थे, जबकि दायभाग व्यवस्था में पिता की मृत्यु के उपरांत ही पुत्र संपत्ति पर अधिकार का दावा कर सकते थे।",
+        "en": "In the Mitakshara system, the sons can claim right to the property during the lifetime of the father, whereas in the Dayabhaga system, it is only after the death of the father that the sons can claim right to the property."
+      },
+      {
+        "id": 3,
+        "hi": "मिताक्षरा व्यवस्था किसी परिवार के केवल पुरुष सदस्यों के संपत्ति-संबंधी मामलों पर विचार करती है, जबकि दायभाग व्यवस्था किसी परिवार के पुरुष एवं महिला सदस्यों, दोनों के संपत्ति-संबंधी मामलों पर विचार करती है।",
+        "en": "The Mitakshara system deals with the matters related to the property held by male members only of a family, whereas the Dayabhaga system deals with the matters related to the property held by both male and female members of a family."
+      }
+    ],
+    "question": {
+      "hi": "प्राचीन भारत के इतिहास के संदर्भ में, निम्नलिखित कथनों में से कौन-सा/से सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "With reference to the history of ancient India, which of the following statements is/are correct?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "विज्ञानेश्वर द्वारा याज्ञवल्क्य स्मृति पर लिखी गई टीका मिताक्षरा संपत्ति के अधिकार के लिये कानून की सर्वमान्य पुस्तक थी। मिताक्षरा और दायभाग जाति भेद नहीं करती थी। अतः कथन 1 गलत है। मिताक्षरा व्यवस्था में पिता के जीवित रहते पुत्र, पिता की संपत्ति में अधिकार का दावा कर सकता था जबकि दायभाग पिता की मृत्यु के पश्चात् ऐसे किसी दावे पर विचार करती थी। अतः कथन 2 सही है। मिताक्षरा और दायभाग स्त्री-पुरुष दोनों के संपत्ति संबंधी मामलों पर विचार व्यक्त करते हैं। अतः कथन 3 गलत है। अतः विकल्प (b) सही है।",
+      "en": "The commentary Mitakshara written by Vijnaneshwara on Yajnavalkya Smriti was a universally accepted book of law for property rights. Mitakshara and Dayabhaga did not discriminate on the basis of caste. Hence statement 1 is incorrect. In the Mitakshara system, a son could claim right to the father's property while the father was alive, whereas Dayabhaga considered such a claim only after the father's death. Hence statement 2 is correct. Both Mitakshara and Dayabhaga express views on property matters of both men and women. Hence statement 3 is incorrect. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 21,
+    "year": "2020",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा उपवाक्य, उत्तर हर्ष कालीन स्रोतों में प्रायः उल्लिखित 'हुंडी' के स्वरूप की परिभाषा बताता है?",
+      "en": "Which of the following phrases defines the nature of the 'Hundi' generally referred to in the sources of the post-Harsha period?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "राजा द्वारा अपने अधीनस्थों को दिया गया परामर्श",
+        "en": "An advisory issued by the king to his subordinates"
+      },
+      {
+        "id": "B",
+        "hi": "प्रतिदिन का लेखा-जोखा अंकित करने वाली बही",
+        "en": "A diary to be maintained for daily accounts"
+      },
+      {
+        "id": "C",
+        "hi": "विनिमय पत्र",
+        "en": "A bill of exchange"
+      },
+      {
+        "id": "D",
+        "hi": "सामंत द्वारा अपने अधीनस्थों को दिया गया आदेश",
+        "en": "An order from a feudal lord to his subordinates"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "'हुंडी' को 'विनिमय' के प्रमाण के रूप में प्रस्तुत किया जाता था जिसे व्यापार और ऋण लेन-देन में उपयोग किया जाता था। अतः विकल्प (c) सही है।",
+      "en": "A 'Hundi' was presented as an instrument of 'exchange' which was used in trade and credit transactions. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 22,
+    "year": "2020",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के इतिहास के संदर्भ में, 'कुल्यवाप' तथा 'द्रोणवाप' शब्द क्या निर्दिष्ट करते हैं?",
+      "en": "With reference to the history of India, what do the terms 'Kulyavapa' and 'Dronavapa' denote?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भू-माप",
+        "en": "Measurement of land"
+      },
+      {
+        "id": "B",
+        "hi": "विभिन्न मौद्रिक मूल्यों के सिक्के",
+        "en": "Coins of different monetary values"
+      },
+      {
+        "id": "C",
+        "hi": "नगर की भूमि का वर्गीकरण",
+        "en": "Classification of urban land"
+      },
+      {
+        "id": "D",
+        "hi": "धार्मिक अनुष्ठान",
+        "en": "Religious rituals"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "भारत के इतिहास के संदर्भ में, 'कुल्यवाप और द्रोणवाप' शब्द गुप्तकाल में उत्तर भारत में भूमि माप इकाई से संबंधित थे। इन शब्दों में 'वाप' शब्द का अर्थ/संबंध 'बीज बोना' या 'कृषि योग्य भूमि' से है। बीजों के भार के अनुरूप ही कुल्य, द्रोण और आढक होते थे। द्रोण एक परिमाण का सूचक है जबकि द्रोणवाप भू-माप का। पाँचवीं सदी के बंगाल एवं बिहार से प्राप्त कतिपय अभिलेख कुल्यवाप एवं द्रोणवाप के स्थानीय प्रचलन की ओर संकेत करते हैं। अतः विकल्प (a) सही है।",
+      "en": "In the context of the history of India, the terms 'Kulyavapa' and 'Dronavapa' referred to the units of land measurement in North India during the Gupta period. In these words, the term 'Vapa' means 'to sow seeds' or relates to 'cultivable land'. Kulya, Drona, and Adhaka were corresponding to the weight of seeds. Drona denotes a measure of capacity while Dronavapa is a land measurement. Certain inscriptions found from 5th century Bengal and Bihar indicate the local prevalence of Kulyavapa and Dronavapa. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 23,
+    "year": "2020",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से किस शासक ने अपनी प्रजा को इस अभिलेख के माध्यम से परामर्श दिया?\n\"कोई भी व्यक्ति जो अपने संप्रदाय को महिमा-मंडित करने की दृष्टि से अपने धार्मिक संप्रदाय की प्रशंसा करता है या अपने संप्रदाय के प्रति अत्यधिक भक्ति के कारण अन्य संप्रदायों की निंदा करता है, वह अपितु अपने संप्रदाय को गंभीर रूप से हानि पहुँचाता है।\"",
+      "en": "Who among the following rulers advised his subjects through this inscription?\n\"Whosoever praises his religious sect or blames other sects out of excessive devotion to his own sect, with the view of glorifying his own sect, he rather injures his own sect very severely.\""
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अशोक",
+        "en": "Ashoka"
+      },
+      {
+        "id": "B",
+        "hi": "समुद्रगुप्त",
+        "en": "Samudragupta"
+      },
+      {
+        "id": "C",
+        "hi": "हर्षवर्धन",
+        "en": "Harshavardhana"
+      },
+      {
+        "id": "D",
+        "hi": "कृष्णदेव राय",
+        "en": "Krishnadeva Raya"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "उपर्युक्त कथन का संबंध अशोक के शिलालेख से है। अशोक ने अपने राज्यादेशों को शिलालेखों के माध्यम से व्यक्त किया है। अतः विकल्प (a) सही है।",
+      "en": "The above statement is related to the rock edicts of Ashoka. Ashoka expressed his royal orders through rock edicts. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 24,
+    "year": "2020",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भिलसा – मध्य प्रदेश",
+        "en": "Bhilsa - Madhya Pradesh"
+      },
+      {
+        "id": 2,
+        "hi": "द्वारसमुद्र – महाराष्ट्र",
+        "en": "Dwarasamudra - Maharashtra"
+      },
+      {
+        "id": 3,
+        "hi": "गिरिनगर – गुजरात",
+        "en": "Girinagar - Gujarat"
+      },
+      {
+        "id": 4,
+        "hi": "स्थानेश्वर – उत्तर प्रदेश",
+        "en": "Sthanesvara - Uttar Pradesh"
+      }
+    ],
+    "question": {
+      "hi": "भारत के इतिहास के संदर्भ में, निम्नलिखित युग्मों पर विचार कीजिये (प्रसिद्ध स्थल और वर्तमान राज्य):\nउपर्युक्त में से कौन-से युग्म सही सुमेलित हैं?",
+      "en": "With reference to the history of India, consider the following pairs (Famous place and Present State):\nWhich of the pairs given above are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 4",
+        "en": "1 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "सही सुमेलन इस प्रकार है- 1. भिलसा - यह मध्य प्रदेश में स्थित प्राचीन नगर विदिशा का आधुनिक नाम है। 2. द्वारसमुद्र - यह कर्नाटक राज्य के हसन ज़िले में स्थित है। यह प्राचीन होयसल वंश की राजधानी था (इसका वर्तमान नाम हलेबिडू है)। 3. गिरिनगर - गुजरात। 4. स्थानेश्वर - यह हरियाणा (वर्तमान करनाल ज़िला) में स्थित है। हर्ष काल में यहाँ वर्धन राजवंश का शासन था। अतः विकल्प (a) सही है।",
+      "en": "The correct matching is as follows: 1. Bhilsa - It is the modern name of the ancient city Vidisha located in Madhya Pradesh. 2. Dwarasamudra - It is located in Hassan district of Karnataka state. It was the capital of the ancient Hoysala dynasty (its present name is Halebidu). 3. Girinagar - Gujarat. 4. Sthanesvara - It is located in Haryana (present-day Karnal district). The Vardhana dynasty ruled here during Harsha's period. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 25,
+    "year": "2020",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "प्राचीन भारतीय गुप्त राजवंश के समय के संदर्भ में, नगर घंटाशाला, कदूरा तथा चौल किस लिये विख्यात थे?",
+      "en": "With reference to the period of Gupta dynasty in ancient India, the towns Ghantasala, Kadura and Chaul were well known as"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "विदेशी व्यापार करने वाले बंदरगाह",
+        "en": "Ports handling foreign trade"
+      },
+      {
+        "id": "B",
+        "hi": "शक्तिशाली राज्यों की राजधानियाँ",
+        "en": "Capitals of powerful kingdoms"
+      },
+      {
+        "id": "C",
+        "hi": "उत्कृष्ट प्रस्तर कला तथा स्थापत्य से संबंधित स्थान",
+        "en": "Places of exquisite stone art and architecture"
+      },
+      {
+        "id": "D",
+        "hi": "बौद्ध धर्म के महत्त्वपूर्ण तीर्थस्थल",
+        "en": "Important Buddhist pilgrimage centres"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "गुप्त काल में बाह्य देशों के साथ व्यापार उन्नति पर था। इस समय भारत के अनेक बंदरगाह बाह्य देशों से व्यापार में संलग्न थे। इनमें पश्चिमी तट पर कैम्बे, सोपारा और कल्याण प्रमुख बंदरगाह थे। इसके अतिरिक्त चौल, घंटाशाला, कदूरा और ताम्रलिप्ति प्रमुख बंदरगाह थे। अतः विकल्प (a) सही है।",
+      "en": "During the Gupta period, trade with foreign countries was progressing. At this time, many ports of India were engaged in trade with foreign countries. Among these, Cambay, Sopara and Kalyan were the major ports on the western coast. Apart from this, Chaul, Ghantasala, Kadura and Tamralipti were major ports. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 26,
+    "year": "2019",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा एक हड़प्पा स्थल नहीं है?",
+      "en": "Which one of the following is not a Harappan site?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "चन्हूदड़ो",
+        "en": "Chanhudaro"
+      },
+      {
+        "id": "B",
+        "hi": "कोट दीजी",
+        "en": "Kot Diji"
+      },
+      {
+        "id": "C",
+        "hi": "सोहगौरा",
+        "en": "Sohgaura"
+      },
+      {
+        "id": "D",
+        "hi": "देसलपुर",
+        "en": "Desalpur"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "चन्हूदड़ो व कोटदीजी वर्तमान में पाकिस्तान के सिंध प्रांत में स्थित हैं। ये दोनों हड़प्पा स्थल सिंधु नदी के किनारे स्थित हैं। वहीं देसलपुर वर्तमान भारत के कच्छ (गुजरात) में स्थित हड़प्पा स्थल है। जबकि सोहगौरा, गोरखपुर (यू.पी.) के पास स्थित है जहाँ से मौर्यकालीन ताम्रपत्र अभिलेख प्राप्त हुआ है। अतः विकल्प (c) सही है।",
+      "en": "Chanhudaro and Kot Diji are currently located in the Sindh province of Pakistan. Both these Harappan sites are located on the banks of the Indus River. Desalpur is a Harappan site located in Kutch (Gujarat), present-day India. Whereas Sohgaura is located near Gorakhpur (U.P.) from where Mauryan copper plate inscriptions have been found. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 27,
+    "year": "2019",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से किस उभारदार मूर्तिकला (रिलीफ स्कल्पचर) शिलालेख में अशोक के प्रस्तर रूपचित्र के साथ 'राण्यो अशोक' (राजा अशोक) उल्लिखित है?",
+      "en": "In which of the following relief sculpture inscriptions is 'Ranyo Ashoka' (King Ashoka) mentioned along with the stone portrait of Ashoka?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कंगनहल्ली",
+        "en": "Kanganahalli"
+      },
+      {
+        "id": "B",
+        "hi": "साँची",
+        "en": "Sanchi"
+      },
+      {
+        "id": "C",
+        "hi": "शाहबाजगढ़ी",
+        "en": "Shahbazgarhi"
+      },
+      {
+        "id": "D",
+        "hi": "सोहगौरा",
+        "en": "Sohgaura"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कंगनहल्ली, वर्तमान में कर्नाटक राज्य में स्थित एक बौद्ध स्थल है। यहाँ से प्राप्त एक उभारदार मूर्तिशिल्प (रिलीफ स्कल्पचर) शिलालेख में अशोक के प्रस्तर रूपचित्र के साथ 'राण्यो अशोक' (राजा अशोक) लिखा हुआ है। अतः विकल्प (a) सही है।",
+      "en": "Kanganahalli is a Buddhist site located in the present state of Karnataka. In a relief sculpture inscription found here, 'Ranyo Ashoka' (King Ashoka) is written along with the stone portrait of Ashoka. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 28,
+    "year": "2019",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "गुप्त काल के दौरान भारत में बलात् श्रम (विष्टि) के संदर्भ में, निम्नलिखित में से कौन-सा कथन सही है?",
+      "en": "With reference to forced labour (Vishti) in India during the Gupta period, which one of the following statements is correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इसे राज्य के लिये आय का एक स्रोत, जनता द्वारा दिया जाने वाला एक प्रकार का कर, माना जाता था।",
+        "en": "It was considered a source of income for the State, a sort of tax paid by the people."
+      },
+      {
+        "id": "B",
+        "hi": "यह गुप्त साम्राज्य के मध्य प्रदेश तथा काठियावाड़ क्षेत्रों में पूर्णतः अविद्यमान था।",
+        "en": "It was totally absent in the Madhya Pradesh and Kathiawar regions of the Gupta Empire."
+      },
+      {
+        "id": "C",
+        "hi": "बलात् श्रमिक साप्ताहिक मज़दूरी का हक़दार होता था।",
+        "en": "The forced labourer was entitled to weekly wages."
+      },
+      {
+        "id": "D",
+        "hi": "मज़दूर के ज्येष्ठ पुत्र को बलात् श्रमिक के रूप में भेज दिया जाता था।",
+        "en": "The eldest son of the labourer was sent as the forced labourer."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "गुप्त काल के दौरान भारत में बलात् श्रम (विष्टि) सामान्यतः राज्य के लिये आय का एक स्रोत तथा जनता द्वारा दिया जाने वाला एक प्रकार का 'कर' माना जाता था। अतः विकल्प (a) सही है। बलात् श्रम (विष्टि) के तहत मज़दूरों, शिल्पियों व कृषकों को अनिवार्य रूप से राजा या राज्य के लिये श्रम करना होता था, जिसके एवज़ में उन्हें कोई भुगतान नहीं दिया जाता था। यह प्रथा गुप्त साम्राज्य के काठियावाड़ और मध्य प्रदेश क्षेत्रों में सर्वाधिक प्रचलित थी।",
+      "en": "Forced labour (Vishti) in India during the Gupta period was generally considered a source of income for the State, a sort of 'tax' paid by the people. Hence, option (a) is correct. Under Vishti, labourers, artisans, and farmers had to compulsorily work for the king or the state, for which they were not paid any remuneration. This practice was most prevalent in the Kathiawar and Madhya Pradesh regions of the Gupta Empire."
+    }
+  },
+  {
+    "id": 29,
+    "year": "2016",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "सम्राट अशोक के राज्यादेशों का सबसे पहले विकूटन (डिसाइफर) किसने किया था?",
+      "en": "Who among the following was the first to decipher the edicts of Emperor Ashoka?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "जॉर्ज ब्यूह्लर",
+        "en": "Georg Bühler"
+      },
+      {
+        "id": "B",
+        "hi": "जेम्स प्रिंसेप",
+        "en": "James Prinsep"
+      },
+      {
+        "id": "C",
+        "hi": "मैक्स मुलर",
+        "en": "Max Muller"
+      },
+      {
+        "id": "D",
+        "hi": "विलियम जोन्स",
+        "en": "William Jones"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "जेम्स प्रिंसेप, ईस्ट इंडिया कंपनी में एक अधिकारी के पद पर नियुक्त था। उसने 1838 ई. में ब्राह्मी और खरोष्ठी लिपियों को पढ़ने में सफलता प्राप्त की। इन लिपियों का उपयोग सबसे आरंभिक अभिलेखों और सिक्कों में किया गया है। अशोक के गिरनार वाले शिलालेख का अध्ययन करके उन्होंने कुछ यूनानी शासकों के नामों की भी खोज की। अतः सम्राट अशोक के राज्यादेशों का सबसे पहले विकूटन जेम्स प्रिंसेप ने किया था। अतः विकल्प (b) सही है।",
+      "en": "James Prinsep was appointed as an officer in the East India Company. He succeeded in deciphering the Brahmi and Kharosthi scripts in 1838 CE. These scripts were used in the earliest inscriptions and coins. By studying Ashoka's Girnar inscription, he also discovered the names of some Greek rulers. Thus, Emperor Ashoka's edicts were first deciphered by James Prinsep. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 30,
+    "year": "2016",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "एरिपत्ति : भूमि, जिससे मिलने वाला राजस्व अलग से ग्राम जलाशय के रख-रखाव के लिये निर्धारित कर दिया जाता था",
+        "en": "Eripatti : Land, revenue from which was set apart for the maintenance of the village tank"
+      },
+      {
+        "id": 2,
+        "hi": "तनियूर : एक अकेले ब्राह्मण अथवा एक ब्राह्मण समूह को दान में दिये गए ग्राम",
+        "en": "Taniyur : Villages donated to a single Brahmin or a group of Brahmins"
+      },
+      {
+        "id": 3,
+        "hi": "घटिका : प्रायः मंदिरों के साथ संबद्ध विद्यालय",
+        "en": "Ghatika : Colleges generally attached to the temples"
+      }
+    ],
+    "question": {
+      "hi": "भारत के इतिहास के संदर्भ में निम्नलिखित युग्मों पर विचार कीजिये:\nउपर्युक्त में से कौन-सा/से युग्म सही सुमेलित है/हैं?",
+      "en": "With reference to the history of India, consider the following pairs:\nWhich of the pairs given above is/are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "1 और 3",
+        "en": "1 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "एरिपत्ति भूमि मुख्यतः जलाशय भूमि थी जिससे मिलने वाला राजस्व अलग से ग्राम जलाशय के रख-रखाव के लिये निर्धारित कर दिया जाता था। तनियूर चोल साम्राज्य (850–1200 ईसवी) के प्रशासन से संबंधित शब्द है। इसके तहत सभी गाँव एक स्वशासित इकाई था। प्रत्येक गाँव मिलकर एक कोर्रम या नाडु का निर्माण करते थे। तनियूर एक बड़ा गाँव था जो स्वयं ही एक कोर्रम का निर्माण करने में सक्षम था। (अतः युग्म 2 गलत है)। घटिका, मध्यकालीन कर्नाटक के मंदिरों के निकट स्थित पल्लवों का सबसे महत्त्वपूर्ण शैक्षणिक संस्थान था। अतः विकल्प (d) सही है।",
+      "en": "Eripatti land was mainly tank land, the revenue from which was set apart for the maintenance of the village tank. Taniyur is a term related to the administration of the Chola Empire (850–1200 CE). Under this, all villages were self-governing units. Each village together formed a Kurram or Nadu. Taniyur was a large village capable of forming a Kurram by itself (Thus pair 2 is incorrect). Ghatika was the most important educational institution of the Pallavas located near the temples of medieval Karnataka. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 31,
+    "year": "2016",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "प्राचीन भारत की निम्नलिखित पुस्तकों में से किस एक में शुंग राजवंश के संस्थापक के पुत्र की प्रेम कहानी है?",
+      "en": "In which one of the following books of ancient India is the love story of the son of the founder of Shunga dynasty?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "स्वप्नवासवदत्ता",
+        "en": "Svapnavasavadatta"
+      },
+      {
+        "id": "B",
+        "hi": "मालविकाग्निमित्र",
+        "en": "Malavikagnimitra"
+      },
+      {
+        "id": "C",
+        "hi": "मेघदूत",
+        "en": "Meghaduta"
+      },
+      {
+        "id": "D",
+        "hi": "रत्नावली",
+        "en": "Ratnavali"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "मालविकाग्निमित्रम् कालिदास का प्रथम नाटक है। इसमें शुंग वंश के संस्थापक पुष्यमित्र शुंग के पुत्र अग्निमित्र तथा मालविका, जो कि उनके राज्य की नर्तकी थी, की प्रणय-कथा का वर्णन किया गया है। अतः विकल्प (b) सही है।",
+      "en": "Malavikagnimitram is the first play of Kalidasa. It describes the love story of Agnimitra, the son of Pushyamitra Shunga, the founder of the Shunga dynasty, and Malavika, who was a dancer in his kingdom. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 32,
+    "year": "2016",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के सांस्कृतिक इतिहास के संदर्भ में इतिवृत्तों, राजवंशयी इतिहासों तथा वीरगाथाओं को कंठस्थ करना निम्नलिखित में से किसका व्यवसाय था?",
+      "en": "In the context of the cultural history of India, memorizing of chronicles, dynastic histories and epic tales was the profession of who of the following?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "श्रमण",
+        "en": "Shramana"
+      },
+      {
+        "id": "B",
+        "hi": "परिव्राजक",
+        "en": "Parivraajaka"
+      },
+      {
+        "id": "C",
+        "hi": "अग्रहारिक",
+        "en": "Agrahaarika"
+      },
+      {
+        "id": "D",
+        "hi": "मागध",
+        "en": "Magadha"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "मागध, प्राचीन भारत में एक दरबारी था। जैसा कि इतिहासकार कहते हैं- इतिवृत्तों, राजवंशयी इतिहासों या महाकाव्य संबंधी कथाओं को याद करना विभिन्न समूहों का काम था; जिन्हें सूत और मागध कहते थे। अतः विकल्प (d) सही है।",
+      "en": "Magadha was a courtier in ancient India. As historians say, memorizing chronicles, dynastic histories, or epic tales was the task of different groups; who were called Sutas and Magadhas. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 33,
+    "year": "2015",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अत्यंत सशक्त केंद्रीय राजनीतिक सत्ता और अत्यंत दुर्बल प्रांतीय अथवा स्थानीय राजनीतिक सत्ता",
+        "en": "A very strong central political authority and a very weak provincial or local political authority"
+      },
+      {
+        "id": 2,
+        "hi": "भूमि के नियंत्रण तथा स्वामित्त्व पर आधारित प्रशासनिक संरचना का उदय",
+        "en": "Emergence of administrative structure based on control and possession of land"
+      },
+      {
+        "id": 3,
+        "hi": "सामंत तथा उसके अधिपति के बीच स्वामी-दास संबंध का बनना",
+        "en": "Creation of lord-vassal relationship between the feudal lord and his overlord"
+      }
+    ],
+    "question": {
+      "hi": "भारतीय इतिहास के संदर्भ में निम्नलिखित में से कौन-सा/से सामंती व्यवस्था का/के अनिवार्य तत्त्व है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "With reference to Indian history, which of the following is/are the essential element/elements of the feudal system?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारत में सामंतवादी समाज के विकास के बड़े दूरगामी प्रभाव पड़े। इससे राजा की शक्ति कम हो गई और वह ऐसे सामंती सरदारों पर अधिक निर्भर रहने लगा जिनके पास अपनी स्वयं की सेनाएँ थीं। इस प्रकार केंद्रीय राजनीतिक सत्ता क्रमशः कमज़ोर होती गई तथा प्रांतीय या स्थानीय सत्ता उत्तरोत्तर मज़बूत होती गई। अतः कथन 1 पूर्णतः गलत है। पूर्व मध्यकालीन भारत में सामंती संबंधों का उदय हुआ। यह भू-अनुदान प्रथा से जुड़ा हुआ है। सामंती व्यवस्था में भूमि पर नियंत्रण आधारित प्रशासनिक व्यवस्था होती है। इसमें अधीनस्थ शासक कर व सैन्य सहायता देने का वादा करता है। इसके तहत स्वामी-दास के संबंधों पर आधारित व्यवस्था होती है। सामंत को अपने स्वामी राजा के प्रति स्वामिभक्ति प्रदर्शित करनी होती है। अतः कथन 2 और 3 सही हैं, इसलिये इसका उत्तर (b) है।",
+      "en": "The development of feudal society in India had far-reaching consequences. This reduced the power of the king, and he became more dependent on feudal lords who had their own armies. Thus, the central political authority gradually weakened and the provincial or local authority became progressively stronger. Hence, statement 1 is completely incorrect. Feudal relations emerged in early medieval India, linked to the land grant system. In the feudal system, there is an administrative system based on control over land. The subordinate ruler promises to provide tax and military assistance. It entails a system based on lord-vassal relations, where the vassal has to show loyalty to his overlord king. Hence statements 2 and 3 are correct, so the answer is (b)."
+    }
+  },
+  {
+    "id": 34,
+    "year": "2015",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अवंति",
+        "en": "Avanti"
+      },
+      {
+        "id": 2,
+        "hi": "गांधार",
+        "en": "Gandhara"
+      },
+      {
+        "id": 3,
+        "hi": "कोसल",
+        "en": "Kosala"
+      },
+      {
+        "id": 4,
+        "hi": "मगध",
+        "en": "Magadha"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित राज्यों में से किनका संबंध बुद्ध के जीवन से था?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Which of the following kingdoms were associated with the life of the Buddha?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "B",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "C",
+        "hi": "1, 3 और 4",
+        "en": "1, 3 and 4"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3 और 4",
+        "en": "3 and 4 only"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "बौद्ध धर्म के प्रवर्तक महात्मा बुद्ध को गृह-त्याग के बाद मगध साम्राज्य में शामिल 'गया' में ज्ञान की प्राप्ति हुई तथा कोसल उनका मुख्य प्रचार क्षेत्र रहा, जहाँ उन्होंने अपने मत का प्रचार किया। अपने वृहद् प्रचार काल में बुद्ध कभी भी अवंति (म.प्र.) या गांधार (अफगानिस्तान) नहीं गए। कोसल नरेश प्रसेनजित भी इनके शिष्य बने। अतः विकल्प (d) सही है।",
+      "en": "Mahatma Buddha, the founder of Buddhism, attained enlightenment in 'Gaya' included in the Magadha empire after leaving his home, and Kosala was his main preaching area, where he propagated his teachings. Buddha never visited Avanti (MP) or Gandhara (Afghanistan) during his extensive preaching period. Kosala king Prasenajit also became his disciple. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 35,
+    "year": "2014",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत में बद्ध मज़दूरों (बॉन्डेड लेबर) के संदर्भ में, निम्नलिखित में से कौन-सा कथन सही है?",
+      "en": "With reference to bonded labour in India, which of the following statements is correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भारतीय वाणिज्य एवं उद्योग मंडल द्वारा 'बद्ध' शब्द का प्रयोग फैक्टरियों में कामगारों की सोसाइटी को दर्शाने के लिये किया जाता था",
+        "en": "The term 'bonded' was used by the Indian Chamber of Commerce and Industry to indicate the society of workers in factories"
+      },
+      {
+        "id": "B",
+        "hi": "बंगाल प्रेसीडेंसियों में से कुछ में \"हाली\" नामक सार्वजनिक नियोक्ता को कामगारों द्वारा स्वीकृत होना माना जाता था",
+        "en": "In some Bengal Presidencies, a public employer named \"Hali\" was supposed to be accepted by the workers"
+      },
+      {
+        "id": "C",
+        "hi": "दक्षिण भारत में वेल्लाल व पनियाल फसल काटने वाले छोटे किसान/मज़दूर थे",
+        "en": "In South India, Vellalas and Padiyals were small farmers/agricultural labourers who harvested crops."
+      },
+      {
+        "id": "D",
+        "hi": "उपरोक्त सभी",
+        "en": "All of the above"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कुछ हिस्सों में ग्रामीण क्षेत्रों में साम्राज्य पर आधारित एक वास्तविक दासी प्रथा विद्यमान थी। उदाहरणस्वरूप गुजरात में हाली प्रथा। दक्षिण भारत में वेल्लाल और पनियाल लगभग मज़दूर खेतिहर के बराबर थे। अतः विकल्प (c) सही है।",
+      "en": "In some parts, a virtual slavery system based on the empire existed in rural areas. For example, the Hali system in Gujarat. In South India, Vellalas and Padiyals were almost equivalent to agricultural labourers. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 36,
+    "year": "2013",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारतीय इतिहास के संदर्भ में, निम्नलिखित में से कौन सामंती व्यवस्था का अनिवार्य लक्षण था?",
+      "en": "With reference to Indian history, which of the following was an essential feature of the feudal system?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कर्म का सिद्धांत",
+        "en": "Theory of Karma"
+      },
+      {
+        "id": "B",
+        "hi": "स्त्री-पुरुष भेदभाव",
+        "en": "Gender discrimination"
+      },
+      {
+        "id": "C",
+        "hi": "जातीय व्यवस्था की कठोरता",
+        "en": "Rigidity of the caste system"
+      },
+      {
+        "id": "D",
+        "hi": "राजा और प्रजा की भूमिका का विकेंद्रीकरण (भूमि के आधार पर)",
+        "en": "Decentralization of the role of king and subjects (based on land)"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "पूर्व मध्यकालीन भारत में सामंती व्यवस्था का उदय हुआ। यह भू-अनुदान प्रथा से जुड़ा हुआ है। सामंती व्यवस्था में भूमि पर नियंत्रण आधारित प्रशासनिक व्यवस्था होती है, जिससे राजनीतिक सत्ता का विकेंद्रीकरण होता है। अतः विकल्प (d) सही है।",
+      "en": "The feudal system emerged in early medieval India. It is linked to the practice of land grants. In the feudal system, there is an administrative system based on control over land, leading to decentralization of political authority. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 37,
+    "year": "2013",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत की यात्रा करने वाले ह्वेनसांग ने तत्कालीन भारत की सामान्य दशाओं और संस्कृति का वर्णन किया है। इस संदर्भ में, निम्नलिखित में से कौन-सा/से कथन सही है/हैं?",
+      "en": "The Chinese traveler Xuanzang (Hiuen Tsang) who visited India recorded the general conditions and culture of India at that time. In this context, which of the following statements is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सड़क और नदी मार्ग लूटमार से पूरी तरह सुरक्षित थे।",
+        "en": "The roads and river-routes were completely immune from robbery."
+      },
+      {
+        "id": "B",
+        "hi": "जहाँ तक अपराधों के लिये दंड का प्रश्न है, अग्नि, जल व विष द्वारा सत्यपरीक्षा किया जाना ही किसी व्यक्ति की निर्दोषता अथवा दोष के निर्णय के साधन थे।",
+        "en": "As regards punishment for offences, ordeals by fire, water and poison were the instruments for determining the innocence or guilt of a person."
+      },
+      {
+        "id": "C",
+        "hi": "व्यापारियों को नौघाटों और नाकों (Barrier Stations) पर शुल्क देना पड़ता था।",
+        "en": "The tradesmen had to pay duties at ferries and barrier stations."
+      },
+      {
+        "id": "D",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "ह्वेनसांग चीनी यात्री था, जो ईसा की 7वीं सदी में भारत आया। उसके यात्रा संस्मरण को एक पुस्तक के रूप में संकलित किया गया, जो 'सी-यू-की' के नाम से जाना जाता है। उसने सड़कों पर आवागमन को पूर्णतया सुरक्षित नहीं कहा क्योंकि वह स्वयं भी लूट का शिकार हो चुका था (कथन 1 गलत)। उसके अनुसार, अपराध अथवा निर्दोष सिद्ध करने के लिये अग्नि, जल, विष आदि द्वारा दिव्य परीक्षाएँ ली जाती थीं (कथन 2 सही)। उसके अनुसार, व्यापारिक मार्गों, घाटों, बिकी वस्तुओं आदि पर भी कर लगते थे, जिससे राज्य को पर्याप्त धन प्राप्त होता था (कथन 3 सही)। अतः विकल्प (d) 'केवल 2 और 3' सही है।",
+      "en": "Xuanzang was a Chinese traveler who visited India in the 7th century CE. His travelogue was compiled into a book known as 'Si-Yu-Ki'. He did not consider movement on roads to be completely safe because he himself was robbed (Statement 1 is incorrect). According to him, divine tests by fire, water, poison, etc., were taken to prove guilt or innocence (Statement 2 is correct). According to him, taxes were also levied on trade routes, ferries, sold goods, etc., which provided substantial wealth to the state (Statement 3 is correct). Hence, option (d) '2 and 3 only' is correct."
+    }
+  },
+  {
+    "id": 38,
+    "year": "2012",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "प्रत्येक 'श्रेणी' राज्य के एक केंद्रीय प्राधिकरण के साथ पंजीकृत होती थी और प्रशासनिक स्तर पर राजा उनका प्रमुख होता था।",
+        "en": "Every guild was registered with the central authority of the State and the king was the chief administrative authority on them."
+      },
+      {
+        "id": 2,
+        "hi": "'श्रेणी' ही वेतन, काम करने के नियमों, मानकों और कीमतों को सुनिश्चित करती थी।",
+        "en": "The wages, rules of work, standards and prices were fixed by the guild."
+      },
+      {
+        "id": 3,
+        "hi": "श्रेणी का अपने सदस्यों पर न्यायिक अधिकार होता था।",
+        "en": "The guild had judicial powers over its own members."
+      }
+    ],
+    "question": {
+      "hi": "प्राचीन भारत में देश की अर्थव्यवस्था में अत्यंत महत्त्वपूर्ण भूमिका निभाने वाले 'श्रेणी' संगठन के संदर्भ में निम्नलिखित में से कौन-सा/से कथन सही है/हैं?\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये:",
+      "en": "With reference to the guilds (Shreni) of ancient India that played a very important role in the country's economy, which of the following statements is/are correct?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "चूँकि श्रेणी का अनिवार्य रूप से प्रशासनिक प्रमुख राजा नहीं होता था, शिल्पी अपनी श्रेणी के मुखिया के अधीन संगठित थे जो उनके हितों का ध्यान रखते थे। अतः कथन 1 गलत है। ये श्रेणियाँ वित्तीय एवं बैंकिंग संस्थान के रूप में भी महत्त्वपूर्ण भूमिका निभाती थीं। उत्पादन, वितरण एवं मूल्य निर्धारण में भी उनकी महत्त्वपूर्ण भूमिका थी। बृहस्पति का कहना था कि श्रेणी का प्रधान श्रेणी धर्म के अनुसार, अपने सदस्यों के साथ कड़ा या मृदु व्यवहार कर सकता था। बृहस्पति के कथन से पता चलता है कि श्रेणी का सदस्यों पर न्यायिक अधिकार होता है। अतः कथन 2 और 3 सही हैं। अतः विकल्प (c) सही है।",
+      "en": "Since the king was not necessarily the administrative head of the guild, artisans were organized under the head of their guild who looked after their interests. Hence statement 1 is incorrect. These guilds also played an important role as financial and banking institutions. They also had an important role in production, distribution and pricing. Brihaspati had said that the head of the guild could treat its members harshly or softly according to the guild dharma. Brihaspati's statement shows that the guild had judicial rights over its members. Hence statements 2 and 3 are correct. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 39,
+    "year": "2012",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "प्रथम शताब्दी ई. में विभिन्न प्रकार के विशिष्ट शल्य औज़ारों का उपयोग आम था।",
+        "en": "Different kinds of specialized surgical instruments were in common use by 1st century AD."
+      },
+      {
+        "id": 2,
+        "hi": "तीसरी शताब्दी ई. के आरंभ में मानव शरीर के आंतरिक अंगों का प्रत्यारोपण शुरू हो चुका था।",
+        "en": "Transplant of internal organs in the human body had begun by the beginning of 3rd century AD."
+      },
+      {
+        "id": 3,
+        "hi": "पाँचवीं शताब्दी ई. में कोण के ज्या का सिद्धांत ज्ञात था।",
+        "en": "The concept of sine of an angle was known in 5th century AD."
+      },
+      {
+        "id": 4,
+        "hi": "सातवीं शताब्दी ई. में चक्रीय चतुर्भुज का सिद्धांत ज्ञात था।",
+        "en": "The concept of cyclic quadrilaterals was known in 7th century AD."
+      }
+    ],
+    "question": {
+      "hi": "प्राचीनकालीन भारत में हुई वैज्ञानिक प्रगति के संदर्भ में निम्नलिखित में से कौन-से कथन सही हैं?\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये:",
+      "en": "With reference to the scientific progress of ancient India, which of the statements given below are correct?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3 और 4",
+        "en": "3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "प्राचीन भारत का समय वैज्ञानिक प्रगति की दृष्टि से उल्लेखनीय रहा है। इस दौरान प्रथम शताब्दी ई. तक शल्य चिकित्सा में काम आने वाले विभिन्न प्रकार के उपकरणों का प्रयोग होता था, किंतु अंग प्रत्यारोपण संभव नहीं हो सका था। अतः द्वितीय कथन गलत है। गणित के क्षेत्र में भारतीय प्राचीन काल से ही समृद्ध हैं। शून्य का ज्ञान, त्रिकोणमिति का सिद्धांत, समीकरणों, वर्गमूल, घनमूल, पाई (π) के मान को भारतीयों द्वारा ही खोजा गया। ब्रह्मगुप्त के 'ब्रह्मस्फुट सिद्धांत' (7वीं शताब्दी) में चक्रीय चतुर्भुज का क्षेत्रफल निकालने का सिद्धांत दिया गया। अतः 1, 3 और 4 कथन सही हैं। अतः विकल्प (c) सही है।",
+      "en": "The period of ancient India has been remarkable from the point of view of scientific progress. During this period, various types of instruments used in surgery were in use by the 1st century AD, but organ transplantation was not possible. Hence the second statement is incorrect. Indians have been rich in the field of mathematics since ancient times. The knowledge of zero, the theory of trigonometry, equations, square root, cube root, value of pi (π) were discovered by Indians. The theory of finding the area of a cyclic quadrilateral was given in Brahmagupta's 'Brahmasphutasiddhanta' (7th century). Hence statements 1, 3 and 4 are correct. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 40,
+    "year": "2011",
+    "subject": "History",
+    "topic": "प्राचीन भारत (Ancient India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह प्रमुखतः लौकिक सभ्यता थी तथा उसमें धार्मिक तत्त्व यद्यपि उपस्थित था, वर्चस्वशाली नहीं था।",
+        "en": "It was predominantly a secular civilization and the religious element, though present, did not dominate the scene."
+      },
+      {
+        "id": 2,
+        "hi": "उस काल में भारत में कपास से वस्त्र बनाए जाते थे।",
+        "en": "During this period, cotton was used for manufacturing textiles in India."
+      }
+    ],
+    "question": {
+      "hi": "सिंधु घाटी सभ्यता के संदर्भ में निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "With reference to the Indus Valley Civilization, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "सिंधु घाटी सभ्यता में धर्म इहलौकिक था तथा उस समय लोग कपास से भी परिचित थे। अतः दोनों कथन सत्य हैं। सिंधु सभ्यता में धार्मिक तत्त्व की उपस्थिति थी, परंतु धर्म का स्वरूप इहलौकिक तथा व्यावहारिक था। पुरास्थलों से प्राप्त मिट्टी की मूर्तियों, पत्थर की छोटी मूर्तियों, मुहरों, पत्थर निर्मित लिंग एवं योनियों, मृद्भांडों पर चित्रित चिह्नों से यह परिलक्षित होता है कि मातृदेवी, पुरुष देवता (पशुपतिनाथ), लिंग-योनि, वृक्ष प्रतीक, पशु, जल आदि की पूजा की जाती थी। हड़प्पा सभ्यता के एक महत्त्वपूर्ण स्थल मेहरगढ़ से कपास के साक्ष्य मिले हैं, जिससे यह इंगित होता है कि सैंधव काल में कपास की खेती की जाती थी तथा उसका प्रयोग कपड़ा निर्माण करने में होता था। अतः विकल्प (c) सही है।",
+      "en": "Religion in the Indus Valley Civilization was secular and people at that time were also familiar with cotton. Hence both statements are true. There was the presence of a religious element in the Indus civilization, but the nature of religion was secular and practical. It is reflected from the clay figurines, small stone statues, seals, stone phallus and yoni, painted symbols on pottery obtained from archaeological sites that mother goddess, male deity (Pashupatinath), phallus-yoni, tree symbols, animals, water etc. were worshipped. Evidence of cotton has been found from Mehrgarh, an important site of the Harappan civilization, which indicates that cotton was cultivated during the Indus period and it was used to manufacture clothes. Hence, option (c) is correct."
+    }
+  }
+]

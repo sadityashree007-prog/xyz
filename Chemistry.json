@@ -1,0 +1,858 @@
+[
+  {
+    "id": 1,
+    "year": 2025,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कोबाल्ट",
+        "en": "Cobalt"
+      },
+      {
+        "id": 2,
+        "hi": "ग्रेफाइट",
+        "en": "Graphite"
+      },
+      {
+        "id": 3,
+        "hi": "लिथियम",
+        "en": "Lithium"
+      },
+      {
+        "id": 4,
+        "hi": "निकेल",
+        "en": "Nickel"
+      }
+    ],
+    "question": {
+      "hi": "विद्युत वाहन बैटरियों के संदर्भ में, निम्नलिखित तत्त्वों पर विचार कीजिये–\nउपर्युक्त में से कितने सामान्यतया बैटरी के कैथोड बनाने के लिये उपयुक्त होते हैं?",
+      "en": "With reference to electric vehicle batteries, consider the following elements:\nHow many of the above are generally suitable for making the cathode of a battery?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "केवल तीन",
+        "en": "Only three"
+      },
+      {
+        "id": "D",
+        "hi": "सभी चार",
+        "en": "All four"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "EV में प्रयुक्त अधिकांश लिथियम-आयन बैटरियों की कैथोड सामान्यतः लिथियम मेटल ऑक्साइड्स (जैसे NMC या NCA) से बनी होती है। कोबाल्ट, निकेल और लिथियम कैथोड के मुख्य घटक हैं। ग्रेफाइट का प्रयोग सामान्यतः एनोड में होता है, कैथोड में नहीं। अतः केवल तीन तत्त्व (कोबाल्ट, लिथियम, निकेल) सही हैं।",
+      "en": "The cathode of most lithium-ion batteries used in EVs is generally made of Lithium Metal Oxides (e.g., NMC or NCA). Cobalt, Nickel, and Lithium are the main components of the cathode. Graphite is typically used in the anode, not the cathode. Therefore, only three elements are correct."
+    }
+  },
+  {
+    "id": 2,
+    "year": 2025,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "एथेनॉल",
+        "en": "Ethanol"
+      },
+      {
+        "id": 2,
+        "hi": "नाइट्रोग्लिसरीन",
+        "en": "Nitroglycerin"
+      },
+      {
+        "id": 3,
+        "hi": "यूरिया",
+        "en": "Urea"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पदार्थों पर विचार कीजिये–\nउपर्युक्त में से कितनों के उत्पादन में कोयला गैसीकरण प्रौद्योगिकी प्रयोग की जा सकती है?",
+      "en": "Consider the following substances:\nIn the production of how many of the above can coal gasification technology be used?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कोयला गैसीकरण से प्राप्त सिनगैस (Syngas) का उपयोग सिंथेटिक प्राकृतिक गैस, ऊर्जा ईंधन (मेथनॉल और एथेनॉल), और उर्वरकों (यूरिया हेतु अमोनिया) के निर्माण में किया जा सकता है। नाइट्रोग्लिसरीन का निर्माण ग्लिसरॉल के नाइट्रेशन से होता है, यह कोयला गैसीकरण से संबंधित नहीं है। अतः केवल दो सही हैं।",
+      "en": "Syngas obtained from coal gasification can be used to produce synthetic natural gas, energy fuels (methanol and ethanol), and fertilizers (ammonia for urea). Nitroglycerin is formed by the nitration of glycerol and is not related to coal gasification. Therefore, only two are correct."
+    }
+  },
+  {
+    "id": 3,
+    "year": 2025,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "वायु प्रदूषण कम करने हेतु कृत्रिम वर्षा कराने के तरीके में किनका प्रयोग होता है?",
+      "en": "Which of the following are used in the method of artificial rain to reduce air pollution?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सिल्वर आयोडाइड और पोटैशियम आयोडाइड",
+        "en": "Silver iodide and potassium iodide"
+      },
+      {
+        "id": "B",
+        "hi": "सिल्वर नाइट्रेट और पोटैशियम आयोडाइड",
+        "en": "Silver nitrate and potassium iodide"
+      },
+      {
+        "id": "C",
+        "hi": "सिल्वर आयोडाइड और पोटैशियम नाइट्रेट",
+        "en": "Silver iodide and potassium nitrate"
+      },
+      {
+        "id": "D",
+        "hi": "सिल्वर नाइट्रेट और पोटैशियम क्लोराइड",
+        "en": "Silver nitrate and potassium chloride"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कृत्रिम वर्षा (Cloud Seeding) में सामान्यतः सिल्वर आयोडाइड (AgI), पोटैशियम आयोडाइड (KI) या ड्राई आइस (ठोस कार्बन डाइऑक्साइड) का उपयोग किया जाता है। ये पदार्थ संघनन नाभिक बनाते हैं जिससे वर्षा होती है।",
+      "en": "In artificial rain (cloud seeding), Silver Iodide (AgI), Potassium Iodide (KI), or dry ice (solid carbon dioxide) are generally used. These substances act as condensation nuclei causing rain."
+    }
+  },
+  {
+    "id": 4,
+    "year": 2022,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इसके तंतुओं को ऊन और कपास के तंतुओं के साथ, उनके गुणधर्मों को प्रबलित करने हेतु, सम्मिश्रित किया जा सकता है।",
+        "en": "Its fibres can be blended with wool and cotton fibres to reinforce their properties."
+      },
+      {
+        "id": 2,
+        "hi": "इससे बने पात्रों को किसी भी मादक पेय को रखने के लिये उपयोग किया जा सकता है।",
+        "en": "Containers made of it can be used to store any alcoholic beverage."
+      },
+      {
+        "id": 3,
+        "hi": "इससे बनी बोतलों का पुनर्चक्रण (रीसाइक्लिंग) कर उनसे अन्य उत्पाद बनाए जा सकते हैं।",
+        "en": "Bottles made of it can be recycled into other products."
+      },
+      {
+        "id": 4,
+        "hi": "इससे बनी वस्तुओं का भस्मीकरण द्वारा, बिना ग्रीनहाउस गैस उत्सर्जन किये, आसानी से निपटान किया जा सकता है।",
+        "en": "Articles made of it can be easily disposed of by incineration without causing greenhouse gas emissions."
+      }
+    ],
+    "question": {
+      "hi": "पॉलीएथिलीन टेरेफ्थेलेट (PET) के संदर्भ में, जिसका हमारे दैनिक जीवन में बहुत व्यापक उपयोग है, निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में कौन-से सही हैं?",
+      "en": "With reference to Polyethylene Terephthalate (PET), the use of which is so widespread in our daily lives, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 3",
+        "en": "1 and 3"
+      },
+      {
+        "id": "B",
+        "hi": "2 और 4",
+        "en": "2 and 4"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 4",
+        "en": "1 and 4"
+      },
+      {
+        "id": "D",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कथन 1 सही है: PET फाइबर्स (पॉलिएस्टर) को सूती और ऊनी कपड़ों के साथ मिलाकर उनके गुणधर्मों को मजबूत किया जाता है। कथन 3 सही है: PET सबसे अधिक पुनर्चक्रित (Recycled) किए जाने वाले प्लास्टिक्स में से एक है। कथन 2 गलत है: मादक पेयों के लिए यह हमेशा उपयुक्त नहीं होता (कुछ रसायनों के लीचिंग का डर)। कथन 4 गलत है: इसके भस्मीकरण (Incineration) से ग्रीनहाउस गैसें (CO2 आदि) उत्सर्जित होती हैं।",
+      "en": "Statement 1 is correct: PET fibres (polyester) are blended with cotton and wool to reinforce fabrics. Statement 3 is correct: PET is one of the most widely recycled plastics. Statement 2 is incorrect: It is not suitable for storing all alcoholic beverages due to potential leaching. Statement 4 is incorrect: Incineration of PET releases greenhouse gases."
+    }
+  },
+  {
+    "id": 5,
+    "year": 2021,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "जल किसी अन्य द्रव की अपेक्षा अधिक पदार्थों को घोल सकता है, क्योंकि",
+      "en": "Water can dissolve more substances than any other liquid because"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इसकी प्रकृति द्विध्रुवीय है",
+        "en": "It is dipolar in nature"
+      },
+      {
+        "id": "B",
+        "hi": "यह ऊष्मा का सुचालक है",
+        "en": "It is a good conductor of heat"
+      },
+      {
+        "id": "C",
+        "hi": "इसकी विशिष्ट ऊष्मा का मान उच्च होता है",
+        "en": "It has high value of specific heat"
+      },
+      {
+        "id": "D",
+        "hi": "यह हाइड्रोजन का एक ऑक्साइड है",
+        "en": "It is an oxide of hydrogen"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "जल को सार्वभौमिक विलायक (Universal Solvent) कहा जाता है क्योंकि इसकी द्विध्रुवीय (Dipolar) प्रकृति होती है। एक ओर धनात्मक आवेश (हाइड्रोजन) और दूसरी ओर ऋणात्मक आवेश (ऑक्सीजन) होने के कारण यह अन्य यौगिकों को आसानी से आकर्षित करके घोल लेता है।",
+      "en": "Water is known as the universal solvent because of its dipolar nature. Having a partial positive charge on the hydrogen atoms and a partial negative charge on the oxygen atom allows it to attract and dissolve various other polar and ionic substances."
+    }
+  },
+  {
+    "id": 6,
+    "year": 2021,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "बिस्फेनॉल A (BPA), जो चिंता का कारण है, निम्नलिखित में से किस प्रकार के प्लास्टिक के उत्पादन में एक संरचनात्मक/मुख्य घटक है?",
+      "en": "Bisphenol A (BPA), a cause of concern, is a structural/key component in the manufacture of which of the following kinds of plastics?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "निम्न घनत्व वाले पॉलिएथिलीन",
+        "en": "Low-density polyethylene"
+      },
+      {
+        "id": "B",
+        "hi": "पॉलीकार्बोनेट",
+        "en": "Polycarbonate"
+      },
+      {
+        "id": "C",
+        "hi": "पॉलिएथिलीन टेरेफ्थेलेट",
+        "en": "Polyethylene terephthalate"
+      },
+      {
+        "id": "D",
+        "hi": "पॉलीविनाइल क्लोराइड",
+        "en": "Polyvinyl chloride"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "बिस्फेनॉल A (BPA) पॉलीकार्बोनेट (Polycarbonate) प्लास्टिक बनाने के लिए इस्तेमाल किया जाने वाला एक रसायन है। इसका उपयोग पानी की बोतलों, खाद्य कंटेनरों आदि में होता है और यह स्वास्थ्य के लिए हानिकारक (अंतःस्रावी व्यवधान) माना जाता है।",
+      "en": "Bisphenol A (BPA) is an industrial chemical used to make polycarbonate plastics. It is often used in water bottles and food containers and is a health concern due to its endocrine-disrupting properties."
+    }
+  },
+  {
+    "id": 7,
+    "year": 2020,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इनको मानव शरीर में औषधियों और प्रतिजनों के वाहकों के रूप में प्रयुक्त किया जा सकता है।",
+        "en": "They can be used as carriers of drugs and antigens in the human body."
+      },
+      {
+        "id": 2,
+        "hi": "इनको मानव शरीर के क्षतिग्रस्त भाग के लिये कृत्रिम रक्त केशिकाओं के रूप में बनाया जा सकता है।",
+        "en": "They can be made into artificial blood capillaries for an injured part of human body."
+      },
+      {
+        "id": 3,
+        "hi": "इनका जैव-रासायनिक संवेदकों में उपयोग किया जा सकता है।",
+        "en": "They can be used in biochemical sensors."
+      },
+      {
+        "id": 4,
+        "hi": "कार्बन नैनोट्यूब जैव-निम्नीकरणीय (Biodegradable) होती हैं।",
+        "en": "Carbon nanotubes are biodegradable."
+      }
+    ],
+    "question": {
+      "hi": "कार्बन नैनोट्यूबों के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "en": "With reference to carbon nanotubes, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "कार्बन नैनोट्यूब (CNT) का प्रयोग औषधि वाहक (drug delivery), जैव-रासायनिक संवेदक (biosensors) और कृत्रिम रक्त केशिकाओं के निर्माण में किया जा सकता है। हाल ही में यह प्रमाणित हुआ है कि कार्यात्मक CNT जैव-निम्नीकरणीय (Biodegradable) भी हो सकते हैं। अतः सभी कथन सही हैं।",
+      "en": "Carbon nanotubes (CNTs) can be used for targeted drug delivery, as biosensors, and can be engineered as artificial blood capillaries. Recent studies have also shown that functionalized CNTs can be biodegraded by certain enzymes. Therefore, all statements are correct."
+    }
+  },
+  {
+    "id": 8,
+    "year": 2015,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यदि शुद्ध हाइड्रोजन का उपयोग ईंधन के रूप में होता है, तो फ्यूल सेल उप-उत्पाद (बाइ प्रोडक्ट) के रूप में ऊष्मा एवं जल का उत्सर्जन करता है।",
+        "en": "If pure hydrogen is used as a fuel, the fuel cell emits heat and water as by-products."
+      },
+      {
+        "id": 2,
+        "hi": "फ्यूल सेल्स का उपयोग भवनों को विद्युत् प्रदाय के लिये तो किया जा सकता है, किंतु लैपटॉप व कंप्यूटर जैसी छोटी युक्तियों (डिवाइसेज़) के लिये नहीं।",
+        "en": "Fuel cells can be used for powering buildings and not for small devices like laptop computers."
+      },
+      {
+        "id": 3,
+        "hi": "फ्यूल सेल्स, प्रत्यावर्ती धारा (AC) के रूप में विद्युत् उत्पादन करते हैं।",
+        "en": "Fuel cells produce electricity in the form of Alternating Current (AC)."
+      }
+    ],
+    "question": {
+      "hi": "फ्यूल सेल्स (Fuel Cells), जिसमें हाइड्रोजन से समृद्ध ईंधन और ऑक्सीजन का उपयोग विद्युत् पैदा करने के लिये होता है, के संदर्भ में निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to 'Fuel Cells' in which hydrogen-rich fuel and oxygen are used to generate electricity, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कथन 1 सही है: हाइड्रोजन ईंधन सेल केवल ऊष्मा और जल का उत्सर्जन करते हैं। कथन 2 गलत है: इनका उपयोग लैपटॉप और सेल फोन जैसे छोटे उपकरणों में भी किया जा सकता है। कथन 3 गलत है: फ्यूल सेल बैटरी की तरह दिष्ट धारा (DC) उत्पन्न करते हैं, न कि AC।",
+      "en": "Statement 1 is correct: Hydrogen fuel cells emit only heat and water as by-products. Statement 2 is incorrect: They can be used for small devices like laptops and cell phones. Statement 3 is incorrect: Fuel cells produce Direct Current (DC), not Alternating Current (AC)."
+    }
+  },
+  {
+    "id": 9,
+    "year": 2015,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "फ्लाई ऐश का उपयोग भवन निर्माण के लिये ईंटों के उत्पादन में किया जा सकता है।",
+        "en": "Fly ash can be used in the production of bricks for building construction."
+      },
+      {
+        "id": 2,
+        "hi": "फ्लाई ऐश का उपयोग कंक्रीट के कुछ पोर्टलैंड सीमेंट अंश के स्थानापन्न (रिप्लेसमेंट) के रूप में किया जा सकता है।",
+        "en": "Fly ash can be used as a replacement for some of the Portland cement contents of concrete."
+      },
+      {
+        "id": 3,
+        "hi": "फ्लाई ऐश केवल सिलिकॉन डाइऑक्साइड तथा कैल्शियम ऑक्साइड से बना होता है और इसमें कोई विषाक्त (टॉक्सिक) तत्त्व नहीं होता है।",
+        "en": "Fly ash is made up of silicon dioxide and calcium oxide only, and does not contain any toxic elements."
+      }
+    ],
+    "question": {
+      "hi": "ईंधन के रूप में कोयले का उपयोग करने वाले शक्ति संयंत्रों से प्राप्त 'फ्लाई ऐश' के संदर्भ में निम्नलिखित कथनों में से कौन-सा/से सही है/हैं?\nनीचे दिये गए कूट का उपयोग कर सही उत्तर चुनिये–",
+      "en": "With reference to 'fly ash' produced by the power plants using coal as fuel, which of the following statements is/are correct?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कथन 1 और 2 सही हैं: फ्लाई ऐश का उपयोग पोर्टलैंड सीमेंट के प्रतिस्थापन और ईंट निर्माण में किया जाता है। कथन 3 गलत है: फ्लाई ऐश में आर्सेनिक, सीसा, पारा जैसी भारी धातुएं और विषाक्त तत्व भी अल्प मात्रा में पाए जाते हैं।",
+      "en": "Statements 1 and 2 are correct: Fly ash is used as a replacement for Portland cement and in making bricks. Statement 3 is incorrect: Fly ash is not just silica and calcium oxide; it contains traces of toxic heavy metals like arsenic, lead, and mercury."
+    }
+  },
+  {
+    "id": 10,
+    "year": 2014,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सोडियम क्लोराइड का क्रिस्टलन",
+        "en": "Crystallization of sodium chloride"
+      },
+      {
+        "id": 2,
+        "hi": "बर्फ का गलन",
+        "en": "Melting of ice"
+      },
+      {
+        "id": 3,
+        "hi": "दुग्ध आस्कंदन",
+        "en": "Souring of milk"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा/से रासायनिक परिवर्तन का/के उदाहरण है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "Which of the following is/are the example/examples of chemical change?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "सोडियम क्लोराइड का क्रिस्टलीकरण और बर्फ का पिघलना भौतिक परिवर्तन (Physical changes) हैं क्योंकि इनमें पदार्थ की रासायनिक संरचना नहीं बदलती। दुग्ध का आस्कंदन/खट्टा होना (Souring/curdling of milk) एक रासायनिक परिवर्तन है। अतः केवल 3 सही है।",
+      "en": "Crystallization of sodium chloride and melting of ice are physical changes because the chemical composition remains the same. Souring/curdling of milk is a chemical change as new substances (like lactic acid) are formed. Thus, only 3 is correct."
+    }
+  },
+  {
+    "id": 11,
+    "year": 2014,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उनमें पर्यावरण में निम्नीकरण के प्रति उच्च प्रतिरोधकता है।",
+        "en": "They are highly resistant to degradation in the environment."
+      },
+      {
+        "id": 2,
+        "hi": "वे मनुष्यों और पशुओं में संचित हो सकते हैं।",
+        "en": "They are able to accumulate in humans and animals."
+      }
+    ],
+    "question": {
+      "hi": "कई घरेलू उत्पादों, जैसे– गद्दों और फर्नीचर की गद्दियों (अपहोल्स्टरी) में ब्रोमीनयुक्त ज्वाला मंदकों (Brominated flame retardants) का उपयोग किया जाता है। उनका उपयोग क्यों कुछ चिंता का विषय है?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "Brominated flame retardants are used in many household products like mattresses and upholstery. Why is there some concern about their use?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "ब्रोमीनयुक्त ज्वाला मंदक पर्यावरण में आसानी से विघटित (Degrade) नहीं होते हैं और ये वसा में घुलनशील होने के कारण जीवों (मनुष्य और पशुओं) के शरीर में संचित (Bioaccumulation) हो जाते हैं, जो स्वास्थ्य के लिए हानिकारक है। अतः दोनों कथन सही हैं।",
+      "en": "Brominated flame retardants (BFRs) are highly resistant to degradation in the environment and are lipophilic, meaning they bioaccumulate in the bodies of animals and humans, causing health concerns. Both statements are correct."
+    }
+  },
+  {
+    "id": 12,
+    "year": 2013,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "खोई (Bagasse) को ऊर्जा उत्पादन के लिये जैव मात्रा ईंधन के रूप में प्रयुक्त किया जा सकता है।",
+        "en": "Bagasse can be used as biomass fuel for the generation of energy."
+      },
+      {
+        "id": 2,
+        "hi": "शीरे (Molasses) को कृत्रिम रासायनिक उर्वरकों के उत्पादन के लिये एक भरण स्टॉक (Feedstock) की तरह प्रयुक्त किया जा सकता है।",
+        "en": "Molasses can be used as one of the feedstocks for the production of synthetic chemical fertilizers."
+      },
+      {
+        "id": 3,
+        "hi": "शीरे को एथेनॉल उत्पादन के लिये प्रयुक्त किया जा सकता है।",
+        "en": "Molasses can be used for the production of ethanol."
+      }
+    ],
+    "question": {
+      "hi": "शर्करा उद्योग के उपोत्पाद की उपयोगिता के संदर्भ में निम्नलिखित में से कौन-सा/से कथन सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "With reference to the usefulness of the by-products of sugar industry, which of the following statements is/are correct?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कथन 1 सही है: खोई (Bagasse) का उपयोग बॉयलरों में ईंधन के रूप में बिजली बनाने में होता है। कथन 3 सही है: शीरे (Molasses) का किण्वन करके एथेनॉल बनाया जाता है। कथन 2 गलत है: शीरे का उपयोग कृत्रिम रासायनिक उर्वरकों के उत्पादन में फीडस्टॉक के रूप में नहीं किया जाता है।",
+      "en": "Statement 1 is correct: Bagasse is used as biomass fuel for energy generation. Statement 3 is correct: Molasses is fermented to produce ethanol. Statement 2 is incorrect: Molasses is not used as a feedstock for producing synthetic chemical fertilizers."
+    }
+  },
+  {
+    "id": 13,
+    "year": 2012,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "प्रगलन इकाइयाँ (Smelting units)",
+        "en": "Smelting units"
+      },
+      {
+        "id": 2,
+        "hi": "पेन (कलम) और पेंसिलें",
+        "en": "Pens and pencils"
+      },
+      {
+        "id": 3,
+        "hi": "पेंट (Paints)",
+        "en": "Paints"
+      },
+      {
+        "id": 4,
+        "hi": "केश तेल एवं प्रसाधन सामग्रियाँ",
+        "en": "Hair oils and cosmetics"
+      }
+    ],
+    "question": {
+      "hi": "शरीर में श्वास अथवा खाने से पहुँचा सीसा (लेड) स्वास्थ्य के लिये हानिकारक है। पेट्रोल में सीसे का योग प्रतिबंधित होने के बाद से अब सीसे की विषाक्तता उत्पन्न करने वाले स्रोत कौन-कौन से हैं?\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये–",
+      "en": "Lead, ingested or inhaled, is a health hazard. After the addition of lead to petrol has been banned, what still are the sources of lead poisoning?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "सीसे (Lead) की विषाक्तता के मुख्य स्रोत प्रगलन इकाइयाँ (Smelting units) और पेंट्स (Paints) हैं। पेंसिल में सीसा (लेड) नहीं होता, बल्कि ग्रेफाइट होता है। इसी प्रकार केश तेल में सीसा नहीं पाया जाता (यद्यपि कुछ कॉस्मेटिक्स में हो सकता है, लेकिन पेंसिलों में तो बिल्कुल नहीं)। दिए गए विकल्पों में सबसे सटीक 1 और 3 है।",
+      "en": "Smelting units and paints are major sources of lead poisoning. Pencils do not contain lead; they contain graphite. Hair oils generally do not contain lead. Therefore, the most appropriate answer is 1 and 3."
+    }
+  },
+  {
+    "id": 14,
+    "year": 2012,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "निम्नलिखित तत्त्व समूहों में से कौन-सा पृथ्वी पर जीवन की उत्पत्ति के लिये मूलतः उत्तरदायी था?",
+      "en": "Which of the following groups of elements was primarily responsible for the origin of life on the Earth?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "हाइड्रोजन, ऑक्सीजन, सोडियम",
+        "en": "Hydrogen, Oxygen, Sodium"
+      },
+      {
+        "id": "B",
+        "hi": "कार्बन, हाइड्रोजन, नाइट्रोजन",
+        "en": "Carbon, Hydrogen, Nitrogen"
+      },
+      {
+        "id": "C",
+        "hi": "ऑक्सीजन, कैल्शियम, फॉस्फोरस",
+        "en": "Oxygen, Calcium, Phosphorus"
+      },
+      {
+        "id": "D",
+        "hi": "कार्बन, हाइड्रोजन, पोटैशियम",
+        "en": "Carbon, Hydrogen, Potassium"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "पृथ्वी पर जीवन की उत्पत्ति (Origin of life) के लिए मुख्य रूप से 6 तत्त्व उत्तरदायी थे: कार्बन (C), हाइड्रोजन (H), नाइट्रोजन (N), ऑक्सीजन (O), सल्फर (S) और फॉस्फोरस (P)। विकल्पों में से सबसे उपयुक्त समूह कार्बन, हाइड्रोजन और नाइट्रोजन का है।",
+      "en": "The elements primarily responsible for the origin of life on Earth are Carbon, Hydrogen, Nitrogen, Oxygen, Phosphorus, and Sulphur (CHNOPS). Among the given options, Carbon, Hydrogen, and Nitrogen is the correct group."
+    }
+  },
+  {
+    "id": 15,
+    "year": 2012,
+    "subject": "General Science",
+    "topic": "Chemistry",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सुघट्य फोम के निर्माण में होता है",
+        "en": "in the production of plastic foams"
+      },
+      {
+        "id": 2,
+        "hi": "ट्यूबलेस टायरों के निर्माण में होता है",
+        "en": "in the production of tubeless tyres"
+      },
+      {
+        "id": 3,
+        "hi": "कुछ विशिष्ट इलेक्ट्रॉनिक अवयवों की सफाई करने में होता है",
+        "en": "in cleaning certain electronic components"
+      },
+      {
+        "id": 4,
+        "hi": "ऐरोसॉल कैन में दाबकारी एजेंट के रूप में होता है",
+        "en": "as pressurizing agents in aerosol cans"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये–\nक्लोरोफ्लोरोकार्बन, जो ओज़ोन-ह्रासक पदार्थों के रूप में चर्चित है, उसका प्रयोग\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nChlorofluorocarbons, known as ozone-depleting substances, are used\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 4",
+        "en": "4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "क्लोरोफ्लोरोकार्बन (CFCs) का उपयोग रेफ्रिजरेटर, एसी, प्लास्टिक फोम (Plastic foams) के निर्माण, एयरोसोल कैन (Aerosol cans) में प्रणोदक के रूप में, और इलेक्ट्रॉनिक उपकरणों की सफाई में विलायक के रूप में होता है। ट्यूबलेस टायरों के निर्माण में इसका उपयोग नहीं होता। अतः 1, 3 और 4 सही हैं।",
+      "en": "Chlorofluorocarbons (CFCs) are used in the production of plastic foams, as pressurizing agents (propellants) in aerosol cans, and as solvents for cleaning electronic components. They are not used in the production of tubeless tyres. Therefore, 1, 3, and 4 are correct."
+    }
+  }
+]

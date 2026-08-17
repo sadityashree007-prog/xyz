@@ -1,0 +1,1305 @@
+[
+  {
+    "id": 1,
+    "year": 2025,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "ऐसी अपेक्षा है कि 'मेजोराना 1 चिप' (Majorana 1 chip), क्वांटम कंप्यूटिंग को सुकर बनाएगा।",
+        "en": "It is expected that the 'Majorana 1 chip' will facilitate quantum computing."
+      },
+      {
+        "id": 2,
+        "hi": "मेजोराना 1 चिप, अमेज़ॉन वेब सर्विसेज़ (AWS) द्वारा आरंभ किया गया है।",
+        "en": "The Majorana 1 chip has been launched by Amazon Web Services (AWS)."
+      },
+      {
+        "id": 3,
+        "hi": "डीप लर्निंग, मशीन लर्निंग का एक उप-समुच्चय है।",
+        "en": "Deep learning is a subset of machine learning."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में कौन-कौन से सही हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कथन 1 सही है: माइक्रोसॉफ्ट ने मेजोराना 1 नामक दुनिया की पहली क्वांटम चिप प्रस्तुत की है, जिसका उद्देश्य क्वांटम कंप्यूटिंग क्षेत्र में बदलाव लाना है।\nकथन 2 गलत है: इसे AWS द्वारा नहीं बल्कि माइक्रोसॉफ्ट द्वारा आरंभ किया गया है।\nकथन 3 सही है: डीप लर्निंग, मशीन लर्निंग की एक उपश्रेणी है जो मानव बुद्धिमत्ता की नकल करने के लिए कृत्रिम तंत्रिका नेटवर्क (Neural Networks) का उपयोग करती है।\nअतः विकल्प (c) सही उत्तर है।",
+      "en": "Statement 1 is correct: Microsoft has introduced the world's first quantum chip called Majorana 1, aimed at revolutionizing quantum computing.\nStatement 2 is incorrect: It has been launched by Microsoft, not AWS.\nStatement 3 is correct: Deep learning is a subfield of machine learning that utilizes artificial neural networks to mimic human intelligence.\nTherefore, option (c) is correct."
+    }
+  },
+  {
+    "id": 2,
+    "year": 2024,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा शब्द/वाक्यांश का उपयोग “3D आभासी (वर्चुअल) दुनिया के एक इंटरऑपरेबल नेटवर्क, जिसे ऐसे लाखों प्रयोक्ताओं द्वारा एक साथ एक्सेस किया जा सकता है, जो आभासी (वर्चुअल) वस्तुओं पर संपत्ति के अधिकारों का प्रयोग कर सकते हैं” को द्योतित करने के लिये सर्वाधिक उपयुक्त रूप से किया जाता है?",
+      "en": "Which of the following terms/phrases is most appropriately used to denote an \"interoperable network of 3D virtual worlds that can be accessed simultaneously by millions of users, who can exert property rights over virtual items\"?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "बिग डेटा एनालिटिक्स",
+        "en": "Big Data Analytics"
+      },
+      {
+        "id": "B",
+        "hi": "क्रिप्टोग्राफी",
+        "en": "Cryptography"
+      },
+      {
+        "id": "C",
+        "hi": "मेटावर्स",
+        "en": "Metaverse"
+      },
+      {
+        "id": "D",
+        "hi": "वर्चुअल मैट्रिक्स",
+        "en": "Virtual Matrix"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "मेटावर्स एक उभरता हुआ 3D सक्षम डिजिटल स्पेस है जो आभासी वास्तविकता (VR) और संवर्द्धित वास्तविकता (AR) का उपयोग करता है। इसे लाखों उपयोगकर्ताओं द्वारा एक साथ एक्सेस किया जा सकता है और वे आभासी वस्तुओं पर संपत्ति का अधिकार प्रयोग कर सकते हैं।",
+      "en": "Metaverse is an emerging 3D-enabled digital space that uses virtual reality (VR) and augmented reality (AR). It can be accessed simultaneously by millions of users who can exert property rights over virtual items."
+    }
+  },
+  {
+    "id": 3,
+    "year": 2023,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "ऑटोमोबाइल और एयरक्राफ्ट में प्रयुक्त होने वाले अवयवों के विनिर्माण में कार्बन तंतुओं का इस्तेमाल होता है।",
+        "en": "Carbon fibres are used in the manufacture of components used in automobiles and aircraft."
+      },
+      {
+        "id": 2,
+        "hi": "कार्बन तंतु एक बार प्रयुक्त होने पर पुनर्चक्रित नहीं किये जा सकते।",
+        "en": "Carbon fibres once used cannot be recycled."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये –\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कथन 1 सही है: कार्बन फाइबर हल्के और बेहद मज़बूत होते हैं, जिनका एयरोस्पेस और ऑटोमोबाइल उद्योगों में व्यापक रूप से उपयोग किया जाता है।\nकथन 2 गलत है: वर्तमान में कार्बन फाइबर अपशिष्ट या फाइबर कंपोजिट को विभिन्न तकनीकों का उपयोग करके पुनर्चक्रित (Recycle) किया जा सकता है।",
+      "en": "Statement 1 is correct: Carbon fibers are lightweight and extremely strong, widely used in the aerospace and automobile industries.\nStatement 2 is incorrect: Currently, carbon fiber waste or composites can be recycled using various technologies."
+    }
+  },
+  {
+    "id": 4,
+    "year": 2023,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कार क्रैश/टक्कर का, जिससे एयरबैग लगभग तुरंत फैल जाते हैं, पता लगाना",
+        "en": "Detection of a car crash/collision, causing airbags to deploy almost instantaneously"
+      },
+      {
+        "id": 2,
+        "hi": "लैपटॉप अचानक धरातल पर गिर पड़ने का, जिससे हार्ड ड्राइव तुरंत बंद हो जाता है, पता लगाना",
+        "en": "Detection of a laptop suddenly falling to the ground, causing the hard drive to shut down immediately"
+      },
+      {
+        "id": 3,
+        "hi": "स्मार्टफोन के झुकाव का, जिससे पोर्ट्रेट और लैंडस्केप मोड के बीच प्रदर्शन (डिस्प्ले) घूम जाता है, पता लगाना",
+        "en": "Detection of the tilt of a smartphone, which rotates the display between portrait and landscape mode"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित क्रियाओं पर विचार कीजिये –\nउपर्युक्त में से कितनी क्रियाओं में, त्वरणमापी (ऐक्सेलरोमीटर) के प्रकार्य की आवश्यकता है?",
+      "en": "Consider the following actions:\nIn how many of the above actions is the function of an accelerometer required?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "किसी में भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "त्वरणमापी (Accelerometer) एक ऐसा उपकरण है जो त्वरण को मापता है। यह कार क्रैश के समय अचानक वेग परिवर्तन का पता लगाकर एयरबैग खोलता है। लैपटॉप के गिरने पर अचानक फ्री फॉल का पता लगाकर हार्ड ड्राइव को बंद कर देता है। स्मार्टफोन में गुरुत्वाकर्षण की दिशा मापकर स्क्रीन को रोटेट करता है। अतः तीनों क्रियाओं में इसका उपयोग होता है।",
+      "en": "An accelerometer is a tool that measures acceleration. It detects sudden changes in velocity during a car crash to deploy airbags. It detects free fall when a laptop drops and shuts down the hard drive. It measures the direction of gravity to rotate the screen in smartphones. Thus, it is used in all three actions."
+    }
+  },
+  {
+    "id": 5,
+    "year": 2022,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "वेब 3.0 प्रौद्योगिकी से व्यक्ति अपने स्वयं के आँकड़ों पर नियंत्रण कर सकते हैं।",
+        "en": "Web 3.0 technology enables people to control their own data."
+      },
+      {
+        "id": 2,
+        "hi": "वेब 3.0 संसार में, ब्लॉकचेन आधारित सामाजिक नेटवर्क हो सकते हैं।",
+        "en": "In Web 3.0 world, there can be blockchain based social networks."
+      },
+      {
+        "id": 3,
+        "hi": "वेब 3.0 किसी निगम द्वारा परिचालित होने के बजाय प्रयोक्ताओं द्वारा सामूहिक रूप से परिचालित किया जाता है।",
+        "en": "Web 3.0 is operated collectively by users rather than a corporation."
+      }
+    ],
+    "question": {
+      "hi": "वेब 3.0 के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में कौन-से सही हैं?",
+      "en": "With reference to Web 3.0, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "तीनों कथन सही हैं। वेब 3.0 (Web 3.0) विकेंद्रीकृत (Decentralized) इंटरनेट की अवधारणा है जो ब्लॉकचेन तकनीक पर आधारित है। इसमें डेटा का नियंत्रण उपयोगकर्ताओं के पास होता है, इसके अपने सोशल नेटवर्क हो सकते हैं, और यह किसी केंद्रीय निगम के बजाय सामूहिक रूप से प्रयोक्ताओं द्वारा संचालित होता है।",
+      "en": "All statements are correct. Web 3.0 is a concept for a decentralized iteration of the internet based on blockchain technology. Users retain control over their data, it can feature blockchain-based social networks, and it is operated collectively by users instead of a centralized corporation."
+    }
+  },
+  {
+    "id": 6,
+    "year": 2022,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "SaaS क्रेता, प्रयोक्ता अंतरापृष्ठ (यूज़र इंटरफेस) को अपनी आवश्यकतानुसार निर्धारित कर आँकड़ों के क्षेत्र में बदलाव कर सकते हैं।",
+        "en": "SaaS buyers can customise the user interface and can change data fields according to their requirement."
+      },
+      {
+        "id": 2,
+        "hi": "SaaS प्रयोक्ता, अपनी चल युक्तियों (मोबाइल डिवाइसें) के माध्यम से अपने आँकड़ों तक पहुँच बना सकते हैं।",
+        "en": "SaaS users can access their data through their mobile devices."
+      },
+      {
+        "id": 3,
+        "hi": "आउटलुक, हॉटमेल और याहू! मेल SaaS के रूप हैं।",
+        "en": "Outlook, Hotmail and Yahoo! Mail are forms of SaaS."
+      }
+    ],
+    "question": {
+      "hi": "“सॉफ्टवेयर, सेवा के रूप में (Software as a Service - SaaS)” के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये –\nउपर्युक्त कथनों में कौन-से सही हैं?",
+      "en": "With reference to \"Software as a Service (SaaS)\", consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "SaaS सॉफ़्टवेयर डिलीवरी का एक तरीका है जो इंटरनेट कनेक्शन के माध्यम से कहीं से भी डेटा एक्सेस करने की अनुमति देता है। उपयोगकर्ता UI को कस्टमाइज़ कर सकते हैं, इसे मोबाइल पर एक्सेस कर सकते हैं और वेब-आधारित ईमेल सेवाएँ जैसे आउटलुक, हॉटमेल आदि इसके उदाहरण हैं। अतः सभी कथन सही हैं।",
+      "en": "SaaS is a software distribution model allowing data access from any device with an internet connection. Users can customize the UI, access it via mobile, and web-based email services like Outlook and Hotmail are classic examples of SaaS. Thus, all statements are correct."
+    }
+  },
+  {
+    "id": 7,
+    "year": 2022,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "“क्यूबिट (Qubit)” शब्द का उल्लेख निम्नलिखित में से कौन-से एक प्रसंग में होता है?",
+      "en": "Which one of the following is the context in which the term “qubit” is mentioned?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "क्लाउड सेवाएँ",
+        "en": "Cloud Services"
+      },
+      {
+        "id": "B",
+        "hi": "क्वांटम संगणन",
+        "en": "Quantum Computing"
+      },
+      {
+        "id": "C",
+        "hi": "दृश्य प्रकाश संचार प्रौद्योगिकियाँ",
+        "en": "Visible Light Communication Technologies"
+      },
+      {
+        "id": "D",
+        "hi": "बेतार संचार प्रौद्योगिकियाँ",
+        "en": "Wireless Communication Technologies"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "क्यूबिट (Qubit) क्वांटम कंप्यूटिंग की मूल इकाई है। यह क्लासिकल बिट की तरह केवल 0 या 1 नहीं होता, बल्कि सुपरपोजीशन के कारण 0 और 1 दोनों अवस्थाओं में एक साथ रह सकता है।",
+      "en": "A Qubit is the basic unit of quantum information in quantum computing. Unlike a classical bit which is strictly 0 or 1, a qubit can exist in a superposition of both states simultaneously."
+    }
+  },
+  {
+    "id": 8,
+    "year": 2022,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "निकट-परिपथ (क्लोज़-सर्किट) टेलीविज़न",
+        "en": "Closed-circuit Television (CCTV)"
+      },
+      {
+        "id": 2,
+        "hi": "रेडियो आवृत्ति अभिज्ञान",
+        "en": "Radio Frequency Identification (RFID)"
+      },
+      {
+        "id": 3,
+        "hi": "बेतार स्थानीय क्षेत्र नेटवर्क",
+        "en": "Wireless Local Area Network (WLAN)"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित संचार प्रौद्योगिकियों पर विचार कीजिये –\nउपर्युक्त में कौन-सी लघु-परास युक्तियाँ/प्रौद्योगिकियाँ (Short-range devices/technologies) मानी जाती हैं?",
+      "en": "Consider the following communication technologies:\nWhich of the above are considered Short-Range devices/technologies?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "शॉर्ट रेंज डिवाइस (SRD) ऐसे रेडियो उपकरण हैं जिनका संचार शक्ति और सीमा कम होती है (आमतौर पर कुछ मीटर से लेकर कुछ सौ मीटर तक)। CCTV (वायरलेस), RFID, और WLAN (Wi-Fi) सभी इसी श्रेणी में आते हैं।",
+      "en": "Short-Range Devices (SRDs) are radio transmitters that have low power and a short range (typically a few meters to a few hundred meters). Wireless CCTV, RFID, and WLAN (Wi-Fi) are all considered short-range technologies."
+    }
+  },
+  {
+    "id": 9,
+    "year": 2020,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "VLC, 375 से 780 nm वाली विद्युत्-चुंबकीय स्पेक्ट्रमी तरंगदैर्ध्यों का उपयोग करती है।",
+        "en": "VLC uses electromagnetic spectrum wavelengths of 375 to 780 nm."
+      },
+      {
+        "id": 2,
+        "hi": "VLC को दीर्घ-परासी प्रकाश बेतार संचार के रूप में जाना जाता है।",
+        "en": "VLC is known as long-range optical wireless communication."
+      },
+      {
+        "id": 3,
+        "hi": "VLC ब्लूटूथ की तुलना में डेटा की विशाल मात्रा को अधिक तेज़ी से प्रेषित कर सकता है।",
+        "en": "VLC can transmit large amounts of data faster than Bluetooth."
+      },
+      {
+        "id": 4,
+        "hi": "VLC में विद्युत्-चुंबकीय व्यतिकरण नहीं होता है।",
+        "en": "VLC has no electromagnetic interference."
+      }
+    ],
+    "question": {
+      "hi": "दृश्य प्रकाश संचार (VLC) तकनीकी के संदर्भ में निम्नलिखित में से कौन-से कथन सही हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "With reference to Visible Light Communication (VLC) technology, which of the following statements are correct?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1, 2 और 4",
+        "en": "1, 2 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3 and 4 only"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कथन 2 गलत है क्योंकि दृश्य प्रकाश संचार (VLC) एक लघु-परासी (Short-Range) बेतार संचार तकनीक है। कथन 1, 3 और 4 सही हैं (यह 375-780nm तरंगदैर्ध्य का उपयोग करता है, ब्लूटूथ से तेज़ है और इसमें EM व्यतिकरण नहीं होता)।",
+      "en": "Statement 2 is incorrect because VLC is a short-range optical wireless communication technology, not long-range. Statements 1, 3, and 4 are correct (it uses 375-780nm wavelengths, is faster than Bluetooth, and does not have electromagnetic interference)."
+    }
+  },
+  {
+    "id": 10,
+    "year": 2019,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "LTE को साधारणतः 3G के रूप में विपणित किया जाता है तथा VoLTE को साधारणतः उन्नत 3G के रूप में विपणित किया जाता है।",
+        "en": "LTE is commonly marketed as 3G and VoLTE is commonly marketed as advanced 3G."
+      },
+      {
+        "id": 2,
+        "hi": "LTE डेटा-ओनली तकनीक है और VoLTE वॉइस-ओनली तकनीक है।",
+        "en": "LTE is data-only technology and VoLTE is voice-only technology."
+      }
+    ],
+    "question": {
+      "hi": "संचार प्रौद्योगिकी के संदर्भ में, LTE (लॉन्ग-टर्म इवोल्यूशन) और VoLTE (वॉइस ओवर लॉन्ग-टर्म इवोल्यूशन) के बीच क्या अंतर है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "In the context of communication technologies, what is/are the difference/differences between LTE (Long-Term Evolution) and VoLTE (Voice over Long-Term Evolution)?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "कथन 1 गलत है: LTE और VoLTE दोनों 4G (चतुर्थ पीढ़ी) नेटवर्क से जुड़े हैं, न कि 3G से। कथन 2 गलत है: LTE पर डेटा और वॉयस दोनों का उपयोग होता है, लेकिन एक साथ करने पर क्वालिटी गिरती है। VoLTE (Voice over LTE) में वॉयस कॉल भी LTE डेटा नेटवर्क के जरिए उच्च गुणवत्ता में होती है, न कि यह केवल वॉयस है।",
+      "en": "Statement 1 is incorrect: Both LTE and VoLTE are marketed as 4G technologies, not 3G. Statement 2 is incorrect: LTE supports both voice and data, though voice quality drops when used simultaneously. VoLTE transmits voice over the LTE data network, allowing high-quality voice and data simultaneously; it is not voice-only."
+    }
+  },
+  {
+    "id": 11,
+    "year": 2019,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "संवर्द्धित वास्तविकता [ऑगमेंटेड रियलिटी (AR)] में, एक छद्म वातावरण सृजित हो जाता है और भौतिक संसार पूरी तरह बहिष्कृत हो जाता है।",
+        "en": "In Augmented Reality (AR), a simulated environment is created and the physical world is completely shut out."
+      },
+      {
+        "id": 2,
+        "hi": "आभासी वास्तविकता [वर्चुअल रियलिटी (VR)] में, कंप्यूटर द्वारा सृजित प्रतिमाएँ वास्तविक जीवन की वस्तुओं या परिवेशों पर प्रक्षेपित हो जाती हैं।",
+        "en": "In Virtual Reality (VR), computer-generated images are projected onto real-life objects or surroundings."
+      },
+      {
+        "id": 3,
+        "hi": "AR व्यक्तियों को संसार में विद्यमान रहने देता है और स्मार्ट-फोन या PC के कैमरे का उपयोग कर अनुभव को उन्नत करता है।",
+        "en": "AR allows individuals to be present in the world and improves the experience using the camera of a smart-phone or PC."
+      },
+      {
+        "id": 4,
+        "hi": "VR संसार को पृथक कर देता है और व्यक्ति को एक अलग धरातल पर ले जाकर उसे पूर्ण निमग्नता का अनुभव प्रदान करता है।",
+        "en": "VR closes the world, and transposes an individual, providing complete immersion experience."
+      }
+    ],
+    "question": {
+      "hi": "मनोरंजन हेतु डिजिटल प्रौद्योगिकियों के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "In the context of digital technologies for entertainment, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "3 और 4",
+        "en": "3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 4",
+        "en": "4 only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कथन 1 और 2 एक-दूसरे की परिभाषा को पलट कर लिखे गए हैं। VR (वर्चुअल रियलिटी) भौतिक संसार को पूरी तरह बहिष्कृत कर एक आभासी दुनिया में पूर्ण निमग्नता (Immersion) प्रदान करता है। AR (ऑगमेंटेड रियलिटी) वास्तविक दुनिया की वस्तुओं पर डिजिटल छवियों को जोड़ता है (जैसे स्मार्टफोन कैमरे के माध्यम से)। इसलिए कथन 3 और 4 सही हैं।",
+      "en": "Statements 1 and 2 swap the definitions. VR (Virtual Reality) completely shuts out the physical world providing total immersion. AR (Augmented Reality) adds digital elements to a live view (e.g., via a smartphone camera) while keeping the user present in the real world. Thus, statements 3 and 4 are correct."
+    }
+  },
+  {
+    "id": 12,
+    "year": 2019,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "एक ऐसा इलेक्ट्रॉनिक अभिलेख है, जो इसे जारी करने वाले प्रमाणन प्राधिकारी की पहचान करता है।",
+        "en": "It is an electronic record that identifies the certifying authority issuing it."
+      },
+      {
+        "id": 2,
+        "hi": "इंटरनेट पर सूचना या सर्वर तक पहुँच के लिये किसी व्यक्ति की पहचान के प्रमाण के रूप में प्रयुक्त होता है।",
+        "en": "It is used as a proof of identity of an individual to access information or server on the Internet."
+      },
+      {
+        "id": 3,
+        "hi": "इलेक्ट्रॉनिक दस्तावेज़ पर हस्ताक्षर करने की एक इलेक्ट्रॉनिक पद्धति है और सुनिश्चित करता है कि मूल अंश अपरिवर्तित है।",
+        "en": "It is an electronic method of signing an electronic document and ensuring that the original content is unchanged."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये–\nडिजिटल हस्ताक्षर:\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nA digital signature:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "डिजिटल हस्ताक्षर (Digital Signature) किसी डिजिटल संदेश या दस्तावेज़ की प्रामाणिकता को निरूपित करने की एक गणितीय योजना है, जो सुनिश्चित करती है कि इलेक्ट्रॉनिक दस्तावेज़ का मूल अंश अपरिवर्तित है। कथन 1 और 2 वास्तव में 'डिजिटल हस्ताक्षर प्रमाणपत्र' (Digital Signature Certificate) की परिभाषा को संदर्भित करते हैं।",
+      "en": "A Digital Signature is a mathematical scheme for demonstrating the authenticity of a digital message or document, ensuring the original content remains unchanged. Statements 1 and 2 actually describe a 'Digital Signature Certificate' (DSC). Thus, only statement 3 is correct."
+    }
+  },
+  {
+    "id": 13,
+    "year": 2018,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "जब सुबह आपके स्मार्ट फोन का अलार्म बजता है, तो आप उठ जाते हैं और अलार्म को बंद करने के लिये उसे थपकी देते हैं जिससे आपका गीज़र स्वतः ही चल पड़ता है। आपके स्नानागार में लगा स्मार्ट दर्पण दिन के मौसम को दर्शाता है और आपकी ऊपरी टंकी में पानी के स्तर का भी संकेत देता है। जब आप नाश्ता बनाने के लिये अपने रेफ्रिजरेटर से कुछ किराना-सामान निकाल लेते हैं, यह इसमें भंडारित सामान में आई कमी को जान लेता है और ताज़े किराना-सामानों की पूर्ति के लिये क्रयादेश दे देता है। जब आप घर से बाहर कदम रखते हैं और दरवाज़े पर ताला लगाते हैं, तब सभी बत्तियाँ, पंखे, गीज़र और ए.सी. मशीनें स्वतः बंद हो जाती हैं। आपके कार्यालय के रास्ते पर, आपकी कार आगे आने वाले यातायात की भीड़ के बारे में आपको चेतावनी देती है और वैकल्पिक रास्ते का सुझाव देती है, और यदि आपको किसी बैठक के लिये देर हो रही है, तो यह उसके अनुसार आपके कार्यालय में संदेश भेज देती है।\nइन आविर्भूत होती हुई संचार प्रौद्योगिकियों के संदर्भ में, उपर्युक्त परिदृश्य के लिये निम्नलिखित में से कौन-सा पद सबसे उपयुक्त रूप से लागू होता है?",
+      "en": "When the alarm on your smartphone rings in the morning, you wake up and tap it to stop the alarm which causes your geyser to be switched on automatically. The smart mirror in your bathroom shows the day's weather and also indicates the level of water in your overhead tank. After you take some groceries from your refrigerator for making breakfast, it recognizes the shortage of stock in it and places an order for the supply of fresh grocery items. When you step out of your house and lock the door, all lights, fans, geysers and AC machines get switched off automatically. On your way to office, your car warns you about traffic congestion ahead and suggests an alternative route, and if you are late for a meeting, it sends a message to your office accordingly.\nIn the context of emerging communication technologies, which one of the following terms best applies to the above scenario?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "बॉर्डर गेटवे प्रोटोकॉल",
+        "en": "Border Gateway Protocol"
+      },
+      {
+        "id": "B",
+        "hi": "इंटरनेट ऑफ थिंग्स",
+        "en": "Internet of Things"
+      },
+      {
+        "id": "C",
+        "hi": "इंटरनेट प्रोटोकॉल",
+        "en": "Internet Protocol"
+      },
+      {
+        "id": "D",
+        "hi": "वर्चुअल प्राइवेट नेटवर्क",
+        "en": "Virtual Private Network"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "इंटरनेट ऑफ थिंग्स (IoT) वह अवधारणा है जिसमें सामान्य उपयोग के उपकरण और वस्तुएँ इंटरनेट या नेटवर्क से जुड़े होते हैं और एक-दूसरे के साथ डेटा का आदान-प्रदान कर सकते हैं। यह परिदृश्य IoT का एक आदर्श उदाहरण है।",
+      "en": "Internet of Things (IoT) is a concept in which everyday objects and devices are connected to the internet/network and can exchange data with each other. This scenario is a classic example of IoT."
+    }
+  },
+  {
+    "id": 14,
+    "year": 2018,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "'वान्नाक्राई (WannaCry), पेट्या (Petya) और इंटर्नल ब्लू (EternalBlue)' पद जो हाल ही में समाचारों में उल्लिखित थे, निम्नलिखित में से किसके साथ संबंधित हैं?",
+      "en": "The terms 'WannaCry, Petya and EternalBlue' sometimes mentioned in the news recently are related to:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एक्सोप्लैनेट्स",
+        "en": "Exoplanets"
+      },
+      {
+        "id": "B",
+        "hi": "प्रच्छन्न मुद्रा (क्रिप्टोकरेंसी)",
+        "en": "Cryptocurrency"
+      },
+      {
+        "id": "C",
+        "hi": "साइबर आक्रमण",
+        "en": "Cyber attacks"
+      },
+      {
+        "id": "D",
+        "hi": "लघु उपग्रह",
+        "en": "Mini satellites"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "पेट्या (Petya), वान्नाक्राई (WannaCry) रैंसमवेयर हैं जो एक प्रकार के साइबर आक्रमण (दुर्भावनापूर्ण सॉफ़्टवेयर) हैं। ये कंप्यूटर में फाइलों को लॉक कर देते हैं और फिरौती की मांग करते हैं। इंटर्नल ब्लू (EternalBlue) वह खामी/टूल है जिसका इस्तेमाल इन वायरसों को फैलाने के लिए किया गया।",
+      "en": "WannaCry and Petya are ransomware, which are forms of cyber attacks (malware). They lock the files in the computer and demand a ransom. EternalBlue is an exploit used to spread these viruses."
+    }
+  },
+  {
+    "id": 15,
+    "year": 2018,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इसे किसी भी इलेक्ट्रॉनिक उपकरण के साथ एकीकृत किया जा सकता है।",
+        "en": "It can be integrated into any electronic device."
+      },
+      {
+        "id": 2,
+        "hi": "परितारिका (आइरिस) का प्रयोग कर ऑनलाइन प्रमाणीकरण संभव है।",
+        "en": "Online authentication using iris is possible."
+      }
+    ],
+    "question": {
+      "hi": "पहचान प्लेटफॉर्म ‘आधार’ खुला (ओपन) “एप्लीकेशन प्रोग्रामिंग इंटरफेस” (API) उपलब्ध कराता है। इसका क्या अभिप्राय है?\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Identity platform 'Aadhaar' provides open \"Application Programming Interfaces (APIs)\". What does it imply?\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "आधार का ओपन API (Application Programming Interface) विभिन्न अनुप्रयोगों और इलेक्ट्रॉनिक उपकरणों के साथ इसे एकीकृत करने की अनुमति देता है। साथ ही, आइरिस और फिंगरप्रिंट का उपयोग करके ऑनलाइन प्रमाणीकरण पूरी तरह से संभव है। अतः दोनों कथन सही हैं।",
+      "en": "Aadhaar's open API allows it to be integrated with various applications and electronic devices. Also, online authentication using iris and fingerprints is entirely possible. Hence, both statements are correct."
+    }
+  },
+  {
+    "id": 16,
+    "year": 2018,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भीम (BHIM) ऐप उपयोग करने वाले के लिये यह ऐप यू.पी.आई. (UPI) सक्षम बैंक खाते से किसी को धन का हस्तांतरण करना संभव बनाता है।",
+        "en": "BHIM app allows the user to transfer money to anyone with a UPI-enabled bank account."
+      },
+      {
+        "id": 2,
+        "hi": "जहाँ एक चिप-पिन डेबिट कार्ड में प्रमाणीकरण के चार घटक होते हैं, भीम ऐप में प्रमाणीकरण के सिर्फ दो घटक होते हैं।",
+        "en": "While a chip-pin debit card has four factors of authentication, BHIM app has only two factors of authentication."
+      }
+    ],
+    "question": {
+      "hi": "डिजिटल भुगतान के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to digital payments, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कथन 1 सही है: भीम (BHIM) एक UPI आधारित भुगतान इंटरफेस है जो रीयल-टाइम धन हस्तांतरण को सक्षम बनाता है। कथन 2 गलत है: भीम ऐप में प्रमाणीकरण के तीन घटक होते हैं (डिवाइस आईडी/मोबाइल नंबर, बैंक खाता लिंकिंग, और UPI पिन)।",
+      "en": "Statement 1 is correct: BHIM is a UPI-based payment interface enabling real-time fund transfers. Statement 2 is incorrect: BHIM app involves three factors of authentication (Device ID/mobile number, bank account linking, and UPI PIN)."
+    }
+  },
+  {
+    "id": 17,
+    "year": 2018,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आधार कार्ड का प्रयोग नागरिकता या अधिवास के प्रमाण के रूप में किया जा सकता है।",
+        "en": "Aadhaar card can be used as a proof of citizenship or domicile."
+      },
+      {
+        "id": 2,
+        "hi": "एक बार जारी करने के पश्चात् इसे निर्गत करने वाला प्राधिकरण आधार संख्या को निष्क्रिय या लुप्त नहीं कर सकता।",
+        "en": "Once issued, Aadhaar number cannot be deactivated or omitted by the issuing authority."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये–\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "कथन 1 गलत है: आधार कार्ड नागरिकता (Citizenship) या अधिवास (Domicile) का प्रमाण नहीं है, यह केवल पहचान का प्रमाण है। कथन 2 गलत है: UIDAI नियमों के अनुसार, जारीकर्ता प्राधिकरण विशिष्ट परिस्थितियों में आधार संख्या को निष्क्रिय (Deactivate) कर सकता है।",
+      "en": "Statement 1 is incorrect: Aadhaar is not a proof of citizenship or domicile, it is only a proof of identity. Statement 2 is incorrect: The issuing authority (UIDAI) can deactivate an Aadhaar number under specific circumstances."
+    }
+  },
+  {
+    "id": 18,
+    "year": 2017,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सेवा प्रदाता (सर्विस प्रोवाइडर)",
+        "en": "Service providers"
+      },
+      {
+        "id": 2,
+        "hi": "डेटा सेंटर",
+        "en": "Data centres"
+      },
+      {
+        "id": 3,
+        "hi": "कॉर्पोरेट निकाय (बॉडी कॉर्पोरेट)",
+        "en": "Body corporate"
+      }
+    ],
+    "question": {
+      "hi": "भारत में, साइबर सुरक्षा घटनाओं पर रिपोर्ट करना निम्नलिखित में से किसके/किनके लिये विधितः अधिदेशात्मक है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "In India, it is legally mandatory for which of the following to report on cyber security incidents?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "सूचना प्रौद्योगिकी नियम (CERT-In Rules), 2013 के अनुसार, सेवा प्रदाताओं, मध्यस्थों, डेटा केंद्रों और कॉर्पोरेट निकायों के लिए साइबर घटनाओं की रिपोर्ट करना अनिवार्य (Mandatory) है।",
+      "en": "According to the Information Technology (CERT-In) Rules, 2013, it is mandatory for service providers, intermediaries, data centres, and body corporates to report cyber incidents."
+    }
+  },
+  {
+    "id": 19,
+    "year": 2016,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह उच्च गति डेटा संचरण के लिये प्रकाश को माध्यम के रूप में प्रयुक्त करता है।",
+        "en": "It uses light as the medium for high-speed data transmission."
+      },
+      {
+        "id": 2,
+        "hi": "यह एक बेतार प्रौद्योगिकी है और ‘WiFi’ से कई गुना तीव्रतर है।",
+        "en": "It is a wireless technology and is several times faster than 'WiFi'."
+      }
+    ],
+    "question": {
+      "hi": "हाल ही में समाचारों में आने वाले ‘LiFi’ के संदर्भ में निम्नलिखित कथनों में से कौन-सा/से सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "With reference to 'LiFi', recently in the news, which of the following statements is/are correct?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "LiFi (Light Fidelity) एक दृश्य प्रकाश संचार (VLC) तकनीक है जो डेटा संचारित करने के लिए प्रकाश का उपयोग करती है। यह एक बेतार (वायरलेस) तकनीक है जो वाई-फाई (Wi-Fi) की तुलना में बहुत अधिक तेज़ गति (लगभग 100 गुना अधिक) प्रदान कर सकती है। अतः दोनों कथन सही हैं।",
+      "en": "LiFi (Light Fidelity) is a Visible Light Communication (VLC) technology that uses light to transmit data. It is a wireless technology that can provide much faster speeds (up to 100 times faster) compared to Wi-Fi. Hence, both statements are correct."
+    }
+  },
+  {
+    "id": 20,
+    "year": 2016,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह डिजिटल इंडिया प्रोग्राम के अंतर्गत सरकार द्वारा दिया जाने वाला एक डिजिटल लॉकर सिस्टम है।",
+        "en": "It is a digital locker system offered by the Government under Digital India Programme."
+      },
+      {
+        "id": 2,
+        "hi": "यह आपके ई-दस्तावेज़ों तक आपकी पहुँच को संभव बनाता है, चाहे भौतिक रूप से आपकी उपस्थिति कहीं भी हो।",
+        "en": "It allows you to access your e-documents irrespective of your physical location."
+      }
+    ],
+    "question": {
+      "hi": "कभी-कभी समाचारों में दिखने वाले ‘डिजीलॉकर (DigiLocker)’ के संबंध में निम्नलिखित कथनों में से कौन-सा/से सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "With reference to ‘DigiLocker’, sometimes seen in the news, which of the following statements is/are correct?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "डिजीलॉकर (DigiLocker) भारत सरकार के डिजिटल इंडिया कार्यक्रम का हिस्सा है जो नागरिकों को दस्तावेजों को ऑनलाइन सुरक्षित रखने और कहीं से भी एक्सेस करने की सुविधा देता है। इसके लिए आधार लिंकिंग अनिवार्य होती है। अतः दोनों कथन सही हैं।",
+      "en": "DigiLocker is part of the Government of India's Digital India initiative, allowing citizens to securely store and access documents online from anywhere. Aadhaar linking is mandatory for this. Hence, both statements are correct."
+    }
+  },
+  {
+    "id": 21,
+    "year": 2016,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "कभी-कभी समाचारों में दिखने वाला ‘प्रोजेक्ट लून (Project Loon)’ संबंधित है-",
+      "en": "'Project Loon', sometimes seen in the news, is related to:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अपशिष्ट-प्रबंधन प्रौद्योगिकी से",
+        "en": "Waste management technology"
+      },
+      {
+        "id": "B",
+        "hi": "बेतार-संचार प्रौद्योगिकी से",
+        "en": "Wireless communication technology"
+      },
+      {
+        "id": "C",
+        "hi": "सौर ऊर्जा उत्पादन प्रौद्योगिकी से",
+        "en": "Solar power production technology"
+      },
+      {
+        "id": "D",
+        "hi": "जल-संरक्षण प्रौद्योगिकी से",
+        "en": "Water conservation technology"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "प्रोजेक्ट लून (Project Loon) गूगल (Alphabet) की एक परियोजना थी, जिसका उद्देश्य स्ट्रैटोस्फीयर (समतापमंडल) में हीलियम गैस से भरे गुब्बारों का उपयोग करके ग्रामीण और दूरदराज़ के क्षेत्रों में इंटरनेट (बेतार संचार / Wireless Communication) सुविधा प्रदान करना था।",
+      "en": "Project Loon was a project by Google (Alphabet) aimed at providing internet access (wireless communication) to rural and remote areas using high-altitude helium-filled balloons placed in the stratosphere."
+    }
+  },
+  {
+    "id": 22,
+    "year": 2015,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह एक संपर्करहित संचार प्रौद्योगिकी है जो विद्युत्-चुंबकीय रेडियो क्षेत्रों का उपयोग करती है।",
+        "en": "It is a contactless communication technology that uses electromagnetic radio fields."
+      },
+      {
+        "id": 2,
+        "hi": "NFC उन युक्तियों (डिवाइसेज़) द्वारा उपयोग के लिये अभिकल्पित किया गया है जो एक-दूसरे से एक मीटर की दूरी पर भी स्थित हो सकती हैं।",
+        "en": "NFC is designed for use by devices which can be at a distance of even a metre from each other."
+      },
+      {
+        "id": 3,
+        "hi": "संवेदनशील सूचना भेजते समय NFC कूटकरण (एन्क्रिप्शन) का उपयोग कर सकता है।",
+        "en": "NFC can use encryption when sending sensitive information."
+      }
+    ],
+    "question": {
+      "hi": "‘निकट क्षेत्र संचार (नियर फील्ड कम्युनिकेशन - NFC) प्रौद्योगिकी’ के संदर्भ में निम्नलिखित कथनों में से कौन-सा/से सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये–",
+      "en": "With reference to 'Near Field Communication (NFC) Technology', which of the following statements is/are correct?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कथन 2 गलत है: नियर फील्ड कम्युनिकेशन (NFC) बहुत ही कम दूरी (आमतौर पर 4 सेमी या उससे कम) पर काम करने के लिए डिज़ाइन किया गया है, 1 मीटर की दूरी पर नहीं। कथन 1 (विद्युत्-चुंबकीय रेडियो क्षेत्र) और 3 (एन्क्रिप्शन का उपयोग) सही हैं।",
+      "en": "Statement 2 is incorrect: Near Field Communication (NFC) is designed to operate over very short distances (typically 4 cm or less), not at a distance of a meter. Statements 1 (uses electromagnetic radio fields) and 3 (uses encryption) are correct."
+    }
+  },
+  {
+    "id": 23,
+    "year": 2011,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "ब्लूटूथ (Bluetooth) तथा वाई-फाई (Wi-Fi) के बीच क्या अंतर है?",
+      "en": "What is the difference between Bluetooth and Wi-Fi devices?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ब्लूटूथ 2.4 GHz रेडियो-आवृत्ति पट्ट प्रयुक्त करता है जबकि वाई-फाई 2.4 GHz अथवा 5 GHz आवृत्ति पट्ट प्रयुक्त कर सकता है",
+        "en": "Bluetooth uses 2.4 GHz radio frequency band, whereas Wi-Fi can use 2.4 GHz or 5 GHz frequency band"
+      },
+      {
+        "id": "B",
+        "hi": "ब्लूटूथ केवल बेतार स्थानीय क्षेत्रीय जाल (WLAN) प्रयुक्त करता है, जबकि वाई-फाई केवल बेतार विस्तृत क्षेत्रीय जाल (WWAN) प्रयुक्त करता है",
+        "en": "Bluetooth is used for Wireless Local Area Networks (WLAN) only, whereas Wi-Fi is used for Wireless Wide Area Networks (WWAN) only"
+      },
+      {
+        "id": "C",
+        "hi": "जब ब्लूटूथ प्रौद्योगिकी प्रयोग कर रहे दो उपकरणों के बीच सूचना प्रेषित की जाती है, तब दोनों उपकरणों का दृष्टिगत स्तर पर पंक्तबद्ध होना आवश्यक है, किंतु जब वाई-फाई प्रौद्योगिकी प्रयोग में लाई जाती है तब दोनों उपकरणों का दृष्टिगत स्तर पर पंक्तबद्ध होना आवश्यक नहीं है",
+        "en": "When information is transmitted between two devices using Bluetooth technology, the devices have to be in the line of sight of each other, but when Wi-Fi technology is used the devices need not be in the line of sight of each other"
+      },
+      {
+        "id": "D",
+        "hi": "इस संदर्भ में (a) तथा (b) दोनों कथन सही हैं",
+        "en": "The statements (a) and (b) given above are correct in this context"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "ब्लूटूथ आमतौर पर 2.4 GHz आवृत्ति बैंड का उपयोग करता है, जबकि वाई-फाई 2.4 GHz और 5 GHz दोनों आवृत्तियों का उपयोग कर सकता है। ब्लूटूथ और वाई-फाई दोनों के लिए लाइन ऑफ साइट (दृष्टिगत स्तर) की आवश्यकता नहीं होती है। वाई-फाई का उपयोग WLAN के लिए किया जाता है, WWAN के लिए नहीं। अतः केवल कथन (a) सही है।",
+      "en": "Bluetooth uses the 2.4 GHz frequency band, whereas Wi-Fi can use both 2.4 GHz and 5 GHz frequency bands. Neither Bluetooth nor Wi-Fi require a line of sight. Wi-Fi is used for WLAN, not WWAN. Thus, only option (a) is correct."
+    }
+  },
+  {
+    "id": 24,
+    "year": 2011,
+    "subject": "Science and Technology",
+    "topic": "Information and Communication Technology",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "passage": {
+      "hi": "",
+      "en": ""
+    },
+    "statements": [],
+    "question": {
+      "hi": "आभासी निजी परिपथ (वर्चुअल प्राइवेट नेटवर्क / Virtual Private Network) क्या है?",
+      "en": "What is a Virtual Private Network (VPN)?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "यह किसी संस्था का निजी कंप्यूटर-परिपथ है, जिसमें सुदूर बैठे प्रयोक्ता संस्था के परिवेशक (सर्वर) के माध्यम से सूचना प्रेषित कर सकते हैं",
+        "en": "It is a private computer network of an organization where the remote users can transmit encrypted information through the server of the organization"
+      },
+      {
+        "id": "B",
+        "hi": "यह इंटरनेट पर बना निजी कंप्यूटर परिपथ है, जो प्रयोक्ताओं को अपनी संस्था के परिपथ में प्रवेश करने की सुविधा देता है और प्रेषित की जा रही सूचना को सुरक्षित रखता है",
+        "en": "It is a private computer network created on the Internet that allows users to access their organization's network and keeps the transmitted information secure"
+      },
+      {
+        "id": "C",
+        "hi": "यह एक ऐसा कंप्यूटर परिपथ है, जिसके द्वारा प्रयोक्ता सेवा प्रबंधक (सर्विस प्रोवाइडर) के माध्यम से कंप्यूटिंग संसाधनों के साझे भंडार में प्रवेश पा सकते हैं",
+        "en": "It is a computer network that allows users to access a shared pool of computing resources through a service provider"
+      },
+      {
+        "id": "D",
+        "hi": "उपर्युक्त (a), (b) तथा (c) कथनों में से कोई भी आभासी निजी परिपथ का सही वर्णन नहीं है",
+        "en": "None of the statements (a), (b) and (c) given above is a correct description of a Virtual Private Network"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "आभासी निजी परिपथ (VPN) इंटरनेट (सार्वजनिक नेटवर्क) पर बना एक ऐसा निजी कंप्यूटर परिपथ है, जो सुरक्षा और एन्क्रिप्शन (Privacy) का उपयोग करता है। यह उपयोगकर्ताओं को कहीं से भी सुरक्षित रूप से अपनी संस्था के नेटवर्क से जुड़ने या डेटा ट्रांसफर करने की अनुमति देता है।",
+      "en": "A Virtual Private Network (VPN) is a private computer network created over a public network (the Internet) that uses encryption and security to allow users to securely access their organization's network or transfer data remotely."
+    }
+  }
+]

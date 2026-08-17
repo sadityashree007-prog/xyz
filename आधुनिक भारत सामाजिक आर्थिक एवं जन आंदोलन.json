@@ -1,0 +1,1166 @@
+[
+  {
+    "id": 1,
+    "year": "2025",
+    "subject": "History",
+    "topic": "समाज एवं धर्म सुधार आंदोलन (Social and Religious Reform Movements)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उनमें प्राच्य विश्व के पारंपरिक दार्शनिक सिद्धांतों के प्रति अत्यंत अनुराग और समादर था।",
+        "en": "He had deep affection and respect for the traditional philosophical principles of the Oriental world."
+      },
+      {
+        "id": 2,
+        "hi": "उनकी कामना थी कि उनके देशवासी तर्कसंगत और वैज्ञानिक दृष्टिकोण तथा सभी पुरुषों और महिलाओं की मानवीय गरिमा और सामाजिक समता के सिद्धांत को मानें।",
+        "en": "He desired that his countrymen should accept a rational and scientific approach and the principle of human dignity and social equality of all men and women."
+      }
+    ],
+    "question": {
+      "hi": "राजा राममोहन राय के बारे में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/कौन-से सही है/हैं?",
+      "en": "With reference to Raja Rammohan Roy, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल I",
+        "en": "I only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल II",
+        "en": "II only"
+      },
+      {
+        "id": "C",
+        "hi": "I और II दोनों",
+        "en": "Both I and II"
+      },
+      {
+        "id": "D",
+        "hi": "न तो I और न ही II",
+        "en": "Neither I nor II"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "राजा राममोहन राय को आधुनिक भारत का प्रथम महान नेता माना जाता है। राममोहन राय को पूर्व की पारंपरिक दार्शनिक प्रणालियों के प्रति गहरा प्रेम और सम्मान था; लेकिन साथ ही उनका मानना था कि पश्चिमी संस्कृति ही भारतीय समाज के पुनरुत्थान में सहायता प्रदान करेगी। अतः कथन I सही है। विशेष रूप से वह चाहते थे कि उनके देशवासी तर्कसंगत, वैज्ञानिक दृष्टिकोण तथा सभी पुरुषों और महिलाओं की मानवीय गरिमा और सामाजिक समानता के सिद्धांत को स्वीकार करें। अतः कथन II भी सही है। अतः विकल्प (c) सही है।",
+      "en": "Raja Rammohan Roy is considered the first great leader of modern India. Rammohan Roy had a deep love and respect for the traditional philosophical systems of the East; but at the same time he believed that Western culture alone would help in the regeneration of Indian society. Hence, statement I is correct. He particularly wanted his countrymen to accept a rational, scientific approach and the principle of human dignity and social equality of all men and women. Hence, statement II is also correct. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 2,
+    "year": "2025",
+    "subject": "History",
+    "topic": "समाज एवं धर्म सुधार आंदोलन (Social and Religious Reform Movements)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "इनमें से कौन 'आत्म-सम्मान आंदोलन (सेल्फ-रिस्पेक्ट मूवमेंट)' का संस्थापक था?",
+      "en": "Who among the following was the founder of the 'Self-Respect Movement'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "'पेरियार' ई.वी. रामास्वामी नायकर",
+        "en": "'Periyar' E. V. Ramasamy Naicker"
+      },
+      {
+        "id": "B",
+        "hi": "डॉ. बी.आर. अंबेडकर",
+        "en": "Dr. B. R. Ambedkar"
+      },
+      {
+        "id": "C",
+        "hi": "भास्करराव जाधव",
+        "en": "Bhaskarrao Jadhav"
+      },
+      {
+        "id": "D",
+        "hi": "दिनकरराव जावलकर",
+        "en": "Dinkarrao Javalkar"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "आत्म-सम्मान आंदोलन की स्थापना वर्ष 1925 में तमिलनाडु में 'पेरियार' ई.वी. रामास्वामी नायकर द्वारा की गई थी, जिन्हें पेरियार के नाम से भी जाना जाता है। इस आंदोलन की शुरुआत ब्राह्मणवादी वर्चस्व, धार्मिक रूढ़िवादिता और जातिगत उत्पीड़न को चुनौती देने हेतु की गई थी। अतः विकल्प (a) सही है।",
+      "en": "The Self-Respect Movement was founded in Tamil Nadu in 1925 by 'Periyar' E.V. Ramasamy Naicker, also known as Periyar. This movement was started to challenge Brahmanical hegemony, religious orthodoxy and caste oppression. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 3,
+    "year": "2021",
+    "subject": "History",
+    "topic": "समाज एवं धर्म सुधार आंदोलन (Social and Religious Reform Movements)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "इनमें से कौन सेक्रेटरी के रूप में हिंदू फीमेल स्कूल से संबद्ध थे/थीं, जो बाद में बेथ्यून फीमेल स्कूल के नाम से जाना जाने लगा?",
+      "en": "Who among the following was associated as Secretary with Hindu Female School which later came to be known as Bethune Female School?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एनी बेसेंट",
+        "en": "Annie Besant"
+      },
+      {
+        "id": "B",
+        "hi": "देवेन्द्रनाथ टैगोर",
+        "en": "Debendranath Tagore"
+      },
+      {
+        "id": "C",
+        "hi": "ईश्वरचंद्र विद्यासागर",
+        "en": "Ishwar Chandra Vidyasagar"
+      },
+      {
+        "id": "D",
+        "hi": "सरोजिनी नायडू",
+        "en": "Sarojini Naidu"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "बेथ्यून ने 1849 में कोलकाता में कलकत्ता महिला विद्यालय के नाम से दक्षिणा रंजन मुखर्जी के वित्तीय सहयोग से एक विद्यालय खोला जो बाद में हिंदू महिला विद्यालय और उसके बाद बेथ्यून विद्यालय के नाम से जाना गया। 1879 में इसे कॉलेज के रूप में विकसित किया गया। यह भारत का पहला विमेंस कॉलेज बना और एशिया का पहला महिला विद्यालय। इसी विद्यालय से सेक्रेटरी के रूप में ईश्वरचंद्र विद्यासागर जुड़े हुए थे। इस प्रकार विकल्प (c) सही है।",
+      "en": "Bethune opened a school in Kolkata in 1849 in the name of Calcutta Female School with the financial support of Dakshina Ranjan Mukherjee, which later came to be known as Hindu Female School and then Bethune School. In 1879 it was developed as a college. It became India's first women's college and Asia's first women's school. Ishwar Chandra Vidyasagar was associated with this school as Secretary. Thus option (c) is correct."
+    }
+  },
+  {
+    "id": 4,
+    "year": "2020",
+    "subject": "History",
+    "topic": "समाज एवं धर्म सुधार आंदोलन (Social and Religious Reform Movements)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "महिलाओं का शिक्षा पाने का अधिकार",
+        "en": "Women's right to gain education"
+      },
+      {
+        "id": 2,
+        "hi": "सहमति की आयु",
+        "en": "Age of consent"
+      },
+      {
+        "id": 3,
+        "hi": "दांपत्य अधिकारों का प्रत्यास्थापन",
+        "en": "Restitution of conjugal rights"
+      }
+    ],
+    "question": {
+      "hi": "भारतीय इतिहास के संदर्भ में, 1884 का रखमाबाई मुकदमा किस पर केंद्रित था?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "In the context of Indian history, the Rakhmabai case of 1884 centered around\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "रखमाबाई राउत ब्रिटिश भारत की पहली महिला डॉक्टरों में से एक थीं। 11 वर्ष की आयु में इनका विवाह कर दिये जाने के पश्चात् भी इन्होंने अपनी माँ के घर में ही रहना जारी रखा। इस कारण इनके पति दादाजी भीकाजी ने इनके 'दांपत्य अधिकारों के प्रत्यास्थापन' हेतु रखमाबाई के विरुद्ध मुकदमा दायर किया। इस प्रकार कथन 3 सही है। 'दादाजी भीकाजी बनाम रखमाबाई' मामले में पहला निर्णय रखमाबाई के पक्ष में रहा। हालाँकि बाद में इस मामले पर अनेक बार पुनर्विचार किया गया व अंतिम निर्णय दादाजी भीकाजी के पक्ष में आया। आगे चलकर रखमाबाई मुकदमे की 'एज ऑफ कंसेंट एक्ट, 1891' (सहमति की आयु) के बनने में बेहद महत्त्वपूर्ण भूमिका थी। अतः कथन 2 भी सही है। महिलाओं को शिक्षा के अधिकार दिलाने से संबंधित प्रयासों में रखमाबाई की प्रत्यक्ष भूमिका नहीं रही। अतः कथन 1 सही नहीं है। इस प्रकार उपर्युक्त विकल्प (b) सही उत्तर होगा।",
+      "en": "Rakhmabai Raut was one of the first female doctors in British India. Even after being married at the age of 11, she continued to live in her mother's house. Because of this, her husband Dadaji Bhikaji filed a case against Rakhmabai for 'restitution of conjugal rights'. Thus statement 3 is correct. The first verdict in the 'Dadaji Bhikaji vs Rakhmabai' case was in favor of Rakhmabai. However, the matter was later reconsidered many times and the final verdict went in favor of Dadaji Bhikaji. Later, the Rakhmabai case played a very important role in the making of the 'Age of Consent Act, 1891'. Hence statement 2 is also correct. Rakhmabai did not have a direct role in the efforts related to getting women the right to education. Hence statement 1 is not correct. Thus the above option (b) will be the correct answer."
+    }
+  },
+  {
+    "id": 5,
+    "year": "2019",
+    "subject": "History",
+    "topic": "समाज एवं धर्म सुधार आंदोलन (Social and Religious Reform Movements)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अखिल भारतीय अस्पृश्यता विरोधी लीग : महात्मा गांधी",
+        "en": "All India Anti-Untouchability League : Mahatma Gandhi"
+      },
+      {
+        "id": 2,
+        "hi": "अखिल भारतीय किसान सभा : स्वामी सहजानंद सरस्वती",
+        "en": "All India Kisan Sabha : Swami Sahajanand Saraswati"
+      },
+      {
+        "id": 3,
+        "hi": "आत्मसम्मान आंदोलन : ई.वी. रामास्वामी नायकर",
+        "en": "Self-Respect Movement : E. V. Ramasamy Naicker"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये (आंदोलन/संगठन और नायक):\nउपर्युक्त में से कौन-सा/से युग्म सही सुमेलित है/हैं?",
+      "en": "Consider the following pairs (Movement/Organization and Leader):\nWhich of the pairs given above is/are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "अखिल भारतीय अस्पृश्यता विरोधी लीग की स्थापना वर्ष 1932 में हुई थी। इस संगठन को 'हरिजन सेवक संघ' के नाम से भी जाना जाता है। इसके नायक महात्मा गांधी थे। अखिल भारतीय किसान सभा की स्थापना वर्ष 1936 में लखनऊ में स्वामी सहजानंद सरस्वती के द्वारा की गई थी। वहीं आत्मसम्मान आंदोलन वर्ष 1920 में ई.वी. रामास्वामी नायकर द्वारा दक्षिण भारत में प्रारंभ किया गया। इस प्रकार विकल्प (d) सही उत्तर है।",
+      "en": "The All India Anti-Untouchability League was established in the year 1932. This organization is also known as 'Harijan Sevak Sangh'. Its leader was Mahatma Gandhi. The All India Kisan Sabha was established in Lucknow in the year 1936 by Swami Sahajanand Saraswati. The Self-Respect Movement was started in South India by E.V. Ramasamy Naicker in the 1920s. Thus, option (d) is the correct answer."
+    }
+  },
+  {
+    "id": 6,
+    "year": "2016",
+    "subject": "History",
+    "topic": "समाज एवं धर्म सुधार आंदोलन (Social and Religious Reform Movements)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "सत्यशोधक समाज ने संगठित किया-",
+      "en": "Satyashodhak Samaj organized"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "बिहार में आदिवासियों के उन्नयन का एक आंदोलन",
+        "en": "a movement for upliftment of tribals in Bihar"
+      },
+      {
+        "id": "B",
+        "hi": "गुजरात में मंदिर-प्रवेश का एक आंदोलन",
+        "en": "a temple-entry movement in Gujarat"
+      },
+      {
+        "id": "C",
+        "hi": "महाराष्ट्र में एक जाति-विरोधी आंदोलन",
+        "en": "an anti-caste movement in Maharashtra"
+      },
+      {
+        "id": "D",
+        "hi": "पंजाब में एक किसान आंदोलन",
+        "en": "a peasant movement in Punjab"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "1873 में ज्योतिबा फुले ने सत्यशोधक समाज की स्थापना की। इस समाज के द्वारा महाराष्ट्र में एक जाति विरोधी आंदोलन को प्रारंभ किया गया। इस आंदोलन को शाहूजी महाराज ने आगे बढ़ाया। सत्यशोधक समाज द्वारा मूर्तिपूजा, कर्मकाण्डों, पुजारियों के वर्चस्व, पुनर्जन्म और स्वर्ग के सिद्धांतों का विरोध किया गया। यह आंदोलन अपने मूल उद्देश्य और लक्ष्य में ही सामाजिक था। आधुनिकता के मूल चरित्र को आत्मसात करने का संभवतः यह प्रथम भारतीय अभियान था।",
+      "en": "Jyotiba Phule founded the Satyashodhak Samaj in 1873. An anti-caste movement was started in Maharashtra by this society. This movement was taken forward by Shahuji Maharaj. Idolatry, rituals, dominance of priests, theories of rebirth and heaven were opposed by the Satyashodhak Samaj. This movement was social in its basic objective and goal itself. It was probably the first Indian campaign to assimilate the basic character of modernity."
+    }
+  },
+  {
+    "id": 7,
+    "year": "2016",
+    "subject": "History",
+    "topic": "समाज एवं धर्म सुधार आंदोलन (Social and Religious Reform Movements)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कलकत्ता यूनिटेरियन कमिटी (Calcutta Unitarian Committee)",
+        "en": "Calcutta Unitarian Committee"
+      },
+      {
+        "id": 2,
+        "hi": "टेबरनेकल ऑफ न्यू डिस्पेंसेशन (Tabernacle of New Dispensation)",
+        "en": "Tabernacle of New Dispensation"
+      },
+      {
+        "id": 3,
+        "hi": "इंडियन रिफॉर्म एसोसिएशन (Indian Reform Association)",
+        "en": "Indian Reform Association"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पर विचार कीजिये:\nकेशवचन्द्र सेन का संबंध उपर्युक्त में से किसकी/किनकी स्थापना से है?",
+      "en": "Consider the following:\nKeshab Chandra Sen is associated with the establishment of which of the above?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "24 जनवरी, 1868 में केशवचन्द्र सेन ने टेबरनेकल ऑफ न्यू डिस्पेंसेशन की स्थापना की थी। 1870 में केशवचन्द्र सेन ने इंडियन रिफॉर्म एसोसिएशन की स्थापना की थी। 1823 ई. में राजा राममोहन राय, द्वारकानाथ टैगोर और विलियम एडम के द्वारा कलकत्ता यूनिटेरियन कमिटी की स्थापना की गई थी। अतः विकल्प (b) सही है।",
+      "en": "On January 24, 1868, Keshab Chandra Sen founded the Tabernacle of New Dispensation. In 1870, Keshab Chandra Sen founded the Indian Reform Association. In 1823 AD, the Calcutta Unitarian Committee was established by Raja Rammohan Roy, Dwarkanath Tagore and William Adam. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 8,
+    "year": "2012",
+    "subject": "History",
+    "topic": "समाज एवं धर्म सुधार आंदोलन (Social and Religious Reform Movements)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इसने मूर्ति पूजा का विरोध किया।",
+        "en": "It opposed idolatry."
+      },
+      {
+        "id": 2,
+        "hi": "धार्मिक ग्रंथों की व्याख्या के लिये इसने पुरोहित वर्ग को अस्वीकारा।",
+        "en": "It denied the need for a priestly class for interpreting the religious texts."
+      },
+      {
+        "id": 3,
+        "hi": "इसने इस सिद्धांत का प्रचार किया कि वेद त्रुटिहीन हैं।",
+        "en": "It popularized the doctrine that the Vedas are infallible."
+      }
+    ],
+    "question": {
+      "hi": "ब्रह्म समाज के बारे में निम्नलिखित में से कौन-सा/से कथन सही है/हैं?\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये:",
+      "en": "Which of the following statements is/are correct regarding Brahmo Samaj?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "1828 में राजा राम मोहन राय ने ब्रह्म समाज की स्थापना की। ब्रह्म समाज की स्थापना का उद्देश्य था-एकेश्वरवाद की उपासना, मूर्तिपूजा का विरोध, पुरोहितवाद का विरोध, अवतारवाद का खंडन आदि। ब्रह्म समाज ने धार्मिक ग्रंथ की व्याख्या के लिये मानव बुद्धि को आधार बनाया और इसी कारण इसने पुरोहित वर्ग के अस्तित्त्व को अस्वीकार किया। वेदों की त्रुटिहीनता को प्रचारित करने का श्रेय दयानंद सरस्वती के आर्य समाज को जाता है, न कि ब्रह्म समाज को। अतः विकल्प (b) सही है।",
+      "en": "In 1828, Raja Ram Mohan Roy founded the Brahmo Samaj. The purpose of establishing the Brahmo Samaj was the worship of monotheism, opposition to idol worship, opposition to priesthood, refutation of incarnation, etc. The Brahmo Samaj made human intelligence the basis for the interpretation of religious texts and for this reason it rejected the existence of the priestly class. The credit for propagating the infallibility of the Vedas goes to Dayanand Saraswati's Arya Samaj, not the Brahmo Samaj. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 9,
+    "year": "2020",
+    "subject": "History",
+    "topic": "आदिवासी/किसान एवं मजदूर आंदोलन (Tribal/Peasant and Labour Movements)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के इतिहास के संदर्भ में, \"उलगुलान\" अथवा महान उपद्रव निम्नलिखित में से किस घटना का विवरण था?",
+      "en": "With reference to the history of India, \"Ulgulan\" or the Great Tumult is the description of which of the following events?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1857 के विद्रोह का",
+        "en": "The Revolt of 1857"
+      },
+      {
+        "id": "B",
+        "hi": "1921 के मोपिला विद्रोह का",
+        "en": "The Mappila Rebellion of 1921"
+      },
+      {
+        "id": "C",
+        "hi": "1859–60 के नील विद्रोह का",
+        "en": "The Indigo Revolt of 1859-60"
+      },
+      {
+        "id": "D",
+        "hi": "1899–1900 के बिरसा मुंडा विद्रोह का",
+        "en": "Birsa Munda's Revolt of 1899-1900"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "बिरसा मुंडा ने उस विद्रोह का नेतृत्व किया जिसे उलगुलान (विद्रोह) या ब्रिटिश सरकार द्वारा लगाए गए सामंती एवं ज़मींदारी व्यवस्था के ख़िलाफ़ मुंडा विद्रोह के रूप में जाना जाता है। उलगुलान विद्रोह के एक कारण के रूप में साहूकारों एवं ठेकेदारों द्वारा किया गया शोषण भी उत्तरदायी था। अतः विकल्प (d) सही है।",
+      "en": "Birsa Munda led the rebellion which is known as Ulgulan (rebellion) or Munda rebellion against the feudal and zamindari system imposed by the British government. Exploitation by moneylenders and contractors was also responsible as one of the reasons for the Ulgulan rebellion. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 10,
+    "year": "2018",
+    "subject": "History",
+    "topic": "आदिवासी/किसान एवं मजदूर आंदोलन (Tribal/Peasant and Labour Movements)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा एक चम्पारण सत्याग्रह का अति महत्त्वपूर्ण पहलू है?",
+      "en": "Which one of the following is a very significant aspect of the Champaran Satyagraha?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "राष्ट्रीय आंदोलन में अखिल भारतीय स्तर पर अधिवक्ताओं, विद्यार्थियों और महिलाओं की सक्रिय सहभागिता",
+        "en": "Active all-India participation of lawyers, students and women in the National Movement"
+      },
+      {
+        "id": "B",
+        "hi": "राष्ट्रीय आंदोलन में भारत के दलित और आदिवासी समुदायों की सक्रिय भागीदारी",
+        "en": "Active involvement of Dalit and Tribal communities of India in the National Movement"
+      },
+      {
+        "id": "C",
+        "hi": "भारत के राष्ट्रीय आंदोलन में किसान असंतोष का सम्मिलित होना",
+        "en": "Joining of peasant unrest to India's National Movement"
+      },
+      {
+        "id": "D",
+        "hi": "रोपण फसलों तथा वाणिज्यिक फसलों की खेती में भारी गिरावट",
+        "en": "Drastic decrease in the cultivation of plantation crops and commercial crops"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "चंपारण आंदोलन 1917–18 में हुआ था। उस दौरान अंग्रेज़ किसानों से ज़बरदस्ती नील की खेती (कृषकों को अपनी ज़मीन के 3/20 वें भाग पर नील की खेती करना अनिवार्य-तिनकठिया व्यवस्था) कराते थे, जिस कारण उनमें भारी असंतोष था। इसकी परिणति यह हुई कि एक किसान राजकुमार शुक्ल ने महात्मा गांधी को चंपारण आने का न्यौता दिया। इसके बाद महात्मा गांधी नील की खेती के विरोध में राजेंद्र प्रसाद, अनुग्रह नारायण सिन्हा और ब्रजकिशोर प्रसाद के साथ चंपारण पहुँचे और अंग्रेज़ों के ख़िलाफ़ सत्याग्रह आंदोलन किया। इस आंदोलन के चलते अंग्रेज़ों को झुकना पड़ा। इस प्रकार यह भारत के राष्ट्रीय आंदोलन में किसान असंतोष के सम्मिलित होने का एक अति महत्वपूर्ण पहलू था। अतः विकल्प (c) सही है।",
+      "en": "The Champaran movement took place in 1917–18. During that time, the British forced the farmers to cultivate indigo (farmers were forced to cultivate indigo on 3/20th part of their land - Tinkathia system), due to which there was huge dissatisfaction among them. This culminated in a farmer Rajkumar Shukla inviting Mahatma Gandhi to come to Champaran. After this, Mahatma Gandhi reached Champaran along with Rajendra Prasad, Anugrah Narayan Sinha and Brajkishore Prasad in protest against indigo cultivation and launched a Satyagraha movement against the British. The British had to bow down due to this movement. Thus it was a very important aspect of the inclusion of peasant unrest in India's national movement. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 11,
+    "year": "2018",
+    "subject": "History",
+    "topic": "आदिवासी/किसान एवं मजदूर आंदोलन (Tribal/Peasant and Labour Movements)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन 1948 में स्थापित \"हिन्द मज़दूर सभा\" के संस्थापक थे?",
+      "en": "Who among the following were the founders of the \"Hind Mazdoor Sabha\" established in 1948?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "बी. कृष्ण पिल्लई, ई.एम.एस. नम्बूदिरीपाद और के.सी. जॉर्ज",
+        "en": "B. Krishna Pillai, E.M.S. Namboodiripad and K.C. George"
+      },
+      {
+        "id": "B",
+        "hi": "जयप्रकाश नारायण, दीन दयाल उपाध्याय और एम.एन.रॉय",
+        "en": "Jayaprakash Narayan, Deen Dayal Upadhyay and M.N. Roy"
+      },
+      {
+        "id": "C",
+        "hi": "सी.पी. रामास्वामी अय्यर, के. कामराज और वीरेशलिंगम पंतुलु",
+        "en": "C.P. Ramaswami Iyer, K. Kamaraj and Veeresalingam Pantulu"
+      },
+      {
+        "id": "D",
+        "hi": "अशोक मेहता, टी.एस. रामानुज और जी.जी. मेहता",
+        "en": "Ashok Mehta, T.S. Ramanujam and G.G. Mehta"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "अशोक मेहता, टी.एस. रामानुजम और जी.जी. मेहता 'हिन्द मज़दूर सभा' के संस्थापक सदस्यों में शामिल थे। अन्य संस्थापक सदस्य थे- बसावन सिंह, आर. एस. रुइकर, मनीबेन कारा, शिबनाथ बनर्जी, आर. ए. खेडकर, वी.एस. माथुर। अतः विकल्प (d) सही है।",
+      "en": "Ashok Mehta, T.S. Ramanujam and G.G. Mehta were among the founding members of 'Hind Mazdoor Sabha'. Other founding members were Basawon Singh, R.S. Ruikar, Maniben Kara, Shibnath Banerjee, R.A. Khedgikar, V.S. Mathur. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 12,
+    "year": "2018",
+    "subject": "History",
+    "topic": "आदिवासी/किसान एवं मजदूर आंदोलन (Tribal/Peasant and Labour Movements)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "'संथाल परगना' नामक राज्यक्षेत्रों का सृजन किया गया।",
+        "en": "The territories called 'Santhal Parganas' were created."
+      },
+      {
+        "id": 2,
+        "hi": "किसी संथाल का गैर-संथाल को भूमि अंतरण करना गैरकानूनी हो गया।",
+        "en": "It became illegal for a Santhal to transfer land to a non-Santhal."
+      }
+    ],
+    "question": {
+      "hi": "संथाल विद्रोह के शांत हो जाने के बाद, औपनिवेशिक शासन द्वारा कौन-सा/से उपाय किया गया/किये गए?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "After the Santhal Uprising subsided, what was/were the measure/measures taken by the colonial government?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "जनवरी 1856 तक संथाल परगना क्षेत्र में संथाल विद्रोह दबा दिया गया, लेकिन संथालों की वीरता और शौर्य को देखते हुए सरकार को प्रशासनिक परिवर्तनों की अनिवार्यता स्वीकार करनी पड़ी। संथाल विद्रोह के परिणामस्वरूप नवंबर 1856 में विधिवत 'संथाल परगना' ज़िला की स्थापना की गई और एशली एडेन को प्रथम ज़िलाधीश बनाया गया। अंग्रेज़ सरकार ने भूमि का स्वामित्त्व जनजातियों के लिये निर्धारित करते हुए उनके संरक्षण हेतु भूमि कानून 'संथाल परगना काश्तकारी अधिनियम' बनाया, जिसके तहत किसी संथाल का गैर-संथाल को भूमि अंतरण करना गैर-कानूनी हो गया। अतः कथन 1 और 2 दोनों सही हैं।",
+      "en": "By January 1856, the Santhal rebellion in the Santhal Pargana region was suppressed, but looking at the bravery and valor of the Santhals, the government had to accept the necessity of administrative changes. As a result of the Santhal rebellion, the 'Santhal Pargana' district was duly established in November 1856 and Ashley Eden was made the first District Magistrate. Determining the ownership of land for the tribes, the British government made the land law 'Santhal Pargana Tenancy Act' for their protection, under which it became illegal for a Santhal to transfer land to a non-Santhal. Hence, statements 1 and 2 are both correct."
+    }
+  },
+  {
+    "id": 13,
+    "year": "2017",
+    "subject": "History",
+    "topic": "आदिवासी/किसान एवं मजदूर आंदोलन (Tribal/Peasant and Labour Movements)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "1929 का व्यापार विवाद अधिनियम (ट्रेड डिस्प्यूट्स ऐक्ट) निम्नलिखित में से किसका उपबंध करता है?",
+      "en": "The Trade Disputes Act of 1929 provided for"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "उद्योगों के प्रबंधन में कामगारों की भागीदारी",
+        "en": "the participation of workers in the management of industries"
+      },
+      {
+        "id": "B",
+        "hi": "औद्योगिक झगड़ों के दमन के लिये प्रबंधन के पास मनमानी करने की शक्ति",
+        "en": "arbitrary powers to the management to quell industrial disputes"
+      },
+      {
+        "id": "C",
+        "hi": "व्यापार विवाद की स्थिति में ब्रिटिश न्यायालय द्वारा हस्तक्षेप",
+        "en": "an intervention by the British Court in the event of a trade dispute"
+      },
+      {
+        "id": "D",
+        "hi": "अधिकरणों (ट्रिब्यूनल्स) की प्रणाली तथा हड़तालों पर रोक",
+        "en": "a system of tribunals and a ban on strikes"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "1920 के दशक में देश में बढ़ती हुई समाजवादी गतिविधियों से चिंतित होकर सरकार ने 1929 में ट्रेड डिस्प्यूट्स बिल सदन में पेश किया जिसके द्वारा कारखानों में ट्रिब्यूनल्स प्रणाली एवं हड़तालों पर रोक लगा दी गई थी। अतः विकल्प (d) सही है।",
+      "en": "Concerned by the growing socialist activities in the country in the 1920s, the government introduced the Trade Disputes Bill in the House in 1929, through which the tribunals system in factories and strikes were banned. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 14,
+    "year": "2016",
+    "subject": "History",
+    "topic": "आदिवासी/किसान एवं मजदूर आंदोलन (Tribal/Peasant and Labour Movements)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "फैक्टरी ऐक्ट, 1881 औद्योगिक कामगारों की मज़दूरी नियत करने के लिये और कामगारों को मज़दूर संघ बनाने देने की दृष्टि से पारित किया गया था।",
+        "en": "The Factories Act, 1881 was passed with a view to fix the wages of industrial workers and to allow the workers to form trade unions."
+      },
+      {
+        "id": 2,
+        "hi": "एन.एम. लोखंडे ब्रिटिश भारत में मज़दूर आंदोलन संगठित करने में अग्रगामी थे।",
+        "en": "N.M. Lokhande was a pioneer in organizing the labour movement in British India."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "फैक्टरी एक्ट, 1881 में औद्योगिक कामगारों को मज़दूर संघ बनाने की अनुमति नहीं प्रदान की गई थी। एन.एम. लोखंडे ब्रिटिश भारत में मज़दूर आंदोलन से जुड़े अग्रणी नेता थे। अतः केवल कथन 2 सत्य है।",
+      "en": "The Factories Act, 1881 did not allow industrial workers to form trade unions. N.M. Lokhande was a pioneer leader associated with the labour movement in British India. Therefore, only statement 2 is true."
+    }
+  },
+  {
+    "id": 15,
+    "year": "2013",
+    "subject": "History",
+    "topic": "आदिवासी/किसान एवं मजदूर आंदोलन (Tribal/Peasant and Labour Movements)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "बंगाल के तेभागा किसान आंदोलन की क्या मांग थी?",
+      "en": "The demand for the Tebhaga Peasant Movement in Bengal was for:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ज़मींदारों की हिस्सेदारी को फसल के आधे भाग से कम करके एक-तिहाई करना",
+        "en": "the reduction of the share of the landlords from one-half of the crop to one-third"
+      },
+      {
+        "id": "B",
+        "hi": "भूमि का वास्तविक खेतिहर होने के नाते, भू-स्वामित्त्व कृषकों को प्रदान करना",
+        "en": "the grant of ownership of land to peasants as they were the actual cultivators of the land"
+      },
+      {
+        "id": "C",
+        "hi": "ज़मींदारी प्रथा का उन्मूलन तथा कृषि दासता का अंत",
+        "en": "the uprooting of Zamindari system and the end of serfdom"
+      },
+      {
+        "id": "D",
+        "hi": "कृषकों के समस्त ऋणों को रद्द करना",
+        "en": "writing off all peasant debts"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "ज़मींदारों की हिस्सेदारी को फसल के आधे भाग से कम करके एक तिहाई करना इस आन्दोलन का प्रमुख उद्देश्य था। बंगाल केंद्रित यह आंदोलन 1946-50 ई. की अवधि में हुआ। इस आंदोलन के प्रमुख नेता कृष्णविनोद राय, अवनी लाहिड़ी, सुनील सेन आदि थे। नोआखली इस समय भी भीषण साम्प्रदायिक दंगों में झुलस रहा था परंतु इस आंदोलन में हिन्दू एवं मुस्लिम किसानों ने एकता का प्रदर्शन किया। इस आंदोलन में बँटाईदार किसानों ने ऐलान किया कि वे फसल का 2/3 हिस्सा लेंगे और ज़मींदारों को सिर्फ 1/3 हिस्सा ही देंगे। बँटवारे के इसी अनुपात के कारण इसे तेभागा आंदोलन कहते हैं। अतः विकल्प (a) सही है।",
+      "en": "The main objective of this movement was to reduce the share of the landlords from half of the crop to one-third. This Bengal-centric movement took place in the period 1946-50 AD. The main leaders of this movement were Krishna Binod Ray, Abani Lahiri, Sunil Sen etc. Noakhali was burning in fierce communal riots at this time, but Hindu and Muslim farmers showed unity in this movement. In this movement, the sharecroppers announced that they would take 2/3 share of the crop and give only 1/3 share to the landlords. Due to this proportion of division, it is called Tebhaga movement. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 16,
+    "year": "2011",
+    "subject": "History",
+    "topic": "आदिवासी/किसान एवं मजदूर आंदोलन (Tribal/Peasant and Labour Movements)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत में 19वीं शताब्दी के जनजातीय विद्रोह के लिये निम्नलिखित में से कौन-से तत्त्व ने साझा कारण मुहैय्या किया?",
+      "en": "Which of the following provided a common factor for tribal insurrection in India in the 19th century?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भू-राजस्व की नई प्रणाली का लागू होना और जनजातीय उत्पादों पर कर का लगाया जाना",
+        "en": "Introduction of a new system of land revenue and taxation of tribal products"
+      },
+      {
+        "id": "B",
+        "hi": "जनजातीय क्षेत्रों में विदेशी धर्म प्रचारकों का प्रभाव",
+        "en": "Influence of foreign religious missionaries in tribal areas"
+      },
+      {
+        "id": "C",
+        "hi": "जनजातीय क्षेत्रों में बिचौलियों के रूप में बड़ी संख्या में महाजनों, व्यापारियों और लगान के ठेकेदारों का बढ़ना",
+        "en": "Rise of a large number of moneylenders, traders and revenue farmers as middlemen in tribal areas"
+      },
+      {
+        "id": "D",
+        "hi": "जनजातीय समुदायों की प्राचीन भूमि संबंधी व्यवस्था का संपूर्ण विदारण (Disruption)",
+        "en": "The complete disruption of the old agrarian order of the tribal communities"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "जनजातीय भूमि व्यवस्था के प्राचीन संबंधों का संपूर्ण विदारण ही वह साझा कारण था जिसने 19वीं शताब्दी में जनजातीय विद्रोह को मुखर किया। खासी विद्रोह (1829–33), कोल विद्रोह (1831–32), खोंड विद्रोह (1837–56), संथाल विद्रोह (1855–56), मुंडा विद्रोह (1899–1900) आदि जनजातीय विद्रोहों के कुछ प्रमुख उदाहरण हैं। इन विद्रोहों के निम्न कारक माने जा सकते हैं-\n- आदिवासियों का वन पर परंपरागत अधिकार था परंतु सरकार ने वन नीति के तहत उसे सरकारी संपत्ति घोषित किया और आदिवासियों को वन सामग्री के उपयोग की आज़ादी न रही।\n- 1793 के स्थायी बंदोबस्त से संथालों को अपनी परम्परागत ज़मीन से हाथ धोना पड़ा।\n- आबकारी कर, नमक कर जैसे करों की वसूली भी विद्रोह का कारण बनी।\n- अंग्रेज़ों ने आदिवासी इलाकों में पुलिस थाने, सैनिक छावनियाँ व कंपनी कानून लागू किये। नई व्यवस्था की शोषणवादी प्रवृत्ति से आदिवासी त्रस्त हो गए।\n- ईसाई धर्म प्रचारकों ने उनकी संस्कृति पर प्रहार किया। फलस्वरूप उनमें असंतोष पैदा हुआ।\nउपरोक्त कारण विभिन्न क्षेत्रों में उपस्थित थे परंतु साझा कारकों के रूप में मुख्यतः जनजातियों की प्राचीन भूमि व्यवस्था पर ब्रिटिश सरकार द्वारा कुठाराघात करना था। अतः विकल्प (d) सही है।",
+      "en": "The complete disruption of the ancient relations of the tribal land system was the common factor that sparked tribal rebellions in the 19th century. Khasi rebellion (1829–33), Kol rebellion (1831–32), Khond rebellion (1837–56), Santhal rebellion (1855–56), Munda rebellion (1899–1900) etc. are some prominent examples of tribal rebellions. The following factors can be considered for these rebellions:\n- Tribals had traditional rights over the forest but the government declared it government property under the forest policy and tribals no longer had the freedom to use forest materials.\n- Due to the Permanent Settlement of 1793, the Santhals had to lose their traditional land.\n- Collection of taxes like excise tax, salt tax also became the cause of rebellion.\n- The British established police stations, military cantonments and company laws in tribal areas. Tribals got frustrated with the exploitative tendency of the new system.\n- Christian missionaries attacked their culture. Consequently dissatisfaction arose among them.\nThe above reasons were present in different areas but the common factor was mainly the attack on the ancient land system of the tribes by the British government. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 17,
+    "year": "2020",
+    "subject": "History",
+    "topic": "ब्रिटिश शासन का आर्थिक प्रभाव (Economic Impact of British Rule)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से किस कारण से भारत में बीसवीं शताब्दी के आरंभ में नील की खेती का ह्रास हुआ?",
+      "en": "Which of the following is the reason for the decline of indigo cultivation in India in the beginning of the 20th century?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "नील के उत्पादकों के अत्याचारी आचरण के प्रति काश्तकारों का विरोध",
+        "en": "Peasant resistance to the oppressive conduct of planters"
+      },
+      {
+        "id": "B",
+        "hi": "नई खोजों के कारण विश्व बाज़ार में इसका अलाभकर होना",
+        "en": "Its unprofitability in the world market because of new inventions"
+      },
+      {
+        "id": "C",
+        "hi": "नील की खेती का राष्ट्रीय नेताओं द्वारा विरोध किया जाना",
+        "en": "National leaders' opposition to the cultivation of indigo"
+      },
+      {
+        "id": "D",
+        "hi": "उत्पादकों के ऊपर सरकार का नियंत्रण",
+        "en": "Government control over the planters"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "उन्नीसवीं सदी के अंत के आने तक तथा 20वीं सदी की शुरुआत में नील के निर्यात में बहुत कमी देखी गयी। एक आँकड़े के मुताबिक 1895-96 में जहाँ भारत से नील का निर्यात लगभग 9300 टन था वो 1910-11 में घटकर 846 टन हो गया। नील के निर्यात में आई इस कमी का प्रमुख कारण जर्मनी द्वारा विकसित एक केमिकल निर्मित डाई थी जिसने नील डाई की यूरोप में मांग को लगभग समाप्तप्राय कर दिया। अतः विकल्प (b) सही है।",
+      "en": "By the end of the nineteenth century and in the beginning of the 20th century, a huge decline in the export of indigo was seen. According to data, where the export of indigo from India was about 9300 tons in 1895-96, it decreased to 846 tons in 1910-11. The main reason for this decline in indigo export was a chemical dye developed by Germany which almost eliminated the demand for indigo dye in Europe. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 18,
+    "year": "2020",
+    "subject": "History",
+    "topic": "ब्रिटिश शासन का आर्थिक प्रभाव (Economic Impact of British Rule)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा कथन औद्योगिक क्रांति के द्वारा 19वीं शताब्दी के पूर्वार्द्ध में भारत पर पड़े प्रभाव की सही व्याख्या करता है?",
+      "en": "Which of the following statements correctly explains the impact of Industrial Revolution on India during the first half of the nineteenth century?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भारतीय दस्तकारी उद्योग नष्ट हो गए थे।",
+        "en": "Indian handicraft industries were ruined."
+      },
+      {
+        "id": "B",
+        "hi": "भारत के वस्त्र उद्योग में मशीनों का बड़ी संख्या में प्रवेश हुआ था।",
+        "en": "Machines were introduced in the Indian textile industry in large numbers."
+      },
+      {
+        "id": "C",
+        "hi": "देश के अनेक भागों में रेलवे लाइनें बिछाई गई थीं।",
+        "en": "Railway lines were laid in many parts of the country."
+      },
+      {
+        "id": "D",
+        "hi": "ब्रिटिश उत्पादन के आयात पर भारी शुल्क लगाया गया था।",
+        "en": "Heavy duties were imposed on the imports of British manufactures."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "ब्रिटेन में औद्योगिक क्रांति के क्रम में बड़े पैमाने पर वस्तुओं का उत्पादन होने लगा जिसे कम आयात शुल्क पर भारत में आयात किया जाने लगा। इसी समय 1813 के एक्ट द्वारा मुक्त व्यापार की नीति को लागू कर इसे और बल प्रदान किया गया। परिणामस्वरूप 19वीं सदी के पूर्वार्द्ध में भारतीय हस्तशिल्प का पतन हो गया। अतः विकल्प (a) सही है। यद्यपि भारत में रेलवे लाइनों का निर्माण भी औद्योगिक क्रांति का ही परिणाम है किंतु ये 19वीं सदी के उत्तरार्द्ध में देखने को मिले। अतः विकल्प (b) और (c) गलत है। औद्योगिक क्रांति के उपरांत ब्रिटेन में उत्पादित वस्तुओं को भारतीय बाज़ार में अधिकाधिक मात्रा में सस्ते दामों पर उपलब्ध कराया गया। इसके लिये भारत की ब्रिटिश सरकार द्वारा इसके आयात पर लगे शुल्क को भी कम कर दिया गया। अतः विकल्प (d) गलत है।",
+      "en": "In the course of the Industrial Revolution in Britain, goods were produced on a large scale which began to be imported into India at low import duties. At the same time, the policy of free trade was implemented by the Act of 1813, which gave it further strength. As a result, Indian handicrafts declined in the first half of the 19th century. Hence, option (a) is correct. Although the construction of railway lines in India is also a result of the Industrial Revolution, they were seen in the later half of the 19th century. Hence options (b) and (c) are incorrect. After the Industrial Revolution, goods produced in Britain were made available in the Indian market in increasing quantities at cheap prices. For this, the duty levied on its import was also reduced by the British government of India. Hence option (d) is incorrect."
+    }
+  },
+  {
+    "id": 19,
+    "year": "2018",
+    "subject": "History",
+    "topic": "ब्रिटिश शासन का आर्थिक प्रभाव (Economic Impact of British Rule)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "आर्थिक तौर पर 19वीं शताब्दी में भारत पर अंग्रेज़ी शासन का एक परिणाम था-",
+      "en": "Economically, one of the results of the British rule in India in the 19th century was the"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भारतीय हस्त-शिल्पों के निर्यात में वृद्धि",
+        "en": "increase in the export of Indian handicrafts"
+      },
+      {
+        "id": "B",
+        "hi": "भारतीयों के स्वामित्त्व वाले कारखानों की संख्या में वृद्धि",
+        "en": "growth in the number of Indian owned factories"
+      },
+      {
+        "id": "C",
+        "hi": "भारतीय कृषि का वाणिज्यीकरण",
+        "en": "commercialization of Indian agriculture"
+      },
+      {
+        "id": "D",
+        "hi": "नगरीय जनसंख्या में तीव्र वृद्धि",
+        "en": "rapid increase in the urban population"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कृषि का वाणिज्यीकरण एक ऐसी प्रक्रिया है, जिसके अंतर्गत खाद्यान्न फसलों के स्थान पर बाज़ार आधारित फसलों का उत्पादन किया जाता है, जैसे- कपास, तंबाकू आदि। एडम स्मिथ के अनुसार, वाणिज्यीकरण उत्पादन को प्रोत्साहन देता है, परिणामस्वरूप समाज में समृद्धि आती है, किंतु औपनिवेशिक शासन के अंतर्गत लाए गए वाणिज्यीकरण ने जहाँ ब्रिटेन को समृद्ध बनाया, वहीं भारत के संदर्भ में इसका प्रतिकूल असर हुआ। ब्रिटेन में औद्योगिक क्रांति प्रारंभ हो गई थी और ब्रिटिश उद्योगों के लिये बड़ी मात्रा में कच्चे माल की ज़रूरत थी। सर्वविदित है कि औद्योगीकरण के लिये एक सशक्त कृषि आधार का होना ज़रूरी है। ब्रिटेन में यह आधार कमज़ोर होने के कारण वहाँ होने वाले औद्योगीकरण के लिये भारतीय कृषि अर्थव्यवस्था का व्यापक दोहन किया गया। औपनिवेशिक सरकार ने भारत में उन्हीं वाणिज्यिक फसलों को बढ़ावा दिया, जिनकी उन्हें ज़रूरत थी। उदाहरणस्वरूप, कैरेबियाई देशों से नील के आयात की निर्भरता को समाप्त करने के लिये उन्होंने भारत में नील की खेती को बढ़ावा दिया। इसी प्रकार, चीन को निर्यात करने के लिये भारत में अफीम के उत्पादन पर ज़ोर दिया गया। इसी तरह, इटैलियन रेशम पर अपनी निर्भरता कम करने के लिये बंगाल में मलबरी रेशम के उत्पादन पर बल दिया गया। औपनिवेशिक शासन के अंतर्गत लाई गई इस व्यवस्था ने भारत में अकाल और भुखमरी की बारंबारता बढ़ा दी। निष्कर्ष रूप में अगर कहा जाए तो कृषि के वाणिज्यीकरण से गाँवों में ऋणग्रस्तता बढ़ी, अकाल पड़े और दक्कन में कृषक दंगे हुए। इस प्रकार, वाणिज्यीकरण से कृषि को कोई लाभ नहीं हुआ। अतः विकल्प (c) सही है।",
+      "en": "Commercialization of agriculture is a process under which market-oriented crops are produced instead of food crops, such as cotton, tobacco etc. According to Adam Smith, commercialization encourages production, resulting in prosperity in society, but the commercialization brought under colonial rule made Britain prosperous while it had an adverse effect in the context of India. The Industrial Revolution had started in Britain and British industries needed a large amount of raw materials. It is well known that a strong agricultural base is necessary for industrialization. Due to this base being weak in Britain, the Indian agricultural economy was extensively exploited for the industrialization taking place there. The colonial government promoted only those commercial crops in India which they needed. For example, to end the dependence on importing indigo from the Caribbean countries, they promoted indigo cultivation in India. Similarly, emphasis was laid on the production of opium in India for export to China. Similarly, to reduce its dependence on Italian silk, emphasis was laid on the production of mulberry silk in Bengal. This system brought under the colonial rule increased the frequency of famines and starvation in India. In conclusion, if it is said, commercialization of agriculture increased indebtedness in villages, famines occurred and peasant riots broke out in the Deccan. Thus, commercialization did not benefit agriculture in any way. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 20,
+    "year": "2017",
+    "subject": "History",
+    "topic": "ब्रिटिश शासन का आर्थिक प्रभाव (Economic Impact of British Rule)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "लॉर्ड कॉर्नवॉलिस",
+        "en": "Lord Cornwallis"
+      },
+      {
+        "id": 2,
+        "hi": "एलेक्ज़ेंडर रीड",
+        "en": "Alexander Read"
+      },
+      {
+        "id": 3,
+        "hi": "थॉमस मुनरो",
+        "en": "Thomas Munro"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन, ब्रिटिश शासन के दौरान भारत में रैय्यतवाड़ी बंदोबस्त के प्रारंभ किये जाने से संबद्ध था/थे?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Who among the following was/were associated with the introduction of Ryotwari Settlement in India during the British rule?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "मद्रास प्रेसीडेंसी में सबसे पहले थॉमस मुनरो और कप्तान रीड द्वारा रैय्यतवाड़ी प्रणाली को शुरू किया गया था। बाद में इसे बंबई, बंगाल के कुछ हिस्सों, असम, कुर्ग आदि तक बढ़ा दिया गया था, जबकि लॉर्ड कॉर्नवॉलिस द्वारा स्थायी बंदोबस्त प्रणाली को शुरू किया गया था। अतः विकल्प (c) सही है।",
+      "en": "The Ryotwari system was first introduced in the Madras Presidency by Thomas Munro and Captain Read. Later it was extended to Bombay, parts of Bengal, Assam, Coorg etc., whereas the Permanent Settlement system was introduced by Lord Cornwallis. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 21,
+    "year": "2015",
+    "subject": "History",
+    "topic": "ब्रिटिश शासन का आर्थिक प्रभाव (Economic Impact of British Rule)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "दादाभाई नौरोजी",
+        "en": "Dadabhai Naoroji"
+      },
+      {
+        "id": 2,
+        "hi": "जी. सुब्रह्मण्यम अय्यर",
+        "en": "G. Subramania Iyer"
+      },
+      {
+        "id": 3,
+        "hi": "आर.सी. दत्त",
+        "en": "R. C. Dutt"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन भारत में उपनिवेशवाद का/के आर्थिक आलोचक था/थे?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Who of the following was/were economic critic/critics of colonialism in India?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "C",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "भारत में उपनिवेशवाद के प्रमुख आर्थिक आलोचकों में दादाभाई नौरोजी, जी. सुब्रह्मण्यम अय्यर और आर.सी. दत्त तीनों शामिल रहे हैं। अतः विकल्प (d) सही है जिसकी विस्तृत चर्चा निम्न है-\n- दादाभाई नौरोजी ने अपने निबंधात्मक लेखों, जैसे 'पॉवर्टी एंड अनब्रिटिश रूल इन इंडिया', 'द वांट्स एंड मीन्स ऑफ इंडिया', 'ऑन दी कॉमर्स ऑफ इंडिया' द्वारा धन के निष्कासन सिद्धांत की व्याख्या की।\n- नौरोजी ने कहा कि धन का निकास ब्रिटिश उपनिवेशवाद के शोषण का एक उपकरण तथा भारतीय निर्धनता का प्रमुख कारण है।\n- प्रसिद्ध अर्थशास्त्री व राष्ट्रवादी रमेश चंद्र दत्त ने अपनी पुस्तक 'इकोनॉमिक हिस्ट्री ऑफ इंडिया' में धन बहिर्गमन सिद्धांत का उल्लेख किया। उनके अनुसार भारत के सकल राजस्व का लगभग आधा हिस्सा बाहर चला जाता था।\n- दत्त ने धन के बहिर्गमन को 'बहते हुए घाव' की तरह बताया।\n- जी. सुब्रह्मण्यम अय्यर ने अपने लेखों से आर्थिक नीतियों की आलोचना के साथ-साथ ब्रिटिश साम्राज्यवाद का विरोध किया।",
+      "en": "Among the prominent economic critics of colonialism in India were Dadabhai Naoroji, G. Subramania Iyer and R.C. Dutt. Therefore, option (d) is correct, the detailed discussion of which is as follows:\n- Dadabhai Naoroji explained the theory of drain of wealth through his essay articles, such as 'Poverty and Un-British Rule in India', 'The Wants and Means of India', 'On the Commerce of India'.\n- Naoroji said that the drain of wealth is a tool of exploitation of British colonialism and the main cause of Indian poverty.\n- Famous economist and nationalist Ramesh Chandra Dutt mentioned the drain of wealth theory in his book 'Economic History of India'. According to him, about half of the gross revenue of India went out.\n- Dutt described the drain of wealth as a 'bleeding wound'.\n- G. Subramania Iyer opposed British imperialism along with criticizing economic policies through his articles."
+    }
+  },
+  {
+    "id": 22,
+    "year": "2012",
+    "subject": "History",
+    "topic": "ब्रिटिश शासन का आर्थिक प्रभाव (Economic Impact of British Rule)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "मृदा के स्वरूप तथा उपज के गुणों के आधार पर भूमि राजस्व का मूल्यांकन",
+        "en": "Assessment of land revenue on the basis of nature of the soil and the quality of crops"
+      },
+      {
+        "id": 2,
+        "hi": "युद्ध में चलती-फिरती तोपों का उपयोग",
+        "en": "Use of mobile cannons in warfare"
+      },
+      {
+        "id": 3,
+        "hi": "तंबाकू और लाल मिर्च की खेती",
+        "en": "Cultivation of tobacco and red chillies"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पर विचार कीजिये:\nउपर्युक्त में से कौन-सा/से अंग्रेज़ों की भारत को देन थी/थीं?",
+      "en": "Consider the following:\nWhich of the above was/were introduced into India by the English?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "C",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None of them"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "उपरोक्त में से कोई भी कथन सही नहीं है क्योंकि इनमें से कोई भी अंग्रेज़ों की भारत को देन नहीं है। ये सब अंग्रेज़ों के आगमन से पूर्व ही भारत में प्रचलित थे। मृदा के स्वरूप तथा उपज के गुणों के आधार पर भूमि राजस्व का मूल्यांकन मध्य युग की देन है। अंग्रेज़ों से पूर्व ही शेरशाह सूरी व अकबर ने भूमि की गुणवत्ता के आधार पर भूमि का विभाजन किया तथा उपज के आधार पर भू-राजस्व का निर्धारण किया। युद्ध में चलती-फिरती तोपों का उपयोग अंग्रेज़ों से पूर्व ही मुगल काल में होने लगा था। बाबर के द्वारा पानीपत का युद्ध जीतने के पीछे एक बड़ा कारण उसका तोपखाना पद्धति था। बाबर ने उज्बेकों की युद्ध नीति 'तुलगुमा युद्ध पद्धति' तथा तोपों को सजाने में 'उस्मानी विधि' (रूमी विधि) का प्रयोग किया। अकबर के आयुध निर्माण कारखाने में तमाम प्रकार की बड़ी-छोटी तोपें तैयार की जाती थीं। भारत में तम्बाकू व लाल मिर्च की खेती पुर्तगालियों की देन थी। पुर्तगालियों ने ही भारत में प्रिंटिंग प्रेस की शुरुआत भी की। अतः विकल्प (d) सही है।",
+      "en": "None of the above statements is correct because none of these is a contribution of the British to India. All these were prevalent in India even before the arrival of the British. Evaluation of land revenue on the basis of the nature of the soil and the quality of the crop is a contribution of the Middle Ages. Even before the British, Sher Shah Suri and Akbar divided the land on the basis of the quality of the land and determined the land revenue on the basis of the yield. The use of mobile cannons in war had started in the Mughal period even before the British. A big reason behind Babur winning the Battle of Panipat was his artillery system. Babur used the Uzbeks' war policy 'Tulughma war method' and 'Osmani method' (Rumi method) to arrange the cannons. All kinds of large and small cannons were manufactured in Akbar's ordnance factory. Cultivation of tobacco and red chilli in India was a contribution of the Portuguese. The Portuguese also started the printing press in India. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 23,
+    "year": "2012",
+    "subject": "History",
+    "topic": "ब्रिटिश शासन का आर्थिक प्रभाव (Economic Impact of British Rule)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "किसानों द्वारा लगान सीधे सरकार को दिया जाता था।",
+        "en": "The rent was paid directly by the peasants to the Government."
+      },
+      {
+        "id": 2,
+        "hi": "सरकार रैयत को पट्टे देती थी।",
+        "en": "The Government gave Pattas to the Ryots."
+      },
+      {
+        "id": 3,
+        "hi": "कर लगाने के पूर्व भूमि का सर्वेक्षण और मूल्य निर्धारण किया जाता था।",
+        "en": "The lands were surveyed and assessed before being taxed."
+      }
+    ],
+    "question": {
+      "hi": "रैयतवाड़ी बंदोबस्त के संदर्भ में निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "With reference to Ryotwari Settlement, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None of them"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "रैयतवाड़ी बंदोबस्त के संदर्भ में दिये गए तीनों कथन सही हैं। अंग्रेज़ों द्वारा भारत में भू-राजस्व वसूली हेतु लागू की गई इस व्यवस्था का जन्मदाता थॉमस मुनरो व कैप्टन रीड को माना जाता है। यह व्यवस्था ब्रिटिश भारत के 51% क्षेत्र पर लागू की गई जिसमें मद्रास, बंबई के कुछ हिस्से, पूर्वी बंगाल, असम व कुर्ग आदि क्षेत्र शामिल थे। इसके तहत रैयतों को भूमि का मालिकाना और कब्जेदार अधिकार दिया गया था जिसके द्वारा ये प्रत्यक्ष रूप से सीधे या व्यक्तिगत रूप से सरकार को भू-राजस्व का भुगतान करने के लिये उत्तरदायी थे। यह स्थायी नहीं था। प्रत्येक 30 वर्षों में लगान का पुनर्निर्धारण किया जाता था। इस व्यवस्था के अंतर्गत भूमि की उत्पादन क्षमता के आधार पर सर्वेक्षण कर भू-राजस्व का निर्धारण किया गया और कृषकों को यह छूट दी गई कि वह जिस प्रकार की भूमि का चयन करते हैं उसी आधार पर भू-राजस्व चुकाना होगा। हालाँकि, 1820 के बाद इस व्यवस्था में परिवर्तन आने लगा और कृषकों को उनकी इच्छा के विरुद्ध ज़बरन भूमि जोतने को बाध्य किया गया। अतः विकल्प (c) सही है।",
+      "en": "All the three statements given in the context of Ryotwari Settlement are correct. Thomas Munro and Captain Read are considered to be the originators of this system implemented by the British to collect land revenue in India. This system was implemented on 51% of the area of British India, which included Madras, parts of Bombay, East Bengal, Assam and Coorg etc. Under this, the ryots were given ownership and occupancy rights over the land through which they were directly or individually responsible to pay land revenue to the government. This was not permanent. The rent was reassessed every 30 years. Under this system, the land revenue was determined by surveying on the basis of the production capacity of the land and the farmers were given the concession that they would have to pay land revenue on the basis of the type of land they selected. However, after 1820, this system began to change and the farmers were forced to cultivate the land against their will. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 24,
+    "year": "2011",
+    "subject": "History",
+    "topic": "ब्रिटिश शासन का आर्थिक प्रभाव (Economic Impact of British Rule)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "1793 में लॉर्ड कॉर्नवालिस की भू-व्यवस्था प्रणाली लागू होने के बाद कानूनी विवादों की प्रवृत्ति में बढ़ोतरी देखी गई थी। निम्नलिखित प्रावधानों में से किस एक को सामान्यतया इसके कारक के रूप में जोड़कर देखा जाता है?",
+      "en": "The tendency for increased litigation was visible after the introduction of the land settlement system of Lord Cornwallis in 1793. The reason for this is normally traced to which of the following provisions?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "रैयत की तुलना में ज़मींदार की स्थिति को अधिक सशक्त बनाना",
+        "en": "Making Zamindar's position stronger vis-a-vis the ryot"
+      },
+      {
+        "id": "B",
+        "hi": "ईस्ट इंडिया कंपनी को ज़मींदारों का अधिपति बनाना",
+        "en": "Making East India Company an overlord of Zamindars"
+      },
+      {
+        "id": "C",
+        "hi": "न्यायिक पद्धति को अधिक कार्यकुशल बनाना",
+        "en": "Making judicial system more efficient"
+      },
+      {
+        "id": "D",
+        "hi": "उपर्युक्त (a), (b) तथा (c) कथनों में से कोई भी सही नहीं है",
+        "en": "None of the (a), (b) and (c) given above is correct"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "1793 में लॉर्ड कॉर्नवालिस ने स्थायी बंदोबस्त (ज़मींदारी व्यवस्था) प्रारंभ किया। इसके तहत निम्न प्रावधान किये गए-\n- ज़मींदारों को भू-स्वामी बना दिया गया। उस समय तक उन्हें उनकी भूमि से पृथक् नहीं किया जा सकता था, जब तक कि वे अपना निश्चित लगान सरकार को देते रहें।\n- राजस्व के कर का विभाजन स्पष्टतः सरकारों और ज़मींदारों के बीच किया गया। सरकार के लिये राजस्व का 10/11 तथा ज़मींदारों के लिये 1/11 निश्चित किया गया।\n- भू-राजस्व को स्थायी बना दिया गया।\n- यह व्यवस्था बंगाल, बिहार, उड़ीसा, बनारस में लागू की गई जो कुल क्षेत्र का 19% थी।\n- कृषकों की स्थिति किरायेदार के रूप में स्वीकार की गई। भूमि पर उनका किसी प्रकार का अधिकार नहीं था। परंपरागत कृषि संबंधी अधिकार, जैसे- चरागाह, वन आदि समाप्त हो गए।\nइस व्यवस्था में निम्न वजह से कानूनी विवादों की प्रकृति में बढ़ोतरी देखी गई-\n- ज़मींदारी का क्षेत्र पूर्णतः निर्धारित न होना।\n- ज़मींदारों व कृषकों के बीच अनेक मध्यस्थ होने के कारण भी विवाद बढ़े।\n- भूमि को बिक्री योग्य बना देने के कारण भी विवाद बढ़े।\nअतः स्पष्ट है कि उपर्युक्त कथनों में से कोई भी कथन सही नहीं है। विकल्प (d) सही है।",
+      "en": "In 1793, Lord Cornwallis started the Permanent Settlement (Zamindari System). Under this, the following provisions were made-\n- Zamindars were made land owners. Till that time they could not be separated from their land, as long as they continued paying their fixed rent to the government.\n- The division of revenue tax was clearly done between governments and zamindars. 10/11 of the revenue for the government and 1/11 for the zamindars was fixed.\n- Land revenue was made permanent.\n- This system was implemented in Bengal, Bihar, Orissa, Banaras which was 19% of the total area.\n- The status of farmers was accepted as tenants. They had no rights whatsoever on the land. Traditional agricultural rights, like- pastures, forests etc. ended.\nAn increase in the nature of legal disputes was seen in this system due to the following reasons-\n- The area of zamindari not being fully determined.\n- Disputes also increased due to the presence of many intermediaries between zamindars and farmers.\n- Disputes also increased due to making land saleable.\nThus, it is clear that none of the above statements is correct. Option (d) is correct."
+    }
+  },
+  {
+    "id": 25,
+    "year": "2011",
+    "subject": "History",
+    "topic": "ब्रिटिश शासन का आर्थिक प्रभाव (Economic Impact of British Rule)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "लंदन में इंडिया ऑफिस के भरण-पोषण के लिये प्रयोग में लाई जाने वाली निधि",
+        "en": "Funds used to support the India Office in London"
+      },
+      {
+        "id": 2,
+        "hi": "भारत में कार्यरत अंग्रेज़ कर्मचारियों के वेतन तथा पेंशन देने हेतु प्रयोग में लाई जाने वाली निधि",
+        "en": "Funds used to pay salaries and pensions of British personnel engaged in India"
+      },
+      {
+        "id": 3,
+        "hi": "भारत के बाहर हुए युद्धों को लड़ने में अंग्रेज़ों द्वारा प्रयोग में लाई जाने वाली निधि",
+        "en": "Funds used for waging wars outside India by the British"
+      }
+    ],
+    "question": {
+      "hi": "भारत में उपनिवेशी शासनकाल में 'होम चार्जेज़' भारत से संपत्ति दोहन के महत्त्वपूर्ण अंग थे। निम्नलिखित में से कौन-सी निधि/निधियाँ 'होम चार्जेज़' की संघटक थी/थीं?\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये:",
+      "en": "During the colonial period in India, what was known as the 'Home Charges' formed an important part of the drain of wealth from India. Which of the following funds constituted 'Home Charges'?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "इंग्लैंड में नियुक्त यूरोपीय अधिकारियों के वेतन-भत्ते, सैन्य खरीदारी, भारत सचिव के ऑफिस का खर्च, भारतीय सार्वजनिक ऋण एवं रेलवे पर लगाई गई पूंजी पर दिया गया ब्याज, भारत के कारण इंग्लैंड में दिये जाने वाले नागरिक व सैनिक शुल्क आदि होम चार्जेज़ (Home Charges) के प्रमुख संघटक थे।\nब्रिटिश औपनिवेशिक शासन के तहत भारत का शोषण किया गया। इसके तहत 'धन निकासी', 'गृह व्यय' जैसे तरीकों से भारत की धन-संपदा को ब्रिटेन की ओर प्रवाहित किया गया।\nआर.सी. दत्त द्वारा लिखित 'भारत का आर्थिक इतिहास' में गृह व्यय का सिद्धांत दिया गया है। इसके अंतर्गत भारत की ब्रिटिश सरकार द्वारा ब्रिटेन में किया गया खर्च आता है।\nभारत के बाहर हुए युद्धों को लड़ने में अंग्रेज़ों द्वारा प्रयोग में लाई जाने वाली निधि हमेशा गृह व्यय पर पूर्णतः निर्भर नहीं होती थी (युद्धों का व्यय आमतौर पर होम चार्जेज़ के अंतर्गत नहीं आता था)। अतः विकल्प (b) सही है।",
+      "en": "Salary and allowances of European officers appointed in England, military purchases, expenses of the India Secretary's office, interest paid on Indian public debt and capital invested on railways, civil and military charges to be paid in England due to India etc. were the main components of Home Charges.\nIndia was exploited under the British colonial rule. Under this, India's wealth was drained towards Britain through methods like 'Drain of Wealth', 'Home Charges'.\nThe theory of Home Charges has been given in 'The Economic History of India' written by R.C. Dutt. This includes the expenditure incurred in Britain by the British government of India.\nThe funds used by the British in fighting wars outside India were not always entirely dependent on Home Charges (expenditure of wars generally did not fall under Home Charges). Hence, option (b) is correct."
+    }
+  }
+]

@@ -1,0 +1,467 @@
+[
+  {
+    "id": 1,
+    "year": "2024",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पूर्व राष्ट्रीय आंदोलन (National Movement before the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "राजस्व संग्रह के रैयतवाड़ी बंदोबस्त के अधीन, किसानों को फसल ख़राब होने या प्राकृतिक आपदाओं की स्थिति में राजस्व भुगतान से छूट दी गई थी।",
+        "en": "Under the Ryotwari settlement of revenue collection, farmers were exempted from revenue payment in case of crop failure or natural disasters."
+      },
+      {
+        "id": 2,
+        "hi": "बंगाल स्थायी बंदोबस्त के अधीन, यदि ज़मींदार नियत तिथि पर या उससे पहले राज्य को राजस्व का भुगतान करने में विफल रहता, तो उसे उसकी ज़मींदारी से हटा दिया जाता था।",
+        "en": "Under the Bengal Permanent Settlement, if the zamindar failed to pay the revenue to the state on or before the fixed date, he was removed from his zamindari."
+      }
+    ],
+    "question": {
+      "hi": "कॉर्नवॉलिस द्वारा राजस्व संग्रह के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/कौन-से सही है/हैं?",
+      "en": "With reference to revenue collection by Cornwallis, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "संघ लोक सेवा आयोग द्वारा इस प्रश्न को मूल्यांकन से बाहर कर दिया गया था। र रैयतवाड़ी व्यवस्था में किसानों को सूखा या फसल खराब होने पर भी आसानी से कर से छूट नहीं मिलती थी, जबकि स्थायी बंदोबस्त के तहत नियत तिथि तक राजस्व न देने पर ज़मींदारों की ज़मींदारी नीलाम कर दी जाती थी।",
+      "en": "This question was excluded from evaluation by the Union Public Service Commission. Under the Permanent Settlement, zamindars lost their zamindari if they failed to pay revenue by the fixed date."
+    }
+  },
+  {
+    "id": 2,
+    "year": "2019",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पूर्व राष्ट्रीय आंदोलन (National Movement before the Arrival of Gandhiji)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इसने देशी शिल्पकारों के कौशल तथा उद्योगों को पुनर्जीवित करने में योगदान किया।",
+        "en": "It contributed to the revival of the skills and industries of indigenous craftsmen."
+      },
+      {
+        "id": 2,
+        "hi": "स्वदेशी आंदोलन के एक अवयव के रूप में राष्ट्रीय शिक्षा परिषद की स्थापना हुई थी।",
+        "en": "National Council of Education was established as a component of the Swadeshi movement."
+      }
+    ],
+    "question": {
+      "hi": "स्वदेशी आंदोलन के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:",
+      "en": "With reference to the Swadeshi movement, consider the following statements:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "बंगाल विभाजन की प्रतिप्रक्रियास्वरूप आरंभ हुए स्वदेशी आंदोलन में विदेशी वस्तुओं का बहिष्कार करने के साथ ही देशी उद्योगों, हथकरघा, रेशम व वस्त्र, लोहा-इस्पात आदि को पुनर्जीवित करने का प्रयास किया गया। इसके तहत वर्ष 1906 में 'राष्ट्रीय शिक्षा परिषद' की स्थापना भी की गई। अतः कथन 1 और 2 दोनों सही हैं।",
+      "en": "In the Swadeshi movement started in response to the partition of Bengal, along with the boycott of foreign goods, efforts were made to revive indigenous industries, handloom, silk and textile, iron and steel, etc. Under this, the 'National Council of Education' was also established in the year 1906. Therefore, both statements 1 and 2 are correct."
+    }
+  },
+  {
+    "id": 3,
+    "year": "2016",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पूर्व राष्ट्रीय आंदोलन (National Movement before the Arrival of Gandhiji)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "'स्वदेशी' और 'बहिष्कार' पहली बार किस घटना के दौरान संघर्ष की विधि के रूप में अपनाए गए थे?",
+      "en": "During which of the following movements were 'Swadeshi' and 'Boycott' adopted as methods of struggle for the first time?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "बंगाल विभाजन के विरोध में आंदोलन",
+        "en": "Agitation against the partition of Bengal"
+      },
+      {
+        "id": "B",
+        "hi": "होमर्ूल आंदोलन",
+        "en": "Home Rule movement"
+      },
+      {
+        "id": "C",
+        "hi": "असहयोग आंदोलन",
+        "en": "Non-Cooperation movement"
+      },
+      {
+        "id": "D",
+        "hi": "साइमन कमीशन की भारत यात्रा",
+        "en": "Simon Commission visit to India"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "सन् 1905 में लॉर्ड कर्जन द्वारा बंगाल विभाजन की घोषणा के विरोध में जनता की व्यापक भागीदारी हेतु 'स्वदेशी' व 'बहिष्कार' जैसे रचनात्मक उपाय सर्वप्रथम अपनाए गए थे। अतः विकल्प (a) सही है।",
+      "en": "Constructive measures like 'Swadeshi' and 'Boycott' were first adopted for broad public participation in opposition to the partition of Bengal announced by Lord Curzon in 1905. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 4,
+    "year": "2015",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पूर्व राष्ट्रीय आंदोलन (National Movement before the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से किस आंदोलन के कारण भारतीय कॉन्ग्रेस का विभाजन हुआ, जिसके परिणामस्वरूप 'नर दल' और 'गरम दल' का उद्भव हुआ?",
+      "en": "Which of the following movements led to the split in the Indian National Congress, resulting in the emergence of 'Moderates' and 'Extremists'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "स्वदेशी आंदोलन",
+        "en": "Swadeshi movement"
+      },
+      {
+        "id": "B",
+        "hi": "भारत छोड़ो आंदोलन",
+        "en": "Quit India movement"
+      },
+      {
+        "id": "C",
+        "hi": "असहयोग आंदोलन",
+        "en": "Non-Cooperation movement"
+      },
+      {
+        "id": "D",
+        "hi": "सविनय अवज्ञा आंदोलन",
+        "en": "Civil Disobedience movement"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "बंगाल विभाजन के विरोध में प्रारंभ किए गए स्वदेशी आंदोलन के दौरान उत्पन्न परिस्थितियों की वजह से ही कॉन्ग्रेस के अंदर नरम दल व गरम दल के मध्य विरोध और तीव्र हो गया, जिसके फलस्वरूप 1907 के सूरत अधिवेशन में कॉन्ग्रेस दो भागों में विभाजित हो गई। अतः विकल्प (a) सही है।",
+      "en": "Due to the circumstances arising during the Swadeshi movement started against the partition of Bengal, the opposition between the Moderates and Extremists inside the Congress intensified further, as a result of which the Congress split into two parts in the 1907 Surat session. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 5,
+    "year": "2014",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पूर्व राष्ट्रीय आंदोलन (National Movement before the Arrival of Gandhiji)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "वर्ष 1905 में लॉर्ड कर्ज़न द्वारा किया गया बंगाल का विभाजन कब तक बना रहा?",
+      "en": "The partition of Bengal done by Lord Curzon in 1905 lasted until"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "प्रथम विश्व युद्ध तक, जिसमें अंग्रेजों को भारतीय सैनिकों की आवश्यकता पड़ी और विभाजन समाप्त कर दिया गया।",
+        "en": "World War I, when the British needed Indian soldiers and the partition was ended."
+      },
+      {
+        "id": "B",
+        "hi": "सम्राट जॉर्ज पंचम द्वारा दिल्ली में वर्ष 1911 के शाही दरबार में कर्ज़न के अधिनियम को निराकृत किए जाने तक।",
+        "en": "King George V abrogated Curzon's Act at the Royal Darbar in Delhi in 1911."
+      },
+      {
+        "id": "C",
+        "hi": "महात्मा गांधी द्वारा अपना सविनय अवज्ञा आंदोलन आरंभ करने तक।",
+        "en": "Mahatma Gandhi launched his Civil Disobedience movement."
+      },
+      {
+        "id": "D",
+        "hi": "भारत के वर्ष 1947 में हुए विभाजन तक, जब पूर्वी बंगाल, पूर्वी पाकिस्तान बन गया।",
+        "en": "The partition of India in 1947 when East Bengal became East Pakistan."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "दिसंबर 1911 में ब्रिटिश सम्राट जॉर्ज पंचम के दिल्ली आगमन पर आयोजित दिल्ली दरबार में गवर्नर-जनरल हार्डिंग द्वितीय ने घोषणा की कि बंगाल विभाजन को रद्द किया जाएगा। अतः विकल्प (b) सही है।",
+      "en": "In December 1911, at the Delhi Durbar held on the arrival of British King George V in Delhi, Governor-General Hardings II announced that the partition of Bengal would be cancelled. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 6,
+    "year": "2014",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पूर्व राष्ट्रीय आंदोलन (National Movement before the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारतीय राज्यों को ब्रिटिश साम्राज्य में मिलाने के किसी भी विचार का परित्याग करना।",
+        "en": "Abandonment of any idea of annexing Indian states to the British Empire."
+      },
+      {
+        "id": 2,
+        "hi": "भारतीय प्रशासन को ब्रिटिश क्राउन के अंतर्गत रखना।",
+        "en": "Placing the Indian administration under the British Crown."
+      },
+      {
+        "id": 3,
+        "hi": "भारत के साथ ईस्ट इंडिया कंपनी के व्यापार का विनियमन करना।",
+        "en": "Regulating the East India Company's trade with India."
+      }
+    ],
+    "question": {
+      "hi": "महारानी विक्टोरिया की उद्घोषणा (1858) का उद्देश्य क्या था?",
+      "en": "What was the objective of Queen Victoria's Proclamation (1858)?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "1858 की घोषणा के तहत शासन की बागडोर कंपनी के हाथों से निकलकर ब्रिटिश क्राउन के हाथों में चली गई और भविष्य में किसी भी राज्य को ब्रिटिश साम्राज्य में न मिलाने की घोषणा की गई। ईस्ट इंडिया कंपनी के शासन का अंत कर दिया गया था, अतः व्यापार का विनियमन इसका उद्देश्य नहीं था। अतः कथन 1 और 2 सही हैं। विकल्प (a) सही है।",
+      "en": "Under the 1858 Proclamation, control of governance passed from the company to the British Crown and it was announced that no further states would be annexed to the British Empire. The rule of the East India Company was ended, so regulating trade was not its objective. Hence statements 1 and 2 are correct. Option (a) is correct."
+    }
+  },
+  {
+    "id": 7,
+    "year": "2014",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पूर्व राष्ट्रीय आंदोलन (National Movement before the Arrival of Gandhiji)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "गदर क्या था?",
+      "en": "What was Ghadar?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भारतीयों का एक क्रांतिकारी संघ, जिसका प्रधान कार्यालय सैन फ्रांसिस्को में था",
+        "en": "A revolutionary association of Indians with headquarters at San Francisco"
+      },
+      {
+        "id": "B",
+        "hi": "एक राष्ट्रवाद संगठन, जो सिंगापुर से संचालित होता था",
+        "en": "A nationalist organization operating from Singapore"
+      },
+      {
+        "id": "C",
+        "hi": "एक उग्रवादी संगठन, जिसका प्रधान कार्यालय बर्लिन में था",
+        "en": "A militant organization with headquarters at Berlin"
+      },
+      {
+        "id": "D",
+        "hi": "भारत की स्वतंत्रता के लिए एक कम्युनिस्ट आंदोलन, जिसका प्रधान कार्यालय ताशकंद में था",
+        "en": "A communist movement for India's freedom with headquarters at Tashkent"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "1913 में अमेरिका के सैन फ्रांसिस्को नगर में लाला हरदयाल और सोहन सिंह भाकना द्वारा 'ग़दर पार्टी' की स्थापना की गई थी, जिसका मुख्य उद्देश्य भारत को अंग्रेजों से स्वतंत्र कराना था। अतः विकल्प (a) सही है।",
+      "en": "The 'Ghadar Party' was established in 1913 in the city of San Francisco, USA, by Lala Hardayal and Sohan Singh Bhakna, with the main objective of liberating India from the British. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 8,
+    "year": "2013",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पूर्व राष्ट्रीय आंदोलन (National Movement before the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "इल्बर्ट बिल विवाद किससे संबंधित था?",
+      "en": "The Ilbert Bill controversy was related to the"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भारतीयों द्वारा हथियार लेकर चलने पर कुछ प्रतिबंधों को लागू किया जाना",
+        "en": "imposition of certain restrictions to Indians carrying weapons"
+      },
+      {
+        "id": "B",
+        "hi": "भारतीय भाषाओं में प्रकाशित होने वाले समाचार पत्रों व पत्रिकाओं पर प्रतिबंध लागू किया जाना",
+        "en": "imposition of restrictions on newspapers and magazines published in Indian languages"
+      },
+      {
+        "id": "C",
+        "hi": "यूरोप के लोगों के मामलों की सुनवाई करने के लिये भारतीय न्यायाधीशों पर लगाई गई अयोग्यताओं का हटाया जाना",
+        "en": "removal of disqualifications imposed on Indian magistrates for hearing cases involving Europeans"
+      },
+      {
+        "id": "D",
+        "hi": "आयातित सूती कपड़े पर उठाए गए शुल्क का हटाया जाना",
+        "en": "removal of duty imposed on imported cotton cloth"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "वायसराय लॉर्ड रिपन के कार्यकाल में 1883 में इल्बर्ट बिल लाया गया जिसके माध्यम से भारतीय न्यायाधीशों को भी यूरोपीय लोगों से जुड़े मामलों की सुनवाई करने की अनुमति दी गई। यूरोपीय लोगों के विरोध के कारण इसे वापस लेना पड़ा था। अतः विकल्प (c) सही है।",
+      "en": "The Ilbert Bill was introduced in 1883 during the tenure of Viceroy Lord Ripon, through which Indian judges were also allowed to hear cases involving Europeans. It had to be withdrawn due to opposition from Europeans. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 9,
+    "year": "2013",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पूर्व राष्ट्रीय आंदोलन (National Movement before the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "होमRULE आंदोलन प्रारंभ करने के लिये उत्तरदायी थी",
+        "en": "Was responsible for starting the Home Rule movement"
+      },
+      {
+        "id": 2,
+        "hi": "थियोसोफिकल सोसाइटी की संस्थापिका थीं",
+        "en": "Was the founder of the Theosophical Society"
+      },
+      {
+        "id": 3,
+        "hi": "इंडियन नेशनल कॉन्ग्रेस की एक बार अध्यक्ष थीं",
+        "en": "Was once the President of the Indian National Congress"
+      }
+    ],
+    "question": {
+      "hi": "एनी बेसेंट के संदर्भ में निम्नलिखित कथनों पर विचार कीजिये:\nनीचे दिये गए कूट का प्रयोग कर सही कूट चुनिये:",
+      "en": "Consider the following statements regarding Annie Besant:\nSelect the correct code using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "एनी बेसेंट ने सितंबर 1916 में मद्रास में होमबुल लीग की शुरुआत की (कथन 1 सही)। थियोसोफिकल सोसाइटी की स्थापना मूलतः मैडम ब्लावात्स्की एवं कर्नल ऑल्कोट ने की थी, एनी बेसेंट इसकी दूसरी अध्यक्ष थीं (कथन 2 गलत)। वे वर्ष 1917 के कलकत्ता अधिवेशन में कॉन्ग्रेस की प्रथम महिला अध्यक्ष चुनी गईं (कथन 3 सही)। अतः विकल्प (c) सही है।",
+      "en": "Annie Besant started the Home Rule League in Madras in September 1916 (Statement 1 is correct). The Theosophical Society was originally founded by Madame Blavatsky and Colonel Olcott; Annie Besant was its second president (Statement 2 is incorrect). She was elected as the first woman president of the Congress in the 1917 Calcutta session (Statement 3 is correct). Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 10,
+    "year": "2012",
+    "subject": "History",
+    "topic": "गांधीजी के आगमन के पूर्व राष्ट्रीय आंदोलन (National Movement before the Arrival of Gandhiji)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उन्होंने इस बात को अभिव्यक्त किया कि ब्रिटेन, भारत का आर्थिक शोषण कर रहा है",
+        "en": "He expressed that Britain was economically exploiting India"
+      },
+      {
+        "id": 2,
+        "hi": "उन्होंने प्राचीन भारतीय ग्रंथों की व्याख्या की और भारतीयों में आत्मविश्वास जगाया",
+        "en": "He interpreted ancient Indian texts and aroused self-confidence in Indians"
+      },
+      {
+        "id": 3,
+        "hi": "उन्होंने सभी सामाजिक बुराइयों के निराकरण की आवश्यकता पर सर्वोपरि ज़ोर दिया",
+        "en": "He placed topmost priority on the necessity of removal of all social evils"
+      }
+    ],
+    "question": {
+      "hi": "दादाभाई नौरोजी की भारतीय राष्ट्रीय आंदोलन को सर्वाधिक प्रभावी देन थी कि",
+      "en": "The most effective contribution of Dadabhai Naoroji to the Indian national movement was that"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "दादाभाई नौरोजी ने 'धन के बहिर्गमन' (Drain of Wealth) सिद्धांत के माध्यम से यह उजागर किया कि किस प्रकार ब्रिटेन भारत का आर्थिक शोषण कर रहा है। अतः कथन 1 सही है, जबकि कथन 2 और 3 उनसे संबंधित नहीं हैं। विकल्प (a) सही है।",
+      "en": "Dadabhai Naoroji exposed how Britain was economically exploiting India through the 'Drain of Wealth' theory. Hence, statement 1 is correct, while statements 2 and 3 are not related to him. Option (a) is correct."
+    }
+  }
+]

@@ -1,0 +1,1350 @@
+[
+  {
+    "id": 1,
+    "year": "2025",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "वर्षा वन, महासागरों द्वारा उत्पादित ऑक्सीजन की तुलना में अधिक ऑक्सीजन उत्पादित करते हैं।",
+        "en": "Rainforests produce more oxygen compared to the oxygen produced by the oceans."
+      },
+      {
+        "id": "2",
+        "hi": "समुद्री पादप-प्लवक और प्रकाश-संश्लेषी जीवाणु विश्व में ऑक्सीजन का लगभग 50% उत्पादित करते हैं।",
+        "en": "Marine phytoplankton and photosynthetic bacteria produce about 50% of the world's oxygen."
+      },
+      {
+        "id": 3,
+        "hi": "वायुमंडलीय हवा में विद्यमान ऑक्सीजन की तुलना में सुचारू रूप से ऑक्सीकृत पृष्ठ-जल में अनेक गुना अधिक ऑक्सीजन होती है।",
+        "en": "Well-oxygenated surface water contains many times more oxygen compared to the oxygen present in atmospheric air."
+      }
+    ],
+    "question": {
+      "hi": "पृथ्वी ग्रह के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/कौन-से सही है/हैं?",
+      "en": "With reference to the planet Earth, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "I और II",
+        "en": "I and II"
+      },
+      {
+        "id": "B",
+        "hi": "केवल II",
+        "en": "II only"
+      },
+      {
+        "id": "C",
+        "hi": "I और III",
+        "en": "I and III"
+      },
+      {
+        "id": "D",
+        "hi": "उपर्युक्त कथनों में से कोई भी सही नहीं है",
+        "en": "None of the statements given above is correct"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "वैज्ञानिकों का अनुमान है कि पृथ्वी पर ऑक्सीजन का लगभग आधा हिस्सा महासागरों से उत्पादित होता है। यद्यपि महासागर कम-से-कम 50% ऑक्सीजन उत्पादित करते हैं, लेकिन समुद्री जीव लगभग उतनी ही मात्रा में ऑक्सीजन की खपत भी करते हैं। अतः कथन I सही नहीं है। वैज्ञानिकों का अनुमान है कि हमारे वायुमंडल में कम-से-कम 50% ऑक्सीजन फाइटोप्लांकटन (पादप-प्लवक) द्वारा उत्पादित है। साथ ही ये वायु से कार्बन डाइऑक्साइड की व्यापक मात्रा को अवशोषित करने हेतु भी उत्तरदायी हैं। अतः कथन II सही है। घुलित ऑक्सीजन की मात्रा पृष्ठ जल में सबसे अधिक होती है, फिर भी जल में उपस्थित ऑक्सीजन की मात्रा वायु में उपस्थित ऑक्सीजन की मात्रा की तुलना में कहीं कम होती है (वायु में 210 mg/L जबकि जल में 8 mg/L)। अतः कथन III सही नहीं है। अतः विकल्प (b) सही है।",
+      "en": "Scientists estimate that about half of the oxygen on Earth is produced by the oceans. Although the oceans produce at least 50% of the oxygen, marine organisms also consume almost the same amount of oxygen. Hence, statement I is incorrect. Scientists estimate that at least 50% of the oxygen in our atmosphere is produced by phytoplankton. Also, they are responsible for absorbing large amounts of carbon dioxide from the air. Hence, statement II is correct. Although the amount of dissolved oxygen is highest in surface water, the amount of oxygen present in water is much less compared to the amount of oxygen present in the air (210 mg/L in air vs 8 mg/L in water). Hence, statement III is incorrect. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 2,
+    "year": "2023",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "राज्य का मुख्य वन्यजीव वार्डन ऐसे वन का नियंत्रक प्राधिकारी बन जाता है।",
+        "en": "The Chief Wildlife Warden of the State becomes the governing authority of such forest."
+      },
+      {
+        "id": 2,
+        "hi": "ऐसे क्षेत्र में शिकार की अनुमति नहीं होती है।",
+        "en": "Hunting is not allowed in such area."
+      },
+      {
+        "id": 3,
+        "hi": "ऐसे क्षेत्र के लोगों को गैर-इमारती लकड़ी वनोत्पाद को संग्रह करने की अनुमति होती है।",
+        "en": "People of such area are allowed to collect non-timber forest produce."
+      },
+      {
+        "id": 4,
+        "hi": "ऐसे क्षेत्र के लोगों को पारंपरिक कृषि प्रथाओं की अनुमति होती है।",
+        "en": "People of such area are allowed traditional agricultural practices."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nएक बार यदि केंद्र सरकार किसी क्षेत्र को 'समुदाय प्रारक्षित (Community Reserve)' अधिसूचित कर देती है, तो:\nउपर्युक्त में से कितने कथन सही हैं?",
+      "en": "Consider the following statements:\nOnce the Central Government notifies an area as a 'Community Reserve':\nHow many of the above statements are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "केवल तीन",
+        "en": "Only three"
+      },
+      {
+        "id": "D",
+        "hi": "सभी चार",
+        "en": "All four"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "WPA 1972 की धारा 36D कहती है कि राज्य सरकार एक सामुदायिक रिज़र्व प्रबंधन समिति का गठन करेगी, जो इसके संरक्षण के लिये ज़िम्मेदार प्राधिकरण होगी। मुख्य वन्यजीव वार्डन मार्गदर्शन प्रदान करता है, लेकिन वह नियंत्रक प्राधिकारी नहीं होता है। अतः कथन 1 सही नहीं है। एक वन को एक समुदाय प्रारक्षित घोषित करने के बाद वहाँ लोगों को शिकार करने की अनुमति नहीं होती है। अतः कथन 2 सही है। लोग गैर-इमारती वनोपज एकत्र कर सकते हैं। अतः कथन 3 सही है। झूम खेती जैसी पारंपरिक कृषि पद्धतियों के लिये लोगों को इसका उपयोग करने की अनुमति नहीं होती है। अतः कथन 4 सही नहीं है। अतः विकल्प (b) सही है।",
+      "en": "Section 36D of the WPA 1972 states that the State Government shall constitute a Community Reserve Management Committee, which shall be the authority responsible for its conservation. The Chief Wildlife Warden provides guidance, but he is not the governing authority. Hence statement 1 is incorrect. After declaring a forest as a community reserve, people are not allowed to hunt there. Hence statement 2 is correct. People can collect non-timber forest produce. Hence statement 3 is correct. People are not allowed to use it for traditional agricultural practices like shifting cultivation. Hence statement 4 is incorrect. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 3,
+    "year": "2023",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "शिशुधानी-स्तनी (मार्सुपियल) प्राकृतिक रूप से भारत में नहीं होते।",
+        "en": "Marsupials are not naturally found in India."
+      },
+      {
+        "id": 2,
+        "hi": "शिशुधानी-स्तनी केवल परभक्षी-रहित पर्वतीय घास स्थलों में ही पनप सकते हैं।",
+        "en": "Marsupials can thrive only in montane grasslands with no predators."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों के बारे में, निम्नलिखित में से कौन-सा एक सही है?",
+      "en": "Consider the following statements:\nWhich one of the following is correct in respect of the above statements?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कथन-I और कथन-II दोनों सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+        "en": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I."
+      },
+      {
+        "id": "B",
+        "hi": "कथन-I और कथन-II दोनों सही हैं तथा कथन-II, कथन-I की सही व्याख्या नहीं है।",
+        "en": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I."
+      },
+      {
+        "id": "C",
+        "hi": "कथन-I सही है किंतु कथन-II गलत है",
+        "en": "Statement-I is correct but Statement-II is incorrect"
+      },
+      {
+        "id": "D",
+        "hi": "कथन-I गलत है किंतु कथन-II सही है",
+        "en": "Statement-I is incorrect but Statement-II is correct"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "शिशुधानी-स्तनी (मार्सुपियल) भारत में प्राकृतिक रूप से नहीं पाए जाते हैं। इनकी लगभग दो-तिहाई प्रजातियाँ ऑस्ट्रेलिया में निवास करती हैं, जबकि अन्य मुख्यत: दक्षिण अमेरिका में पाई जाती हैं। अतः कथन-I सही है। शिशुधानी-स्तनी विभिन्न आवासों में पनप सकते हैं, जो कि न केवल परभक्षी रहित पर्वतीय घास के मैदानों में रह सकते हैं बल्कि वनीय क्षेत्रों (वर्षावनों, रेगिस्तानों, वुडलैंड्स और सवाना) में भी पाए जाते हैं। अतः कथन-II सही नहीं है। अतः विकल्प (c) सही है।",
+      "en": "Marsupials are not naturally found in India. Almost two-thirds of their species inhabit Australia, while the rest are mainly found in South America. Hence, Statement-I is correct. Marsupials can thrive in various habitats, and can live not only in predator-free montane grasslands but also in forested areas (rainforests, deserts, woodlands, and savannas). Hence, Statement-II is incorrect. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 4,
+    "year": "2023",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सिंह-पुच्छी मकाक (Lion-tailed Macaque)",
+        "en": "Lion-tailed Macaque"
+      },
+      {
+        "id": 2,
+        "hi": "मालाबार सिवेट (Malabar Civet)",
+        "en": "Malabar Civet"
+      },
+      {
+        "id": 3,
+        "hi": "सांभर हिरण (Sambar Deer)",
+        "en": "Sambar Deer"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित प्राणिजात पर विचार कीजिये:\nउपर्युक्त में से कितने आमतौर पर रात्रिचर हैं या सूर्यास्त के बाद अधिक सक्रिय होते हैं?",
+      "en": "Consider the following fauna:\nHow many of the above are generally nocturnal or most active after sunset?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "सिंह-पुच्छी मकाक रात्रिचर प्राणिजात नहीं है। यह एक वृक्षवासी और दिनचर प्राणी है। अतः 1 सही नहीं है। मालाबार सिवेट मुख्य रूप से रात्रिचर प्राणिजात है। इसका रात्रिचर व्यवहार शिकारियों से बचने में मदद करता है। अतः 2 सही है। सांभर हिरण सांध्यकालीन और रात्रिचर होता है लेकिन यह सुबह और शाम के समय सबसे अधिक सक्रिय होता है। अतः 3 सही नहीं है। अतः केवल 1 ही विकल्प सही है, इसलिए विकल्प (a) सही है।",
+      "en": "The Lion-tailed Macaque is not nocturnal fauna. It is an arboreal and diurnal animal. Hence, 1 is incorrect. The Malabar Civet is mainly nocturnal fauna. Its nocturnal behavior helps it avoid predators. Hence, 2 is correct. The Sambar Deer is crepuscular and nocturnal but it is most active during dawn and dusk. Hence, 3 is incorrect. Thus, only one option is correct, hence option (a) is correct."
+    }
+  },
+  {
+    "id": 5,
+    "year": "2023",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा जीव अपने सगे-संबंधियों को अपने खाद्य के स्रोत की दिशा और दूरी इंगित करने के लिये दोलन नृत्य (वैगल डांस) करता है?",
+      "en": "Which one of the following organisms performs waggle dance for others of their kin to indicate the direction and the distance to a source of their food?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "तितली",
+        "en": "Butterflies"
+      },
+      {
+        "id": "B",
+        "hi": "व्याध पतंग (ड्रैगनफ्लाई)",
+        "en": "Dragonflies"
+      },
+      {
+        "id": "C",
+        "hi": "मधुमक्खी",
+        "en": "Honeybees"
+      },
+      {
+        "id": "D",
+        "hi": "बर्र",
+        "en": "Wasps"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "मधुमक्खियाँ अपनी कॉलोनी के साथियों को खाद्य स्रोतों या नए घोंसले के स्थान के बारे में बताने के लिये दोलन नृत्य (वैगल डांस) करती हैं। अतः विकल्प (c) सही है। इस नृत्य में मधुमक्खियाँ संख्या आठ (8) का पैटर्न बनाती हैं। गुरुत्व के सापेक्ष इनकी गति का कोण सूर्य के सापेक्ष खाद्य स्रोत की दिशा को इंगित करता है और सीधी गति की अवधि छत्ते से भोजन स्रोत की दूरी को इंगित करती है।",
+      "en": "Honeybees perform the waggle dance to communicate to their colony mates about food sources or a new nest location. Hence, option (c) is correct. In this dance, bees form a figure-eight (8) pattern. The angle of their movement relative to gravity indicates the direction of the food source relative to the sun, and the duration of the straight run indicates the distance of the food source from the hive."
+    }
+  },
+  {
+    "id": 6,
+    "year": "2023",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "वे भूमि में बिल बनाकर अपने नीड़ का निर्माण करती हैं।",
+        "en": "They build their nests by making burrows in the ground."
+      },
+      {
+        "id": 2,
+        "hi": "वे अपने भोज्य पदार्थों, जैसे कि दृढ़फलों (नट) और बीजों को भूमि के अंदर जमा करती हैं।",
+        "en": "They store their food materials like nuts and seeds in the ground."
+      },
+      {
+        "id": 3,
+        "hi": "वे सर्वाहारी होती हैं।",
+        "en": "They are omnivorous."
+      }
+    ],
+    "question": {
+      "hi": "भारतीय गिलहरियों के बारे में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कितने कथन सही हैं?",
+      "en": "Consider the following statements regarding the Indian squirrels:\nHow many of the above statements are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारतीय गिलहरियाँ पेड़ों के शीर्ष पर घोंसला बनाती हैं, भूमि में बिल बनाकर नहीं। अतः कथन 1 सही नहीं है। भारतीय गिलहरियाँ अपने घोंसले में भोजन संग्रहण करती हैं, तथा ज़मीन पर रहने वाली गिलहरियाँ अपने भोजन का संग्रहण करने के लिये अपने भूमिगत बिलों के अंदर अलग-अलग स्थान बनाती हैं। अतः कथन 2 सही है। भारतीय गिलहरियाँ सर्वाहारी होती हैं। ये मुख्य रूप से मेवे और फल खाती हैं लेकिन यह कभी-कभी बीज, कीट, पक्षियों के अंडे भी खाती हैं। अतः कथन 3 सही है। अतः विकल्प (b) सही है।",
+      "en": "Indian squirrels build nests on treetops, not by burrowing in the ground. Hence statement 1 is incorrect. Indian squirrels store food in their nests, and ground squirrels make separate places inside their underground burrows to store their food. Hence statement 2 is correct. Indian squirrels are omnivorous. They mainly eat nuts and fruits but they also sometimes eat seeds, insects, and bird eggs. Hence statement 3 is correct. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 7,
+    "year": "2022",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह एक कवक है।",
+        "en": "It is a fungus."
+      },
+      {
+        "id": 2,
+        "hi": "यह कुछ हिमालयी वन क्षेत्रों में उगती है।",
+        "en": "It grows in some Himalayan forest areas."
+      },
+      {
+        "id": 3,
+        "hi": "उत्तर-पूर्वी भारत के हिमालय की तलहटी में इसकी वाणिज्यिक रूप से खेती की जाती है।",
+        "en": "It is commercially cultivated in the Himalayan foothills of north-eastern India."
+      }
+    ],
+    "question": {
+      "hi": "कभी-कभी समाचारों में उल्लिखित 'गुच्छी' के सन्दर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में कौन-सा/से सही है/हैं?",
+      "en": "With reference to “Gucchi” sometimes mentioned in the news, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "गुच्छी (Gucchi) मशरूम एस्कोमाइकोटा के परिवार मोरचेलासी में कवक की एक प्रजाति है। अतः कथन 1 सही है। ये मुख्य रूप से उत्तर-पश्चिमी हिमालय (हिमाचल प्रदेश, जम्मू-कश्मीर) तथा उत्तराखंड के कुछ हिस्सों के ऊँचे वन क्षेत्रों में प्राकृतिक रूप से उगती है। अतः कथन 2 सही है। उत्तर-पूर्वी भारत हिमालयी क्षेत्रों में गुच्छी प्राकृतिक रूप से कम या नहीं पायी जाती है तथा इसकी वाणिज्यिक खेती नहीं होती है। अतः कथन 3 सही नहीं है। अतः विकल्प (c) सही है।",
+      "en": "Gucchi mushroom is a species of fungus in the family Morchellaceae of the Ascomycota. Hence statement 1 is correct. It grows naturally mainly in the high forest areas of the North-Western Himalayas (Himachal Pradesh, Jammu & Kashmir) and some parts of Uttarakhand. Hence statement 2 is correct. Gucchi is found rarely or not at all naturally in the Himalayan regions of North-Eastern India, and it is not cultivated commercially. Hence statement 3 is incorrect. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 8,
+    "year": "2022",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा पक्षी नहीं है?",
+      "en": "Which of the following is not a bird?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "गोल्डन महासीर",
+        "en": "Golden Mahseer"
+      },
+      {
+        "id": "B",
+        "hi": "इंडियन नाइटजार",
+        "en": "Indian Nightjar"
+      },
+      {
+        "id": "C",
+        "hi": "स्पूनबिल",
+        "en": "Spoonbill"
+      },
+      {
+        "id": "D",
+        "hi": "व्हाइट आइबिस",
+        "en": "White Ibis"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "महासीर शब्द दो शब्दों से मिलकर बना है माही-मछली और शेर-बाघ, इसीलिये इसे मछलियों के बीच बाघ भी कहा जाता है। यह एक मछली की प्रजाति है, पक्षी नहीं। यह एक बड़ी साइप्रिनिड है और ताज़े जल की स्पोर्ट मछलियों में इसे सबसे कठोर माना जाता है। अतः विकल्प (a) सही है।",
+      "en": "The word Mahseer is made up of two words Mahi-fish and Sher-tiger, hence it is also called tiger among fishes. It is a fish species, not a bird. It is a large cyprinid and is considered to be the toughest among the freshwater sport fishes. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 9,
+    "year": "2022",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अल्फाल्फा",
+        "en": "Alfalfa"
+      },
+      {
+        "id": 2,
+        "hi": "चौलाई (ऐमरैंथ)",
+        "en": "Amaranth"
+      },
+      {
+        "id": 3,
+        "hi": "चना (चिक-पी)",
+        "en": "Chickpea"
+      },
+      {
+        "id": 4,
+        "hi": "तिपतिया घास (क्लोवर)",
+        "en": "Clover"
+      },
+      {
+        "id": 5,
+        "hi": "कुलफा (पर्स्लेन)",
+        "en": "Purslane (Kulfa)"
+      },
+      {
+        "id": 6,
+        "hi": "पालक",
+        "en": "Spinach"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में कौन-से, नाइट्रोजन यौगिकीकरण पादप हैं?\nनीचे दिये कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Which of the following are nitrogen-fixing plants?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1, 3, 5 और 6",
+        "en": "1, 3, 5 and 6 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2, 4, 5 और 6",
+        "en": "2, 4, 5 and 6 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 4, 5 और 6",
+        "en": "1, 2, 4, 5 and 6"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "नाइट्रोजन स्थिरीकरण वह प्राकृतिक या औद्योगिक प्रक्रिया है, जिसके माध्यम से वायुमंडलीय नाइट्रोजन (N₂) को अधिक प्रतिक्रियाशील नाइट्रोजन यौगिकों में परिवर्तित किया जाता है। फलीदार पौधों की जड़ों में ग्रंथियाँ होती हैं जो राइज़ोबियम जैसे बैक्टीरिया के साथ सहजीवी संबंध बनाकर नाइट्रोजन स्थिरीकरण करते हैं। फलीदार पौधों के उदाहरणों में अल्फाल्फा, सेम (बीन्स), तिपतिया घास (क्लोवर), मटर, चना (चिक-पी) और सोयाबीन आदि शामिल हैं। अतः 1, 3 और 4 नाइट्रोजन यौगिकीकरण पादप हैं। अतः विकल्प (a) सही है।",
+      "en": "Nitrogen fixation is the natural or industrial process by which atmospheric nitrogen (N₂) is converted into more reactive nitrogen compounds. The roots of leguminous plants have nodules that form a symbiotic relationship with bacteria like Rhizobium to fix nitrogen. Examples of leguminous plants include alfalfa, beans, clover, peas, chickpeas, and soybeans. Hence 1, 3 and 4 are nitrogen-fixing plants. Thus, option (a) is correct."
+    }
+  },
+  {
+    "id": 10,
+    "year": "2022",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "\"मियावाकी पद्धति\" किसके लिए विख्यात है?",
+      "en": "\"Miyawaki method\" is well known for the:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "शुष्क और अर्द्ध-शुष्क क्षेत्रों में वाणिज्यिक कृषि का संवर्द्धन",
+        "en": "Promotion of commercial farming in arid and semi-arid areas"
+      },
+      {
+        "id": "B",
+        "hi": "आनुवंशिकतः रूपांतरित पुष्पों का प्रयोग कर उद्यानों का विकास",
+        "en": "Development of gardens using genetically modified flora"
+      },
+      {
+        "id": "C",
+        "hi": "शहरी क्षेत्रों में लघु वनों का सृजन",
+        "en": "Creation of mini forests in urban areas"
+      },
+      {
+        "id": "D",
+        "hi": "तटीय क्षेत्रों और समुद्री सतहों पर पवन ऊर्जा का संग्रहण",
+        "en": "Harvesting wind energy on coastal areas and sea surfaces"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "मियावाकी पद्धति के प्रणेता जापानी वनस्पति वैज्ञानिक अकीरा मियावाकी (Akira Miyawaki) हैं। इस पद्धति से बहुत कम समय में वनों को घने वनों में परिवर्तित किया जा सकता है। इस योजना ने घरों के आगे अथवा पीछे खाली पड़े स्थान (Backyards) को छोटे बागानों में बदलकर शहरी वनीकरण की अवधारणा में क्रांति ला दी है। इसमें देसी प्रजाति के पौधे एक दूसरे के समीप लगाए जाते हैं। अतः विकल्प (c) सही है।",
+      "en": "The pioneer of the Miyawaki method is the Japanese botanist Akira Miyawaki. By this method, forests can be converted into dense forests in a very short time. This scheme has revolutionized the concept of urban afforestation by converting empty spaces (backyards) in front or back of houses into small gardens. In this, plants of native species are planted close to each other. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 11,
+    "year": "2022",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "होकेरा आर्द्रभूमि - पंजाब",
+        "en": "Hokera Wetland - Punjab"
+      },
+      {
+        "id": 2,
+        "hi": "रेणुका आर्द्रभूमि - हिमाचल प्रदेश",
+        "en": "Renuka Wetland - Himachal Pradesh"
+      },
+      {
+        "id": 3,
+        "hi": "रुद्रसागर झील - त्रिपुरा",
+        "en": "Rudrasagar Lake - Tripura"
+      },
+      {
+        "id": 4,
+        "hi": "सस्थामकोट्टा झील - तमिलनाडु",
+        "en": "Sasthamkotta Lake - Tamil Nadu"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये (आर्द्रभूमि/झील और अवस्थान):\nउपर्युक्त युग्मों में कितने सही सुमेलित हैं?",
+      "en": "Consider the following pairs (Wetland/Lake and Location):\nHow many pairs given above are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक युग्म",
+        "en": "Only one pair"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो युग्म",
+        "en": "Only two pairs"
+      },
+      {
+        "id": "C",
+        "hi": "केवल तीन युग्म",
+        "en": "Only three pairs"
+      },
+      {
+        "id": "D",
+        "hi": "सभी चारों युग्म",
+        "en": "All four pairs"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "आर्द्रभूमियों/झीलों की सही अवस्थिति इस प्रकार है: होकेरा आर्द्रभूमि - जम्मू और कश्मीर (युग्म 1 गलत)। रेणुका आर्द्रभूमि - हिमाचल प्रदेश (युग्म 2 सही)। रुद्रसागर झील - त्रिपुरा (युग्म 3 सही)। सस्थामकोट्टा झील - केरल (युग्म 4 गलत)। अतः केवल दो युग्म सही हैं। विकल्प (b) सही है।",
+      "en": "The correct location of the wetlands/lakes is as follows: Hokera Wetland - Jammu and Kashmir (Pair 1 incorrect). Renuka Wetland - Himachal Pradesh (Pair 2 correct). Rudrasagar Lake - Tripura (Pair 3 correct). Sasthamkotta Lake - Kerala (Pair 4 incorrect). Thus, only two pairs are correct. Option (b) is correct."
+    }
+  },
+  {
+    "id": 12,
+    "year": "2021",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित जैव भू-रासायनिक चक्रों में से किसमें, चट्टानों का अपक्षय चक्र में प्रवेश करने वाले पोषक तत्त्व के निर्मुक्त होने का मुख्य स्रोत है?",
+      "en": "In which one of the following biogeochemical cycles, the weathering of rocks is the main source of release of nutrient to enter the cycle?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कार्बन चक्र",
+        "en": "Carbon cycle"
+      },
+      {
+        "id": "B",
+        "hi": "नाइट्रोजन चक्र",
+        "en": "Nitrogen cycle"
+      },
+      {
+        "id": "C",
+        "hi": "फॉस्फोरस चक्र",
+        "en": "Phosphorus cycle"
+      },
+      {
+        "id": "D",
+        "hi": "सल्फर चक्र",
+        "en": "Sulphur cycle"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "फॉस्फोरस का प्राकृतिक भंडार चट्टानों में है जो कि फॉस्फेट के रूप में फॉस्फोरस को संचित किये हुए है। फॉस्फोरस चक्र के अंतर्गत जब चट्टानों का क्षय होता है तो थोड़ी मात्रा में ये फॉस्फेट भूमि पर जल में घुल जाते हैं और उन्हें पादपों की जड़ द्वारा अवशोषित कर लिया जाता है। अतः विकल्प (c) सही है।",
+      "en": "The natural reservoir of phosphorus is rocks, which contain phosphorus in the form of phosphates. Under the phosphorus cycle, when rocks weather, minute amounts of these phosphates dissolve in soil solution and are absorbed by the roots of plants. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 13,
+    "year": "2021",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "केंचुआ",
+        "en": "Earthworms"
+      },
+      {
+        "id": 2,
+        "hi": "जेलीफ़िश",
+        "en": "Jellyfish"
+      },
+      {
+        "id": 3,
+        "hi": "सहस्रपादी (मिलीपीड)",
+        "en": "Millipedes"
+      },
+      {
+        "id": 4,
+        "hi": "समुद्री घोड़ा (सीहॉर्स)",
+        "en": "Seahorses"
+      },
+      {
+        "id": 5,
+        "hi": "काष्ठ यूका (वुडलाइस)",
+        "en": "Woodlice"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-से जीव अपरदाहारी (डेट्राइटिवोर) हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Which of the following are detritivores?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 4",
+        "en": "1, 2 and 4 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2, 3, 4, और 5",
+        "en": "2, 3, 4 and 5 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 3 और 5",
+        "en": "1, 3 and 5 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3, 4 और 5",
+        "en": "1, 2, 3, 4 and 5"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "अपरदाहारी (Detritivore) ऐसे जीव हैं जो मृत या सड़ने वाले पौधों या जानवरों को भोजन के रूप में खाते हैं। इनमें सूक्ष्मजीव जैसे बैक्टीरिया और बड़े जीव जैसे कवक, केंचुआ, कीड़े, सहस्रपादी (Millipedes) और कुछ क्रस्टेशियन (crustacean) जैसे काष्ठ यूका (Woodlice) शामिल हैं। अतः 1, 3 और 5 सही हैं। अतः विकल्प (c) सही है।",
+      "en": "Detritivores are organisms that eat dead or decaying plants or animals as food. They include microorganisms such as bacteria and larger organisms such as fungi, earthworms, insects, millipedes, and some crustaceans such as woodlice. Hence, 1, 3 and 5 are correct. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 14,
+    "year": "2021",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "नाइडेरिया",
+        "en": "Cnidarians"
+      },
+      {
+        "id": 2,
+        "hi": "कवक (फंजाई)",
+        "en": "Fungi"
+      },
+      {
+        "id": 3,
+        "hi": "आदिजंतु (प्रोटोजोआ)",
+        "en": "Protozoa"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित समूहों में से किन में ऐसी जातियाँ होती हैं, जो अन्य जीवों के साथ सहजीवी संबंध बना सकती हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Which of the following have species that can establish symbiotic relationship with other organisms?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "सहजीवी संबंध (Symbiotic Relationship) दो प्राणियों में परस्पर लाभदायक, आंतरिक साझेदारी है। अधिकांश कवक (फंजाई) परपोषित होते हैं। ये शैवाल तथा लाइकेन के साथ एवं उच्चवर्गीय पौधों के साथ कवक मूल बना कर भी रह सकते हैं। ऐसे कवक सहजीवी कहलाते हैं। नाइडेरिया, जिसे सीलेन्ट्रेटा भी कहा जाता है, में मूँगा, हाइड्रा, जेलीफ़िश, समुद्री एनीमोन, आदि शामिल हैं। नाइडेरिया और शैवाल के बीच सहजीवी संबंध पाया जाता है। साथ ही, दीमक का प्रोटोजोआ के साथ सहजीवी संबंध होता है जो इस कीट की आँत में रहते हैं। अतः तीनों विकल्प सही हैं। अतः विकल्प (d) सही है।",
+      "en": "Symbiotic Relationship is a mutually beneficial, internal partnership between two organisms. Most fungi are heterotrophic. They can also live by forming mycorrhiza with algae and lichens and with higher plants. Such fungi are called symbiotic. Cnidarians, also called Coelenterata, include corals, hydra, jellyfish, sea anemones, etc. A symbiotic relationship is found between cnidarians and algae. Also, termites have a symbiotic relationship with protozoa that live in the gut of this insect. Therefore, all three options are correct. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 15,
+    "year": "2020",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "नागरहोले राष्ट्रीय उद्यान",
+        "en": "Nagarhole National Park"
+      },
+      {
+        "id": 2,
+        "hi": "पापीकोंडा राष्ट्रीय उद्यान",
+        "en": "Papikonda National Park"
+      },
+      {
+        "id": 3,
+        "hi": "सत्यमंगलम बाघ आरक्षित क्षेत्र",
+        "en": "Sathyamangalam Tiger Reserve"
+      },
+      {
+        "id": 4,
+        "hi": "वायनाड वन्यजीव अभयारण्य",
+        "en": "Wayanad Wildlife Sanctuary"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा 'संरक्षित क्षेत्र' कावेरी बेसिन में स्थित है?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Which of the following Protected Areas are located in Cauvery basin?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3 और 4",
+        "en": "3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "नागरहोले राष्ट्रीय उद्यान कर्नाटक में कावेरी बेसिन में स्थित एक महत्त्वपूर्ण राष्ट्रीय उद्यान एवं बाघ आरक्षित क्षेत्र है। कावेरी नदी बेसिन में स्थित अन्य महत्त्वपूर्ण संरक्षित क्षेत्र हैं- बांदीपुर बाघ आरक्षित क्षेत्र, मुदुमलाई बाघ आरक्षित क्षेत्र, वायनाड वन्यजीव अभयारण्य, सत्यमंगलम बाघ आरक्षित क्षेत्र आदि। पापीकोंडा राष्ट्रीय उद्यान आंध्र प्रदेश के पूर्वी और पश्चिमी गोदावरी ज़िलों एवं तेलंगाना के खम्मन ज़िले में फैला है। यह गोदावरी नदी बेसिन के अंतर्गत आता है। अतः विकल्प (c) सही है।",
+      "en": "Nagarhole National Park is an important national park and tiger reserve located in the Cauvery basin in Karnataka. Other important protected areas located in the Cauvery river basin are Bandipur Tiger Reserve, Mudumalai Tiger Reserve, Wayanad Wildlife Sanctuary, Sathyamangalam Tiger Reserve etc. Papikonda National Park is spread over the East and West Godavari districts of Andhra Pradesh and Khammam district of Telangana. It comes under the Godavari river basin. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 16,
+    "year": "2017",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "पारिस्थितिक दृष्टिकोण से, पूर्वी घाटों और पश्चिमी घाटों के बीच एक अच्छा संपर्क होने के रूप में निम्नलिखित में से किसका महत्त्व अधिक है?",
+      "en": "From the ecological point of view, which one of the following assumes importance in being a good link between the Eastern Ghats and the Western Ghats?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सत्यमंगलम बाघ आरक्षित क्षेत्र (सत्यमंगलम टाइगर रिज़र्व)",
+        "en": "Sathyamangalam Tiger Reserve"
+      },
+      {
+        "id": "B",
+        "hi": "नल्लमला वन",
+        "en": "Nallamala Forest"
+      },
+      {
+        "id": "C",
+        "hi": "नागरहोले राष्ट्रीय उद्यान",
+        "en": "Nagarhole National Park"
+      },
+      {
+        "id": "D",
+        "hi": "शेषाचलम जीवमंडल आरक्षित क्षेत्र (शेषाचलम बायोस्फीयर रिज़र्व)",
+        "en": "Seshachalam Biosphere Reserve"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "सत्यमंगलम टाइगर रिज़र्व एरिया पश्चिमी घाट के साथ-साथ एक बाघ आरक्षित एवं सुरक्षित क्षेत्र है जो तमिलनाडु में अवस्थित है। इसे 2008 में वन्यजीव अभयारण्य के रूप में घोषित किया गया था। सत्यमंगलम फॉरेस्ट रेंज पश्चिमी घाट एवं पूर्वी घाट के मिलन स्थल पर अवस्थित नीलगिरी बायोस्फीयर रिज़र्व में अवस्थित एक वन्यजीव गलियारा है। अतः विकल्प (a) सही है।",
+      "en": "Sathyamangalam Tiger Reserve area is a tiger reserve and protected area along the Western Ghats, located in Tamil Nadu. It was declared a wildlife sanctuary in 2008. The Sathyamangalam forest range is a wildlife corridor located in the Nilgiri Biosphere Reserve at the confluence of the Western Ghats and the Eastern Ghats. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 17,
+    "year": "2015",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा एक, 'पारितंत्र' (इकोसिस्टम) शब्द का सर्वोत्कृष्ट वर्णन है?",
+      "en": "Which one of the following is the best description of the term 'ecosystem'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एक-दूसरे से अन्योन्यक्रिया करने वाले जीवों (ऑर्गेनिज़्म्स) का एक समुदाय।",
+        "en": "A community of organisms interacting with one another."
+      },
+      {
+        "id": "B",
+        "hi": "पृथ्वी का वह भाग जो सजीव जीवों (लिविंग ऑर्गेनिज़्म्स) द्वारा आवासित है।",
+        "en": "That part of the Earth which is inhabited by living organisms."
+      },
+      {
+        "id": "C",
+        "hi": "जीवों (ऑर्गेनिज़्म्स) का समुदाय और साथ ही वह पर्यावरण जिसमें वे रहते हैं।",
+        "en": "A community of organisms together with the environment in which they live."
+      },
+      {
+        "id": "D",
+        "hi": "किसी भौगोलिक क्षेत्र के वनस्पतिजात और प्राणिजात।",
+        "en": "The flora and fauna of a geographical area."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "'पारिस्थितिक तंत्र' (Ecosystem) शब्द का प्रयोग सर्वप्रथम ए.जी. टांसले ने 1935 में किया। टांसले के अनुसार, \"पारिस्थितिक तंत्र भौतिक तंत्रों का एक विशेष प्रकार होता है, इसकी रचना जैविक एवं अजैविक संघटकों से होती है।\" सविन्द्र सिंह ने पारितंत्र को इस प्रकार परिभाषित किया है- \"पारिस्थितिक तंत्र भू-तल के निश्चित क्षेत्र को धारण करने वाली एक आधारभूत कार्यशील इकाई होती है, जिसके अंतर्गत जैविक एवं अजैविक संघटकों के सकल समुच्चय तथा किसी निश्चित समय इकाई के अंतर्गत उनकी आपसी अंतर्क्रिया को सम्मिलित किया जाता है।\" इस प्रकार स्पष्ट है कि पारिस्थितिक तंत्र पृथ्वी के जैविक घटकों एवं अजैविक घटकों के बीच होने वाली अंतर्क्रियाओं से बना तंत्र है। अतः स्पष्ट है कि दिये गए विकल्पों में (c) सर्वाधिक सही विकल्प है।",
+      "en": "The term 'Ecosystem' was first used by A.G. Tansley in 1935. According to Tansley, \"An ecosystem is a particular category of physical systems, consisting of organisms and inorganic components in a relatively stable equilibrium.\" Savindra Singh has defined ecosystem as- \"An ecosystem is a basic functional unit occupying a definite area of the earth's surface, which includes the total assemblage of biotic and abiotic components and their mutual interactions within a certain time unit.\" Thus, it is clear that an ecosystem is a system formed by the interactions between the biotic and abiotic components of the earth. Hence, it is clear that (c) is the most accurate option among the given ones."
+    }
+  },
+  {
+    "id": 18,
+    "year": "2014",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "ज्वालामुखी क्रिया",
+        "en": "Volcanic action"
+      },
+      {
+        "id": 2,
+        "hi": "श्वसन",
+        "en": "Respiration"
+      },
+      {
+        "id": 3,
+        "hi": "प्रकाश संश्लेषण",
+        "en": "Photosynthesis"
+      },
+      {
+        "id": 4,
+        "hi": "जैव पदार्थ का क्षय",
+        "en": "Decay of organic matter"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा/से पृथ्वी ग्रह पर कार्बन चक्र में कार्बन डाइऑक्साइड का योगदान करता है/करते हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Which of the following add/adds carbon dioxide to the carbon cycle on the planet Earth?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 2 और 4",
+        "en": "1, 2 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कार्बन चक्र (Carbon Cycle) एक भू-जैव रासायनिक चक्र है, जिसके द्वारा कार्बन का जीवमंडल, भूमंडल, मृदामंडल, जलमंडल और पृथ्वी के वायुमंडल के साथ आदान-प्रदान होता है। कार्बन चक्र में कार्बन डाइऑक्साइड का योगदान निम्नांकित प्रक्रियाओं द्वारा होता है- श्वसन, जैव पदार्थ का क्षय, ज्वालामुखी क्रिया, जीवाश्म ईंधन के दहन से, और पेट्रोलियम परिसंस्करण (Oil Refining) द्वारा। प्रकाश संश्लेषण (Photosynthesis) की प्रक्रिया द्वारा हरे पेड़-पौधे वातावरण से कार्बन डाइऑक्साइड का अवशोषण करते हैं (योगदान नहीं देते)। अतः विकल्प (c) सही है।",
+      "en": "The Carbon Cycle is a biogeochemical cycle by which carbon is exchanged among the biosphere, pedosphere, geosphere, hydrosphere, and atmosphere of the Earth. Carbon dioxide is added to the carbon cycle by the following processes: respiration, decay of organic matter, volcanic action, combustion of fossil fuels, and petroleum refining. Through the process of photosynthesis, green plants absorb (do not add) carbon dioxide from the atmosphere. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 19,
+    "year": "2013",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "घास स्थलों में वृक्ष पारिस्थितिक अनुक्रमण के अंश के रूप में किस कारण घासों को प्रतिस्थापित नहीं करते हैं?",
+      "en": "In the grasslands, trees do not replace the grasses as a part of an ecological succession because of:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कीटों एवं कवकों के कारण",
+        "en": "insects and fungi"
+      },
+      {
+        "id": "B",
+        "hi": "सीमित सूर्य के प्रकाश एवं पोषक तत्त्वों की कमी के कारण",
+        "en": "limited sunlight and paucity of nutrients"
+      },
+      {
+        "id": "C",
+        "hi": "जल की सीमाओं एवं आग के कारण",
+        "en": "water limits and fire"
+      },
+      {
+        "id": "D",
+        "hi": "उपर्युक्त में से कोई नहीं",
+        "en": "None of the above"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "घास स्थलीय बायोम की यह विशेषता है कि यहाँ घासों को वृक्ष प्रतिस्थापित नहीं कर पाते हैं। इसका मुख्य कारण इस बायोम में कम वर्षा होने से सीमित मात्रा में जल की उपलब्धता का होना है। जल के अभाव में यहाँ वृक्ष बहुत ही सीमित मात्रा में छितरे हुए पाए जाते हैं। इन घास स्थलों में आग लगने की बारंबारता भी उच्च होती है, जिसके परिणामस्वरूप सीमित मात्रा में उगे हुए वृक्ष जलकर पुनः समाप्त हो जाते हैं और इस प्रकार पारिस्थितिकी अनुक्रमण पुनः प्रारंभ होता है। अतः सही विकल्प (c) है।",
+      "en": "It is a characteristic of the grassland biome that trees are unable to replace grasses here. The main reason for this is the limited availability of water due to low rainfall in this biome. In the absence of water, trees are found very sparsely and widely scattered here. The frequency of fires in these grasslands is also high, as a result of which the sparsely grown trees get burnt and destroyed again, and thus ecological succession starts afresh. Hence, the correct option is (c)."
+    }
+  },
+  {
+    "id": 20,
+    "year": "2013",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा एक पद, केवल जीव द्वारा ग्रहण किये गए दिक्स्थान का ही नहीं, बल्कि जीवों के समुदाय में उसकी कार्यात्मक भूमिका का भी वर्णन करता है?",
+      "en": "Which one of the following terms describes not only the physical space occupied by an organism, but also its functional role in the community of organisms?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "संक्रामिका (इकोटोन)",
+        "en": "Ecotone"
+      },
+      {
+        "id": "B",
+        "hi": "पारिस्थितिक कर्मता (Ecological Niche)",
+        "en": "Ecological Niche"
+      },
+      {
+        "id": "C",
+        "hi": "आवास",
+        "en": "Habitat"
+      },
+      {
+        "id": "D",
+        "hi": "आवास-क्षेत्र",
+        "en": "Home range"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "पारिस्थितिकी निकेत अथवा निस (Niche) शब्द का प्रयोग सर्वप्रथम ग्रीनेल्स ने किया था। इन्होंने विभिन्न प्रकार की जातियों एवं उपजातियों की स्थानीय वितरण व्यवस्था का इसी के माध्यम से निरूपण किया था। आवास: वह स्थान जहाँ जीव निवास करते हैं, आवास कहलाता है। जबकि किसी भी जीव का पारिस्थितिकीय निकेत विभिन्न स्थितियों-सहनशीलता, संसाधनों के उपयोग की क्षमता तथा पारिस्थितिक तंत्र में इसकी अभिलाक्षणिक भूमिका को दर्शाता है। प्रत्येक जीव का एक विशिष्ट निकेत होता है तथा कोई भी दो जातियाँ एक ही निकेत में नहीं रह सकतीं। अतः विकल्प (b) सही है।",
+      "en": "The term Ecological Niche was first used by Joseph Grinnell. He used it to represent the spatial distribution arrangement of different types of species and subspecies. Habitat is the place where organisms live. Whereas the ecological niche of any organism represents various conditions- tolerance, ability to utilize resources and its characteristic role in the ecosystem. Every organism has a specific niche and no two species can occupy the exact same niche. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 21,
+    "year": "2013",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "question": {
+      "hi": "पारितन्त्रों की घटती उत्पादकता के क्रम में उनका निम्नलिखित में से कौन-सा अनुक्रम सही है?",
+      "en": "Which one of the following is the correct sequence of ecosystems in the order of decreasing productivity?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "महासागर, झील, घास स्थल, मैंग्रोव",
+        "en": "Oceans, lakes, grasslands, mangroves"
+      },
+      {
+        "id": "B",
+        "hi": "मैंग्रोव, महासागर, घास स्थल, झील",
+        "en": "Mangroves, oceans, grasslands, lakes"
+      },
+      {
+        "id": "C",
+        "hi": "मैंग्रोव, घास स्थल, झील, महासागर",
+        "en": "Mangroves, grasslands, lakes, oceans"
+      },
+      {
+        "id": "D",
+        "hi": "महासागर, मैंग्रोव, झील, घास स्थल",
+        "en": "Oceans, mangroves, lakes, grasslands"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "पारिस्थितिक तंत्र में जैवभार उत्पादन की दर उत्पादकता कहलाती है। सर्वोच्च उत्पादकता महाद्वीप-महासागरीय मिलन स्थलों (ज्वारनदमुख/मैंग्रोव आदि) पर पाई जाती है, जहाँ पर यह 10 से 25 ग्राम प्रति वर्गमीटर प्रतिदिन होती है। उच्च उत्पादकता का द्वितीय क्षेत्र उष्ण-आर्द्र वनावरण, छिछली झीलें, आर्द्र घास क्षेत्र तथा गहन कृषि के क्षेत्र हैं जहाँ पर उत्पादकता 3 से 16 ग्राम होती है। सबसे कम उत्पादकता (0.5 ग्राम) गहरे महासागरों, रेगिस्तानों तथा आर्कटिक क्षेत्रों में होती है। इस प्रकार दिये गए पारितंत्रों में उत्पादकता का घटता क्रम मैंग्रोव > घास स्थल > झील > महासागर होगा। अतः विकल्प (c) सही है।",
+      "en": "The rate of biomass production in an ecosystem is called productivity. The highest productivity is found at continent-ocean meeting points (estuaries/mangroves etc.), where it is 10 to 25 grams per square meter per day. The second region of high productivity is tropical-humid forest cover, shallow lakes, moist grasslands and intensive agriculture areas where productivity is 3 to 16 grams. The lowest productivity (0.5 grams) occurs in deep oceans, deserts and arctic regions. Thus, the decreasing order of productivity in the given ecosystems will be Mangroves > Grasslands > Lakes > Oceans. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 22,
+    "year": "2013",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "विषाणु",
+        "en": "Viruses"
+      },
+      {
+        "id": 2,
+        "hi": "कवक",
+        "en": "Fungi"
+      },
+      {
+        "id": 3,
+        "hi": "जीवाणु",
+        "en": "Bacteria"
+      }
+    ],
+    "question": {
+      "hi": "पारितन्त्र में खाद्य-शृंखलाओं के संदर्भ में निम्नलिखित में से किस प्रकार का/के जीव अपघटक जीव कहलाता है/कहलाते हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "With reference to food chains in ecosystems, consider the following kinds of organisms:\nWhich of the above is/are known as decomposer organism/organisms?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "जिस प्रकार उत्पादकता के लिये संश्लेषण एवं निर्माण क्रिया होती है, उसी प्रकार अपघटन भी एक महत्त्वपूर्ण क्रिया है, जिसमें अपघटकों द्वारा जटिल कार्बनिक पदार्थों को कार्बन डाइऑक्साइड, जल तथा अकार्बनिक पोषक तत्त्वों में विभक्त किया जाता है तथा इस प्रक्रिया को संपादित करने वाले जीवों को अपघटक कहा जाता है। अपघटक जीवों के अंतर्गत जीवाणु, कवक, केंचुआ, कुछ विशेष प्रकार के कीट एवं घोंघे इत्यादि को शामिल किया जाता है। सामान्यतः अपघटक मृत पदार्थों को तोड़ते हैं परंतु वे ज़मीन पर पड़े जीवित पदार्थों का भी अपघटन कर सकते हैं। विषाणु अपघटक नहीं होते हैं। अतः विकल्प (b) सही है।",
+      "en": "Just as there is synthesis and building activity for productivity, similarly decomposition is also an important process, in which complex organic substances are broken down into carbon dioxide, water and inorganic nutrients by decomposers and the organisms that perform this process are called decomposers. Decomposer organisms include bacteria, fungi, earthworms, certain types of insects and snails, etc. Generally, decomposers break down dead matter but they can also decompose living matter lying on the ground. Viruses are not decomposers. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 23,
+    "year": "2013",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "खाद्य शृंखला उस क्रम का निदर्शन करती है, जिससे जीवों की एक शृंखला एक-दूसरे के आहार द्वारा पोषित होती है।",
+        "en": "A food chain illustrates the order in which a chain of organisms feed upon each other."
+      },
+      {
+        "id": 2,
+        "hi": "खाद्य शृंखला एक जाति की समष्टि के अंतर्गत पाई जाती है।",
+        "en": "Food chains are found within the populations of a species."
+      },
+      {
+        "id": 3,
+        "hi": "खाद्य शृंखला उस प्रत्येक जीव की संख्याओं का, जो दूसरों के द्वारा खाई जाती है, निदर्शन करती है।",
+        "en": "A food chain illustrates the numbers of each organism which are eaten by others."
+      }
+    ],
+    "question": {
+      "hi": "पारितन्त्रों में खाद्य शृंखलाओं के सन्दर्भ में निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to food chains in ecosystems, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "जीवमंडल में एक जीव से दूसरे जीव में ऊर्जा (भोजन के रूप में) के स्थानांतरण के क्रम को खाद्य-शृंखला (Food-chain) कहते हैं (कथन 1 सही है)। कथन 2 गलत है क्योंकि खाद्य-शृंखला किसी एक जाति की समष्टि में नहीं पाई जाती अपितु इसका क्षेत्र व्यापक होता है तथा इसके अंतर्गत विविध जीव समष्टियाँ शामिल होती हैं। कथन 3 भी गलत है क्योंकि प्रत्येक जीव की संख्या जो दूसरों द्वारा खाई जाती है, का निदर्शन पोषण स्तर कहलाता है, न कि खाद्य शृंखला। अतः विकल्प (a) सही है।",
+      "en": "The sequence of transfer of energy (in the form of food) from one organism to another in the biosphere is called a food-chain (Statement 1 is correct). Statement 2 is incorrect because a food chain is not found within the population of a single species, rather its scope is wide and it includes various populations of organisms. Statement 3 is also incorrect because the illustration of the numbers of each organism eaten by others is called the trophic level, not a food chain. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 24,
+    "year": "2012",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कार्बन सिंक के रूप में महासागर पर प्रतिकूल प्रभाव पड़ेगा।",
+        "en": "The ocean as a carbon sink would be adversely affected."
+      },
+      {
+        "id": 2,
+        "hi": "महासागर की खाद्य शृंखला पर प्रतिकूल प्रभाव पड़ेगा।",
+        "en": "The food chains in the ocean would be adversely affected."
+      },
+      {
+        "id": 3,
+        "hi": "महासागर का जल-घनत्व प्रबल रूप से घट जाएगा।",
+        "en": "The density of ocean water would drastically decrease."
+      }
+    ],
+    "question": {
+      "hi": "यदि किसी महासागर का पादपप्लवक किसी कारण से पूर्णतया नष्ट हो जाए, तो इसका क्या प्रभाव होगा?\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये:",
+      "en": "If the phytoplankton of an ocean is completely destroyed for some reason, what would be its effect?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कार्बन डाइऑक्साइड के लिये समुद्र एक भंडार-गृह की तरह कार्य करता है क्योंकि यह प्रतिदिन कार्बन डाइऑक्साइड का अवशोषण करता है। अतः इसे कार्बन सिंक भी कहते हैं। पादपप्लवक, महासागरीय पारितंत्र की प्रारंभिक कड़ी है। ये वायुमंडल से कार्बन डाइऑक्साइड ग्रहण कर अपना भोजन निर्मित करते हैं तथा इन पादपप्लवकों को जीव प्लवक अपना आहार बनाते हैं। पादपप्लवक कार्बन का अंतर्ग्रहण कर समुद्री खाद्य शृंखला का निर्माण करते हैं जिनकी महासागरीय कार्बन सिंक में महत्त्वपूर्ण भूमिका होती है। ऐसे में यदि पादपप्लवकों का समूल नाश होता है तो निश्चय ही कार्बन सिंक के रूप में महासागर एवं महासागरीय खाद्य शृंखला पर प्रतिकूल प्रभाव पड़ेगा। अतः कथन 1 एवं 2 सही हैं। कथन 3 गलत है क्योंकि महासागरीय जल घनत्व में पादपप्लवकों का कोई विशेष योगदान नहीं होता है। अतः विकल्प (a) सही है।",
+      "en": "The ocean acts like a storehouse for carbon dioxide because it absorbs carbon dioxide every day. Therefore, it is also called a carbon sink. Phytoplankton is the initial link of the oceanic ecosystem. They prepare their food by absorbing carbon dioxide from the atmosphere, and these phytoplanktons are consumed by zooplankton. Phytoplankton ingest carbon and form the marine food chain, playing an important role in the oceanic carbon sink. In such a situation, if phytoplanktons are completely destroyed, it will certainly have an adverse effect on the ocean as a carbon sink and the marine food chain. Hence statements 1 and 2 are correct. Statement 3 is incorrect because phytoplankton do not have any special contribution to ocean water density. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 25,
+    "year": "2011",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अपघटक सूक्ष्मजीवियों को सतह पर लाकर।",
+        "en": "Bringing decomposer microorganisms to the surface."
+      },
+      {
+        "id": 2,
+        "hi": "पोषकों को सतह पर लाकर।",
+        "en": "Bringing nutrients to the surface."
+      },
+      {
+        "id": 3,
+        "hi": "अधस्थली जीवों को सतह पर लाकर।",
+        "en": "Bringing bottom-dwelling organisms to the surface."
+      }
+    ],
+    "question": {
+      "hi": "पारितंत्र उत्पादकता के संदर्भ में समुद्री उत्प्रवाह (अपवेलिंग) क्षेत्र महत्त्वपूर्ण हैं क्योंकि ये निम्नांकित माध्यमों से समुद्री उत्पादकता बढ़ाते हैं:\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Upwelling zones in the ocean are important in the context of marine ecosystem productivity because they increase marine productivity by:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "समुद्री उत्प्रवाह के क्षेत्र पारितंत्रीय उत्पादकता के संदर्भ में महत्त्वपूर्ण होते हैं। समुद्री उत्प्रवाह, सागरीय तल से पोषक तत्त्वों को सागरीय सतह पर लाता है जो पादपप्लवकों के उत्पादन हेतु महत्त्वपूर्ण आहार होता है। इस संदर्भ में अपघटक सूक्ष्मजीवों तथा अधस्थली जीवों की कोई भूमिका नहीं होती है। अतः केवल 2 सही है। विकल्प (b) सही है।",
+      "en": "Areas of marine upwelling are important in the context of ecosystem productivity. Marine upwelling brings nutrients from the ocean floor to the ocean surface which are important food for the production of phytoplankton. Decomposer microorganisms and bottom-dwelling organisms do not have any role in this context. Hence, only 2 is correct. Option (b) is correct."
+    }
+  },
+  {
+    "id": 26,
+    "year": "2011",
+    "subject": "Environment",
+    "topic": "पारिस्थितिक तंत्र (Ecology and Ecosystem)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "प्रकाश संश्लेषण",
+        "en": "Photosynthesis"
+      },
+      {
+        "id": 2,
+        "hi": "श्वसन",
+        "en": "Respiration"
+      },
+      {
+        "id": 3,
+        "hi": "जैव पदार्थों का अपक्षय",
+        "en": "Decay of organic matter"
+      },
+      {
+        "id": 4,
+        "hi": "ज्वालामुखी क्रियाएँ",
+        "en": "Volcanic action"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पर विचार कीजिये:\nउपर्युक्त में से कौन-सी क्रियाएँ पृथ्वी के कार्बन चक्र में कार्बन डाइऑक्साइड को जोड़ती हैं?",
+      "en": "Consider the following:\nWhich of the above add carbon dioxide to the carbon cycle on Earth?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 4",
+        "en": "1 and 4 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "कार्बन चक्र, वायुमंडल में कार्बन का हस्तांतरण एवं वायुमंडल से स्थलमंडल एवं जलमंडल में आदान-प्रदान की अनवरत चलने वाली प्रक्रिया है। कार्बन चक्र में योगदान (जोड़ने) करने वाले निम्नांकित घटक हैं- ज्वालामुखी क्रियाएँ, जंगलों की आग, जीवाश्म ईंधनों का जलाया जाना, जैव पदार्थों का अपघटन/अपक्षय, और श्वसन (जीव, वनस्पतियों एवं सागरीय फाइटोप्लैंकटन द्वारा)। प्रकाश संश्लेषण की क्रिया द्वारा कार्बन डाइऑक्साइड का अवशोषण होता है, ना कि इसे जोड़ा जाता है। अतः 2, 3 और 4 सही हैं। अतः विकल्प (c) सही है।",
+      "en": "The carbon cycle is a continuous process of transfer of carbon into the atmosphere and exchange from the atmosphere to the lithosphere and hydrosphere. The components contributing (adding) to the carbon cycle are: volcanic actions, forest fires, burning of fossil fuels, decomposition/decay of organic matter, and respiration (by animals, plants and marine phytoplankton). Carbon dioxide is absorbed by the process of photosynthesis, not added. Thus, 2, 3 and 4 are correct. Hence, option (c) is correct."
+    }
+  }
+]

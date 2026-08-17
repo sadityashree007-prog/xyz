@@ -1,0 +1,3456 @@
+[
+  {
+    "id": 1,
+    "year": "2025",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "प्रथम गंधर्व महाविद्यालय, जो एक संगीत प्रशिक्षण विद्यालय था, विष्णु दिगंबर पलुस्कर द्वारा 1901 में कहाँ स्थापित किया गया था?[cite: 1]",
+      "en": "Where was the first Gandharva Mahavidyalaya, a music training school, established by Vishnu Digambar Paluskar in 1901?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "दिल्ली",
+        "en": "Delhi"
+      },
+      {
+        "id": "B",
+        "hi": "ग्वालियर",
+        "en": "Gwalior"
+      },
+      {
+        "id": "C",
+        "hi": "उज्जैन",
+        "en": "Ujjain"
+      },
+      {
+        "id": "D",
+        "hi": "लाहौर",
+        "en": "Lahore"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "पहला गंधर्व महाविद्यालय पंडित विष्णु दिगंबर पलुस्कर द्वारा 5 मई, 1901 को लाहौर (जो उस समय ब्रिटिश भारत का हिस्सा था और अब पाकिस्तान में है) में स्थापित किया गया था।[cite: 1] अतः विकल्प (d) सही है।[cite: 1]",
+      "en": "The first Gandharva Mahavidyalaya was established by Pandit Vishnu Digambar Paluskar on May 5, 1901, in Lahore (which was then part of British India and is now in Pakistan). Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 2,
+    "year": "2024",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सी नाटककार भास की रचना है?[cite: 1]",
+      "en": "Which of the following is a composition of the playwright Bhasa?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "काव्यालंकार",
+        "en": "Kavyalankara"
+      },
+      {
+        "id": "B",
+        "hi": "नाट्यशास्त्र",
+        "en": "Natyashastra"
+      },
+      {
+        "id": "C",
+        "hi": "मध्यम-व्यायोग",
+        "en": "Madhyama-Vyayoga"
+      },
+      {
+        "id": "D",
+        "hi": "महाभाष्य",
+        "en": "Mahabhashya"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "भास पहले ज्ञात संस्कृत नाटककार थे और अब तक उनके कई पूर्ण नाटकों की खोज की जा चुकी है।[cite: 1] उन्होंने महाभारत के प्रसंगों पर आधारित 6 नाटक लिखे, जैसे- मध्यम-व्यायोग, पंचरात्र, दूत वाक्यम, दूत घटोत्कच, कर्णभारम, उरुभंगम।[cite: 1] अतः विकल्प (c) सही है।[cite: 1]\nभामह संभवतः 7वीं शताब्दी के विद्वान थे जिन्होंने संस्कृत काव्यशास्त्र पर काम किया।[cite: 1] माना जाता है कि उन्होंने संस्कृत ग्रंथ काव्यालंकार की रचना की थी और वह दण्डिन के समकालीन थे।[cite: 1]\nभरत द्वारा नाट्यशास्त्र में प्रदर्शन, अभिनय, भाव-भंगिमाएँ, मंच निर्देशन और अभिनय से संबंधित नियमों का वर्णन किया गया है।[cite: 1]\nमहाभाष्य की रचना पतंजलि (दूसरी शताब्दी ईसा पूर्व) ने की थी।[cite: 1] यह पाणिनि के ग्रंथ अष्टाध्यायी और कात्यायन की वार्तिक से संस्कृत व्याकरण के चुनिंदा नियमों पर एक टिप्पणी है।[cite: 1]",
+      "en": "Bhasa was the first known Sanskrit playwright and many of his complete plays have been discovered so far. He wrote 6 plays based on the episodes of the Mahabharata, such as - Madhyama-Vyayoga, Pancharatra, Duta Vakyam, Duta Ghatotkacha, Karnabharam, Urubhangam. Hence, option (c) is correct.\nBhamaha was probably a 7th-century scholar who worked on Sanskrit poetics. He is believed to have composed the Sanskrit text Kavyalankara and was a contemporary of Dandin.\nBharata's Natyashastra describes the rules related to performance, acting, gestures, stage direction, and acting.\nMahabhashya was composed by Patanjali (2nd century BCE). It is a commentary on selected rules of Sanskrit grammar from Panini's Ashtadhyayi and Katyayana's Vartika."
+    }
+  },
+  {
+    "id": 3,
+    "year": "2024",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "संघभूति एक भारतीय बौद्ध भिक्षु, जिन्होंने चौथी शताब्दी ईसवी के अंत में चीन की यात्रा की, निम्नलिखित में से किस पर भाष्य के लेखक थे?[cite: 1]",
+      "en": "Sanghabhuti, an Indian Buddhist monk who travelled to China at the end of the fourth century CE, was the author of a commentary on which of the following?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "प्रज्ञापारमिता सूत्र",
+        "en": "Prajnaparamita Sutra"
+      },
+      {
+        "id": "B",
+        "hi": "विसुद्धिमग्गो",
+        "en": "Visuddhimaggo"
+      },
+      {
+        "id": "C",
+        "hi": "सर्वास्तिवाद विनय",
+        "en": "Sarvastivada Vinaya"
+      },
+      {
+        "id": "D",
+        "hi": "ललितविस्तर",
+        "en": "Lalitavistara"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "सर्वास्तिवाद विनय: संपूर्ण सर्वास्तिवाद विनय चीनी बौद्ध धर्मग्रंथ में विद्यमान है।[cite: 1] अपने प्रारंभिक इतिहास में, सर्वास्तिवाद विनय चीन में सर्वसामान्य विनय परंपरा थी।[cite: 1] संघभूति सर्वास्तिवाद विनय पर भाष्य के लेखक थे।[cite: 1] अतः विकल्प (c) सही है।[cite: 1]\nप्रज्ञापारमिता सूत्र: प्रज्ञापारमिता सूत्र महायान सूत्रों में सबसे पुराने हैं और साथ ही महायान बौद्ध दर्शन की नींव भी हैं।[cite: 1] ये दुर्लभ ग्रंथ बौद्ध धर्मग्रंथों के साथ-साथ चीनी एवं तिब्बती धर्मग्रंथों दोनों में पाए जाते हैं।[cite: 1]\nविसुद्धिमग्गो: विसुद्धिमग्गो, थेरवाद बौद्ध धर्म के महाविहार शाखा की शिक्षा का एक विश्वकोश होने के साथ ही उत्कृष्ट सारांश एवं व्याख्या है।[cite: 1] इसे महान बौद्ध टीकाकार बुद्धघोष ने 5वीं शताब्दी में श्रीलंका के राजा महानामा के शासनकाल के दौरान लिखा था।[cite: 1]\nललितविस्तर: ललितविस्तर एक बहुत ही महत्त्वपूर्ण संस्कृत बौद्ध ग्रंथ है।[cite: 1] यह बुद्ध की जीवनी होने के साथ-साथ मूल रूप से हीनयान संप्रदाय के सर्वास्तिवाद संप्रदाय का ग्रंथ है।[cite: 1] यह ईसाई युग की प्रारंभिक शताब्दियों के दौरान भारत के सामाजिक एवं सांस्कृतिक इतिहास पर भी प्रकाश डालता है।[cite: 1]",
+      "en": "Sarvastivada Vinaya: The complete Sarvastivada Vinaya exists in the Chinese Buddhist canon. In its early history, the Sarvastivada Vinaya was the most common Vinaya tradition in China. Sanghabhuti was the author of a commentary on the Sarvastivada Vinaya. Hence, option (c) is correct.\nPrajnaparamita Sutra: Prajnaparamita Sutras are the oldest of the Mahayana sutras and also the foundation of Mahayana Buddhist philosophy. These rare texts are found in both Chinese and Tibetan scriptures along with Buddhist scriptures.\nVisuddhimaggo: Visuddhimaggo is an encyclopedia of the teachings of the Mahavihara branch of Theravada Buddhism, as well as an excellent summary and explanation. It was written by the great Buddhist commentator Buddhaghosa in the 5th century during the reign of King Mahanama of Sri Lanka.\nLalitavistara: Lalitavistara is a very important Sanskrit Buddhist text. It is a biography of the Buddha as well as originally a text of the Sarvastivada school of the Hinayana sect. It also throws light on the social and cultural history of India during the early centuries of the Christian era."
+    }
+  },
+  {
+    "id": 4,
+    "year": "2024",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "शांतिनिकेतन",
+        "en": "Shantiniketan"
+      },
+      {
+        "id": 2,
+        "hi": "रानी-की-वाव",
+        "en": "Rani-ki-Vav"
+      },
+      {
+        "id": 3,
+        "hi": "होयसल के पवित्र मंदिर समूह",
+        "en": "Sacred Ensembles of the Hoysalas"
+      },
+      {
+        "id": 4,
+        "hi": "बोधगया स्थित महाबोधि मंदिर परिसर",
+        "en": "Mahabodhi Temple Complex at Bodhgaya"
+      }
+    ],
+    "question": {
+      "hi": "यूनेस्को (UNESCO) द्वारा जारी विश्व धरोहर सूची में शामिल की गई निम्नलिखित संपत्तियों पर विचार कीजिये:[cite: 1]\nउपर्युक्त में से कितनी संपत्तियों को वर्ष 2023 में शामिल किया गया?[cite: 1]",
+      "en": "Consider the following properties included in the World Heritage List issued by UNESCO:\nHow many of the above properties were included in the year 2023?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "केवल तीन",
+        "en": "Only three"
+      },
+      {
+        "id": "D",
+        "hi": "सभी चार",
+        "en": "All four"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "शांतिनिकेतन: पश्चिम बंगाल - रवींद्रनाथ टैगोर द्वारा स्थापित शांतिनिकेतन एक आवासीय विद्यालय के साथ-साथ प्राचीन भारतीय परंपराओं तथा धार्मिक एवं सांस्कृतिक सीमाओं से परे मानवता की एकता की दृष्टि पर आधारित कला का केंद्र था।[cite: 1] शांतिनिकेतन को वर्ष 2023 में यूनेस्को द्वारा भारत के 41वें विश्व धरोहर स्थल के रूप में मान्यता दी गई है।[cite: 1] अतः बिंदु (1) सही है।[cite: 1]\nरानी-की-वाव: गुजरात - सरस्वती नदी के तट पर स्थित रानी-की-वाव का निर्माण 11वीं शताब्दी में एक राजा की स्मृति में कराया गया था।[cite: 1] रानी-की-वाव को वर्ष 2014 में यूनेस्को द्वारा भारत के 32वें विश्व धरोहर स्थल के रूप में मान्यता दी गई है।[cite: 1] बिंदु (2) सही नहीं है।[cite: 1]\nहोयसल पवित्र मंदिर समूह: कर्नाटक - इसमें दक्षिण भारत में 12वीं से 13वीं शताब्दी के होयसल शैली के मंदिर परिसरों के प्रतिनिधि उदाहरण शामिल हैं।[cite: 1] होयसल शैली के मंदिर परिसरों को यूनेस्को द्वारा वर्ष 2023 में भारत के 42वें विश्व धरोहर स्थल के रूप में मान्यता दी गई है।[cite: 1] अतः बिंदु (3) सही है।[cite: 1]\nमहाबोधि मंदिर परिसर: बोधगया - महाबोधि मंदिर परिसर भगवान बुद्ध के जीवन एवं विशेष रूप से ज्ञान प्राप्ति से संबंधित चार पवित्र स्थलों में से एक है।[cite: 1] महाबोधि मंदिर परिसर को वर्ष 2002 में यूनेस्को द्वारा भारत के 23वें विश्व धरोहर स्थल के रूप में मान्यता दी गई है।[cite: 1] अतः बिंदु (4) सही नहीं है।[cite: 1]\nअतः विकल्प (b) सही है।[cite: 1]",
+      "en": "Shantiniketan: West Bengal - Founded by Rabindranath Tagore, Shantiniketan was a residential school as well as a center of art based on ancient Indian traditions and a vision of the unity of humanity transcending religious and cultural boundaries. Shantiniketan was recognized by UNESCO as India's 41st World Heritage Site in the year 2023. Hence, point (1) is correct.\nRani-ki-Vav: Gujarat - Located on the banks of the Saraswati River, Rani-ki-Vav was built in the 11th century in memory of a king. Rani-ki-Vav was recognized by UNESCO as India's 32nd World Heritage Site in the year 2014. Point (2) is not correct.\nSacred Ensembles of the Hoysalas: Karnataka - It includes representative examples of 12th to 13th century Hoysala style temple complexes in South India. The Hoysala style temple complexes have been recognized by UNESCO as India's 42nd World Heritage Site in the year 2023. Hence, point (3) is correct.\nMahabodhi Temple Complex: Bodhgaya - The Mahabodhi Temple Complex is one of the four holy sites related to the life of Lord Buddha and especially his attainment of enlightenment. The Mahabodhi Temple Complex was recognized by UNESCO as India's 23rd World Heritage Site in the year 2002. Hence, point (4) is not correct.\nHence, option (b) is correct."
+    }
+  },
+  {
+    "id": 5,
+    "year": "2024",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "यूनेस्को (UNESCO) की अमूर्त सांस्कृतिक विरासत की सूची में निम्नलिखित में से कौन-सा नवीनतम समावेश था?[cite: 1]",
+      "en": "Which of the following was the latest inclusion in the UNESCO list of Intangible Cultural Heritage?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "छऊ (छाऊ) नृत्य",
+        "en": "Chhau dance"
+      },
+      {
+        "id": "B",
+        "hi": "दुर्गा पूजा",
+        "en": "Durga Puja"
+      },
+      {
+        "id": "C",
+        "hi": "गरबा नृत्य",
+        "en": "Garba dance"
+      },
+      {
+        "id": "D",
+        "hi": "कुंभ मेला",
+        "en": "Kumbh Mela"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "गरबा एक अनुष्ठानिक और भक्ति नृत्य है जो हिंदू त्योहार (नवरात्रि) के अवसर पर किया जाता है तथा यह नारी शक्ति (Feminine Energy) या ऊर्जा हेतु समर्पित है।[cite: 1] यूनेस्को (UNESCO) की अमूर्त सांस्कृतिक विरासत सूची में नवीनतम समावेश (वर्ष 2023 में) गुजरात का गरबा नृत्य है।[cite: 1] अतः विकल्प (c) सही है।[cite: 1]\nछऊ नृत्य- वर्ष 2010[cite: 1]\nदुर्गा पूजा- वर्ष 2021[cite: 1]\nकुंभ मेला- वर्ष 2017[cite: 1]",
+      "en": "Garba is a ritualistic and devotional dance performed on the occasion of the Hindu festival (Navratri) and is dedicated to feminine energy. The latest inclusion (in the year 2023) in the UNESCO Intangible Cultural Heritage list is the Garba dance of Gujarat. Hence, option (c) is correct.\nChhau Dance - Year 2010\nDurga Puja - Year 2021\nKumbh Mela - Year 2017"
+    }
+  },
+  {
+    "id": 6,
+    "year": "2023",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "धान्यकटक, जो महासांघिकों के अधीन एक प्रमुख बौद्ध केंद्र के रूप में समृद्ध हुआ, निम्नलिखित में से किस एक क्षेत्र में अवस्थित था?[cite: 1]",
+      "en": "Dhanyakataka, which flourished as a prominent Buddhist centre under the Mahasanghikas, was located in which one of the following regions?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "आंध्र",
+        "en": "Andhra"
+      },
+      {
+        "id": "B",
+        "hi": "गांधार",
+        "en": "Gandhara"
+      },
+      {
+        "id": "C",
+        "hi": "कलिंग",
+        "en": "Kalinga"
+      },
+      {
+        "id": "D",
+        "hi": "मगध",
+        "en": "Magadha"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "धान्यकटक वर्तमान में दक्षिण पूर्वी भारत के आंध्र प्रदेश में अमरावती के निकट स्थित एक छोटा-सा नगर है, जहाँ शाक्यमुनि बुद्ध ने शंभला के राजाओं को कालचक्र धर्म के सार स्वरूप की शिक्षा दी थी।[cite: 1] अमरावती धरणीकोटा/धरनीकोटा, इतिहास में तीसरी बार (12वीं शताब्दी में) कोटा शासकों की राजधानी बना था।[cite: 1] गुंटूर के येलपुरु में एक मंदिर में पाए गए एक शिलालेख के अनुसार, अमरावती को निम्नलिखित प्रकार से वर्णित किया गया था:[cite: 1] \"श्री धान्यकटक नाम का एक नगर है, जो देवताओं के नगर से श्रेष्ठ है, जहाँ अमरेश्वर नाम के शंभू मंदिर की पूजा देवताओं के राजा (इंद्र) द्वारा की जाती है, यहाँ भगवान बुद्ध को भी पूजा जाता है।[cite: 1] यहाँ एक बहुत ऊँचा चैत्य है, जो विभिन्न मूर्तियों से सुशोभित है।\"[cite: 1] जिससे यह भी पता चलता है कि यह स्तूप अपने काल में चरमोत्कर्ष पर था।[cite: 1] अतः विकल्प (a) सही है।[cite: 1]",
+      "en": "Dhanyakataka is presently a small town located near Amaravati in Andhra Pradesh, south-eastern India, where Shakyamuni Buddha taught the essence of the Kalachakra dharma to the kings of Shambhala. Amaravati Dharanikota/Dharnikota, became the capital of the Kota rulers for the third time in history (in the 12th century). According to an inscription found in a temple at Yelpuru in Guntur, Amaravati was described as follows: \"There is a city named Sri Dhanyakataka, which is superior to the city of the gods, where the Shambhu temple named Amareshwara is worshipped by the king of the gods (Indra), here Lord Buddha is also worshipped. There is a very high Chaitya here, which is adorned with various idols.\" This also shows that this stupa was at its peak during its time. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 7,
+    "year": "2023",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "स्तूप की संकल्पना मूलतः बौद्ध संकल्पना है।",
+        "en": "The concept of Stupa is Buddhist in origin."
+      },
+      {
+        "id": 2,
+        "hi": "स्तूप आमतौर पर अवशेषों का निक्षेपागार होता था।",
+        "en": "Stupa was generally a repository of relics."
+      },
+      {
+        "id": 3,
+        "hi": "बौद्ध परंपरा में स्तूप एक संकल्प-अर्पित या स्मारक संरचना होती थी।",
+        "en": "Stupa was a votive and commemorative structure in Buddhist tradition."
+      }
+    ],
+    "question": {
+      "hi": "प्राचीन भारत के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:[cite: 1]\nउपर्युक्त में से कितने कथन सही हैं?[cite: 1]",
+      "en": "With reference to ancient India, consider the following statements:\nHow many of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "स्तूप की संकल्पना: स्तूप वैदिक काल से भारत में प्रचलित शवाधान टीले थे।[cite: 1] स्तूप शब्द का उल्लेख ऋग्वेद, अथर्ववेद, वाजसनेयी संहिता, तैत्तिरीय संहिता, पंचविंश ब्राह्मण में मिलता है।[cite: 1] अतः कथन 1 सही नहीं है।[cite: 1]\nऋग्वेद में वन में देवता वरुण द्वारा बनाए गए स्तूप का उल्लेख मिलता है, जिसकी कोई नींव (आधार) नहीं होती थी।[cite: 1] ऋग्वेद में 'एस्तुका' शब्द का उपयोग भी इसी अर्थ में किया गया है वस्तुतः उस समय भूमि पर निर्मित ढेर/टीले को स्तूप के नाम से जाना जाता था।[cite: 1]\nसामान्यतः यह अवशेषों का निक्षेपागार था जिसमें मृतकों के अवशेष एवं राख को रखा जाता था।[cite: 1] वैदिक परंपरा के स्तूपों को बौद्धों द्वारा लोकप्रिय बनाया गया।[cite: 1] अतः कथन 2 सही है।[cite: 1]\nअवदान शतक, महावदान एवं स्तूपवदान जैसे बौद्ध ग्रंथों से स्तूपों के स्मारक पहलुओं का उल्लेख किया गया है।[cite: 1] यहाँ तक कि राया पसेणैया सुत्त (Raya Pasenaiya Sutta) जैसे जैन साहित्य में भी इसका उल्लेख मिलता है।[cite: 1] मोक्ष प्राप्ति के उद्देश्य से भगवान की पूजा करने की सामान्य जन की गहरी आस्था के परिणामस्वरूप स्तूप ने आगे चलकर अपना संकल्प-अर्पित संरचना स्वरुप प्राप्त किया।[cite: 1] अतः कथन 3 सही है।[cite: 1] अतः विकल्प (b) सही है।[cite: 1]",
+      "en": "Concept of Stupa: Stupas were burial mounds prevalent in India since the Vedic period. The word Stupa is mentioned in the Rigveda, Atharvaveda, Vajasaneyi Samhita, Taittiriya Samhita, and Panchavimsha Brahmana. Hence, statement 1 is not correct.\nThe Rigveda mentions a stupa built by the god Varuna in the forest, which had no foundation (base). The word 'Estuka' has also been used in the Rigveda in the same sense. In fact, at that time, a heap/mound built on the ground was known as a stupa.\nGenerally, it was a repository of relics in which the remains and ashes of the dead were kept. The stupas of the Vedic tradition were popularized by Buddhists. Hence, statement 2 is correct.\nBuddhist texts like Avadana Shataka, Mahavadana and Stupavadana mention the monumental aspects of stupas. It is even mentioned in Jain literature like Raya Pasenaiya Sutta. As a result of the deep faith of the common people in worshipping God for the purpose of attaining salvation, the stupa later acquired its votive structure form. Hence, statement 3 is correct. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 8,
+    "year": "2023",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बेसनगर : शैव गुफा मंदिर",
+        "en": "Besnagar : Shaivite cave shrine"
+      },
+      {
+        "id": 2,
+        "hi": "भाजा : बौद्ध गुफा मंदिर",
+        "en": "Bhaja : Buddhist cave shrine"
+      },
+      {
+        "id": 3,
+        "hi": "सित्तनवासल : जैन गुफा मंदिर",
+        "en": "Sittanavasal : Jain cave shrine"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये (स्थल और वे जिसके लिये जाने जाते हैं):\nउपर्युक्त में से कितने युग्म सही सुमेलित हैं?",
+      "en": "Consider the following pairs (Site and what it is known for):\nHow many of the above pairs are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "बेसनगर (विदिशा) में हेलियोडोरस स्तंभ एक गरुड़-स्तंभ (वैष्णव मत) है, न कि शैव गुफा मंदिर। अतः युग्म 1 गलत है। भाजा गुफाएँ (महाराष्ट्र) बौद्ध गुफा मंदिर हैं। अतः युग्म 2 सही है। सित्तनवासल (तमिलनाडु) जैन गुफा मंदिरों के लिये प्रसिद्ध है। अतः युग्म 3 सही है। अतः विकल्प (b) सही है।",
+      "en": "The Heliodorus pillar in Besnagar (Vidisha) is a Garuda-pillar (Vaishnavite), not a Shaivite cave shrine. Hence pair 1 is incorrect. Bhaja caves (Maharashtra) are Buddhist cave shrines. Hence pair 2 is correct. Sittanavasal (Tamil Nadu) is famous for Jain cave shrines. Hence pair 3 is correct. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 9,
+    "year": "2022",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "धौली - ओडिशा",
+        "en": "Dhauli - Odisha"
+      },
+      {
+        "id": 2,
+        "hi": "एर्रगुडी - आंध्र प्रदेश",
+        "en": "Erragudi - Andhra Pradesh"
+      },
+      {
+        "id": 3,
+        "hi": "जौगढ़ - मध्य प्रदेश",
+        "en": "Jaugada - Madhya Pradesh"
+      },
+      {
+        "id": 4,
+        "hi": "कालसी - कर्नाटक",
+        "en": "Kalsi - Karnataka"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये (अशोक के प्रमुख शिलालेखों के स्थान और वह राज्य जहाँ वे हैं):\nउपर्युक्त युग्मों में से कितने सही सुमेलित हैं?",
+      "en": "Consider the following pairs (Location of Ashoka's major rock edicts and the state they are in):\nHow many of the above pairs are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक युग्म",
+        "en": "Only one pair"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो युग्म",
+        "en": "Only two pairs"
+      },
+      {
+        "id": "C",
+        "hi": "केवल तीन युग्म",
+        "en": "Only three pairs"
+      },
+      {
+        "id": "D",
+        "hi": "सभी चारों युग्म",
+        "en": "All four pairs"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "धौली ओडिशा में स्थित है। अतः युग्म 1 सही है। एर्रगुडी आंध्र प्रदेश के कुर्नूल ज़िले में है। अतः युग्म 2 सही है। जौगढ़ ओडिशा के गंजम ज़िले में स्थित है, न कि मध्य प्रदेश में। अतः युग्म 3 गलत है। कालसी उत्तराखंड में स्थित है, न कि कर्नाटक में। अतः युग्म 4 गलत है। केवल दो युग्म सही हैं।",
+      "en": "Dhauli is located in Odisha. Hence pair 1 is correct. Erragudi is in Kurnool district of Andhra Pradesh. Hence pair 2 is correct. Jaugada is located in Ganjam district of Odisha, not Madhya Pradesh. Hence pair 3 is incorrect. Kalsi is located in Uttarakhand, not Karnataka. Hence pair 4 is incorrect. Only two pairs are correct."
+    }
+  },
+  {
+    "id": 10,
+    "year": "2022",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "प्राचीन दक्षिण भारत में संगम साहित्य के बारे में, निम्नलिखित कथनों में कौन-सा एक सही है?",
+      "en": "Which one of the following is correct about Sangam literature in ancient South India?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "संगम कविताओं में भौतिक संस्कृति का कोई संदर्भ नहीं है।",
+        "en": "There is no reference to material culture in Sangam poems."
+      },
+      {
+        "id": "B",
+        "hi": "वर्ण का सामाजिक वर्गीकरण संगम कवियों को ज्ञात था।",
+        "en": "The social classification of Varna was known to Sangam poets."
+      },
+      {
+        "id": "C",
+        "hi": "संगम कविताओं में समर शौर्य का कोई संदर्भ नहीं है।",
+        "en": "There is no reference to martial valor in Sangam poems."
+      },
+      {
+        "id": "D",
+        "hi": "संगम साहित्य में जादुई ताकतों को असंगत बताया गया है।",
+        "en": "Magical forces are described as irrelevant in Sangam literature."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "संगम साहित्य लगभग 300 ईसा पूर्व से 300 ईस्वी तक रचित कविताओं का संग्रह है। यह विभिन्न सामाजिक वर्गों द्वारा लिखा गया था, जिससे पता चलता है कि वर्ण का सामाजिक वर्गीकरण संगम कवियों को ज्ञात था। अतः विकल्प (b) सही है। इसमें भौतिक संस्कृति, युद्ध शौर्य (पुरम्) और जादुई ताकतों (अनंकु) का भी वर्णन मिलता है।",
+      "en": "Sangam literature is a collection of poems composed roughly between 300 BCE and 300 CE. It was written by various social groups, indicating that the social classification of Varna was known to Sangam poets. Hence, option (b) is correct. It also contains references to material culture, martial valor (Puram), and magical forces (Ananku)."
+    }
+  },
+  {
+    "id": 11,
+    "year": "2022",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "किसके राज्यकाल में 'योगवासिष्ठ' का निज़ामुद्दीन पानीपती द्वारा फ़ारसी में अनुवाद किया गया?",
+      "en": "During whose reign was the 'Yogavasistha' translated into Persian by Nizamuddin Panipati?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अकबर",
+        "en": "Akbar"
+      },
+      {
+        "id": "B",
+        "hi": "हुमायूँ",
+        "en": "Humayun"
+      },
+      {
+        "id": "C",
+        "hi": "शाहजहाँ",
+        "en": "Shahjahan"
+      },
+      {
+        "id": "D",
+        "hi": "औरंगज़ेब",
+        "en": "Aurangzeb"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "सम्राट अकबर के कार्यकाल में 'योगवासिष्ठ' का फ़ारसी में अनुवाद निज़ामुद्दीन पानीपती ने किया था। यह मूल रूप से वाल्मीकि द्वारा संस्कृत में लिखा गया एक ग्रंथ है। बाद में दारा शिकोह के समय में भी इसका पुनः अनुवाद किया गया था। अतः विकल्प (a) सही है।",
+      "en": "During the reign of Emperor Akbar, the 'Yogavasistha' was translated into Persian by Nizamuddin Panipati. It is originally a text written in Sanskrit by Valmiki. It was later translated again during the time of Dara Shikoh. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 12,
+    "year": "2022",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "हाल ही में हैदराबाद में भारत के प्रधानमंत्री द्वारा रामानुज की आसन मुद्रा में विश्व की दूसरी सबसे ऊँची मूर्ति का उद्घाटन किया गया था। निम्नलिखित कथनों में कौन-सा एक, रामानुज की शिक्षाओं को सही निरूपित करता है?",
+      "en": "Recently, the Prime Minister of India inaugurated the world's second tallest statue of Ramanuja in a sitting posture in Hyderabad. Which one of the following statements correctly represents the teachings of Ramanuja?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "मोक्ष प्राप्ति का सर्वोत्तम साधन भक्ति था।",
+        "en": "The best means of attaining salvation was devotion."
+      },
+      {
+        "id": "B",
+        "hi": "वेद शाश्वत, आत्म-प्रतिष्ठित तथा पूर्णतया प्रामाणिक हैं।",
+        "en": "Vedas are eternal, self-established and completely authoritative."
+      },
+      {
+        "id": "C",
+        "hi": "तर्कसंगत युक्तियाँ सर्वोच्च आनंद के मौलिक माध्यम थे।",
+        "en": "Logical arguments were the fundamental means to supreme bliss."
+      },
+      {
+        "id": "D",
+        "hi": "ध्यान के माध्यम से मोक्ष पाया जा सकता था।",
+        "en": "Salvation could be attained through meditation."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "रामानुज का जन्म 11वीं शताब्दी में तमिलनाडु में हुआ था। वे वैष्णव अलवार संतों से बहुत प्रभावित थे। उनके अनुसार, मोक्ष प्राप्त करने का उपाय विष्णु के प्रति अनन्य भक्ति भाव रखना है। उन्होंने विशिष्टाद्वैत के सिद्धांत को प्रतिपादित किया। अतः विकल्प (a) सही है।",
+      "en": "Ramanuja was born in Tamil Nadu in the 11th century. He was deeply influenced by the Vaishnava Alvar saints. According to him, the best means of attaining salvation was intense devotion to Lord Vishnu. He propounded the doctrine of Vishishtadvaita. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 13,
+    "year": "2022",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सोमनाथ मंदिर ज्योतिर्लिंग देव-मंदिरों में से एक है।",
+        "en": "Somnath Temple is one of the Jyotirlinga shrines."
+      },
+      {
+        "id": 2,
+        "hi": "अल-बरूनी ने सोमनाथ मंदिर का वर्णन किया है।",
+        "en": "Al-Biruni described the Somnath Temple."
+      },
+      {
+        "id": 3,
+        "hi": "सोमनाथ मंदिर की प्राण-प्रतिष्ठा (आज के मंदिर की स्थापना) राष्ट्रपति एस. राधाकृष्णन द्वारा की गई थी।",
+        "en": "The Pran-Pratishtha (installation of the present temple) of Somnath Temple was done by President S. Radhakrishnan."
+      }
+    ],
+    "question": {
+      "hi": "हाल ही में, प्रधानमंत्री ने वेरावल में सोमनाथ मंदिर के निकट नए सर्किट हाउस का उद्घाटन किया। सोमनाथ मंदिर के बारे में निम्नलिखित कथनों में कौन-से सही हैं?",
+      "en": "Recently, the Prime Minister inaugurated the new Circuit House near the Somnath Temple in Veraval. Which of the following statements are correct about Somnath Temple?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "सोमनाथ मंदिर भारत के बारह आदि ज्योतिर्लिंगों में प्रथम है। (कथन 1 सही)। अरब यात्री अल-बरूनी ने अपने यात्रा वृत्तांत में इसका उल्लेख किया था, जिससे प्रभावित होकर महमूद गजनवी ने 1024 ई. में इस पर हमला किया। (कथन 2 सही)। 11 मई 1951 को भारत के तत्कालीन राष्ट्रपति डॉ. राजेंद्र प्रसाद ने मौजूदा मंदिर में प्राण-प्रतिष्ठा की थी, न कि एस. राधाकृष्णन ने। (कथन 3 गलत)। अतः विकल्प (a) सही है।",
+      "en": "Somnath Temple is the first among the twelve Jyotirlingas in India. (Statement 1 is correct). Arab traveller Al-Biruni mentioned it in his travelogue, influenced by which Mahmud of Ghazni attacked it in 1024 CE. (Statement 2 is correct). On May 11, 1951, the then President of India Dr. Rajendra Prasad performed the Pran-Pratishtha of the existing temple, not S. Radhakrishnan. (Statement 3 is incorrect). Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 14,
+    "year": "2022",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "नेत्तिपकरण",
+        "en": "Nettipakarana"
+      },
+      {
+        "id": 2,
+        "hi": "परिशिष्टपर्वन",
+        "en": "Parishishtaparvan"
+      },
+      {
+        "id": 3,
+        "hi": "अवदानशतक",
+        "en": "Avadanashataka"
+      },
+      {
+        "id": 4,
+        "hi": "त्रिशष्टिलक्षण महापुराण",
+        "en": "Trishashtilakshana Mahapurana"
+      }
+    ],
+    "question": {
+      "hi": "भारतीय इतिहास के संदर्भ में, निम्नलिखित मूलग्रंथों पर विचार कीजिये:\nउपर्युक्त में से कौन-से जैन ग्रंथ हैं?",
+      "en": "With reference to Indian history, consider the following texts:\nWhich of the above are Jain texts?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "1, 3 और 4",
+        "en": "1, 3 and 4"
+      },
+      {
+        "id": "D",
+        "hi": "2, 3 और 4",
+        "en": "2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "नेत्तिपकरण एक पौराणिक बौद्ध ग्रंथ है। अवदानशतक बौद्ध किंवदंतियों का संस्कृत में एक संकलन है। परिशिष्टपर्वन हेमचंद्र द्वारा रचित 12वीं शताब्दी का संस्कृत महाकाव्य है जो प्रारंभिक जैन शिक्षकों का इतिहास प्रस्तुत करता है। त्रिशष्टिलक्षण महापुराण एक प्रमुख जैन ग्रंथ है जिसकी रचना आचार्य जिनसेन ने की थी। अतः केवल 2 और 4 जैन ग्रंथ हैं। विकल्प (b) सही है।",
+      "en": "Nettipakarana is a mythological Buddhist text. Avadanashataka is a compilation of Buddhist legends in Sanskrit. Parishishtaparvan is a 12th-century Sanskrit epic composed by Hemachandra detailing the history of early Jain teachers. Trishashtilakshana Mahapurana is a major Jain text composed by Acharya Jinasena. Thus, only 2 and 4 are Jain texts. Option (b) is correct."
+    }
+  },
+  {
+    "id": 15,
+    "year": "2022",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्यदेव - जैन विद्वान",
+        "en": "Aryadeva - Jain scholar"
+      },
+      {
+        "id": 2,
+        "hi": "दिग्नाग - बौद्ध विद्वान",
+        "en": "Dignaga - Buddhist scholar"
+      },
+      {
+        "id": 3,
+        "hi": "नाथमुनि - वैष्णव विद्वान",
+        "en": "Nathamuni - Vaishnava scholar"
+      }
+    ],
+    "question": {
+      "hi": "भारतीय इतिहास के संदर्भ में, निम्नलिखित युग्मों पर विचार कीजिये (ऐतिहासिक व्यक्ति और किस रूप में जाने गए):\nउपर्युक्त युग्मों में से कितने युग्म सही सुमेलित हैं?",
+      "en": "With reference to Indian history, consider the following pairs (Historical person and what they were known as):\nHow many of the above pairs are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कोई भी युग्म नहीं",
+        "en": "None of the pairs"
+      },
+      {
+        "id": "B",
+        "hi": "केवल एक युग्म",
+        "en": "Only one pair"
+      },
+      {
+        "id": "C",
+        "hi": "केवल दो युग्म",
+        "en": "Only two pairs"
+      },
+      {
+        "id": "D",
+        "hi": "सभी तीन युग्म",
+        "en": "All three pairs"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "आर्यदेव महायान बौद्ध भिक्षु थे और नागार्जुन के शिष्य थे, न कि जैन विद्वान। (युग्म 1 गलत)। दिग्नाग भारतीय बौद्ध विद्वान और तर्कशास्त्र के संस्थापकों में से एक थे। (युग्म 2 सही)। नाथमुनि (823-951 ई.) एक वैष्णव धर्मशास्त्री थे जिन्होंने नलयिर दिव्य प्रबंधम का संकलन किया था। (युग्म 3 सही)। अतः केवल दो युग्म सही हैं। विकल्प (c) सही है।",
+      "en": "Aryadeva was a Mahayana Buddhist monk and a disciple of Nagarjuna, not a Jain scholar. (Pair 1 is incorrect). Dignaga was an Indian Buddhist scholar and one of the founders of logic. (Pair 2 is correct). Nathamuni (823-951 CE) was a Vaishnava theologian who compiled the Nalayira Divya Prabandham. (Pair 3 is correct). Thus, only two pairs are correct. Option (c) is correct."
+    }
+  },
+  {
+    "id": 16,
+    "year": "2021",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "प्राचीन भारत के इतिहास के संदर्भ में, भवभूति, हस्तिमल्ल तथा क्षेमेश्वर क्यों प्रसिद्ध थे?",
+      "en": "With reference to the history of ancient India, why were Bhavabhuti, Hastimalla and Kshemeshvara famous?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "जैन साधु",
+        "en": "Jain monks"
+      },
+      {
+        "id": "B",
+        "hi": "नाटककार",
+        "en": "Playwrights"
+      },
+      {
+        "id": "C",
+        "hi": "मंदिर वास्तुकार",
+        "en": "Temple architects"
+      },
+      {
+        "id": "D",
+        "hi": "दार्शनिक",
+        "en": "Philosophers"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "8वीं सदी के विद्वान भवभूति संस्कृत में लिखे अपने नाटकों और कविताओं के लिये विख्यात हैं। हस्तिमल्ल होयसल राज्य में रहने वाले एक जैन नाटककार थे जो संस्कृत में नाटक लिखते थे। क्षेमेश्वर एक नाटककार थे जिन्होंने 'चंडकौशिक' नामक नाटक की रचना की थी। इस प्रकार ये सभी 'नाटककार' थे। अतः विकल्प (b) सही है।",
+      "en": "8th-century scholar Bhavabhuti is famous for his plays and poetry written in Sanskrit. Hastimalla was a Jain playwright living in the Hoysala kingdom who wrote plays in Sanskrit. Kshemeshvara was a playwright who composed a play called 'Chandakaushika'. Thus, all of them were 'Playwrights'. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 17,
+    "year": "2021",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित कथनों में से कौन-सा सही है?",
+      "en": "Which of the following statements is correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अजंता गुफाएँ, वाघोरा नदी की घाटी में स्थित हैं।",
+        "en": "Ajanta Caves are located in the gorge of the Waghora river."
+      },
+      {
+        "id": "B",
+        "hi": "साँची स्तूप, चंबल नदी की घाटी में स्थित है।",
+        "en": "Sanchi Stupa is located in the gorge of the Chambal river."
+      },
+      {
+        "id": "C",
+        "hi": "पांडू-लेणा गुफा देव मंदिर, नर्मदा नदी की घाटी में स्थित है।",
+        "en": "Pandu-lena cave shrines are located in the gorge of the Narmada river."
+      },
+      {
+        "id": "D",
+        "hi": "अमरावती स्तूप, गोदावरी नदी की घाटी में स्थित है।",
+        "en": "Amaravati Stupa is located in the gorge of the Godavari river."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "अजंता गुफा दक्कन पठार में वाघोरा नदी घाटी में स्थित है। अतः विकल्प (a) सही है। साँची स्तूप बेतवा नदी की घाटी में स्थित है। पांडू-लेणा गुफा देव मंदिर नासिक में स्थित है, जहाँ गोदावरी नदी का उद्गम स्थल है। अमरावती स्तूप कृष्णा नदी घाटी में स्थित है।",
+      "en": "Ajanta Caves are located in the Waghora river gorge in the Deccan plateau. Hence, option (a) is correct. Sanchi Stupa is located in the Betwa river gorge. Pandu-lena cave shrines are located in Nashik, where the origin of the Godavari river is. Amaravati Stupa is located in the Krishna river gorge."
+    }
+  },
+  {
+    "id": 18,
+    "year": "2021",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह कच्छपघात राजवंश के शासनकाल में निर्मित एक वृत्ताकार मंदिर है।",
+        "en": "It is a circular temple built during the reign of the Kachchhapaghata Dynasty."
+      },
+      {
+        "id": 2,
+        "hi": "यह भारत में निर्मित एकमात्र वृत्ताकार मंदिर है।",
+        "en": "It is the only circular temple built in India."
+      },
+      {
+        "id": 3,
+        "hi": "इसका उद्देश्य इस क्षेत्र में वैष्णव पूजा-पद्धति को प्रोत्साहन देना था।",
+        "en": "It was meant to promote the Vaishnava cult in the region."
+      },
+      {
+        "id": 4,
+        "hi": "इसके डिज़ाइन से यह लोकप्रिय धारणा बनी कि यह भारतीय संसद भवन के लिये प्रेरणा-स्रोत रहा था।",
+        "en": "Its design has given rise to a popular belief that it was the inspiration behind the Indian Parliament building."
+      }
+    ],
+    "question": {
+      "hi": "मुरैना के समीप स्थित चौसठ योगिनी मंदिर के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "en": "With reference to the Chausath Yogini Temple situated near Morena, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 4",
+        "en": "1 and 4"
+      },
+      {
+        "id": "D",
+        "hi": "2, 3 और 4",
+        "en": "2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "चौसठ योगिनी मंदिर (मुरैना) का निर्माण कच्छपघात राजा देवपाल ने करवाया था (कथन 1 सही)। हीरापुर, भुवनेश्वर स्थित चौसठ योगिनी मंदिर भी वृत्ताकार है, अतः यह एकमात्र वृत्ताकार मंदिर नहीं है (कथन 2 गलत)। यह देवी पार्वती का मंदिर है और तंत्र तथा शैव पूजा पद्धति को बढ़ावा देता है, वैष्णव नहीं (कथन 3 गलत)। इसके वृत्ताकार रूप को पुराने संसद भवन के प्रेरणास्रोत के रूप में देखा जाता है (कथन 4 सही)। अतः विकल्प (c) सही है।",
+      "en": "The Chausath Yogini Temple (Morena) was built by the Kachchhapaghata king Devapala (Statement 1 is correct). The Chausath Yogini temple at Hirapur, Bhubaneswar is also circular, so it is not the only circular temple (Statement 2 is incorrect). It is a temple of Goddess Parvati and promotes Tantric and Shaivite worship, not Vaishnava (Statement 3 is incorrect). Its circular shape is seen as the inspiration for the old Parliament building (Statement 4 is correct). Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 19,
+    "year": "2021",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "संत फ्रांसिस ज़ेवियर, जेसुइट संघ (ऑर्डर) के संस्थापक सदस्यों में से एक थे।",
+        "en": "St. Francis Xavier was one of the founding members of the Jesuit Order."
+      },
+      {
+        "id": 2,
+        "hi": "संत फ्रांसिस ज़ेवियर की मृत्यु गोवा में हुई तथा यहाँ उन्हें समर्पित एक गिरजाघर है।",
+        "en": "St. Francis Xavier died in Goa and a church is dedicated to him there."
+      },
+      {
+        "id": 3,
+        "hi": "गोवा में प्रति वर्ष संत फ्रांसिस ज़ेवियर के भोज का अनुष्ठान किया जाता है।",
+        "en": "The Feast of St. Francis Xavier is celebrated in Goa each year."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "संत फ्रांसिस ज़ेवियर जेसुइट संघ के संस्थापक सदस्यों में से एक थे (कथन 1 सही)। उनकी मृत्यु 3 दिसंबर 1552 को चीन के शैंगचुआन द्वीप पर हुई थी, बाद में उनके पार्थिव शरीर को गोवा लाया गया (कथन 2 गलत)। प्रत्येक वर्ष 3 दिसंबर को गोवा में संत ज़ेवियर के भोज का अनुष्ठान किया जाता है (कथन 3 सही)। अतः विकल्प (c) सही है।",
+      "en": "St. Francis Xavier was one of the founding members of the Jesuit Order (Statement 1 is correct). He died on Shangchuan Island, China, on December 3, 1552; later his mortal remains were brought to Goa (Statement 2 is incorrect). The Feast of St. Xavier is celebrated every year on December 3 in Goa (Statement 3 is correct). Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 20,
+    "year": "2020",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के सांस्कृतिक इतिहास के संदर्भ में, 'पारमिता' शब्द का सही विवरण निम्नलिखित में से कौन-सा है?",
+      "en": "With reference to the cultural history of India, which one of the following is the correct description of the term 'Paramita'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सूत्र पद्धति में लिखे गए प्राचीनतम धर्मशास्त्र पाठ",
+        "en": "The earliest Dharmashastra texts written in aphoristic (Sutra) style"
+      },
+      {
+        "id": "B",
+        "hi": "वेदों के प्राधिकार को अस्वीकार करने वाले दार्शनिक संप्रदाय",
+        "en": "Philosophical schools that did not accept the authority of Vedas"
+      },
+      {
+        "id": "C",
+        "hi": "परिपूर्णताएँ जिनकी प्राप्ति से बोधिसत्व पथ प्रशस्त हुआ",
+        "en": "Perfections whose attainment led to the Bodhisattva path"
+      },
+      {
+        "id": "D",
+        "hi": "आरंभिक मध्यकालीन दक्षिण भारत की शक्तिशाली व्यापारी श्रेणियाँ",
+        "en": "Powerful merchant guilds of early medieval South India"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "बौद्ध धर्म में 'परिपूर्णता' या कुछ गुणों की चरम स्थिति को पारमिता या पारमी कहा गया है। बौद्ध धर्म में इन गुणों का विकास पवित्रता की प्राप्ति के लिये किया जाता है ताकि साधक बोधिसत्व के मार्ग पर आगे बढ़ सके। अतः विकल्प (c) सही है।",
+      "en": "In Buddhism, 'perfection' or the culmination of certain virtues is called Paramita or Parami. The cultivation of these virtues in Buddhism is for attaining purity so that the practitioner can advance on the Bodhisattva path. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 21,
+    "year": "2020",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "पाणिनि पुष्यमित्र शुंग से संबंधित है।",
+        "en": "Panini is associated with Pushyamitra Shunga."
+      },
+      {
+        "id": 2,
+        "hi": "अमरसिंह हर्षवर्धन से संबंधित है।",
+        "en": "Amarasimha is associated with Harshavardhana."
+      },
+      {
+        "id": 3,
+        "hi": "कालिदास चंद्रगुप्त-II से संबंधित है।",
+        "en": "Kalidasa is associated with Chandragupta-II."
+      }
+    ],
+    "question": {
+      "hi": "प्राचीन भारत के विद्वानों/साहित्यकारों के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to the scholars/litterateurs of ancient India, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "पाणिनि का समय ईसा पूर्व 5वीं शताब्दी है जबकि पुष्यमित्र शुंग 184 ईसा पूर्व के आसपास थे (पतंजलि उनके समकालीन थे)। (कथन 1 गलत)। अमरसिंह गुप्त सम्राट चंद्रगुप्त द्वितीय के दरबार से संबंधित थे, न कि हर्षवर्धन के। (कथन 2 गलत)। कालिदास को अधिकांश इतिहासकार चंद्रगुप्त द्वितीय का दरबारी मानते हैं। (कथन 3 सही)। अतः विकल्प (c) सही है।",
+      "en": "The period of Panini is 5th century BCE whereas Pushyamitra Shunga was around 184 BCE (Patanjali was his contemporary). (Statement 1 is incorrect). Amarasimha belonged to the court of Gupta emperor Chandragupta II, not Harshavardhana. (Statement 2 is incorrect). Kalidasa is considered by most historians to be a courtier of Chandragupta II. (Statement 3 is correct). Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 22,
+    "year": "2020",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "स्थाविरवादी महायान बौद्ध धर्म से संबद्ध हैं।",
+        "en": "Sthaviravadins belong to Mahayana Buddhism."
+      },
+      {
+        "id": 2,
+        "hi": "लोकोत्तरवादी संप्रदाय बौद्ध धर्म के महासांघिक संप्रदाय की एक शाखा थी।",
+        "en": "Lokottaravadin sect was an offshoot of Mahasanghika sect of Buddhism."
+      },
+      {
+        "id": 3,
+        "hi": "महासांघिकों द्वारा बुद्ध के देवत्वारोपण ने महायान बौद्ध धर्म को प्रोत्साहित किया।",
+        "en": "The deification of Buddha by Mahasanghikas fostered the Mahayana Buddhism."
+      }
+    ],
+    "question": {
+      "hi": "भारत के धार्मिक इतिहास के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to the religious history of India, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "स्थाविरवादी संप्रदाय बौद्ध धर्म की थेरवाद/हीनयान शाखा से संबंधित है, महायान से नहीं। (कथन 1 गलत)। लोकोत्तरवादी संप्रदाय बौद्ध धर्म के महासांघिक संप्रदाय की एक शाखा थी। (कथन 2 सही)। बौद्ध धर्म की महासांघिक शाखा द्वारा बुद्ध का देवत्वारोपण किया गया, जिससे प्रेरणा लेकर महायान संप्रदाय विकसित हुआ। (कथन 3 सही)। अतः विकल्प (b) सही है।",
+      "en": "The Sthaviravada sect belongs to the Theravada/Hinayana branch of Buddhism, not Mahayana. (Statement 1 is incorrect). The Lokottaravadin sect was a branch of the Mahasanghika sect of Buddhism. (Statement 2 is correct). The deification of Buddha was done by the Mahasanghika branch of Buddhism, from which the Mahayana sect took inspiration and developed. (Statement 3 is correct). Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 23,
+    "year": "2020",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इस पुस्तक ने औपनिवेशिक राज्य द्वारा मस्तिष्क की सम्मोहक विजय के विरोध में चेतावनी दी।",
+        "en": "It warned against the Colonial State’s hypnotic conquest of the mind."
+      },
+      {
+        "id": 2,
+        "hi": "इस पुस्तक ने स्वदेशी नुक्कड़ नाटकों तथा लोक गीतों को प्रेरित किया।",
+        "en": "It inspired the performance of swadeshi street plays and folk songs."
+      },
+      {
+        "id": 3,
+        "hi": "देउस्कर द्वारा 'देश' शब्द का प्रयोग, बंगाल क्षेत्र के विशिष्ट संदर्भ में किया गया था।",
+        "en": "The use of 'desh' by Deuskar was in the specific context of the region of Bengal."
+      }
+    ],
+    "question": {
+      "hi": "स्वतंत्रता संग्राम के समय लिखी गई सखाराम गणेश देउस्कर की पुस्तक 'देशेर कथा' के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "en": "With reference to the book 'Desher Katha' written by Sakharam Ganesh Deuskar during the freedom struggle, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "'देशेर कथा' (देश की बात) महान क्रांतिकारी सखाराम गणेश देउस्कर द्वारा 1904 में लिखी गई थी। इस पुस्तक ने औपनिवेशिक राज्य की आलोचना की और स्वदेशी नुक्कड़ नाटकों को प्रेरित किया। इसमें 'देश' शब्द का प्रयोग संपूर्ण भारत के संदर्भ में किया गया था, न कि केवल बंगाल के लिये। अतः कथन 3 गलत है और विकल्प (a) सही है।",
+      "en": "'Desher Katha' (Story of the Nation) was written by the great revolutionary Sakharam Ganesh Deuskar in 1904. The book criticized the colonial state and inspired swadeshi street plays. The word 'desh' in this book was used in the context of the entire country, not just Bengal. Thus, statement 3 is incorrect and option (a) is correct."
+    }
+  },
+  {
+    "id": 24,
+    "year": "2020",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "अस्पृश्य समुदाय के लोगों को लक्षित कर, प्रथम मासिक पत्रिका 'विटाल-विध्वंसक' किसके द्वारा प्रकाशित की गई थी?",
+      "en": "Who among the following launched the first monthly journal 'Vital-Vidhvansak' targeted at the untouchable community?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "गोपाल बाबा वलंगकर",
+        "en": "Gopal Baba Walangkar"
+      },
+      {
+        "id": "B",
+        "hi": "ज्योतिबा फुले",
+        "en": "Jyotiba Phule"
+      },
+      {
+        "id": "C",
+        "hi": "मोहनदास करमचंद गांधी",
+        "en": "Mohandas Karamchand Gandhi"
+      },
+      {
+        "id": "D",
+        "hi": "भीमराव रामजी आंबेडकर",
+        "en": "Bhimrao Ramji Ambedkar"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "अस्पृश्य समुदाय को लक्षित कर प्रथम मासिक पत्रिका 'विटाल-विध्वंसक' (ब्राह्मणवादी प्रदूषण का विध्वंसक) गोपाल बाबा वलंगकर (1840-1900) द्वारा प्रकाशित की गई थी। वे ज्योतिराव फुले के समकालीन थे और महार जाति से संबंधित थे। अतः विकल्प (a) सही है।",
+      "en": "The first monthly journal 'Vital-Vidhvansak' (Destroyer of Brahmanical or Ceremonial Pollution) targeted at the untouchable community was published by Gopal Baba Walangkar (1840-1900). He was a contemporary of Jyotirao Phule and belonged to the Mahar caste. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 25,
+    "year": "2020",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "परिव्राजक - परित्यागी व भ्रमणकारी",
+        "en": "Parivrajaka - Renunciant and Wanderer"
+      },
+      {
+        "id": 2,
+        "hi": "श्रमण - उच्च पद प्राप्त पुजारी",
+        "en": "Shramana - Priest with a high status"
+      },
+      {
+        "id": 3,
+        "hi": "उपासक - बौद्ध धर्म का साधारण अनुगामी",
+        "en": "Upasaka - Lay follower of Buddhism"
+      }
+    ],
+    "question": {
+      "hi": "भारत के सांस्कृतिक इतिहास के संदर्भ में, निम्नलिखित युग्मों पर विचार कीजिये:\nउपर्युक्त युग्मों में से कौन-से सही सुमेलित हैं?",
+      "en": "With reference to the cultural history of India, consider the following pairs:\nWhich of the pairs given above are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "परिव्राजक का अर्थ संन्यासी या भ्रमणकारी होता है। (युग्म 1 सही)। श्रमण का तात्पर्य जैन या बौद्ध भिक्षुओं (तपस्वियों) से है, न कि उच्च पद प्राप्त पुजारी से। (युग्म 2 गलत)। उपासक और उपासिका बौद्ध धर्म के साधारण अनुगामियों को कहा जाता है। (युग्म 3 सही)। अतः विकल्प (b) सही है।",
+      "en": "Parivrajaka means a renunciant or wanderer. (Pair 1 is correct). Shramana refers to Jain or Buddhist monks (ascetics), not a priest with a high status. (Pair 2 is incorrect). Upasaka and Upasika refer to the lay followers of Buddhism. (Pair 3 is correct). Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 26,
+    "year": "2019",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बुद्ध में देवत्वारोपण",
+        "en": "Deification of the Buddha"
+      },
+      {
+        "id": 2,
+        "hi": "बोधिसत्त्व के पथ पर चलना",
+        "en": "Treading the path of Bodhisattvas"
+      },
+      {
+        "id": 3,
+        "hi": "मूर्ति उपासना तथा अनुष्ठान",
+        "en": "Image worship and rituals"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पर विचार कीजिये:\nउपर्युक्त में से कौन-सी विशेषता/विशेषताएँ महायान बौद्धमत की है/हैं?",
+      "en": "Consider the following:\nWhich of the above is/are the feature/features of Mahayana Buddhism?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "महायान, बौद्ध धर्म की एक शाखा है। इसमें बुद्ध को देवता के रूप में स्थापित किया गया है, साथ ही मूर्ति पूजा तथा अनुष्ठान की भी मान्यता है। इसके अतिरिक्त इसमें 'बोधिसत्व' के पथ पर चलने की भी बात है। अतः विकल्प (d) सही है।",
+      "en": "Mahayana is a branch of Buddhism. It establishes Buddha as a deity, and recognizes idol worship and rituals. Additionally, it emphasizes treading the path of the 'Bodhisattva'. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 27,
+    "year": "2019",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "किसके राज्य में 'कल्याण मंडप' की रचना मंदिर-निर्माण का एक विशिष्ट अभिलक्षण था?",
+      "en": "Building 'Kalyana Mandapas' was a notable feature in the temple construction in the kingdom of"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "चालुक्य",
+        "en": "Chalukya"
+      },
+      {
+        "id": "B",
+        "hi": "चंदेल",
+        "en": "Chandela"
+      },
+      {
+        "id": "C",
+        "hi": "राष्ट्रकूट",
+        "en": "Rashtrakuta"
+      },
+      {
+        "id": "D",
+        "hi": "विजयनगर",
+        "en": "Vijayanagara"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "'कल्याण मंडप' की रचना विजयनगर साम्राज्य की मंदिर-निर्माण शैली का विशिष्ट अभिलक्षण है। इसमें दैवीय विवाहों का आयोजन किया जाता था। अतः विकल्प (d) सही उत्तर है।",
+      "en": "The construction of 'Kalyana Mandapa' is a distinctive feature of the temple-building style of the Vijayanagara Empire. Divine marriages were organized in them. Hence, option (d) is the correct answer."
+    }
+  },
+  {
+    "id": 28,
+    "year": "2019",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "पंढरपुर : चंद्रभागा",
+        "en": "Pandharpur : Chandrabhaga"
+      },
+      {
+        "id": 2,
+        "hi": "तिरुचिरापल्ली : कावेरी",
+        "en": "Tiruchirappalli : Cauvery"
+      },
+      {
+        "id": 3,
+        "hi": "हम्पी : मालप्रभा",
+        "en": "Hampi : Malaprabha"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये (प्रसिद्ध स्थान और नदी):\nउपर्युक्त में से कौन-से युग्म सही सुमेलित हैं?",
+      "en": "Consider the following pairs (Famous place and River):\nWhich of the pairs given above are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "पंढरपुर (महाराष्ट्र) चंद्रभागा नदी के किनारे स्थित है (युग्म 1 सही)। तिरुचिरापल्ली (तमिलनाडु) कावेरी नदी के किनारे स्थित है (युग्म 2 सही)। हम्पी (कर्नाटक) तुंगभद्रा नदी के किनारे स्थित है, मालप्रभा नहीं (युग्म 3 गलत)। अतः विकल्प (a) सही है।",
+      "en": "Pandharpur (Maharashtra) is situated on the banks of the Chandrabhaga river (Pair 1 is correct). Tiruchirappalli (Tamil Nadu) is situated on the banks of the Cauvery river (Pair 2 is correct). Hampi (Karnataka) is situated on the banks of the Tungabhadra river, not Malaprabha (Pair 3 is incorrect). Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 29,
+    "year": "2018",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "सुप्रसिद्ध चित्र 'बनी-ठनी' किस शैली का है?",
+      "en": "The well-known painting 'Bani-Thani' belongs to the:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "बूँदी शैली",
+        "en": "Bundi school"
+      },
+      {
+        "id": "B",
+        "hi": "जयपुर शैली",
+        "en": "Jaipur school"
+      },
+      {
+        "id": "C",
+        "hi": "काँगड़ा शैली",
+        "en": "Kangra school"
+      },
+      {
+        "id": "D",
+        "hi": "किशनगढ़ शैली",
+        "en": "Kishangarh school"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "बनी-ठनी एक भारतीय चित्रकला है जो किशनगढ़ शैली से संबंधित है। यह पेंटिंग चित्रकार निहालचंद ने बनाई थी। 'बनी-ठनी' को भारतीय मोनालिसा कहा गया है।",
+      "en": "Bani-Thani is an Indian painting belonging to the Kishangarh school. This painting was created by the painter Nihal Chand. 'Bani-Thani' is referred to as the Indian Mona Lisa."
+    }
+  },
+  {
+    "id": 30,
+    "year": "2018",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "त्यागराज की अधिकांश कृतियाँ भगवान कृष्ण की स्तुति के भक्ति गीत हैं।",
+        "en": "Most of Tyagaraja's compositions are devotional songs in praise of Lord Krishna."
+      },
+      {
+        "id": 2,
+        "hi": "त्यागराज ने अनेक नए रागों का सृजन किया।",
+        "en": "Tyagaraja created several new ragas."
+      },
+      {
+        "id": 3,
+        "hi": "अन्नमाचार्य और त्यागराज समकालीन हैं।",
+        "en": "Annamacharya and Tyagaraja are contemporaries."
+      },
+      {
+        "id": 4,
+        "hi": "अन्नमाचार्य कीर्तन भगवान वेंकटेश्वर की स्तुति के भक्ति गीत हैं।",
+        "en": "Annamacharya kirtanas are devotional songs in praise of Lord Venkateshwara."
+      }
+    ],
+    "question": {
+      "hi": "भारत के सांस्कृतिक इतिहास के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "en": "With reference to cultural history of India, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "2, 3 और 4",
+        "en": "2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "त्यागराज (1767 ई.) कर्नाटक संगीत के महान ज्ञाता थे, उन्होंने भगवान श्रीराम को समर्पित भक्ति गीतों की रचना की थी, कृष्ण की नहीं। (कथन 1 गलत)। उन्होंने कई रागों का सृजन किया। (कथन 2 सही)। अन्नमाचार्य (1408-1503 ई.) त्यागराज के समकालीन नहीं थे। (कथन 3 गलत)। अन्नमाचार्य ने भगवान वेंकटेश्वर की स्तुति में अनेक भजनों की रचना की। (कथन 4 सही)। अतः विकल्प (b) सही है।",
+      "en": "Tyagaraja (1767 CE) was a great scholar of Carnatic music; he composed devotional songs dedicated to Lord Rama, not Krishna. (Statement 1 is incorrect). He created many new ragas. (Statement 2 is correct). Annamacharya (1408-1503 CE) was not a contemporary of Tyagaraja. (Statement 3 is incorrect). Annamacharya composed many bhajans in praise of Lord Venkateshwara. (Statement 4 is correct). Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 31,
+    "year": "2018",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत की धार्मिक प्रथाओं के संदर्भ में 'स्थानकवासी' संप्रदाय का संबंध किससे है?",
+      "en": "With reference to the religious practices in India, the 'Sthanakavasi' sect belongs to"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "बौद्ध मत",
+        "en": "Buddhism"
+      },
+      {
+        "id": "B",
+        "hi": "जैन मत",
+        "en": "Jainism"
+      },
+      {
+        "id": "C",
+        "hi": "वैष्णव मत",
+        "en": "Vaishnavism"
+      },
+      {
+        "id": "D",
+        "hi": "शैव मत",
+        "en": "Shaivism"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "स्थानकवासी, श्वेताम्बर जैन संप्रदाय का एक उपसंप्रदाय है, इसकी स्थापना 1653 के आसपास लवजी नामक एक व्यापारी ने की थी। इस संप्रदाय की मान्यता है कि ईश्वर निराकार है, अतः ये किसी मूर्ति की पूजा नहीं करते।",
+      "en": "Sthanakavasi is a sub-sect of the Shvetambara Jain sect, founded around 1653 by a merchant named Lavaji. This sect believes that God is formless, so they do not worship any idols."
+    }
+  },
+  {
+    "id": 32,
+    "year": "2018",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "फतेहपुर सीकरी स्थित बुलंद दरवाज़ा तथा खानकाह के निर्माण में सफेद संगमरमर का प्रयोग हुआ था।",
+        "en": "White marble was used in making Buland Darwaza and Khankah at Fatehpur Sikri."
+      },
+      {
+        "id": 2,
+        "hi": "लखनऊ स्थित बड़ा इमामबाड़ा और रूमी दरवाज़ा के निर्माण में लाल-बलुआ पत्थर और संगमरमर का प्रयोग हुआ था।",
+        "en": "Red sandstone and marble were used in making Bara Imambara and Rumi Darwaza at Lucknow."
+      }
+    ],
+    "question": {
+      "hi": "भारत के सांस्कृतिक इतिहास के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to the cultural history of India, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "अकबर के शासनकाल में फतेहपुर सीकरी में बने बुलंद दरवाज़ा एवं खानकाह में लाल बलुआ पत्थर का प्रयोग हुआ है, न कि सफेद संगमरमर का। (कथन 1 गलत)। लखनऊ स्थित बड़ा इमामबाड़ा और रूमी दरवाज़े के निर्माण में ईंट एवं चूना पत्थर का प्रयोग हुआ है। (कथन 2 गलत)। अतः विकल्प (d) सही है।",
+      "en": "Red sandstone was used in the construction of Buland Darwaza and Khankah in Fatehpur Sikri during Akbar's reign, not white marble. (Statement 1 is incorrect). Brick and limestone were used in the construction of Bara Imambara and Rumi Darwaza in Lucknow. (Statement 2 is incorrect). Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 33,
+    "year": "2018",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारतीय इतिहास के संदर्भ में, निम्नलिखित में से कौन भावी बुद्ध है, जो संसार की रक्षा हेतु अवतरित होंगे?",
+      "en": "With reference to Indian history, who among the following is a future Buddha, yet to come to save the world?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अवलोकितेश्वर",
+        "en": "Avalokiteshvara"
+      },
+      {
+        "id": "B",
+        "hi": "लोकेश्वर",
+        "en": "Lokeshvara"
+      },
+      {
+        "id": "C",
+        "hi": "मैत्रेय",
+        "en": "Maitreya"
+      },
+      {
+        "id": "D",
+        "hi": "पद्मपाणि",
+        "en": "Padmapani"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "पालि परंपरा में मैत्रेय भावी बुद्ध के रूप में जाने जाते हैं। इस परंपरा में यह मान्यता है कि इनका जन्म तब होगा जब मनुष्यों का औसत जीवनकाल चौरासी हज़ार वर्षों का होगा।",
+      "en": "In the Pali tradition, Maitreya is known as the future Buddha. It is believed in this tradition that he will be born when the average lifespan of humans reaches eighty-four thousand years."
+    }
+  },
+  {
+    "id": 34,
+    "year": "2018",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "पुथुक्कुली शॉल - तमिलनाडु",
+        "en": "Puthukkuli shawl - Tamil Nadu"
+      },
+      {
+        "id": 2,
+        "hi": "सुजनी कढ़ाई - महाराष्ट्र",
+        "en": "Sujani embroidery - Maharashtra"
+      },
+      {
+        "id": 3,
+        "hi": "उप्पाडा जामदानी साड़ी - कर्नाटक",
+        "en": "Uppada Jamdani sari - Karnataka"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये (शिल्प और किस राज्य की परंपरा):\nउपर्युक्त युग्मों में से कौन-सा/से सही सुमेलित है/हैं?",
+      "en": "Consider the following pairs (Craft and Heritage of which state):\nWhich of the pairs given above is/are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "पुथुक्कुली शॉल तमिलनाडु से संबंधित है। सुजनी कढ़ाई हस्तशिल्प का संबंध बिहार से है, जबकि उप्पाडा जामदानी साड़ी का संबंध आंध्र प्रदेश से है। ध्यातव्य है कि सुजनी कढ़ाई और उप्पाडा जामदानी साड़ी को जीआई (GI) टैग प्राप्त है। अतः युग्म 2 और 3 सुमेलित नहीं हैं, जबकि युग्म 1 सुमेलित है। अतः विकल्प (a) सही है।",
+      "en": "Puthukkuli shawl is related to Tamil Nadu. Sujani embroidery is related to Bihar, whereas Uppada Jamdani sari is related to Andhra Pradesh. Note that Sujani embroidery and Uppada Jamdani sari have GI tags. Thus, pairs 2 and 3 are not correctly matched, whereas pair 1 is correctly matched. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 35,
+    "year": "2018",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "चपचार कुट त्योहार - मिज़ोरम",
+        "en": "Chapchar Kut festival - Mizoram"
+      },
+      {
+        "id": 2,
+        "hi": "खोंगजोम परबा गाथागीत - मणिपुर",
+        "en": "Khongjom Parba ballad - Manipur"
+      },
+      {
+        "id": 3,
+        "hi": "थांग-ता नृत्य - सिक्किम",
+        "en": "Thang-Ta dance - Sikkim"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये (परंपरा और राज्य):\nउपर्युक्त युग्मों में से कौन-सा/से सही सुमेलित है/हैं?",
+      "en": "Consider the following pairs (Tradition and State):\nWhich of the pairs given above is/are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "चपचार कुट मिज़ोरम में फरवरी-मार्च में मनाया जाने वाला कृषि से संबंधित पर्व है। (युग्म 1 सही)। खोंगजोम परबा मणिपुर में ढोलक (ड्रम) का उपयोग करके गाथागीत गायन की एक शैली है। (युग्म 2 सही)। थांग-ता मणिपुर की प्राचीन युद्धकला है, सिक्किम की नहीं। (युग्म 3 गलत)। अतः विकल्प (b) सही है।",
+      "en": "Chapchar Kut is an agriculture-related festival celebrated in Mizoram in February-March. (Pair 1 is correct). Khongjom Parba is a ballad style of singing in Manipur using a drum (dholak). (Pair 2 is correct). Thang-Ta is an ancient martial art of Manipur, not Sikkim. (Pair 3 is incorrect). Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 36,
+    "year": "2017",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "ऋग्वेद-कालीन आर्य कवच और शिरस्त्राण (हेलमेट) का उपयोग करते थे जबकि सिंधु घाटी सभ्यता के लोगों में इनके उपयोग का कोई साक्ष्य नहीं मिलता।",
+        "en": "Rigvedic Aryans used the coat of mail and helmet in warfare whereas the people of Indus Valley Civilization did not leave any evidence of using them."
+      },
+      {
+        "id": 2,
+        "hi": "ऋग्वेद-कालीन आर्यों को स्वर्ण, चाँदी और ताम्र का ज्ञान था जबकि सिंधु घाटी के लोगों को केवल ताम्र और लोहे का ज्ञान था।",
+        "en": "Rigvedic Aryans knew gold, silver and copper whereas Indus Valley people knew only copper and iron."
+      },
+      {
+        "id": 3,
+        "hi": "ऋग्वेद-कालीन आर्यों ने घोड़े को पालतू बना लिया था जबकि इस बात का कोई साक्ष्य नहीं है कि सिंधु घाटी के लोग इस पशु को जानते थे।",
+        "en": "Rigvedic Aryans had domesticated the horse whereas there is no evidence of Indus Valley people having been aware of this animal."
+      }
+    ],
+    "question": {
+      "hi": "ऋग्वेद-कालीन आर्यों और सिंधु घाटी के लोगों की संस्कृति के बीच अंतर के संबंध में, निम्नलिखित कथनों में से कौन-सा/से सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "With reference to the difference between the culture of Rigvedic Aryans and Indus Valley people, which of the following statements is/are correct?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "ऋग्वेदकालीन आर्यों को स्वर्ण, चांदी, ताम्र और साथ ही लौह का भी ज्ञान था, जबकि सिंधु घाटी सभ्यता के लोगों को ताम्र का ज्ञान तो था पर वे लौह के ज्ञान से वंचित थे। अतः कथन 2 गलत है। सिंधु सभ्यता में घोड़े के साक्ष्यों के विषय में विद्वानों में मतभेद है (यद्यपि सुरकोटदा आदि से कुछ साक्ष्य मिले हैं, पर यह सर्वमान्य नहीं है)। अतः कथन 1 और 3 सही हैं। विकल्प (c) सही है।",
+      "en": "Rigvedic Aryans knew gold, silver, copper and also iron, while the people of the Indus Valley Civilization knew copper but were deprived of the knowledge of iron. Hence statement 2 is incorrect. There is a difference of opinion among scholars regarding the evidence of horse in the Indus Valley Civilization. Hence statements 1 and 3 are correct. Option (c) is correct."
+    }
+  },
+  {
+    "id": 37,
+    "year": "2017",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह गीत और नृत्य का प्रदर्शन है।",
+        "en": "It is a song and dance performance."
+      },
+      {
+        "id": 2,
+        "hi": "केवल करताल (सिम्बल) ही वह एकमात्र वाद्ययंत्र है जो इस प्रदर्शन में प्रयुक्त होता है।",
+        "en": "Cymbals are the only musical instruments used in the performance."
+      },
+      {
+        "id": 3,
+        "hi": "यह भगवान कृष्ण के जीवन और लीलाओं को वर्णित करने के लिये प्रदर्शित किया जाता है।",
+        "en": "It is performed to narrate the life and deeds of Lord Krishna."
+      }
+    ],
+    "question": {
+      "hi": "मणिपुरी संकीर्तन के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to Manipuri Sankirtana, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1",
+        "en": "1 only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "मणिपुरी संकीर्तन में पारंपरिक रूप से गायन, वादन और नृत्य किया जाता है (कथन 1 सही)। इसमें केवल करताल ही नहीं, बल्कि ढोलक (ड्रम/पुंग) का भी उपयोग किया जाता है (कथन 2 गलत)। इसमें कलाकार गायन और नृत्य के ज़रिये भगवान कृष्ण के जीवन और कृत्यों का वर्णन करते हैं (कथन 3 सही)। अतः विकल्प (b) सही है।",
+      "en": "Manipuri Sankirtana traditionally involves singing, playing instruments, and dancing (Statement 1 is correct). Not only cymbals but also drums (Pung/Dholak) are used in it (Statement 2 is incorrect). Through singing and dancing, the performers narrate the life and deeds of Lord Krishna (Statement 3 is correct). Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 38,
+    "year": "2017",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सौत्रांत्रिक और सम्मितीय जैन मत के संप्रदाय थे।",
+        "en": "Sautrantika and Sammitiya were the sects of Jainism."
+      },
+      {
+        "id": 2,
+        "hi": "सर्वास्तिवादियों की मान्यता थी कि दृग्विषय (फिनोमिना) के अवयव पूर्णतः क्षणिक नहीं हैं, अपितु अव्यक्त रूप में सदैव विद्यमान रहते हैं।",
+        "en": "The Sarvastivadins held that the constituents of phenomena were not wholly momentary, but existed forever in a latent form."
+      }
+    ],
+    "question": {
+      "hi": "भारत के धार्मिक इतिहास के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to the religious history of India, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "सौत्रांत्रिक और सम्मितीय बौद्ध मत से संबंधित हैं, न कि जैन मत से। अतः कथन 1 असत्य है। सर्वास्तिवाद का संबंध बौद्ध सम्प्रदाय से है। इनकी मान्यता है कि दृग्विषय (फिनोमिना) के अवयव पूर्णतः क्षणिक नहीं हैं बल्कि अव्यक्त रूप में सदैव अस्तित्त्ववान हैं। अतः कथन 2 सत्य है। अतः विकल्प (b) सही है।",
+      "en": "Sautrantika and Sammitiya are related to Buddhism, not Jainism. Hence statement 1 is incorrect. Sarvastivada is associated with the Buddhist sect. They believe that the constituents of phenomena are not completely momentary but always exist in a latent form. Hence statement 2 is correct. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 39,
+    "year": "2017",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "बोधिसत्त्व पद्मपाणि का चित्र सर्वाधिक प्रसिद्ध और प्रायः चित्रित चित्रकारी है, जो",
+      "en": "The painting of Bodhisattva Padmapani is one of the most famous and oft-illustrated paintings at"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अजंता में है",
+        "en": "Ajanta"
+      },
+      {
+        "id": "B",
+        "hi": "बादामी में है",
+        "en": "Badami"
+      },
+      {
+        "id": "C",
+        "hi": "बाघ में है",
+        "en": "Bagh"
+      },
+      {
+        "id": "D",
+        "hi": "एलोरा में है",
+        "en": "Ellora"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "बोधिसत्त्व पद्मपाणि का चित्र अजंता की गुफा 1 में अवस्थित है। अतः विकल्प (a) सही है।",
+      "en": "The painting of Bodhisattva Padmapani is situated in Cave 1 of Ajanta. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 40,
+    "year": "2017",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "चलिहा साहिब उत्सव - सिंधी",
+        "en": "Chaliha Sahib Festival - Sindhis"
+      },
+      {
+        "id": 2,
+        "hi": "नंदा राज जात यात्रा - गोंड",
+        "en": "Nanda Raj Jaat Yatra - Gonds"
+      },
+      {
+        "id": 3,
+        "hi": "वारी-वारकरी - संथाल",
+        "en": "Wari-Warkari - Santhals"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये (परंपरा और समुदाय):\nऊपर दिये गए युग्मों में से कौन-सा/से सही सुमेलित है/हैं?",
+      "en": "Consider the following pairs (Tradition and Community):\nWhich of the pairs given above is/are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "उपर्युक्त में से कोई नहीं",
+        "en": "None of the above"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "चलिहा साहिब उत्सव - सिंधियों का उत्सव है (महाराष्ट्र आदि में)। (युग्म 1 सही)। नंदा राज जात यात्रा - उत्तराखंड में नंदा देवी मंदिर से संबंधित है, न कि गोंडों से। (युग्म 2 गलत)। वारी-वारकरी - यह महाराष्ट्र में विठोबा देवता से संबंधित है, न कि संथालों से। (युग्म 3 गलत)। अतः केवल युग्म (1) सुमेलित है।",
+      "en": "Chaliha Sahib Festival - It is a festival of Sindhis. (Pair 1 is correct). Nanda Raj Jaat Yatra - It is associated with Nanda Devi temple in Uttarakhand, not Gonds. (Pair 2 is incorrect). Wari-Warkari - It is associated with the deity Vithoba in Maharashtra, not Santhals. (Pair 3 is incorrect). Therefore, only pair 1 is correctly matched."
+    }
+  },
+  {
+    "id": 41,
+    "year": "2017",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अरसवल्ली",
+        "en": "Arasavalli"
+      },
+      {
+        "id": 2,
+        "hi": "अमरकंटक",
+        "en": "Amarkantak"
+      },
+      {
+        "id": 3,
+        "hi": "ओंकारेश्वर",
+        "en": "Omkareshwar"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा/से सूर्य मंदिरों के लिये विख्यात है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Which of the following is/are famous for Sun temples?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "अरसवल्ली सूर्य मंदिर (आंध्र प्रदेश, श्रीकाकुलम ज़िला) के लिये विख्यात है। अमरकंटक विंध्य और सतपुड़ा पर्वत श्रेणियों का मिलन-स्थल है; यहाँ जैन और शिव मंदिर हैं। ओंकारेश्वर (मध्य प्रदेश, खंडवा ज़िला) शिव मंदिर (ज्योतिर्लिंग) के लिये जाना जाता है। अतः केवल 1 सही है।",
+      "en": "Arasavalli is famous for its Sun temple (Andhra Pradesh, Srikakulam district). Amarkantak is the meeting point of Vindhya and Satpura mountain ranges; it has Jain and Shiva temples. Omkareshwar (Madhya Pradesh, Khandwa district) is known for its Shiva temple (Jyotirlinga). Thus, only 1 is correct."
+    }
+  },
+  {
+    "id": 42,
+    "year": "2016",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "तमिल क्षेत्र के सिद्ध (सित्तर) एकेश्वरवादी थे तथा मूर्तिपूजा की निंदा करते थे।",
+        "en": "The Siddhars of Tamil region were monotheistic and condemned idolatry."
+      },
+      {
+        "id": 2,
+        "hi": "कन्नड़ क्षेत्र के लिंगायत पुनर्जन्म के सिद्धांत पर प्रश्नचिह्न लगाते थे तथा जाति अधिक्रम को अस्वीकार करते थे।",
+        "en": "The Lingayats of Kannada region questioned the theory of rebirth and rejected the caste hierarchy."
+      }
+    ],
+    "question": {
+      "hi": "मध्यकालीन भारत के सांस्कृतिक इतिहास के संदर्भ में निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to the cultural history of medieval India, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "तमिल क्षेत्र के सिद्ध (सित्तर), जिनमें अगस्त्य भी शामिल हैं, शैव झुकाव वाले थे तथा एकेश्वरवादी थे। वे मूर्तिपूजा की निंदा करते थे। कन्नड़ क्षेत्र के लिंगायत भी शैव थे जो पुनर्जन्म व जाति क्रम को नहीं मानते थे। अतः दोनों कथन सही हैं। विकल्प (c) सही है।",
+      "en": "The Siddhars (Sittars) of the Tamil region, including Agastya, had Shaivite leanings and were monotheistic. They condemned idolatry. The Lingayats of the Kannada region were also Shaivites who rejected rebirth and the caste hierarchy. Therefore, both statements are correct. Option (c) is correct."
+    }
+  },
+  {
+    "id": 43,
+    "year": "2016",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बोधिसत्त्व, बौद्धमत के हीनयान सम्प्रदाय की केंद्रीय संकल्पना है।",
+        "en": "Bodhisattva is central to the Hinayana sect of Buddhism."
+      },
+      {
+        "id": 2,
+        "hi": "बोधिसत्त्व अपने प्रबोध के मार्ग पर बढ़ता हुआ करुणामय है।",
+        "en": "Bodhisattva is a compassionate one on his way to enlightenment."
+      },
+      {
+        "id": 3,
+        "hi": "बोधिसत्त्व समस्त सचेतन प्राणियों को उनके प्रबोध के मार्ग पर चलने में सहायता करने के लिये स्वयं की निर्वाण प्राप्ति विलम्बित करता है।",
+        "en": "Bodhisattva delays achieving his own salvation to help all sentient beings on their path to it."
+      }
+    ],
+    "question": {
+      "hi": "भारत के धार्मिक इतिहास के संदर्भ में निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to the religious history of India, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "बौद्ध धर्म के महायान संप्रदाय का आदर्श बोधिसत्त्व है, हीनयान का नहीं। (कथन 1 गलत)। बोधिसत्त्व दूसरे के कल्याण को प्राथमिकता देते हुए अपने निर्वाण में विलंब करते हैं और वे करुणामय होते हैं। (कथन 2 और 3 सही हैं)। अतः विकल्प (b) सही है।",
+      "en": "Bodhisattva is the ideal of the Mahayana sect of Buddhism, not Hinayana. (Statement 1 is incorrect). Bodhisattvas delay their own salvation to prioritize the welfare of others and are compassionate. (Statements 2 and 3 are correct). Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 44,
+    "year": "2016",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "दोनों एक ही समयकाल में निर्मित हुए थे।",
+        "en": "Both were built in the same period."
+      },
+      {
+        "id": 2,
+        "hi": "दोनों का एक ही धार्मिक सम्प्रदाय से संबंध है।",
+        "en": "Both belong to the same religious denomination."
+      },
+      {
+        "id": 3,
+        "hi": "दोनों में शिलाकृत स्मारक हैं।",
+        "en": "Both have rock-cut monuments."
+      }
+    ],
+    "question": {
+      "hi": "अजंता और महाबलीपुरम के रूप में ज्ञात दो ऐतिहासिक स्थानों में कौन-सी बात/बातें समान है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "What is/are common to the two historical places known as Ajanta and Mahabalipuram?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "उपर्युक्त कथनों में से कोई भी सही नहीं है।",
+        "en": "None of the statements given above is correct."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "अजंता की कलाकृतियाँ ई.पू. दूसरी शताब्दी से लेकर 6वीं शताब्दी तक मिलती हैं, जबकि महाबलीपुरम में 7वीं-8वीं सदी के मध्य कलाकृतियों का निर्माण हुआ। (कथन 1 गलत)। अजंता की कलाकृतियों में बौद्ध सम्प्रदाय को महत्त्व मिला, तो महाबलीपुरम में हिन्दू मंदिर (विष्णु, शिव मंदिर आदि) के प्रमाण मिलते हैं। (कथन 2 गलत)। अजंता और महाबलीपुरम दोनों में शिलाकृत स्मारक हैं। (कथन 3 सही)। अतः विकल्प (b) सही है।",
+      "en": "The artworks of Ajanta date from the 2nd century BC to the 6th century AD, while the artworks in Mahabalipuram were built in the mid 7th-8th century. (Statement 1 is incorrect). The Buddhist sect got importance in the artworks of Ajanta, whereas evidences of Hindu temples (Vishnu, Shiva temples etc.) are found in Mahabalipuram. (Statement 2 is incorrect). Both Ajanta and Mahabalipuram have rock-cut monuments. (Statement 3 is correct). Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 45,
+    "year": "2015",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "हाल ही में निम्नलिखित में से किस एक भाषा को 'शास्त्रीय भाषा' (क्लासिकल लैंग्वेज) का दर्जा (स्टेटस) दिया गया है?",
+      "en": "Which one of the following was given classical language status recently?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "उड़िया",
+        "en": "Odia"
+      },
+      {
+        "id": "B",
+        "hi": "कोंकणी",
+        "en": "Konkani"
+      },
+      {
+        "id": "C",
+        "hi": "भोजपुरी",
+        "en": "Bhojpuri"
+      },
+      {
+        "id": "D",
+        "hi": "असमिया",
+        "en": "Assamese"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "भारत सरकार द्वारा अब तक 6 भाषाओं को 'शास्त्रीय भाषा' (Classical Language) का दर्जा दिया गया है- 1. तमिल (2004 से), 2. संस्कृत (2005 से), 3. तेलुगू (2008 से), 4. कन्नड़ (2008 से), 5. मलयालम (2013 से), 6. उड़िया (ओडिया) (2014 से)। अतः विकल्प (a) सही है।",
+      "en": "So far 6 languages have been given the status of 'Classical Language' by the Government of India - 1. Tamil (since 2004), 2. Sanskrit (since 2005), 3. Telugu (since 2008), 4. Kannada (since 2008), 5. Malayalam (since 2013), 6. Odia (since 2014). Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 46,
+    "year": "2015",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "श्रीशैलम - नल्लमल्ला पहाड़ियाँ",
+        "en": "Srisailam - Nallamala Hills"
+      },
+      {
+        "id": 2,
+        "hi": "ओंकारेश्वर - सतमाला पहाड़ियाँ",
+        "en": "Omkareshwar - Satmala Hills"
+      },
+      {
+        "id": 3,
+        "hi": "पुष्कर - महादेव पहाड़ियाँ",
+        "en": "Pushkar - Mahadeo Hills"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये (तीर्थस्थान और अवस्थिति):\nउपर्युक्त में से कौन-सा/से युग्म सही सुमेलित है/हैं?",
+      "en": "Consider the following pairs (Pilgrim place and Location):\nWhich of the pairs given above is/are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "तीर्थस्थान और उसकी अवस्थिति में श्रीशैलम का संबंध नल्लमल्ला की पहाड़ियों (आंध्र प्रदेश) से है। (युग्म 1 सही)। ओंकारेश्वर मध्य प्रदेश में स्थित है जबकि सतमाला की पहाड़ियाँ महाराष्ट्र में फैली हैं। (युग्म 2 गलत)। महादेव की पहाड़ियाँ मध्य प्रदेश में स्थित हैं, जबकि पुष्कर राजस्थान में अरावली पहाड़ियों पर स्थित है। (युग्म 3 गलत)। अतः विकल्प (a) सही है।",
+      "en": "Srisailam is associated with the Nallamala hills (Andhra Pradesh). (Pair 1 is correct). Omkareshwar is located in Madhya Pradesh, while the Satmala hills are spread in Maharashtra. (Pair 2 is incorrect). The Mahadeo hills are located in Madhya Pradesh, while Pushkar is situated on the Aravalli hills in Rajasthan. (Pair 3 is incorrect). Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 47,
+    "year": "2015",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के कला और पुरातात्विक इतिहास के संदर्भ में निम्न में से किस एक का सबसे पहले निर्माण किया गया था?",
+      "en": "With reference to the art and archaeological history of India, which one among the following was made earliest?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भुवनेश्वर स्थित लिंगराज मंदिर",
+        "en": "Lingaraja Temple at Bhubaneswar"
+      },
+      {
+        "id": "B",
+        "hi": "धौली स्थित शैलकृत हाथी",
+        "en": "Rock-cut Elephant at Dhauli"
+      },
+      {
+        "id": "C",
+        "hi": "महाबलीपुरम स्थित शैलकृत स्मारक",
+        "en": "Rock-cut Monuments at Mahabalipuram"
+      },
+      {
+        "id": "D",
+        "hi": "उदयगिरि स्थित वराह मूर्ति",
+        "en": "Varaha Image at Udayagiri"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "धौली (भुवनेश्वर) स्थित शैलकृत हाथी का निर्माण अशोक के समय लगभग 260 ई. पू. (तीसरी शताब्दी ई.पू.) में कराया गया था। लिंगराज मंदिर 11वीं शताब्दी का है। महाबलीपुरम का स्मारक 7वीं-8वीं शताब्दी का है। उदयगिरि की वराह मूर्ति गुप्तकालीन (4-5वीं सदी) है। अतः धौली स्थित शैलकृत हाथी का निर्माण सबसे पहले हुआ था। विकल्प (b) सही है।",
+      "en": "The rock-cut elephant at Dhauli (Bhubaneswar) was built during Ashoka's time around 260 BC (3rd century BC). Lingaraja temple is of the 11th century. Mahabalipuram monument is of the 7th-8th century. Varaha image of Udayagiri is from the Gupta period (4th-5th century). Hence, the rock-cut elephant at Dhauli was built first. Option (b) is correct."
+    }
+  },
+  {
+    "id": 48,
+    "year": "2015",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "कलमकारी चित्रकला निर्दिष्ट करती है-",
+      "en": "Kalamkari painting refers to"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "दक्षिण भारत में सूती वस्त्र पर हाथ से की गई चित्रकारी",
+        "en": "A hand-painted cotton textile in South India"
+      },
+      {
+        "id": "B",
+        "hi": "पूर्वोत्तर भारत में बाँस के हस्तशिल्प पर हाथ से किया गया चित्रांकन",
+        "en": "A handmade drawing on bamboo handicrafts in North-East India"
+      },
+      {
+        "id": "C",
+        "hi": "भारत के पश्चिमी हिमालय क्षेत्र में ऊनी वस्त्र पर ठप्पे (ब्लॉक) से की गई चित्रकारी",
+        "en": "A block-painted woollen cloth in Western Himalayan region of India"
+      },
+      {
+        "id": "D",
+        "hi": "उत्तर-पश्चिमी भारत में सजावटी रेशमी वस्त्र पर हाथ से की गई चित्रकारी",
+        "en": "A hand-painted decorative silk cloth in North-Western India"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कलमकारी एक हस्तकला का प्रकार है जिसमें हाथ से सूती कपड़े पर रंगीन ब्लॉक से छाप बनाई जाती है। इसमें सब्जियों के रंगों से धार्मिक चित्र बनाए जाते हैं। यह दक्षिण भारत के आंध्र प्रदेश में प्रचलित है। अतः विकल्प (a) सही है।",
+      "en": "Kalamkari is a type of handicraft in which colored block prints are made by hand on cotton cloth. Religious pictures are drawn in it with vegetable dyes. It is prevalent in Andhra Pradesh in South India. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 49,
+    "year": "2014",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "शक संवत् पर आधारित राष्ट्रीय पंचांग (कैलेंडर) का 1 चैत्र, ग्रिगोरियन कैलेंडर पर आधारित 365 दिन के सामान्य वर्ष की निम्नलिखित तिथियों में से किस एक के तदनुरूप है?",
+      "en": "Chaitra 1 of the national calendar based on the Saka Era corresponds to which one of the following dates of the Gregorian calendar in a normal year of 365 days?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "22 मार्च (अथवा 21 मार्च)",
+        "en": "22 March (or 21 March)"
+      },
+      {
+        "id": "B",
+        "hi": "15 मई (अथवा 16 मई)",
+        "en": "15 May (or 16 May)"
+      },
+      {
+        "id": "C",
+        "hi": "31 मार्च (अथवा 30 मार्च)",
+        "en": "31 March (or 30 March)"
+      },
+      {
+        "id": "D",
+        "hi": "21 अप्रैल (अथवा 20 अप्रैल)",
+        "en": "21 April (or 20 April)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कुषाण शासक कनिष्क ने 78 ई. में एक संवत् चलाया, जिसका प्रथम महीना चैत्र 22 मार्च (अथवा 21 मार्च) से आरंभ होता है। इस संवत् का नाम शक संवत् था। वर्तमान में भारत सरकार द्वारा इसी संवत् का प्रयोग किया जाता है।",
+      "en": "Kushan ruler Kanishka started an era in 78 AD, whose first month Chaitra begins on 22 March (or 21 March). The name of this era was Saka era. At present, this very era is used by the Government of India."
+    }
+  },
+  {
+    "id": 50,
+    "year": "2014",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "फतेहपुर सीकरी का इबादतखाना क्या था?",
+      "en": "What was the Ibadat Khana at Fatehpur Sikri?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "राजपरिवार के इस्तेमाल के लिये मस्जिद",
+        "en": "The mosque for the use of the Royal Family"
+      },
+      {
+        "id": "B",
+        "hi": "अकबर का निजी प्रार्थना कक्ष",
+        "en": "Akbar's private prayer chamber"
+      },
+      {
+        "id": "C",
+        "hi": "वह भवन जिसमें विभिन्न धर्मों के विद्वानों के साथ अकबर चर्चा करता था",
+        "en": "The hall in which Akbar held discussions with scholars of various religions"
+      },
+      {
+        "id": "D",
+        "hi": "वह कमरा जिसमें विभिन्न धर्म वाले कुलीन-जन धार्मिक बातों के विचारार्थ जमा होते थे",
+        "en": "The room in which the nobles belonging to different religions gathered to discuss religious affairs"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "अपनी प्रजा को धार्मिक स्वतंत्रता प्रदान कर अकबर ने इस्लाम धर्म के मूल तत्त्वों को समझने की उत्सुकता व्यक्त की। इसी उद्देश्य हेतु 1575 में फतेहपुर सीकरी में इबादतखाने के निर्माण का आदेश दिया गया। यह वह भवन था जिसमें विभिन्न धर्मों के विद्वानों के साथ अकबर चर्चा करता था। अतः विकल्प (c) सही है।",
+      "en": "By granting religious freedom to his subjects, Akbar expressed his curiosity to understand the basic elements of Islam. For this purpose, the construction of the Ibadat Khana was ordered in Fatehpur Sikri in 1575. It was the hall in which Akbar held discussions with scholars of various religions. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 51,
+    "year": "2014",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के संप्रतीक के नीचे उत्कीर्ण भारत की राष्ट्रीय आदर्शोक्ति 'सत्यमेव जयते' कहाँ से ली गई है?",
+      "en": "The national motto of India, 'Satyameva Jayate' inscribed below the Emblem of India is taken from"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कठ उपनिषद्",
+        "en": "Katha Upanishad"
+      },
+      {
+        "id": "B",
+        "hi": "छान्दोग्य उपनिषद्",
+        "en": "Chandogya Upanishad"
+      },
+      {
+        "id": "C",
+        "hi": "ऐतरेय उपनिषद्",
+        "en": "Aitareya Upanishad"
+      },
+      {
+        "id": "D",
+        "hi": "मुंडक उपनिषद्",
+        "en": "Mundaka Upanishad"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "भारत के संप्रतीक के नीचे उत्कीर्ण भारत की राष्ट्रीय आदर्शोक्ति 'सत्यमेव जयते' मुण्डकोपनिषद् से ली गई है। इसका शाब्दिक अर्थ होता है- 'सत्य की ही विजय होती है'।",
+      "en": "The national motto of India, 'Satyameva Jayate', inscribed below the Emblem of India is taken from the Mundaka Upanishad. Its literal meaning is 'Truth alone triumphs'."
+    }
+  },
+  {
+    "id": 52,
+    "year": "2014",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भद्राचलम",
+        "en": "Bhadrachalam"
+      },
+      {
+        "id": 2,
+        "hi": "चंदेरी",
+        "en": "Chanderi"
+      },
+      {
+        "id": 3,
+        "hi": "कांचीपुरम",
+        "en": "Kanchipuram"
+      },
+      {
+        "id": 4,
+        "hi": "करनाल",
+        "en": "Karnal"
+      }
+    ],
+    "question": {
+      "hi": "भारत के निम्नलिखित नगरों पर विचार कीजिये:\nउपर्युक्त में से कौन-से पारंपरिक साड़ी/वस्त्र उत्पादन के लिये विख्यात हैं?",
+      "en": "Consider the following towns of India:\nWhich of the above are famous for the production of traditional sarees/fabric?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "1, 3 और 4",
+        "en": "1, 3 and 4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "अलग-अलग शैलियों की साड़ियों में कांजीवरम (कांचीपुरम) साड़ी, बनारसी साड़ी, और चंदेरी (मध्य प्रदेश) मुख्य हैं। भद्राचलम (तेलंगाना) श्री राम चंद्र-सीता स्वामी मंदिर के कारण प्रसिद्ध है। करनाल (हरियाणा) कंबल और जूते के उद्योग के लिये जाना जाता है। अतः विकल्प (b) सही है।",
+      "en": "Kanjeevaram (Kanchipuram) sarees, Banarasi sarees, and Chanderi (Madhya Pradesh) sarees are prominent among sarees of different styles. Bhadrachalam (Telangana) is famous for the Sri Rama Chandra-Sita Swamy Temple. Karnal (Haryana) is known for its blanket and shoe industry. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 53,
+    "year": "2014",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के सांस्कृतिक इतिहास के संदर्भ में 'पंचायतन' शब्द किसे निर्दिष्ट करता है?",
+      "en": "With reference to the cultural history of India, the term 'Panchayatana' refers to"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ग्राम के ज्येष्ठ-जनों की सभा",
+        "en": "An assembly of village elders"
+      },
+      {
+        "id": "B",
+        "hi": "धार्मिक सम्प्रदाय",
+        "en": "A religious sect"
+      },
+      {
+        "id": "C",
+        "hi": "मंदिर रचना शैली",
+        "en": "A style of temple construction"
+      },
+      {
+        "id": "D",
+        "hi": "प्रशासनिक अधिकारी",
+        "en": "An administrative official"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "'पंचायतन' शब्द, मंदिर रचना शैली से संबंधित है। एक हिंदू मंदिर तब पंचायतन शैली का कहलाता है जब मुख्य मंदिर चार सहायक मंदिरों से घिरा हुआ होता है।",
+      "en": "The term 'Panchayatana' is related to a style of temple construction. A Hindu temple is called a Panchayatana style temple when the main shrine is surrounded by four subsidiary shrines."
+    }
+  },
+  {
+    "id": 54,
+    "year": "2014",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित युग्मों में से कौन-सा एक भारतीय षड्दर्शन का भाग नहीं है?",
+      "en": "Which one of the following pairs does not form part of the six systems of Indian Philosophy?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "मीमांसा और वेदांत",
+        "en": "Mimamsa and Vedanta"
+      },
+      {
+        "id": "B",
+        "hi": "न्याय और वैशेषिक",
+        "en": "Nyaya and Vaisheshika"
+      },
+      {
+        "id": "C",
+        "hi": "लोकायत और कापालिक",
+        "en": "Lokayata and Kapalika"
+      },
+      {
+        "id": "D",
+        "hi": "सांख्य और योग",
+        "en": "Samkhya and Yoga"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "षड्दर्शन को आस्तिक दर्शन के नाम से भी जाना जाता है। इनकी संख्या 6 है: सांख्य, न्याय, योग, वैशेषिक, पूर्व मीमांसा, और वेदांत (उत्तर मीमांसा)। लोकायत अथवा चार्वाक दर्शन एक प्राचीन भौतिकवादी नास्तिक दर्शन है। कापालिक एक तांत्रिक शैव संप्रदाय है। अतः लोकायत और कापालिक षड्दर्शन का भाग नहीं हैं।",
+      "en": "Shad-Darshana is also known as the orthodox (Astika) philosophy. They are 6 in number: Samkhya, Nyaya, Yoga, Vaisheshika, Purva Mimamsa, and Vedanta (Uttara Mimamsa). Lokayata or Charvaka philosophy is an ancient materialist atheistic philosophy. Kapalika is a Tantric Shaiva sect. Hence, Lokayata and Kapalika are not part of Shad-Darshana."
+    }
+  },
+  {
+    "id": 55,
+    "year": "2014",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "गुजराती",
+        "en": "Gujarati"
+      },
+      {
+        "id": 2,
+        "hi": "कन्नड़",
+        "en": "Kannada"
+      },
+      {
+        "id": 3,
+        "hi": "तेलुगू",
+        "en": "Telugu"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित भाषाओं पर विचार कीजिये:\nउपर्युक्त में से किसको/किनको सरकार ने क्लासिकल भाषा/भाषाएँ घोषित किया है?",
+      "en": "Consider the following languages:\nWhich of the above has/have been declared as 'Classical Language/Languages' by the Government?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "शास्त्रीय भाषा में 6 भाषाएँ सम्मिलित हैं: तमिल, संस्कृत, तेलुगू (2008), कन्नड़ (2008), मलयालम (2013), और ओडिया (2014)। गुजराती इसमें शामिल नहीं है। अतः विकल्प (c) सही है।",
+      "en": "The Classical Languages include 6 languages: Tamil, Sanskrit, Telugu (2008), Kannada (2008), Malayalam (2013), and Odia (2014). Gujarati is not included in it. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 56,
+    "year": "2014",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बुद्ध के महापरिनिर्वाण की एक भव्य प्रतिमा, जिसमें ऊपर की ओर अनेक दैवी संगीतज्ञ तथा नीचे की ओर उनके दुःखी अनुयायी दर्शाए गए हैं। - अजंता",
+        "en": "A grand image of Buddha's Mahaparinirvana with numerous celestial musicians above and the sorrowful figures of his followers below. - Ajanta"
+      },
+      {
+        "id": 2,
+        "hi": "प्रस्तर पर उत्कीर्ण विष्णु के वराह अवतार की विशाल प्रतिमा, जिसमें वह देवी पृथ्वी को गहरे विक्षुब्ध सागर से उबारते दर्शाए गए हैं। - माउंट आबू",
+        "en": "A huge image of Varaha Avatar (boar incarnation) of Vishnu, as he rescues Goddess Earth from the deep and tranquil waters, sculpted on rock. - Mount Abu"
+      },
+      {
+        "id": 3,
+        "hi": "विशाल गोलाश्मों पर उत्कीर्ण 'अर्जुन की तपस्या'/'गंगा-अवतरण' - मामल्लपुरम",
+        "en": "\"Arjuna's Penance\" / \"Descent of Ganga\" sculpted on the surface of huge boulders. - Mamallapuram"
+      }
+    ],
+    "question": {
+      "hi": "भारत की कला व संस्कृति के इतिहास के संबंध में निम्नलिखित युग्मों पर विचार कीजिये (विख्यात मूर्तिशिल्प और स्थल):\nउपर्युक्त युग्मों में से कौन-सा/से सही सुमेलित है/हैं?",
+      "en": "With reference to the art and archaeological history of India, consider the following pairs (Famous sculpture and site):\nWhich of the pairs given above is/are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "प्रस्तर पर उत्कीर्ण विष्णु के वराह अवतार की विशाल प्रतिमा उदयगिरि की गुफाओं (मध्य प्रदेश) में पाई गई है, न कि माउंट आबू में। (युग्म 2 गलत)। बुद्ध के महापरिनिर्वाण की भव्य प्रतिमा अजंता में है। (युग्म 1 सही)। 'अर्जुन की तपस्या'/'गंगा-अवतरण' की मूर्ति मामल्लपुरम में है। (युग्म 3 सही)। अतः विकल्प (c) सही है।",
+      "en": "The huge image of Varaha Avatar of Vishnu sculpted on rock is found in the Udayagiri caves (Madhya Pradesh), not Mount Abu. (Pair 2 is incorrect). The grand image of Buddha's Mahaparinirvana is in Ajanta. (Pair 1 is correct). The sculpture of 'Arjuna's Penance'/'Descent of Ganga' is in Mamallapuram. (Pair 3 is correct). Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 57,
+    "year": "2014",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सत्रिया, संगीत, नृत्य तथा अभिनय का सम्मिश्रण है।",
+        "en": "Sattriya is a combination of music, dance and acting."
+      },
+      {
+        "id": 2,
+        "hi": "यह असम के वैष्णवों की शताब्दियों पुरानी जीवंत-परंपरा है।",
+        "en": "It is a centuries-old living tradition of Vaishnavas of Assam."
+      },
+      {
+        "id": 3,
+        "hi": "यह तुलसीदास, कबीर और मीराबाई द्वारा रचित भक्ति गीतों के शास्त्रीय रागों तथा तालों पर आधारित है।",
+        "en": "It is based on classical Ragas and Talas of devotional songs composed by Tulsidas, Kabir and Mirabai."
+      }
+    ],
+    "question": {
+      "hi": "विख्यात सत्रिया नृत्य के संदर्भ में निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to the famous Sattriya dance, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "15वीं शताब्दी ई. में असम के महान वैष्णव संत और सुधारक श्रीमंत शंकरदेव द्वारा सत्रिया नृत्य को वैष्णव धर्म के प्रचार हेतु प्रारंभ किया गया था। यह उनकी अपनी रचनाओं पर आधारित है, न कि तुलसीदास, कबीर और मीराबाई की रचनाओं पर। अतः कथन 3 गलत है। कथन 1 और 2 सही हैं। अतः विकल्प (b) सही है।",
+      "en": "In the 15th century CE, the Sattriya dance was introduced by the great Vaishnava saint and reformer of Assam, Srimanta Shankaradeva, for the propagation of Vaishnavism. It is based on his own compositions and not those of Tulsidas, Kabir and Mirabai. Hence statement 3 is incorrect. Statements 1 and 2 are correct. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 58,
+    "year": "2014",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत की संस्कृति एवं परंपरा के संदर्भ में 'कलारीपयट्टू' क्या है?",
+      "en": "With reference to India's culture and tradition, what is 'Kalaripayattu'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "यह शैव मत का प्राचीन भक्ति पंथ है, जो अभी भी दक्षिण भारत के कुछ हिस्सों में प्रचलित है।",
+        "en": "It is an ancient Bhakti cult of Shaivism still prevalent in some parts of South India."
+      },
+      {
+        "id": "B",
+        "hi": "यह काँसे व पीतल के काम की एक प्राचीन शैली है, जो अभी भी कोरोमंडल क्षेत्र के दक्षिणी हिस्से में पाई जाती है।",
+        "en": "It is an ancient style of bronze and brass work still found in southern part of Coromandel area."
+      },
+      {
+        "id": "C",
+        "hi": "यह नृत्य-नाटिका का एक प्राचीन रूप है और मालाबार के उत्तरी हिस्सों में एक जीवन्त परंपरा है।",
+        "en": "It is an ancient form of dance-drama and a living tradition in the northern part of Malabar."
+      },
+      {
+        "id": "D",
+        "hi": "यह एक प्राचीन मार्शल कला है और दक्षिण भारत के कुछ हिस्सों में जीवन्त परंपरा है।",
+        "en": "It is an ancient martial art and a living tradition in some parts of South India."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "कलारीपयट्टू एक मार्शल कला है जो 13वीं सदी के दौरान केरल में शुरू हुई। यह मूल रूप से केरल के उत्तरी व मध्य भागों में तथा कर्नाटक के तुलुनाडु क्षेत्र में प्रचलित थी। अतः विकल्प (d) सही है।",
+      "en": "Kalaripayattu is a martial art which started in Kerala during the 13th century. It was originally practiced in the northern and central parts of Kerala and in the Tulunadu region of Karnataka. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 59,
+    "year": "2014",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "टाबो मठ और मंदिर संकुल - स्पीति घाटी",
+        "en": "Tabo monastery and temple complex - Spiti Valley"
+      },
+      {
+        "id": 2,
+        "hi": "ल्होत्सव लाखांग मंदिर, नको - जांस्कर घाटी",
+        "en": "Lhotsava Lhakhang temple, Nako - Zanskar Valley"
+      },
+      {
+        "id": 3,
+        "hi": "अल्ची मंदिर संकुल - लद्दाख",
+        "en": "Alchi temple complex - Ladakh"
+      }
+    ],
+    "question": {
+      "hi": "भारत में बौद्ध इतिहास, परंपरा और संस्कृति के संबंध में निम्नलिखित युग्मों पर विचार कीजिये (विख्यात तीर्थस्थल और अवस्थान):\nउपर्युक्त युग्मों में से कौन-सा/से सही सुमेलित है/हैं?",
+      "en": "With reference to the Buddhist history, tradition and culture in India, consider the following pairs (Famous shrine and Location):\nWhich of the pairs given above is/are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "टाबो मठ हिमाचल प्रदेश की स्पीति घाटी के ताबो गाँव में स्थित है। (युग्म 1 सही)। ल्होत्सव लाखांग मंदिर, नको हिमाचल प्रदेश में स्थित है, जबकि जांस्कर घाटी जम्मू-कश्मीर (अब लद्दाख) में स्थित है। (युग्म 2 गलत)। अल्ची मंदिर संकुल लद्दाख के लेह ज़िले के अल्ची गाँव में स्थित है। (युग्म 3 सही)। अतः विकल्प (c) सही है।",
+      "en": "Tabo Monastery is located in Tabo village of Spiti Valley in Himachal Pradesh. (Pair 1 is correct). Lhotsava Lhakhang temple, Nako is located in Himachal Pradesh, whereas Zanskar Valley is located in Jammu & Kashmir (now Ladakh). (Pair 2 is incorrect). Alchi temple complex is located in Alchi village of Leh district in Ladakh. (Pair 3 is correct). Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 60,
+    "year": "2014",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "गरबा - गुजरात",
+        "en": "Garba - Gujarat"
+      },
+      {
+        "id": 2,
+        "hi": "मोहिनीअट्टम - ओडिशा",
+        "en": "Mohiniattam - Odisha"
+      },
+      {
+        "id": 3,
+        "hi": "यक्षगान - कर्नाटक",
+        "en": "Yakshagana - Karnataka"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये:\nउपर्युक्त युग्मों में से कौन-सा/से सही सुमेलित है/हैं?",
+      "en": "Consider the following pairs:\nWhich of the pairs given above is/are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "गरबा गुजरात का पारंपरिक लोक नृत्य है। (युग्म 1 सही)। मोहिनीअट्टम केरल का शास्त्रीय नृत्य है, ओडिशा का नहीं (ओडिशा का शास्त्रीय नृत्य ओडिसी है)। (युग्म 2 गलत)। यक्षगान कर्नाटक का एक पारंपरिक रंगमंच/नृत्य रूप है। (युग्म 3 सही)। अतः विकल्प (c) सही है।",
+      "en": "Garba is a traditional folk dance of Gujarat. (Pair 1 is correct). Mohiniattam is a classical dance of Kerala, not Odisha (Odisha's classical dance is Odissi). (Pair 2 is incorrect). Yakshagana is a traditional theater/dance form of Karnataka. (Pair 3 is correct). Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 61,
+    "year": "2014",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "'बीजक' संत दादू दयाल के उपदेशों का एक संकलन है।",
+        "en": "'Bijak' is a composition of the teachings of Saint Dadu Dayal."
+      },
+      {
+        "id": 2,
+        "hi": "पुष्टि मार्ग के दर्शन को माधवाचार्य ने प्रतिपादित किया।",
+        "en": "The philosophy of Pushti Marg was propounded by Madhvacharya."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "बीजक, कबीर की वाणी का संकलन है, न कि दादू दयाल का। अतः प्रथम कथन गलत है। पुष्टि मार्ग के प्रतिपादक श्री वल्लभाचार्य थे, माधवाचार्य नहीं। अतः द्वितीय कथन भी गलत है। अतः सही उत्तर विकल्प (d) है।",
+      "en": "Bijak is a compilation of the teachings of Kabir, not Dadu Dayal. Hence the first statement is incorrect. The propounder of Pushti Marg was Shri Vallabhacharya, not Madhvacharya. Hence the second statement is also incorrect. Thus, the correct answer is option (d)."
+    }
+  },
+  {
+    "id": 62,
+    "year": "2014",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "'मांगणियार' के नाम से जाना जाने वाला लोगों का समुदाय-",
+      "en": "A community of people called Manganiyars is well-known for their-"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "पूर्वोत्तर भारत में अपनी मार्शल कलाओं के लिये विख्यात है।",
+        "en": "martial arts in North-East India."
+      },
+      {
+        "id": "B",
+        "hi": "पश्चिमोत्तर भारत में अपनी संगीत परंपरा हेतु विख्यात है।",
+        "en": "musical tradition in North-West India."
+      },
+      {
+        "id": "C",
+        "hi": "दक्षिण भारत में अपने शास्त्रीय गायन हेतु विख्यात है।",
+        "en": "classical vocal music in South India."
+      },
+      {
+        "id": "D",
+        "hi": "मध्य भारत में पच्चीकारी परंपरा के लिये विख्यात है।",
+        "en": "pietra dura tradition in Central India."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "'मांगणियार' समुदाय, राजस्थान के मरुस्थल (पश्चिमोत्तर भारत) में पाया जाने वाला एक मुस्लिम समुदाय है। ये अपने पारंपरिक लोक संगीत के लिये प्रसिद्ध हैं। अतः विकल्प (b) सही है।",
+      "en": "The 'Manganiyar' community is a Muslim community found in the desert of Rajasthan (North-West India). They are famous for their traditional folk music. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 63,
+    "year": "2013",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "कुछ शैलकृत बौद्ध गुफाओं को चैत्य कहते हैं, जबकि अन्य को विहार। दोनों में क्या अंतर है?",
+      "en": "Some Buddhist rock-cut caves are called Chaityas, while the others are called Viharas. What is the difference between the two?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "विहार पूजा स्थल होता है, जबकि चैत्य बौद्ध भिक्षुओं का निवास स्थान है।",
+        "en": "Vihara is a place of worship, while Chaitya is the dwelling place of the monks."
+      },
+      {
+        "id": "B",
+        "hi": "चैत्य पूजा स्थल होता है, जबकि विहार बौद्ध भिक्षुओं का निवास स्थान है।",
+        "en": "Chaitya is a place of worship, while Vihara is the dwelling place of the monks."
+      },
+      {
+        "id": "C",
+        "hi": "चैत्य गुफा के दूर के सिरे पर स्तूप होता है, जबकि विहार गुफा पर अक्षीय कक्ष होता है।",
+        "en": "Chaitya is the stupa at the far end of the cave, while Vihara is the hall axial to it."
+      },
+      {
+        "id": "D",
+        "hi": "दोनों में कोई वस्तुपरक अंतर नहीं होता।",
+        "en": "There is no material difference between the two."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारतीय वास्तुकला से संबंधित ग्रंथों में 'चैत्य' शब्द का प्रयोग पूजा या प्रार्थना स्थलों के लिये किया जाता है, जबकि बौद्ध भिक्षुओं के निवास स्थल को 'विहार' कहते हैं। अतः विकल्प (b) सही है।",
+      "en": "In texts related to Indian architecture, the word 'Chaitya' is used for places of worship or prayer, while the dwelling place of Buddhist monks is called 'Vihara'. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 64,
+    "year": "2013",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा एक बौद्ध मत में निर्वाण की अवधारणा की सर्वश्रेष्ठ व्याख्या करता है?",
+      "en": "Which one of the following describes best the concept of Nirvana in Buddhism?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "तृष्णारूपी अग्नि का शमन",
+        "en": "Extinction of the flame of desire"
+      },
+      {
+        "id": "B",
+        "hi": "स्वयं की पूर्णतः अस्तित्त्वहीनता",
+        "en": "Complete annihilation of self"
+      },
+      {
+        "id": "C",
+        "hi": "परमानन्द एवं विश्राम की स्थिति",
+        "en": "A state of bliss and rest"
+      },
+      {
+        "id": "D",
+        "hi": "धारणातीत मानसिक अवस्था",
+        "en": "A mental stage beyond all comprehension"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "बुद्ध के अनुसार, जीवन का सर्वोच्च लक्ष्य मोक्ष या निर्वाण है। निर्वाण वह परम शांति है जो तृष्णा, क्रोध, लोभ, मोह जैसी विषादकारी मनःस्थितियों के शमन के बाद उत्पन्न होती है। बौद्ध साहित्य में निर्वाण की उपमा बुझे हुए दीपक से की जाती है। अतः 'तृष्णारूपी अग्नि का शमन' सबसे सटीक व्याख्या है। विकल्प (a) सही है।",
+      "en": "According to Buddha, the ultimate goal of life is Moksha or Nirvana. Nirvana is the supreme peace that arises after the extinction of depressing mental states like desire, anger, greed, and delusion. In Buddhist literature, Nirvana is compared to an extinguished lamp. Therefore, 'extinction of the flame of desire' is the most accurate description. Option (a) is correct."
+    }
+  },
+  {
+    "id": 65,
+    "year": "2013",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कर्म को विनष्ट करने का सुनिश्चित मार्ग तपश्चर्या है।",
+        "en": "The surest way of annihilating Karma is to practice penance."
+      },
+      {
+        "id": 2,
+        "hi": "प्रत्येक वस्तु में, चाहे वह सूक्ष्मतम कण हो, आत्मा होती है।",
+        "en": "Every object, even the smallest particle, has a soul."
+      },
+      {
+        "id": 3,
+        "hi": "कर्म आत्मा का विनाशक है और अवश्य इसका अंत करना चाहिये।",
+        "en": "Karma is the bane of the soul and must be ended."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा/से कथन जैन सिद्धांत के अनुरूप है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Which of the following statements is/are applicable to Jain doctrine?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "जैन दर्शन के अनुसार कर्मों के कारण ही जीव बंधन में पड़ता है, इसलिये कर्म बंधन का टूटना ही मोक्ष है। भगवान महावीर ने मोक्ष के लिये कठोर तपश्चर्या तथा काया-क्लेश पर बल दिया (कथन 1 सही)। जैन सिद्धांत सृष्टि के कण-कण (सूक्ष्मतम कण) में जीवों/आत्मा के वास को स्वीकार करता है (कथन 2 सही)। कर्म को बंधन का कारण तथा आत्मा का विनाशक माना गया है, अतः इसका अंत करना चाहिये (कथन 3 सही)। अतः विकल्प (d) सही है।",
+      "en": "According to Jain philosophy, the soul falls into bondage due to Karma, hence breaking the bondage of Karma is Moksha. Lord Mahavira emphasized strict penance and bodily mortification for salvation (Statement 1 is correct). Jain doctrine accepts the existence of souls in every particle of the universe (Statement 2 is correct). Karma is considered the cause of bondage and the bane of the soul, hence it must be ended (Statement 3 is correct). Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 66,
+    "year": "2013",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बादामी की गुफाएँ भारत की प्राचीनतम अवशिष्ट शैलकृत गुफाएँ हैं।",
+        "en": "The caves at Badami are the oldest surviving rock-cut caves in India."
+      },
+      {
+        "id": 2,
+        "hi": "बराबर की शैलकृत गुफाएँ सम्राट चंद्रगुप्त मौर्य द्वारा मूलतः आजीवकों के लिये बनवाई गई थीं।",
+        "en": "The Barabar rock-cut caves were originally made for Ajivikas by Emperor Chandragupta Maurya."
+      },
+      {
+        "id": 3,
+        "hi": "एलोरा में गुफाएँ विभिन्न धर्मों के लिये बनवाई गई थीं।",
+        "en": "At Ellora, caves were made for different faiths."
+      }
+    ],
+    "question": {
+      "hi": "भारतीय शिलावास्तु के इतिहास के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to the history of Indian rock-cut architecture, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "भारत की प्राचीनतम अवशिष्ट शैलकृत गुफाएँ भीमबेटका (मध्य प्रदेश) व बराबर में हैं, जबकि बादामी की गुफाएँ 6ठी-8वीं शताब्दी में निर्मित हुई हैं। अतः कथन 1 गलत है। बराबर की गुफाओं का निर्माण सम्राट चंद्रगुप्त मौर्य ने नहीं बल्कि सम्राट अशोक ने आजीवकों के लिये किया था। अतः कथन 2 गलत है। एलोरा की गुफाओं में बौद्ध, जैन एवं हिंदू सभी धर्मों से जुड़े साक्ष्य उपलब्ध होते हैं। अतः कथन 3 सही है। विकल्प (c) सही उत्तर है।",
+      "en": "The oldest surviving rock-cut caves in India are in Bhimbetka (Madhya Pradesh) and Barabar, while the Badami caves were built in the 6th-8th centuries. Hence statement 1 is incorrect. The Barabar caves were built not by Emperor Chandragupta Maurya but by Emperor Ashoka for the Ajivikas. Hence statement 2 is incorrect. Evidences related to Buddhism, Jainism, and Hinduism are all found in the Ellora caves. Hence statement 3 is correct. Option (c) is the correct answer."
+    }
+  },
+  {
+    "id": 67,
+    "year": "2013",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के सांस्कृतिक इतिहास के संदर्भ में, नृत्य एवं नाट्य-कला की एक मुद्रा जिसे 'त्रिभंग' कहा जाता है, प्राचीन काल से आज तक भारतीय कलाकारों को अतिप्रिय रही है। निम्नलिखित में से कौन-सा एक कथन इस मुद्रा को सर्वोत्तम रूप में वर्णित करता है?",
+      "en": "In the context of cultural history of India, a pose in dance and dramatics called 'Tribhanga' has been a favourite of Indian artists from ancient times till today. Which one of the following statements best describes this pose?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एक पाँव मोड़ा जाता है और देह थोड़ी, किंतु विपरीत दिशा में कटि एवं ग्रीवा पर वक्र की जाती है।",
+        "en": "One leg is bent and the body is slightly but oppositely curved at waist and neck."
+      },
+      {
+        "id": "B",
+        "hi": "मुख अभिव्यंजनाएँ, हस्तमुद्राएँ एवं प्रसाधन, कतिपय महाकाव्य अथवा ऐतिहासिक पात्रों को प्रतीकात्मक रूप में व्यक्त करने के लिये संयोजित की जाती हैं।",
+        "en": "Facial expressions, hand gestures and make-up are combined to symbolize certain epic or historic characters."
+      },
+      {
+        "id": "C",
+        "hi": "देह, मुख एवं हस्तों की गति का प्रयोग स्वयं को अभिव्यक्त करने अथवा एक कथा कहने के लिये किया जाता है।",
+        "en": "Movements of body, face and hands are used to express oneself or to tell a story."
+      },
+      {
+        "id": "D",
+        "hi": "मंद स्मिति, थोड़ी वक्र कटि एवं कतिपय हस्तमुद्राओं पर बल दिया जाता है, प्रेम एवं शृंगार की अनुभूतियों को अभिव्यक्त करने के लिये।",
+        "en": "A little smile, slightly curved waist and certain hand gestures are emphasized to express the feelings of love or eroticism."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "भारतीय नाट्य परंपरा में 'त्रिभंग मुद्रा' के तहत ऐसी आकृति बनाई जाती है जिसमें एक पैर मोड़ा जाता है तथा देह कटि (कमर) एवं ग्रीवा (गर्दन) पर विपरीत दिशा में वक्र की जाती है। इस मुद्रा में शरीर का आकार अंग्रेजी वर्णमाला के 'S' अक्षर के समान हो जाता है। अतः विकल्प (a) सही है।",
+      "en": "In the Indian dramatic tradition, under the 'Tribhanga pose', a posture is formed in which one leg is bent and the body is oppositely curved at the waist and neck. In this pose, the shape of the body becomes similar to the English letter 'S'. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 68,
+    "year": "2013",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अजंता की गुफाएँ",
+        "en": "Ajanta Caves"
+      },
+      {
+        "id": 2,
+        "hi": "लेपाक्षी मंदिर",
+        "en": "Lepakshi Temple"
+      },
+      {
+        "id": 3,
+        "hi": "साँची स्तूप",
+        "en": "Sanchi Stupa"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित ऐतिहासिक स्थलों पर विचार कीजिये:\nउपर्युक्त स्थलों में से कौन-सा/से भित्ति चित्रकला (Mural paintings) के लिये भी जाना जाता है/जाने जाते हैं?",
+      "en": "Consider the following historical places:\nWhich of the above places is/are also known for mural paintings?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "अजंता की गुफाएँ व लेपाक्षी मंदिर (आंध्र प्रदेश) भित्ति चित्रकला (Wall Painting/Mural) के लिये जाने जाते हैं। साँची का स्तूप आंशिक रूप से भित्ति चित्रकला को धारण करता है, परंतु यह उसकी महत्त्वपूर्ण विशेषता नहीं है, यह अपनी स्थापत्य कला व मूर्तिकला (तोरण द्वार आदि) के लिए प्रसिद्ध है। अतः विकल्प (b) सही उत्तर है।",
+      "en": "Ajanta Caves and Lepakshi Temple (Andhra Pradesh) are known for mural (wall) paintings. The Sanchi Stupa partially bears mural paintings, but it is not its significant feature; it is famous for its architecture and sculpture (Torana gateways, etc.). Hence, option (b) is the correct answer."
+    }
+  },
+  {
+    "id": 69,
+    "year": "2013",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सांख्य पुनर्जन्म व आत्मा के आवागमन के सिद्धांत को स्वीकार नहीं करता है।",
+        "en": "Samkhya does not accept the theory of rebirth or transmigration of soul."
+      },
+      {
+        "id": 2,
+        "hi": "सांख्य की मान्यता है कि आत्मज्ञान ही मोक्ष की ओर ले जाता है, न कि कोई बाह्य प्रभाव अथवा कारक।",
+        "en": "Samkhya holds that it is the self-knowledge that leads to liberation and not any exterior influence or agent."
+      }
+    ],
+    "question": {
+      "hi": "भारत में दार्शनिक विचार के इतिहास के संबंध में, सांख्य संप्रदाय से संबंधित निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to the history of philosophical thought in India, consider the following statements regarding Samkhya school:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कपिल मुनि द्वारा प्रवर्तित सांख्य दर्शन में पुनर्जन्म व आत्मा के आवागमन के सिद्धांत को स्वीकार किया गया है। अतः प्रथम कथन गलत है। इस दर्शन की मान्यता है कि यथार्थ/आत्मज्ञान ही मोक्ष की ओर ले जाता है, न कि कोई बाह्य प्रभाव या कारक। अतः कथन 2 सही है। विकल्प (b) सही है।",
+      "en": "The theory of rebirth and transmigration of soul has been accepted in the Samkhya philosophy propounded by Sage Kapila. Hence the first statement is incorrect. This philosophy believes that reality/self-knowledge alone leads to salvation, and not any external influence or factor. Hence statement 2 is correct. Option (b) is correct."
+    }
+  },
+  {
+    "id": 70,
+    "year": "2012",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "ध्यान साधना और श्वास नियमन",
+        "en": "Meditation and control of breath"
+      },
+      {
+        "id": 2,
+        "hi": "एकांत में कठोर यौगिक व्यायाम",
+        "en": "Severe ascetic exercises in a lonely place"
+      },
+      {
+        "id": 3,
+        "hi": "श्रोताओं में आध्यात्मिक हर्षोन्माद उत्पन्न करने के लिये पवित्र गीतों का गायन",
+        "en": "Recitation of holy songs to arouse a state of ecstasy in their audience"
+      }
+    ],
+    "question": {
+      "hi": "मध्ययुगीन भारत के धार्मिक इतिहास के संदर्भ में सूफी संत निम्नलिखित में से किस तरह के आचरण का निर्वाह करते थे?\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये:",
+      "en": "With reference to the religious history of medieval India, the Sufi mystics were known to pursue which of the following practices?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "मध्ययुगीन सूफी संतों के आचरण के संदर्भ में तीनों कथन सही हैं। सूफी संत, शारीरिक व्यायाम, मानसिक ध्यान साधना, श्वास का नियमन (प्राणायाम) तथा अध्यात्म द्वारा खुशी प्रदान करने के लिये पवित्र गीतों (समा या संगीत) का गायन करते थे। निज़ामुद्दीन औलिया यौगिक प्राणायाम में इतने पारंगत थे कि योगी लोग उन्हें 'सिद्ध पुरुष' कहा करते थे। अतः विकल्प (d) सही है।",
+      "en": "All three statements are correct with reference to the conduct of medieval Sufi saints. Sufi saints practiced physical exercises, mental meditation, breath control (pranayama), and singing of holy songs (Sama or music) to provide spiritual ecstasy. Nizamuddin Auliya was so adept in yogic pranayama that yogis used to call him a 'Siddha Purusha'. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 71,
+    "year": "2012",
+    "subject": "History",
+    "topic": "कला एवं संस्कृति (Art and Culture)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "पूर्व वैदिक आर्यों का धर्म प्रमुखतः था-",
+      "en": "The religion of early Vedic Aryans was primarily of"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "भक्ति",
+        "en": "Bhakti"
+      },
+      {
+        "id": "B",
+        "hi": "मूर्तिपूजा और यज्ञ",
+        "en": "Image worship and Yajnas"
+      },
+      {
+        "id": "C",
+        "hi": "प्रकृति पूजा और यज्ञ",
+        "en": "Worship of nature and Yajnas"
+      },
+      {
+        "id": "D",
+        "hi": "प्रकृति पूजा और भक्ति",
+        "en": "Worship of nature and Bhakti"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "प्रकृति पूजा एवं यज्ञ ही प्रारंभिक आर्यों (पूर्व वैदिक/ऋग्वैदिक आर्यों) के धर्म की मुख्य विशेषता थी। ऋग्वैदिक आर्यों का प्रारंभिक जीवन कबायली था, अतः उनके देवता भी प्राकृतिक शक्तियों के प्रतीक थे (जैसे इंद्र, अग्नि, वरुण)। ऋग्वैदिक काल में बहुदेववाद का प्रचलन मिलता है, जहाँ स्तुति पाठ करना और यज्ञ बलि अर्पित कर देवताओं की स्तुतियाँ की जाती थीं। भक्ति व मूर्तिपूजा परवर्ती काल (मुख्यतः गुप्तकाल) की देन है। अतः विकल्प (c) सही है।",
+      "en": "Worship of nature and Yajnas were the main features of the religion of early Aryans (Early Vedic/Rigvedic Aryans). The early life of the Rigvedic Aryans was tribal, so their gods were also symbols of natural forces (like Indra, Agni, Varuna). Polytheism was prevalent in the Rigvedic period, where gods were praised by reciting hymns and offering sacrificial oblations. Bhakti and idol worship are the contributions of the later period (mainly the Gupta period). Hence, option (c) is correct."
+    }
+  }
+]

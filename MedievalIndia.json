@@ -1,0 +1,1595 @@
+[
+  {
+    "id": 1,
+    "year": "2025",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "पपीता",
+        "en": "Papaya"
+      },
+      {
+        "id": 2,
+        "hi": "अनान्नास",
+        "en": "Pineapple"
+      },
+      {
+        "id": 3,
+        "hi": "अमरूद",
+        "en": "Guava"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित फलों पर विचार कीजिये:\nउपर्युक्त में से कितने सोलहवीं और सत्रहवीं शताब्दियों में पुर्तगालियों द्वारा भारत में लाए गए?",
+      "en": "Consider the following fruits:\nHow many of the above were brought to India by the Portuguese in the 16th and 17th centuries?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "पुर्तगाली, भारत में आने वाले सबसे पहले यूरोपीय थे और उन्होंने 16वीं तथा 17वीं शताब्दी के दौरान कई अमेरिकी फसलों एवं फलों को भारत में लाने में महत्त्वपूर्ण भूमिका निभाई थी। इनमें अनान्नास, पपीता और अमरूद शामिल हैं। ये सभी अमेरिकी मूल के हैं तथा जिन्हें पुर्तगालियों ने भारत में लाया था। अतः विकल्प (c) सही है।",
+      "en": "The Portuguese were the first Europeans to come to India and played an important role in bringing many American crops and fruits to India during the 16th and 17th centuries. These include pineapple, papaya, and guava. All of these are of American origin and were brought to India by the Portuguese. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 2,
+    "year": "2025",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "सिंचाई में काम आने वाला 'अरघट्टा' नामक उपकरण क्या था?",
+      "en": "What was the device called 'Araghatta' used in irrigation?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एक घिरनी (पुली) से खींचा जाने वाला चमड़े का बना पानी का थैला",
+        "en": "A leather water bag drawn by a pulley"
+      },
+      {
+        "id": "B",
+        "hi": "एक बड़ा चक्का, जिसकी अराओं (स्पोक्स) के बाहरी छोरों पर मिट्टी के पात्र बँधे हों",
+        "en": "A large wheel, with earthen pots tied to the outer ends of its spokes"
+      },
+      {
+        "id": "C",
+        "hi": "बैलों के द्वारा खींचा जाने वाला मिट्टी का एक अधिक बड़ा पात्र",
+        "en": "A very large earthen pot drawn by bullocks"
+      },
+      {
+        "id": "D",
+        "hi": "सीधे हाथों से ही रस्सी द्वारा खींचा जाने वाला बड़ा जल-डोल (वाटर बकेट)",
+        "en": "A large water bucket drawn by ropes directly by hand"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "अरघट्ट, जिसे सामान्यतः 'फारसी पहिया' कहा जाता है, उसकी तकनीकी प्रकृति विवाद का विषय रही है। अरघट्ट का मुख्य घटक 'घटियंत्र' अर्थात् मटकों वाला यंत्र था, जिसे सामान्यतः एक पहिये पर स्थापित किया जाता था। सिंचाई उपकरण के रूप में 'घटियंत्र' को प्रायः 'घड़ों की माला' (पॉट-गारलैंड) के रूप में माना जाता है। अतः विकल्प (b) सही है।",
+      "en": "The technical nature of the Araghatta, commonly called the 'Persian wheel', has been a subject of debate. The main component of Araghatta was the 'Ghatiyantra' or the machine with pots, which was generally installed on a wheel. As an irrigation device, the 'Ghatiyantra' is often considered as a 'garland of pots'. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 3,
+    "year": "2024",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "मध्यकालीन भारत के निम्नलिखित शासकों में से किसने पुर्तगालियों को भटकल में एक किला बनाने की अनुमति दी थी?",
+      "en": "Which one of the following rulers of medieval India gave permission to the Portuguese to build a fort at Bhatkal?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कृष्णदेवराय",
+        "en": "Krishnadevaraya"
+      },
+      {
+        "id": "B",
+        "hi": "नरसिम्हा सालुव",
+        "en": "Narasimha Saluva"
+      },
+      {
+        "id": "C",
+        "hi": "मुहम्मद शाह III",
+        "en": "Muhammad Shah III"
+      },
+      {
+        "id": "D",
+        "hi": "यूसुफ आदिल शाह",
+        "en": "Yusuf Adil Shah"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "भारत में पुर्तगालियों के आगमन के साथ ही भटकल चर्चा में रहा। वास्को डी गामा के समय से ही भटकल के सरदार पुर्तगाली शासकों को कर (Tax) देते थे। सम्राट कृष्णदेवराय ने 1510 ई. में पुर्तगालियों को यहाँ एक किला बनाने की अनुमति प्रदान की थी। अतः विकल्प (a) सही है।",
+      "en": "Bhatkal was in the news with the arrival of the Portuguese in India. Since the time of Vasco da Gama, the chiefs of Bhatkal used to pay tax to the Portuguese rulers. Emperor Krishnadevaraya gave permission to the Portuguese to build a fort here in 1510 AD. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 4,
+    "year": "2023",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "होयसल",
+        "en": "Hoysala"
+      },
+      {
+        "id": 2,
+        "hi": "गहड़वाल",
+        "en": "Gahadavala"
+      },
+      {
+        "id": 3,
+        "hi": "काकतीय",
+        "en": "Kakatiya"
+      },
+      {
+        "id": 4,
+        "hi": "यादव",
+        "en": "Yadava"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित साम्राज्यों पर विचार कीजिये:\nउपर्युक्त में से कितने साम्राज्यों ने अपने राज्य आद्य आठवीं शताब्दी ईसवी में स्थापित किये?",
+      "en": "Consider the following dynasties:\nHow many of the above dynasties established their kingdoms in the early eighth century AD?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "केवल तीन",
+        "en": "Only three"
+      },
+      {
+        "id": "D",
+        "hi": "किसी ने नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "होयसल साम्राज्य ने 10वीं से 14वीं शताब्दी के मध्य दक्षिण भारत में शासन किया था। गहड़वाल राजवंश की कालावधि 11वीं शताब्दी के उत्तरार्द्ध से लेकर 13वीं शताब्दी के मध्य तक थी। काकतीय एवं यादवों का उदय 13वीं शताब्दी में हुआ। इनमें से किसी भी साम्राज्य ने 8वीं शताब्दी में अपना राज्य स्थापित नहीं किया। अतः विकल्प (d) सही है।",
+      "en": "The Hoysala empire ruled in South India between the 10th and 14th centuries. The Gahadavala dynasty's period was from the late 11th century to the mid-13th century. The Kakatiyas and Yadavas emerged in the 13th century. None of these empires established their kingdoms in the 8th century. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 5,
+    "year": "2023",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "विजयनगर साम्राज्य के इनमें से किस एक शासक ने तुंगभद्रा नदी पर एक विशाल बाँध निर्मित किया और नदी से राजधानी नगर तक कई किलोमीटर लंबी एक नहर और कुल्या का निर्माण किया?",
+      "en": "Which one of the following rulers of the Vijayanagara Empire constructed a large dam across Tungabhadra River and a canal-cum-aqueduct several kilometers long from the river to the capital city?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "देवराय प्रथम",
+        "en": "Devaraya I"
+      },
+      {
+        "id": "B",
+        "hi": "मल्लिकार्जुन",
+        "en": "Mallikarjuna"
+      },
+      {
+        "id": "C",
+        "hi": "वीर विजय",
+        "en": "Vira Vijaya"
+      },
+      {
+        "id": "D",
+        "hi": "विरूपाक्ष",
+        "en": "Virupaksha"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "देवराय प्रथम ने तुंगभद्रा नदी पर एक बाँध का निर्माण करवाया तथा इस बाँध से नहरों के माध्यम से नगरों एवं गाँवों को पेय/सिंचाई हेतु जलापूर्ति होती थी। अतः विकल्प (a) सही है।",
+      "en": "Devaraya I constructed a dam across the Tungabhadra river and through canals from this dam, water was supplied for drinking/irrigation to towns and villages. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 6,
+    "year": "2023",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "मध्यकालीन गुजरात के इनमें से किस एक शासक ने दीव को पुर्तगालियों के सुपुर्द कर दिया?",
+      "en": "Which one of the following rulers of medieval Gujarat surrendered Diu to Portuguese?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अहमद शाह",
+        "en": "Ahmad Shah"
+      },
+      {
+        "id": "B",
+        "hi": "महमूद बेगड़ा",
+        "en": "Mahmud Begada"
+      },
+      {
+        "id": "C",
+        "hi": "बहादुर शाह",
+        "en": "Bahadur Shah"
+      },
+      {
+        "id": "D",
+        "hi": "मुहम्मद शाह",
+        "en": "Muhammad Shah"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "16वीं शताब्दी के आरंभ में मुगल सम्राट हुमायूँ के आक्रमण से गुजरात का सुल्तान बहादुर शाह अत्यधिक दबाव में आ गया। उसने पुर्तगालियों के साथ मैत्रीपूर्ण संबंध बनाने का निर्णय लिया। वर्ष 1534 में, शाह ने पुर्तगालियों के साथ बसीन की संधि पर हस्ताक्षर किया, आगे चलकर उसने दीव (Diu) के साथ-साथ साम्राज्य के अन्य क्षेत्रों जैसे कि वसई तथा वर्तमान मुंबई स्थित द्वीपों को भी पुर्तगालियों को सौंप दिया। अतः विकल्प (c) सही है।",
+      "en": "In the early 16th century, the Sultan of Gujarat, Bahadur Shah, came under tremendous pressure due to the invasion of Mughal Emperor Humayun. He decided to establish friendly relations with the Portuguese. In 1534, the Shah signed the Treaty of Bassein with the Portuguese, and later he surrendered Diu as well as other territories of the empire like Vasai and the islands of present-day Mumbai to the Portuguese. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 7,
+    "year": "2022",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "मध्यकालीन भारत में, शब्द 'फणम' किसे निर्दिष्ट करता था?",
+      "en": "In medieval India, the term 'Fanam' referred to:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "पहनावा",
+        "en": "Clothing"
+      },
+      {
+        "id": "B",
+        "hi": "सिक्के",
+        "en": "Coins"
+      },
+      {
+        "id": "C",
+        "hi": "आभूषण",
+        "en": "Ornaments"
+      },
+      {
+        "id": "D",
+        "hi": "हथियार",
+        "en": "Weapons"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "मध्यकालीन त्रावणकोर में फणम और चक्रम सिक्के मुद्रा की नियमित इकाई थे और व्यापार के लिये बड़े पैमाने पर उपयोग किये जाते थे। अतः विकल्प (b) सही है।",
+      "en": "In medieval Travancore, Fanam and Chakram coins were the regular unit of currency and were widely used for trade. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 8,
+    "year": "2022",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत पर पहला मंगोल आक्रमण जलालुद्दीन खिलजी के राज्यकाल में हुआ।",
+        "en": "The first Mongol invasion of India happened during the reign of Jalal-ud-din Khalji."
+      },
+      {
+        "id": 2,
+        "hi": "अलाउद्दीन खिलजी के राज्य-काल में, एक मंगोल आक्रमण दिल्ली तक आ पहुँचा और उस शहर पर घेरा डाल दिया।",
+        "en": "During the reign of Ala-ud-din Khalji, one Mongol invasion marched up to Delhi and besieged the city."
+      },
+      {
+        "id": 3,
+        "hi": "मुहम्मद-बिन-तुगलक मंगोलों से अपने राज्य के कुछ उत्तर-पश्चिमी भाग अस्थायी रूप से हार गया था।",
+        "en": "Muhammad-bin-Tughluq temporarily lost portions of north-west of his kingdom to Mongols."
+      }
+    ],
+    "question": {
+      "hi": "भारतीय इतिहास के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में कौन-सा/से सही है/हैं?",
+      "en": "With reference to Indian history, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 3",
+        "en": "1 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारत पर पहला मंगोल आक्रमण (1241 ईसवी में) तायर बहादुर के अधीन इल्तुतमिश के उत्तराधिकारियों (बहराम शाह) के काल में हुआ था, जलालुद्दीन खिलजी के काल में नहीं। अतः कथन 1 गलत है। 1299 ईसवी में मंगोलों ने कुतलुग ख्वाजा के नेतृत्व में भारत पर आक्रमण किया और दिल्ली को घेर लिया, जो अलाउद्दीन खिलजी का काल था। अतः कथन 2 सही है। अंतिम महत्त्वपूर्ण मंगोल आक्रमण मुहम्मद-बिन-तुगलक के काल में तरमाशिरिन के नेतृत्व में हुआ था, लेकिन सुल्तान ने उसे वापस खदेड़ दिया था, उसने राज्य नहीं खोया था। अतः कथन 3 गलत है। अतः विकल्प (b) सही है।",
+      "en": "The first Mongol invasion of India (in 1241 AD) took place under Tayir Bahadur during the reign of Iltutmish's successors (Bahram Shah), not during Jalal-ud-din Khalji's reign. Hence, statement 1 is incorrect. In 1299 AD, the Mongols under the leadership of Qutlugh Khwaja invaded India and besieged Delhi, which was during the reign of Ala-ud-din Khalji. Hence, statement 2 is correct. The last important Mongol invasion took place under the leadership of Tarmashirin during the reign of Muhammad-bin-Tughluq, but the Sultan drove him back, he did not lose the kingdom. Hence, statement 3 is incorrect. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 9,
+    "year": "2022",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "question": {
+      "hi": "भारतीय इतिहास के संदर्भ में, निम्नलिखित में से कौन 'कुलाह-दारन' कहलाते थे?",
+      "en": "With reference to Indian history, who among the following were known as 'Kulah-Daran'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अरब व्यापारी",
+        "en": "Arab merchants"
+      },
+      {
+        "id": "B",
+        "hi": "कलंदर",
+        "en": "Qalandars"
+      },
+      {
+        "id": "C",
+        "hi": "फारसी खुशनवीस",
+        "en": "Persian calligraphers"
+      },
+      {
+        "id": "D",
+        "hi": "सैय्यद",
+        "en": "Sayyids"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "सैय्यदों ने उनकी पुत्री फातिमा के माध्यम से पैगंबर का वंशज होने का दावा किया। मुस्लिम समाज में उनका विशेष सम्मान था। सैय्यद एक नुकीली टोपी (कुलाह) लगाते थे इसलिये उन्हें कुलाह-दारन के नाम से जाना जाता था। अतः विकल्प (d) सही है।",
+      "en": "The Sayyids claimed descent from the Prophet through his daughter Fatima. They held a special respect in Muslim society. The Sayyids wore a pointed cap (Kulah) because of which they were known as Kulah-Daran. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 10,
+    "year": "2021",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "मध्यकालीन भारत के संदर्भ में, निम्नलिखित में से कौन-सा आकार की दृष्टि से आरोही क्रम में सही अनुक्रम है?",
+      "en": "In the context of medieval India, which one of the following is the correct sequence in ascending order in terms of size?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "परगना-सरकार-सूबा",
+        "en": "Pargana-Sarkar-Suba"
+      },
+      {
+        "id": "B",
+        "hi": "सरकार-परगना-सूबा",
+        "en": "Sarkar-Pargana-Suba"
+      },
+      {
+        "id": "C",
+        "hi": "सूबा-सरकार-परगना",
+        "en": "Suba-Sarkar-Pargana"
+      },
+      {
+        "id": "D",
+        "hi": "परगना-सूबा-सरकार",
+        "en": "Pargana-Suba-Sarkar"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "मध्यकालीन भारत में राज्य का प्रशासनिक विभाजन सूबा यानी प्रांत/प्रदेश में, सूबा का सरकार (यानी आधुनिक तहसील/अनुमंडल) और परगने का विभाजन गाँव में किया जाता था। अतः सबसे छोटी इकाई गाँव, उससे बड़ी परगना, परगना से बड़ी सरकार और सरकार से बड़ी इकाई सूबा होती थी। अतः विकल्प (a) सही है।",
+      "en": "In medieval India, the administrative division of the state was into Suba (province/region), Suba into Sarkar (modern tehsil/sub-division), and Pargana into villages. So the smallest unit was village, larger than that was Pargana, larger than Pargana was Sarkar, and the unit larger than Sarkar was Suba. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 11,
+    "year": "2021",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "हैदराबाद राज्य से आरकोट की निज़ामत का उदय हुआ।",
+        "en": "Nizamat of Arcot emerged out of Hyderabad State."
+      },
+      {
+        "id": 2,
+        "hi": "विजयनगर साम्राज्य से मैसूर राज्य का उदय हुआ।",
+        "en": "Mysore State emerged out of Vijayanagara Empire."
+      },
+      {
+        "id": 3,
+        "hi": "रुहेलखंड राज्य का गठन, अहमद शाह दुर्रानी द्वारा अधिकृत राज्यक्षेत्र में से हुआ।",
+        "en": "Rohilkhand State was formed out of the territories occupied by Ahmad Shah Durrani."
+      }
+    ],
+    "question": {
+      "hi": "भारतीय इतिहास के संदर्भ में, निम्नलिखित कथनों में से कौन-सा/से सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "With reference to Indian history, which of the following statements is/are correct?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "तालीकोटा के युद्ध (1565 ई.) के पश्चात् विजयनगर साम्राज्य का पतन हो गया और इसकी कमज़ोर स्थिति का फायदा उठाकर जिन स्वतंत्र राज्यों का उदय हुआ, उनमें मैसूर एक प्रमुख राज्य था। अतः केवल कथन 2 सही है। नादिरशाह के आक्रमण के पश्चात् मुगल प्रशासन के संकट काल में अली मुहम्मद खान ने रुहेलखंड नाम से एक नए राज्य का गठन किया, न कि अहमद शाह दुर्रानी के अधिकृत क्षेत्र से। अतः कथन 3 गलत है। आरकोट की निज़ामत का उदय मुगलों से स्वतंत्र होने वाले कर्नाटिक (Carnatic) राज्य के रूप में हुआ था, जिसे बाद में हैदराबाद के निज़ाम ने अपने अधीन करने का प्रयास किया। अतः विकल्प (b) सही है।",
+      "en": "After the Battle of Talikota (1565 AD), the Vijayanagara Empire declined, and taking advantage of its weak position, Mysore was a prominent state among the independent states that emerged. Thus, only statement 2 is correct. After Nadir Shah's invasion, during the crisis of Mughal administration, Ali Muhammad Khan formed a new state named Rohilkhand, not from the territory occupied by Ahmad Shah Durrani. Thus, statement 3 is incorrect. The Nizamat of Arcot emerged as the Carnatic state becoming independent from the Mughals, which the Nizam of Hyderabad later tried to subjugate. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 12,
+    "year": "2021",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कुश्ती",
+        "en": "Wrestling"
+      },
+      {
+        "id": 2,
+        "hi": "ज्योतिषशास्त्र",
+        "en": "Astrology"
+      },
+      {
+        "id": 3,
+        "hi": "लेखाकरण",
+        "en": "Accounting"
+      },
+      {
+        "id": 4,
+        "hi": "भविष्यवाणी",
+        "en": "Soothsaying"
+      }
+    ],
+    "question": {
+      "hi": "पुर्तगाली लेखक नूनिज़ के अनुसार, विजयनगर साम्राज्य में महिलाएँ निम्नलिखित में से किन क्षेत्रों में निपुण थीं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "According to Portuguese writer Nuniz, the women in Vijayanagara Empire were expert in which of the following areas?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "1535 से 1537 के मध्य पुर्तगाली यात्री नूनिज़ ने विजयनगर की यात्रा की थी। नूनिज़ के अनुसार विजयनगर में स्त्रियों का बहुत सम्मान था। कुछ स्त्रियाँ मल्ल्यौद्धा, ज्योतिषी, भविष्यवक्ता, अंगरक्षिकाएँ, सुरक्षाकर्मी, लेखाधिकारी, लिपिक एवं संगीतकार होती थीं। अतः विकल्प (d) सही है।",
+      "en": "Between 1535 and 1537, the Portuguese traveller Nuniz visited Vijayanagara. According to Nuniz, women were highly respected in Vijayanagara. Some women were wrestlers, astrologers, soothsayers, bodyguards, security personnel, accountants, clerks and musicians. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 13,
+    "year": "2021",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इल्तुतमिश के शासनकाल में, चंगेज़ खान भगोड़े ख्वारिज़्म युवराज की खोज में सिंधु नदी तक पहुँचा था।",
+        "en": "It was during the reign of Iltutmish that Chengiz Khan reached the Indus in pursuit of the fugitive Khwarezm prince."
+      },
+      {
+        "id": 2,
+        "hi": "मुहम्मद बिन तुगलक के शासनकाल में, तैमूर ने मुल्तान पर अधिकार किया था और सिंधु नदी पार की थी।",
+        "en": "It was during the reign of Muhammad bin Tughluq that Taimur occupied Multan and crossed the Indus."
+      },
+      {
+        "id": 3,
+        "hi": "विजयनगर साम्राज्य के देवराय द्वितीय के शासनकाल में, वास्को-द-गामा केरल के तट पर पहुँचा था।",
+        "en": "It was during the reign of Devaraya II of Vijayanagara Empire that Vasco da Gama reached the coast of Kerala."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "मंगोलों के महान नेता चंगेज़ खान ने पर्शिया (ईरान) पर आक्रमण कर वहाँ के शासक अलाउद्दीन मुहम्मद ख्वारिज़्मशाह का साम्राज्य नष्ट कर दिया। ख्वारिज़्मशाह का बड़ा बेटा युवराज जलालुद्दीन मांगबर्नी भारत की ओर सिंधु नदी तट तक भाग कर आया, जहाँ तक मंगोलों ने उसका पीछा किया। उसने इल्तुतमिश से मंगोलों के विरुद्ध सहायता की अपील की लेकिन चंगेज़ खान के आक्रमण के भय से इल्तुतमिश ने उसकी मदद करना स्वीकार नहीं किया। अतः कथन 1 सही है। मुहम्मद बिन तुगलक का शासन काल 1325-1351 ई. तक था, जबकि तैमूर ने भारत पर 1398-99 के दौरान आक्रमण किया। अतः कथन 2 गलत है। विजयनगर के राजा देवराय द्वितीय का शासन काल 1424-1446 ई. तक था, जबकि वास्को-द-गामा 1498 ई. में भारत के कालीकट के तट पर पहुँचा था। अतः कथन 3 असत्य है। अतः विकल्प (a) सही है।",
+      "en": "The great Mongol leader Chengiz Khan invaded Persia (Iran) and destroyed the empire of its ruler Alauddin Muhammad Khwarezm-Shah. Khwarezm-Shah's eldest son, Prince Jalaluddin Mingburnu, fled towards India to the banks of the Indus river, where the Mongols pursued him. He appealed to Iltutmish for help against the Mongols, but fearing an attack by Chengiz Khan, Iltutmish declined to help him. Hence, statement 1 is correct. Muhammad bin Tughluq's reign was from 1325-1351 AD, whereas Timur invaded India during 1398-99. Hence, statement 2 is incorrect. The reign of Devaraya II, the king of Vijayanagara, was from 1424-1446 AD, whereas Vasco da Gama reached the coast of Calicut in India in 1498 AD. Hence, statement 3 is incorrect. Thus, option (a) is correct."
+    }
+  },
+  {
+    "id": 14,
+    "year": "2020",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "राजा भोज के अधीन प्रतिहारों का उदय",
+        "en": "Rise of Pratiharas under King Bhoja"
+      },
+      {
+        "id": 2,
+        "hi": "महेंद्रवर्मन-I के अधीन पल्लव सत्ता की स्थापना",
+        "en": "Establishment of Pallava power under Mahendravarman-I"
+      },
+      {
+        "id": 3,
+        "hi": "परांतक-I द्वारा चोल सत्ता की स्थापना",
+        "en": "Establishment of Chola power by Parantaka-I"
+      },
+      {
+        "id": 4,
+        "hi": "गोपाल द्वारा पाल राजवंश की संस्थापना",
+        "en": "Founding of Pala dynasty by Gopala"
+      }
+    ],
+    "question": {
+      "hi": "भारत के इतिहास में निम्नलिखित घटनाओं पर विचार कीजिये:\nउपर्युक्त घटनाओं का, प्राचीन काल से आरंभ कर, सही कालानुक्रम क्या है?",
+      "en": "Consider the following events in the history of India:\nWhat is the correct chronological order of the above events, starting from the earliest time?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "2 - 1 - 4 - 3",
+        "en": "2 - 1 - 4 - 3"
+      },
+      {
+        "id": "B",
+        "hi": "3 - 1 - 4 - 2",
+        "en": "3 - 1 - 4 - 2"
+      },
+      {
+        "id": "C",
+        "hi": "2 - 4 - 1 - 3",
+        "en": "2 - 4 - 1 - 3"
+      },
+      {
+        "id": "D",
+        "hi": "3 - 4 - 1 - 2",
+        "en": "3 - 4 - 1 - 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "मिरिह भोज (836-885 ई.), महेंद्र वर्मन प्रथम (600-630 ई.) तथा परांतक प्रथम (907-953) क्रमशः प्रतिहार, पल्लव तथा चोल राजवंश से संबंधित हैं। गोपाल द्वारा पाल वंश की स्थापना 750 ई. में की गई थी। अतः इनके शासन काल के अनुसार सही कलानुक्रम 2 – 4 – 1 – 3 होगा।",
+      "en": "Mihir Bhoja (836-885 CE), Mahendravarman I (600-630 CE), and Parantaka I (907-953 CE) belonged to the Pratihara, Pallava, and Chola dynasties respectively. The Pala dynasty was founded by Gopala in 750 CE. Therefore, the correct chronological order according to their reign will be 2 – 4 – 1 – 3."
+    }
+  },
+  {
+    "id": 15,
+    "year": "2019",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "जागीरदारों के पास न्यायिक और पुलिस दायित्वों के एवज़ में भूमि आबंटनों का अधिकार होता था, जबकि ज़मींदारों के पास राजस्व अधिकार होते थे तथा उन पर राजस्व उगाही को छोड़कर अन्य कोई दायित्व पूरा करने की बाध्यता नहीं होती थी।",
+        "en": "Jagirdars were holders of land assignments in lieu of judicial and police duties, whereas Zamindars were holders of revenue rights without obligation to perform any duty other than revenue collection."
+      },
+      {
+        "id": 2,
+        "hi": "जागीरदारों को किये गए भूमि आबंटन वंशानुगत होते थे और ज़मींदारों के राजस्व अधिकार वंशानुगत नहीं होते थे।",
+        "en": "Land assignments to Jagirdars were hereditary and revenue rights of Zamindars were not hereditary."
+      }
+    ],
+    "question": {
+      "hi": "मुगल भारत के संदर्भ में, जागीरदार और ज़मींदार के बीच क्या अंतर है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "With reference to Mughal India, what is/are the difference/differences between Jagirdar and Zamindar?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "मनसबदार को 'नकद' व 'जागीर' दोनों रूपों में पारिश्रमिक दिया जाता था। जब मनसबदारों को जागीर दी जाती थी तो उन्हें 'जागीरदार' कहा गया। जागीरदारों को पुलिस दायित्वों के एवज़ में भूमि आबंटन के अधिकार प्राप्त होते थे, जो इनके सेवाकाल तक ही रहते थे (वंशानुगत नहीं होते थे)। ज़मींदार अपनी ज़मीन के मालिक होते थे। इनका कार्य अपने प्रभाव क्षेत्र से भू-राजस्व संग्रह कर राज्य को देना होता था। इनके राजस्व अधिकार वंशानुगत होते थे। हालाँकि, इनका मुख्य दायित्व तो राजस्व उगाही होता था, किंतु इसके अतिरिक्त वे राज्य को कुछ खास किस्म की सेवाएँ (खिदमत) देते थे। अतः कथन 1 और 2 दोनों गलत हैं। इसलिये विकल्प (d) सही उत्तर होगा।",
+      "en": "Mansabdars were remunerated in both 'cash' and 'jagir'. When Mansabdars were given jagirs, they were called 'Jagirdars'. Jagirdars received land assignment rights in lieu of police duties, which lasted only till their service period (were not hereditary). Zamindars were the owners of their land. Their job was to collect land revenue from their area of influence and give it to the state. Their revenue rights were hereditary. Although their main obligation was revenue collection, they also provided certain special services (Khidmat) to the state. Hence, both statements 1 and 2 are incorrect. Therefore, option (d) will be the correct answer."
+    }
+  },
+  {
+    "id": 16,
+    "year": "2019",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "दिल्ली सल्तनत के राजस्व प्रशासन में राजस्व वसूली के प्रभारी को 'आमिल' कहा जाता था।",
+        "en": "In the revenue administration of Delhi Sultanate, the in-charge of revenue collection was known as 'Amil'."
+      },
+      {
+        "id": 2,
+        "hi": "दिल्ली के सुल्तानों की इक्ता प्रणाली एक प्राचीन देशी संस्था थी।",
+        "en": "The Iqta system of Sultans of Delhi was an ancient indigenous institution."
+      },
+      {
+        "id": 3,
+        "hi": "'मीर बख्शी' का पद दिल्ली के ख़लजी सुल्तानों के शासनकाल में अस्तित्त्व में आया।",
+        "en": "The office of 'Mir Bakhshi' came into existence during the reign of Khalji Sultans of Delhi."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "दिल्ली सल्तनत के राजस्व प्रशासन में राजस्व वसूली के प्रभारी को 'आमिल' कहा जाता था। अतः कथन 1 सही है। 'इक्ता' प्राचीन देशी प्रणाली नहीं बल्कि यह दिल्ली सल्तनत के अंतर्गत विकसित संस्था थी। भारत में सर्वप्रथम 'इक्ता' मुहम्मद गोरी ने बाँटी, किंतु इक्ता को सुव्यवस्थित रूप देने का श्रेय इल्तुतमिश को दिया जाता है। अतः कथन 2 गलत है। 'मीर बख्शी' का पद दिल्ली के ख़लजी सुल्तानों के शासनकाल में नहीं बल्कि मुगल काल में अस्तित्त्व में आया। सल्तनत काल में 'दीवान-ए-आरिज़' सैन्य विभाग का प्रमुख होता था। अतः कथन 3 गलत है।",
+      "en": "In the revenue administration of the Delhi Sultanate, the officer-in-charge of revenue collection was called 'Amil'. Hence statement 1 is correct. 'Iqta' was not an ancient indigenous system but an institution developed under the Delhi Sultanate. 'Iqta' was first distributed in India by Muhammad Ghori, but the credit for systematizing Iqta is given to Iltutmish. Hence statement 2 is incorrect. The post of 'Mir Bakhshi' came into existence during the Mughal period, not during the reign of the Khalji Sultans of Delhi. During the Sultanate period, 'Diwan-i-Ariz' was the head of the military department. Hence statement 3 is incorrect."
+    }
+  },
+  {
+    "id": 17,
+    "year": "2019",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "संत निम्बार्क, अकबर के समकालीन थे।",
+        "en": "Saint Nimbarka was a contemporary of Akbar."
+      },
+      {
+        "id": 2,
+        "hi": "संत कबीर, शेख अहमद सरहिंदी से अत्यधिक प्रभावित थे।",
+        "en": "Saint Kabir was greatly influenced by Shaikh Ahmad Sirhindi."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "निम्बाकाचार्य को रामानुजाचार्य के समकालीन माना जाता है, जो 11वीं-12वीं शताब्दी के संत थे। जबकि अकबर का शासनकाल 1556–1605 ई. तक था। अतः कथन 1 गलत है। वहीं संत कबीर, जो लोदी सुल्तान 'सिकंदर लोदी' के समकालीन थे, अपने गुरु रामानंद से अत्यधिक प्रभावित थे। अतः कथन 2 गलत है।",
+      "en": "Nimbarkacharya is considered a contemporary of Ramanujacharya, who was an 11th-12th century saint. Whereas Akbar's reign was from 1556-1605 AD. Hence statement 1 is incorrect. Saint Kabir, who was a contemporary of the Lodi Sultan 'Sikandar Lodi', was deeply influenced by his guru Ramananda. Hence statement 2 is incorrect."
+    }
+  },
+  {
+    "id": 18,
+    "year": "2019",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "मियाँ तानसेन के संदर्भ में, निम्नलिखित में से कौन-सा कथन सही नहीं है?",
+      "en": "With reference to Mian Tansen, which one of the following statements is not correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सम्राट अकबर द्वारा इन्हें दी गई उपाधि तानसेन थी।",
+        "en": "Tansen was the title given to him by Emperor Akbar."
+      },
+      {
+        "id": "B",
+        "hi": "तानसेन ने हिन्दू देवी-देवताओं से संबंधित ध्रुपदों की रचना की।",
+        "en": "Tansen composed Dhrupads on Hindu gods and goddesses."
+      },
+      {
+        "id": "C",
+        "hi": "तानसेन ने अपने संरक्षकों से संबंधित गानों की रचना की।",
+        "en": "Tansen composed songs on his patrons."
+      },
+      {
+        "id": "D",
+        "hi": "तानसेन ने अनेक रागों की मौलिक रचना की।",
+        "en": "Tansen invented many Ragas."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "तानसेन के बचपन का नाम रामतनु पाण्डेय था। ग्वालियर के राजा मानसिंह तोमर या उनके पुत्र राजा विक्रमाजीत ने उन्हें 'तानसेन' की उपाधि प्रदान की थी। अकबर ने उन्हें 'मियाँ' की उपाधि प्रदान की थी। अतः विकल्प (a) सही उत्तर होगा (क्योंकि यह कथन गलत है)।",
+      "en": "Tansen's childhood name was Ramtanu Pandey. Raja Mansingh Tomar of Gwalior or his son Raja Vikramajit bestowed the title 'Tansen' upon him. Akbar gave him the title 'Mian'. Therefore, option (a) is the correct answer (as this statement is incorrect)."
+    }
+  },
+  {
+    "id": 19,
+    "year": "2019",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "इनमें से किस मुगल सम्राट ने सचित्र पांडुलिपियों से ध्यान हटाकर चित्राधार (एल्बम) और वैयक्तिक रूपचित्रों पर अधिक ज़ोर दिया?",
+      "en": "Who among the following Mughal Emperors shifted emphasis from illustrated manuscripts to album and individual portrait?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "हुमायूँ",
+        "en": "Humayun"
+      },
+      {
+        "id": "B",
+        "hi": "अकबर",
+        "en": "Akbar"
+      },
+      {
+        "id": "C",
+        "hi": "जहाँगीर",
+        "en": "Jahangir"
+      },
+      {
+        "id": "D",
+        "hi": "शाहजहाँ",
+        "en": "Shahjahan"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "मुगलकालीन चित्रकला के अंतर्गत जहाँगीर के काल में सचित्र पांडुलिपियों के स्थान पर वैयक्तिक रूपचित्रों व चित्राधार (एल्बम) शैली पर ज़्यादा ज़ोर दिया जाने लगा। इसके अतिरिक्त अलंकृत हाशिये का विकास तथा प्रकृति का अधिक सजीव और बारीक चित्रण जहाँगीरकालीन चित्रकला की विशेषता है।",
+      "en": "Under Mughal painting, during Jahangir's period, more emphasis was laid on individual portraits and album style instead of illustrated manuscripts. Apart from this, the development of decorated margins and a more lively and detailed depiction of nature are features of Jahangir's painting."
+    }
+  },
+  {
+    "id": 20,
+    "year": "2018",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित विदेशी यात्रियों में से किसने भारत के हीरों और हीरे की खदानों की विस्तृत रूप से चर्चा की?",
+      "en": "Which one of the following foreign travellers elaborately discussed about diamonds and diamond mines of India?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "फ्राँस्वा बर्नियर",
+        "en": "Francois Bernier"
+      },
+      {
+        "id": "B",
+        "hi": "ज्याँ-बैप्टिस्ट टैवर्नियर",
+        "en": "Jean-Baptiste Tavernier"
+      },
+      {
+        "id": "C",
+        "hi": "ज्याँ द थेवेनो",
+        "en": "Jean de Thevenot"
+      },
+      {
+        "id": "D",
+        "hi": "एबे बार्थेलेमी कारे",
+        "en": "Abbe Barthelemy Carre"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "ज्याँ-बैप्टिस्ट टैवर्नियर (1605–1689) एक फ्राँसीसी खोजकर्त्ता एवं व्यापारी था। भारत में हीरे की खानों का उल्लेख करने वाला वह प्रथम यूरोपीय था। उसे 1666 ई. में की गई 116 कैरेट ब्लू डायमंड की खोज/खरीद के लिये जाना जाता है, जिसे उसने 1668 ई. में फ्राँस के लुई चौदहवें को बेच दिया था।",
+      "en": "Jean-Baptiste Tavernier (1605–1689) was a French explorer and merchant. He was the first European to mention diamond mines in India. He is known for the discovery/purchase of the 116-carat Blue Diamond in 1666 CE, which he sold to Louis XIV of France in 1668 CE."
+    }
+  },
+  {
+    "id": 21,
+    "year": "2017",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा एक काकतीय राज्य में अतिमहत्त्वपूर्ण समुद्र-पत्तन था?",
+      "en": "Which one of the following was a very important seaport in the Kakatiya kingdom?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "काकिनाडा",
+        "en": "Kakinada"
+      },
+      {
+        "id": "B",
+        "hi": "मोटुपल्ली",
+        "en": "Motupalli"
+      },
+      {
+        "id": "C",
+        "hi": "नेल्लुरु",
+        "en": "Nelluru"
+      },
+      {
+        "id": "D",
+        "hi": "मछलीपट्टनम (मसुलीपट्टनम)",
+        "en": "Machilipatnam (Masulipatnam)"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "काकतीय वंश के राजाओं का शासन आधुनिक हैदराबाद के पूर्वी भाग तेलंगाना में था। काकतीय शासक मूलतः कल्याणी के चालुक्यों के सामंत थे। काकतीय वंश के प्रसिद्ध शासक गणपतिदेव ने जब अपनी राजधानी हनमकोंडा से वारंगल स्थानांतरित की तो इस क्षेत्र की समृद्धि में काफी वृद्धि हुई। इस साम्राज्य का एक बहुत ही प्रसिद्ध बंदरगाह मोटुपल्ली (प्रकाशम ज़िला) था। गणपति देव ने इस क्षेत्र में पूर्व के दमनकारी करों को समाप्त कर दिया जिसके परिणामस्वरूप मोटुपल्ली व्यापार हेतु महत्त्वपूर्ण केंद्र बन गया। अतः विकल्प (b) सही है।",
+      "en": "The kings of the Kakatiya dynasty ruled over Telangana, the eastern part of modern Hyderabad. The Kakatiya rulers were originally feudatories of the Chalukyas of Kalyani. When the famous ruler of the Kakatiya dynasty, Ganapatideva, shifted his capital from Hanamkonda to Warangal, the prosperity of this region increased significantly. A very famous port of this empire was Motupalli (Prakasam district). Ganapatideva abolished the earlier oppressive taxes in this region, as a result of which Motupalli became an important center for trade. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 22,
+    "year": "2016",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भूमि की गुणवत्ता के आधार पर भू-राजस्व की दर नियत होती थी।",
+        "en": "The tax rate on land was fixed depending on the quality of the land."
+      },
+      {
+        "id": 2,
+        "hi": "कारखानों के निजी स्वामी एक औद्योगिक कर देते थे।",
+        "en": "Private owners of workshops paid an industries tax."
+      }
+    ],
+    "question": {
+      "hi": "विजयनगर के शासक कृष्णदेव राय की कराधान व्यवस्था से संबंधित निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Regarding the taxation system of Krishna Deva Raya, the ruler of Vijayanagara, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "विजयनगर के शासक कृष्णदेव राय के समय लगान का निर्धारण भूमि की उत्पादकता और उसकी स्थिति के अनुसार किया जाता था। भूमि से होने वाली पैदावार और उसकी किस्म भू-राजस्व के निर्धारण का सबसे बड़ा आधार था। कारखानों के निजी स्वामी भी एक औद्योगिक कर देते थे। अतः दोनों कथन सत्य हैं। अतः विकल्प (c) सही है।",
+      "en": "During the reign of Vijayanagara ruler Krishnadeva Raya, the land tax was assessed according to the productivity and location of the land. The yield from the land and its variety formed the biggest basis for determining land revenue. Private owners of workshops also paid an industrial tax. Hence both statements are true. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 23,
+    "year": "2016",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारतीय इतिहास के मध्यकाल में बंजारे सामान्यतः कौन थे?",
+      "en": "Banjaras during the medieval period of Indian history were generally"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कृषक",
+        "en": "Agriculturists"
+      },
+      {
+        "id": "B",
+        "hi": "योद्धा",
+        "en": "Warriors"
+      },
+      {
+        "id": "C",
+        "hi": "बुनकर",
+        "en": "Weavers"
+      },
+      {
+        "id": "D",
+        "hi": "व्यापारी",
+        "en": "Traders"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "भारतीय इतिहास के मध्यकाल में बंजारे सामान्यतः नमक के व्यापारी वर्ग से संबंधित थे। बंजारा (जिन्हें लंबाणी, वंजारा और गोरमाटी भी कहा जाता है) एक ऐसा समुदाय है जिसे आमतौर पर घुमंतू समुदाय के रूप में वर्णित किया जाता है, जो भारत के राजस्थान में पाए जाते हैं। अब ये संपूर्ण भारतीय उपमहाद्वीप में फैले हुए हैं। बंजारे पारंपरिक रूप से बैलों और नमक के आपूर्तिकर्त्ता व्यापारी माने जाते थे। ऐसा माना जाता है कि बंजारा शब्द संस्कृत शब्द के 'वनचर' से आया है (अर्थात् वनों में विचरण करने वाला)। अतः बंजारे मुख्य रूप से व्यापारी थे। अतः विकल्प (d) सही है।",
+      "en": "Banjaras in the medieval period of Indian history generally belonged to the salt trading class. The Banjara (also called Lambani, Vanjara and Gormati) is a community usually described as nomadic people from the northwestern belt of the Indian subcontinent (from Rajasthan). Now they are spread all over the Indian subcontinent. Banjaras were traditionally considered suppliers of bullocks and salt merchants. It is believed that the word Banjara comes from the Sanskrit word 'Vanachara' (meaning one who wanders in the forest). Hence, Banjaras were primarily traders. Thus, option (d) is correct."
+    }
+  },
+  {
+    "id": 24,
+    "year": "2016",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "मध्यकालीन भारत के आर्थिक इतिहास के संदर्भ में शब्द 'अरघट्टा' (Araghatta) किसे निरूपित करता है?",
+      "en": "With reference to the economic history of medieval India, the term 'Araghatta' refers to"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "बंधुआ मज़दूर",
+        "en": "Bonded labour"
+      },
+      {
+        "id": "B",
+        "hi": "सैन्य अधिकारियों को दिये गए भूमि अनुदान",
+        "en": "Land grants made to military officers"
+      },
+      {
+        "id": "C",
+        "hi": "भूमि की सिंचाई के लिये प्रयुक्त जल चक्र (वाटर-व्हील)",
+        "en": "Water-wheel used in the irrigation of land"
+      },
+      {
+        "id": "D",
+        "hi": "कृषि भूमि में बदली गई बंजर भूमि",
+        "en": "Wasteland converted to cultivated land"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "मध्यकालीन भारत में अरघट्टा (Araghatta) कृषि भूमि की सिंचाई का एक तरीका (जल चक्र या वाटर-व्हील) था। सिंचाई यंत्रों में दो प्रकार के सिंचाई यंत्रों का वर्णन मिलता है। पहला, साकिया या अरहट या रहट के नाम से जाना जाता था तथा दूसरा, ढेंकली के नाम से जाना जाता था। अतः विकल्प (c) सही है।",
+      "en": "In medieval India, Araghatta was a method of irrigating agricultural land (water-wheel). Two types of irrigation devices are described among the irrigation tools. The first was known as Sakiya or Arahat or Rahat and the second was known as Dhenkli. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 25,
+    "year": "2015",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "चम्पक - मध्य भारत",
+        "en": "Champaka - Central India"
+      },
+      {
+        "id": 2,
+        "hi": "दुर्गर - जम्मू",
+        "en": "Durgara - Jammu"
+      },
+      {
+        "id": 3,
+        "hi": "कुलूत - मालाबार",
+        "en": "Kuluta - Malabar"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये (मध्यकालीन भारतीय राज्य और वर्तमान क्षेत्र):\nउपर्युक्त युग्मों में से कौन-सा/से सही सुमेलित है/हैं?",
+      "en": "Consider the following pairs (Medieval Indian State and Present Region):\nWhich of the pairs given above is/are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 3",
+        "en": "1 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "दुर्गर राज्य जम्मू में स्थित था, किंतु चम्पक व कुलूत क्रमशः मध्य भारत व मालाबार में अवस्थित नहीं थे (बल्कि ये हिमाचल प्रदेश क्षेत्र में थे)। चम्पक (चंबा) पश्चिमी हिमालय क्षेत्र की रियासत थी और कुलूत वर्तमान कुल्लू ज़िले (हिमाचल प्रदेश) का प्राचीन नाम था। अतः केवल द्वितीय युग्म सही सुमेलित है। अतः विकल्प (b) सही है।",
+      "en": "The Durgara state was located in Jammu, but Champaka and Kuluta were not located in Central India and Malabar respectively (rather they were in the Himachal Pradesh region). Champaka (Chamba) was a princely state in the western Himalayan region and Kuluta was the ancient name of the present Kullu district (Himachal Pradesh). Hence only the second pair is correctly matched. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 26,
+    "year": "2015",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "इनमें से किसने कृष्णा नदी की सहायक नदी के दक्षिणी तट पर एक नए नगर की स्थापना की और उस देवता के प्रतिनिधि के रूप में अपने इस नए राज्य पर शासन करने का दायित्त्व लिया जिसके बारे में माना जाता था कि कृष्णा नदी से दक्षिण की समस्त भूमि उस देवता की है?",
+      "en": "Who of the following founded a new city on the south bank of a tributary to river Krishna and undertook to rule his new kingdom as the agent of a deity to whom all the land south of the river Krishna was supposed to belong?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अमोघवर्ष प्रथम",
+        "en": "Amoghavarsha I"
+      },
+      {
+        "id": "B",
+        "hi": "बल्लाल द्वितीय",
+        "en": "Ballala II"
+      },
+      {
+        "id": "C",
+        "hi": "हरिहर प्रथम",
+        "en": "Harihara I"
+      },
+      {
+        "id": "D",
+        "hi": "प्रतापरुद्र द्वितीय",
+        "en": "Prataparudra II"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "हरिहर प्रथम (1336-56 ई.) ने कृष्णा नदी की सहायक नदी तुंगभद्रा के दक्षिणी तट पर विजयनगर राज्य की स्थापना की। इसने अपनी पहली राजधानी अनेगोण्डी को बनाया। बाद में, विजयनगर को अपनी राजधानी बनाया (जिसका वर्तमान नाम हम्पी है)। विजयनगर शहर की स्थापना करने में हरिहर प्रथम को अपने भाई बुक्का तथा गुरु विद्यारण्य और वेदों के प्रसिद्ध भाष्यकार सायण से प्रेरणा मिली। अतः विकल्प (c) सही है।",
+      "en": "Harihara I (1336-56 CE) established the Vijayanagara kingdom on the southern bank of the Tungabhadra, a tributary of the Krishna river. He made Anegondi his first capital. Later, Vijayanagara (present name Hampi) was made the capital. Harihara I was inspired to establish the city of Vijayanagara by his brother Bukka, Guru Vidyaranya, and Sayana, the famous commentator of the Vedas. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 27,
+    "year": "2015",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उपमहाद्वीप में बारूद के उपयोग की शुरुआत हुई।",
+        "en": "Introduction of the use of gunpowder in the subcontinent."
+      },
+      {
+        "id": 2,
+        "hi": "इस क्षेत्र की स्थापत्यकला में मेहराब व गुंबद बनने की शुरुआत हुई।",
+        "en": "Introduction of the arch and dome in the region's architecture."
+      },
+      {
+        "id": 3,
+        "hi": "इस क्षेत्र में तैमूरी (तिमुरिद) राजवंश स्थापित हुआ।",
+        "en": "Establishment of Timurid dynasty in the region."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पर विचार कीजिये:\nबाबर के भारत में आने के फलस्वरूप:\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Consider the following:\nThe arrival of Babur into India led to the:\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "बाबर के आने के बाद एक नवीन राजवंश की स्थापना हुई जिसे तैमूरी या मुगल राजवंश कहते हैं। तैमूरी राजवंश इसलिये कहा जाता है क्योंकि बाबर पितृ-पक्ष (उमर शेख मिर्ज़ा) से तैमूर लंग की पीढ़ी का था। अतः स्पष्ट है कि तृतीय कथन सही है। भारतीय उपमहाद्वीप में बारूद का प्रयोग बहमनी व विजयनगर साम्राज्य के बीच हुए युद्धों में (बाबर से पहले) किया गया था। स्थापत्य कला में मेहराब एवं गुम्बद का प्रयोग बाबर से पहले दिल्ली सल्तनत के काल में ही प्रारंभ हो गया था। अतः केवल कथन 3 सही है और विकल्प (b) सही उत्तर है।",
+      "en": "After Babur's arrival, a new dynasty was established which is called the Timurid or Mughal dynasty. It is called the Timurid dynasty because Babur belonged to the lineage of Timur Lang from his paternal side (Umar Sheikh Mirza). Thus, it is clear that the third statement is correct. The use of gunpowder in the Indian subcontinent was done in the wars between the Bahmani and Vijayanagara empires (before Babur). The use of arch and dome in architecture had already started during the Delhi Sultanate period before Babur. Therefore, only statement 3 is correct and option (b) is the correct answer."
+    }
+  },
+  {
+    "id": 28,
+    "year": "2014",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "मध्यकालीन भारत में 'महत्तर' व 'पट्टकिल' पदनाम किनके लिये प्रयुक्त होते थे?",
+      "en": "In medieval India, the designations 'Mahattara' and 'Pattakila' were used for"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "सैन्य अधिकारी",
+        "en": "Military officers"
+      },
+      {
+        "id": "B",
+        "hi": "ग्राम मुखिया",
+        "en": "Village headmen"
+      },
+      {
+        "id": "C",
+        "hi": "वैदिक कर्मकांड के विशेषज्ञ",
+        "en": "Specialists in Vedic rituals"
+      },
+      {
+        "id": "D",
+        "hi": "शिल्पी श्रेणियों के प्रमुख",
+        "en": "Chiefs of craft guilds"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "पूर्व मध्यकाल एवं मध्यकाल में 'ग्राम' प्रशासन की सबसे छोटी इकाई थी। इसका प्रमुख महत्तर कहलाता था। दक्षिण भारत में इसे पट्टकिल कहा जाता था। अतः विकल्प (b) सही है।",
+      "en": "In the early medieval and medieval periods, the 'village' was the smallest unit of administration. Its head was called Mahattara. In South India, it was called Pattakila. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 29,
+    "year": "2013",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "दादू दयाल",
+        "en": "Dadu Dayal"
+      },
+      {
+        "id": 2,
+        "hi": "गुरुनानक",
+        "en": "Guru Nanak"
+      },
+      {
+        "id": 3,
+        "hi": "त्यागराज",
+        "en": "Tyagaraja"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित भक्ति संतों पर विचार कीजिये:\nइनमें से कौन उस समय उपदेश देता था/देते थे, जब लोदी वंश का पतन हुआ तथा बाबर सत्तारूढ़ हुआ?",
+      "en": "Consider the following Bhakti Saints:\nWho among the above was/were preaching when the Lodi dynasty fell and Babur took over?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 3",
+        "en": "1 and 3"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "1526 ई. में बाबर ने पानीपत के मैदान में लोदी शासक इब्राहिम लोदी को परास्त कर मुगल वंश की नींव डाली। गुरुनानक का जीवनकाल 1469 ई.-1539 ई. तक था। अतः गुरुनानक लोदी वंश के पतन और बाबर के सत्तारूढ़ होने के समय उपदेश दे रहे थे। दादू दयाल जी का जीवनकाल 1544-1603 ई. तक था, अतः वे उस समय उपदेश नहीं दे रहे थे। त्यागराज का समय भी लोदी वंश के पतन के बाद का है (1767–1847 ई.)। अतः विकल्प (b) 'केवल 2' सही है।",
+      "en": "In 1526 AD, Babur defeated the Lodi ruler Ibrahim Lodi in the battlefield of Panipat and laid the foundation of the Mughal dynasty. Guru Nanak's lifespan was from 1469 AD to 1539 AD. Thus, Guru Nanak was preaching at the time when the Lodi dynasty fell and Babur took over. Dadu Dayal's lifespan was from 1544 to 1603 AD, so he was not preaching at that time. Tyagaraja's period is also after the fall of the Lodi dynasty (1767–1847 AD). Hence, option (b) '2 only' is correct."
+    }
+  },
+  {
+    "id": 30,
+    "year": "2017",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा एक काकतीय राज्य में अतिमहत्त्वपूर्ण समुद्र-पत्तन था?",
+      "en": "Which one of the following was a very important seaport in the Kakatiya kingdom?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "काकिनाडा",
+        "en": "Kakinada"
+      },
+      {
+        "id": "B",
+        "hi": "मोटुपल्ली",
+        "en": "Motupalli"
+      },
+      {
+        "id": "C",
+        "hi": "नेल्लुरु",
+        "en": "Nelluru"
+      },
+      {
+        "id": "D",
+        "hi": "मछलीपट्टनम (मसुलीपट्टनम)",
+        "en": "Machilipatnam (Masulipatnam)"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "काकतीय वंश के राजाओं का शासन आधुनिक हैदराबाद के पूर्वी भाग तेलंगाना में था। काकतीय शासक मूलतः कल्याणी के चालुक्यों के सामंत थे। काकतीय वंश के प्रसिद्ध शासक गणपतिदेव ने जब अपनी राजधानी हनमकोंडा से वारंगल स्थानांतरित की तो इस क्षेत्र की समृद्धि में काफी वृद्धि हुई। इस साम्राज्य का एक बहुत ही प्रसिद्ध बंदरगाह मोटुपल्ली (प्रकाशम ज़िला) था। गणपति देव ने इस क्षेत्र में पूर्व के दमनकारी करों को समाप्त कर दिया जिसके परिणामस्वरूप मोटुपल्ली व्यापार हेतु महत्त्वपूर्ण केंद्र बन गया। अतः विकल्प (b) सही है।",
+      "en": "The kings of the Kakatiya dynasty ruled over Telangana, the eastern part of modern Hyderabad. The Kakatiya rulers were originally feudatories of the Chalukyas of Kalyani. When the famous ruler of the Kakatiya dynasty, Ganapatideva, shifted his capital from Hanamkonda to Warangal, the prosperity of this region increased significantly. A very famous port of this empire was Motupalli (Prakasam district). Ganapatideva abolished the earlier oppressive taxes in this region, as a result of which Motupalli became an important center for trade. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 31,
+    "year": "2016",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भूमि की गुणवत्ता के आधार पर भू-राजस्व की दर नियत होती थी।",
+        "en": "The tax rate on land was fixed depending on the quality of the land."
+      },
+      {
+        "id": 2,
+        "hi": "कारखानों के निजी स्वामी एक औद्योगिक कर देते थे।",
+        "en": "Private owners of workshops paid an industries tax."
+      }
+    ],
+    "question": {
+      "hi": "विजयनगर के शासक कृष्णदेव राय की कराधान व्यवस्था से संबंधित निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Regarding the taxation system of Krishna Deva Raya, the ruler of Vijayanagara, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "विजयनगर के शासक कृष्णदेव राय के समय लगान का निर्धारण भूमि की उत्पादकता और उसकी स्थिति के अनुसार किया जाता था। भूमि से होने वाली पैदावार और उसकी किस्म भू-राजस्व के निर्धारण का सबसे बड़ा आधार था। कारखानों के निजी स्वामी भी एक औद्योगिक कर देते थे। अतः दोनों कथन सत्य हैं। अतः विकल्प (c) सही है।",
+      "en": "During the reign of Vijayanagara ruler Krishnadeva Raya, the land tax was assessed according to the productivity and location of the land. The yield from the land and its variety formed the biggest basis for determining land revenue. Private owners of workshops also paid an industrial tax. Hence both statements are true. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 32,
+    "year": "2016",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारतीय इतिहास के मध्यकाल में बंजारे सामान्यतः कौन थे?",
+      "en": "Banjaras during the medieval period of Indian history were generally"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कृषक",
+        "en": "Agriculturists"
+      },
+      {
+        "id": "B",
+        "hi": "योद्धा",
+        "en": "Warriors"
+      },
+      {
+        "id": "C",
+        "hi": "बुनकर",
+        "en": "Weavers"
+      },
+      {
+        "id": "D",
+        "hi": "व्यापारी",
+        "en": "Traders"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "भारतीय इतिहास के मध्यकाल में बंजारे सामान्यतः नमक के व्यापारी वर्ग से संबंधित थे। बंजारा (जिन्हें लंबाणी, वंजारा और गोरमाटी भी कहा जाता है) एक ऐसा समुदाय है जिसे आमतौर पर घुमंतू समुदाय के रूप में वर्णित किया जाता है, जो भारत के राजस्थान में पाए जाते हैं। अब ये संपूर्ण भारतीय उपमहाद्वीप में फैले हुए हैं। बंजारे पारंपरिक रूप से बैलों और नमक के आपूर्तिकर्त्ता व्यापारी माने जाते थे। ऐसा माना जाता है कि बंजारा शब्द संस्कृत शब्द के 'वनचर' से आया है (अर्थात् वनों में विचरण करने वाला)। अतः बंजारे मुख्य रूप से व्यापारी थे। अतः विकल्प (d) सही है।",
+      "en": "Banjaras in the medieval period of Indian history generally belonged to the salt trading class. The Banjara (also called Lambani, Vanjara and Gormati) is a community usually described as nomadic people from the northwestern belt of the Indian subcontinent (from Rajasthan). Now they are spread all over the Indian subcontinent. Banjaras were traditionally considered suppliers of bullocks and salt merchants. It is believed that the word Banjara comes from the Sanskrit word 'Vanachara' (meaning one who wanders in the forest). Hence, Banjaras were primarily traders. Thus, option (d) is correct."
+    }
+  },
+  {
+    "id": 33,
+    "year": "2016",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "मध्यकालीन भारत के आर्थिक इतिहास के संदर्भ में शब्द 'अरघट्टा' (Araghatta) किसे निरूपित करता है?",
+      "en": "With reference to the economic history of medieval India, the term 'Araghatta' refers to"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "बंधुआ मज़दूर",
+        "en": "Bonded labour"
+      },
+      {
+        "id": "B",
+        "hi": "सैन्य अधिकारियों को दिये गए भूमि अनुदान",
+        "en": "Land grants made to military officers"
+      },
+      {
+        "id": "C",
+        "hi": "भूमि की सिंचाई के लिये प्रयुक्त जल चक्र (वाटर-व्हील)",
+        "en": "Water-wheel used in the irrigation of land"
+      },
+      {
+        "id": "D",
+        "hi": "कृषि भूमि में बदली गई बंजर भूमि",
+        "en": "Wasteland converted to cultivated land"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "मध्यकालीन भारत में अरघट्टा (Araghatta) कृषि भूमि की सिंचाई का एक तरीका (जल चक्र या वाटर-व्हील) था। सिंचाई यंत्रों में दो प्रकार के सिंचाई यंत्रों का वर्णन मिलता है। पहला, साकिया या अरहट या रहट के नाम से जाना जाता था तथा दूसरा, ढेंकली के नाम से जाना जाता था। अतः विकल्प (c) सही है।",
+      "en": "In medieval India, Araghatta was a method of irrigating agricultural land (water-wheel). Two types of irrigation devices are described among the irrigation tools. The first was known as Sakiya or Arahat or Rahat and the second was known as Dhenkli. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 34,
+    "year": "2015",
+    "subject": "History",
+    "topic": "मध्यकालीन भारत (Medieval India)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "चम्पक - मध्य भारत",
+        "en": "Champaka - Central India"
+      },
+      {
+        "id": 2,
+        "hi": "दुर्गर - जम्मू",
+        "en": "Durgara - Jammu"
+      },
+      {
+        "id": 3,
+        "hi": "कुलूत - मालाबार",
+        "en": "Kuluta - Malabar"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये (मध्यकालीन भारतीय राज्य और वर्तमान क्षेत्र):\nउपर्युक्त युग्मों में से कौन-सा/से सही सुमेलित है/हैं?",
+      "en": "Consider the following pairs (Medieval Indian State and Present Region):\nWhich of the pairs given above is/are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 3",
+        "en": "1 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "दुर्गर राज्य जम्मू में स्थित था, किंतु चम्पक व कुलूत क्रमशः मध्य भारत व मालाबार में अवस्थित नहीं थे (बल्कि ये हिमाचल प्रदेश क्षेत्र में थे)। चम्पक (चंबा) पश्चिमी हिमालय क्षेत्र की रियासत थी और कुलूत वर्तमान कुल्लू ज़िले (हिमाचल प्रदेश) का प्राचीन नाम था। अतः केवल द्वितीय युग्म सही सुमेलित है। अतः विकल्प (b) सही है।",
+      "en": "The Durgara state was located in Jammu, but Champaka and Kuluta were not located in Central India and Malabar respectively (rather they were in the Himachal Pradesh region). Champaka (Chamba) was a princely state in the western Himalayan region and Kuluta was the ancient name of the present Kullu district (Himachal Pradesh). Hence only the second pair is correctly matched. Thus, option (b) is correct."
+    }
+  }
+]
