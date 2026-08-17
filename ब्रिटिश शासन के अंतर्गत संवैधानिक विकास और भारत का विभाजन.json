@@ -19,7 +19,7 @@
       }
     ],
     "question": {
-      "hi": "भारत सरकार अधिनियम, 1935 के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:[cite: 1]\nउपर्युक्त कथनों में से कौन-सा/कौन-से सही है/हैं?[cite: 1]",
+      "hi": "भारत सरकार अधिनियम, 1935 के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/कौन-से सही है/हैं?",
       "en": "With reference to the Government of India Act, 1935, consider the following statements:\nWhich of the statements given above is/are correct?"
     },
     "options": [
@@ -46,7 +46,7 @@
     ],
     "correctAnswer": "A",
     "explanation": {
-      "hi": "भारत सरकार अधिनियम (1935) ने एक अखिल भारतीय परिसंघ (फेडरेशन) की स्थापना का प्रावधान किया जिसमें भारतीय प्रांतों एवं देशी रियासतों को इकाइयों के रूप में शामिल किया गया।[cite: 1] अतः कथन 1 सही है।[cite: 1] इसने ग्यारह में से छह प्रांतों में द्विसदनात्मक व्यवस्था लागू की।[cite: 1] भारत सरकार अधिनियम (1935) ने विषयों को तीन सूचियों में वर्गीकृत किया: केंद्रीय सूची, राज्य सूची एवं समवर्ती सूची।[cite: 1] संघीय विषयों में से रक्षा, विदेशी मामले, धार्मिक मामले और जनजातीय क्षेत्र गवर्नर जनरल के हाथों में सुरक्षित रखे गए थे।[cite: 1] यह विषय गवर्नर जनरल की विवेकाधीन शक्ति के अंतर्गत थे।[cite: 1] अतः कथन 2 सत्य नहीं है।[cite: 1] क्षेत्रीय महत्त्व के 54 विषयों को राज्य सूची में शामिल किया गया जिनमें शिक्षा, चिकित्सा, कृषि, कानून और व्यवस्था तथा स्थानीय सरकारें शामिल थीं।[cite: 1] समवर्ती सूची में विद्युत्, विवाह, तलाक, श्रम एवं आपराधिक कानून जैसे 36 विषय शामिल थे।[cite: 1] शेष विषयों को अवशिष्ट शक्तियों के अंतर्गत गवर्नर-जनरल को सौंप दिया गया था।[cite: 1] अतः विकल्प (a) सही है।",
+      "hi": "भारत सरकार अधिनियम (1935) ने एक अखिल भारतीय परिसंघ (फेडरेशन) की स्थापना का प्रावधान किया जिसमें भारतीय प्रांतों एवं देशी रियासतों को इकाइयों के रूप में शामिल किया गया। अतः कथन 1 सही है। इसने ग्यारह में से छह प्रांतों में द्विसदनात्मक व्यवस्था लागू की। भारत सरकार अधिनियम (1935) ने विषयों को तीन सूचियों में वर्गीकृत किया: केंद्रीय सूची, राज्य सूची एवं समवर्ती सूची। संघीय विषयों में से रक्षा, विदेशी मामले, धार्मिक मामले और जनजातीय क्षेत्र गवर्नर जनरल के हाथों में सुरक्षित रखे गए थे। यह विषय गवर्नर जनरल की विवेकाधीन शक्ति के अंतर्गत थे। अतः कथन 2 सत्य नहीं है। क्षेत्रीय महत्त्व के 54 विषयों को राज्य सूची में शामिल किया गया जिनमें शिक्षा, चिकित्सा, कृषि, कानून और व्यवस्था तथा स्थानीय सरकारें शामिल थीं। समवर्ती सूची में विद्युत्, विवाह, तलाक, श्रम एवं आपराधिक कानून जैसे 36 विषय शामिल थे। शेष विषयों को अवशिष्ट शक्तियों के अंतर्गत गवर्नर-जनरल को सौंप दिया गया था। अतः विकल्प (a) सही है।",
       "en": "The Government of India Act (1935) provided for the establishment of an All-India Federation in which Indian provinces and princely states were included as units. Hence, statement 1 is correct. It introduced bicameralism in six out of eleven provinces. The Government of India Act (1935) classified the subjects into three lists: Central List, State List and Concurrent List. Among the federal subjects, defence, foreign affairs, ecclesiastical affairs and tribal areas were reserved in the hands of the Governor-General. These subjects were under the discretionary power of the Governor General. Hence, statement 2 is not correct. 54 subjects of regional importance were included in the State List including education, medical, agriculture, law and order and local governments. The Concurrent List contained 36 subjects like electricity, marriage, divorce, labour and criminal law. The remaining subjects were handed over to the Governor-General under residuary powers. Hence, option (a) is correct."
     }
   },
@@ -58,7 +58,7 @@
     "difficulty": "Easy",
     "type": "mcq",
     "question": {
-      "hi": "निम्नलिखित में से किस एक एक्ट द्वारा बंगाल के गवर्नर जनरल को भारत के गवर्नर जनरल के रूप में अभिहित किया गया था?[cite: 1]",
+      "hi": "निम्नलिखित में से किस एक एक्ट द्वारा बंगाल के गवर्नर जनरल को भारत के गवर्नर जनरल के रूप में अभिहित किया गया था?",
       "en": "By which one of the following Acts was the Governor General of Bengal designated as the Governor General of India?"
     },
     "options": [
@@ -85,7 +85,7 @@
     ],
     "correctAnswer": "D",
     "explanation": {
-      "hi": "चार्टर अधिनियम, 1833: यह अधिनियम ब्रिटिश भारत में केंद्रीकरण की दिशा में अंतिम निर्णायक कदम था।[cite: 1] इसके द्वारा बंगाल के गवर्नर-जनरल को भारत का गवर्नर जनरल बनाने के साथ उसे सभी नागरिक और सैन्य शक्तियाँ प्रदान की गईं।[cite: 1] इस प्रकार इस अधिनियम द्वारा पहली बार तत्कालीन भारत में ब्रिटिशों के अधीन संपूर्ण क्षेत्र को भारत सरकार के अधिकार क्षेत्र में लाया गया।[cite: 1] इस अधिनियम के तहत लॉर्ड विलियम बेंटिक, भारत का पहला गवर्नर-जनरल बना।[cite: 1] अतः विकल्प (d) सही है।[cite: 1]",
+      "hi": "चार्टर अधिनियम, 1833: यह अधिनियम ब्रिटिश भारत में केंद्रीकरण की दिशा में अंतिम निर्णायक कदम था। इसके द्वारा बंगाल के गवर्नर-जनरल को भारत का गवर्नर जनरल बनाने के साथ उसे सभी नागरिक और सैन्य शक्तियाँ प्रदान की गईं। इस प्रकार इस अधिनियम द्वारा पहली बार तत्कालीन भारत में ब्रिटिशों के अधीन संपूर्ण क्षेत्र को भारत सरकार के अधिकार क्षेत्र में लाया गया। इस अधिनियम के तहत लॉर्ड विलियम बेंटिक, भारत का पहला गवर्नर-जनरल बना। अतः विकल्प (d) सही है।",
       "en": "Charter Act, 1833: This act was the final decisive step towards centralization in British India. By this, the Governor-General of Bengal was made the Governor-General of India and vested with all civil and military powers. Thus, for the first time, this Act brought the entire territory under the British in the then India under the jurisdiction of the Government of India. Under this act, Lord William Bentinck became the first Governor-General of India. Hence, option (d) is correct."
     }
   },
@@ -119,7 +119,7 @@
       }
     ],
     "question": {
-      "hi": "भारत सरकार अधिनियम, 1919 में, प्रांतीय सरकार के कार्य 'आरक्षित (रिजर्व्ड)' और 'अंतरित (ट्रांसफर्ड)' विषयों के अंतर्गत बाँटे गए थे। निम्नलिखित में कौन-से 'आरक्षित' विषय माने गए थे?[cite: 1]\nनीचे दिये कूट का प्रयोग कर सही उत्तर चुनिये:[cite: 1]",
+      "hi": "भारत सरकार अधिनियम, 1919 में, प्रांतीय सरकार के कार्य 'आरक्षित (रिजर्व्ड)' और 'अंतरित (ट्रांसफर्ड)' विषयों के अंतर्गत बाँटे गए थे। निम्नलिखित में कौन-से 'आरक्षित' विषय माने गए थे?\nनीचे दिये कूट का प्रयोग कर सही उत्तर चुनिये:",
       "en": "In the Government of India Act 1919, the functions of Provincial Government were divided into 'Reserved' and 'Transferred' subjects. Which of the following were treated as 'Reserved' subjects?\nSelect the correct answer using the code given below:"
     },
     "options": [
@@ -146,7 +146,7 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "भारत सरकार अधिनियम, 1919 के अनुसार विषयों को दो सूचियों में विभाजित किया गया था: 'आरक्षित सूची' जिसमें कानून और व्यवस्था, न्याय प्रशासन, पुलिस, वित्त, भूमि राजस्व, सिंचाई आदि जैसे विषय शामिल थे, जबकि शिक्षा, स्वास्थ्य, स्थानीय सरकार, उद्योग, कृषि, उत्पाद शुल्क आदि जैसे विषय 'हस्तांतरित (अंतरित) सूची' में शामिल थे।[cite: 1] अतः न्याय प्रशासन, भू-राजस्व और पुलिस आरक्षित विषय थे।[cite: 1] अतः विकल्प (c) सही है।[cite: 1]",
+      "hi": "भारत सरकार अधिनियम, 1919 के अनुसार विषयों को दो सूचियों में विभाजित किया गया था: 'आरक्षित सूची' जिसमें कानून और व्यवस्था, न्याय प्रशासन, पुलिस, वित्त, भूमि राजस्व, सिंचाई आदि जैसे विषय शामिल थे, जबकि शिक्षा, स्वास्थ्य, स्थानीय सरकार, उद्योग, कृषि, उत्पाद शुल्क आदि जैसे विषय 'हस्तांतरित (अंतरित) सूची' में शामिल थे। अतः न्याय प्रशासन, भू-राजस्व और पुलिस आरक्षित विषय थे। अतः विकल्प (c) सही है।",
       "en": "According to the Government of India Act, 1919, subjects were divided into two lists: the 'Reserved List' which included subjects like law and order, administration of justice, police, finance, land revenue, irrigation, etc., whereas subjects like education, health, local government, industry, agriculture, excise, etc. were included in the 'Transferred List'. Therefore, administration of justice, land revenue and police were reserved subjects. Hence, option (c) is correct."
     }
   },
@@ -170,7 +170,7 @@
       }
     ],
     "question": {
-      "hi": "क्रिप्स मिशन के प्रस्तावों के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:[cite: 1]\nउपर्युक्त कथनों में कौन-सा/से सही है/हैं?[cite: 1]",
+      "hi": "क्रिप्स मिशन के प्रस्तावों के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में कौन-सा/से सही है/हैं?",
       "en": "With reference to the proposals of Cripps Mission, consider the following statements:\nWhich of the statements given above is/are correct?"
     },
     "options": [
@@ -197,7 +197,7 @@
     ],
     "correctAnswer": "B",
     "explanation": {
-      "hi": "क्रिप्स मिशन के अनुसार, देश का नया संविधान बनाने के लिये एक संविधान सभा का गठन किया जाएगा।[cite: 1] इस सभा में प्रांतीय विधानसभाओं द्वारा (नामित नहीं बल्कि आनुपातिक प्रतिनिधित्त्व प्रणाली द्वारा) चुने गए सदस्य और राजाओं द्वारा मनोनीत सदस्य भी होंगे।[cite: 1] अतः कथन 1 सही नहीं है।[cite: 1] इसके अलावा मिशन ने प्रस्तावित किया कि कोई भी प्रांत भारतीय प्रभुत्व में शामिल होने का इच्छुक नहीं है तो एक अलग संघ बना सकता है जिसका एक अलग संविधान हो सकता है।[cite: 1] अतः कथन 2 सही है।[cite: 1] अतः विकल्प (b) सही है।[cite: 1]",
+      "hi": "क्रिप्स मिशन के अनुसार, देश का नया संविधान बनाने के लिये एक संविधान सभा का गठन किया जाएगा। इस सभा में प्रांतीय विधानसभाओं द्वारा (नामित नहीं बल्कि आनुपातिक प्रतिनिधित्त्व प्रणाली द्वारा) चुने गए सदस्य और राजाओं द्वारा मनोनीत सदस्य भी होंगे। अतः कथन 1 सही नहीं है। इसके अलावा मिशन ने प्रस्तावित किया कि कोई भी प्रांत भारतीय प्रभुत्व में शामिल होने का इच्छुक नहीं है तो एक अलग संघ बना सकता है जिसका एक अलग संविधान हो सकता है। अतः कथन 2 सही है। अतः विकल्प (b) सही है।",
       "en": "According to the Cripps Mission, a Constituent Assembly would be set up to frame a new Constitution for the country. This assembly would consist of members elected by the provincial assemblies (not nominated, but elected by proportional representation) and members nominated by the princes. Hence, statement 1 is not correct. Further, the mission proposed that any province not willing to join the Indian dominion could form a separate union which could have a separate constitution. Hence, statement 2 is correct. Thus, option (b) is correct."
     }
   },
@@ -221,7 +221,7 @@
       }
     ],
     "question": {
-      "hi": "निम्नलिखित कथनों पर विचार कीजिये:[cite: 1]\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?[cite: 1]",
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
       "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
     },
     "options": [
@@ -248,7 +248,7 @@
     ],
     "correctAnswer": "B",
     "explanation": {
-      "hi": "1919 के मॉन्टेग्यू-चेम्सफोर्ड सुधारों में 21 वर्ष से अधिक आयु की सभी महिलाओं को मताधिकार की संस्तुति नहीं की गई थी।[cite: 1] यद्यपि 1919 के भारत शासन अधिनियम में प्रांतीय परिषदों को महिलाओं को मताधिकार देने के नियम बनाने के लिये कहा गया था जो संपत्ति, आय और शिक्षा पर आधारित हो।[cite: 1] इस आधार पर 1919 में मद्रास शहर, 1920 में त्रावणकोर और झालवाड़, 1921 में बंबई और मद्रास प्रांत में सीमित मात्रा में महिलाओं को मताधिकार दिया गया।[cite: 1] अतः कथन 1 गलत है।[cite: 1] 1935 के अधिनियम में और अधिक महिलाओं को मताधिकार मिला लेकिन कुल मिलाकर 2.5% महिलाओं तक ही सीमित था।[cite: 1] उनके लिये संप्रदाय के आधार पर विधान मंडल में स्थान आरक्षित किया गया।[cite: 1] अतः कथन 2 सही है।[cite: 1] अतः विकल्प (b) सही है।[cite: 1]",
+      "hi": "1919 के मॉन्टेग्यू-चेम्सफोर्ड सुधारों में 21 वर्ष से अधिक आयु की सभी महिलाओं को मताधिकार की संस्तुति नहीं की गई थी। यद्यपि 1919 के भारत शासन अधिनियम में प्रांतीय परिषदों को महिलाओं को मताधिकार देने के नियम बनाने के लिये कहा गया था जो संपत्ति, आय और शिक्षा पर आधारित हो। इस आधार पर 1919 में मद्रास शहर, 1920 में त्रावणकोर और झालवाड़, 1921 में बंबई और मद्रास प्रांत में सीमित मात्रा में महिलाओं को मताधिकार दिया गया। अतः कथन 1 गलत है। 1935 के अधिनियम में और अधिक महिलाओं को मताधिकार मिला लेकिन कुल मिलाकर 2.5% महिलाओं तक ही सीमित था। उनके लिये संप्रदाय के आधार पर विधान मंडल में स्थान आरक्षित किया गया। अतः कथन 2 सही है। अतः विकल्प (b) सही है।",
       "en": "The Montagu-Chelmsford Reforms of 1919 did not recommend voting rights for all women above 21 years of age. However, the Government of India Act of 1919 asked provincial councils to make rules to give voting rights to women based on property, income and education. On this basis, limited voting rights were given to women in Madras city in 1919, Travancore and Jhalawar in 1920, and Bombay and Madras provinces in 1921. Hence, statement 1 is incorrect. The Act of 1935 enfranchised more women, but overall it was limited to only 2.5% of women. Seats were reserved for them in the legislature on a communal basis. Hence, statement 2 is correct. Thus, option (b) is correct."
     }
   },
@@ -277,7 +277,7 @@
       }
     ],
     "question": {
-      "hi": "'चार्टर एक्ट, 1813' के संबंध में, निम्नलिखित कथनों पर विचार कीजिये:[cite: 1]\nउपर्युक्त में से कौन-से कथन सही हैं?[cite: 1]",
+      "hi": "'चार्टर एक्ट, 1813' के संबंध में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कौन-से कथन सही हैं?",
       "en": "Consider the following statements about 'the Charter Act of 1813':\nWhich of the statements given above are correct?"
     },
     "options": [
@@ -304,7 +304,7 @@
     ],
     "correctAnswer": "A",
     "explanation": {
-      "hi": "चार्टर एक्ट, 1813 द्वारा कंपनी का भारतीय व्यापार पर एकाधिकार समाप्त कर दिया गया।[cite: 1] यद्यपि उसका चीन के साथ व्यापार तथा चाय के व्यापार पर एकाधिकार बना रहा।[cite: 1] इस एक्ट से कंपनी द्वारा अधिकार में लिये गए राज्यक्षेत्रों पर ब्रिटिश राज (क्राउन) की संप्रभुता सुदृढ़ हो गई।[cite: 1] अतः कथन 1 और 2 सही हैं।[cite: 1] भारत शासन अधिनियम, 1858 के द्वारा 'कोर्ट ऑफ डायरेक्टर्स' तथा 'बोर्ड ऑफ कंट्रोल' को समाप्त कर उनके अधिकार एक 15 सदस्यीय परिषद् को सौंप दिये गए, जिसके अध्यक्ष को मुख्य राज्य सचिव या भारत राज्य सचिव के नाम से जाना गया।[cite: 1] इसी के बाद भारत का राजस्व ब्रिटिश संसद के सीधे नियंत्रण में आया।[cite: 1] अतः कथन 3 गलत है।[cite: 1] अतः विकल्प (a) सही है।",
+      "hi": "चार्टर एक्ट, 1813 द्वारा कंपनी का भारतीय व्यापार पर एकाधिकार समाप्त कर दिया गया। यद्यपि उसका चीन के साथ व्यापार तथा चाय के व्यापार पर एकाधिकार बना रहा। इस एक्ट से कंपनी द्वारा अधिकार में लिये गए राज्यक्षेत्रों पर ब्रिटिश राज (क्राउन) की संप्रभुता सुदृढ़ हो गई। अतः कथन 1 और 2 सही हैं। भारत शासन अधिनियम, 1858 के द्वारा 'कोर्ट ऑफ डायरेक्टर्स' तथा 'बोर्ड ऑफ कंट्रोल' को समाप्त कर उनके अधिकार एक 15 सदस्यीय परिषद् को सौंप दिये गए, जिसके अध्यक्ष को मुख्य राज्य सचिव या भारत राज्य सचिव के नाम से जाना गया। इसी के बाद भारत का राजस्व ब्रिटिश संसद के सीधे नियंत्रण में आया। अतः कथन 3 गलत है। अतः विकल्प (a) सही है।",
       "en": "By the Charter Act, 1813, the monopoly of the Company over Indian trade was abolished. However, its monopoly over trade with China and trade in tea continued. This Act strengthened the sovereignty of the British Crown over the territories occupied by the Company. Hence statements 1 and 2 are correct. By the Government of India Act, 1858, the 'Court of Directors' and 'Board of Control' were abolished and their powers were handed over to a 15-member council, whose head was known as the Chief Secretary of State or Secretary of State for India. Only after this did India's revenue come under the direct control of the British Parliament. Hence statement 3 is incorrect. Thus, option (a) is correct."
     }
   },
@@ -316,7 +316,7 @@
     "difficulty": "Easy",
     "type": "mcq",
     "question": {
-      "hi": "भारतीय शासन अधिनियम, 1935 के द्वारा स्थापित संघ में अवशिष्ट शक्तियाँ किसे दी गई थीं?[cite: 1]",
+      "hi": "भारतीय शासन अधिनियम, 1935 के द्वारा स्थापित संघ में अवशिष्ट शक्तियाँ किसे दी गई थीं?",
       "en": "In the Federation established by The Government of India Act of 1935, residuary powers were given to the"
     },
     "options": [
@@ -343,7 +343,7 @@
     ],
     "correctAnswer": "B",
     "explanation": {
-      "hi": "भारत शासन अधिनियम, 1935 द्वारा स्थापित संघ में अवशिष्ट शक्तियाँ 'गवर्नर जनरल' को प्रदान की गई थीं।[cite: 1] 1930–32 में लंदन में हुए तीन गोलमेज सम्मेलनों में संवैधानिक सुधारों से संबंधित संस्तुतियों के फलस्वरूप 'भारत शासन अधिनियम, 1935' का निर्माण किया गया।[cite: 1] इसके तहत भारत में सर्वप्रथम संघीय शासन प्रणाली की नींव रखी गई।[cite: 1] केंद्र में द्वैध शासन की स्थापना अर्थात् केंद्र तथा राज्य इकाइयों के मध्य शक्तियों का विभाजन किया गया- संघ सूची, प्रांतीय सूची तथा समवर्ती सूची।[cite: 1] संघ सूची में 59 विषय, प्रांतीय सूची में 54 विषय तथा समवर्ती सूची में 36 विषय शामिल किये गए तथा अवशिष्ट शक्तियाँ गवर्नर जनरल में निहित थीं।[cite: 1]",
+      "hi": "भारत शासन अधिनियम, 1935 द्वारा स्थापित संघ में अवशिष्ट शक्तियाँ 'गवर्नर जनरल' को प्रदान की गई थीं। 1930–32 में लंदन में हुए तीन गोलमेज सम्मेलनों में संवैधानिक सुधारों से संबंधित संस्तुतियों के फलस्वरूप 'भारत शासन अधिनियम, 1935' का निर्माण किया गया। इसके तहत भारत में सर्वप्रथम संघीय शासन प्रणाली की नींव रखी गई। केंद्र में द्वैध शासन की स्थापना अर्थात् केंद्र तथा राज्य इकाइयों के मध्य शक्तियों का विभाजन किया गया- संघ सूची, प्रांतीय सूची तथा समवर्ती सूची। संघ सूची में 59 विषय, प्रांतीय सूची में 54 विषय तथा समवर्ती सूची में 36 विषय शामिल किये गए तथा अवशिष्ट शक्तियाँ गवर्नर जनरल में निहित थीं।",
       "en": "In the Federation established by the Government of India Act, 1935, residuary powers were given to the 'Governor General'. As a result of recommendations related to constitutional reforms in the three Round Table Conferences held in London in 1930-32, the 'Government of India Act, 1935' was created. Under this, the foundation of a federal system of government was laid in India for the first time. Establishment of dyarchy at the center, that is, division of powers between the center and state units - Union List, Provincial List and Concurrent List. 59 subjects were included in the Union List, 54 subjects in the Provincial List and 36 subjects in the Concurrent List and residuary powers were vested in the Governor General."
     }
   },
@@ -355,7 +355,7 @@
     "difficulty": "Medium",
     "type": "mcq",
     "question": {
-      "hi": "भारतीय इतिहास के संदर्भ के में, 'द्वैध शासन (डायरार्की/Dyarchy)' सिद्धांत किसे निर्दिष्ट करता है?[cite: 1]",
+      "hi": "भारतीय इतिहास के संदर्भ के में, 'द्वैध शासन (डायरार्की/Dyarchy)' सिद्धांत किसे निर्दिष्ट करता है?",
       "en": "In the context of Indian history, the principle of 'Dyarchy (Diarchy)' refers to"
     },
     "options": [
@@ -382,7 +382,7 @@
     ],
     "correctAnswer": "D",
     "explanation": {
-      "hi": "'द्वैध शासन' का सिद्धांत प्रत्येक प्रांतीय सरकार की कार्यकारी शाखा को आधिकारिक और लोकप्रिय रूप से ज़िम्मेदार वर्गों में विभाजन को मान्यता देता है।[cite: 1] ब्रिटिश भारत के प्रांतों के लिये द्वैध शासन भारत सरकार अधिनियम, 1919 द्वारा प्रारंभ किया गया था।[cite: 1] इसके अंतर्गत प्रांतीय विषयों को दो भागों 'आरक्षित' और 'हस्तांतरित' में विभाजित किया गया था।[cite: 1] अतः विकल्प (d) सही है।[cite: 1]",
+      "hi": "'द्वैध शासन' का सिद्धांत प्रत्येक प्रांतीय सरकार की कार्यकारी शाखा को आधिकारिक और लोकप्रिय रूप से ज़िम्मेदार वर्गों में विभाजन को मान्यता देता है। ब्रिटिश भारत के प्रांतों के लिये द्वैध शासन भारत सरकार अधिनियम, 1919 द्वारा प्रारंभ किया गया था। इसके अंतर्गत प्रांतीय विषयों को दो भागों 'आरक्षित' और 'हस्तांतरित' में विभाजित किया गया था। अतः विकल्प (d) सही है।",
       "en": "The principle of 'Dyarchy' recognized the division of the executive branch of each provincial government into authoritarian and popularly responsible sections. Dyarchy was introduced for the provinces of British India by the Government of India Act, 1919. Under this, the provincial subjects were divided into two categories, 'Reserved' and 'Transferred'. Hence, option (d) is correct."
     }
   },
@@ -394,7 +394,7 @@
     "difficulty": "Easy",
     "type": "mcq",
     "question": {
-      "hi": "मॉन्टेग्यू-चेम्सफोर्ड प्रस्ताव किससे संबंधित थे?[cite: 1]",
+      "hi": "मॉन्टेग्यू-चेम्सफोर्ड प्रस्ताव किससे संबंधित थे?",
       "en": "The Montague-Chelmsford Proposals were related to"
     },
     "options": [
@@ -421,7 +421,7 @@
     ],
     "correctAnswer": "D",
     "explanation": {
-      "hi": "भारत शासन अधिनियम, 1919 को 'मॉन्टेग्यू-चेम्सफोर्ड सुधार' के नाम से भी जाना जाता है।[cite: 1] मॉन्टेग्यू के साथ एक उच्चस्तरीय दल स्थिति का जायज़ा लेने भारत आया। दल के अध्ययन के आधार पर जुलाई 1918 में मॉन्टेग्यू-चेम्सफोर्ड रिपोर्ट प्रकाशित की गई।[cite: 1] यह रिपोर्ट 1919 के 'भारत शासन अधिनियम' का आधार बनी।[cite: 1] इसी के आधार पर ब्रिटिश संसद ने 1919 में भारत के औपनिवेशिक प्रशासन के लिये नया विधान बनाया जो 1921 में क्रियान्वित किया गया।[cite: 1] अतः मॉन्टेग्यू-चेम्सफोर्ड प्रस्ताव सांविधानिक सुधारों से संबंधित था।[cite: 1]",
+      "hi": "भारत शासन अधिनियम, 1919 को 'मॉन्टेग्यू-चेम्सफोर्ड सुधार' के नाम से भी जाना जाता है। मॉन्टेग्यू के साथ एक उच्चस्तरीय दल स्थिति का जायज़ा लेने भारत आया। दल के अध्ययन के आधार पर जुलाई 1918 में मॉन्टेग्यू-चेम्सफोर्ड रिपोर्ट प्रकाशित की गई। यह रिपोर्ट 1919 के 'भारत शासन अधिनियम' का आधार बनी। इसी के आधार पर ब्रिटिश संसद ने 1919 में भारत के औपनिवेशिक प्रशासन के लिये नया विधान बनाया जो 1921 में क्रियान्वित किया गया। अतः मॉन्टेग्यू-चेम्सफोर्ड प्रस्ताव सांविधानिक सुधारों से संबंधित था।",
       "en": "The Government of India Act, 1919 is also known as the 'Montagu-Chelmsford Reforms'. A high-level team accompanied Montagu to India to assess the situation. Based on the team's study, the Montagu-Chelmsford Report was published in July 1918. This report formed the basis of the 'Government of India Act' of 1919. On this basis, the British Parliament enacted a new legislation for the colonial administration of India in 1919 which was implemented in 1921. Therefore, the Montagu-Chelmsford proposals were related to constitutional reforms."
     }
   },
@@ -433,7 +433,7 @@
     "difficulty": "Medium",
     "type": "mcq",
     "question": {
-      "hi": "सर स्टैफोर्ड क्रिप्स की योजना में यह परिकल्पना थी कि द्वितीय विश्व युद्ध के बाद-[cite: 1]",
+      "hi": "सर स्टैफोर्ड क्रिप्स की योजना में यह परिकल्पना थी कि द्वितीय विश्व युद्ध के बाद-",
       "en": "The plan of Sir Stafford Cripps envisaged that after the Second World War"
     },
     "options": [
@@ -460,7 +460,7 @@
     ],
     "correctAnswer": "D",
     "explanation": {
-      "hi": "क्रिप्स मिशन ने पूर्ण स्वतंत्रता के स्थान पर भारत को डोमिनियन स्टेटस (Dominion Status) देने का प्रस्ताव दिया था अर्थात् भारत का राष्ट्रप्रमुख ब्रिटेन का राजा या रानी ही बने रहते।[cite: 1] अतः विकल्प (d) सही है।[cite: 1]",
+      "hi": "क्रिप्स मिशन ने पूर्ण स्वतंत्रता के स्थान पर भारत को डोमिनियन स्टेटस (Dominion Status) देने का प्रस्ताव दिया था अर्थात् भारत का राष्ट्रप्रमुख ब्रिटेन का राजा या रानी ही बने रहते। अतः विकल्प (d) सही है।",
       "en": "The Cripps Mission had proposed to give Dominion Status to India instead of complete independence, meaning the head of state of India would continue to be the King or Queen of Britain. Hence, option (d) is correct."
     }
   },
@@ -472,7 +472,7 @@
     "difficulty": "Medium",
     "type": "mcq",
     "question": {
-      "hi": "भारत सरकार अधिनियम, 1919 ने निम्नलिखित में से किसको स्पष्ट रूप से परिभाषित किया?[cite: 1]",
+      "hi": "भारत सरकार अधिनियम, 1919 ने निम्नलिखित में से किसको स्पष्ट रूप से परिभाषित किया?",
       "en": "The Government of India Act of 1919 clearly defined"
     },
     "options": [
@@ -499,7 +499,7 @@
     ],
     "correctAnswer": "B",
     "explanation": {
-      "hi": "भारत शासन अधिनियम, 1919 की सबसे महत्त्वपूर्ण विशेषता केंद्रीय एवं प्रांतीय सरकारों की अधिकारिता को स्पष्ट रूप से परिभाषित करने से संबंधित है।[cite: 1] इसके अनुसार सभी विषयों को केंद्र तथा प्रांतों में बाँट दिया गया था।[cite: 1] अतः सही उत्तर (b) है।[cite: 1]",
+      "hi": "भारत शासन अधिनियम, 1919 की सबसे महत्त्वपूर्ण विशेषता केंद्रीय एवं प्रांतीय सरकारों की अधिकारिता को स्पष्ट रूप से परिभाषित करने से संबंधित है। इसके अनुसार सभी विषयों को केंद्र तथा प्रांतों में बाँट दिया गया था। अतः सही उत्तर (b) है।",
       "en": "The most important feature of the Government of India Act, 1919 relates to clearly defining the jurisdiction of the central and provincial governments. According to this, all subjects were divided between the center and the provinces. Hence, the correct answer is (b)."
     }
   },
@@ -528,7 +528,7 @@
       }
     ],
     "question": {
-      "hi": "कैबिनेट मिशन के संदर्भ में निम्नलिखित में से कौन-सा/से कथन सही है/हैं?[cite: 1]\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:[cite: 1]",
+      "hi": "कैबिनेट मिशन के संदर्भ में निम्नलिखित में से कौन-सा/से कथन सही है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
       "en": "With reference to Cabinet Mission, which of the following statements is/are correct?\nSelect the correct answer using the code given below:"
     },
     "options": [
@@ -555,7 +555,7 @@
     ],
     "correctAnswer": "A",
     "explanation": {
-      "hi": "भारत में संवैधानिक सुधारों की योजना के साथ मार्च 1946 में कैबिनेट मिशन दिल्ली पहुँचा।[cite: 1] इसमें पैथिक लॉरेंस, स्टैफोर्ड क्रिप्स व ए.वी. अलेक्जेंडर शामिल थे।[cite: 1] इसकी प्रमुख सिफारिशों में यह शामिल था कि भारत में एक अखिल भारतीय संघ की स्थापना होनी चाहिये, जिसमें ब्रिटिश भारत और देशी राज्य सम्मिलित हों (कथन 1 सही है)।[cite: 1] भारतीय न्यायालयों की शक्तियों का विस्तार तथा ICS (भारतीय जनपद सेवा) में भारतीयों की भागीदारी बढ़ाने संबंधी प्रस्तावों से कैबिनेट मिशन का कोई संबंध नहीं था (कथन 2 और 3 गलत हैं)।[cite: 1] अतः विकल्प (a) सही है।[cite: 1]",
+      "hi": "भारत में संवैधानिक सुधारों की योजना के साथ मार्च 1946 में कैबिनेट मिशन दिल्ली पहुँचा। इसमें पैथिक लॉरेंस, स्टैफोर्ड क्रिप्स व ए.वी. अलेक्जेंडर शामिल थे। इसकी प्रमुख सिफारिशों में यह शामिल था कि भारत में एक अखिल भारतीय संघ की स्थापना होनी चाहिये, जिसमें ब्रिटिश भारत और देशी राज्य सम्मिलित हों (कथन 1 सही है)। भारतीय न्यायालयों की शक्तियों का विस्तार तथा ICS (भारतीय जनपद सेवा) में भारतीयों की भागीदारी बढ़ाने संबंधी प्रस्तावों से कैबिनेट मिशन का कोई संबंध नहीं था (कथन 2 और 3 गलत हैं)। अतः विकल्प (a) सही है।",
       "en": "The Cabinet Mission arrived in Delhi in March 1946 with a plan for constitutional reforms in India. It included Pethick-Lawrence, Stafford Cripps and A.V. Alexander. Its major recommendations included that an All-India Federation should be established in India, comprising British India and the princely states (Statement 1 is correct). Proposals relating to enlarging the powers of Indian courts and increasing the participation of Indians in the ICS (Indian Civil Service) had no connection with the Cabinet Mission (Statements 2 and 3 are incorrect). Hence, option (a) is correct."
     }
   },
@@ -567,7 +567,7 @@
     "difficulty": "Easy",
     "type": "mcq",
     "question": {
-      "hi": "रैडक्लिफ समिति किसलिये नियुक्त की गई थी?[cite: 1]",
+      "hi": "रैडक्लिफ समिति किसलिये नियुक्त की गई थी?",
       "en": "The Radcliffe Committee was appointed to"
     },
     "options": [
@@ -594,7 +594,7 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "रैडक्लिफ समिति की नियुक्ति तत्कालीन वायसराय लॉर्ड माउंटबेटन द्वारा जुलाई 1947 में की गई थी।[cite: 1] इस समिति में अध्यक्ष सर रैडक्लिफ के अलावा भारतीय राष्ट्रीय कॉन्ग्रेस एवं मुस्लिम लीग के द्वारा नामांकित 2–2 सदस्य भी थे।[cite: 1] यह एक परामर्शदात्री समिति थी जिसे ब्रिटिश भारत के विभाजन के पश्चात् भारत एवं पाकिस्तान के बीच सीमाओं को निर्धारित करने के संबंध में सुझाव देना था।[cite: 1] अतः विकल्प (c) सही है।[cite: 1]",
+      "hi": "रैडक्लिफ समिति की नियुक्ति तत्कालीन वायसराय लॉर्ड माउंटबेटन द्वारा जुलाई 1947 में की गई थी। इस समिति में अध्यक्ष सर रैडक्लिफ के अलावा भारतीय राष्ट्रीय कॉन्ग्रेस एवं मुस्लिम लीग के द्वारा नामांकित 2–2 सदस्य भी थे। यह एक परामर्शदात्री समिति थी जिसे ब्रिटिश भारत के विभाजन के पश्चात् भारत एवं पाकिस्तान के बीच सीमाओं को निर्धारित करने के संबंध में सुझाव देना था। अतः विकल्प (c) सही है।",
       "en": "The Radcliffe Committee was appointed by the then Viceroy Lord Mountbatten in July 1947. Apart from the chairman Sir Radcliffe, this committee also had 2 members each nominated by the Indian National Congress and the Muslim League. It was an advisory committee which had to give suggestions regarding demarcating the boundaries between India and Pakistan after the partition of British India. Hence, option (c) is correct."
     }
   },
@@ -606,7 +606,7 @@
     "difficulty": "Medium",
     "type": "mcq",
     "question": {
-      "hi": "भारतीय इतिहास के संदर्भ में, प्रांतों से संविधान सभा के सदस्य-[cite: 1]",
+      "hi": "भारतीय इतिहास के संदर्भ में, प्रांतों से संविधान सभा के सदस्य-",
       "en": "In the context of Indian history, the Members of the Constituent Assembly from the Provinces were"
     },
     "options": [
@@ -633,7 +633,7 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "संविधान सभा के गठन के संबंध में कैबिनेट मिशन ने वयस्क मताधिकार पर आधारित निर्वाचन से इनकार कर दिया, क्योंकि इसमें अत्यंत विलंब होता।[cite: 1] यह व्यवस्था की गई कि संविधान निर्मात्री सभा का गठन अप्रत्यक्ष निर्वाचन द्वारा (प्रांतीय विधान सभाओं द्वारा) किया जाएगा।[cite: 1] इसीलिये प्रत्येक प्रांत के लिये जनसंख्या के अनुपात में कुछ सीटें आवंटित की गईं (सामान्यतः 10 लाख की जनसंख्या पर 1 सीट)।[cite: 1] अतः विकल्प (c) सही है।[cite: 1]",
+      "hi": "संविधान सभा के गठन के संबंध में कैबिनेट मिशन ने वयस्क मताधिकार पर आधारित निर्वाचन से इनकार कर दिया, क्योंकि इसमें अत्यंत विलंब होता। यह व्यवस्था की गई कि संविधान निर्मात्री सभा का गठन अप्रत्यक्ष निर्वाचन द्वारा (प्रांतीय विधान सभाओं द्वारा) किया जाएगा। इसीलिये प्रत्येक प्रांत के लिये जनसंख्या के अनुपात में कुछ सीटें आवंटित की गईं (सामान्यतः 10 लाख की जनसंख्या पर 1 सीट)। अतः विकल्प (c) सही है।",
       "en": "Regarding the formation of the Constituent Assembly, the Cabinet Mission rejected election based on adult franchise, because it would entail extreme delay. It was arranged that the Constituent Assembly would be formed by indirect election (by the Provincial Legislative Assemblies). Therefore, some seats were allotted to each province in proportion to its population (generally 1 seat for a population of 1 million). Hence, option (c) is correct."
     }
   },
@@ -662,7 +662,7 @@
       }
     ],
     "question": {
-      "hi": "1919 के भारत शासन अधिनियम की निम्नलिखित में से कौन-सी प्रमुख विशेषता/विशेषताएँ है/हैं?[cite: 1]\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये:[cite: 1]",
+      "hi": "1919 के भारत शासन अधिनियम की निम्नलिखित में से कौन-सी प्रमुख विशेषता/विशेषताएँ है/हैं?\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये:",
       "en": "Which of the following is/are the principal feature(s) of the Government of India Act, 1919?\nSelect the correct answer using the codes given below:"
     },
     "options": [
@@ -689,7 +689,7 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "कथन 1 और 3 सही हैं, जबकि कथन 2 गलत है क्योंकि मुसलमानों को 1909 के मॉर्ले-मिंटो सुधार द्वारा पहले ही पृथक् निर्वाचक मंडल की सुविधा दी जा चुकी थी (1919 में इसका विस्तार सिखों, ईसाइयों आदि तक किया गया)।[cite: 1] 1919 के अधिनियम के द्वारा प्रांतों में द्वैध शासन प्रणाली को प्रारंभ किया गया तथा केंद्र द्वारा प्रांतों को शक्तियों (विषयों) का हस्तांतरण किया गया।[cite: 1] अतः विकल्प (c) सही है।[cite: 1]",
+      "hi": "कथन 1 और 3 सही हैं, जबकि कथन 2 गलत है क्योंकि मुसलमानों को 1909 के मॉर्ले-मिंटो सुधार द्वारा पहले ही पृथक् निर्वाचक मंडल की सुविधा दी जा चुकी थी (1919 में इसका विस्तार सिखों, ईसाइयों आदि तक किया गया)। 1919 के अधिनियम के द्वारा प्रांतों में द्वैध शासन प्रणाली को प्रारंभ किया गया तथा केंद्र द्वारा प्रांतों को शक्तियों (विषयों) का हस्तांतरण किया गया। अतः विकल्प (c) सही है।",
       "en": "Statements 1 and 3 are correct, while statement 2 is incorrect because Muslims were already given the facility of a separate electorate by the Morley-Minto Reforms of 1909 (it was extended to Sikhs, Christians, etc. in 1919). The Act of 1919 introduced the dyarchy system in the provinces and the center devolved powers (subjects) to the provinces. Hence, option (c) is correct."
     }
   },
@@ -701,7 +701,7 @@
     "difficulty": "Easy",
     "type": "mcq",
     "question": {
-      "hi": "भारत के संविधान में केंद्र और राज्यों के बीच किये गए शक्तियों का विभाजन इनमें से किसमें उल्लिखित योजना पर आधारित है?[cite: 1]",
+      "hi": "भारत के संविधान में केंद्र और राज्यों के बीच किये गए शक्तियों का विभाजन इनमें से किसमें उल्लिखित योजना पर आधारित है?",
       "en": "The distribution of powers between the Centre and the States in the Indian Constitution is based on the scheme provided in the"
     },
     "options": [
@@ -728,7 +728,7 @@
     ],
     "correctAnswer": "C",
     "explanation": {
-      "hi": "भारतीय संविधान का एक बड़ा हिस्सा भारत शासन अधिनियम, 1935 से संबंधित है।[cite: 1] इस अधिनियम में केंद्र व राज्यों के मध्य शक्तियों के विभाजन संबंधी उपबंध किये गए थे।[cite: 1] भारत शासन अधिनियम, 1935 के तहत केंद्र और संबंधित इकाइयों की शक्तियों के बँटवारे के लिये तीन सूचियों [संघ सूची (59 विषय), प्रांत सूची (54 विषय) तथा समवर्ती सूची (36 विषय)] का प्रावधान किया गया था।[cite: 1] अतः विकल्प (c) सही है।[cite: 1]",
+      "hi": "भारतीय संविधान का एक बड़ा हिस्सा भारत शासन अधिनियम, 1935 से संबंधित है। इस अधिनियम में केंद्र व राज्यों के मध्य शक्तियों के विभाजन संबंधी उपबंध किये गए थे। भारत शासन अधिनियम, 1935 के तहत केंद्र और संबंधित इकाइयों की शक्तियों के बँटवारे के लिये तीन सूचियों [संघ सूची (59 विषय), प्रांत सूची (54 विषय) तथा समवर्ती सूची (36 विषय)] का प्रावधान किया गया था। अतः विकल्प (c) सही है।",
       "en": "A large part of the Indian Constitution is related to the Government of India Act, 1935. In this act, provisions related to the division of powers between the Center and the States were made. Under the Government of India Act, 1935, three lists [Union List (59 subjects), Provincial List (54 subjects) and Concurrent List (36 subjects)] were provided for the division of powers between the center and the respective units. Hence, option (c) is correct."
     }
   }
