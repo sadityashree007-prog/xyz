@@ -1,0 +1,984 @@
+[
+  {
+    "id": 1,
+    "year": "2025",
+    "subject": "Physics",
+    "topic": "भौतिकी (Physics)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "पूर्ण बैटरी विद्युत वाहन",
+        "en": "Full Battery Electric Vehicles"
+      },
+      {
+        "id": 2,
+        "hi": "हाइड्रोजन ईंधन सेल वाहन",
+        "en": "Hydrogen Fuel Cell Vehicles"
+      },
+      {
+        "id": 3,
+        "hi": "ईंधन सेल-विद्युत हाइब्रिड वाहन",
+        "en": "Fuel Cell-Electric Hybrid Vehicles"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित प्रकार के वाहनों पर विचार कीजिये :\nI. पूर्ण बैटरी विद्युत वाहन\nII. हाइड्रोजन ईंधन सेल वाहन\nIII. ईंधन सेल-विद्युत हाइब्रिड वाहन\nउपर्युक्त में से कितने वैकल्पिक पावर ट्रेन वाहन माने जाते हैं?",
+      "en": "Consider the following types of vehicles:\nI. Full Battery Electric Vehicles\nII. Hydrogen Fuel Cell Vehicles\nIII. Fuel Cell-Electric Hybrid Vehicles\nHow many of the above are considered alternative power train vehicles?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "वैकल्पिक पावर ट्रेन उन प्रणालियों को कहा जाता है, जो पूरी तरह से आंतरिक दहन इंजन (Internal Combustion Engine) पर आधारित नहीं होती हैं। इनमें हाइब्रिड, पूर्ण बैटरी विद्युत वाहन, हाइड्रोजन ईंधन सेल, संपीड़ित वायु (Compressed Air) जैसे कई अन्य प्रकार शामिल हैं। अतः सभी तीन सही हैं।",
+      "en": "Alternative power trains refer to systems that are not entirely based on internal combustion engines. These include hybrids, full battery electric vehicles, hydrogen fuel cells, compressed air, and many other types. Thus, all three are correct."
+    }
+  },
+  {
+    "id": 2,
+    "year": "2024",
+    "subject": "Physics",
+    "topic": "भौतिकी (Physics)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "RTGs लघु विखंडन रिएक्टर हैं।",
+        "en": "RTGs are micro fission reactors."
+      },
+      {
+        "id": 2,
+        "hi": "RTGs का प्रयोग अंतरिक्षयानों के ऑन-बोर्ड प्रणालियों को विद्युत आपूर्ति करने के लिये होता है।",
+        "en": "RTGs are used to provide electricity to the on-board systems of spacecraft."
+      },
+      {
+        "id": 3,
+        "hi": "RTGs में प्लूटोवियम-238 का उपयोग किया जा सकता है, जो शस्त्र विकास का एक उपोत्पाद है।",
+        "en": "Plutonium-238 can be used in RTGs, which is a by-product of weapons development."
+      }
+    ],
+    "question": {
+      "hi": "विकिरण समस्थानिक तापीय-विद्युत जेनरेटरों (RTGs) के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये :\n1. RTGs लघु विखंडन रिएक्टर हैं।\n2. RTGs का प्रयोग अंतरिक्षयानों के ऑन-बोर्ड प्रणालियों को विद्युत आपूर्ति करने के लिये होता है।\n3. RTGs में प्लूटोवियम-238 का उपयोग किया जा सकता है, जो शस्त्र विकास का एक उपोत्पाद है।\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "en": "With reference to Radioisotope Thermoelectric Generators (RTGs), consider the following statements:\n1. RTGs are micro fission reactors.\n2. RTGs are used to supply electricity to the on-board systems of spacecraft.\n3. Plutonium-238 can be used in RTGs, which is a by-product of weapons development.\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "Only 1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "Only 2 and 3"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "Only 1 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "RTGs में नाभिकीय विखंडन की श्रृंखला (chain) अभिक्रिया नहीं होती है। ये नियंत्रित विखंडन द्वारा ऊर्जा उत्पन्न नहीं करते हैं, अतः RTG को लघु विखंडन रिएक्टर कहना उचित नहीं है। अतः कथन 1 सही नहीं है। कथन 2 और 3 सही हैं।",
+      "en": "RTGs do not involve a nuclear fission chain reaction. They do not generate energy through controlled fission, so calling RTG a micro fission reactor is incorrect. Hence, statement 1 is incorrect. Statements 2 and 3 are correct."
+    }
+  },
+  {
+    "id": 3,
+    "year": "2021",
+    "subject": "Physics",
+    "topic": "भौतिकी (Physics)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "ढक्कन में स्थित छिद्र का क्षेत्रफल",
+        "en": "Area of the hole in the lid"
+      },
+      {
+        "id": 2,
+        "hi": "ज्वाला का तापमान",
+        "en": "Temperature of the flame"
+      },
+      {
+        "id": 3,
+        "hi": "ढक्कन का भार",
+        "en": "Weight of the lid"
+      }
+    ],
+    "question": {
+      "hi": "किसी प्रेशर कुकर में, जिस तापमान पर खाद्य पकाये जाते हैं, वह मुख्य रूप से निम्नलिखित में से किस पर निर्भर करता है?\n1. ढक्कन में स्थित छिद्र का क्षेत्रफल\n2. ज्वाला का तापमान\n3. ढक्कन का भार\nनीचे दिये गये कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "In a pressure cooker, the temperature at which food is cooked depends mainly on which of the following?\n1. Area of the hole in the lid\n2. Temperature of the flame\n3. Weight of the lid\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "Only 1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "Only 2 and 3"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "Only 1 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "बड़े छेद से बाहर जाने वाली भाप में वृद्धि होगी जिससे तापमान में अधिक कमी आएगी, अतः कथन 1 सही है। बंद कुकर के अंदर तरल पर सतह का दबाव बढ़ाकर हम खाना पकाने का तापमान बढ़ा सकते हैं। कुकर के ढक्कन के ऊपर रखे वजन को बदलकर इस दबाव को समायोजित किया जा सकता है, अतः कथन 3 सही है।",
+      "en": "An increase in the steam escaping through a larger hole will cause a greater drop in temperature, hence statement 1 is correct. We can increase the cooking temperature by increasing the surface pressure on the liquid inside the sealed cooker. This pressure can be adjusted by changing the weight placed on top of the cooker lid, hence statement 3 is correct."
+    }
+  },
+  {
+    "id": 4,
+    "year": "2021",
+    "subject": "Physics",
+    "topic": "भौतिकी (Physics)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सोडियम बत्तियां प्रकाश को 360 डिग्री में उत्पन्न करती हैं, किंतु एल-ई-डी. बत्तियों में ऐसा नहीं होता है।",
+        "en": "Sodium lamps produce light in 360 degrees, but LED lamps do not do so."
+      },
+      {
+        "id": 2,
+        "hi": "सड़क की बत्तियों के रूप में, एल-ई-डी. बत्तियों की तुलना में सोडियम बत्तियों की उपयोगिता अवधि अधिक होती है।",
+        "en": "As street lights, sodium lamps have a longer useful life compared to LED lamps."
+      },
+      {
+        "id": 3,
+        "hi": "सोडियम बत्ती के दृश्य प्रकाश का स्पेक्ट्रम लगभग एकवर्णी होता है, जबकि एल-ई-डी. बत्तियां सड़क प्रकाश व्यवस्था में साथ्र्य वर्ण सुविधाएं (कलर एडवांटेज) प्रदान करती हैं।",
+        "en": "The visible light spectrum of a sodium lamp is nearly monochromatic, while LED lamps provide color advantages in street lighting."
+      }
+    ],
+    "question": {
+      "hi": "सड़क प्रकाश व्यवस्था के संदर्भ में, सोडियम बत्तियां, एल-ई-डी. बत्तियों से किस तरह भिन्न हैं?\n1. सोडियम बत्तियां प्रकाश को 360 डिग्री में उत्पन्न करती हैं, किंतु एल-ई-डी. बत्तियों में ऐसा नहीं होता है।\n2. सड़क की बत्तियों के रूप में, एल-ई-डी. बत्तियों की तुलना में सोडियम बत्तियों की उपयोगिता अवधि अधिक होती है।\n3. सोडियम बत्ती के दृश्य प्रकाश का स्पेक्ट्रम लगभग एकवर्णी होता है, जबकि एल-ई-डी. बत्तियां सड़क प्रकाश व्यवस्था में साथ्र्य वर्ण सुविधाएं प्रदान करती हैं।\nनीचे दिये गये कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "With reference to street lighting, how do sodium lamps differ from LED lamps?\n1. Sodium lamps produce light in 360 degrees, whereas LED lamps do not.\n2. As street lights, sodium lamps have a longer useful life compared to LED lamps.\n3. The visible light spectrum of a sodium lamp is nearly monochromatic, whereas LED lamps provide color advantages in street lighting.\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 3",
+        "en": "Only 3"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "Only 2"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "Only 1 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "हाई प्रेशर सोडियम बत्तियां सर्वदिशिक (Omnidirectional) होती हैं, जो 360° में प्रकाश उत्पन्न करती हैं। वहीं एलईडी लैंप 180° में प्रकाश उत्पन्न करते हैं। अतः कथन 1 सही है। एलईडी की उपयोगिता अवधि सोडियम बत्तियों से लगभग 4 गुना अधिक होती है, अतः कथन 2 सही नहीं है। सोडियम बत्तियां एकवर्णी पीला प्रकाश उत्सर्जित करती हैं, अतः कथन 3 सही है।",
+      "en": "High-pressure sodium lamps are omnidirectional, producing light in 360°. LED lamps produce light in 180°. Hence statement 1 is correct. The useful life of LEDs is about 4 times greater than sodium lamps, hence statement 2 is incorrect. Sodium lamps emit monochromatic yellow light, hence statement 3 is correct."
+    }
+  },
+  {
+    "id": 5,
+    "year": "2019",
+    "subject": "Physics",
+    "topic": "भौतिकी (Physics)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "हग्ज बोसान कणों का अभिकज्ञान हुआ।",
+        "en": "Higgs Boson particles were detected."
+      },
+      {
+        "id": 2,
+        "hi": "गुरुत्वीय तरंगों का अभिकज्ञान हुआ।",
+        "en": "Gravitational waves were detected."
+      },
+      {
+        "id": 3,
+        "hi": "वॉर्महोल से होते हुए अंतर-मंदाकिनी अंतरिक्ष यात्रा की संभावना की पुष्टि हुई।",
+        "en": "The possibility of intergalactic space travel through wormholes was confirmed."
+      },
+      {
+        "id": 4,
+        "hi": "इसने वैज्ञानिकों को विलक्षणता (सिंगुलरिटी) को समझना सुगम बनाया।",
+        "en": "It made it easier for scientists to understand singularity."
+      }
+    ],
+    "question": {
+      "hi": "हाल ही में वैज्ञानिकों ने पृथ्वी से अरबों प्रकाश-वर्ष दूर विशालकाय 'ब्लैकहोलों' के विलय का प्रेक्षण किया। इस प्रेक्षण का क्या महत्त्व है?\n(a) 'हग्ज बोसान कणों' का अभिकज्ञान हुआ।\n(b) 'गुरुत्वीय तरंगों' का अभिकज्ञान हुआ।\n(c) 'वॉर्महोल' से होते हुए अंतर-मंदाकिनी अंतरिक्ष यात्रा की संभावना की पुष्टि हुई।\n(d) इसने वैज्ञानिकों को 'विलक्षणता (सिंगुलरिटी)' को समझना सुगम बनाया।",
+      "en": "Recently, scientists observed the merger of giant 'black holes' billions of light-years away from Earth. What is the significance of this observation?\n(a) Higgs Boson particles were detected.\n(b) Gravitational waves were detected.\n(c) The possibility of intergalactic space travel through wormholes was confirmed.\n(d) It made it easier for scientists to understand singularity."
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल a",
+        "en": "a only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल b",
+        "en": "b only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल c",
+        "en": "c only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल d",
+        "en": "d only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "हाल ही में वैज्ञानिकों ने पृथ्वी से अरबों प्रकाश वर्ष दूर विशालकाय 'ब्लैकहोलों' के विलय का प्रेक्षण किया तथा इससे गुरुत्वीय तरंगों (Gravitational Waves) का अभिकज्ञान हुआ। इसलिए विकल्प (b) सत्य है।",
+      "en": "Recently, scientists observed the merger of giant 'black holes' billions of light-years away from Earth, leading to the detection of Gravitational Waves. Therefore, option (b) is true."
+    }
+  },
+  {
+    "id": 6,
+    "year": "2018",
+    "subject": "Physics",
+    "topic": "भौतिकी (Physics)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "प्रकाश, गुरुत्व द्वारा प्रभावित होता है।",
+        "en": "Light is affected by gravity."
+      },
+      {
+        "id": 2,
+        "hi": "ब्रह्मांड लगातार फैल रहा है।",
+        "en": "The universe is expanding constantly."
+      },
+      {
+        "id": 3,
+        "hi": "पदार्थ अपने चारों ओर के दिग्काल को विरूपित (वार्प) करता है।",
+        "en": "Matter warps the spacetime around it."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित परिघटनाओं पर विचार कीजिये:\n1. प्रकाश, गुरुत्व द्वारा प्रभावित होता है।\n2. ब्रह्मांड लगातार फैल रहा है।\n3. पदार्थ अपने चारों ओर के दिग्काल को विरूपित (वार्प) करता है।\nउपर्युक्त में से अल्बर्ट आइंस्टीन के आपेक्षिकता के सामान्य सिद्धांत का/के भविष्यकथन कौन-सा/से है/हैं, जिसकी/जिनकी प्रायः समाचार माध्यमों में विवेचना होती है?",
+      "en": "Consider the following phenomena:\n1. Light is affected by gravity.\n2. The Universe is expanding constantly.\n3. Matter warps the spacetime around it.\nWhich of the above are the predictions of Albert Einstein's General Theory of Relativity, commonly discussed in media?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "Only 1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "Only 3"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "Only 1 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "सापेक्षता के सामान्य सिद्धांत के अनुसार, जब प्रकाश न्यूट्रॉन तारा अथवा ब्लैक होल जैसे विशालकाय पिंडों से होकर गुजरता है तो उसकी ओर आकर्षित होता है। आइंस्टीन का मानना था कि 'डार्क एनर्जी' ऐसी अनजान ऊर्जा है, जिसकी वजह से ब्रह्मांड तेज़ी से फैल रहा है। आपेक्षिकता के सिद्धांत के अनुसार पदार्थ अपने चारों ओर के दिग्काल को वक्रित करता है। अतः तीनों कथन सही हैं।",
+      "en": "According to the general theory of relativity, when light passes through massive bodies like neutron stars or black holes, it is attracted towards them. Einstein believed that 'Dark Energy' is an unknown energy due to which the universe is expanding rapidly. According to the theory of relativity, matter warps the spacetime around it. Thus, all three statements are correct."
+    }
+  },
+  {
+    "id": 7,
+    "year": "2017",
+    "subject": "Physics",
+    "topic": "भौतिकी (Physics)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "OLED प्रदर्शन न्य प्लास्टिक अवस्तर पर संविरचित किये जा सकते हैं।",
+        "en": "OLED displays can be fabricated on flexible plastic substrates."
+      },
+      {
+        "id": 2,
+        "hi": "OLED के प्रयोग से, वस्त्र में अंतःस्थापित परिवेर्ष्यी प्रदर्शन (रोल-अप डिस्प्ले) बनाए जा सकते हैं।",
+        "en": "OLED can be used to fabricate roll-up displays embedded in clothing."
+      },
+      {
+        "id": 3,
+        "hi": "OLED के प्रयोग से, पारदर्शी प्रदर्शन संभव हैं।",
+        "en": "OLED allows transparent displays to be made."
+      }
+    ],
+    "question": {
+      "hi": "कार्बनिक प्रकाश उत्सर्जक डायोड (ऑर्गेनिक लाइट एमिटिंग डायोड/OLED) का उपयोग बहुत से साधनों में अंकीय प्रदर्शन (डिजिटल डिसप्ले) सज्जित करने के लिये किया जाता है। द्रव क्रिस्टल प्रदर्शनों की तुलना में OLED प्रदर्शन किस प्रकार लाभदायक हैं?\n1. OLED प्रदर्शन न्य प्लास्टिक अवस्तर पर संविरचित किये जा सकते हैं।\n2. OLED के प्रयोग से, वस्त्र में अंतःस्थापित परिवेर्ष्यी प्रदर्शन (रोल-अप डिस्प्ले) बनाए जा सकते हैं।\n3. OLED के प्रयोग से, पारदर्शी प्रदर्शन संभव हैं।\nनीचे दिये गये कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Organic Light Emitting Diodes (OLEDs) are used to create digital displays in many devices. How are OLED displays advantageous over liquid crystal displays?\n1. OLED displays can be fabricated on flexible plastic substrates.\n2. OLEDs can be used to fabricate roll-up displays embedded in clothing.\n3. OLEDs allow transparent displays to be made.\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "Only 1 and 3"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "Only 2"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "उपर्युक्त कथनों में से कोई भी सही नहीं है",
+        "en": "None of the statements given above is correct"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "ओलेडी डिस्प्ले लचीले प्लास्टिक सब्सट्रेट्स पर निर्मित किया जा सकता है, जिससे कपड़ों में अंतःस्थापित रोल अप डिस्प्ले का निर्माण संभव है। पारदर्शी ओलेडी उपकरण बनाने के लिए दोनों और पारदर्शी संपर्क का उपयोग करते हैं। अतः तीनों कथन सही हैं।",
+      "en": "OLED displays can be built on flexible plastic substrates, making roll-up displays embedded in clothes possible. Transparent OLED devices use transparent or semi-transparent contacts on both sides. Thus, all three statements are correct."
+    }
+  },
+  {
+    "id": 8,
+    "year": "2015",
+    "subject": "Physics",
+    "topic": "भौतिकी (Physics)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह विश्व का सबसे बड़ा बर्फ में एक घन किलोमीटर घेरे वाला, न्यूट्रिनो संलूपक (न्यूट्रिनो डिटेक्टोर) है।",
+        "en": "It is the world's largest neutrino detector encompassing a cubic kilometre of ice."
+      },
+      {
+        "id": 2,
+        "hi": "यह डार्क मैल (Dark matter) की खोज के लिये बनी शक्तिशाली दूरबीन है।",
+        "en": "It is a powerful telescope built to search for Dark matter."
+      },
+      {
+        "id": 3,
+        "hi": "यह बर्फ में गहराई में दबा हुआ है।",
+        "en": "It is buried deep in the ice."
+      }
+    ],
+    "question": {
+      "hi": "आधुनिक वैज्ञानिक अनुसंधान के संदर्भ में, हाल ही में समाचारों में आए दक्षिणी ध्रुव पर स्थित एक कण संलूपक (पार्टिकल डिटेक्टर) 'आइसक्यूब' (Ice cube) के बारे में निम्नलिखित कथनों पर विचार कीजिये:\n1. यह विश्व का सबसे बड़ा बर्फ में एक घन किलोमीटर घेरे वाला, न्यूट्रिनो संलूपक (न्यूट्रिनो डिटेक्टर) है।\n2. यह डार्क मैटर (Dark matter) की खोज के लिये बनी शक्तिशाली दूरबीन है।\n3. यह बर्फ में गहराई में दबा हुआ है।\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to modern scientific research, consider the following statements about 'IceCube', a particle detector located at the South Pole, which has been in the news recently:\n1. It is the world's largest neutrino detector encompassing a cubic kilometre of ice.\n2. It is a powerful telescope built to search for Dark matter.\n3. It is buried deep in the ice.\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "Only 1"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "Only 2 and 3"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "Only 1 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "आइसक्यूब दुनिया का सबसे बड़ा न्यूट्रिनो टेलीस्कोप है जिसे अंटार्कटिका की ठोस बर्फ (दक्षिणी ध्रुव) की गहराई में लगभग 2500 मीटर नीचे लगाया गया है। यह डार्क मैटर को खोजने का प्रभावी उपकरण है। चूँकि तीनों कथन सही हैं, अतः विकल्प (d) सही है।",
+      "en": "IceCube is the world's largest neutrino telescope installed about 2500 meters deep in the solid ice of Antarctica (South Pole). It is an effective tool to search for dark matter. Since all three statements are correct, option (d) is correct."
+    }
+  },
+  {
+    "id": 9,
+    "year": "2014",
+    "subject": "Physics",
+    "topic": "भौतिकी (Physics)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "'प्रकाशवोल्टीय प्रक्रिया' एक प्रौद्योगिकी है, जो कि प्रकाश के विद्युत में प्रत्यक्ष रूपांतरण द्वारा विद्युत जनन करती है, जबकि 'सौर तापीय प्रक्रिया' एक प्रौद्योगिकी है, जो सूर्य की किरणों का उपयोग ताप जनित करने के लिए करती है, जिसका आगे विद्युत जनन प्रक्रिया में उपयोग किया जाता है।",
+        "en": "'Photovoltaic process' is a technology that generates electricity by direct conversion of light to electricity, while 'solar thermal process' is a technology that uses the sun's rays to generate heat, which is further used in electricity generation process."
+      },
+      {
+        "id": 2,
+        "hi": "प्रकाशवोल्टीय प्रक्रिया प्रत्यावर्ती धारा (AC) का जनन करती है, जबकि सौर तापीय प्रक्रिया दिष्ट धारा (DC) का जनन करती है।",
+        "en": "The photovoltaic process generates alternating current (AC), while the solar thermal process generates direct current (DC)."
+      },
+      {
+        "id": 3,
+        "hi": "भारत के पास सौर तापीय प्रौद्योगिकी के लिए विनिर्माण आधार है, किंतु प्रकाशवोल्टीय प्रौद्योगिकी के लिए नहीं।",
+        "en": "India has a manufacturing base for solar thermal technology, but not for photovoltaic technology."
+      }
+    ],
+    "question": {
+      "hi": "सौर शक्ति उत्पादन के लिए प्रौद्योगिकियों के संदर्भ में निम्नलिखित कथनों पर विचार कीजिये:\n1. 'प्रकाशवोल्टीय प्रक्रिया' एक प्रौद्योगिकी है, जो कि प्रकाश के विद्युत में प्रत्यक्ष रूपांतरण द्वारा विद्युत जनन करती है, जबकि 'सौर तापीय प्रक्रिया' एक प्रौद्योगिकी है, जो सूर्य की किरणों का उपयोग ताप जनित करने के लिए करती है, जिसका आगे विद्युत जनन प्रक्रिया में उपयोग किया जाता है।\n2. प्रकाशवोल्टीय प्रक्रिया प्रत्यावर्ती धारा (AC) का जनन करती है, जबकि सौर तापीय प्रक्रिया दिष्ट धारा (DC) का जनन करती है।\n3. भारत के पास सौर तापीय प्रौद्योगिकी के लिए विनिर्माण आधार है, किंतु प्रकाशवोल्टीय प्रौद्योगिकी के लिए नहीं।\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to technologies for solar power production, consider the following statements:\n1. 'Photovoltaic process' is a technology that generates electricity by direct conversion of light to electricity, while 'solar thermal process' is a technology that uses the sun's rays to generate heat, which is further used in electricity generation process.\n2. The photovoltaic process generates alternating current (AC), while the solar thermal process generates direct current (DC).\n3. India has a manufacturing base for solar thermal technology, but not for photovoltaic technology.\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "Only 1"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "Only 2 and 3"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "कोई नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "प्रकाशवोल्टीय प्रक्रिया और सौर तापीय प्रक्रिया दोनों ही दिष्ट धारा (Direct Current) के रूप में विद्युत का उत्पादन करती हैं। भारत के पास सौर तापीय और प्रकाशवोल्टीय दोनों के विनिर्माण का आधार है। अतः केवल कथन 1 सही है।",
+      "en": "Both photovoltaic and solar thermal processes generate electricity in the form of Direct Current. India has a manufacturing base for both solar thermal and photovoltaic technologies. Thus, only statement 1 is correct."
+    }
+  },
+  {
+    "id": 10,
+    "year": "2013",
+    "subject": "Physics",
+    "topic": "भौतिकी (Physics)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "पहिया और धुरी के बीच संपर्क का वास्तविक क्षेत्र बढ़ जाता है।",
+        "en": "The actual area of contact between the wheel and the axle is increased."
+      },
+      {
+        "id": 2,
+        "hi": "पहिया और धुरी के बीच संपर्क का प्रभावी क्षेत्र बढ़ जाता है।",
+        "en": "The effective area of contact between the wheel and the axle is increased."
+      },
+      {
+        "id": 3,
+        "hi": "पहिया और धुरी के बीच संपर्क का प्रभावी क्षेत्र घट जाता है।",
+        "en": "The effective area of contact between the wheel and the axle is reduced."
+      }
+    ],
+    "question": {
+      "hi": "साइकिल और कारों में बॉल-बेयरिंग का प्रयोग होता है, क्योंकि\n(a) पहिया और धुरी के बीच संपर्क का वास्तविक क्षेत्र बढ़ जाता है।\n(b) पहिया और धुरी के बीच संपर्क का प्रभावी क्षेत्र बढ़ जाता है।\n(c) पहिया और धुरी के बीच संपर्क का प्रभावी क्षेत्र घट जाता है।\n(d) उपर्युक्त कथनों में से कोई भी सही नहीं है",
+      "en": "Ball bearings are used in bicycles and cars because\n(a) the actual area of contact between the wheel and axle is increased.\n(b) the effective area of contact between the wheel and axle is increased.\n(c) the effective area of contact between the wheel and axle is reduced.\n(d) none of the statements given above is correct"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल a",
+        "en": "a only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल b",
+        "en": "b only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल c",
+        "en": "c only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल d",
+        "en": "d only"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "बॉल बेयरिंग एक प्रकार का घूमने वाला अवयव होता है, जिसका किसी घूमने वाली वस्तु के घर्षण के स्तर को कम करने तथा उसके पहिये और धुरी के बीच संपर्क क्षेत्र घटाने के लिए उपयोग किया जाता है। अतः विकल्प (c) सही है।",
+      "en": "A ball bearing is a type of rolling element used to reduce the level of friction of a rotating object and to reduce the contact area between its wheel and axle. Therefore, option (c) is correct."
+    }
+  },
+  {
+    "id": 11,
+    "year": "2017",
+    "subject": "Physics",
+    "topic": "भौतिकी (Physics)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इवेंट होराइजन ब्लैक होल से संबंधित है।",
+        "en": "Event horizon is related to black hole."
+      },
+      {
+        "id": 2,
+        "hi": "सिंगुलैरिटी स्पेस टाइम में एक ऐसा स्थान है जहाँ खगोलीय पिंड का गुरुत्वीय क्षेत्र अनंत हो जाता है।",
+        "en": "Singularity is a place in space-time where the gravitational field of a celestial body becomes infinite."
+      },
+      {
+        "id": 3,
+        "hi": "स्ट्रिंग थ्योरी एकविमीय वस्तुओं के अंतरिक्ष में गमन को बताती है।",
+        "en": "String theory describes the movement of one-dimensional objects in space."
+      },
+      {
+        "id": 4,
+        "hi": "स्टैंडर्ड मॉडल पार्टिकल फिजिक्स का एक सिद्धांत है जो यूनीवर्स के चार फंडामेंटल फोर्सेज़ के बारे में चर्चा करता है।",
+        "en": "Standard model is a theory of particle physics that discusses the four fundamental forces of the universe."
+      }
+    ],
+    "question": {
+      "hi": "कभी-कभी समाचारों में 'इवेंट होराइजन', 'सिंगुलैरिटी', 'स्ट्रिंग थ्योरी' और 'स्टैंडर्ड मॉडल' जैसे शब्द, किस संदर्भ में आते हैं?",
+      "en": "Sometimes in the news, terms like 'Event Horizon', 'Singularity', 'String Theory' and 'Standard Model' are mentioned in the context of what?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ब्रह्मांड का प्रेक्षण और बोध",
+        "en": "Observation and understanding of the Universe"
+      },
+      {
+        "id": 12,
+        "hi": "सूर्य और चंद्र ग्रहणों का अध्ययन",
+        "en": "Study of Sun and Moon eclipses"
+      },
+      {
+        "id": "C",
+        "hi": "पृथ्वी की कक्षा में उपग्रहों का स्थापन",
+        "en": "Placement of satellites in the orbit of Earth"
+      },
+      {
+        "id": "D",
+        "hi": "पृथ्वी पर जीवित जीवों की उत्पत्ति और क्रमविकास",
+        "en": "Origin and evolution of living organisms on Earth"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "'इवेंट होराइजन' ब्लैक होल से संबंधित है। 'सिंगुलैरिटी' स्पेस टाइम में एक ऐसा स्थान है जहाँ खगोलीय पिंड का गुरुत्वीय क्षेत्र अनंत हो जाता है। 'स्ट्रिंग थ्योरी' एकविमीय वस्तुओं के अंतरिक्ष में गमन को बताती है। 'स्टैंडर्ड मॉडल' पार्टिकल फिजिक्स का सिद्धांत है जो ब्रह्मांड के चार मौलिक बलों की चर्चा करता है। अतः विकल्प (a) सही है।",
+      "en": "'Event horizon' is related to black hole. 'Singularity' is a place in space-time where the gravitational field of a celestial body becomes infinite. 'String theory' describes the movement of one-dimensional objects in space. 'Standard model' is a theory of particle physics. Thus, option (a) is correct."
+    }
+  },
+  {
+    "id": 12,
+    "year": "2013",
+    "subject": "Physics",
+    "topic": "भौतिकी (Physics)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "गोधूलि में सूर्य का आमाप",
+        "en": "Size of the sun at dusk"
+      },
+      {
+        "id": 2,
+        "hi": "ऊष्काल में सूर्य का रंग",
+        "en": "Color of the sun at dawn"
+      },
+      {
+        "id": 3,
+        "hi": "ऊष्काल में चंद्रमा का दिखना",
+        "en": "Appearance of the moon at dawn"
+      },
+      {
+        "id": 4,
+        "hi": "आकाश में तारों का टिमटिमाना",
+        "en": "Twinkling of stars in the sky"
+      },
+      {
+        "id": 5,
+        "hi": "आकाश में ध्रुवतारे का दिखना",
+        "en": "Appearance of the pole star in the sky"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित परिघटनाओं पर विचार कीजिये:\n1. गोधूलि में सूर्य का आमाप\n2. ऊष्काल में सूर्य का रंग\n3. ऊष्काल में चंद्रमा का दिखना\n4. आकाश में तारों का टिमटिमाना\n5. आकाश में ध्रुवतारे का दिखना\nउपर्युक्त में से कौन से दृष्टिभ्रम (Optical illusions) हैं?",
+      "en": "Consider the following phenomena:\n1. Size of the sun at dusk\n2. Color of the sun at dawn\n3. Appearance of the moon at dawn\n4. Twinkling of stars in the sky\n5. Appearance of the pole star in the sky\nWhich of the above are optical illusions?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "B",
+        "hi": "3, 4 और 5",
+        "en": "3, 4 and 5"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2 और 4",
+        "en": "1, 2 and 4"
+      },
+      {
+        "id": "D",
+        "hi": "2, 3 और 5",
+        "en": "2, 3 and 5"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "दृष्टिभ्रम एक ऐसी स्थिति है जिसमें कोई वस्तु प्रकाश के अपवर्तन के कारण अपने मूल स्वरूप से भिन्न दिखती है। इसके उदाहरणों में तारों का टिमटिमाना, गोधूलि में सूर्य का आमाप आदि शामिल हैं। अतः 1, 2 और 4 सही हैं।",
+      "en": "Optical illusions are situations where an object appears different from its original form due to the refraction of light, such as twinkling of stars, size of the sun at dusk, etc. Thus, 1, 2 and 4 are correct."
+    }
+  },
+  {
+    "id": 13,
+    "year": "2013",
+    "subject": "Physics",
+    "topic": "भौतिकी (Physics)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "गुरुत्व, चारों में सबसे प्रवल है।",
+        "en": "Gravity is the strongest of the four."
+      },
+      {
+        "id": 2,
+        "hi": "विद्युत-चुंबकत्व सिर्फ विद्युत आवेश वाले कणों पर क्रिया करता है।",
+        "en": "Electromagnetism acts only on particles with electric charge."
+      },
+      {
+        "id": 3,
+        "hi": "दुर्बल नाभिकीय बल विघ्नाभिकता का कारण है।",
+        "en": "Weak nuclear force is the cause of radioactivity."
+      },
+      {
+        "id": 4,
+        "hi": "प्रवल नाभिकीय बल परमाणु के केंद्रक में प्रोटॉनों और न्यूट्रॉनों को धारित किये रखता है।",
+        "en": "Strong nuclear force holds protons and neutrons together in the nucleus of an atom."
+      }
+    ],
+    "question": {
+      "hi": "प्रकृति के ज्ञात बलों को चार वर्गों में विभाजित किया जा सकता है, जैसे कि गुरुत्व, विद्युत-चुंबकत्व, दुर्बल नाभिकीय बल और प्रवल नाभिकीय बल। उनके संदर्भ में निम्नलिखित कथनों में से कौन-सा एक सही नहीं है?",
+      "en": "The known forces of nature can be divided into four classes, such as gravity, electromagnetism, weak nuclear force, and strong nuclear force. With reference to them, which one of the following statements is not correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "गुरुत्व, चारों में सबसे प्रवल है।",
+        "en": "Gravity is the strongest of the four."
+      },
+      {
+        "id": "B",
+        "hi": "विद्युत-चुंबकत्व सिर्फ विद्युत आवेश वाले कणों पर क्रिया करता है।",
+        "en": "Electromagnetism acts only on particles with electric charge."
+      },
+      {
+        "id": "C",
+        "hi": "दुर्बल नाभिकीय बल विघ्नाभिकता का कारण है।",
+        "en": "Weak nuclear force is the cause of radioactivity."
+      },
+      {
+        "id": "D",
+        "hi": "प्रवल नाभिकीय बल परमाणु के केंद्रक में प्रोटॉनों और न्यूट्रॉनों को धारित किये रखता है।",
+        "en": "Strong nuclear force holds protons and neutrons together in the nucleus of an atom."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "प्रकृति में ज्ञात चारों बलों (गुरुत्व, विद्युत-चुंबकत्व, दुर्बल नाभिकीय बल और प्रबल नाभिकीय बल) में से सबसे कमज़ोर गुरुत्व बल होता है, न कि सबसे प्रबल। अतः कथन (a) असत्य है।",
+      "en": "Among the four known forces in nature (gravity, electromagnetism, weak nuclear force, and strong nuclear force), the gravitational force is the weakest, not the strongest. Therefore, statement (a) is false."
+    }
+  },
+  {
+    "id": 14,
+    "year": "2013",
+    "subject": "Physics",
+    "topic": "भौतिकी (Physics)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "परिच्छेपण",
+        "en": "Dispersion"
+      },
+      {
+        "id": 2,
+        "hi": "अपवर्तन",
+        "en": "Refraction"
+      },
+      {
+        "id": 3,
+        "hi": "आंतरिक परावर्तन",
+        "en": "Total Internal Reflection"
+      }
+    ],
+    "question": {
+      "hi": "जब धूप वर्षा की बूंदों पर गिरती है तो इंद्रधनुष बनता है। इसके लिए निम्नलिखित में से कौन-सी भौतिक परिघटनाएँ ज़िम्मेदार हैं?\n1. परिच्छेपण\n2. अपवर्तन\n3. आंतरिक परावर्तन\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "When sunlight falls on raindrops, a rainbow is formed. Which of the following physical phenomena are responsible for this?\n1. Dispersion\n2. Refraction\n3. Total Internal Reflection\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "Only 1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "Only 2 and 3"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "Only 1 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "इंद्रधनुष एक प्रकाशीय एवं वायुमंडलीय परिघटना है जो वर्षा की बूंदों पर सूर्य के प्रकाश के पड़ने पर क्रमशः प्रकाश के अपवर्तन, पूर्ण आंतरिक परावर्तन एवं परिच्छेपण (डिसपर्सन) द्वारा श्वेत प्रकाश के सात रंगों में बँटने के कारण होती है। अतः तीनों कथन सही हैं।",
+      "en": "A rainbow is an optical and atmospheric phenomenon caused by the splitting of white light into seven colors through refraction, total internal reflection, and dispersion of sunlight on raindrops. Thus, all three statements are correct."
+    }
+  },
+  {
+    "id": 15,
+    "year": "2013",
+    "subject": "Physics",
+    "topic": "भौतिकी (Physics)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह हमें समझने में मदद करेगा कि मूल कणों में संहति क्यों होती है।",
+        "en": "It will help us understand why elementary particles have mass."
+      },
+      {
+        "id": 2,
+        "hi": "यह निकट भविष्य में हमें दो बिंदुओं के बीच के भौतिक अंतराल को पार किए बिना, एक बिंदु से दूसरे बिंदु तक पदार्थ स्थानांतरित करने की प्रौद्योगिकी विकसित करने में मदद करेगा।",
+        "en": "It will help us develop technology in the near future to transfer matter from one point to another without crossing the physical gap between two points."
+      },
+      {
+        "id": 3,
+        "hi": "यह हमें नाभिकीय विखंडन के लिए बेहतर ईंधन उत्पन्न करने में मदद करेगा।",
+        "en": "It will help us produce better fuel for nuclear fission."
+      }
+    ],
+    "question": {
+      "hi": "निकल अतीत में हिग्स बोसान कण के अस्तित्व के संसूपन के लिए किए गए प्रयास लगातार समाचारों में रहे हैं। इस कण की खोज का क्या महत्त्व है?\n1. यह हमें समझने में मदद करेगा कि मूल कणों में संहति क्यों होती है।\n2. यह निकट भविष्य में हमें दो बिंदुओं के बीच के भौतिक अंतराल को पार किए बिना, एक बिंदु से दूसरे बिंदु तक पदार्थ स्थानांतरित करने की प्रौद्योगिकी विकसित करने में मदद करेगा।\n3. यह हमें नाभिकीय विखंडन के लिए बेहतर ईंधन उत्पन्न करने में मदद करेगा।\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "In the recent past, efforts made for the detection of Higgs Boson particle have been constantly in the news. What is the significance of the discovery of this particle?\n1. It will help us understand why elementary particles have mass.\n2. It will help us develop technology in the near future to transfer matter from one point to another without crossing the physical gap between two points.\n3. It will help us produce better fuel for nuclear fission.\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "Only 1"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "Only 2 and 3"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "Only 1 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "हिग्स बोसान को अन्य कणों में द्रव्यमान व भार के लिए ज़िम्मेदार माना जाता है। ये कण हमें यह समझने में मदद करेंगे कि मूल कणों में द्रव्यमान कहाँ से आया है। अतः केवल कथन 1 सही है।",
+      "en": "Higgs Boson is considered responsible for mass and weight in other particles. These particles will help us understand where mass came from in elementary particles. Thus, only statement 1 is correct."
+    }
+  },
+  {
+    "id": 16,
+    "year": "2012",
+    "subject": "Physics",
+    "topic": "भौतिकी (Physics)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "प्रकृति में यूरेनियम की तुलना में थोरियम के कहीं अधिक भंडार हैं।",
+        "en": "There are much more reserves of thorium compared to uranium in nature."
+      },
+      {
+        "id": 2,
+        "hi": "उत्खनन-प्राप्त खनिज से मिलने वाली प्रति इकाई द्रव्यमान ऊर्जा की तुलना की जाए, तो थोरियम, प्राकृतिक यूरेनियम की तुलना में कहीं अधिक ऊर्जा उत्पन्न करता है।",
+        "en": "Compared to natural uranium, thorium produces much more energy per unit mass of the extracted mineral."
+      },
+      {
+        "id": 3,
+        "hi": "थोरियम, यूरेनियम की तुलना में कम हानिकारक अपशिष्ट उत्पादित करता है।",
+        "en": "Thorium produces less harmful waste compared to uranium."
+      }
+    ],
+    "question": {
+      "hi": "कुछ लोगों का सोचना है कि तेज़ी से बढ़ रही ऊर्जा की ज़रूरत पूरी करने के लिए भारत को थोरियम को नाभिकीय ऊर्जा के भविष्य के ईंधन के रूप में विकसित करने के लिए शोध और विकास करना चाहिए। इस संदर्भ में थोरियम, यूरेनियम की तुलना में कैसे अधिक लाभदायक है?\n1. प्रकृति में यूरेनियम की तुलना में थोरियम के कहीं अधिक भंडार हैं।\n2. उत्खनन-प्राप्त खनिज से मिलने वाली प्रति इकाई द्रव्यमान ऊर्जा की तुलना की जाए, तो थोरियम, प्राकृतिक यूरेनियम की तुलना में कहीं अधिक ऊर्जा उत्पन्न करता है।\n3. थोरियम, यूरेनियम की तुलना में कम हानिकारक अपशिष्ट उत्पादित करता है।\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Some people think that to meet the rapidly growing energy needs, India should research and develop thorium as a future fuel for nuclear energy. In this context, how is thorium more advantageous than uranium?\n1. There are much more reserves of thorium compared to uranium in nature.\n2. Compared to natural uranium, thorium produces much more energy per unit mass of extracted mineral.\n3. Thorium produces less harmful waste compared to uranium.\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "Only 1"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "Only 2 and 3"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "Only 1 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "थोरियम प्रकृति में यूरेनियम की अपेक्षा लगभग तीन से चार गुना अधिक मात्रा में पाया जाता है। यह यूरेनियम की अपेक्षा अधिक मात्रा में ऊर्जा प्रदान करता है और कम हानिकारक पदार्थों का निष्कासन करता है। अतः तीनों कथन सही हैं।",
+      "en": "Thorium is found in nature in about three to four times greater quantity than uranium. It provides more energy than uranium and emits less harmful substances. Thus, all three statements are correct."
+    }
+  },
+  {
+    "id": 17,
+    "year": "2012",
+    "subject": "Physics",
+    "topic": "भौतिकी (Physics)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कैरोसिन दीप का उपयोग मुश्किल हो जाता।",
+        "en": "Using kerosene lamp would become difficult."
+      },
+      {
+        "id": 2,
+        "hi": "कोई मृदु पेय का उपभोग करने के लिए स्ट्रॉ का उपयोग नहीं कर पाता।",
+        "en": "No one could use a straw to consume a soft drink."
+      },
+      {
+        "id": 3,
+        "hi": "स्याही सोख-पत्र काम करने में विफल रहता।",
+        "en": "Ink blotting paper would fail to work."
+      },
+      {
+        "id": 4,
+        "hi": "बड़े पेड़, जिन्हें हम अपने चारों ओर देखते हैं, पृथ्वी पर नहीं उगते।",
+        "en": "Large trees, which we see around us, would not grow on Earth."
+      }
+    ],
+    "question": {
+      "hi": "यदि केशिकत्व (Capillaries) की परिघटना नहीं होती, तो\n1. कैरोसिन दीप का उपयोग मुश्किल हो जाता।\n2. कोई मृदु पेय का उपभोग करने के लिए स्ट्रॉ का उपयोग नहीं कर पाता।\n3. स्याही सोख-पत्र काम करने में विफल रहता।\n4. बड़े पेड़, जिन्हें हम अपने चारों ओर देखते हैं, पृथ्वी पर नहीं उगते।\nउपर्युक्त में से कौन से कथन सही हैं?",
+      "en": "If the phenomenon of capillarity did not exist,\n1. Using a kerosene lamp would become difficult.\n2. No one could use a straw to consume a soft drink.\n3. Ink blotting paper would fail to work.\n4. Large trees, which we see around us, would not grow on Earth.\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "Only 1, 2 and 3"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1, 3 और 4",
+        "en": "Only 1, 3 and 4"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 4",
+        "en": "Only 2 and 4"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "केशिकत्व वह परिघटना है जिसके कारण केशनली में द्रव ऊपर चढ़ता है और नीचे उतरता है। केरोसिन लैंप की बत्ती में तेल केशिकत्व के कारण ही चढ़ता है, स्याही सोख-पत्र और पेड़ों में पानी का ऊपर चढ़ना भी केशिकत्व पर आधारित है। स्ट्रॉ का कार्य वायुमंडलीय दबाव पर आधारित होता है। अतः कथन 1, 3 और 4 सही हैं।",
+      "en": "Capillarity is the phenomenon due to which liquid rises or falls in a capillary. Oil rises in a kerosene lamp wick due to capillarity, and ink blotting paper and water rise in trees also based on capillarity. The functioning of a straw is based on atmospheric pressure. Thus, statements 1, 3 and 4 are correct."
+    }
+  }
+]
