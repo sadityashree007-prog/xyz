@@ -1,0 +1,3210 @@
+[
+  {
+    "id": 1,
+    "year": "2025",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "28वें संयुक्त राष्ट्र जलवायु परिवर्तन सम्मेलन (COP28) में भारत ने 'जलवायु और स्वास्थ्य विषयक घोषणा' पर हस्ताक्षर नहीं किये।",
+        "en": "At the 28th UN Climate Change Conference (COP28), India did not sign the 'Declaration on Climate and Health'."
+      },
+      {
+        "id": 2,
+        "hi": "COP28 जलवायु और स्वास्थ्य विषयक घोषणा एक बाध्यकर घोषणा है और इस पर हस्ताक्षर कर देने पर स्वास्थ्य सेक्टर का विर्काबनन करना अधिदेशात्मक हो जाता है।",
+        "en": "The COP28 Declaration on Climate and Health is a legally binding declaration and signing it makes it mandatory to decarbonise the health sector."
+      },
+      {
+        "id": 3,
+        "hi": "यदि भारत के स्वास्थ्य सेक्टर का विर्काबनन किया जाए तो इसकी स्वास्थ्य-देखभाल प्रणाली के लचीलेपन पर संकट आ सकता है।",
+        "en": "If India's health sector is decarbonised, it could threaten the resilience of its healthcare system."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों के बारे में, निम्नलिखित में से कौन-सा एक सही है?",
+      "en": "Consider the following statements:\nWhich one of the following is correct in respect of the above statements?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कथन II और कथन III दोनों सही हैं तथा वे दोनों कथन I की व्याख्या करते हैं",
+        "en": "Both Statement II and Statement III are correct and they both explain Statement I"
+      },
+      {
+        "id": "B",
+        "hi": "कथन II और कथन III दोनों सही हैं, किंतु उनमें से केवल एक, कथन I की व्याख्या करता है",
+        "en": "Both Statement II and Statement III are correct, but only one of them explains Statement I"
+      },
+      {
+        "id": "C",
+        "hi": "कथन II और कथन III में से केवल एक सही है तथा वह कथन I की व्याख्या करता है",
+        "en": "Only one among Statement II and Statement III is correct and it explains Statement I"
+      },
+      {
+        "id": "D",
+        "hi": "न तो कथन II और न ही कथन III सही है",
+        "en": "Neither Statement II nor Statement III is correct"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "वर्ष 2023 में दुबई में आयोजित 28वें संयुक्त राष्ट्र जलवायु परिवर्तन सम्मेलन (COP28) में भारत ने जलवायु और स्वास्थ्य पर COP28 UAE घोषणा पत्र पर हस्ताक्षर करने से इनकार कर दिया। अतः कथन I सही है। COP28 में जलवायु और स्वास्थ्य पर घोषणा एक गैर-बाध्यकारी घोषणा है। यह हस्ताक्षर करने वाले देशों के लिये स्वास्थ्य क्षेत्र को डीकार्बोनाइज करना कानूनी बाध्यता नहीं लगाता है या अनिवार्य नहीं बनाता है। अतः कथन II सही नहीं है। भारत ने हस्ताक्षर न करने का मुख्य कारण यह बताया है कि स्वास्थ्य क्षेत्र में शीतलन (कूलिंग) अनुप्रयोगों से ग्रीनहाउस गैस उत्सर्जन को कम करना अल्पकालिक रूप से व्यावहारिक रूप से संभव नहीं है। भारत ने चिंता जताई है कि तत्काल डीकार्बोनाइजेशन (कार्बन उत्सर्जन में कमी) का दबाव देश की स्वास्थ्य प्रणाली का लचीलापन और कार्यक्षमता को प्रभावित कर सकता है। अतः कथन III सही है और यह कथन I की सही व्याख्या करता है। अतः विकल्प (c) सही है।",
+      "en": "At the 28th UN Climate Change Conference (COP28) held in Dubai in the year 2023, India refused to sign the COP28 UAE Declaration on Climate and Health. Hence, Statement I is correct. The Declaration on Climate and Health at COP28 is a non-binding declaration. It does not impose a legal obligation or make it mandatory for the signatory countries to decarbonise the health sector. Hence, Statement II is incorrect. The main reason cited by India for not signing is that it is not practically feasible in the short term to reduce greenhouse gas emissions from cooling applications in the health sector. India has expressed concern that the pressure of immediate decarbonisation could affect the resilience and efficiency of the country's health system. Hence, Statement III is correct and it explains Statement I. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 2,
+    "year": "2025",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "जलवायु परिवर्तन विषयक पेरिस समझौते के अनुच्छेद-6 की चर्चा सतत् विकास और जलवायु परिवर्तन विषयक वैश्विक चर्चाओं में बारंबार आती है।",
+        "en": "Article 6 of the Paris Agreement on climate change frequently appears in global discussions on sustainable development and climate change."
+      },
+      {
+        "id": 2,
+        "hi": "जलवायु परिवर्तन विषयक पेरिस समझौते का अनुच्छेद-6, कार्बन बाज़ारों के सिद्धांतों को निर्दिष्ट करता है।",
+        "en": "Article 6 of the Paris Agreement on climate change specifies the principles of carbon markets."
+      },
+      {
+        "id": 3,
+        "hi": "जलवायु परिवर्तन विषयक पेरिस समझौते के अनुच्छेद-6 का आशय देशों को अपने जलवायु लक्ष्य प्राप्त हेतु उनके बीच गैर-बाज़ारी रणनीतियों का संवर्धन करना है।",
+        "en": "The intent of Article 6 of the Paris Agreement on climate change is to promote non-market strategies among countries to achieve their climate targets."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों के बारे में, निम्नलिखित में से कौन-सा एक सही है?",
+      "en": "Consider the following statements:\nWhich one of the following is correct in respect of the above statements?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कथन II और कथन III दोनों सही हैं तथा वे दोनों कथन I की व्याख्या करते हैं",
+        "en": "Both Statement II and Statement III are correct and they both explain Statement I"
+      },
+      {
+        "id": "B",
+        "hi": "कथन II और कथन III दोनों सही हैं, किंतु उनमें से केवल एक, कथन I की व्याख्या करता है",
+        "en": "Both Statement II and Statement III are correct, but only one of them explains Statement I"
+      },
+      {
+        "id": "C",
+        "hi": "कथन II और कथन III में से केवल एक सही है तथा वह कथन I की व्याख्या करता है",
+        "en": "Only one among Statement II and Statement III is correct and it explains Statement I"
+      },
+      {
+        "id": "D",
+        "hi": "न तो कथन II और न ही कथन III सही है",
+        "en": "Neither Statement II nor Statement III is correct"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "पेरिस समझौते का अनुच्छेद-6 अंतर्राष्ट्रीय जलवायु वार्ताओं में सबसे जटिल और अक्सर चर्चा में रहने वाले तत्त्वों में से एक है। यह सतत् विकास और जलवायु परिवर्तन शमन पर अंतर्राष्ट्रीय सहयोग से संबंधित चर्चा के केंद्र में है। अतः कथन I सही है। यह विशेष रूप से अनुच्छेद-6.2 और 6.4 का संदर्भ देता है, जो कार्बन बाज़ारों के सिद्धांतों को निर्धारित करते हैं। अतः कथन II सही है। अनुच्छेद-6.8 गैर-बाज़ार दृष्टिकोण को प्रोत्साहित देता है। इन दृष्टिकोणों में क्षमता निर्माण, प्रौद्योगिकी हस्तांतरण, नीति समन्वय और वित्तीय सहायता जैसी पहल शामिल हैं जो देशों को सहयोग के माध्यम से जलवायु लक्ष्यों को प्राप्त करने में सक्षम बनाती हैं, जिसमें कार्बन क्रेडिट का व्यापार शामिल नहीं है। अतः कथन III सही है। चूँकि कथन II तथा कथन III दोनों ही अनुच्छेद-6 के विभिन्न घटकों का सटीक वर्णन करते हैं और दोनों ही कारण हैं कि अनुच्छेद-6 वैश्विक जलवायु मंचों पर अत्यधिक चर्चा में हैं, ये दोनों ही कथन I की व्याख्या करते हैं। अतः विकल्प (a) सही है।",
+      "en": "Article 6 of the Paris Agreement is one of the most complex and frequently discussed elements in international climate negotiations. It is at the center of the discussion related to international cooperation on sustainable development and climate change mitigation. Hence, statement I is correct. It specifically refers to Articles 6.2 and 6.4, which lay down the principles of carbon markets. Hence, statement II is correct. Article 6.8 encourages non-market approaches. These approaches include initiatives such as capacity building, technology transfer, policy coordination, and financial assistance that enable countries to achieve climate goals through cooperation, which does not involve trading of carbon credits. Hence, statement III is correct. Since both statement II and statement III accurately describe different components of Article 6 and both are reasons why Article 6 is highly discussed in global climate forums, both of them explain statement I. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 3,
+    "year": "2025",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अध्ययनों से सूचित होता है कि सीमेंट उद्योग से उत्सर्जित कार्बन डाइऑक्साइड का वैश्विक कार्बन उत्सर्जन में उसके 5% से अधिक का योगदान है।",
+        "en": "Studies indicate that carbon dioxide emitted from the cement industry contributes to more than 5% of global carbon emissions."
+      },
+      {
+        "id": 2,
+        "hi": "सीमेंट का निर्माण करते समय चूना-पत्थर में सिलिका-युक्त मृत्तिका मिलाई जाती है।",
+        "en": "While manufacturing cement, silica-rich clay is added to limestone."
+      },
+      {
+        "id": 3,
+        "hi": "सीमेंट निर्माण हेतु क्लिंकर उत्पादन के दौरान चूना-पत्थर, चूना में बदल जाता है।",
+        "en": "During clinker production for cement manufacturing, limestone gets converted into lime."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों के बारे में, निम्नलिखित में से कौन-सा एक सही है?",
+      "en": "Consider the following statements:\nWhich one of the following is correct in respect of the above statements?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कथन II और कथन III दोनों सही हैं तथा वे दोनों कथन I की व्याख्या करते हैं",
+        "en": "Both Statement II and Statement III are correct and they both explain Statement I"
+      },
+      {
+        "id": "B",
+        "hi": "कथन II और कथन III दोनों सही हैं किंतु उनमें से केवल एक, कथन I की व्याख्या करता है",
+        "en": "Both Statement II and Statement III are correct but only one of them explains Statement I"
+      },
+      {
+        "id": "C",
+        "hi": "कथन II और कथन III में से केवल एक सही है तथा वह कथन I की व्याख्या करता है",
+        "en": "Only one among Statement II and Statement III is correct and it explains Statement I"
+      },
+      {
+        "id": "D",
+        "hi": "न तो कथन II और न ही कथन III सही है",
+        "en": "Neither Statement II nor Statement III is correct"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "विश्व आर्थिक मंच के अनुसार, सीमेंट उद्योग वैश्विक CO2 उत्सर्जन के लगभग 8% के लिये ज़िम्मेदार है। इन उत्सर्जनों के दो प्रमुख स्रोत चूना पत्थर का कैल्सीनेशन और सीमेंट उत्पादन के दौरान जीवाश्म ईंधन का दहन है। अतः कथन I सही है। सीमेंट के उत्पादन में चूना पत्थर और मिट्टी या शेल (सिलिका, एल्यूमिना और लोहे से भरपूर) जैसे कच्चे माल को पीसकर मिलाया जाता है। इन सामग्रियों को भट्टियों में गर्म करके क्लिंकर बनाया जाता है, जो सीमेंट का प्रमुख मध्यवर्ती उत्पाद है। अतः कथन II सही है। कार्बन डाइऑक्साइड (CO2) क्लिंकर के उत्पादन में उपयोग की जाने वाली रासायनिक रूपांतरण प्रक्रिया का एक उपोत्पाद है, जिसमें चूना पत्थर (CaCO3) को चूने (CaO) में परिवर्तित किया जाता है। CaCO3 → CaO + CO2। अतः कथन III सही है। इसलिये तीनों कथन सही हैं और कथन II और III यह समझाने में सहायता प्रदान करते हैं कि सीमेंट उद्योग CO2 उत्सर्जन का एक महत्त्वपूर्ण स्रोत क्यों है। अतः विकल्प (a) सही है।",
+      "en": "According to the World Economic Forum, the cement industry is responsible for about 8% of global CO2 emissions. The two main sources of these emissions are the calcination of limestone and the combustion of fossil fuels during cement production. Hence, statement I is correct. In the production of cement, raw materials such as limestone and clay or shale (rich in silica, alumina and iron) are ground and mixed. These materials are heated in kilns to form clinker, which is the main intermediate product of cement. Hence, statement II is correct. Carbon dioxide (CO2) is a byproduct of the chemical conversion process used in the production of clinker, wherein limestone (CaCO3) is converted into lime (CaO). CaCO3 → CaO + CO2. Hence, statement III is correct. Therefore, all three statements are correct and statements II and III help explain why the cement industry is a significant source of CO2 emissions. Thus, option (a) is correct."
+    }
+  },
+  {
+    "id": 4,
+    "year": "2025",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सक्रियित कार्बन बहिःस्रावी धाराओं में से प्रदूषकों को हटाने और विभिन्न उद्योगों से आने वाले संदूषकों के उपचारण हेतु एक अच्छा और आकर्षक साधन है।",
+        "en": "Activated carbon is a good and attractive medium for removing pollutants from effluent streams and for the treatment of contaminants coming from various industries."
+      },
+      {
+        "id": 2,
+        "hi": "सक्रियित कार्बन का एक वृहत् पृष्ठ क्षेत्रफल होता है और उसमें भारी धातुओं को अधिशोषित करने की दमदार शक्यता है।",
+        "en": "Activated carbon has a large surface area and it has a strong potential to adsorb heavy metals."
+      },
+      {
+        "id": 3,
+        "hi": "सक्रियित कार्बन, उच्च कार्बन अंश वाले वातावरणीय अपशिष्टों से भी आसानी से संश्लेषित किया जा सकता है।",
+        "en": "Activated carbon can also be easily synthesized from environmental wastes having high carbon content."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों के बारे में निम्नलिखित में से कौन-सा एक सही है?",
+      "en": "Consider the following statements:\nWhich one of the following is correct in respect of the above statements?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कथन II और कथन III दोनों सही हैं तथा वे दोनों कथन I की व्याख्या करते हैं",
+        "en": "Both Statement II and Statement III are correct and they both explain Statement I"
+      },
+      {
+        "id": "B",
+        "hi": "कथन II और कथन III दोनों सही हैं, किंतु उनमें से केवल एक कथन I की व्याख्या करता है",
+        "en": "Both Statement II and Statement III are correct, but only one of them explains Statement I"
+      },
+      {
+        "id": "C",
+        "hi": "कथन II और कथन III में से केवल एक सही है तथा वह कथन I की व्याख्या करता है",
+        "en": "Only one among Statement II and Statement III is correct and it explains Statement I"
+      },
+      {
+        "id": "D",
+        "hi": "न तो कथन II और न ही कथन III सही है",
+        "en": "Neither Statement II nor Statement III is correct"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "सक्रियित कार्बन (Activated Carbon) विभिन्न प्रकार की कार्बनयुक्त सामग्रियों से बना होता है, जिसे इसकी उच्च पारगम्यता (porosity) और विशाल सतही क्षेत्रफल के आधार पर पहचाना जाता है। इसके कारण इसका उपयोग अपशिष्ट जल उपचार और प्रदूषकों की पृथक्करण प्रक्रिया आदि में किया जाता है। अतः कथन I सही है। सक्रियित कार्बन में भारी धातुओं को अवशोषित (adsorb) करने की उच्च क्षमता होती है, जो इसके विशाल सतही क्षेत्रफल, सूक्ष्म छिद्रों की उपस्थिति के कारण संभव होती है। अतः कथन II भी सही है। सक्रियित कार्बन का उत्पादन ऐसे पर्यावरणीय अपशिष्टों से किया जाता है, जिनमें कार्बन की मात्रा अधिक होती है। अतः कथन III भी सही है। कथन I के अनुसार, सक्रियित कार्बन प्रदूषकों को हटाने के लिये एक प्रभावी माध्यम है। कथन II इसकी प्रभावशीलता (विशाल सतह क्षेत्र) को स्पष्ट करता है, जबकि कथन III इसकी सुलभता (अपशिष्ट से बनाया जाना) को स्पष्ट करता है। दोनों कथन मिलकर कथन I को उचित ठहराते हैं। अतः विकल्प (a) सही है।",
+      "en": "Activated Carbon is made of various types of carbonaceous materials, which is recognized by its high porosity and large surface area. Due to this, it is used in wastewater treatment and pollutant separation processes. Hence, Statement I is correct. Activated carbon has a high capacity to adsorb heavy metals, which is possible due to its large surface area and the presence of micro-pores. Hence, Statement II is also correct. Activated carbon is produced from environmental wastes that have a high carbon content. Hence, Statement III is also correct. According to Statement I, activated carbon is an effective medium for removing pollutants. Statement II explains its effectiveness (large surface area), while Statement III explains its accessibility (made from waste). Both statements together justify Statement I. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 5,
+    "year": "2024",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "पर्यावरण संरक्षण एजेंसी (EPA) के अनुसार, निम्नलिखित में से कौन-सा, सल्फर डाइऑक्साइड उत्सर्जनों का सबसे बड़ा स्रोत है?",
+      "en": "According to the Environmental Protection Agency (EPA), which of the following is the largest source of sulphur dioxide emissions?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "जीवाश्म ईंधनों का उपयोग करने वाले रेल इंजन (लोकोमोटिव)",
+        "en": "Locomotives using fossil fuels"
+      },
+      {
+        "id": "B",
+        "hi": "जीवाश्म ईंधनों का उपयोग करने वाले जहाज",
+        "en": "Ships using fossil fuels"
+      },
+      {
+        "id": "C",
+        "hi": "अयस्कों से धातुओं का निष्कर्षण",
+        "en": "Extraction of metals from ores"
+      },
+      {
+        "id": "D",
+        "hi": "जीवाश्म ईंधनों का उपयोग करने वाले विद्युत संयंत्र",
+        "en": "Power plants using fossil fuels"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "अमेरिकी पर्यावरण संरक्षण एजेंसी (US EPA) के अनुसार, सल्फर डाइऑक्साइड (SO₂) उत्सर्जनों का सबसे बड़ा स्रोत जीवाश्म ईंधनों, विशेषकर कोयला और तेल, के दहन से चलने वाले विद्युत संयंत्र (Power Plants) हैं। अमेरिकी पर्यावरण संरक्षण एजेंसी की आधिकारिक वेबसाइट 'Sulfur Dioxide Basics' में स्पष्ट रूप से उल्लेख किया गया है कि वायुमंडल में SO₂ का सबसे बड़ा स्रोत बिजली संयंत्रों और अन्य औद्योगिक सुविधाओं द्वारा जीवाश्म ईंधनों का जलाना है। अतः विकल्प (d) सही है।",
+      "en": "According to the US Environmental Protection Agency (US EPA), the largest source of sulphur dioxide (SO₂) emissions is power plants running on the combustion of fossil fuels, especially coal and oil. The official website of the US Environmental Protection Agency 'Sulfur Dioxide Basics' clearly mentions that the largest source of SO₂ in the atmosphere is the burning of fossil fuels by power plants and other industrial facilities. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 6,
+    "year": "2024",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "PFAS पेयजल, खाद्य और खाद्य पैकेजिंग सामग्रियों में व्यापक रूप से पाए जाते हैं।",
+        "en": "PFAS are widely found in drinking water, food and food packaging materials."
+      },
+      {
+        "id": 2,
+        "hi": "PFAS पर्यावरण में आसानी से निम्नीकृत (डिग्रेडेड) नहीं होते हैं।",
+        "en": "PFAS are not easily degraded in the environment."
+      },
+      {
+        "id": 3,
+        "hi": "PFAS के लगातार संपर्क के परिणामस्वरूप जंतुओं के शरीर में जैवसंचय हो सकता है।",
+        "en": "Continuous exposure to PFAS can result in bioaccumulation in animal bodies."
+      }
+    ],
+    "question": {
+      "hi": "कई उपभोक्ता उत्पादों के निर्माण के लिये प्रयुक्त होने वाले परफ्लुओरोऐल्किल और पॉलीफ्लुओरोऐल्किल पदार्थों (PFAS) के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "en": "With reference to Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS) used in the manufacture of many consumer products, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "परफ्लुओरोऐल्किल और पॉलीफ्लुओरोऐल्किल (PFAS) ऐसे मानव निर्मित रसायन हैं जो ग्रीस, तेल, जल तथा ऊष्मा के प्रतिरोधक हैं। इनका पहली बार उपयोग 1940 के दशक में किया गया था और अब ये दाग-धब्बे तथा जल प्रतिरोधी कपड़ों एवं कालीनों, सफाई उत्पादों व अग्निशमन फोम सहित सैकड़ों उपभोक्ता उत्पादों में प्रयुक्त होते हैं। PFAS पेयजल, खाद्य पदार्थों, खाद्य पैकेजिंग सामग्रियों एवं अन्य उपभोक्ता उत्पादों में व्यापक रूप से पाए जाते हैं। अतः कथन 1 सही है। रासायनिक रूप से, PFAS बहुत भिन्न हो सकते हैं। हालाँकि सभी में कार्बन-फ्लोरीन बंध होता है, जो बहुत मज़बूत होता है जिसके कारण ये आसानी से निम्नीकृत (डिग्रेडेड) नहीं होते हैं। अतः कथन 2 सही है। मनुष्य एवं अन्य जंतु विभिन्न तरीकों से विभिन्न PFAS रासायनिक पदार्थों के संपर्क में आ सकते हैं। यह एक ऐसी प्रक्रिया है जिससे शरीर में जैवसंचय होता है। अतः कथन 3 सही है। अतः विकल्प (d) सही है।",
+      "en": "Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS) are man-made chemicals that are resistant to grease, oil, water, and heat. They were first used in the 1940s and are now used in hundreds of consumer products including stain- and water-resistant fabrics and carpets, cleaning products, and firefighting foams. PFAS are widely found in drinking water, food, food packaging materials and other consumer products. Hence, statement 1 is correct. Chemically, PFAS can be very different. However, all contain a carbon-fluorine bond, which is very strong due to which they do not degrade easily. Hence, statement 2 is correct. Humans and other animals can be exposed to various PFAS chemical substances in various ways. This is a process that leads to bioaccumulation in the body. Hence, statement 3 is correct. Thus, option (d) is correct."
+    }
+  },
+  {
+    "id": 7,
+    "year": "2024",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित क्षेत्रों में से एक में विश्व की सबसे बड़ी उष्णकटिबंधीय पीट-भूमि है, जो जीवाश्म ईंधन से होने वाले लगभग तीन वर्ष के वैश्विक कार्बन उत्सर्जन को धारण करता है; और जिसके संभाव्य विनाश से वैश्विक जलवायु पर प्रतिकूल प्रभाव पड़ सकता है। निम्नलिखित में से कौन-सा उस क्षेत्र को द्योतित करता है?",
+      "en": "One of the following regions contains the world's largest tropical peatland, which holds about three years' worth of global carbon emissions from fossil fuels; and the potential destruction of which could adversely affect the global climate. Which one of the following indicates that region?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अमेज़ॅन बेसिन",
+        "en": "Amazon Basin"
+      },
+      {
+        "id": "B",
+        "hi": "कांगो बेसिन",
+        "en": "Congo Basin"
+      },
+      {
+        "id": "C",
+        "hi": "किकोरी बेसिन",
+        "en": "Kikori Basin"
+      },
+      {
+        "id": "D",
+        "hi": "रियो डे ला प्लाटा बेसिन",
+        "en": "Rio de la Plata Basin"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कांगो बेसिन विश्व की सबसे बड़ी उष्णकटिबंधीय पीट-भूमि का स्थल है। कांगो बेसिन के पीट दलदली वन में लगभग 29 बिलियन टन कार्बन संग्रहण रहता है- जो वैश्विक ग्रीनहाउस गैस उत्सर्जन के तीन वर्ष के बराबर है- जबकि इस पूरे बेसिन में प्रतिवर्ष लगभग 1.5 बिलियन टन कार्बन डाइऑक्साइड का अवशोषण होता है। यह बेसिन छह देशों में विस्तारित है- कैमरून, मध्य अफ्रीकी गणराज्य, कांगो लोकतांत्रिक गणराज्य, कांगो, इक्वेटोरियल गिनी और गैबॉन। अतः विकल्प (b) सही है।",
+      "en": "The Congo Basin is the site of the world's largest tropical peatland. The peat swamp forest of the Congo Basin stores about 29 billion tons of carbon - equivalent to three years of global greenhouse gas emissions - while this entire basin absorbs about 1.5 billion tons of carbon dioxide per year. This basin extends into six countries - Cameroon, Central African Republic, Democratic Republic of the Congo, Congo, Equatorial Guinea and Gabon. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 8,
+    "year": "2023",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "ऐरोसॉल",
+        "en": "Aerosols"
+      },
+      {
+        "id": 2,
+        "hi": "फोम एजेंट",
+        "en": "Foam agents"
+      },
+      {
+        "id": 3,
+        "hi": "अग्निमंदक",
+        "en": "Fire retardants"
+      },
+      {
+        "id": 4,
+        "hi": "स्नेहक (लूब्रिकेंट)",
+        "en": "Lubricants"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पर विचार कीजिये:\nउपर्युक्त में से कितनों को बनाने में हाइड्रोफ्लोरोकार्बन प्रयुक्त होते हैं?",
+      "en": "Consider the following:\nIn making how many of the above are hydrofluorocarbons used?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "केवल तीन",
+        "en": "Only three"
+      },
+      {
+        "id": "D",
+        "hi": "सभी चार",
+        "en": "All four"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "हाइड्रोफ्लोरोकार्बन ऐसे कृत्रिम रसायन हैं, जिनका निर्माण हाइड्रोजन, फ्लोरीन और कार्बन तत्त्वों से होता है। इनका प्रयोग मुख्य रूप से CFC और HCFC के स्थान पर किया जाता है। एयरोसोल में प्रोपेन, ब्यूटेन और आइसोब्यूटेन जैसे हाइड्रोकार्बन प्रणोदकों का उपयोग किया जाता है। फोम निर्माण में भी हाइड्रोकार्बन आधारित सर्फेक्टेंट का प्रयोग किया जाता है, विशेषकर अग्निशमन फोम में। हाइड्रोकार्बन आधारित अग्निरोधी सीमित रूप में ही उपयोग किये जाते हैं। HFC का प्रयोग सामान्यतः स्नेहक के रूप में नहीं किया जाता। स्नेहक प्रायः तेल या ग्रीस होते हैं। अतः केवल 3 विकल्प सही हैं, विकल्प (c) सही है।",
+      "en": "Hydrofluorocarbons are artificial chemicals made of hydrogen, fluorine and carbon elements. They are mainly used in place of CFCs and HCFCs. Hydrocarbon propellants like propane, butane and isobutane are used in aerosols. Hydrocarbon-based surfactants are also used in foam manufacturing, especially in firefighting foams. Hydrocarbon-based fire retardants are used to a limited extent. HFCs are generally not used as lubricants. Lubricants are usually oil or grease. Thus, only 3 options are correct, option (c) is correct."
+    }
+  },
+  {
+    "id": 9,
+    "year": "2023",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "ऐसी संभावना है कि कार्बन बाज़ार, जलवायु परिवर्तन से निपटने का एक सबसे व्यापक साधन हो जाए।",
+        "en": "Carbon markets are likely to be one of the most widespread tools in the fight against climate change."
+      },
+      {
+        "id": 2,
+        "hi": "कार्बन बाज़ार संसाधनों को प्राइवेट सेक्टर से राज्य को हस्तांतरित कर देते हैं।",
+        "en": "Carbon markets transfer resources from the private sector to the State."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों के बारे में, निम्नलिखित में से कौन-सा एक सही है?",
+      "en": "Consider the following statements:\nWhich one of the following is correct in respect of the above statements?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कथन-I और कथन-II दोनों सही हैं तथा कथन-II, कथन-I की सही व्याख्या है।",
+        "en": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I."
+      },
+      {
+        "id": "B",
+        "hi": "कथन-I और कथन-II दोनों सही हैं तथा कथन-II, कथन-I की सही व्याख्या नहीं है।",
+        "en": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I."
+      },
+      {
+        "id": "C",
+        "hi": "कथन-I सही है किंतु कथन-II गलत है।",
+        "en": "Statement-I is correct but Statement-II is incorrect."
+      },
+      {
+        "id": "D",
+        "hi": "कथन-I गलत है किंतु कथन-II सही है।",
+        "en": "Statement-I is incorrect but Statement-II is correct."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कार्बन बाज़ार, जलवायु परिवर्तन के विरुद्ध वर्षों से चल रहे प्रयासों में सबसे व्यापक उपकरणों में से एक बन चुका है। अतः कथन 1 सही है। करों की तरह, कार्बन बाज़ार संसाधनों को निजी क्षेत्र से राज्य में स्थानांतरित करते हैं। अतः कथन 2 सही है। कार्बन बाज़ारों की व्यापकता का मुख्य कारण उनका बाज़ार-आधारित दक्षता, उत्सर्जन कटौती में लागत-प्रभावी तरीका और निजी क्षेत्र को प्रोत्साहन देना है, न कि संसाधनों का राज्य को हस्तांतरण। संसाधन हस्तांतरण एक परिणाम है, लेकिन व्यापक होने का कारण नहीं। अतः कथन-II, कथन-I का सही स्पष्टीकरण नहीं है। अतः विकल्प (b) सही है।",
+      "en": "Carbon markets have become one of the most widespread tools in the fight against climate change over the years. Hence statement 1 is correct. Like taxes, carbon markets transfer resources from the private sector to the state. Hence statement 2 is correct. The main reason for the widespread nature of carbon markets is their market-based efficiency, cost-effective way of emission reduction and incentivizing the private sector, not the transfer of resources to the state. Resource transfer is an outcome, but not the reason for it being widespread. Hence, Statement-II is not the correct explanation for Statement-I. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 10,
+    "year": "2023",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "स्वर्ण खनन गतिविधि विश्व में पारा प्रदूषण का स्रोत है।",
+        "en": "Gold mining activity is a source of mercury pollution in the world."
+      },
+      {
+        "id": 2,
+        "hi": "कोयला-आधारित ऊष्मीय शक्ति संयंत्र (थर्मल पावर प्लांट) से पारा प्रदूषण होता है।",
+        "en": "Coal-based thermal power plants cause mercury pollution."
+      },
+      {
+        "id": 3,
+        "hi": "पारा के संपर्क में आने का कोई ज्ञात सुरक्षा स्तर नहीं है।",
+        "en": "There is no known safe level of exposure to mercury."
+      }
+    ],
+    "question": {
+      "hi": "पारा प्रदूषण के बारे में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कितने कथन सही हैं?",
+      "en": "With reference to mercury pollution, consider the following statements:\nHow many of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "स्वर्ण खनन के विषाक्त अवशेषों में तीन दर्जन से अधिक खतरनाक रसायन शामिल होते हैं, जिनमें पारा भी है। अतः कथन 1 सही है। अधिकांश पारा प्रदूषण कोयले से चलने वाले ताप विद्युत संयंत्रों और अन्य औद्योगिक प्रक्रियाओं द्वारा उत्पन्न होता है। अतः कथन 2 सही है। जबकि पारा अत्यधिक ज़हरीला है और इसका जोखिम कम से कम किया जाना चाहिये, विश्व स्वास्थ्य संगठन (WHO) और संयुक्त राज्य पर्यावरण संरक्षण एजेंसी (EPA) जैसी नियामक एजेंसियों ने पारा जोखिम के लिए संदर्भ स्तर स्थापित किए हैं। इन स्तरों को स्वीकार्य जोखिम सीमा का प्रतिनिधित्त्व करने वाला माना जाता है। अतः कथन 3 गलत है। अतः विकल्प (b) सही है।",
+      "en": "Toxic tailings from gold mining contain more than three dozen hazardous chemicals, including mercury. Hence statement 1 is correct. Most mercury pollution is generated by coal-fired thermal power plants and other industrial processes. Hence statement 2 is correct. While mercury is highly toxic and exposure to it should be minimized, regulatory agencies such as the World Health Organization (WHO) and the United States Environmental Protection Agency (EPA) have established reference levels for mercury exposure. These levels are considered to represent acceptable exposure limits. Hence statement 3 is incorrect. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 11,
+    "year": "2023",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इसे आंतरिक दहन के लिये ईंधन के रूप में सीधे इस्तेमाल किया जा सकता है।",
+        "en": "It can be used directly as a fuel for internal combustion."
+      },
+      {
+        "id": 2,
+        "hi": "इसे प्राकृतिक गैस के साथ मिलाकर ताप या शक्ति उत्पादन के लिये ईंधन के रूप में इस्तेमाल किया जा सकता है।",
+        "en": "It can be blended with natural gas and used as fuel for heat or power generation."
+      },
+      {
+        "id": 3,
+        "hi": "इसे वाहन चालन के लिये हाइड्रोजन ईंधन प्रकोष्ठ में इस्तेमाल किया जा सकता है।",
+        "en": "It can be used in the hydrogen fuel cell to run vehicles."
+      }
+    ],
+    "question": {
+      "hi": "हरित हाइड्रोजन के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कितने कथन सही हैं?",
+      "en": "With reference to green hydrogen, consider the following statements:\nHow many of the above statements are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "हरित हाइड्रोजन को अक्षय ऊर्जा स्रोतों जैसे सौर या पवन ऊर्जा का उपयोग करके जल के इलेक्ट्रोलाइसिस के माध्यम से उत्पन्न किया जाता है। आंतरिक दहन के लिये हरित हाइड्रोजन का सीधे उपयोग किया जा सकता है। हालाँकि इसका उपयोग आंतरिक दहन इंजन में कुछ परिवर्तनों के साथ किया जा सकता है। अतः कथन 1 सही है। स्वच्छ माध्यमों से उत्पादित हाइड्रोजन को प्राकृतिक गैस पाइपलाइनों में इंजेक्ट किया जा सकता है और परिणामी मिश्रणों का उपयोग केवल प्राकृतिक गैस का उपयोग करने से होने वाले उत्सर्जन की तुलना में कम उत्सर्जन के द्वारा ऊष्मा और विद्युत उत्पन्न करने के लिए किया जा सकता है। अतः कथन 2 सही है। हाइड्रोजन का उपयोग दो प्रकार के वाहनों में किया जा सकता है: आंतरिक दहन इंजन (ICEs) और ईंधन सेल में। अतः कथन 3 सही है। अतः विकल्प (c) सही है।",
+      "en": "Green hydrogen is produced through the electrolysis of water using renewable energy sources such as solar or wind power. Green hydrogen can be used directly for internal combustion. However, its use can be made with some modifications in the internal combustion engine. Hence statement 1 is correct. Hydrogen produced through clean means can be injected into natural gas pipelines, and the resulting blends can be used to generate heat and power with lower emissions than using natural gas alone. Hence statement 2 is correct. Hydrogen can be used in two types of vehicles: internal combustion engines (ICEs) and fuel cells. Hence statement 3 is correct. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 12,
+    "year": "2023",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "उर्वरक संयंत्र",
+        "en": "Fertilizer plants"
+      },
+      {
+        "id": 2,
+        "hi": "तेलशोधक कारखाने",
+        "en": "Oil refineries"
+      },
+      {
+        "id": 3,
+        "hi": "इस्पात संयंत्र",
+        "en": "Steel plants"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित भारी उद्योगों पर विचार कीजिये:\nउपर्युक्त में से कितने उद्योगों के विकार्बनन में हरित हाइड्रोजन की महत्त्वपूर्ण भूमिका होने की अपेक्षा है?",
+      "en": "Consider the following heavy industries:\nIn the decarbonization of how many of the above industries is green hydrogen expected to play a significant role?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "हाइड्रोजन प्रमुख औद्योगिक ईंधन है जिसके अमोनिया (एक प्रमुख उर्वरक), स्टील, रिफाइनरियों और विद्युत उत्पादन सहित विभिन्न प्रकार के अनुप्रयोग हैं। उर्वरक उद्योग ऊर्जा-सघन है और मुख्यत: प्राकृतिक गैस पर निर्भर रहता है। हरित हाइड्रोजन को अपनाकर कार्बन उत्सर्जन काफी कम किया जा सकता है। अतः कथन 1 सही है। तेल शोधन इकाइयाँ ऊर्जा-सघन प्रक्रियाओं के कारण ग्रीनहाउस उत्सर्जन का बड़ा स्रोत हैं। हरित हाइड्रोजन को पारंपरिक हाइड्रोजन के विकल्प के रूप में इस्तेमाल कर उत्सर्जन कम किया जा सकता है। अतः कथन 2 सही है। इस्पात उद्योग कार्बन उत्सर्जन का प्रमुख स्रोत है। हरित हाइड्रोजन को अपचायक के रूप में प्रत्यक्ष अपचयन प्रक्रिया (DRI) में इस्तेमाल कर 'हरित इस्पात' बनाया जा सकता है। अतः कथन 3 सही है। अतः विकल्प (c) सही है।",
+      "en": "Hydrogen is a key industrial fuel with a variety of applications including ammonia (a key fertilizer), steel, refineries and power generation. The fertilizer industry is energy-intensive and mainly relies on natural gas. By adopting green hydrogen, carbon emissions can be significantly reduced. Hence statement 1 is correct. Oil refining units are a major source of greenhouse emissions due to energy-intensive processes. Emissions can be reduced by using green hydrogen as an alternative to traditional hydrogen. Hence statement 2 is correct. The steel industry is a major source of carbon emissions. 'Green steel' can be made by using green hydrogen as a reductant in the direct reduction process (DRI). Hence statement 3 is correct. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 13,
+    "year": "2022",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित फसलों में कौन-सी एक, मीथेन और नाइट्रस ऑक्साइड दोनों का सर्वाधिक महत्त्वपूर्ण मानवोद्भव स्रोत है?",
+      "en": "Which one of the following crops is the most important anthropogenic source of both methane and nitrous oxide?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कपास",
+        "en": "Cotton"
+      },
+      {
+        "id": "B",
+        "hi": "धान",
+        "en": "Rice"
+      },
+      {
+        "id": "C",
+        "hi": "गन्ना",
+        "en": "Sugarcane"
+      },
+      {
+        "id": "D",
+        "hi": "गेहूँ",
+        "en": "Wheat"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "धान, मीथेन और नाइट्रस ऑक्साइड दोनों का सर्वाधिक महत्त्वपूर्ण मानवोद्भव (Anthropogenic) स्रोत है। वर्तमान में धान का उत्पादन बड़ी चुनौतियों का सामना कर रहा है जिसमें सिंचाई के पानी की कमी और जारी जलवायु परिवर्तन शामिल हैं। वर्तमान फसल तकनीकों के संशोधन से उपज में वृद्धि हो सकती है तथा पानी की बचत हो सकती है और ग्रीनहाउस गैस उत्सर्जन को भी कम किया जा सकता है। अतः विकल्प (b) सही है।",
+      "en": "Rice (paddy) is the most important anthropogenic source of both methane and nitrous oxide. Currently, rice production is facing major challenges including water scarcity for irrigation and ongoing climate change. Modifications of current cropping techniques can increase yield, save water and reduce greenhouse gas emissions. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 14,
+    "year": "2022",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "पश्चिम अफ्रीका की निम्नलिखित झीलों में कौन-सी एक, सूखकर मरुस्थल में बदल गई है?",
+      "en": "Which one of the following lakes of West Africa has become dry and turned into a desert?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "लेक विक्टोरिया",
+        "en": "Lake Victoria"
+      },
+      {
+        "id": "B",
+        "hi": "लेक फागुबिन",
+        "en": "Lake Faguibine"
+      },
+      {
+        "id": "C",
+        "hi": "लेक ओगुटा",
+        "en": "Lake Oguta"
+      },
+      {
+        "id": "D",
+        "hi": "लेक वोल्टा",
+        "en": "Lake Volta"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "लेक फागुबिन पश्चिम अफ्रीका के माली में स्थित है और यह 1970 के दशक में आए भीषण सूखे के कारण सूख गई थी। यह झील कभी पश्चिम अफ्रीका की सबसे उपजाऊ और बड़ी झीलों में से एक थी, जिसे नाइजर नदी के पानी से भरा जाता था। सूखे और मानवीय गतिविधियों के कारण यह अब एक मरुस्थलीय क्षेत्र में बदल चुकी है। नासा (NASA) अर्थ ऑब्ज़र्वेटरी के उपग्रह चित्रों से स्पष्ट होता है कि यह झील, जो कभी 590 वर्ग किमी में फैली थी, अब पूरी तरह से रेत के टीलों और मरुस्थलीय भूमि में बदल चुकी है। अतः विकल्प (b) सही है।",
+      "en": "Lake Faguibine is located in Mali, West Africa, and dried up due to the severe drought in the 1970s. This lake was once one of the most fertile and largest lakes in West Africa, which was filled with water from the Niger River. Due to drought and human activities, it has now turned into a desert area. Satellite images from the NASA Earth Observatory reveal that this lake, which once covered 590 sq km, has now completely turned into sand dunes and desert land. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 15,
+    "year": "2022",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारत स्वच्छता गठबंधन धारणीय स्वच्छता को संवर्द्धित करने वाला प्लेटफॉर्म है और भारत सरकार तथा विश्व स्वास्थ्य संगठन द्वारा इसका वित्तपोषण होता है।",
+        "en": "The India Sanitation Coalition is a platform to promote sustainable sanitation and is funded by the Government of India and the World Health Organization."
+      },
+      {
+        "id": 2,
+        "hi": "राष्ट्रीय नगर कार्य संस्थान भारत सरकार में आवासन एवं शहरी कार्य मंत्रालय का शीर्षस्थ निकाय है, और यह शहरी भारत की चुनौतियों का समाधान करने के नवप्रवर्तक हल उपलब्ध कराता है।",
+        "en": "The National Institute of Urban Affairs is an apex body of the Ministry of Housing and Urban Affairs in Government of India and provides innovative solutions to address the challenges of Urban India."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "भारत स्वच्छता गठबंधन (India Sanitation Coalition) का गठन जून, 2015 में फिक्की (FICCI) के तत्त्वावधान में किया गया था। अतः यह भारत सरकार और WHO द्वारा वित्तपोषित नहीं है। अतः कथन 1 सही नहीं है। वर्ष 1976 में स्थापित राष्ट्रीय नगर कार्य संस्थान (NIUA) शहरी नियोजन और विकास पर भारत का प्रमुख राष्ट्रीय विचार मंच है। यह आवास और शहरी कार्य मंत्रालय का शीर्ष निकाय नहीं है। अतः कथन 2 सही नहीं है। अतः विकल्प (d) सही है।",
+      "en": "The India Sanitation Coalition was formed in June 2015 under the aegis of FICCI. Hence it is not funded by the Government of India and WHO. Hence statement 1 is incorrect. The National Institute of Urban Affairs (NIUA), established in 1976, is India's leading national think tank on urban planning and development. It is not an apex body of the Ministry of Housing and Urban Affairs. Hence statement 2 is incorrect. Thus, option (d) is correct."
+    }
+  },
+  {
+    "id": 16,
+    "year": "2022",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में कौन-सा एक, \"ग्रीनवाशिंग\" शब्द का सर्वोत्तम वर्णन है?",
+      "en": "Which one of the following best describes the term \"greenwashing\"?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "मिथ्या रूप से यह प्रभाव व्यक्त करना कि कंपनी के उत्पाद पारिस्थितिक-अनुकूली (ईको-फ्रेंड्ली) और पर्यावरणीय रूप से उपयुक्त हैं",
+        "en": "Conveying a false impression that a company's products are eco-friendly and environmentally sound"
+      },
+      {
+        "id": "B",
+        "hi": "किसी देश के वार्षिक वित्तीय विवरणों में पारिस्थितिक/पर्यावरणीय लागतों को शामिल नहीं करना",
+        "en": "Non-inclusion of ecological/environmental costs in the Annual Financial Statements of a country"
+      },
+      {
+        "id": "C",
+        "hi": "आधारिक संरचना विकसित करते समय अनर्थकारी पारिस्थितिक दुष्परिणामों की उपेक्षा करना",
+        "en": "Ignoring the disastrous ecological consequences while undertaking infrastructure development"
+      },
+      {
+        "id": "D",
+        "hi": "किसी सरकारी परियोजना/कार्यक्रम में पर्यावरणीय लागतों के लिए अनिवार्य उपबंध करना",
+        "en": "Making mandatory provisions for environmental costs in a government project/programme"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "ग्रीनवाशिंग (Greenwashing) किसी उत्पाद, सेवा, प्रौद्योगिकी या कंपनी के पर्यावरणीय लाभों के बारे में एक निराधार या भ्रामक दावा करने का अभ्यास है। ग्रीनवाशिंग किसी कंपनी को अधिक पर्यावरण अनुकूल दिखने का प्रयास करती है जबकि वास्तव में वह कंपनी उतनी अधिक पर्यावरण अनुकूल नहीं होती। अतः विकल्प (a) सही है।",
+      "en": "Greenwashing is the practice of making an unsubstantiated or misleading claim about the environmental benefits of a product, service, technology or company. Greenwashing attempts to make a company appear more environmentally friendly than it really is. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 17,
+    "year": "2022",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "\"जलवायु कार्रवाई ट्रैकर (क्लाइमेट एक्शन ट्रैकर)\" जो विभिन्न देशों के उत्सर्जन अपचयन के लिए दिये गए वचनों की निगरानी करता है, क्या है?",
+      "en": "The \"Climate Action Tracker\" which monitors the emission reduction pledges of different countries is a:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अनुसंधान संगठनों के गठबंधन द्वारा निर्मित डेटाबेस",
+        "en": "Database created by coalition of research organisations"
+      },
+      {
+        "id": "B",
+        "hi": "\"जलवायु परिवर्तन के अंतर्राष्ट्रीय पैनल\" का स्कंध (विंग)",
+        "en": "Wing of \"International Panel of Climate Change\""
+      },
+      {
+        "id": "C",
+        "hi": "\"जलवायु परिवर्तन पर संयुक्त राष्ट्र ढाँचा अभिसमय\" के अधीन समिति",
+        "en": "Committee under \"United Nations Framework Convention on Climate Change\""
+      },
+      {
+        "id": "D",
+        "hi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम और विश्व बैंक द्वारा संवर्धित और वित्तपोषित एजेंसी",
+        "en": "Agency promoted and financed by United Nations Environment Programme and World Bank"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "क्लाइमेट एक्शन ट्रैकर (Climate Action Tracker-CAT) एक स्वतंत्र वैज्ञानिक विश्लेषण है जो सरकारी जलवायु कार्रवाईयों को ट्रैक करता है और उनका आकलन पेरिस समझौते के लक्ष्यों के संदर्भ में करता है। यह दो संगठनों, क्लाइमेट एनालिटिक्स और न्यू क्लाइमेट इंस्टीट्यूट के सहयोग से नीति निर्माताओं को स्वतंत्र विश्लेषण प्रदान करता है। अतः यह अनुसंधान संगठनों के गठबंधन द्वारा निर्मित डेटाबेस है। अतः विकल्प (a) सही है।",
+      "en": "Climate Action Tracker (CAT) is an independent scientific analysis that tracks government climate actions and assesses them against the goals of the Paris Agreement. It provides independent analysis to policymakers in collaboration with two organizations, Climate Analytics and New Climate Institute. Thus, it is a database created by a coalition of research organizations. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 18,
+    "year": "2022",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "PM2.5 का 24 घंटा माध्य 15µg/m³ से अधिक नहीं बढ़ना चाहिए और PM2.5 का वार्षिक माध्य 5µg/m³ से अधिक नहीं बढ़ना चाहिए।",
+        "en": "The 24-hour mean of PM2.5 should not exceed 15µg/m³ and annual mean of PM2.5 should not exceed 5µg/m³."
+      },
+      {
+        "id": 2,
+        "hi": "किसी वर्ष में, ओज़ोन प्रदूषण के उच्चतम स्तर प्रतिकूल मौसम के दौरान होते हैं।",
+        "en": "In a year, the highest levels of ozone pollution occur during the periods of inclement weather."
+      },
+      {
+        "id": 3,
+        "hi": "PM10 फेफड़े के अवरोध का वेधन कर रक्त-प्रवाह में प्रवेश कर सकता है।",
+        "en": "PM10 can penetrate the lung barrier and enter the bloodstream."
+      },
+      {
+        "id": 4,
+        "hi": "वायु में अत्यधिक ओज़ोन दमा (अस्थमा) को उत्पन्न कर सकती है।",
+        "en": "Excessive ozone in the air can trigger asthma."
+      }
+    ],
+    "question": {
+      "hi": "WHO के वायु गुणवत्ता दिशा-निर्देशों के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में कौन-से सही हैं?",
+      "en": "Consider the following statements in respect of the WHO Air Quality Guidelines:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 3 और 4",
+        "en": "1, 3 and 4"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 4",
+        "en": "1 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "2, 3 और 4",
+        "en": "2, 3 and 4"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "WHO वायु गुणवत्ता दिशा-निर्देशों के तहत PM2.5 का 24 घंटा माध्य 15 माइक्रोग्राम प्रति घन मीटर से अधिक नहीं होना चाहिये और पीएम 2.5 का वार्षिक औसत 5μg/m³ से अधिक नहीं होना चाहिये। अतः कथन 1 सही है। ज़मीनी स्तर पर ओज़ोन प्रकाश-रासायनिक धूम्र (फोटोकेमिकल स्मॉग) के प्रमुख घटकों में से एक है। धूप के मौसम में ओज़ोन प्रदूषण का स्तर उच्चतम होता है। अतः कथन 2 सही नहीं है। PM10 फेफड़ों में प्रवेश कर सकते हैं, जबकि PM2.5 फेफड़ों के अवरोध का वेधन कर रक्त-प्रणाली में प्रवेश कर सकता है। अतः कथन 3 सही नहीं है। वायु में अत्यधिक ओज़ोन मानव स्वास्थ्य पर एक उल्लेखनीय प्रभाव डाल सकता है। यह साँस लेने में समस्या पैदा कर सकता है, अस्थमा तथा फेफड़ों की बीमारियों का कारण बन सकता है। अतः कथन 4 सही है। अतः विकल्प (b) सही है।",
+      "en": "Under WHO air quality guidelines, the 24-hour mean of PM2.5 should not exceed 15 micrograms per cubic meter and the annual mean of PM2.5 should not exceed 5μg/m³. Hence, statement 1 is correct. Ground level ozone is one of the major components of photochemical smog. Ozone pollution levels are highest during sunny weather. Hence, statement 2 is incorrect. PM10 can enter the lungs, whereas PM2.5 can penetrate the lung barrier and enter the blood system. Hence, statement 3 is incorrect. Excessive ozone in the air can have a notable effect on human health. It can cause breathing problems, trigger asthma and cause lung diseases. Hence, statement 4 is correct. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 19,
+    "year": "2022",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कार्बन मोनोऑक्साइड",
+        "en": "Carbon monoxide"
+      },
+      {
+        "id": 2,
+        "hi": "नाइट्रोजन ऑक्साइड",
+        "en": "Nitrogen oxide"
+      },
+      {
+        "id": 3,
+        "hi": "ओज़ोन",
+        "en": "Ozone"
+      },
+      {
+        "id": 4,
+        "hi": "सल्फर डाइऑक्साइड",
+        "en": "Sulphur dioxide"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पर विचार कीजिये:\nवातावरण में उपर्युक्त में से किसकी/किनकी अधिकता होने से अम्ल वर्षा होती है?",
+      "en": "Consider the following:\nExcess of which of the above in the environment is/are cause(s) of acid rain?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 4",
+        "en": "4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 3 और 4",
+        "en": "1, 3 and 4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "अम्ल वर्षा मानवीय क्रियाकलापों का उपोत्पाद होती है, जो वातावरण में नाइट्रोजन तथा सल्फर के ऑक्साइड निर्गमित करती है। जीवाश्म-ईंधन, जैसे- कोयला, शक्ति-संयंत्रों, भट्टियों तथा मोटर इंजनों में डीज़ल और पेट्रोल के दहन पर सल्फर डाइऑक्साइड तथा नाइट्रोजन ऑक्साइड उत्पन्न होते हैं। SO₂ तथा NO₂ ऑक्सीकरण के पश्चात् जल के साथ अभिक्रिया करके अम्लोवर्षा में प्रमुख योगदान देते हैं। अतः विकल्प (b) सही है।",
+      "en": "Acid rain is a byproduct of human activities, which emits oxides of nitrogen and sulfur into the atmosphere. Combustion of fossil fuels, such as coal in power plants, furnaces and diesel and petrol in motor engines produces sulfur dioxide and nitrogen oxides. SO₂ and NO₂ react with water after oxidation and make a major contribution to acid rain. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 20,
+    "year": "2021",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से किसके अंगीकरण को प्रोत्साहित करने के लिये ‘R2 व्यवहार संहिता (R2 Code of Practices)’ साधन उपलब्ध करती है?",
+      "en": "‘R2 Code of Practices’ constitutes a tool available for promoting the adoption of"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इलेक्ट्रॉनिकी पुनर्चक्रण उद्योग में पर्यावरणीय दृष्टि से विश्वसनीय व्यवहार",
+        "en": "Environmentally responsible practices in electronics recycling industry"
+      },
+      {
+        "id": "B",
+        "hi": "रामसर कन्वेंशन के अंतर्गत 'अंतर्राष्ट्रीय महत्त्व की आर्द्र भूमि' का पारिस्थितिक प्रबंधन",
+        "en": "Ecological management of ‘Wetlands of International Importance’ under the Ramsar Convention"
+      },
+      {
+        "id": "C",
+        "hi": "निम्नीकृत भूमि पर कृषि फसलों की खेती का संधारणीय व्यवहार",
+        "en": "Sustainable practices in the cultivation of agricultural crops in degraded lands"
+      },
+      {
+        "id": "D",
+        "hi": "प्राकृतिक संसाधनों के दोहन में 'पर्यावरणीय प्रभाव आकलन'",
+        "en": "‘Environmental Impact Assessment’ in the exploitation of natural resources"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "'R2 व्यवहार संहिता' में R2 का अर्थ रिस्पॉन्सिबल रीसाइक्लिंग (Responsible Recycling) है। यह सस्टेनेबल इलेक्ट्रॉनिक्स रीसाइक्लिंग इंटरनेशनल (SERI) द्वारा विशेष रूप से इलेक्ट्रॉनिकी पुनर्चक्रण उद्योगों के लिये बनाया गया एक मानक है। अतः विकल्प (a) सही है।",
+      "en": "In 'R2 Code of Practices', R2 stands for Responsible Recycling. It is a standard created by Sustainable Electronics Recycling International (SERI) specifically for electronics recycling industries. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 21,
+    "year": "2021",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "वे पर्यावरण में कार्बन मोनोऑक्साइड को घातक मात्राओं में निर्मुक्त कर सकते हैं।",
+        "en": "They may release lethal quantities of carbon monoxide into environment."
+      },
+      {
+        "id": 2,
+        "hi": "ताम्रमल (कॉपर स्लैग) पर्यावरण में कुछ भारी धातुओं के निक्षालन (लीचिंग) का कारण बन सकता है।",
+        "en": "The copper slag can cause the leaching of some heavy metals into environment."
+      },
+      {
+        "id": 3,
+        "hi": "वे सल्फर डाइऑक्साइड को एक प्रदूषक के रूप में निर्मुक्त कर सकते हैं।",
+        "en": "They may release sulphur dioxide as a pollutant."
+      }
+    ],
+    "question": {
+      "hi": "ताम्र प्रगलन संयंत्रों के बारे में चिंता का कारण क्या है?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "What is the reason for concern regarding copper smelting plants?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "ताम्र (तांबा) प्रगलन संयंत्र द्वारा ताम्र सांद्र से तांबा को अलग किया जाता है जो कई सल्फाइड ऑक्सीकरण चरणों के माध्यम से होता है। इस प्रक्रिया में सल्फर ऑक्साइड प्रदूषक के रूप में निर्मुक्त होता है। ताम्रमल (कॉपर स्लैग) प्रगलन प्रक्रिया में तांबे के निष्कर्षण से बना उप-उत्पाद है। गलाने के दौरान अशुद्धियाँ स्लैग बन जाती हैं जो पिघली हुई धातु पर तैरती हैं। यह पर्यावरण में भारी धातुओं के निक्षालन का कारण बन सकता है। इन भारी धातुओं में, विशेष रूप से आर्सेनिक, कैडमियम और लेड की उच्च सांद्रता हो सकती है। अतः विकल्प (b) सही है।",
+      "en": "Copper smelting plants extract copper from copper concentrate which passes through several sulphide oxidation stages. In this process, sulphur oxide is released as a pollutant. Copper slag is a by-product of the extraction of copper in the smelting process. During smelting, impurities form slag which floats on the molten metal. This can cause the leaching of heavy metals into the environment. These heavy metals can have particularly high concentrations of arsenic, cadmium and lead. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 22,
+    "year": "2021",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह तेल परिष्करणियों (रिफाइनरी) का एक उत्पाद है।",
+        "en": "It is a product of oil refineries."
+      },
+      {
+        "id": 2,
+        "hi": "कुछ उद्योग इसका उपयोग ऊर्जा (पावर) उत्पादन के लिये करते हैं।",
+        "en": "Some industries use it to generate power."
+      },
+      {
+        "id": 3,
+        "hi": "इसके उपयोग से पर्यावरण में गंधक का उत्सर्जन होता है।",
+        "en": "Its use causes sulphur emissions into environment."
+      }
+    ],
+    "question": {
+      "hi": "भट्ठी तेल (फर्नेस ऑयल) के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-से सही हैं?",
+      "en": "With reference to furnace oil, consider the following statements:\nWhich of the statements given above are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "भट्ठी तेल (फर्नेस ऑयल) तेल परिष्करणियों (रिफाइनरी) का एक उत्पाद है। उद्योगों में ऊर्जा के स्रोत के रूप में इन ईंधनों का उपयोग किया जाता है। बड़े जेनरेटरों और स्टील उद्योग में इसका बड़े पैमाने पर इस्तेमाल किया जाता है। जब इन्हें जलाया जाता है तो पर्यावरण में भारी मात्रा में सल्फर (गंधक) का उत्सर्जन होता है, जो हवा को ज़हरीला बनाता है। फर्नेस तेल में सल्फर का स्तर 20000 पीपीएम तक होता है। अतः विकल्प (d) सही है।",
+      "en": "Furnace oil is a product of oil refineries. These fuels are used as a source of energy in industries. It is used on a large scale in large generators and the steel industry. When it is burnt, a huge amount of sulphur is emitted into the environment, which makes the air poisonous. The sulphur level in furnace oil is up to 20000 ppm. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 23,
+    "year": "2021",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "ब्लू कार्बन क्या है?",
+      "en": "What is blue carbon?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "महासागरों और तटीय पारिस्थितिक तंत्रों द्वारा प्रगृहीत कार्बन",
+        "en": "Carbon captured by oceans and coastal ecosystems"
+      },
+      {
+        "id": "B",
+        "hi": "वन जैव मात्रा (बायोमास) और कृषि मृदा में प्रच्छादित कार्बन",
+        "en": "Carbon sequestered in forest biomass and agricultural soils"
+      },
+      {
+        "id": "C",
+        "hi": "पेट्रोलियम और प्राकृतिक गैस में अंतर्विष्ट कार्बन",
+        "en": "Carbon contained in petroleum and natural gas"
+      },
+      {
+        "id": "D",
+        "hi": "वायुमंडल में विद्यमान कार्बन",
+        "en": "Carbon present in atmosphere"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "समुद्री एवं तटीय पारिस्थितिक तंत्र द्वारा अवशोषित किये जाने वाले कार्बन को नीले कार्बन अथवा ब्लू कार्बन की संज्ञा दी जाती है। यह अवशोषण जीवभार और अवसाद के रूप में मैंग्रोव, दलदली क्षेत्रों, समुद्री घास तथा शैवालों द्वारा किया जाता है। महासागरों की कार्बन अवशोषण क्षमता भूमि पर स्थित पारितंत्र के मुकाबले पाँच गुना अधिक होती है। अतः विकल्प (a) सही है।",
+      "en": "Carbon absorbed by marine and coastal ecosystems is termed blue carbon. This absorption is done by mangroves, swampy areas, sea grass and algae in the form of biomass and sediment. The carbon absorption capacity of the oceans is five times more than that of the ecosystem located on land. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 24,
+    "year": "2021",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "2014 में, संयुक्त राष्ट्र जलवायु शिखर सम्मेलन में पहली बार इसका समर्थन किया गया था।",
+        "en": "It was first endorsed at the United Nations Climate Summit in 2014."
+      },
+      {
+        "id": 2,
+        "hi": "इसमें वन के ह्रास को रोकने के लिये एक वैश्विक समय-रेखा का समर्थन किया गया।",
+        "en": "It endorses a global timeline to end the loss of forests."
+      },
+      {
+        "id": 3,
+        "hi": "यह वैध रूप से बाध्यकारी अंतर्राष्ट्रीय घोषणा है।",
+        "en": "It is a legally binding international declaration."
+      },
+      {
+        "id": 4,
+        "hi": "यह सरकारों, बड़ी कंपनियों और देशीय समुदायों द्वारा समर्थित है।",
+        "en": "It is endorsed by governments, big companies and indigenous communities."
+      },
+      {
+        "id": 5,
+        "hi": "भारत, इसके प्रारंभ के समय, हस्ताक्षरकर्त्ताओं में से एक था।",
+        "en": "India was one of the signatories at its inception."
+      }
+    ],
+    "question": {
+      "hi": "'वनों पर न्यूयॉर्क घोषणा (New York Declaration on Forests)' के संदर्भ में, निम्नलिखित में से कौन-से कथन सही हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "With reference to the 'New York Declaration on Forests', which of the following statements are correct?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1, 2 और 4",
+        "en": "1, 2 and 4"
+      },
+      {
+        "id": "B",
+        "hi": "1, 3 और 5",
+        "en": "1, 3 and 5"
+      },
+      {
+        "id": "C",
+        "hi": "3 और 4",
+        "en": "3 and 4"
+      },
+      {
+        "id": "D",
+        "hi": "2 और 5",
+        "en": "2 and 5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "वनों पर 2014 की न्यूयॉर्क घोषणा पर 200 से अधिक हस्ताक्षर किये गए थे, जिनमें विभिन्न देशों और कंपनियों के अलावा पर्यावरण समूह भी शामिल थे। न्यूयॉर्क घोषणा में वर्ष 2020 तक वैश्विक प्राकृतिक वन हानि को आधा करना तथा वर्ष 2030 तक इस हानि को समाप्त करना शामिल है। इसके अंतर्गत वनों के ह्रास को रोकने के लिये एक वैश्विक समय-रेखा का समर्थन किया गया है। अतः विकल्प (a) सही है।",
+      "en": "The 2014 New York Declaration on Forests was signed by more than 200 entities, which included environmental groups in addition to various countries and companies. The New York Declaration includes halving global natural forest loss by 2020 and ending it by 2030. It supports a global timeline to halt the loss of forests. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 25,
+    "year": "2021",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "मोटरगाड़ी के ब्रेक",
+        "en": "Motor vehicle brakes"
+      },
+      {
+        "id": 2,
+        "hi": "मोटरगाड़ी के इंजन",
+        "en": "Motor vehicle engines"
+      },
+      {
+        "id": 3,
+        "hi": "घरों में प्रयोग होने वाले माइक्रोवेव स्टोव",
+        "en": "Microwave stoves used in homes"
+      },
+      {
+        "id": 4,
+        "hi": "बिजली संयंत्र",
+        "en": "Power plants"
+      },
+      {
+        "id": 5,
+        "hi": "टेलीफोन लाइन",
+        "en": "Telephone lines"
+      }
+    ],
+    "question": {
+      "hi": "तंत्रिका अपह्रास (न्यूरोडीजेनेरेटिव) समस्याओं के लिये उत्तरदायी माने जाने वाले मैग्नेटाइट कण पर्यावरणीय प्रदूषकों के रूप में निम्नलिखित में से किनसे उत्पन्न होते हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Magnetite particles, suspected to cause neurodegenerative problems, are generated as environmental pollutants from which of the following?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2, 3 और 5",
+        "en": "1, 2, 3 and 5 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1, 2 और 4",
+        "en": "1, 2 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3, 4 और 5",
+        "en": "3, 4 and 5 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3, 4 और 5",
+        "en": "1, 2, 3, 4 and 5"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "मैग्नेटाइट कण लोहे का एक अत्यधिक चुंबकीय खनिज रूप है और वायु प्रदूषण में मौजूद होने के लिये जाना जाता है। हवा में मौजूद पार्टिकुलेट मैटर (PM) के संपर्क में आने से पल्मोनरी, कार्डियोवैस्कुलर और न्यूरोलॉजिकल समस्याएँ होती हैं। पेट्रोल और डीज़ल-इंजन से निकलने वाली गैस का निकास भी हवाई मैग्नेटाइट का प्रमुख स्रोत है। वाहन ब्रेक सिस्टम सड़क के किनारे हवाई मैग्नेटाइट का प्रमुख स्रोत है। मैग्नेटाइट प्रदूषण के अन्य स्रोतों में बिजली संयंत्र भी शामिल हैं। अतः कथन 1, 2 और 4 सही हैं।",
+      "en": "Magnetite particles are a highly magnetic mineral form of iron and are known to be present in air pollution. Exposure to airborne particulate matter (PM) causes pulmonary, cardiovascular and neurological problems. Exhaust gas from petrol and diesel engines is also a major source of airborne magnetite. Vehicle brake systems are a major source of roadside airborne magnetite. Other sources of magnetite pollution include power plants. Hence, statements 1, 2 and 4 are correct."
+    }
+  },
+  {
+    "id": 26,
+    "year": "2019",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से किसके संदर्भ में, कुछ वैज्ञानिक पक्षाभ मेघ विरलन तकनीक (Cirrus Cloud Thinning) तथा समतापमंडल में सल्फेट वायुविलय अंतःक्षेपण (Stratospheric Aerosol Injections) के उपयोग का सुझाव देते हैं?",
+      "en": "In the context of which of the following do some scientists suggest the use of cirrus cloud thinning technique and the injection of sulphate aerosol into stratosphere?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कुछ क्षेत्रों में कृत्रिम वर्षा करवाने के लिये",
+        "en": "Creating the artificial rains in some regions"
+      },
+      {
+        "id": "B",
+        "hi": "उष्णकटिबंधीय चक्रवातों की बारंबारता और तीव्रता को कम करने के लिये",
+        "en": "Reducing the frequency and intensity of tropical cyclones"
+      },
+      {
+        "id": "C",
+        "hi": "पृथ्वी पर सौर पवनों के प्रतिकूल प्रभाव को कम करने के लिये",
+        "en": "Reducing the adverse effects of solar wind on the Earth"
+      },
+      {
+        "id": "D",
+        "hi": "भूमंडलीय तापन को कम करने के लिये",
+        "en": "Reducing the global warming"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "भूमंडलीय तापन (Global Warming) को कम करने के लिये वर्तमान में एरोसोल जियोइंजीनियरिंग (Aerosol Geoengineering) के तहत मुख्यत: तीन नई तकनीकों- पक्षाभ मेघ विरलन (Cirrus Cloud Thinning-CCT), समतापमंडलीय वायुविलय अंतःक्षेपण (Stratospheric Aerosol Injections-SAI) तथा मरीन स्काई ब्राइटनिंग (Marine Sky Brightening-MSB) का सहारा लिया जा रहा है। इसमें CCT दीर्घतरंगी ऊष्मीय विकिरण पर कार्य करती है। अतः विकल्प (d) सही उत्तर है।",
+      "en": "To reduce global warming, currently three new techniques under Aerosol Geoengineering are mainly being resorted to - Cirrus Cloud Thinning (CCT), Stratospheric Aerosol Injections (SAI) and Marine Sky Brightening (MSB). In this, CCT works on longwave thermal radiation. Hence, option (d) is the correct answer."
+    }
+  },
+  {
+    "id": 27,
+    "year": "2019",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से किसके संदर्भ में, 'ताप-अपघटन और प्लाज़्मा गैसीकरण' शब्दों का उल्लेख किया गया है?",
+      "en": "In the context of which one of the following are the terms 'pyrolysis and plasma gasification' mentioned?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "दुर्लभ (रेयर) भू-तत्त्वों का निष्कर्षण",
+        "en": "Extraction of rare earth elements"
+      },
+      {
+        "id": "B",
+        "hi": "प्राकृतिक गैस निष्कर्षण प्रौद्योगिकी",
+        "en": "Natural gas extraction technologies"
+      },
+      {
+        "id": "C",
+        "hi": "हाइड्रोजन ईंधन-आधारित ऑटोमोबाइल",
+        "en": "Hydrogen fuel-based automobiles"
+      },
+      {
+        "id": "D",
+        "hi": "अपशिष्ट-से-ऊर्जा प्रौद्योगिकी",
+        "en": "Waste-to-energy technologies"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "ताप अपघटन और प्लाज़्मा गैसीकरण एक नवीन आधुनिक प्रौद्योगिकी है जो 'अपशिष्ट-से-ऊर्जा' (Waste-to-energy) प्रौद्योगिकी से संबंधित है। उल्लेखनीय है कि ताप अपघटन (पायरोलिसिस) तथा प्लाज़्मा गैसीकरण में पहले से अधिक स्वच्छ व किफायती ऊर्जा उत्पादन के लिये अपशिष्टों का पुनर्चक्रण किया जाता है। इस नवीन प्रौद्योगिकी से, विशेषकर अपशिष्टों के दहन से होने वाले प्रदूषण को कम करने के साथ ऊर्जा भी उत्पादित की जा सकती है। इसके अंतर्गत अपशिष्टों को उच्च तापमान पर सीमित ऑक्सीजन उपलब्धता में गर्म किया जाता है जिससे इनका ठोस, तरल व गैस में विघटन हो जाता है। पुनः इन तरल व गैसीय तत्त्वों को जलाकर ऊर्जा पैदा की जाती है। अतः विकल्प (d) सही उत्तर है।",
+      "en": "Pyrolysis and plasma gasification is a new modern technology related to 'waste-to-energy' technology. Notably, pyrolysis and plasma gasification involve recycling wastes for cleaner and more affordable energy production than before. With this new technology, energy can be produced while reducing pollution caused especially by the combustion of wastes. Under this, wastes are heated at high temperatures in limited oxygen availability, due to which they decompose into solid, liquid and gas. Energy is produced again by burning these liquid and gaseous elements. Hence, option (d) is the correct answer."
+    }
+  },
+  {
+    "id": 28,
+    "year": "2019",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "पर्यावरण में निर्मुक्त हो जाने वाली 'सूक्ष्ममणिकाओं (माइक्रोबीड्स)' के विषय में अत्यधिक चिंता क्यों है?",
+      "en": "Why is there a great concern about the 'microbeads' that are released into environment?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ये समुद्री पारितंत्रों के लिये हानिकारक मानी जाती हैं।",
+        "en": "They are considered harmful to marine ecosystems."
+      },
+      {
+        "id": "B",
+        "hi": "ये बच्चों में त्वचा कैंसर होने का कारण मानी जाती हैं।",
+        "en": "They are considered to cause skin cancer in children."
+      },
+      {
+        "id": "C",
+        "hi": "ये इतनी छोटी होती हैं कि सिंचित क्षेत्रों में फसल पादपों द्वारा अवशोषित हो जाती हैं।",
+        "en": "They are small enough to be absorbed by crop plants in irrigated fields."
+      },
+      {
+        "id": "D",
+        "hi": "अक्सर इनका इस्तेमाल खाद्य-पदार्थों में मिलावट के लिये किया जाता है।",
+        "en": "They are often found to be used as food adulterants."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "माइक्रोबीड्स या माइक्रोप्लास्टिक प्लास्टिक के अंश या रेशे हैं जो बहुत छोटे होते हैं। इनका आकार सामान्यतः 5 मिमी. से कम होता है। इनका उपयोग विशेष रूप से शैम्पू, बेबी बॉडी लोशन, फेस क्रीम जैसे व्यक्तिगत देखभाल उत्पाद बनाने में होता है। ये अजैवनिम्नीकरणीय (non-biodegradable) होते हैं। ये सीवर से बहकर सागरों और महासागरों में पहुँच जाते हैं तथा पर्यावरण में प्लास्टिक की समस्या में इज़ाफा करते हैं। ये जल प्रदूषण में वृद्धि करते हैं और इनमें जलीय पारिस्थितिक तंत्र में व्यवधान उत्पन्न करने की क्षमता होती है। अपने छोटे आकार के कारण अपशिष्ट जल उपचार निस्यंदन प्रणाली से भी पार हो जाते हैं। ये मुख्यत: समुद्री पारितंत्रों के लिये हानिकारक माने जाते हैं।",
+      "en": "Microbeads or microplastics are fragments or fibers of plastic that are very small. Their size is generally less than 5 mm. They are specifically used in making personal care products like shampoo, baby body lotion, face cream. They are non-biodegradable. They flow through sewers and reach seas and oceans and add to the plastic problem in the environment. They increase water pollution and have the potential to disrupt the aquatic ecosystem. Due to their small size, they even pass through wastewater treatment filtration systems. They are primarily considered harmful to marine ecosystems."
+    }
+  },
+  {
+    "id": 29,
+    "year": "2019",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भूमंडलीय तापन के कारण इन निक्षेपों से मीथेन गैस का निर्मुक्त होना प्रेरित हो सकता है।",
+        "en": "Global warming might trigger the release of methane gas from these deposits."
+      },
+      {
+        "id": 2,
+        "hi": "'मीथेन हाइड्रेट' के विशाल निक्षेप उत्तरध्रुवीय टुंड्रा में तथा समुद्र अधस्तल के नीचे पाए जाते हैं।",
+        "en": "Large deposits of 'methane hydrate' are found in Arctic Tundra and under the seafloor."
+      },
+      {
+        "id": 3,
+        "hi": "वायुमंडल के अंदर मीथेन एक या दो दशक के बाद कार्बन डाइऑक्साइड में ऑक्सीकृत हो जाता है।",
+        "en": "Methane in atmosphere oxidizes to carbon dioxide after a decade or two."
+      }
+    ],
+    "question": {
+      "hi": "'मीथेन हाइड्रेट' के निक्षेपों के बारे में, निम्नलिखित में से कौन-से कथन सही हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "With reference to 'methane hydrate' deposits, which of the following statements are correct?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "मीथेन निम्न ताप व उच्च दाब पर जल के अणुओं से घिरकर, क्रिस्टलीय संरचना के रूप में बर्फ के समान जम जाती है, जिसे मीथेन हाइड्रेट कहते हैं। मीथेन हाइड्रेट की विशाल मात्रा आर्कटिक टुंड्रा (उत्तर ध्रुवीय टुंड्रा) और समुद्र अधस्तल के नीचे पाई जाती है। ग्लोबल वार्मिंग के कारण इन निक्षेपों से मीथेन गैस का निर्मुक्त होना प्रेरित हो सकता है। गौरतलब है कि वायुमंडल के अंदर मीथेन एक या दो दशक के बाद CO2 में ऑक्सीकृत हो जाता है। इस प्रकार प्रश्नगत तीनों कथन सही हैं।\nनोट: मीथेन हाइड्रेट को आम बोलचाल की भाषा में 'फायर आइस' (Fire Ice) या 'जलती बर्फ' भी कहते हैं क्योंकि यह ज्वलनशील होती है। भारत में मीथेन हाइड्रेट के विशाल भंडार (कृष्णा-गोदावरी-बेसिन) मौजूद हैं।",
+      "en": "At low temperature and high pressure, methane gets surrounded by water molecules and freezes like ice in a crystalline structure, which is called methane hydrate. Huge quantities of methane hydrate are found in the Arctic Tundra and beneath the sea floor. Global warming might trigger the release of methane gas from these deposits. Significantly, methane inside the atmosphere oxidizes to CO2 after a decade or two. Thus, all the three given statements are correct.\nNote: Methane hydrate is also colloquially called 'Fire Ice' or 'burning ice' because it is flammable. Huge reserves of methane hydrate (Krishna-Godavari basin) are present in India."
+    }
+  },
+  {
+    "id": 30,
+    "year": "2019",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कार्बन मोनोऑक्साइड",
+        "en": "Carbon monoxide"
+      },
+      {
+        "id": 2,
+        "hi": "मीथेन",
+        "en": "Methane"
+      },
+      {
+        "id": 3,
+        "hi": "ओज़ोन",
+        "en": "Ozone"
+      },
+      {
+        "id": 4,
+        "hi": "सल्फर डाइऑक्साइड",
+        "en": "Sulphur dioxide"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पर विचार कीजिये:\nफसल/जैव मात्रा के अवशेषों के दहन के कारण वायुमंडल में उपर्युक्त में से कौन-से निर्मुक्त होते हैं?",
+      "en": "Consider the following:\nWhich of the above are released into atmosphere due to the burning of crop/biomass residue?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 4",
+        "en": "1 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "'इंटरनेशनल रिसर्च जर्नल ऑफ अर्थ साइंसेज़' के शोध के अनुसार, फसल/जैव मात्रा के अवशेषों के दहन के फलस्वरूप वायुमंडल में नाइट्रोजन के ऑक्साइड (NOx), सल्फर डाइऑक्साइड, कार्बन डाइऑक्साइड, कार्बन मोनोऑक्साइड, ब्लैक कार्बन, ऑर्गेनिक कार्बन, मीथेन, ओज़ोन आदि निर्मुक्त होती हैं। अतः विकल्प (d) सही उत्तर है।",
+      "en": "According to the research of 'International Research Journal of Earth Sciences', combustion of crop/biomass residues results in the release of oxides of nitrogen (NOx), sulphur dioxide, carbon dioxide, carbon monoxide, black carbon, organic carbon, methane, ozone etc. into the atmosphere. Hence, option (d) is the correct answer."
+    }
+  },
+  {
+    "id": 31,
+    "year": "2019",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत में कार्बोफ्यूरेन, मिथाइल पैराथियॉन, फोरेट और ट्राइऐज़ोफॉस के इस्तेमाल को आशंका से देखा जाता है। ये रसायन किस रूप में इस्तेमाल किये जाते हैं?",
+      "en": "In India, the use of carbofuran, methyl parathion, phorate and triazophos is viewed with apprehension. These chemicals are used as"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कृषि में पीड़कनाशी",
+        "en": "pesticides in agriculture"
+      },
+      {
+        "id": "B",
+        "hi": "संसाधित खाद्यों में परिरक्षक",
+        "en": "preservatives in processed foods"
+      },
+      {
+        "id": "C",
+        "hi": "फल-पक्वन कारक",
+        "en": "fruit-ripening agents"
+      },
+      {
+        "id": "D",
+        "hi": "प्रसाधन सामग्री में नमी बनाए रखने वाले कारक",
+        "en": "moisturising agents in cosmetics"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कार्बोफ्यूरेन, मिथाइल पैराथियॉन, फोरेट और ट्राइऐज़ोफॉस इत्यादि रसायनों का इस्तेमाल कृषि में पीड़कनाशी (pesticides) के तौर पर किया जाता है।",
+      "en": "Chemicals like carbofuran, methyl parathion, phorate and triazophos are used as pesticides in agriculture."
+    }
+  },
+  {
+    "id": 32,
+    "year": "2019",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कृषि मृदाएँ पर्यावरण में नाइट्रोजन के ऑक्साइड निर्मुक्त करती हैं।",
+        "en": "Agricultural soils release nitrogen oxides into environment."
+      },
+      {
+        "id": 2,
+        "hi": "मवेशी पर्यावरण में अमोनिया निर्मुक्त करते हैं।",
+        "en": "Cattle release ammonia into environment."
+      },
+      {
+        "id": 3,
+        "hi": "कुक्कुट उद्योग पर्यावरण में अभिक्रियाशील नाइट्रोजन यौगिक निर्मुक्त करते हैं।",
+        "en": "Poultry industry releases reactive nitrogen compounds into environment."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "2018 में जारी 'इंडियन नाइट्रोजन असेसमेंट रिपोर्ट' के अनुसार, वर्ष 2010 में भारत में नाइट्रोजन के ऑक्साइडों के उत्सर्जन के मामले में कृषि मृदाओं (Agricultural Soils) का योगदान 70% से अधिक रहा था। इस रिपोर्ट के अनुसार, 80% अमोनिया उत्पादन के लिये मवेशी ज़िम्मेदार हैं। कुक्कुट उद्योग द्वारा 6% की वार्षिक वृद्धि दर के साथ, 2016 में 0.415 टन अभिक्रियाशील नाइट्रोजन यौगिकों (Reactive Nitrogen Compounds) का उत्सर्जन किया गया। अतः कथन 1, 2 और 3 तीनों सही हैं।",
+      "en": "According to the 'Indian Nitrogen Assessment Report' released in 2018, the contribution of agricultural soils to nitrogen oxide emissions in India was over 70% in the year 2010. According to this report, cattle are responsible for 80% of ammonia production. The poultry industry, with an annual growth rate of 6%, emitted 0.415 tons of reactive nitrogen compounds in 2016. Hence statements 1, 2 and 3 are all correct."
+    }
+  },
+  {
+    "id": 33,
+    "year": "2019",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "H-CNG के इस्तेमाल का मुख्य लाभ कार्बन मोनोऑक्साइड के उत्सर्जनों का विलोपन है।",
+        "en": "The main advantage of the use of H-CNG is the elimination of carbon monoxide emissions."
+      },
+      {
+        "id": 2,
+        "hi": "ईंधन के रूप में H-CNG कार्बन डाइऑक्साइड और हाइड्रोकार्बन उत्सर्जनों को कम करती है।",
+        "en": "H-CNG as fuel reduces carbon dioxide and hydrocarbon emissions."
+      },
+      {
+        "id": 3,
+        "hi": "बसों के लिये ईंधन के रूप में CNG के साथ हाइड्रोजन को आयतन के आधार पर पाँचवें हिस्से तक मिलाया जा सकता है।",
+        "en": "Hydrogen up to one-fifth by volume can be blended with CNG as fuel for buses."
+      },
+      {
+        "id": 4,
+        "hi": "CNG की अपेक्षा H-CNG ईंधन को कम खर्चीला बनाती है।",
+        "en": "H-CNG makes the fuel less expensive than CNG."
+      }
+    ],
+    "question": {
+      "hi": "सार्वजनिक परिवहन में बसों के लिये ईंधन के रूप में हाइड्रोजन संवर्द्धित CNG (H-CNG) का इस्तेमाल करने के प्रस्तावों के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "In the context of proposals to the use of hydrogen-enriched CNG (H-CNG) as fuel for buses in public transport, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 4",
+        "en": "4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "H-CNG के इस्तेमाल से कार्बन मोनोऑक्साइड के उत्सर्जन में 70% तक कमी आएगी। कथन 1 विलोपन (Elimination) की बात कर रहा है जो सही नहीं है। ईंधन के रूप में H-CNG कार्बन डाइऑक्साइड और हाइड्रोकार्बन उत्सर्जन को कम (Reduces) करती है, अतः कथन 2 सही है। बसों के लिये ईंधन के रूप में CNG के साथ हाइड्रोजन को आयतन के आधार पर पाँचवें हिस्से (18–20%) तक मिलाया जा सकता है, अतः कथन 3 भी सही है। हाइड्रोजन की लागत प्राकृतिक गैस की लागत से अधिक है जिसके परिणामस्वरूप HCNG, CNG की तुलना में महँगा है। अतः कथन 4 सही नहीं है।",
+      "en": "The use of H-CNG will reduce carbon monoxide emissions by up to 70%. Statement 1 talks about elimination which is incorrect. H-CNG as a fuel reduces carbon dioxide and hydrocarbon emissions, hence statement 2 is correct. Hydrogen up to one-fifth by volume (18-20%) can be blended with CNG as fuel for buses, hence statement 3 is also correct. The cost of hydrogen is higher than the cost of natural gas, as a result of which HCNG is more expensive than CNG. Hence statement 4 is incorrect."
+    }
+  },
+  {
+    "id": 34,
+    "year": "2019",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत में ठोस अपशिष्ट प्रबंधन नियम, 2016 के अनुसार निम्नलिखित में से कौन-सा एक कथन सही है?",
+      "en": "As per the Solid Waste Management Rules, 2016 in India, which one of the following statements is correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अपशिष्ट उत्पादक को पाँच कोटियों में अपशिष्ट अलग-अलग करने होंगे।",
+        "en": "Waste generator has to segregate waste into five categories."
+      },
+      {
+        "id": "B",
+        "hi": "ये नियम केवल अधिसूचित नगरीय स्थानीय निकायों, अधिसूचित नगरों तथा सभी औद्योगिक नगरों पर ही लागू होंगे।",
+        "en": "The Rules are applicable to notified urban local bodies, notified towns and all industrial townships only."
+      },
+      {
+        "id": "C",
+        "hi": "इन नियमों में अपशिष्ट भराव स्थलों तथा अपशिष्ट प्रसंस्करण सुविधाओं के लिये सटीक और ब्योरेवार मानदंड उपबंधित हैं।",
+        "en": "The Rules provide for exact and elaborate criteria for the identification of sites for landfills and waste processing facilities."
+      },
+      {
+        "id": "D",
+        "hi": "अपशिष्ट उत्पादक के लिये यह आज्ञापक होगा कि किसी एक ज़िले में उत्पादित अपशिष्ट, किसी अन्य ज़िले में न ले जाया जाए।",
+        "en": "It is mandatory on the part of waste generator that the waste generated in one district cannot be moved to another district."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "ठोस अपशिष्ट प्रबंधन नियम, 2016 में अपशिष्ट भराव स्थलों व अपशिष्ट प्रसंस्करण सुविधाओं के लिये ब्योरेवार मानदंड उपबंधित हैं। नोट: 1 अप्रैल, 2026 से ठोस अपशिष्ट प्रबंधन नियम, 2026 प्रभावी है।",
+      "en": "The Solid Waste Management Rules, 2016 provide detailed criteria for waste landfills and waste processing facilities. Note: From 1st April 2026, the Solid Waste Management Rules, 2026 are effective."
+    }
+  },
+  {
+    "id": 35,
+    "year": "2019",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत में निम्नलिखित में से किसमें एक महत्त्वपूर्ण विशेषता के रूप में 'विस्तारित उत्पादक दायित्व (Extended Producer Responsibility)' आरंभ किया गया था?",
+      "en": "In India, ‘Extended Producer Responsibility’ was introduced as an important feature in which of the following?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "जैव चिकित्सा अपशिष्ट (प्रबंधन और हथालन) नियम, 1998",
+        "en": "The Bio-medical Waste (Management and Handling) Rules, 1998"
+      },
+      {
+        "id": "B",
+        "hi": "पुनर्चक्रित प्लास्टिक (निर्माण और उपयोग) नियम, 1999",
+        "en": "The Recycled Plastic (Manufacture and Usage) Rules, 1999"
+      },
+      {
+        "id": "C",
+        "hi": "ई-अपशिष्ट (प्रबंधन और हथालन) नियम, 2011",
+        "en": "The e-Waste (Management and Handling) Rules, 2011"
+      },
+      {
+        "id": "D",
+        "hi": "खाद्य सुरक्षा और मानक विनियम, 2011",
+        "en": "The Food Safety and Standard Regulations, 2011"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "ई-अपशिष्ट (प्रबंधन और हथालन) नियम, 2011 के अंतर्गत एक महत्त्वपूर्ण विशेषता के रूप में 'विस्तारित उत्पादक दायित्व' (Extended Producer Responsibility–EPR) आरंभ किया गया था। EPR वस्तुतः इलेक्ट्रिकल और इलेक्ट्रॉनिक्स उपकरणों के निर्माताओं पर डाला जाने वाला पर्यावरणीय दायित्व है, जिसके तहत उन्हें ई-अपशिष्ट के संग्रहण, प्रबंधन एवं निपटान हेतु उत्तरदायी बनाया गया है। ध्यातव्य है कि ई-अपशिष्ट (प्रबंधन और हथालन) नियम, 2011 पर्यावरण, वन एवं जलवायु परिवर्तन मंत्रालय द्वारा पेश किया गया था। वर्तमान में देश में ई-कचरा प्रबंधन नियम, 2016 प्रभावी है जो अक्तूबर 2016 से अस्तित्त्व में आया। 22 मार्च, 2018 को अधिसूचना जीएसआर 261(E) के तहत ई-कचरा प्रबंधन नियम, 2016 को संशोधित किया गया।",
+      "en": "Under the e-Waste (Management and Handling) Rules, 2011, 'Extended Producer Responsibility' (EPR) was introduced as an important feature. EPR is essentially an environmental liability imposed on manufacturers of electrical and electronic equipment, under which they have been made responsible for the collection, management, and disposal of e-waste. It is to be noted that the e-Waste (Management and Handling) Rules, 2011 were introduced by the Ministry of Environment, Forest and Climate Change. Currently, the E-Waste Management Rules, 2016 are in force in the country, which came into existence from October 2016. On March 22, 2018, the E-Waste Management Rules, 2016 were amended under notification GSR 261(E)."
+    }
+  },
+  {
+    "id": 36,
+    "year": "2018",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "नदी की लवणता में कमी",
+        "en": "Decrease in the salinity in the river"
+      },
+      {
+        "id": 2,
+        "hi": "भौमजल का प्रदूषण",
+        "en": "Pollution of groundwater"
+      },
+      {
+        "id": 3,
+        "hi": "भौम जलस्तर का नीचे चले जाना",
+        "en": "Lowering of the water-table"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा/से नदी तल में बहुत अधिक बालू खनन का/के संभावित परिणाम हो सकता है/सकते हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Which of the following is/are the possible consequence/s of heavy sand mining in riverbeds?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "नदी तल में बहुत अधिक बालू खनन से भौमजल का प्रदूषण, भौमजल स्तर का नीचे चले जाना, भू-कटाव तथा भूस्खलन जैसी घटनाएँ होती हैं। इन घटनाओं से एक ओर जहाँ प्राकृतिक आपदाओं में वृद्धि होती है, वहीं दूसरी ओर नदी की जैव विविधता भी नष्ट होती है। इससे नदी की लवणता में कमी आए, ऐसे लक्षण नहीं दिखाई देते। अतः विकल्प (b) सही है।",
+      "en": "Excessive sand mining in the river bed causes pollution of groundwater, lowering of the groundwater level, soil erosion and landslides. Due to these events, on one hand natural disasters increase, and on the other hand, the biodiversity of the river is also destroyed. Symptoms like a decrease in the salinity of the river are not seen due to this. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 37,
+    "year": "2018",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित कथनों में से कौन-सा 'कार्बन निषेचन' (कार्बन फर्टिलाइज़ेशन) को सर्वोत्तम वर्णित करता है?",
+      "en": "Which of the following statements best describes \"carbon fertilization\"?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "वायुमंडल में कार्बन डाइऑक्साइड की बढ़ी हुई सांद्रता के कारण बढ़ी हुई पादप वृद्धि",
+        "en": "Increased plant growth due to increased concentration of carbon dioxide in the atmosphere"
+      },
+      {
+        "id": "B",
+        "hi": "वायुमंडल में कार्बन डाइऑक्साइड की बढ़ी हुई सांद्रता के कारण पृथ्वी का बढ़ा हुआ तापमान",
+        "en": "Increased temperature of Earth due to increased concentration of carbon dioxide in the atmosphere"
+      },
+      {
+        "id": "C",
+        "hi": "वायुमंडल में कार्बन डाइऑक्साइड की बढ़ी हुई सांद्रता के परिणामस्वरूप महासागरों की बढ़ी हुई अम्लता",
+        "en": "Increased acidity of oceans as a result of increased concentration of carbon dioxide in the atmosphere"
+      },
+      {
+        "id": "D",
+        "hi": "वायुमंडल में कार्बन डाइऑक्साइड की बढ़ी हुई सांद्रता के द्वारा हुए जलवायु परिवर्तन के अनुरूप पृथ्वी पर सभी जीवधारियों का अनुकूलन",
+        "en": "Adaptation of all living beings on Earth to the climate change brought about by the increased concentration of carbon dioxide in the atmosphere"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "CO2 को वायुमंडल में जाने से रोककर धरती के अंदर पहुँचाने की इस विधि को कार्बन निषेचन/कार्बन फर्टिलाइज़ेशन कहते हैं, जो ग्रीन हाउस गैसों के उत्सर्जन में कमी लाने के साथ ही कृषि के लिये महत्त्वपूर्ण साबित हो सकती है, जो पौधों की वृद्धि में सहायक होगी। अतः विकल्प (a) सही है।",
+      "en": "This method of preventing CO2 from entering the atmosphere and putting it inside the earth is called carbon fertilization, which, along with reducing the emission of green house gases, can prove to be important for agriculture, which will help in the growth of plants. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 38,
+    "year": "2018",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "'छठा व्यापक विलोप/छठा विलोप' यह शब्द किसकी विवेचना के संदर्भ में समाचारों में प्रायः उल्लिखित होता है?",
+      "en": "The term \"sixth mass extinction/sixth extinction\" is often mentioned in the news in the context of the discussion of"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "विश्व के बहुत से भागों में कृषि में व्यापक रूप में एकधान्य कृषि प्रथा और बड़े पैमाने पर वाणिज्यिक कृषि के साथ रसायनों के अविवेकी प्रयोग के परिणामस्वरूप अच्छे देशी पारितंत्र की हानि।",
+        "en": "Widespread monoculture practices in agriculture and large-scale commercial farming with indiscriminate use of chemicals in many parts of the world that may result in the loss of good native ecosystems."
+      },
+      {
+        "id": "B",
+        "hi": "आसन्न भविष्य में पृथ्वी के साथ उल्कापिंड की संभावित टक्कर का भय, जैसा कि 65 मिलियन वर्ष पहले हुआ था और जिसके कारण डायनासोर की जातियों समेत अनेक जातियों का व्यापक रूप से विलोप हो गया।",
+        "en": "Fears of a possible collision of a meteorite with the Earth in the near future in the manner it happened 65 million years ago that caused the mass extinction of many species including those of dinosaurs."
+      },
+      {
+        "id": "C",
+        "hi": "विश्व के अनेक भागों में आनुवंशिकतः रूपांतरित फसलों की व्यापक रूप में खेती और विश्व के दूसरे भागों में उनकी खेती को बढ़ावा देना, जिसके कारण अच्छे देशी फसली पादपों का विलोप हो सकता है और खाद्य जैव-विविधता की हानि हो सकती है।",
+        "en": "Large scale cultivation of genetically modified crops in many parts of the world and promoting their cultivation in other parts of the world which may cause the disappearance of good native crop plants and the loss of food biodiversity."
+      },
+      {
+        "id": "D",
+        "hi": "मानव द्वारा प्राकृतिक संसाधनों का अतिदोहन/दुरुपयोग, प्राकृतिक आवासों का संविभाजन/नाश, पारितंत्र का विनाश, प्रदूषण और वैश्विक जलवायु परिवर्तन।",
+        "en": "Mankind's over-exploitation/misuse of natural resources, fragmentation/loss of natural habitats, destruction of ecosystems, pollution and global climate change."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "वैज्ञानिकों ने चेतावनी दी है कि पृथ्वी पर छठा व्यापक विलोप (Six mass extinction/Sixth extinction) जैव विविधता के विनाश के रूप में सामने आ रहा है। माना जा रहा है कि जैव विविधता के इस विनाश की प्रवृत्ति से 30 प्रतिशत से अधिक कशेरुकी जंतु (रीढ़ की हड्डी वाले), मछली, पक्षी, उभयचर, सरीसृप और स्तनधारियों की आबादी में तेज़ी से गिरावट आ रही है। इस प्रवृत्ति के मुख्य कारणों में मानव द्वारा प्राकृतिक संसाधनों का अतिदोहन/दुरुपयोग, प्राकृतिक आवासों एवं पारितंत्र का विनाश, प्रदूषण और वैश्विक जलवायु परिवर्तन शामिल हैं।",
+      "en": "Scientists have warned that the sixth mass extinction on Earth is emerging in the form of destruction of biodiversity. It is believed that due to this trend of destruction of biodiversity, the population of more than 30 percent of vertebrate animals, fish, birds, amphibians, reptiles and mammals is declining rapidly. The main reasons for this trend include over-exploitation/misuse of natural resources by humans, destruction of natural habitats and ecosystems, pollution and global climate change."
+    }
+  },
+  {
+    "id": 39,
+    "year": "2018",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "अरल सागर",
+        "en": "Aral Sea"
+      },
+      {
+        "id": 2,
+        "hi": "काला सागर",
+        "en": "Black Sea"
+      },
+      {
+        "id": 3,
+        "hi": "बैकाल झील",
+        "en": "Lake Baikal"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा/से मानव क्रियाकलापों के कारण हाल में बहुत अधिक संकुचित हो गया है/सूख गया है?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Which of the following has/have shrunk immensely/dried up in the recent past due to human activities?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "D",
+        "hi": "1 और 3",
+        "en": "1 and 3"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "मानवीय गतिविधियों के कारण अरल सागर तेज़ी से सूखता जा रहा है। एक समय 68000 वर्ग किलोमीटर के क्षेत्र में विस्तृत यह वर्तमान में अपने मूल क्षेत्रफल का लगभग 10% ही शेष रह गया है।",
+      "en": "The Aral Sea is drying up rapidly due to human activities. Spread over an area of ​​68000 square kilometers at one time, it is currently left with only about 10% of its original area."
+    }
+  },
+  {
+    "id": 40,
+    "year": "2017",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह प्रकृति में घटित होने वाली जैवनिम्नीकरण प्रक्रिया का ही संवर्द्धन कर प्रदूषण को स्वच्छ करने की तकनीक है।",
+        "en": "It is a technique for cleaning up pollution by enhancing the same biodegradation process that occurs in nature."
+      },
+      {
+        "id": 2,
+        "hi": "कैडमियम और लेड जैसी धातुओं से युक्त किसी भी संदूषक को सूक्ष्मजीवों के प्रयोग से जैवोपचारण द्वारा सहज ही और पूरी तरह उपचारित किया जा सकता है।",
+        "en": "Any contaminant with heavy metals such as cadmium and lead can be readily and completely treated by bioremediation using microorganisms."
+      },
+      {
+        "id": 3,
+        "hi": "जैवोपचारण के लिये विशेषतः अभिकल्पित सूक्ष्मजीवों को सृजित करने के लिये आनुवंशिक इंजीनियरी (जेनेटिक इंजीनियरिंग) का उपयोग किया जा सकता है।",
+        "en": "Genetic engineering can be used to create microorganisms specifically designed for bioremediation."
+      }
+    ],
+    "question": {
+      "hi": "प्रदूषण की समस्याओं का समाधान करने के संदर्भ में, जैवोपचारण (बायोरेमीडिएशन) तकनीक के कौन-सा/से लाभ है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "In the context of solving pollution problems, what is/are the advantage/advantages of bioremediation technique?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "बायोरेमीडिएशन एक अपशिष्ट प्रबंधन तकनीक है जिसमें प्रदूषकों को अपघटित करने के लिये 'सूक्ष्मजीवों' का प्रयोग किया जाता है। प्रदूषकों को कम विषैले या गैर-विषैले पदार्थों में बदलने के लिये प्रयुक्त सूक्ष्मजीवों की क्षमता आनुवंशिक इंजीनियरिंग द्वारा बढ़ाई जा सकती है। हाल ही में कैडमियम व लेड जैसी भारी धातुओं को बायोरेमीडिएशन द्वारा अपघटित कर सकने वाले सूक्ष्मजीवों की खोज हुई है, परंतु अभी तक सभी भारी धातुओं का सहज एवं पूर्णतः बायोरेमीडिएशन संभव नहीं हो सका है। अतः उत्तर (c) सही है।",
+      "en": "Bioremediation is a waste management technique in which 'microorganisms' are used to decompose pollutants. The ability of microorganisms used to convert pollutants into less toxic or non-toxic substances can be enhanced by genetic engineering. Recently, microorganisms capable of decomposing heavy metals like cadmium and lead by bioremediation have been discovered, but so far simple and complete bioremediation of all heavy metals has not been possible. Hence answer (c) is correct."
+    }
+  },
+  {
+    "id": 41,
+    "year": "2017",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "जैव ऑक्सीजन मांग (BOD) किसके लिये एक मानक मापदंड है?",
+      "en": "Biological Oxygen Demand (BOD) is a standard criterion for"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "रक्त में ऑक्सीजन स्तर मापने के लिये",
+        "en": "Measuring oxygen levels in blood"
+      },
+      {
+        "id": "B",
+        "hi": "वन पारिस्थितिक तंत्रों में ऑक्सीजन स्तरों के अभिकलन के लिये",
+        "en": "Computing oxygen levels in forest ecosystems"
+      },
+      {
+        "id": "C",
+        "hi": "जलीय पारिस्थितिक तंत्रों में प्रदूषण के आमापन के लिये",
+        "en": "Measuring pollution in aquatic ecosystems"
+      },
+      {
+        "id": "D",
+        "hi": "उच्च तुंगता क्षेत्रों में ऑक्सीजन स्तरों के आकलन के लिये",
+        "en": "Assessing oxygen levels in high altitude regions"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "जल में ऑक्सीजन की बढ़ती मांग बढ़ते अपशिष्ट की मात्रा से सीधे तौर पर संबंधित है। इसी धारणा को जैव ऑक्सीजन मांग (BOD) के रूप में व्यक्त किया जाता है।\nजैव ऑक्सीजन मांग (BOD) जल में जैव निम्नीकरणीय यौगिकों के ऑक्सीकरण हेतु खपत होने वाली कुल ऑक्सीजन की मात्रा का द्योतक है।",
+      "en": "The increasing demand for oxygen in water is directly related to the increasing amount of waste. This concept is expressed as Biochemical Oxygen Demand (BOD).\nBiological Oxygen Demand (BOD) represents the total amount of oxygen consumed for the oxidation of biodegradable compounds in water."
+    }
+  },
+  {
+    "id": 42,
+    "year": "2017",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "परित्यक्त एवं गैर-लाभकारी कोयला संस्तर",
+        "en": "Abandoned and uneconomic coal seams"
+      },
+      {
+        "id": 2,
+        "hi": "निःशेष तेल एवं गैस भंडार",
+        "en": "Depleted oil and gas reservoirs"
+      },
+      {
+        "id": 3,
+        "hi": "भूमिगत गंभीर लवणीय शैलसमूह",
+        "en": "Subterranean deep saline formations"
+      }
+    ],
+    "question": {
+      "hi": "कार्बन डाइऑक्साइड के मानवोद्भव उत्सर्जनों के कारण आसन्न भूमंडलीय तापन के न्यूनीकरण के संदर्भ में, कार्बन प्रच्छादन हेतु निम्नलिखित में से कौन-सा/से संभावित स्थान हो सकता/सकते है/हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "In the context of mitigating the impending global warming due to anthropogenic emissions of carbon dioxide, which of the following can be the potential sites for carbon sequestration?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "मानवीय कारणों से उत्पन्न कार्बन डाइऑक्साइड के भूमंडलीय तापन के प्रभाव को न्यूनीकृत करने के लिये उपरोक्त तीनों प्रक्रियाएँ अपनाई जाती हैं। अतः 1, 2 और 3 संभावित स्थान हो सकते हैं।",
+      "en": "All the above three processes are adopted to mitigate the effect of global warming caused by anthropogenic carbon dioxide emissions. Therefore, 1, 2 and 3 can be potential sites."
+    }
+  },
+  {
+    "id": 43,
+    "year": "2016",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कार्बन डाइऑक्साइड",
+        "en": "Carbon dioxide"
+      },
+      {
+        "id": 2,
+        "hi": "कार्बन मोनोक्साइड",
+        "en": "Carbon monoxide"
+      },
+      {
+        "id": 3,
+        "hi": "नाइट्रोजन डाइऑक्साइड",
+        "en": "Nitrogen dioxide"
+      },
+      {
+        "id": 4,
+        "hi": "सल्फर डाइऑक्साइड",
+        "en": "Sulfur dioxide"
+      },
+      {
+        "id": 5,
+        "hi": "मीथेन",
+        "en": "Methane"
+      }
+    ],
+    "question": {
+      "hi": "हमारे देश के शहरों में वायु गुणवत्ता सूचकांक (Air Quality Index) का परिकलन करने में साधारणतया निम्नलिखित वायुमंडलीय गैसों में से किनको विचार में लिया जाता है?\nनीचे दिये गए कूटों का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "In the cities of our country, which among the following atmospheric gases are normally considered in calculating the value of Air Quality Index?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 4 और 5",
+        "en": "1, 4 and 5 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3, 4 और 5",
+        "en": "1, 2, 3, 4 and 5"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "राष्ट्रीय वायु गुणवत्ता सूचकांक 'पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय' द्वारा जारी (17 अक्तूबर, 2014) किया गया। यह 'स्वच्छ भारत मिशन' के तहत एक बड़ी पहल है। यह एक संख्या-एक रंग-एक-वर्णन (One colour-one number-one description) के रूप में कार्य करता है। AQI को छ: श्रेणियों (Good, Satisfactory, Moderately, Poor, Very poor तथा Severe) के रूप में वर्गीकृत किया गया है तथा इसमें 8 प्रदूषणकारी गैसों जैसे-PM10, PM2.5, NO₂, SO₂, CO, O₃, NH₃ तथा Pb की पहचान की गई है।\nनोट: इसमें CO₂ (कार्बन डाइऑक्साइड) और मीथेन को शामिल नहीं किया गया है। अतः 2, 3 और 4 सही हैं, विकल्प (b) सही है।",
+      "en": "The National Air Quality Index was released (17 October 2014) by the 'Ministry of Environment, Forest and Climate Change'. It is a major initiative under the 'Swachh Bharat Mission'. It functions as a One colour-one number-one description. AQI has been classified into six categories (Good, Satisfactory, Moderately, Poor, Very poor and Severe) and it identifies 8 polluting gases like- PM10, PM2.5, NO₂, SO₂, CO, O₃, NH₃ and Pb.\nNote: It does not include CO₂ (carbon dioxide) and Methane. Therefore, 2, 3 and 4 are correct, option (b) is correct."
+    }
+  },
+  {
+    "id": 44,
+    "year": "2015",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "नाइट्रोजन यौगिकीकरण सूक्ष्मजीवियों (नाइट्रोजन-फिक्सिंग माइक्रोऑर्गेनिज़्म्स) का मिट्टी में प्रचुरोद्भवन (प्रोलिफेरेशन) हो सकता है।",
+        "en": "Proliferation of nitrogen-fixing microorganisms in soil can occur."
+      },
+      {
+        "id": 2,
+        "hi": "मिट्टी की अम्लता में बढ़ोतरी हो सकती है।",
+        "en": "Increase in the acidity of soil can take place."
+      },
+      {
+        "id": 3,
+        "hi": "भौम जल (ग्राउंडवाटर) में नाइट्रेट का निक्षालन (लीचिंग) हो सकता है।",
+        "en": "Leaching of nitrate to the groundwater can occur."
+      }
+    ],
+    "question": {
+      "hi": "कृषि में नाइट्रोजनी उर्वरकों के अत्यधिक/अनुपयुक्त उपयोग का क्या प्रभाव हो सकता है?\nनीचे दिये गए कूटों का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "What can be the impact of excessive/inappropriate use of nitrogenous fertilizers in agriculture?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "नाइट्रोजन उर्वरकों की अधिकता से नाइट्रोजन फिक्सिंग माइक्रो ऑर्गनिज़्म्स का प्रचुरोद्भवन नहीं होता, अतः कथन 1 गलत है। नाइट्रोजन उर्वरक (विशेषकर अमोनियम आधारित नाइट्रोजन उर्वरक) नाइट्रीफिकेशन क्रिया के कारण मृदा में H⁺ आयन छोड़ते हैं जिससे मृदा की अम्लीयता में वृद्धि हो जाती है। अतः कथन 2 सही है। नाइट्रोजन उर्वरक नाइट्रेट आयन (NO₃⁻) मुक्त करते हैं जो अस्थिर होता है एवं पादपों के लिये तत्काल उपलब्ध होता है। नाइट्रोजन उर्वरकों के अधिक प्रयोग एवं अधिक सिंचाई के कारण यह मुक्त नाइट्रेट पादपों की जड़ों से नीचे चला जाता है एवं निक्षालित (Leaching) होकर भूमिगत जल को प्रभावित करता है। अतः कथन 3 सही है। अतः सही उत्तर विकल्प (c) होगा।",
+      "en": "Excess of nitrogenous fertilizers does not lead to proliferation of nitrogen fixing microorganisms, hence statement 1 is wrong. Nitrogenous fertilizers (especially ammonium based nitrogenous fertilizers) release H⁺ ions in the soil due to nitrification process, which increases the acidity of the soil. Hence statement 2 is correct. Nitrogenous fertilizers release nitrate ion (NO₃⁻) which is unstable and immediately available to the plants. Due to excessive use of nitrogenous fertilizers and excessive irrigation, this free nitrate goes down from the roots of the plants and affects the groundwater by leaching. Hence statement 3 is correct. Therefore, the correct answer will be option (c)."
+    }
+  },
+  {
+    "id": 45,
+    "year": "2014",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "सल्फर के ऑक्साइड",
+        "en": "Oxides of sulphur"
+      },
+      {
+        "id": 2,
+        "hi": "नाइट्रोजन के ऑक्साइड",
+        "en": "Oxides of nitrogen"
+      },
+      {
+        "id": 3,
+        "hi": "कार्बन मोनोऑक्साइड",
+        "en": "Carbon monoxide"
+      },
+      {
+        "id": 4,
+        "hi": "कार्बन डाइऑक्साइड",
+        "en": "Carbon dioxide"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-से कुछ महत्त्वपूर्ण प्रदूषक हैं, जो भारत में इस्पात उद्योग द्वारा मुक्त किये जाते हैं?\nनीचे दिये गए कूटों का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Which of the following are some important pollutants released by steel industry in India?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 4",
+        "en": "1 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "इस्पात उद्योगों, स्वचालित वाहनों, कोयले तथा डीज़ल के रेल इंजनों, वायुयानों तथा घरों में जीवाश्म ईंधन के दहन से कार्बन डाइऑक्साइड, सल्फर के ऑक्साइड, कार्बन मोनोऑक्साइड तथा कणिकीय पदार्थ जैसे-राख, धूल, कालिख, जलवाष्प आदि उत्पन्न होते हैं, जो वायुमंडल में पहुँचकर वायु को प्रदूषित करते हैं। इस्पात उत्पादन प्रक्रिया के दौरान सिंटरिंग मशीनों, कोक ओवन तथा भट्टियों से सल्फर और नाइट्रोजन मुक्त होते हैं। अतः सही विकल्प (d) है।",
+      "en": "The combustion of fossil fuels in steel industries, automobiles, coal and diesel rail engines, aeroplanes and homes produces carbon dioxide, oxides of sulfur, carbon monoxide and particulate matter such as ash, dust, soot, water vapor etc., which reach the atmosphere and pollute the air. During the steel production process, sulfur and nitrogen are released from sintering machines, coke ovens and furnaces. Hence, the correct option is (d)."
+    }
+  },
+  {
+    "id": 46,
+    "year": "2014",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "स्थलीय जीवमंडल एक नेट कार्बन स्रोत की ओर प्रवृत्त होगा।",
+        "en": "Terrestrial biosphere tends toward a net carbon source."
+      },
+      {
+        "id": 2,
+        "hi": "विस्तृत प्रवाल मर्त्यता घटित होगी।",
+        "en": "Widespread coral mortality will occur."
+      },
+      {
+        "id": 3,
+        "hi": "सभी भूमंडलीय आर्द्रभूमियाँ स्थायी रूप से लुप्त हो जाएंगी।",
+        "en": "All the global wetlands will permanently disappear."
+      },
+      {
+        "id": 4,
+        "hi": "अनाजों की खेती विश्व में कहीं भी संभव नहीं होगी।",
+        "en": "Cultivation of cereals will not be possible anywhere in the world."
+      }
+    ],
+    "question": {
+      "hi": "वैज्ञानिक दृष्टिकोण यह है कि विश्व तापमान पूर्व-औद्योगिक स्तर से 2°C से अधिक नहीं बढ़ना चाहिये। यदि विश्व तापमान पूर्व-औद्योगिक स्तर से 3°C के परे बढ़ जाता है, तो विश्व पर उसका संभावित असर क्या होगा?\nनीचे दिये गए कूटों का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "The scientific view is that the increase in global temperature should not exceed 2°C above pre-industrial level. If the global temperature increases beyond 3°C above the pre-industrial level, what can be its possible impact/impacts on the world?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "वैश्विक तापमान के पूर्व औद्योगिक स्तर के 3ºC से अधिक बढ़ने पर विषुवतीय वर्षा वनों के 'सवाना' में परिवर्तित होने की संभावना बढ़ जाएगी। जंगलों में आग की घटनाओं में वृद्धि, पादपों के सड़ने एवं अपघटन के कारण कार्बन डाइऑक्साइड का उत्सर्जन होगा। अतः स्थलीय जैवमंडल कार्बन सिंक से नेट कार्बन स्रोत की ओर प्रवृत्त होगा, अतः कथन 1 सही है। समुद्री तापमान में वृद्धि के कारण कोरल उनके साथ सहजीविता में रह रहे ज़ूजैन्थेली (Zooxanthellae) शैवाल को निष्कासित करने लगते हैं। चूँकि शैवाल विभिन्न रंगों के होते हैं, अतः प्रवाल भित्तियाँ रंगीन दिखाई देती हैं परंतु शैवाल को निष्कासित करने के कारण प्रवालों द्वारा बनाया हुआ कैल्शियम कार्बोनेट (चूना पत्थर) का ढेर बचा रह जाता है। अतः ये अब रंगहीन नज़र आते हैं। यह प्रक्रिया 'कोरल ब्लीचिंग' कहलाती है तथा शैवालों द्वारा प्रकाश संश्लेषण की क्रिया में बनाया गया भोजन भी अब प्रवालों को नहीं मिल पाता है जिस कारण प्रवाल मर्त्यता घटित होती है। (कथन 2 सही है) 3ºC तापमान वृद्धि से आर्द्र भूमियों में कमी अवश्य आएगी, किंतु उनके स्थायी रूप से लुप्त हो जाने की संभावना नहीं है। अतः कथन 3 गलत है। 3ºC तापमान वृद्धि से तटवर्ती क्षेत्र डूब जाएंगे लेकिन शीत कटिबंधों एवं उच्च पर्वतीय क्षेत्रों में बर्फ पिघलने से नई कृषि योग्य भूमि उत्पन्न होगी जहाँ अनाज उगाया जा सकेगा, अतः कथन 4 गलत है। अतः विकल्प (b) सही है।",
+      "en": "If global temperature rises by more than 3ºC from pre-industrial levels, the likelihood of equatorial rainforests converting to 'savannas' will increase. There will be an emission of carbon dioxide due to an increase in forest fire incidents, rotting and decomposition of plants. Thus, the terrestrial biosphere will shift from a carbon sink towards a net carbon source, hence statement 1 is correct. Due to the rise in sea temperature, corals start expelling the Zooxanthellae algae living in symbiosis with them. Since the algae are of different colors, the coral reefs appear colorful, but due to expelling the algae, only the pile of calcium carbonate (limestone) made by the corals remains. So they now look colourless. This process is called 'coral bleaching' and the food produced by the algae through photosynthesis is also no longer available to the corals, due to which coral mortality occurs. (Statement 2 is correct). A 3ºC temperature rise will certainly lead to a decrease in wetlands, but they are not likely to disappear permanently. Hence statement 3 is wrong. With a 3ºC temperature rise, coastal areas will submerge but melting of snow in frigid zones and high mountainous areas will create new cultivable land where cereals can be grown, hence statement 4 is wrong. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 47,
+    "year": "2014",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "वे पर्यावरण में संचित हो सकते हैं तथा जल और मृदा को संदूषित कर सकते हैं।",
+        "en": "They can accumulate in the environment, and contaminate water and soil."
+      },
+      {
+        "id": 2,
+        "hi": "वे खाद्य शृंखलाओं में प्रविष्ट हो सकते हैं।",
+        "en": "They can enter the food chains."
+      },
+      {
+        "id": 3,
+        "hi": "वे मुक्त मूलकों के उत्पादन को विमोचित कर सकते हैं।",
+        "en": "They can trigger the production of free radicals."
+      }
+    ],
+    "question": {
+      "hi": "विभिन्न उत्पादों के विनिर्माण में उद्योग द्वारा प्रयुक्त होने वाले कुछ रासायनिक तत्त्वों के नैनो-कणों के बारे में कुछ चिंता है। क्यों?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "There is some concern regarding the nanoparticles of some chemical elements that are used by the industry in the manufacture of various products. Why?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "नैनो पदार्थ/कण (Nano Matter) ऐसे पदार्थ होते हैं जिनके संरचनात्मक घटक 100 नैनो मीटर से कम आयाम रखते हैं। नैनो पदार्थ एक आयामी से लेकर बहुआयामी तक बनाए जा सकते हैं। प्रकृति में भी व्यापक रूप में पाए जाते हैं, जैसे- फोटोरासायनिक तथा ज्वालामुखी क्रियाशीलता के उत्पादों के रूप में या पौधे, शैवालों द्वारा निर्मित उत्पादों के रूप में इन नैनो कणों का प्रयोग विभिन्न उत्पादों के विनिर्माण में किया जाता है।\nइन नैनो कणों के कुछ प्रमुख दोष निम्न हैं-\nइनका जैव निम्नीकरण नहीं होता इसलिये ये पर्यावरण में संचित हो सकते हैं तथा जल और मृदा को संदूषित कर सकते हैं।\nये नैनो कण खाद्य शृंखलाओं में प्रविष्ट हो सकते हैं जिससे गंभीर स्वास्थ्य समस्याएँ उत्पन्न हो सकती हैं।\nमुक्त मूलकों के उत्पादन को उत्प्रेरित (Trigger) करते हैं।\nकुछ नैनो कण साँस द्वारा भीतर लेने पर फेफड़ों के संवेदनशील ऊतकों को क्षति पहुँचाते हैं और दीर्घकालीन साँस संबंधी रोग उत्पन्न करते हैं।\nनैनो कणों की अत्यधिक रासायनिक सक्रियता के कारण वे प्रतिक्रियाशील ऑक्सीजन कणों (Reactive Oxygen Particles) को उत्पन्न करते हैं। इन प्रतिक्रियाशील ऑक्सीजन कणों की उत्पत्ति नैनोटॉक्सिकोलॉजी का एक प्रमुख कारण है। इससे ऑक्सीडेटिव तनाव (Oxidative Stress), सूजन (Inflammation) होता है। साथ ही साथ प्रोटीन, DNA, कोशिका झिल्ली आदि के क्षतिग्रस्त होने की संभावना बनी रहती है। अतः विकल्प (d) सही है।",
+      "en": "Nano materials/particles (Nano Matter) are substances whose structural components have dimensions less than 100 nanometers. Nano materials can be made from one-dimensional to multi-dimensional. They are also found widely in nature, such as products of photochemical and volcanic activity, or products formed by plants and algae. These nanoparticles are used in the manufacture of various products.\nSome of the major drawbacks of these nanoparticles are:\nThey are not biodegradable, so they can accumulate in the environment and contaminate water and soil.\nThese nanoparticles can enter the food chains, which can cause serious health problems.\nThey trigger the production of free radicals.\nInhaling some nanoparticles damages sensitive lung tissues and causes chronic respiratory diseases.\nDue to the high chemical activity of nanoparticles, they produce Reactive Oxygen Particles. The generation of these reactive oxygen particles is a major cause of nanotoxicology. This leads to Oxidative Stress, Inflammation. Along with this, there is a possibility of damage to protein, DNA, cell membrane, etc. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 48,
+    "year": "2013",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "आर्सेनिक",
+        "en": "Arsenic"
+      },
+      {
+        "id": 2,
+        "hi": "सॉर्बिटॉल",
+        "en": "Sorbitol"
+      },
+      {
+        "id": 3,
+        "hi": "फ्लुओराइड",
+        "en": "Fluoride"
+      },
+      {
+        "id": 4,
+        "hi": "फॉर्मेल्डिहाइड",
+        "en": "Formaldehyde"
+      },
+      {
+        "id": 5,
+        "hi": "यूरेनियम",
+        "en": "Uranium"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-से भारत के कुछ भागों में पीने के जल में प्रदूषक के रूप में पाए जाते हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Which of the following are found as pollutants in the drinking water in some parts of India?\nSelect the correct answer using the codes given below."
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2, 4 और 5",
+        "en": "2, 4 and 5 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 3 और 5",
+        "en": "1, 3 and 5 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3, 4 और 5",
+        "en": "1, 2, 3, 4 and 5"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "भारत में 10 राज्यों का भू-जल, आर्सेनिक से प्रभावित पाया गया है, जबकि 20 राज्यों का भू-जल फ्लोराइड से प्रभावित है। दक्षिण पंजाब के कुछ ज़िलों में भू-जल में यूरेनियम एवं अन्य भारी धातुओं की अधिकता पाई गई है। केंद्रीय प्रदूषण नियंत्रण बोर्ड ने भारत में जिन प्रदूषकों को पेयजल-प्रदूषण के लिये उत्तरदायी माना है उनमें लवणता, फ्लोराइड, जिंक, क्रोमियम, भारी धातुएँ (पारा, यूरेनियम, कैडमियम आदि) प्रमुख हैं। बोर्ड ने सॉर्बिटॉल एवं फॉर्मेल्डिहाइड को भारत में पेयजल प्रदूषण के लिये उत्तरदायी नहीं माना है। अतः विकल्प (c) सही है।",
+      "en": "The groundwater of 10 states in India has been found to be affected by arsenic, while the groundwater of 20 states is affected by fluoride. An excess of uranium and other heavy metals has been found in the groundwater in some districts of South Punjab. The pollutants that the Central Pollution Control Board has considered responsible for drinking water pollution in India include salinity, fluoride, zinc, chromium, heavy metals (mercury, uranium, cadmium, etc.). The board has not considered sorbitol and formaldehyde responsible for drinking water pollution in India. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 49,
+    "year": "2013",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "बेरिलियम",
+        "en": "Beryllium"
+      },
+      {
+        "id": 2,
+        "hi": "कैडमियम",
+        "en": "Cadmium"
+      },
+      {
+        "id": 3,
+        "hi": "क्रोमियम",
+        "en": "Chromium"
+      },
+      {
+        "id": 4,
+        "hi": "हेप्टाक्लोर",
+        "en": "Heptachlor"
+      },
+      {
+        "id": 5,
+        "hi": "पारद",
+        "en": "Mercury"
+      },
+      {
+        "id": 6,
+        "hi": "सीसा",
+        "en": "Lead"
+      },
+      {
+        "id": 7,
+        "hi": "प्लूटोनियम",
+        "en": "Plutonium"
+      }
+    ],
+    "question": {
+      "hi": "पुराने और प्रयुक्त कंप्यूटरों या उनके पुर्जों के असंगत/अव्यवस्थित निपटान के कारण, निम्नलिखित में से कौन-से ई-अपशिष्ट के रूप में पर्यावरण में निर्मुक्त होते हैं?\nनीचे दिये गए कूटों का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Due to improper/indiscriminate disposal of old and used computers or their parts, which of the following are released into the environment as e-waste?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 3, 4, 6 और 7",
+        "en": "1, 3, 4, 6 and 7 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1, 2, 3, 5 और 6",
+        "en": "1, 2, 3, 5 and 6 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2, 4, 5 और 7",
+        "en": "2, 4, 5 and 7 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3, 4, 5, 6 और 7",
+        "en": "1, 2, 3, 4, 5, 6 and 7"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "पुराने इलेक्ट्रॉनिक सामान एवं उनके पुर्जों के अव्यवस्थित निपटान से बेरिलियम, कैडमियम, क्रोमियम, पारा, सीसा आदि ई-अपशिष्ट के रूप में वातावरण में मुक्त होते हैं। हेप्टाक्लोर एक कीटनाशक है जिसका प्रयोग कृषि क्षेत्र में किया जाता है। प्लूटोनियम एक रेडियोएक्टिव पदार्थ है जिसका प्रयोग परमाणु रिएक्टर, परमाणु हथियारों आदि में किया जाता है। अतः सही विकल्प (b) है।",
+      "en": "Due to improper disposal of old electronic goods and their parts, beryllium, cadmium, chromium, mercury, lead etc. are released into the atmosphere as e-waste. Heptachlor is an insecticide which is used in the agricultural sector. Plutonium is a radioactive substance which is used in nuclear reactors, nuclear weapons etc. Hence, the correct option is (b)."
+    }
+  },
+  {
+    "id": 50,
+    "year": "2013",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "अम्ल वर्षा किनके द्वारा होने वाले पर्यावरण प्रदूषण के कारण होती है?",
+      "en": "Acid rain is caused by the pollution of environment by"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "कार्बन डाइऑक्साइड और नाइट्रोजन",
+        "en": "carbon dioxide and nitrogen"
+      },
+      {
+        "id": "B",
+        "hi": "कार्बन मोनो ऑक्साइड और कार्बन डाइऑक्साइड",
+        "en": "carbon monoxide and carbon dioxide"
+      },
+      {
+        "id": "C",
+        "hi": "ओज़ोन और कार्बन डाइऑक्साइड",
+        "en": "ozone and carbon dioxide"
+      },
+      {
+        "id": "D",
+        "hi": "नाइट्रस ऑक्साइड और सल्फर डाइऑक्साइड",
+        "en": "nitrous oxide and sulphur dioxide"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "अम्ल वर्षा का कारण सल्फर के ऑक्साइड्स (SOx) एवं नाइट्रोजन के ऑक्साइड्स (NOx) तथा फार्मिक अम्ल हैं। मुख्यतः जीवाश्म ईंधन के दहन एवं तेल परिशोधनशालाओं से निकलने वाली ये गैसें जब वायुमंडल में पहुँचकर जल एवं ऑक्सीजन से क्रिया करती हैं तो सल्फ्यूरिक अम्ल (H2SO4) एवं नाइट्रिक अम्ल (HNO3) का निर्माण करती हैं। ये अम्ल वर्षा जल के साथ मिलकर धरातल पर पहुँचते हैं, इसे अम्ल वर्षा कहा जाता है। अतः विकल्प (d) सही है।",
+      "en": "The causes of acid rain are oxides of sulfur (SOx) and oxides of nitrogen (NOx) and formic acid. Mainly these gases emitted from the combustion of fossil fuels and oil refineries when reach the atmosphere and react with water and oxygen, form sulfuric acid (H2SO4) and nitric acid (HNO3). These acids mix with rainwater and reach the ground, this is called acid rain. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 51,
+    "year": "2013",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "प्रकाश-रासायनिक धूम का बनना किनके बीच अभिक्रिया का परिणाम होता है?",
+      "en": "Photochemical smog is a resultant of the reaction among"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "NO₂, O₃ तथा पेरॉक्सीएसिटिल नाइट्रेट के बीच, सूर्य के प्रकाश की उपस्थिति में",
+        "en": "NO₂, O₃ and peroxyacetyl nitrate in the presence of sunlight"
+      },
+      {
+        "id": "B",
+        "hi": "CO, O₂ तथा पेरॉक्सीएसिटिल नाइट्रेट के बीच, सूर्य के प्रकाश की उपस्थिति में",
+        "en": "CO, O₂ and peroxyacetyl nitrate in the presence of sunlight"
+      },
+      {
+        "id": "C",
+        "hi": "CO, CO₂ तथा NO₂ के बीच, निम्न ताप पर",
+        "en": "CO, CO₂ and NO₂ at low temperature"
+      },
+      {
+        "id": "D",
+        "hi": "NO₂ के उच्च सांद्रण, O₃ तथा CO के बीच, शाम के समय",
+        "en": "High concentration of NO₂, O₃ and CO in the evening"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "प्रकाश-रासायनिक धूम कोहरा (Photochemical Smog) की उत्पत्ति जीवाश्म ईंधन के दहन से उत्पन्न प्रदूषकों (NO₂, हाइड्रोकार्बन आदि) की प्रकाश से अभिक्रिया से होती है। स्वचालित वाहनों एवं औद्योगिक इकाइयों से निकलने वाली नाइट्रोजन डाइऑक्साइड (NO₂) गैस सूर्य के प्रकाश की उपस्थिति में नाइट्रिक ऑक्साइड एवं परमाण्वीय ऑक्सीजन में परिवर्तित हो जाती है। परमाण्वीय ऑक्सीजन (O), ऑक्सीजन गैस (O₂) से क्रिया कर ओज़ोन (O₃) का निर्माण करती है। NO₂ ऑक्सीजन एवं हाइड्रोकार्बन से मिलकर पेरॉक्सीएसिटिल नाइट्रेट में परिवर्तित हो जाता है। इन तीनों (NO₂, O₃ एवं पेरॉक्सीएसिटिल नाइट्रेट) के सूर्य की उपस्थिति में अभिक्रिया करने से प्रकाश रासायनिक धूम कोहरा की उत्पत्ति होती है। इससे दृश्यता में कमी, श्वसन समस्याएँ, रिकेट्स रोग में वृद्धि होती है।",
+      "en": "Photochemical Smog is produced by the reaction of pollutants (NO₂, hydrocarbons etc.) produced by the combustion of fossil fuels with sunlight. Nitrogen dioxide (NO₂) gas emitted from automobiles and industrial units is converted into nitric oxide and atomic oxygen in the presence of sunlight. Atomic oxygen (O) reacts with oxygen gas (O₂) to form ozone (O₃). NO₂ reacts with oxygen and hydrocarbons to convert into peroxyacetyl nitrate. The reaction of these three (NO₂, O₃ and peroxyacetyl nitrate) in the presence of sunlight leads to the origin of photochemical smog. This causes decreased visibility, respiratory problems, and an increase in rickets disease."
+    }
+  },
+  {
+    "id": 52,
+    "year": "2012",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "वायु में कार्बन डाइऑक्साइड की बढ़ती हुई मात्रा से वायुमंडल का तापमान धीरे-धीरे बढ़ रहा है, क्योंकि कार्बन डाइऑक्साइड-",
+      "en": "The increasing amount of carbon dioxide in the air is slowly raising the temperature of the atmosphere, because it absorbs"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "वायु में उपस्थित जलवाष्प को अवशोषित कर उसकी ऊष्मा को संचित करती है",
+        "en": "the water vapour of the air and retains its heat"
+      },
+      {
+        "id": "B",
+        "hi": "सौर विकिरण के पराबैंगनी अंश को अवशोषित करती है",
+        "en": "the ultraviolet part of the solar radiation"
+      },
+      {
+        "id": "C",
+        "hi": "संपूर्ण सौर विकिरण को अवशोषित करती है",
+        "en": "all the solar radiations"
+      },
+      {
+        "id": "D",
+        "hi": "सौर विकिरण के अवरक्त अंश को अवशोषित करती है",
+        "en": "the infrared part of the solar radiation"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "वायुमंडल के संगठन में कार्बन डाइऑक्साइड का योगदान मात्र 0.03% है परंतु पृथ्वी पर ऊष्मा बनाए रखने में इसका पर्याप्त योगदान है। कार्बन डाइऑक्साइड तथा अन्य हरित गृह गैसें पृथ्वी से परावर्तित दीर्घ तरंग विकिरण जो सौर विकिरण के अवरक्त अंश होते हैं, को अवशोषित कर लेती हैं जिससे तापमान में वृद्धि दर्ज की जाती है। सौर विकिरण के पराबैंगनी अंश लघुतरंग होते हैं। अतः विकल्प (d) सही है।",
+      "en": "The contribution of carbon dioxide to the composition of the atmosphere is only 0.03% but it has a substantial contribution in maintaining heat on the earth. Carbon dioxide and other greenhouse gases absorb the long wave radiation reflected from the earth which are the infrared part of the solar radiation, due to which an increase in temperature is recorded. The ultraviolet part of solar radiation consists of short waves. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 53,
+    "year": "2012",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "समोच्च बाँध",
+        "en": "Contour bunding"
+      },
+      {
+        "id": 2,
+        "hi": "अनुपद सस्यन",
+        "en": "Relay cropping"
+      },
+      {
+        "id": 3,
+        "hi": "शून्य जुताई",
+        "en": "Zero tillage"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कृषि पद्धतियों पर विचार कीजिये:\nवैश्विक जलवायु परिवर्तन के संदर्भ में, उपर्युक्त में से कौन-सा/से मृदा में कार्बन प्रच्छादन/संग्रहण में सहायक है/हैं?",
+      "en": "Consider the following agricultural practices:\nIn the context of global climate change, which of the above helps/help in carbon sequestration/storage in the soil?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "इनमें से कोई नहीं",
+        "en": "None of them"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कार्बन संग्रहण (Carbon Sequestration), वायुमंडलीय कार्बन को अवशोषित करने की एक विधि है। मृदा, कार्बन संग्रहण का एक प्रमुख घटक है। कृषि पद्धतियों में कुछ संशोधन लाकर मृदा को कार्बन सिंक के रूप में विकसित किया जा सकता है। शून्य जुताई (Zero Tillage), फसल उत्पादन के लिये मृदा के छेड़छाड़ की संभावना को कम करता है। इसके अंतर्गत मल्चिंग को भी शामिल किया जाता है जिसके तहत फसल के अवशेषों (Residues) को खेत में ही फैला दिया जाता है। यह प्रक्रिया सामान्यतः मृदा अपरदन में कमी, मृदा का संरक्षण करने के साथ-साथ ऊपरी मृदा में कार्बन की मात्रा को बढ़ावा देती है। यह विधि कृषि गतिविधियों के दौरान कृषि वर्ज्यों के जलाए जाने की संभावना में भी कमी लाती है। शून्य जुताई को कार्बन संग्रहण की एक महत्त्वपूर्ण कृषि प्रविधि के रूप में जाना जाता है, जबकि समोच्च बाँध एवं अनुपद सस्यन (Contour Bunding and Relay Cropping) मृदा में कार्बन संग्रहण के लिये महत्त्वपूर्ण नहीं हैं। अतः सही विकल्प (b) है।",
+      "en": "Carbon Sequestration is a method of absorbing atmospheric carbon. Soil is a major component of carbon sequestration. By bringing some modifications in agricultural practices, soil can be developed as a carbon sink. Zero tillage reduces the possibility of soil manipulation for crop production. Under this, mulching is also included under which crop residues are spread in the field itself. This process generally leads to a reduction in soil erosion, conservation of soil as well as an increase in the amount of carbon in the topsoil. This method also reduces the possibility of burning agricultural waste during agricultural activities. Zero tillage is known as an important agricultural technique for carbon sequestration, whereas Contour Bunding and Relay Cropping are not important for carbon sequestration in the soil. Hence, the correct option is (b)."
+    }
+  },
+  {
+    "id": 54,
+    "year": "2012",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कैल्सियमी पादपप्लवक की वृद्धि और उत्तरजीविता प्रतिकूल रूप से प्रभावित होगी।",
+        "en": "The growth and survival of calcareous phytoplankton will be adversely affected."
+      },
+      {
+        "id": 2,
+        "hi": "प्रवाल-भित्ति की वृद्धि और उत्तरजीविता प्रतिकूल रूप से प्रभावित होगी।",
+        "en": "The growth and survival of coral reefs will be adversely affected."
+      },
+      {
+        "id": 3,
+        "hi": "कुछ प्राणी, जिनके डिम्भक पादपप्लवकीय होते हैं, की उत्तरजीविता प्रतिकूल रूप से प्रभावित होगी।",
+        "en": "The survival of some animals that have phytoplanktonic larvae will be adversely affected."
+      },
+      {
+        "id": 4,
+        "hi": "मेघ बीजन और मेघों का बनना प्रतिकूल रूप से प्रभावित होगा।",
+        "en": "The cloud seeding and formation of clouds will be adversely affected."
+      }
+    ],
+    "question": {
+      "hi": "महासागरों का अम्लीकरण बढ़ रहा है। यह घटना क्यों चिंता का विषय है?\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "The acidification of oceans is increasing. Why is this phenomenon a cause of concern?\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "महासागरों की अम्लीयता में वृद्धि के कारण महासागरों में पाई जाने वाली कैल्शियम कार्बोनेट संरचनाओं का विलय होना प्रारंभ हो जाता है। इससे प्रवाल भित्तियाँ एवं कैल्शियम पादप प्लवक नकारात्मक रूप से प्रभावित होते हैं। अम्लीयता में वृद्धि से अनेक प्राणियों में निषेचन एवं उनके लार्वा का विकास नकारात्मक रूप से प्रभावित होता है। अतः कथन 1, 2 और 3 सही हैं। मेघ बीजन (Cloud Seeding) वह प्रक्रिया है जिसमें सिल्वर आयोडाइड, पोटेशियम एवं शुष्क बर्फ (CO₂) का वायु में छिड़काव किया जाता है। ये पदार्थ जलग्राही नाभिक की तरह कार्य करते हैं एवं वायुमंडलीय नमी को एकत्रित कर कृत्रिम वर्षा में सहायक होते हैं। अतः मेघबीजन का संबंध महासागरों के अम्लीकरण से नहीं है। इसलिये कथन 4 गलत है। अतः विकल्प (a) सही है।",
+      "en": "Due to the increase in acidity of the oceans, the calcium carbonate structures found in the oceans begin to dissolve. Due to this, coral reefs and calcareous phytoplankton are negatively affected. Increase in acidity negatively affects fertilization and development of larvae in many animals. Hence statements 1, 2 and 3 are correct. Cloud seeding is the process in which silver iodide, potassium and dry ice (CO₂) are sprayed in the air. These substances act like hygroscopic nuclei and help in artificial rain by collecting atmospheric moisture. Therefore, cloud seeding is not related to ocean acidification. Hence statement 4 is wrong. Thus, option (a) is correct."
+    }
+  },
+  {
+    "id": 55,
+    "year": "2011",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कार्बन डाइऑक्साइड",
+        "en": "Carbon dioxide"
+      },
+      {
+        "id": 2,
+        "hi": "नाइट्रोजन के ऑक्साइड",
+        "en": "Oxides of nitrogen"
+      },
+      {
+        "id": 3,
+        "hi": "सल्फर के ऑक्साइड",
+        "en": "Oxides of sulphur"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित पर विचार कीजिये:\nउपर्युक्त में से कौन-सा/से उत्सर्जन ऊष्मीय शक्ति संयंत्रों (थर्मल पावर प्लांट्स) में कोयला दहन से उत्सर्जित होता है/होते हैं?",
+      "en": "Consider the following:\nWhich of the above is/are the emission/emissions from coal combustion at thermal power plants?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "तापीय शक्ति संयंत्रों में विद्युत उत्पन्न करने हेतु जीवाश्म ईंधनों का प्रयोग किया जाता है। इस दौरान जीवाश्म ईंधनों के दहन से अनेक ग्रीनहाउस तथा पर्यावरणीय प्रदूषकों का उत्सर्जन होता है। कार्बन डाइऑक्साइड, कार्बन मोनोऑक्साइड, नाइट्रोजन डाइऑक्साइड एवं सल्फर डाइऑक्साइड प्रमुख उत्सर्जक गैसें हैं जो वैश्विक तापन एवं अम्ल वर्षा का कारण बनती हैं। अतः विकल्प (d) सही है।",
+      "en": "Fossil fuels are used to generate electricity in thermal power plants. During this, many greenhouse and environmental pollutants are emitted due to the combustion of fossil fuels. Carbon dioxide, carbon monoxide, nitrogen dioxide and sulphur dioxide are the main emitted gases which cause global warming and acid rain. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 56,
+    "year": "2011",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "अंटार्कटिक क्षेत्र में ओज़ोन छिद्र का बनना चिंता का विषय है। इस छिद्र के बनने का संभावित कारण क्या है?",
+      "en": "The formation of ozone hole in the Antarctic region has been a cause of concern. What could be the reason for the formation of this hole?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "विशिष्ट क्षोभमंडलीय विक्षोभ की उपस्थिति तथा क्लोरोफ्लोरो कार्बनों का अंतर्वाह",
+        "en": "Presence of prominent tropospheric turbulence; and inflow of chlorofluorocarbons"
+      },
+      {
+        "id": "B",
+        "hi": "विशिष्ट ध्रुवीय वाताग्र तथा समतापमंडलीय बादलों की उपस्थिति तथा क्लोरोफ्लोरो कार्बनों का अंतर्वाह",
+        "en": "Presence of prominent polar front and stratospheric clouds; and inflow of chlorofluorocarbons"
+      },
+      {
+        "id": "C",
+        "hi": "ध्रुवीय वाताग्र तथा समतापमंडलीय बादलों की अनुपस्थिति तथा मीथेन और क्लोरोफ्लोरो कार्बनों का अंतर्वाह",
+        "en": "Absence of polar front and stratospheric clouds; and inflow of methane and chlorofluorocarbons"
+      },
+      {
+        "id": "D",
+        "hi": "वैश्विक तापन से ध्रुवीय प्रदेश में हुई तापमान वृद्धि",
+        "en": "Increased temperature at polar region due to global warming"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "ओज़ोन (O₃) समतापमंडल की निचली परत में सघनता से पाया जाता है। इसे ओज़ोन परत कहा जाता है। यह ओज़ोन परत सूर्य से आने वाली पराबैंगनी किरणों को अवशोषित कर पृथ्वी को इन हानिकारक पराबैंगनी किरणों से सुरक्षा प्रदान करती है। ये पराबैंगनी किरणें विशेषकर UV-B मानव में त्वचा कैंसर के लिये ज़िम्मेदार होती हैं। अंटार्कटिक के ऊपर ओज़ोन परत के क्षय होने के कुछ विशेष कारण हैं- ध्रुवीय समतापमंडलीय मेघ (Polar Stratospheric Cloud), ध्रुवीय भँवर (Polar Vortex), और सक्रिय क्लोरीन का प्रभाव। अंटार्कटिक के ऊपरी समतापमंडल में जाड़े में अतिनिम्न तापमान, ध्रुवीय समतापमंडलीय बादलों को उत्पन्न करते हैं। ये क्लोरीन यौगिकों के भंडार को स्वयं में समेटे रहते हैं। सूर्य के प्रकाश की उपस्थिति में इन क्लोरीन यौगिकों से क्लोरीन मुक्त होकर ओज़ोन का क्षरण करती है। अतः विकल्प (b) सही है।",
+      "en": "Ozone (O₃) is found densely in the lower layer of the stratosphere. It is called the ozone layer. This ozone layer protects the earth from these harmful ultraviolet rays by absorbing the ultraviolet rays coming from the sun. These ultraviolet rays, especially UV-B, are responsible for skin cancer in humans. There are some specific reasons for the depletion of the ozone layer over the Antarctic - Polar Stratospheric Cloud, Polar Vortex, and the effect of active chlorine. In winter, extremely low temperatures in the upper stratosphere of the Antarctic produce polar stratospheric clouds. These contain a store of chlorine compounds. In the presence of sunlight, chlorine is released from these chlorine compounds and depletes ozone. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 57,
+    "year": "2011",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "ज्वारनदमुख से पोषकों का प्रस्राव",
+        "en": "Discharge of nutrients from the estuaries"
+      },
+      {
+        "id": 2,
+        "hi": "मानसून में भूमि से जल प्रवाह",
+        "en": "Run-off from the land during the monsoon"
+      },
+      {
+        "id": 3,
+        "hi": "समुद्रों में उत्प्रवाह",
+        "en": "Upwelling in the seas"
+      }
+    ],
+    "question": {
+      "hi": "भारत के समुद्री जल में हानिकारक शैवाल प्रस्फुटन में हो रही वृद्धि पर चिंता व्यक्त की गई है। इस संवृत्ति का/के क्या कारक तत्त्व हो सकता/सकते है/हैं?\nनिम्नलिखित कूटों के आधार पर सही उत्तर चुनिये:",
+      "en": "There is a concern over the increase in harmful algal blooms in the seawaters of India. What could be the causative factors for this phenomenon?\nSelect the correct answer using the codes given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "हानिकारक शैवाल प्रस्फुटन एक बड़ी पर्यावरणीय समस्या है। यह मुख्यतः नील-हरित शैवाल (सायनोबैक्टीरिया) के कारण होता है। हानिकारक शैवाल प्रस्फुटन का मानव स्वास्थ्य, जलीय पारितंत्र एवं अर्थव्यवस्था पर नकारात्मक प्रभाव पड़ता है। हानिकारक शैवाल प्रस्फुटन, जल में शैवालों की अत्यधिक वृद्धि की अवस्था है। शैवाल प्रस्फुटन के कारण- सागरीय उत्प्रवाह, कीचड़युक्त किनारों का निर्माण, ज्वारनदमुखों से पोषकों का प्रवाह, और मानसून के दौरान जलवाह (इसके प्रभाव से बंगाल की खाड़ी में भारी शैवाल प्रस्फुटन देखा जाता है)। अतः 1, 2 और 3 तीनों सही हैं। विकल्प (d) सही है।",
+      "en": "Harmful algal bloom is a major environmental problem. It is mainly caused by blue-green algae (cyanobacteria). Harmful algal blooms have a negative impact on human health, aquatic ecosystems, and the economy. Harmful algal bloom is a state of excessive growth of algae in water. Causes of algal bloom - marine upwelling, formation of muddy shores, flow of nutrients from estuaries, and runoff during the monsoon (due to its effect, heavy algal bloom is seen in the Bay of Bengal). Therefore, 1, 2 and 3 are all correct. Option (d) is correct."
+    }
+  },
+  {
+    "id": 58,
+    "year": "2011",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "वह बाह्य समतापमंडल में पलायन कर जाती है।",
+        "en": "It escapes into the outer stratosphere."
+      },
+      {
+        "id": 2,
+        "hi": "समुद्रों में पादप-प्लवक प्रकाश संश्लेषण कर लेते हैं।",
+        "en": "The phytoplankton in the oceans photosynthesise."
+      },
+      {
+        "id": 3,
+        "hi": "ध्रुवीय बर्फ छत्रक वायु का प्रग्रहण कर लेते हैं।",
+        "en": "The polar ice caps trap the air."
+      }
+    ],
+    "question": {
+      "hi": "हाल के वर्षों में मानव गतिविधियों के कारण वायुमंडल में कार्बन डाइऑक्साइड की सांद्रता में बढ़ोतरी हुई है, किंतु उसमें से बहुत-सी वायुमंडल के निचले भाग में नहीं रहती, क्योंकि-\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "The increasing concentration of carbon dioxide in the atmosphere due to human activities has been a cause of concern in recent years, but much of it does not remain in the lower atmosphere, because\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 3",
+        "en": "3 only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "हाल के वर्षों में तीव्र औद्योगीकरण एवं शहरीकरण की प्रक्रिया से वायुमंडलीय कार्बन डाइऑक्साइड की सांद्रता में भारी वृद्धि देखी गई है। यद्यपि इसका वितरण ऊपरी एवं निचले वायुमंडल दोनों में ही होता है परंतु निचले वायुमंडल में इसकी न्यून उपस्थिति पाई जाती है। इसका प्रमुख कारण धरातलीय वनस्पतियों एवं सागरीय पादप-प्लवकों द्वारा निम्न वायुमंडलीय कार्बन का अवशोषण है। अतः कथन 2 सही है। कथन 1 गलत है, क्योंकि निचले वायुमंडलीय कार्बन का समतापमंडल में पलायन नहीं होता है अपितु पवनों द्वारा कार्बन का विभिन्न परतों में मिश्रण होता है। कथन 3 भी गलत है। ध्रुवीय बर्फ छत्रक कार्बन का प्रग्रहण करते हैं। वर्तमान ध्रुवीय बर्फ छत्रकों में हज़ारों-करोड़ों वर्षों पूर्व कार्बन का संग्रहण हुआ है। अतः विकल्प (b) सही है।",
+      "en": "In recent years, the process of rapid industrialization and urbanization has witnessed a massive increase in the concentration of atmospheric carbon dioxide. Although it is distributed in both the upper and lower atmosphere, its presence is found to be low in the lower atmosphere. The main reason for this is the absorption of lower atmospheric carbon by surface vegetation and marine phytoplankton. Hence statement 2 is correct. Statement 1 is incorrect, because lower atmospheric carbon does not escape into the stratosphere, but carbon is mixed into different layers by winds. Statement 3 is also incorrect. Polar ice caps trap carbon. Carbon was stored in the current polar ice caps thousands of millions of years ago. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 59,
+    "year": "2020",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "स्वचालित वाहन (Automobile) द्वारा निष्कासित पदार्थ",
+        "en": "Automobile exhaust"
+      },
+      {
+        "id": 2,
+        "hi": "तंबाकू का धुआँ",
+        "en": "Tobacco smoke"
+      },
+      {
+        "id": 3,
+        "hi": "लकड़ी का जलना",
+        "en": "Wood burning"
+      },
+      {
+        "id": 4,
+        "hi": "रोगन किये गए लकड़ी के फर्नीचर का उपयोग",
+        "en": "Using varnished wooden furniture"
+      },
+      {
+        "id": 5,
+        "hi": "पॉलीयूरिथेन से निर्मित उत्पादों का उपयोग",
+        "en": "Using products made of polyurethane"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-से कारण/कारक बेंज़ीन प्रदूषण उत्पन्न करते हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Which of the following are the reasons/factors for exposure to benzene pollution?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 4",
+        "en": "2 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1, 3 और 4",
+        "en": "1, 3 and 4 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3, 4 और 5",
+        "en": "1, 2, 3, 4 and 5"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "बेंज़ीन अत्यधिक अस्थिर है तथा श्वसन के माध्यम से मानव स्वास्थ्य को हानि पहुँचाता है। पर्यावरण में बेंज़ीन प्रदूषण के मुख्य स्रोतों में स्वचालित वाहन (ऑटोमोबाइल) द्वारा निष्कासित पदार्थ, औद्योगिक गतिविधियाँ (जैसे- पेट्रोलियम उत्पादों का प्रसंस्करण, ज़ाइलीन और अन्य सुगंधित यौगिकों का उत्पादन) तथा गैसोलीन फिलिंग स्टेशनों से ईंधन का वाष्पीकरण है। इसके अतिरिक्त लकड़ी दहन और सिगरेट सेवन से निष्कासित तंबाकू का धुआँ आदि भी बेंजीन प्रदूषण के कारण हैं। कुछ निर्माण सामग्री जैसे पेंट, रोगन किये गए फर्नीचर और पॉलीयूरिथेन से भी बेंजीन निकलता है लेकिन लोक सेवा आयोग ने अपनी आधिकारिक उत्तर कुंजी में विकल्प (a) को सही माना है। अतः (a) सही उत्तर है।",
+      "en": "Benzene is highly volatile and harms human health through inhalation. The main sources of benzene pollution in the environment include automobile exhaust, industrial activities (e.g., processing of petroleum products, production of xylene and other aromatic compounds), and evaporation of fuel from gasoline filling stations. Apart from this, wood burning and tobacco smoke emitted from cigarette smoking are also causes of benzene pollution. Some construction materials like paints, varnished furniture and polyurethane also emit benzene, but the Public Service Commission has considered option (a) as correct in its official answer key. Hence, (a) is the correct answer."
+    }
+  },
+  {
+    "id": 60,
+    "year": "2020",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा कथन 'कार्बन के सामाजिक मूल्य (Social Cost of Carbon)' पद का सर्वोत्तम रूप से वर्णन करता है? आर्थिक मूल्य के रूप में यह निम्नलिखित में से किसका माप है?",
+      "en": "Which of the following statements best describes the term 'Social Cost of Carbon'? It is a measure, in monetary value, of the"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "प्रदत्त वर्ष में एक टन CO₂ के उत्सर्जन से होने वाली दीर्घकालीन क्षति",
+        "en": "long-term damage done by a tonne of CO₂ emissions in a given year"
+      },
+      {
+        "id": "B",
+        "hi": "किसी देश की जीवाश्म ईंधनों की आवश्यकता, जिन्हें जलाकर देश अपने नागरिकों को वस्तुएँ और सेवाएँ प्रदान करता है",
+        "en": "requirement of fossil fuels for a country to provide goods and services to its citizens, based on the burning of those fuels"
+      },
+      {
+        "id": "C",
+        "hi": "किसी जलवायु शरणार्थी (Climate Refugee) द्वारा किसी नए स्थान के प्रति अनुकूलित होने हेतु किये गए प्रयास",
+        "en": "efforts put in by a climate refugee to adapt to live in a new place"
+      },
+      {
+        "id": "D",
+        "hi": "पृथ्वी ग्रह पर किसी व्यक्ति विशेष द्वारा अंशदत्त कार्बन पदचिह्न",
+        "en": "contribution of an individual person to the carbon footprint on the planet Earth"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "कार्बन का सामाजिक मूल्य (Social Cost of Carbon), प्रदत्त वर्ष में एक टन कार्बन डाइऑक्साइड के उत्सर्जन द्वारा होने वाले दीर्घकालिक नुकसान का डॉलर (आर्थिक) में एक माप है। यह डॉलर का आँकड़ा एक छोटे उत्सर्जन कटौती (अर्थात् CO₂ कमी का लाभ) के लिये बचाए गए नुकसान के मूल्य का भी प्रतिनिधित्व करता है। अतः विकल्प (a) सही है।",
+      "en": "The Social Cost of Carbon is a measure, in dollars (economic value), of the long-term damage caused by the emission of one ton of carbon dioxide in a given year. This dollar figure also represents the value of damages avoided for a small emission reduction (i.e., the benefit of a CO₂ reduction). Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 61,
+    "year": "2020",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "ताम्र स्लैग (Copper Slag)",
+        "en": "Copper slag"
+      },
+      {
+        "id": 2,
+        "hi": "शीत मिश्रित ऐस्फाल्ट प्रौद्योगिकी (Cold Mix Asphalt Technology)",
+        "en": "Cold mix asphalt technology"
+      },
+      {
+        "id": 3,
+        "hi": "जियोटेक्सटाइल्स (Geotextiles)",
+        "en": "Geotextiles"
+      },
+      {
+        "id": 4,
+        "hi": "उष्ण मिश्रित ऐस्फाल्ट प्रौद्योगिकी (Hot Mix Asphalt Technology)",
+        "en": "Hot mix asphalt technology"
+      },
+      {
+        "id": 5,
+        "hi": "पोर्टलैंड सीमेंट",
+        "en": "Portland cement"
+      }
+    ],
+    "question": {
+      "hi": "ग्रामीण सड़क निर्माण में, पर्यावरणीय दीर्घोपयोगिता को सुनिश्चित करने अथवा कार्बन पदचिह्न (Carbon Footprint) को घटाने के लिये निम्नलिखित में से किसके प्रयोग को अधिक प्राथमिकता दी जाती है?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "In rural road construction, the use of which of the following is preferred for ensuring environmental sustainability or to reduce carbon footprint?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 3",
+        "en": "1, 2 and 3 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 4 और 5",
+        "en": "4 and 5 only"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1 और 5",
+        "en": "1 and 5 only"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "ग्रामीण सड़क निर्माण में पर्यावरणीय दीर्घोपयोगिता (Sustainability) सुनिश्चित करने और कार्बन फुटप्रिंट को घटाने हेतु ताम्र स्लैग (Copper Slag), शीत मिश्रित ऐस्फाल्ट प्रौद्योगिकी (Cold Mix Asphalt Technology) एवं जियोटेक्सटाइल्स के प्रयोग को अत्यधिक प्राथमिकता दी जाती है। ताम्र स्लैग में Fe₂O₃, SiO₂ एवं CaO की उच्च मात्रा होती है। शीत मिश्रित ऐस्फाल्ट प्रौद्योगिकी एक पर्यावरणीय अनुकूल प्रौद्योगिकी है जिसका उपयोग भी सड़क निर्माण में प्राथमिकता के आधार पर किया जाता है। जियोटेक्सटाइल्स भी एक पर्यावरण अनुकूल सामग्री है जिसका उपयोग सड़क निर्माण में होता है। दूसरी ओर, हॉट मिक्स ऐस्फाल्ट और पोर्टलैंड सीमेंट के उत्पादन और उपयोग से बड़ी मात्रा में कार्बन उत्सर्जन होता है। अतः विकल्प (a) सही है।",
+      "en": "In rural road construction, the use of Copper Slag, Cold Mix Asphalt Technology and Geotextiles is highly preferred to ensure environmental sustainability and to reduce the carbon footprint. Copper slag has a high content of Fe₂O₃, SiO₂ and CaO. Cold Mix Asphalt Technology is an eco-friendly technology which is also used on a priority basis in road construction. Geotextiles is also an environment friendly material used in road construction. On the other hand, the production and use of Hot Mix Asphalt and Portland Cement generates a large amount of carbon emissions. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 62,
+    "year": "2020",
+    "subject": "Environment",
+    "topic": "पर्यावरण प्रदूषण एवं जलवायु परिवर्तन (Environmental Pollution and Climate Change)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कोयले की राख में आर्सेनिक, सीसा और पारद अंतर्विष्ट होते हैं।",
+        "en": "Coal ash contains arsenic, lead and mercury."
+      },
+      {
+        "id": 2,
+        "hi": "कोयला संचालित विद्युत संयंत्र पर्यावरण में सल्फर डाइऑक्साइड और नाइट्रोजन के ऑक्साइड उत्सर्जित करते हैं।",
+        "en": "Coal-fired power plants release sulphur dioxide and oxides of nitrogen into the environment."
+      },
+      {
+        "id": 3,
+        "hi": "भारतीय कोयले में राख की अधिक मात्रा पाई जाती है।",
+        "en": "High ash content is observed in Indian coal."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "फ्लाई ऐश (कोयले की राख) सूक्ष्म पाउडर होता है जो वायु के साथ दूर तक यात्रा करता है। इसका उत्सर्जन मुख्यतः कोयला आधारित ताप विद्युत गृहों से होता है। फ्लाई ऐश कणों का निर्माण एल्युमिनियम सिलिकेट, सिलिकॉन डाइऑक्साइड (SiO₂) तथा कैल्शियम ऑक्साइड (CaO) आदि से होता है। इसमें सीसा, आर्सेनिक, कोबाल्ट, कॉपर एवं पारा जैसी ज़हरीली भारी धातुओं के कण भी होते हैं (कथन 1 सही है)। कोयला आधारित ताप विद्युत संयंत्रों में जब कोयले का उपयोग बिजली बनाने में किया जाता है तो उसमें से सल्फर डाइऑक्साइड, नाइट्रोजन ऑक्साइड्स एवं पारे का उत्सर्जन होता है जो पर्यावरण के लिये अत्यधिक हानिकारक है (कथन 2 सही है)। 'इंटरनेशनल जर्नल ऑफ वेस्ट रिसोर्सेज़' के अनुसार भारतीय कोयले में राख की मात्रा (औसत 35-38 प्रतिशत) अधिक पाई जाती है (कथन 3 सही है)। अतः विकल्प (d) सही है।",
+      "en": "Fly ash (coal ash) is a fine powder that travels far with the wind. Its emission is mainly from coal-based thermal power plants. Fly ash particles are composed of aluminum silicate, silicon dioxide (SiO₂) and calcium oxide (CaO), etc. It also contains particles of toxic heavy metals like lead, arsenic, cobalt, copper and mercury (Statement 1 is correct). In coal-based thermal power plants, when coal is used to generate electricity, sulfur dioxide, nitrogen oxides and mercury are emitted, which is highly harmful to the environment (Statement 2 is correct). According to the 'International Journal of Waste Resources', high ash content (average 35-38 percent) is found in Indian coal (Statement 3 is correct). Hence, option (d) is correct."
+    }
+  }
+]

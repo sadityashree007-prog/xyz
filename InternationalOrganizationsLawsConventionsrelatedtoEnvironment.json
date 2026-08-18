@@ -1,0 +1,2505 @@
+[
+  {
+    "id": 1,
+    "year": "2025",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "कार्बन सीमा समायोजन तंत्र (CBAM), जो ग्रीनहाउस गैस उत्सर्जन में कमी लाने हेतु मुख्य कार्बन-गहन उत्पादों पर शुल्क लगाता है, निम्नलिखित में से किसकी पहल है?",
+      "en": "The Carbon Border Adjustment Mechanism (CBAM), which imposes a tariff on major carbon-intensive products to reduce greenhouse gas emissions, is an initiative of which of the following?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP)",
+        "en": "United Nations Environment Programme (UNEP)"
+      },
+      {
+        "id": "B",
+        "hi": "यूरोपीय संघ (EU)",
+        "en": "European Union (EU)"
+      },
+      {
+        "id": "C",
+        "hi": "आर्थिक सहयोग और विकास संगठन (OECD)",
+        "en": "Organisation for Economic Co-operation and Development (OECD)"
+      },
+      {
+        "id": "D",
+        "hi": "विश्व बैंक",
+        "en": "World Bank"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कार्बन बॉर्डर एडजस्टमेंट मैकेनिज़्म (CBAM) यूरोपीय संघ (EU) की एक नीति है, जिसका उद्देश्य उन देशों से यूरोपीय संघ (EU) में आयातित कार्बन-गहन उत्पादों पर एक कार्बन कीमत को लागू करना है, जिनकी जलवायु नीतियाँ EU की तुलना में कम सख्त हैं। CBAM 'Fit for 55 in 2030' पैकेज का हिस्सा है, जिसका उद्देश्य EU की नीतियों को EU जलवायु कानून द्वारा निर्धारित लक्ष्यों के साथ संरेखित करना है। इसका मुख्य उद्देश्य कार्बन लीकेज के जोखिम को कम करना है। अतः विकल्प (b) सही है।",
+      "en": "The Carbon Border Adjustment Mechanism (CBAM) is a policy of the European Union (EU) aimed at applying a carbon price on carbon-intensive products imported into the EU from countries with climate policies less stringent than the EU's. CBAM is part of the 'Fit for 55 in 2030' package, which aims to align EU policies with the targets set by the EU Climate Law. Its main objective is to mitigate the risk of carbon leakage. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 2,
+    "year": "2025",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "प्राकृतिक पूँजी लेखांकन और पारिस्थितिकी तथा पर्यावरण-आर्थिक स्तरीय लेखांकन-प्रक्रिया ('Natural Capital Accounting and Valuation of Ecosystem Services- NCAVES') की परियोजना किसके द्वारा तैयार और कार्यान्वित की जाती है?",
+      "en": "The project 'Natural Capital Accounting and Valuation of Ecosystem Services (NCAVES)' is designed and implemented by which of the following?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "संयुक्त राष्ट्र सांख्यिकी प्रभाग (UNSD), संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP) और जैव विविधता विषयक अभिसमय (CBD)",
+        "en": "United Nations Statistics Division (UNSD), United Nations Environment Programme (UNEP) and the Secretariat of the Convention on Biological Diversity (CBD)"
+      },
+      {
+        "id": "B",
+        "hi": "व्यापार और विकास पर संयुक्त राष्ट्र सम्मेलन (UNCTAD), प्रकृति के लिये व्यापक निधि (WFN) और जैव विविधता विषयक अभिसमय (CBD)",
+        "en": "United Nations Conference on Trade and Development (UNCTAD), World Wide Fund for Nature (WWF) and the Secretariat of the Convention on Biological Diversity (CBD)"
+      },
+      {
+        "id": "C",
+        "hi": "यूरोपीय संघ (EU), संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP) और व्यापार और विकास पर संयुक्त राष्ट्र सम्मेलन (UNCTAD)",
+        "en": "European Union (EU), United Nations Environment Programme (UNEP) and United Nations Conference on Trade and Development (UNCTAD)"
+      },
+      {
+        "id": "D",
+        "hi": "संयुक्त राष्ट्र सांख्यिकी प्रभाग (UNSD), प्रकृति के लिये व्यापक निधि (WFN) और व्यापार और विकास पर संयुक्त राष्ट्र सम्मेलन (UNCTAD)",
+        "en": "United Nations Statistics Division (UNSD), World Wide Fund for Nature (WWF) and United Nations Conference on Trade and Development (UNCTAD)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "भारत NCAVES प्रोजेक्ट में भाग लेने वाले 5 देशों (भारत, ब्राज़ील, चीन, दक्षिण अफ्रीका और मैक्सिको) में से एक है। NCAVES प्रोजेक्ट को संयुक्त राष्ट्र सांख्यिकी प्रभाग (UNSD), संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP) तथा बॉन (जर्मनी) स्थित जैव विविधता विषयक अभिसमय (CBD) सचिवालय द्वारा संयुक्त रूप से कार्यान्वित किया जा रहा है। इसमें यूरोपीय संघ (EU) द्वारा वित्तपोषण भी किया गया है। अतः विकल्प (a) सही है।",
+      "en": "India is one of the 5 countries (India, Brazil, China, South Africa and Mexico) participating in the NCAVES project. The NCAVES project is being jointly implemented by the United Nations Statistics Division (UNSD), United Nations Environment Programme (UNEP) and the Secretariat of the Convention on Biological Diversity (CBD) located in Bonn (Germany). It is also funded by the European Union (EU). Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 3,
+    "year": "2025",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इसका उद्देश्य निजी और सार्वजनिक क्षेत्रों के प्रबंधकों के लिये GHG उत्सर्जनों को मापने के लिये व्यापक वैश्विक मानकीकृत रेखा-चित्र (फ्रेमवर्क) उपलब्ध करवाना है।",
+        "en": "Its objective is to provide a comprehensive global standardized framework to measure GHG emissions for managers in the private and public sectors."
+      },
+      {
+        "id": 2,
+        "hi": "यह विश्व संसाधन संस्थान और सतत् विकास के लिये विश्व व्यापार परिषद के बीच एक साझेदारी है।",
+        "en": "It is a partnership between the World Resources Institute and the World Business Council for Sustainable Development."
+      }
+    ],
+    "question": {
+      "hi": "ग्रीनहाउस गैस (GHG) प्रोटोकॉल के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/कौन-से सही है/हैं?",
+      "en": "With reference to the Greenhouse Gas (GHG) Protocol, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1, न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "ग्रीनहाउस गैस (GHG) प्रोटोकॉल निजी और सार्वजनिक क्षेत्रों दोनों में ग्रीनहाउस गैस के उत्सर्जन और शमन को मापने व प्रबंधन करने हेतु एक व्यापक वैश्विक मानकीकृत रूपरेखा स्थापित करता है। अतः कथन 1 सही है। इस प्रोटोकॉल को वर्ष 1998 में एक साझेदारी के माध्यम से शुरू किया गया था- विश्व संसाधन संस्थान (WRI) तथा वर्ल्ड बिज़नेस काउंसिल फॉर सस्टेनेबल डेवलपमेंट (WBCSD)। अतः कथन 2 सही है। अतः विकल्प (c) सही है।",
+      "en": "The Greenhouse Gas (GHG) Protocol establishes a comprehensive global standardized framework to measure and manage greenhouse gas emissions and mitigation in both the private and public sectors. Hence, statement 1 is correct. This protocol was launched in the year 1998 through a partnership between the World Resources Institute (WRI) and the World Business Council for Sustainable Development (WBCSD). Hence, statement 2 is correct. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 4,
+    "year": "2024",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "हाल के वर्षों में, किस एक के एकीकरण से 'एक स्वस्थ प्रक्रिया (वन हेल्थ एप्रोच)' का विकास हुआ?",
+      "en": "In recent years, the integration of which one of the following has led to the development of the 'One Health Approach'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल मानव और पशु स्वास्थ्य का पर्यावरणीय स्वास्थ्य के साथ",
+        "en": "Only human and animal health with environmental health"
+      },
+      {
+        "id": "B",
+        "hi": "कुपोषण के उन्मूलन वाले कार्यक्रमों का तपेदिक (ट्यूबरकुलोसिस) समापन वाले कार्यक्रमों के साथ",
+        "en": "Malnutrition eradication programmes with tuberculosis elimination programmes"
+      },
+      {
+        "id": "C",
+        "hi": "गर्भावस्था के दौरान समुचित पोषण प्रदान करने वाले कार्यक्रमों का बच्चों के प्रतिरक्षण (इम्यूनाइज़ेशन) वाले कार्यक्रमों के साथ",
+        "en": "Programmes providing adequate nutrition during pregnancy with child immunization programmes"
+      },
+      {
+        "id": "D",
+        "hi": "शिशु स्वास्थ्य उन्नयन कार्यक्रमों का वार्धक्य स्वास्थ्य (ज़िरियाट्रिक हेल्थ) उन्नयन कार्यक्रमों के साथ",
+        "en": "Child health promotion programmes with geriatric health promotion programmes"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "वन हेल्थ दृष्टिकोण (One Health Approach), मानव, पशु और पर्यावरणीय स्वास्थ्य के पारस्परिक संबंधों की पहचान करता है। इसका उद्देश्य विभिन्न प्रजातियों और पर्यावरणों (जैसे- ज़ूनोटिक बीमारियाँ) को प्रभावित करने वाले स्वास्थ्य मुद्दों की शीघ्र पहचान कर इसका प्रबंधन करना है। इसमें रोग निगरानी, उभरते संक्रमणों की पहचान और इन मुद्दों को प्रभावी ढंग से समग्र प्रबंधन के लिये विभिन्न क्षेत्रों (जैसे- स्वास्थ्य देखभाल, पशु चिकित्सा, पर्यावरण विज्ञान) में सहयोग सुनिश्चित करना शामिल है। अतः विकल्प (a) सही है।",
+      "en": "The One Health Approach recognizes the interconnections of human, animal, and environmental health. Its aim is to early identify and manage health issues affecting different species and environments (e.g., zoonotic diseases). It involves ensuring collaboration across different sectors (e.g., healthcare, veterinary medicine, environmental science) for disease surveillance, identifying emerging infections, and managing these issues effectively holistically. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 5,
+    "year": "2023",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "राष्ट्रीय पिछड़ा वर्ग कल्याण बोर्ड",
+        "en": "National Backward Classes Welfare Board"
+      },
+      {
+        "id": 2,
+        "hi": "राष्ट्रीय वन्यजीव बोर्ड",
+        "en": "National Board for Wildlife"
+      },
+      {
+        "id": 3,
+        "hi": "राष्ट्रीय जैव विविधता प्राधिकरण",
+        "en": "National Biodiversity Authority"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित बोर्डों पर विचार कीजिये:\nउपर्युक्त में से कितनों को विधिक रेखा-चित्र (statutory framework) के आधार पर गठित किया गया है?",
+      "en": "Consider the following Boards:\nHow many of the above are constituted under a statutory framework?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल एक",
+        "en": "Only one"
+      },
+      {
+        "id": "B",
+        "hi": "केवल दो",
+        "en": "Only two"
+      },
+      {
+        "id": "C",
+        "hi": "सभी तीन",
+        "en": "All three"
+      },
+      {
+        "id": "D",
+        "hi": "कोई भी नहीं",
+        "en": "None"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "राष्ट्रीय पिछड़ा वर्ग कल्याण एवं वित्त बोर्ड को अब राष्ट्रीय पिछड़ा वर्ग वित्त और विकास निगम (NBCFDC) कहा जाता है। NBCFDC एक वैधानिक निकाय (बोर्ड/निगम) है जो कंपनी अधिनियम की धारा 25 (अब कंपनी अधिनियम, 2013 की धारा 8) के तहत स्थापित है। अतः कथन 1 सही है। राष्ट्रीय वन्यजीव बोर्ड (NBWL) का गठन वन्यजीव (संरक्षण) अधिनियम, 1972 के तहत केंद्र सरकार द्वारा किया गया है। अतः कथन 2 सही है। राष्ट्रीय जैव विविधता प्राधिकरण (NBA) जैविक विविधता अधिनियम 2002 के प्रावधानों को लागू करने के लिये 2003 में केंद्र सरकार द्वारा स्थापित एक सांविधिक निकाय है। अतः कथन 3 सही है। अतः विकल्प (c) सही है।",
+      "en": "The National Backward Classes Welfare and Finance Board is now known as the National Backward Classes Finance and Development Corporation (NBCFDC). NBCFDC is a statutory body (board/corporation) established under Section 25 of the Companies Act (now Section 8 of the Companies Act, 2013). Hence statement 1 is correct. The National Board for Wildlife (NBWL) is constituted by the Central Government under the Wildlife (Protection) Act, 1972. Hence statement 2 is correct. The National Biodiversity Authority (NBA) is a statutory body established by the Central Government in 2003 to implement the provisions of the Biological Diversity Act 2002. Hence statement 3 is correct. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 6,
+    "year": "2022",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह एक पहल है, जिसकी मेज़बानी UNEP, IMF और विश्व आर्थिक मंच (एक साथ मिलकर) करते हैं।",
+        "en": "It is an initiative hosted by UNEP, IMF and World Economic Forum."
+      },
+      {
+        "id": 2,
+        "hi": "यह एक विश्वव्यापी पहल है, जो जैव-विविधता के आर्थिक लाभों के प्रति ध्यान आकर्षित करने पर केंद्रित है।",
+        "en": "It is a global initiative that focuses on drawing attention to the economic benefits of biodiversity."
+      },
+      {
+        "id": 3,
+        "hi": "यह ऐसा उत्थान प्रस्तुत करता है, जो पारिस्थितिक तंत्र और जैव-विविधता के मूल्य को पहचानने, निर्देशित करने और अभिग्रहित करने में निर्णयकर्त्ताओं की सहायता कर सकता है।",
+        "en": "It presents an approach that can help decision-makers recognize, demonstrate and capture the value of ecosystems and biodiversity."
+      }
+    ],
+    "question": {
+      "hi": "'ईपीसीसी (EPCC)', \"पारितंत्र और जैव-विविधता का अर्थशास्त्र [The Economics of Ecosystems and Biodiversity (TEEB)]\" नामक पहल के संदर्भ में, निम्नलिखित कथनों में कौन-सा/से सही है/हैं?",
+      "en": "With reference to an initiative called 'The Economics of Ecosystems and Biodiversity (TEEB)', which of the following statements is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "जैव-विविधता का अर्थशास्त्र (TEEB) UNEP द्वारा आयोजित एक पहल है, इसमें IMF और WEF भागीदार के रूप में शामिल नहीं हैं। अतः कथन 1 गलत है। TEEB एक वैश्विक पहल है जिसे पर्यावरण मंत्रियों द्वारा अपनाया गया और मार्च 2007 में G8 + 5 की बैठक में शुरू किया गया था। इसका उद्देश्य जैव विविधता के आर्थिक लाभों के प्रति ध्यान आकर्षित करना है। अतः कथन 2 सही है। TEEB एक ऐसा दृष्टिकोण प्रस्तुत करता है जो निर्णयकर्त्ताओं को पारिस्थितिक तंत्र और जैव विविधता के मूल्यों को पहचानने, प्रदर्शित करने तथा उन्हें निर्णय लेने में शामिल करने में मदद कर सकता है। अतः कथन 3 सही है। अतः विकल्प (c) सही है।",
+      "en": "The Economics of Ecosystems and Biodiversity (TEEB) is an initiative hosted by UNEP, it does not include IMF and WEF as partners. Hence statement 1 is incorrect. TEEB is a global initiative adopted by environment ministers and launched at the G8 + 5 meeting in March 2007. Its aim is to draw attention to the economic benefits of biodiversity. Hence statement 2 is correct. TEEB presents an approach that can help decision-makers to recognize, demonstrate and incorporate the values of ecosystems and biodiversity into decision making. Hence statement 3 is correct. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 7,
+    "year": "2022",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "\"जलवायु एक्शन ट्रैकर (Climate Action Tracker)\" जो विभिन्न देशों के उत्सर्जन अपचयन के लिये दिये गए वचनों की निगरानी करता है, क्या है?",
+      "en": "The \"Climate Action Tracker\" which monitors the emission reduction pledges of different countries is a"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "अनुसंधान संगठनों के गठबंधन द्वारा निर्मित डेटाबेस",
+        "en": "database created by coalition of research organisations"
+      },
+      {
+        "id": "B",
+        "hi": "\"जलवायु परिवर्तन के अंतर्राष्ट्रीय पैनल\" का स्कंध (विंग)",
+        "en": "wing of \"International Panel of Climate Change\""
+      },
+      {
+        "id": "C",
+        "hi": "\"जलवायु परिवर्तन पर संयुक्त राष्ट्र ढाँचा अभिसमय\" के अधीन समिति",
+        "en": "committee under \"United Nations Framework Convention on Climate Change\""
+      },
+      {
+        "id": "D",
+        "hi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम और विश्व बैंक द्वारा संवर्द्धित और वित्तपोषित एजेंसी",
+        "en": "agency promoted and financed by United Nations Environment Programme and World Bank"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "जलवायु एक्शन ट्रैकर एक स्वतंत्र वैज्ञानिक डेटाबेस/परियोजना है जो सरकारी जलवायु कार्यवाहियों को ट्रैक करती है और उनको पेरिस समझौते के लक्ष्यों के संदर्भ में मापती है। यह विभिन्न विशेषज्ञता वाले संगठनों (क्लाइमेट एनालिटिक्स और न्यू क्लाइमेट इंस्टीट्यूट) के सहयोग से निर्मित एक डेटाबेस है जो नीति निर्माताओं को स्वतंत्र विश्लेषण प्रदान करता है। अतः विकल्प (a) सही है।",
+      "en": "Climate Action Tracker is an independent scientific database/project that tracks government climate actions and measures them against the goals of the Paris Agreement. It is a database created in collaboration with organizations of varying expertise (Climate Analytics and New Climate Institute) that provides independent analysis to policymakers. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 8,
+    "year": "2022",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "यदि आप 'ग्लोबल एन्वायरनमेंट फैसिलिटी' (GEF) के संदर्भ में विचार करें, तो निम्नलिखित में से कौन-सा संस्थान इसमें शामिल है?",
+      "en": "If you consider the 'Global Environment Facility' (GEF), which of the following organizations are involved in it?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP), संयुक्त राष्ट्र विकास कार्यक्रम (UNDP) और विश्व बैंक",
+        "en": "United Nations Environment Programme (UNEP), United Nations Development Programme (UNDP) and World Bank"
+      },
+      {
+        "id": "B",
+        "hi": "प्रकृति के संरक्षण के लिये अंतर्राष्ट्रीय संघ (IUCN)",
+        "en": "International Union for Conservation of Nature (IUCN)"
+      },
+      {
+        "id": "C",
+        "hi": "विश्व स्वास्थ्य संगठन (WHO)",
+        "en": "World Health Organization (WHO)"
+      },
+      {
+        "id": "D",
+        "hi": "पेरिस समझौता (Paris Agreement)",
+        "en": "Paris Agreement"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "ग्लोबल एन्वायरनमेंट फैसिलिटी (GEF) की स्थापना 1991 में की गई थी, जिसे UNEP, UNDP और विश्व बैंक द्वारा कार्यान्वित और प्रबंधित किया जाता है। GEF कई बहुपक्षीय पर्यावरण समझौतों (MEAs) के लिए वित्तीय तंत्र के रूप में कार्य करता है। अतः विकल्प (a) सही है।",
+      "en": "The Global Environment Facility (GEF) was established in 1991 and is implemented and managed by UNEP, UNDP, and the World Bank. The GEF serves as a financial mechanism for several multilateral environmental agreements (MEAs). Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 9,
+    "year": "2021",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "पेरिस समझौते का उद्देश्य इस शताब्दी के अंत तक विश्व के तापमान में बढ़ोतरी को पूर्व-औद्योगिक स्तर से 2 डिग्री सेल्सियस से कम रखना और इसे 1.5 डिग्री सेल्सियस तक सीमित करने के प्रयास करना है।",
+        "en": "The aim of the Paris Agreement is to keep the global temperature rise this century well below 2 degrees Celsius above pre-industrial levels and to pursue efforts to limit the temperature increase even further to 1.5 degrees Celsius."
+      },
+      {
+        "id": 2,
+        "hi": "यह समझौता स्वयं में एक बाध्यकारी विधिक साधन है।",
+        "en": "The agreement itself is a legally binding instrument."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "पेरिस समझौते का मुख्य उद्देश्य ग्रीनहाउस गैसों के उत्सर्जन को कम करने में सहायता करके वैश्विक तापमान को 2 डिग्री सेल्सियस से नीचे रखना है, साथ ही वृद्धि को 1.5 डिग्री सेल्सियस तक सीमित करने के प्रयास करना शामिल है। अतः कथन 1 सही है। 2015 के UNFCCC COP-21 में अपनाया गया पेरिस समझौता स्वयं में एक बाध्यकारी विधिक संरचना के रूप में माना जाता है (इसके कुछ प्रमुख तत्त्व बाध्यकारी हैं)। अतः कथन 2 सही है। अतः विकल्प (c) सही है।",
+      "en": "The main objective of the Paris Agreement is to keep global temperatures below 2 degrees Celsius by helping to reduce greenhouse gas emissions, and it includes pursuing efforts to limit the increase to 1.5 degrees Celsius. Hence statement 1 is correct. The Paris Agreement, adopted at the UNFCCC COP-21 in 2015, is considered a legally binding structural instrument in itself (some of its core elements are binding). Hence statement 2 is correct. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 10,
+    "year": "2021",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "IUCN संयुक्त राष्ट्र का एक अंग है तथा इसका मुख्य लक्ष्य विश्व व्यापार को बढ़ावा देना है।",
+        "en": "IUCN is an organ of the United Nations and its main goal is to promote world trade."
+      },
+      {
+        "id": 2,
+        "hi": "CITES अंतर्राष्ट्रीय स्तर पर वन्यजीवों और वनस्पतियों के व्यापार को नियंत्रित करता है ताकि यह सुनिश्चित किया जा सके कि उनके व्यापार से उनके अस्तित्त्व को कोई खतरा न हो।",
+        "en": "CITES regulates international trade in wildlife and flora to ensure that trade does not threaten their survival."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "IUCN की स्थापना 1948 में हुई थी और यह संयुक्त राष्ट्र का अंग नहीं है (हालाँकि इसे संयुक्त राष्ट्र महासभा में पर्यवेक्षक का दर्जा प्राप्त है)। इसका उद्देश्य प्रकृति संरक्षण है, व्यापार को बढ़ावा देना नहीं। अतः कथन 1 गलत है। CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora) एक अंतर्राष्ट्रीय समझौता है जो 1973 में लागू हुआ। इसका उद्देश्य यह सुनिश्चित करना है कि जंगली जानवरों और पौधों के अंतर्राष्ट्रीय व्यापार से उनके अस्तित्त्व को खतरा न हो। अतः कथन 2 सही है। अतः विकल्प (b) सही है।",
+      "en": "IUCN was established in 1948 and is not an organ of the United Nations (although it has observer status at the UN General Assembly). Its objective is nature conservation, not promoting trade. Hence statement 1 is incorrect. CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora) is an international agreement that came into force in 1973. Its aim is to ensure that international trade in wild animals and plants does not threaten their survival. Hence statement 2 is correct. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 11,
+    "year": "2021",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "'मॉन्ट्रियल प्रोटोकॉल' (Montreal Protocol) किससे संबंधित है?",
+      "en": "What is the 'Montreal Protocol' related to?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ओज़ोन (Ozone) परत का संरक्षण",
+        "en": "Protection of the Ozone layer"
+      },
+      {
+        "id": "B",
+        "hi": "कार्बन डाइऑक्साइड (CO2) का निवारण",
+        "en": "Reduction of Carbon dioxide (CO2)"
+      },
+      {
+        "id": "C",
+        "hi": "CITES के व्यापार क्षेत्र में हस्तक्षेप",
+        "en": "Intervention in CITES trade area"
+      },
+      {
+        "id": "D",
+        "hi": "RAMSAR के तहत आर्द्रभूमियों का विनियमन",
+        "en": "Regulation of wetlands under RAMSAR"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "मॉन्ट्रियल प्रोटोकॉल 1987 में हस्ताक्षरित और 1989 में लागू एक अंतर्राष्ट्रीय संधि है, जिसे ओज़ोन परत को नष्ट करने वाले पदार्थों (जैसे CFCs) के उत्पादन और उपयोग को चरणबद्ध तरीके से समाप्त करके ओज़ोन परत की रक्षा के लिये डिज़ाइन किया गया है। अतः विकल्प (a) सही है।",
+      "en": "The Montreal Protocol is an international treaty signed in 1987 and effective in 1989, designed to protect the ozone layer by phasing out the production and consumption of ozone-depleting substances (like CFCs). Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 12,
+    "year": "2020",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कोलेरू झील",
+        "en": "Kolleru Lake"
+      },
+      {
+        "id": 2,
+        "hi": "लोकतक झील",
+        "en": "Loktak Lake"
+      },
+      {
+        "id": 3,
+        "hi": "भितरकणिका",
+        "en": "Bhitarkanika"
+      },
+      {
+        "id": 4,
+        "hi": "चिल्का झील",
+        "en": "Chilika Lake"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सी भारत की आर्द्रभूमियाँ 'मॉन्ट्रेक्स रिकॉर्ड' (Montreux Record) में प्रवेशित हैं/थीं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Which of the following wetlands of India are/were entered in the 'Montreux Record'?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "3 और 4",
+        "en": "3 and 4"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "मॉन्ट्रेक्स रिकॉर्ड (1990) रामसर सम्मेलन के तहत अंतर्राष्ट्रीय महत्त्व की आर्द्रभूमियों की सूची का एक रजिस्टर है, जहाँ तकनीकी विकास, प्रदूषण या अन्य मानवीय हस्तक्षेप के परिणामस्वरूप पारिस्थितिक स्वरूप में परिवर्तन हुए हैं, हो रहे हैं या होने की संभावना है। 1993 में भारत की तीन झीलों- चिल्का झील, लोकटक झील और केवलादेव राष्ट्रीय उद्यान को मॉन्ट्रेक्स रिकॉर्ड में शामिल किया गया था। चिल्का झील (ओडिशा) को 2002 में इस रिकॉर्ड से हटा दिया गया। वर्तमान में भारत की केवल दो आर्द्रभूमियाँ (लोकतक झील और केवलादेव राष्ट्रीय उद्यान) मॉन्ट्रेक्स रिकॉर्ड में हैं। (नोट: दिए गए प्रश्न के कूट और विकल्पों में टाइपो के कारण सही उत्तर केवल लोकटक झील होना चाहिए, लेकिन संदर्भ के लिए यदि कोलेरू भी मान लिया जाए तो)। सही जानकारी के अनुसार केवल 2 (और केवलादेव) इसमें शामिल हैं।",
+      "en": "The Montreux Record (1990) is a register of wetland sites on the List of Wetlands of International Importance under the Ramsar Convention where changes in ecological character have occurred, are occurring, or are likely to occur as a result of technological developments, pollution or other human interference. In 1993, three lakes of India - Chilika Lake, Loktak Lake and Keoladeo National Park were included in the Montreux Record. Chilika Lake (Odisha) was removed from this record in 2002. Currently, only two wetlands of India (Loktak Lake and Keoladeo National Park) are in the Montreux Record. (Note: Due to a typo in the codes and options provided, the correct answer should be only Loktak Lake). According to correct information, only 2 (and Keoladeo) are included in it."
+    }
+  },
+  {
+    "id": 13,
+    "year": "2019",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "पर्यावरण संरक्षण अधिनियम, 1986 का मुख्य उद्देश्य क्या है?",
+      "en": "What is the main objective of the Environment Protection Act, 1986?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "राष्ट्रीय उद्यानों की स्थापना करना",
+        "en": "To establish National Parks"
+      },
+      {
+        "id": "B",
+        "hi": "पर्यावरण की सुरक्षा और सुधार के लिये नियम बनाना",
+        "en": "To make rules for the protection and improvement of environment"
+      },
+      {
+        "id": "C",
+        "hi": "केवल जल प्रदूषण को नियंत्रित करना",
+        "en": "To control water pollution only"
+      },
+      {
+        "id": "D",
+        "hi": "वन्यजीवों के शिकार पर प्रतिबंध लगाना",
+        "en": "To ban the hunting of wildlife"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "पर्यावरण (संरक्षण) अधिनियम, 1986 भारत में पर्यावरण की सुरक्षा और सुधार के लिये अधिनियमित किया गया था। यह अधिनियम केंद्र सरकार को पर्यावरण प्रदूषण को रोकने, नियंत्रित करने और कम करने के लिये सभी आवश्यक उपाय करने का अधिकार देता है।",
+      "en": "The Environment (Protection) Act, 1986 was enacted for the protection and improvement of environment in India. This Act empowers the Central Government to take all necessary measures to prevent, control and abate environmental pollution."
+    }
+  },
+  {
+    "id": 14,
+    "year": "2018",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "वन अधिकार अधिनियम, 2006 के तहत 'संकटपूर्ण वन्यजीव पर्यावास' (Critical Wildlife Habitat) घोषित करने का अधिकार किसके पास है?",
+      "en": "Under the Forest Rights Act, 2006, who has the authority to declare a 'Critical Wildlife Habitat'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "राज्य सरकार",
+        "en": "State Government"
+      },
+      {
+        "id": "B",
+        "hi": "पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय (MoEFCC)",
+        "en": "Ministry of Environment, Forest and Climate Change (MoEFCC)"
+      },
+      {
+        "id": "C",
+        "hi": "जनजातीय कार्य मंत्रालय (MoTA)",
+        "en": "Ministry of Tribal Affairs (MoTA)"
+      },
+      {
+        "id": "D",
+        "hi": "राष्ट्रीय बाघ संरक्षण प्राधिकरण (NTCA)",
+        "en": "National Tiger Conservation Authority (NTCA)"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "वन अधिकार अधिनियम, 2006 के तहत, 'संकटपूर्ण वन्यजीव पर्यावास' (Critical Wildlife Habitat) को केंद्र सरकार के पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय (MoEFCC) द्वारा विशेषज्ञ समिति के परामर्श से घोषित किया जाता है। हालाँकि, विशेष रूप से कमज़ोर जनजातीय समूहों (PVTGs) के लिये पर्यावास अधिकार (Habitat Rights) तय करने का अधिकार जनजातीय कार्य मंत्रालय (MoTA) के पास है।",
+      "en": "Under the Forest Rights Act, 2006, the 'Critical Wildlife Habitat' is declared by the Ministry of Environment, Forest and Climate Change (MoEFCC) of the Central Government in consultation with an expert committee. However, the right to decide Habitat Rights for Particularly Vulnerable Tribal Groups (PVTGs) lies with the Ministry of Tribal Affairs (MoTA)."
+    }
+  },
+  {
+    "id": 15,
+    "year": "2017",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "जैव विविधता प्रबंधन समितियों (BMCs) का गठन किस अधिनियम के अंतर्गत किया जाता है?",
+      "en": "Biodiversity Management Committees (BMCs) are constituted under which Act?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "पर्यावरण (संरक्षण) अधिनियम, 1986",
+        "en": "Environment (Protection) Act, 1986"
+      },
+      {
+        "id": "B",
+        "hi": "वन्यजीव (संरक्षण) अधिनियम, 1972",
+        "en": "Wildlife (Protection) Act, 1972"
+      },
+      {
+        "id": "C",
+        "hi": "जैविक विविधता अधिनियम, 2002",
+        "en": "Biological Diversity Act, 2002"
+      },
+      {
+        "id": "D",
+        "hi": "वन (संरक्षण) अधिनियम, 1980",
+        "en": "Forest (Conservation) Act, 1980"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "भारत में जैव विविधता प्रबंधन समितियों (BMCs) का गठन 'जैविक विविधता अधिनियम, 2002' के प्रावधानों के तहत स्थानीय निकायों द्वारा किया जाता है। इनका मुख्य कार्य पीपल्स बायोडायवर्सिटी रजिस्टर (PBR) तैयार करना है।",
+      "en": "In India, Biodiversity Management Committees (BMCs) are constituted by local bodies under the provisions of the 'Biological Diversity Act, 2002'. Their main function is to prepare People's Biodiversity Registers (PBR)."
+    }
+  },
+  {
+    "id": 16,
+    "year": "2016",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "राष्ट्रीय बाघ संरक्षण प्राधिकरण (NTCA) की स्थापना किस अधिनियम के तहत की गई थी?",
+      "en": "National Tiger Conservation Authority (NTCA) was established under which Act?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "वन्यजीव (संरक्षण) अधिनियम, 1972",
+        "en": "Wildlife (Protection) Act, 1972"
+      },
+      {
+        "id": "B",
+        "hi": "पर्यावरण (संरक्षण) अधिनियम, 1986",
+        "en": "Environment (Protection) Act, 1986"
+      },
+      {
+        "id": "C",
+        "hi": "जैविक विविधता अधिनियम, 2002",
+        "en": "Biological Diversity Act, 2002"
+      },
+      {
+        "id": "D",
+        "hi": "वन संरक्षण अधिनियम, 1980",
+        "en": "Forest Conservation Act, 1980"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "राष्ट्रीय बाघ संरक्षण प्राधिकरण (NTCA) पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय के तहत एक वैधानिक निकाय है। इसका गठन 2006 में वन्यजीव (संरक्षण) अधिनियम, 1972 के प्रावधानों में संशोधन करके किया गया था ताकि बाघ संरक्षण को मज़बूती प्रदान की जा सके।",
+      "en": "The National Tiger Conservation Authority (NTCA) is a statutory body under the Ministry of Environment, Forests and Climate Change. It was constituted in 2006 by amending the provisions of the Wildlife (Protection) Act, 1972 to strengthen tiger conservation."
+    }
+  },
+  {
+    "id": 17,
+    "year": "2015",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "क्योटो प्रोटोकॉल का संबंध निम्नलिखित में से किससे है?",
+      "en": "Kyoto Protocol is related to which of the following?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "ओज़ोन परत का संरक्षण",
+        "en": "Protection of the ozone layer"
+      },
+      {
+        "id": "B",
+        "hi": "ग्रीनहाउस गैसों के उत्सर्जन में कमी",
+        "en": "Reduction in greenhouse gas emissions"
+      },
+      {
+        "id": "C",
+        "hi": "खतरनाक अपशिष्टों के सीमा-पार संचलन का नियंत्रण",
+        "en": "Control of transboundary movement of hazardous wastes"
+      },
+      {
+        "id": "D",
+        "hi": "अंतर्राष्ट्रीय व्यापार में लुप्तप्राय प्रजातियों का संरक्षण",
+        "en": "Conservation of endangered species in international trade"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "क्योटो प्रोटोकॉल (1997) UNFCCC (यूनाइटेड नेशंस फ्रेमवर्क कन्वेंशन ऑन क्लाइमेट चेंज) से जुड़ा एक अंतर्राष्ट्रीय समझौता है, जो इसके पक्षकारों (देशों) को अंतर्राष्ट्रीय स्तर पर बाध्यकारी उत्सर्जन में कमी के लक्ष्य निर्धारित करके ग्रीनहाउस गैस (GHG) उत्सर्जन को कम करने के लिये प्रतिबद्ध करता है।",
+      "en": "The Kyoto Protocol (1997) is an international agreement linked to the UNFCCC (United Nations Framework Convention on Climate Change), which commits its Parties (countries) by setting internationally binding emission reduction targets to reduce greenhouse gas (GHG) emissions."
+    }
+  },
+  {
+    "id": 18,
+    "year": "2014",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "किस अंतर्राष्ट्रीय सम्मेलन में पर्यावरण के अधिकार को पहली बार मानव अधिकार के रूप में मान्यता दी गई?",
+      "en": "In which international conference was the right to environment recognized as a human right for the first time?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "स्टॉकहोम सम्मेलन (1972)",
+        "en": "Stockholm Conference (1972)"
+      },
+      {
+        "id": "B",
+        "hi": "रियो पृथ्वी शिखर सम्मेलन (1992)",
+        "en": "Rio Earth Summit (1992)"
+      },
+      {
+        "id": "C",
+        "hi": "जोहान्सबर्ग सम्मेलन (2002)",
+        "en": "Johannesburg Conference (2002)"
+      },
+      {
+        "id": "D",
+        "hi": "पेरिस जलवायु सम्मेलन (2015)",
+        "en": "Paris Climate Conference (2015)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "मानव पर्यावरण पर संयुक्त राष्ट्र सम्मेलन (स्टॉकहोम सम्मेलन, 1972) पर्यावरण से संबंधित पहला बड़ा अंतर्राष्ट्रीय सम्मेलन था। स्टॉकहोम घोषणापत्र में यह स्वीकार किया गया कि मनुष्य को स्वतंत्रता, समानता और पर्याप्त जीवन स्तर के वातावरण में रहने का मौलिक अधिकार है।",
+      "en": "The United Nations Conference on the Human Environment (Stockholm Conference, 1972) was the first major international conference on the environment. The Stockholm Declaration recognized that man has the fundamental right to freedom, equality and adequate conditions of life, in an environment of a quality that permits a life of dignity and well-being."
+    }
+  },
+  {
+    "id": 19,
+    "year": "2013",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारतीय वन्यजीव (संरक्षण) अधिनियम, 1972 में कितनी अनुसूचियाँ हैं? (मूल अधिनियम के अनुसार)",
+      "en": "How many schedules are there in the Indian Wildlife (Protection) Act, 1972? (as per the original Act)"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "4",
+        "en": "4"
+      },
+      {
+        "id": "B",
+        "hi": "5",
+        "en": "5"
+      },
+      {
+        "id": "C",
+        "hi": "6",
+        "en": "6"
+      },
+      {
+        "id": "D",
+        "hi": "7",
+        "en": "7"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "भारतीय वन्यजीव (संरक्षण) अधिनियम, 1972 (मूल रूप से) में 6 अनुसूचियाँ थीं जो पौधों और जानवरों को अलग-अलग स्तर की सुरक्षा प्रदान करती थीं। अनुसूची I और अनुसूची II का भाग II पूर्ण सुरक्षा प्रदान करते हैं - इनके तहत अपराधों के लिये उच्चतम दंड निर्धारित है। (नोट: वन्यजीव संरक्षण संशोधन अधिनियम 2022 के द्वारा अब अनुसूचियों की संख्या घटाकर 4 कर दी गई है)।",
+      "en": "The Indian Wildlife (Protection) Act, 1972 (originally) had 6 schedules which give varying degrees of protection to plants and animals. Schedule I and part II of Schedule II provide absolute protection - offences under these are prescribed the highest penalties. (Note: By the Wildlife Protection Amendment Act 2022, the number of schedules has now been reduced to 4)."
+    }
+  },
+  {
+    "id": 20,
+    "year": "2012",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "'वैश्विक पर्यावरण सुविधा' (Global Environment Facility - GEF) निम्नलिखित में से किस/किन सम्मेलन(नों) के लिये वित्तीय तंत्र के रूप में कार्य करती है?",
+      "en": "The Global Environment Facility (GEF) serves as a financial mechanism for which of the following convention(s)?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल UNFCCC",
+        "en": "Only UNFCCC"
+      },
+      {
+        "id": "B",
+        "hi": "केवल CBD",
+        "en": "Only CBD"
+      },
+      {
+        "id": "C",
+        "hi": "UNFCCC, CBD, UNCCD, मीनामाता कन्वेंशन और स्टॉकहोम कन्वेंशन",
+        "en": "UNFCCC, CBD, UNCCD, Minamata Convention and Stockholm Convention"
+      },
+      {
+        "id": "D",
+        "hi": "उपर्युक्त में से कोई नहीं",
+        "en": "None of the above"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "वैश्विक पर्यावरण सुविधा (GEF) पाँच प्रमुख अंतर्राष्ट्रीय पर्यावरण सम्मेलनों के लिये एक वित्तीय तंत्र (Financial Mechanism) के रूप में कार्य करती है: 1. जैव विविधता पर अभिसमय (CBD), 2. जलवायु परिवर्तन पर संयुक्त राष्ट्र फ्रेमवर्क कन्वेंशन (UNFCCC), 3. स्थायी कार्बनिक प्रदूषकों पर स्टॉकहोम कन्वेंशन (POPs), 4. मरुस्थलीकरण का मुकाबला करने के लिये संयुक्त राष्ट्र कन्वेंशन (UNCCD), और 5. पारे पर मीनामाता कन्वेंशन।",
+      "en": "The Global Environment Facility (GEF) serves as a financial mechanism for five major international environmental conventions: 1. Convention on Biological Diversity (CBD), 2. United Nations Framework Convention on Climate Change (UNFCCC), 3. Stockholm Convention on Persistent Organic Pollutants (POPs), 4. UN Convention to Combat Desertification (UNCCD), and 5. Minamata Convention on Mercury."
+    }
+  },
+  {
+    "id": 21,
+    "year": "2011",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora) का मुख्य उद्देश्य क्या है?",
+      "en": "What is the main objective of CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora)?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "दुनिया भर के वनों की कटाई को रोकना",
+        "en": "To stop deforestation worldwide"
+      },
+      {
+        "id": "B",
+        "hi": "ग्रीनहाउस गैसों के उत्सर्जन को कम करना",
+        "en": "To reduce greenhouse gas emissions"
+      },
+      {
+        "id": "C",
+        "hi": "यह सुनिश्चित करना कि वन्यजीवों और पौधों के अंतर्राष्ट्रीय व्यापार से उनके अस्तित्त्व को खतरा न हो",
+        "en": "To ensure that international trade in specimens of wild animals and plants does not threaten their survival"
+      },
+      {
+        "id": "D",
+        "hi": "तटीय पारिस्थितिक तंत्रों का संरक्षण करना",
+        "en": "To conserve coastal ecosystems"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "CITES (वन्य जीवों और वनस्पतियों की लुप्तप्राय प्रजातियों में अंतर्राष्ट्रीय व्यापार पर कन्वेंशन) सरकारों के बीच एक अंतर्राष्ट्रीय समझौता है। इसका उद्देश्य यह सुनिश्चित करना है कि जंगली जानवरों और पौधों के नमूनों के अंतर्राष्ट्रीय व्यापार से उनकी प्रजातियों के अस्तित्त्व को कोई खतरा न हो।",
+      "en": "CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora) is an international agreement between governments. Its aim is to ensure that international trade in specimens of wild animals and plants does not threaten the survival of the species."
+    }
+  },
+  {
+    "id": 22,
+    "year": "2011",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह सतत् विकास के लिये विश्व व्यापार परिषद (WBCSD) द्वारा शुरू की गई एक पहल है।",
+        "en": "It is an initiative launched by the World Business Council for Sustainable Development (WBCSD)."
+      },
+      {
+        "id": 2,
+        "hi": "भारत सरकार ने 2010 में 'राष्ट्रीय स्वच्छ ऊर्जा कोष' की स्थापना की थी।",
+        "en": "The Government of India established the 'National Clean Energy Fund' in 2010."
+      }
+    ],
+    "question": {
+      "hi": "राष्ट्रीय स्वच्छ ऊर्जा कोष (NCEF) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त में से कौन-सा/से कथन सही है/हैं?",
+      "en": "Consider the following statements regarding the National Clean Energy Fund (NCEF):\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "राष्ट्रीय स्वच्छ ऊर्जा कोष (NCEF) भारत सरकार द्वारा 2010-11 में स्वच्छ ऊर्जा पहलों को वित्तपोषित करने के लिये स्थापित किया गया था। यह WBCSD की पहल नहीं है। कोयले पर 'स्वच्छ ऊर्जा उपकर' लगाकर इस कोष को वित्तपोषित किया जाता था। अतः कथन 1 गलत है और कथन 2 सही है। अतः विकल्प (b) सही है।",
+      "en": "The National Clean Energy Fund (NCEF) was established by the Government of India in 2010-11 to finance clean energy initiatives. It is not an initiative of WBCSD. This fund was financed by levying a 'Clean Energy Cess' on coal. Hence statement 1 is incorrect and statement 2 is correct. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 23,
+    "year": "2011",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "एजेंडा 21 (Agenda 21) किस सम्मेलन का मुख्य दस्तावेज़ है?",
+      "en": "Agenda 21 is the core document of which conference?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "स्टॉकहोम सम्मेलन, 1972",
+        "en": "Stockholm Conference, 1972"
+      },
+      {
+        "id": "B",
+        "hi": "पृथ्वी शिखर सम्मेलन (रियो समिट), 1992",
+        "en": "Earth Summit (Rio Summit), 1992"
+      },
+      {
+        "id": "C",
+        "hi": "क्योटो प्रोटोकॉल, 1997",
+        "en": "Kyoto Protocol, 1997"
+      },
+      {
+        "id": "D",
+        "hi": "जोहान्सबर्ग सम्मेलन, 2002",
+        "en": "Johannesburg Conference, 2002"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "एजेंडा 21 संयुक्त राष्ट्र, बहुपक्षीय संगठनों और व्यक्तिगत सरकारों द्वारा वैश्विक, राष्ट्रीय और स्थानीय स्तर पर सतत् विकास के लिये एक गैर-बाध्यकारी कार्य योजना है, जिसे पर्यावरण और विकास पर संयुक्त राष्ट्र सम्मेलन (UNCED) द्वारा 1992 में रियो डी जनेरियो (पृथ्वी शिखर सम्मेलन) में अपनाया गया था।",
+      "en": "Agenda 21 is a non-binding action plan of the United Nations with regard to sustainable development at the global, national, and local levels by multilateral organizations and individual governments, which was adopted at the United Nations Conference on Environment and Development (UNCED) held in Rio de Janeiro, Brazil, in 1992 (Earth Summit)."
+    }
+  },
+  {
+    "id": 24,
+    "year": "2011",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "मीनामाता कन्वेंशन (Minamata Convention) का मुख्य उद्देश्य क्या है?",
+      "en": "What is the main objective of the Minamata Convention?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "पारे (Mercury) और उसके यौगिकों के प्रतिकूल प्रभावों से मानव स्वास्थ्य और पर्यावरण की रक्षा करना",
+        "en": "To protect human health and the environment from the adverse effects of mercury and its compounds"
+      },
+      {
+        "id": "B",
+        "hi": "समुद्री प्लास्टिक प्रदूषण को कम करना",
+        "en": "To reduce marine plastic pollution"
+      },
+      {
+        "id": "C",
+        "hi": "ओज़ोन क्षयकारी पदार्थों के उत्पादन को रोकना",
+        "en": "To stop the production of ozone-depleting substances"
+      },
+      {
+        "id": "D",
+        "hi": "स्थायी कार्बनिक प्रदूषकों (POPs) को समाप्त करना",
+        "en": "To eliminate Persistent Organic Pollutants (POPs)"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "पारे (Mercury) पर मीनामाता कन्वेंशन एक वैश्विक संधि है, जिसका उद्देश्य पारे और उसके यौगिकों के मानवजनित उत्सर्जन और रिलीज़ से मानव स्वास्थ्य और पर्यावरण की रक्षा करना है। यह 2017 में लागू हुई।",
+      "en": "The Minamata Convention on Mercury is a global treaty intended to protect human health and the environment from anthropogenic emissions and releases of mercury and its compounds. It entered into force in 2017."
+    }
+  },
+  {
+    "id": 25,
+    "year": "2011",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "जल (प्रदूषण निवारण तथा नियंत्रण) अधिनियम, 1974",
+        "en": "Water (Prevention and Control of Pollution) Act, 1974"
+      },
+      {
+        "id": 2,
+        "hi": "वायु (प्रदूषण निवारण तथा नियंत्रण) अधिनियम, 1981",
+        "en": "Air (Prevention and Control of Pollution) Act, 1981"
+      },
+      {
+        "id": 3,
+        "hi": "पर्यावरण (संरक्षण) अधिनियम, 1986",
+        "en": "Environment (Protection) Act, 1986"
+      }
+    ],
+    "question": {
+      "hi": "केंद्रीय प्रदूषण नियंत्रण बोर्ड (CPCB) का गठन किस अधिनियम के अंतर्गत किया गया था?",
+      "en": "Central Pollution Control Board (CPCB) was constituted under which Act?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 3",
+        "en": "3 only"
+      },
+      {
+        "id": "D",
+        "hi": "इनमें से कोई नहीं",
+        "en": "None of these"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "केंद्रीय प्रदूषण नियंत्रण बोर्ड (CPCB) का गठन एक सांविधिक संगठन के रूप में जल (प्रदूषण निवारण एवं नियंत्रण) अधिनियम, 1974 के अंतर्गत सितंबर 1974 में किया गया था। इसके पश्चात् CPCB को वायु (प्रदूषण निवारण एवं नियंत्रण) अधिनियम, 1981 के अंतर्गत भी शक्तियाँ और कार्य सौंपे गए। अतः विकल्प (a) सही है।",
+      "en": "The Central Pollution Control Board (CPCB) was constituted as a statutory organisation in September 1974 under the Water (Prevention and Control of Pollution) Act, 1974. Further, CPCB was entrusted with the powers and functions under the Air (Prevention and Control of Pollution) Act, 1981. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 26,
+    "year": "2018",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "राष्ट्रीय हरित अधिकरण (NGT) पर्यावरण (संरक्षण) अधिनियम, 1986 के तहत स्थापित किया गया है।",
+        "en": "The National Green Tribunal (NGT) has been established under the Environment (Protection) Act, 1986."
+      },
+      {
+        "id": 2,
+        "hi": "केंद्रीय प्रदूषण नियंत्रण बोर्ड (CPCB) का गठन जल (प्रदूषण निवारण एवं नियंत्रण) अधिनियम, 1974 के तहत किया गया है।",
+        "en": "The Central Pollution Control Board (CPCB) has been constituted under the Water (Prevention and Control of Pollution) Act, 1974."
+      }
+    ],
+    "question": {
+      "hi": "राष्ट्रीय हरित अधिकरण (NGT) और केंद्रीय प्रदूषण नियंत्रण बोर्ड (CPCB) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements regarding the National Green Tribunal (NGT) and the Central Pollution Control Board (CPCB):\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "राष्ट्रीय हरित अधिकरण (NGT) की स्थापना वर्ष 2010 में राष्ट्रीय हरित अधिकरण अधिनियम, 2010 (National Green Tribunal Act, 2010) के तहत की गई थी, न कि पर्यावरण (संरक्षण) अधिनियम, 1986 के तहत। अतः कथन 1 गलत है। केंद्रीय प्रदूषण नियंत्रण बोर्ड (CPCB) एक वैधानिक संगठन है जिसका गठन सितंबर 1974 में जल (प्रदूषण निवारण एवं नियंत्रण) अधिनियम, 1974 के तहत किया गया था। अतः कथन 2 सही है। अतः विकल्प (b) सही है।",
+      "en": "The National Green Tribunal (NGT) was established in 2010 under the National Green Tribunal Act, 2010, and not under the Environment (Protection) Act, 1986. Hence, statement 1 is incorrect. The Central Pollution Control Board (CPCB) is a statutory organisation constituted in September 1974 under the Water (Prevention and Control of Pollution) Act, 1974. Hence, statement 2 is correct. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 27,
+    "year": "2018",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "भारतीय पशु कल्याण बोर्ड पर्यावरण (संरक्षण) अधिनियम, 1986 के अधीन स्थापित है।",
+        "en": "The Animal Welfare Board of India is established under the Environment (Protection) Act, 1986."
+      },
+      {
+        "id": 2,
+        "hi": "राष्ट्रीय बाघ संरक्षण प्राधिकरण एक सांविधिक निकाय है।",
+        "en": "The National Tiger Conservation Authority is a statutory body."
+      },
+      {
+        "id": 3,
+        "hi": "राष्ट्रीय गंगा नदी बेसिन प्राधिकरण की अध्यक्षता प्रधानमंत्री करते हैं।",
+        "en": "The National Ganga River Basin Authority is chaired by the Prime Minister."
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "भारतीय पशु कल्याण बोर्ड की स्थापना पशु क्रूरता निवारण अधिनियम, 1960 के तहत की गई थी, न कि पर्यावरण (संरक्षण) अधिनियम, 1986 के तहत। अतः कथन 1 गलत है। राष्ट्रीय बाघ संरक्षण प्राधिकरण (NTCA) वन्यजीव (संरक्षण) अधिनियम, 1972 के तहत स्थापित एक वैधानिक (सांविधिक) निकाय है। अतः कथन 2 सही है। राष्ट्रीय गंगा नदी बेसिन प्राधिकरण (NGRBA) की अध्यक्षता प्रधानमंत्री द्वारा की जाती है। अतः कथन 3 भी सही है। अतः विकल्प (b) सही है।",
+      "en": "The Animal Welfare Board of India was established under the Prevention of Cruelty to Animals Act, 1960, not under the Environment (Protection) Act, 1986. Hence, statement 1 is incorrect. The National Tiger Conservation Authority (NTCA) is a statutory body established under the Wildlife (Protection) Act, 1972. Hence, statement 2 is correct. The National Ganga River Basin Authority (NGRBA) is chaired by the Prime Minister. Hence, statement 3 is also correct. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 28,
+    "year": "2018",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत में 'पर्यावरण प्रभाव आकलन' (EIA) किस कानून के तहत अनिवार्य किया गया है?",
+      "en": "In India, 'Environmental Impact Assessment' (EIA) is made mandatory under which law?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "जल (प्रदूषण निवारण एवं नियंत्रण) अधिनियम, 1974",
+        "en": "Water (Prevention and Control of Pollution) Act, 1974"
+      },
+      {
+        "id": "B",
+        "hi": "वायु (प्रदूषण निवारण एवं नियंत्रण) अधिनियम, 1981",
+        "en": "Air (Prevention and Control of Pollution) Act, 1981"
+      },
+      {
+        "id": "C",
+        "hi": "पर्यावरण (संरक्षण) अधिनियम, 1986",
+        "en": "Environment (Protection) Act, 1986"
+      },
+      {
+        "id": "D",
+        "hi": "जैविक विविधता अधिनियम, 2002",
+        "en": "Biological Diversity Act, 2002"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "भारत में पर्यावरणीय प्रभाव आकलन (EIA) को पर्यावरण (संरक्षण) अधिनियम, 1986 के प्रावधानों के तहत अनिवार्य किया गया है। यह किसी भी बड़ी विकास परियोजना को शुरू करने से पहले उसके संभावित पर्यावरणीय और सामाजिक प्रभावों का मूल्यांकन करने की प्रक्रिया है।",
+      "en": "In India, Environmental Impact Assessment (EIA) has been made mandatory under the provisions of the Environment (Protection) Act, 1986. It is the process of evaluating the likely environmental and social impacts of a proposed major development project before it is undertaken."
+    }
+  },
+  {
+    "id": 29,
+    "year": "2017",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "पारिस्थितिक-संवेदी क्षेत्रों (Eco-Sensitive Zones) के संदर्भ में, निम्नलिखित में से कौन-सा/से कथन सही है/हैं?",
+      "en": "With reference to 'Eco-Sensitive Zones', which of the following statements is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "इन्हें वन्यजीव (संरक्षण) अधिनियम, 1972 के तहत घोषित किया जाता है।",
+        "en": "They are declared under the Wildlife (Protection) Act, 1972."
+      },
+      {
+        "id": "B",
+        "hi": "इन्हें पर्यावरण (संरक्षण) अधिनियम, 1986 के तहत घोषित किया जाता है।",
+        "en": "They are declared under the Environment (Protection) Act, 1986."
+      },
+      {
+        "id": "C",
+        "hi": "पारिस्थितिक-संवेदी क्षेत्र घोषित करने का उद्देश्य उन क्षेत्रों में सभी मानवीय गतिविधियों को पूर्णतः प्रतिबंधित करना है।",
+        "en": "The purpose of declaring Eco-Sensitive Zones is to completely prohibit all human activities in those zones."
+      },
+      {
+        "id": "D",
+        "hi": "उपर्युक्त में से कोई नहीं",
+        "en": "None of the above"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "पारिस्थितिक-संवेदी क्षेत्रों (ESZ) को 'पर्यावरण (संरक्षण) अधिनियम, 1986' के तहत घोषित किया जाता है। अतः विकल्प (b) सही है। इन क्षेत्रों को घोषित करने का उद्देश्य सभी मानवीय गतिविधियों को पूर्णतः प्रतिबंधित करना नहीं है, बल्कि कुछ गतिविधियों को विनियमित (regulate) करना है ताकि संरक्षित क्षेत्रों पर पड़ने वाले नकारात्मक प्रभावों को कम किया जा सके। अतः विकल्प (c) गलत है।",
+      "en": "Eco-Sensitive Zones (ESZ) are declared under the 'Environment (Protection) Act, 1986'. Hence, option (b) is correct. The purpose of declaring these zones is not to completely prohibit all human activities, but to regulate certain activities to minimize the negative impacts on the protected areas. Hence, option (c) is incorrect."
+    }
+  },
+  {
+    "id": 30,
+    "year": "2017",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP) के अंतर्गत कार्य करने वाला एक ब्यूरो है।",
+        "en": "It is a bureau under the United Nations Environment Programme (UNEP)."
+      },
+      {
+        "id": 2,
+        "hi": "इसका मिशन यह सुनिश्चित करना है कि वन्य पादपों और जंतुओं के व्यापार से प्रकृति के संरक्षण को कोई खतरा न हो।",
+        "en": "Its mission is to ensure that trade in wild plants and animals is not a threat to the conservation of nature."
+      }
+    ],
+    "question": {
+      "hi": "'ट्रैफिक' (TRAFFIC) अर्थात् वन्यजीवों एवं वनस्पतियों के व्यापार संबंधी रिकॉर्ड के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to 'TRAFFIC', the Wildlife Trade Monitoring Network, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "TRAFFIC (द वाइल्डलाइफ ट्रेड मॉनिटरिंग नेटवर्क) एक अग्रणी गैर-सरकारी संगठन (NGO) है, जो वन्यजीव व्यापार पर निगरानी रखता है। यह WWF (वर्ल्ड वाइड फंड फॉर नेचर) और IUCN का एक संयुक्त कार्यक्रम है, न कि UNEP का ब्यूरो। अतः कथन 1 गलत है। इसका मुख्य उद्देश्य यह सुनिश्चित करना है कि वन्य पादपों और जंतुओं के व्यापार से प्रकृति के संरक्षण को कोई खतरा न हो। अतः कथन 2 सही है। अतः विकल्प (b) सही है।",
+      "en": "TRAFFIC (The Wildlife Trade Monitoring Network) is a leading non-governmental organization (NGO) working globally on trade in wild animals and plants. It is a joint program of WWF (World Wide Fund for Nature) and IUCN, and not a bureau under UNEP. Hence, statement 1 is incorrect. Its main objective is to ensure that trade in wild plants and animals is not a threat to the conservation of nature. Hence, statement 2 is correct. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 31,
+    "year": "2017",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा/से 'राष्ट्रीय पोषण मिशन' (National Nutrition Mission) का उद्देश्य नहीं है/हैं?",
+      "en": "Which of the following is/are not the objective(s) of the 'National Nutrition Mission'?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "गर्भवती महिलाओं तथा स्तनपान कराने वाली माताओं में कुपोषण को कम करना",
+        "en": "To reduce malnutrition among pregnant women and lactating mothers"
+      },
+      {
+        "id": "B",
+        "hi": "बच्चों में बौनापन (स्टंटिंग) कम करना",
+        "en": "To reduce stunting in children"
+      },
+      {
+        "id": "C",
+        "hi": "सभी के लिये सुरक्षित पेयजल उपलब्ध कराना",
+        "en": "To provide safe drinking water to all"
+      },
+      {
+        "id": "D",
+        "hi": "छोटे बच्चों, महिलाओं और किशोरियों में एनीमिया को कम करना",
+        "en": "To reduce anemia among young children, women and adolescent girls"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "राष्ट्रीय पोषण मिशन (पोषण अभियान) का मुख्य उद्देश्य बच्चों, गर्भवती महिलाओं और स्तनपान कराने वाली माताओं में पोषण के स्तर में सुधार करना है। इसके लक्ष्यों में स्टंटिंग (बौनापन), अल्पपोषण, एनीमिया को कम करना शामिल है। 'सुरक्षित पेयजल उपलब्ध कराना' जल जीवन मिशन का उद्देश्य है, राष्ट्रीय पोषण मिशन का नहीं। अतः विकल्प (c) सही उत्तर है।",
+      "en": "The main objective of the National Nutrition Mission (POSHAN Abhiyaan) is to improve the nutritional status of children, pregnant women and lactating mothers. Its targets include reducing stunting, under-nutrition, and anemia. 'Providing safe drinking water' is the objective of the Jal Jeevan Mission, not the National Nutrition Mission. Hence, option (c) is the correct answer."
+    }
+  },
+  {
+    "id": 32,
+    "year": "2017",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह संयुक्त राष्ट्र की एक विशेष एजेंसी है।",
+        "en": "It is a specialized agency of the United Nations."
+      },
+      {
+        "id": 2,
+        "hi": "भारत इसका एक संस्थापक सदस्य है।",
+        "en": "India is one of its founding members."
+      }
+    ],
+    "question": {
+      "hi": "'ग्लोबल टाइगर फोरम (GTF)' के संदर्भ में निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to the 'Global Tiger Forum (GTF)', consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "ग्लोबल टाइगर फोरम (GTF) बाघों के संरक्षण के लिये कार्य करने वाला एकमात्र अंतर-सरकारी अंतर्राष्ट्रीय निकाय है। यह संयुक्त राष्ट्र की एजेंसी नहीं है। अतः कथन 1 गलत है। GTF की स्थापना 1993 में बाघ रेंज वाले देशों के एक अंतर्राष्ट्रीय संगोष्ठी (नई दिल्ली) के बाद की गई थी, और भारत इसका एक संस्थापक सदस्य है तथा इसका सचिवालय भी नई दिल्ली में स्थित है। अतः कथन 2 सही है।",
+      "en": "The Global Tiger Forum (GTF) is the only inter-governmental international body working for the conservation of tigers. It is not an agency of the United Nations. Hence, statement 1 is incorrect. The GTF was established in 1993 following an international symposium of tiger range countries (in New Delhi), and India is one of its founding members, with its secretariat also located in New Delhi. Hence, statement 2 is correct."
+    }
+  },
+  {
+    "id": 33,
+    "year": "2016",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "जलवायु परिवर्तन पर संयुक्त राष्ट्र फ्रेमवर्क कन्वेंशन (UNFCCC) के 'पार्टियों के सम्मेलन' (COP-21) में किस समझौते को अपनाया गया था?",
+      "en": "Which agreement was adopted at the 'Conference of the Parties' (COP-21) to the United Nations Framework Convention on Climate Change (UNFCCC)?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "क्योटो प्रोटोकॉल",
+        "en": "Kyoto Protocol"
+      },
+      {
+        "id": "B",
+        "hi": "पेरिस समझौता",
+        "en": "Paris Agreement"
+      },
+      {
+        "id": "C",
+        "hi": "कोपेनहेगन अकार्ड",
+        "en": "Copenhagen Accord"
+      },
+      {
+        "id": "D",
+        "hi": "दोहा संशोधन",
+        "en": "Doha Amendment"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "2015 में फ्रांस की राजधानी पेरिस में आयोजित UNFCCC के COP-21 में 'पेरिस समझौता' (Paris Agreement) अपनाया गया था। इसका उद्देश्य वैश्विक तापमान वृद्धि को 2°C से नीचे (और 1.5°C तक सीमित करने का प्रयास) रखना है।",
+      "en": "The 'Paris Agreement' was adopted at COP-21 of the UNFCCC held in Paris, France in 2015. Its aim is to keep the global temperature rise below 2°C (and make efforts to limit it to 1.5°C)."
+    }
+  },
+  {
+    "id": 34,
+    "year": "2016",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Hard",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह जलवायु परिवर्तन पर संयुक्त राष्ट्र फ्रेमवर्क कन्वेंशन (UNFCCC) के अंतर्गत स्थापित एक तंत्र है।",
+        "en": "It is a mechanism established under the United Nations Framework Convention on Climate Change (UNFCCC)."
+      },
+      {
+        "id": 2,
+        "hi": "यह विकासशील देशों को उनके जलवायु परिवर्तन शमन और अनुकूलन परियोजनाओं के लिये वित्त प्रदान करता है।",
+        "en": "It provides finance to developing countries for their climate change mitigation and adaptation projects."
+      }
+    ],
+    "question": {
+      "hi": "'हरित जलवायु कोष (Green Climate Fund - GCF)' के संदर्भ में निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to the 'Green Climate Fund (GCF)', consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "हरित जलवायु कोष (GCF) की स्थापना 2010 में कैनकन सम्मेलन (COP-16) के दौरान UNFCCC के वित्तीय तंत्र के रूप में की गई थी। अतः कथन 1 सही है। इसका उद्देश्य विकासशील देशों को जलवायु परिवर्तन के शमन (mitigation) और अनुकूलन (adaptation) में सहायता करने के लिये वित्तीय संसाधन प्रदान करना है। अतः कथन 2 भी सही है। अतः विकल्प (c) सही है।",
+      "en": "The Green Climate Fund (GCF) was established in 2010 during the Cancun Conference (COP-16) as an operating entity of the financial mechanism of the UNFCCC. Hence, statement 1 is correct. Its aim is to provide financial resources to developing countries to assist them in mitigation and adaptation to climate change. Hence, statement 2 is also correct. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 35,
+    "year": "2016",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "'जेनेटिक इंजीनियरिंग मूल्यांकन समिति' (Genetic Engineering Appraisal Committee - GEAC) का गठन किसके अधीन किया गया है?",
+      "en": "The 'Genetic Engineering Appraisal Committee' (GEAC) is constituted under the"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "खाद्य सुरक्षा एवं मानक अधिनियम, 2006",
+        "en": "Food Safety and Standards Act, 2006"
+      },
+      {
+        "id": "B",
+        "hi": "भौगोलिक उपदर्शन (पंजीकरण और संरक्षण) अधिनियम, 1999",
+        "en": "Geographical Indications of Goods (Registration and Protection) Act, 1999"
+      },
+      {
+        "id": "C",
+        "hi": "पर्यावरण (संरक्षण) अधिनियम, 1986",
+        "en": "Environment (Protection) Act, 1986"
+      },
+      {
+        "id": "D",
+        "hi": "वन्यजीव (संरक्षण) अधिनियम, 1972",
+        "en": "Wildlife (Protection) Act, 1972"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "जेनेटिक इंजीनियरिंग मूल्यांकन समिति (GEAC) का गठन 'पर्यावरण (संरक्षण) अधिनियम, 1986' के तहत किया गया है। यह समिति पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय के अधीन कार्य करती है और भारत में आनुवंशिक रूप से संशोधित (GM) जीवों और उत्पादों के उपयोग की अनुमति देने के लिये शीर्ष निकाय है।",
+      "en": "The Genetic Engineering Appraisal Committee (GEAC) has been constituted under the 'Environment (Protection) Act, 1986'. It functions under the Ministry of Environment, Forest and Climate Change and is the apex body to permit the use of genetically modified (GM) organisms and products in India."
+    }
+  },
+  {
+    "id": 36,
+    "year": "2015",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "क्योटो प्रोटोकॉल : ओज़ोन क्षयकारी पदार्थ",
+        "en": "Kyoto Protocol : Ozone depleting substances"
+      },
+      {
+        "id": 2,
+        "hi": "रॉटरडैम कन्वेंशन : कुछ खतरनाक रसायनों और कीटनाशकों के अंतर्राष्ट्रीय व्यापार में पूर्व सूचित सहमति",
+        "en": "Rotterdam Convention : Prior Informed Consent procedure for certain hazardous chemicals and pesticides in international trade"
+      },
+      {
+        "id": 3,
+        "hi": "स्टॉकहोम कन्वेंशन : स्थायी कार्बनिक प्रदूषक (POPs)",
+        "en": "Stockholm Convention : Persistent Organic Pollutants (POPs)"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये:\nउपर्युक्त युग्मों में से कौन-सा/से सही सुमेलित है/हैं?",
+      "en": "Consider the following pairs:\nWhich of the pairs given above is/are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "क्योटो प्रोटोकॉल ग्रीनहाउस गैसों (GHGs) के उत्सर्जन को कम करने से संबंधित है, न कि ओज़ोन क्षयकारी पदार्थों से (ओज़ोन क्षयकारी पदार्थों से मॉन्ट्रियल प्रोटोकॉल संबंधित है)। अतः युग्म 1 गलत है। रॉटरडैम कन्वेंशन अंतर्राष्ट्रीय व्यापार में कुछ खतरनाक रसायनों और कीटनाशकों के लिये 'पूर्व सूचित सहमति' (PIC) प्रक्रिया से संबंधित है। अतः युग्म 2 सही है। स्टॉकहोम कन्वेंशन पर्यावरण और मानव स्वास्थ्य को 'स्थायी कार्बनिक प्रदूषकों' (POPs) से बचाने से संबंधित है। अतः युग्म 3 सही है। अतः विकल्प (b) सही है।",
+      "en": "The Kyoto Protocol deals with reducing greenhouse gas (GHG) emissions, not ozone-depleting substances (the Montreal Protocol deals with ozone-depleting substances). Hence pair 1 is incorrect. The Rotterdam Convention deals with the Prior Informed Consent (PIC) procedure for certain hazardous chemicals and pesticides in international trade. Hence pair 2 is correct. The Stockholm Convention deals with protecting human health and the environment from Persistent Organic Pollutants (POPs). Hence pair 3 is correct. Thus, option (b) is correct."
+    }
+  },
+  {
+    "id": 37,
+    "year": "2015",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "बायोकार्बन फंड इनिशिएटिव फॉर सस्टेनेबल फॉरेस्ट लैंडस्केप्स (BioCarbon Fund Initiative for Sustainable Forest Landscapes) का प्रबंधन निम्नलिखित में से किसके द्वारा किया जाता है?",
+      "en": "The 'BioCarbon Fund Initiative for Sustainable Forest Landscapes' is managed by the"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "एशियाई विकास बैंक (ADB)",
+        "en": "Asian Development Bank (ADB)"
+      },
+      {
+        "id": "B",
+        "hi": "अंतर्राष्ट्रीय मुद्रा कोष (IMF)",
+        "en": "International Monetary Fund (IMF)"
+      },
+      {
+        "id": "C",
+        "hi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP)",
+        "en": "United Nations Environment Programme (UNEP)"
+      },
+      {
+        "id": "D",
+        "hi": "विश्व बैंक",
+        "en": "World Bank"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "बायोकार्बन फंड इनिशिएटिव फॉर सस्टेनेबल फॉरेस्ट लैंडस्केप्स (ISFL) एक बहुपक्षीय सुविधा है जिसका प्रबंधन 'विश्व बैंक' (World Bank) द्वारा किया जाता है। इसका उद्देश्य वनों की कटाई और वन क्षरण को कम करना तथा स्थायी भूमि उपयोग को बढ़ावा देना है।",
+      "en": "The BioCarbon Fund Initiative for Sustainable Forest Landscapes (ISFL) is a multilateral facility managed by the 'World Bank'. It aims to reduce deforestation and forest degradation and promote sustainable land use."
+    }
+  },
+  {
+    "id": 38,
+    "year": "2015",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "इसका उद्देश्य भूमि क्षरण और मरुस्थलीकरण को रोकना तथा वापस पलटना है।",
+        "en": "It aims to halt and reverse land degradation and desertification."
+      },
+      {
+        "id": 2,
+        "hi": "यह मरुस्थलीकरण को संबोधित करने वाला एकमात्र कानूनी रूप से बाध्यकारी अंतर्राष्ट्रीय समझौता है।",
+        "en": "It is the only legally binding international agreement addressing desertification."
+      }
+    ],
+    "question": {
+      "hi": "मरुस्थलीकरण का मुकाबला करने के लिये संयुक्त राष्ट्र कन्वेंशन (UNCCD) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to the United Nations Convention to Combat Desertification (UNCCD), consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "मरुस्थलीकरण का मुकाबला करने के लिये संयुक्त राष्ट्र कन्वेंशन (UNCCD) की स्थापना 1994 में हुई थी। यह पर्यावरण और विकास को स्थायी भूमि प्रबंधन से जोड़ने वाला एकमात्र कानूनी रूप से बाध्यकारी अंतर्राष्ट्रीय समझौता है। इसका मुख्य उद्देश्य भूमि क्षरण और मरुस्थलीकरण को रोकना तथा पलटना है। अतः दोनों कथन 1 और 2 सही हैं। विकल्प (c) सही है।",
+      "en": "The United Nations Convention to Combat Desertification (UNCCD) was established in 1994. It is the sole legally binding international agreement linking environment and development to sustainable land management. Its main objective is to halt and reverse land degradation and desertification. Hence, both statements 1 and 2 are correct. Option (c) is correct."
+    }
+  },
+  {
+    "id": 39,
+    "year": "2015",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "जलवायु परिवर्तन पर संयुक्त राष्ट्र फ्रेमवर्क कन्वेंशन (UNFCCC) किस शिखर सम्मेलन में अपनाया गया था?",
+      "en": "At which summit was the United Nations Framework Convention on Climate Change (UNFCCC) adopted?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "स्टॉकहोम सम्मेलन, 1972",
+        "en": "Stockholm Conference, 1972"
+      },
+      {
+        "id": "B",
+        "hi": "पृथ्वी शिखर सम्मेलन (रियो डि जनेरियो), 1992",
+        "en": "Earth Summit (Rio de Janeiro), 1992"
+      },
+      {
+        "id": "C",
+        "hi": "क्योटो सम्मेलन, 1997",
+        "en": "Kyoto Conference, 1997"
+      },
+      {
+        "id": "D",
+        "hi": "जोहान्सबर्ग शिखर सम्मेलन, 2002",
+        "en": "Johannesburg Summit, 2002"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "जलवायु परिवर्तन पर संयुक्त राष्ट्र फ्रेमवर्क कन्वेंशन (UNFCCC) 1992 में ब्राज़ील के रियो डि जनेरियो में आयोजित 'पर्यावरण और विकास पर संयुक्त राष्ट्र सम्मेलन' (UNCED), जिसे पृथ्वी शिखर सम्मेलन के नाम से जाना जाता है, में अपनाया गया था।",
+      "en": "The United Nations Framework Convention on Climate Change (UNFCCC) was adopted at the 'United Nations Conference on Environment and Development' (UNCED), widely known as the Earth Summit, held in Rio de Janeiro, Brazil, in 1992."
+    }
+  },
+  {
+    "id": 40,
+    "year": "2014",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह संयुक्त राष्ट्र के तत्त्वावधान में एक वैश्विक पहल है।",
+        "en": "It is a global initiative under the aegis of the United Nations."
+      },
+      {
+        "id": 2,
+        "hi": "यह वन कार्बन स्टॉक के संरक्षण, संवर्द्धन और विकासशील देशों में वनों के स्थायी प्रबंधन को बढ़ावा देता है।",
+        "en": "It promotes conservation, enhancement of forest carbon stocks and sustainable management of forests in developing countries."
+      }
+    ],
+    "question": {
+      "hi": "'REDD+' कार्यक्रम के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to the 'REDD+' programme, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "REDD+ (वनों की कटाई और वन क्षरण से उत्सर्जन कम करना) UNFCCC के तहत एक वैश्विक पहल है जो जलवायु परिवर्तन को कम करने का प्रयास करता है। अतः कथन 1 सही है। यह विकासशील देशों को वनों की कटाई को रोकने, वन कार्बन स्टॉक को बढ़ाने और स्थायी वन प्रबंधन के लिये वित्तीय प्रोत्साहन प्रदान करता है। अतः कथन 2 भी सही है। अतः विकल्प (c) सही है।",
+      "en": "REDD+ (Reducing Emissions from Deforestation and forest Degradation) is a global initiative under the UNFCCC seeking to mitigate climate change. Hence statement 1 is correct. It provides financial incentives to developing countries to halt deforestation, enhance forest carbon stocks and sustainably manage forests. Hence statement 2 is also correct. Thus, option (c) is correct."
+    }
+  },
+  {
+    "id": 41,
+    "year": "2014",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "'कार्बन क्रेडिट' की अवधारणा किस सम्मेलन से उत्पन्न हुई?",
+      "en": "The concept of 'Carbon Credit' originated from which conference/protocol?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "पृथ्वी शिखर सम्मेलन (रियो डि जनेरियो)",
+        "en": "Earth Summit (Rio de Janeiro)"
+      },
+      {
+        "id": "B",
+        "hi": "क्योटो प्रोटोकॉल",
+        "en": "Kyoto Protocol"
+      },
+      {
+        "id": "C",
+        "hi": "मॉन्ट्रियल प्रोटोकॉल",
+        "en": "Montreal Protocol"
+      },
+      {
+        "id": "D",
+        "hi": "पेरिस समझौता",
+        "en": "Paris Agreement"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कार्बन क्रेडिट की अवधारणा क्योटो प्रोटोकॉल (1997) से उत्पन्न हुई थी। इसके अंतर्गत लचीले तंत्र (जैसे- क्लीन डेवलपमेंट मैकेनिज़्म - CDM) की शुरुआत की गई, जो विकसित देशों को विकासशील देशों में उत्सर्जन कम करने वाली परियोजनाओं में निवेश करके कार्बन क्रेडिट अर्जित करने की अनुमति देता है।",
+      "en": "The concept of carbon credit originated from the Kyoto Protocol (1997). It introduced flexible mechanisms (such as the Clean Development Mechanism - CDM) that allow developed countries to earn carbon credits by investing in emission-reducing projects in developing countries."
+    }
+  },
+  {
+    "id": 42,
+    "year": "2014",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा अधिनियम भारत में भूजल उपयोग को विनियमित और नियंत्रित करने के लिये 'केंद्रीय भूजल प्राधिकरण (CGWA)' का गठन करने का अधिकार देता है?",
+      "en": "Which of the following Acts empowers the constitution of 'Central Ground Water Authority (CGWA)' to regulate and control groundwater usage in India?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "जल (प्रदूषण निवारण एवं नियंत्रण) अधिनियम, 1974",
+        "en": "Water (Prevention and Control of Pollution) Act, 1974"
+      },
+      {
+        "id": "B",
+        "hi": "पर्यावरण (संरक्षण) अधिनियम, 1986",
+        "en": "Environment (Protection) Act, 1986"
+      },
+      {
+        "id": "C",
+        "hi": "भारतीय वन अधिनियम, 1927",
+        "en": "Indian Forest Act, 1927"
+      },
+      {
+        "id": "D",
+        "hi": "जैव विविधता अधिनियम, 2002",
+        "en": "Biological Diversity Act, 2002"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "केंद्रीय भूजल प्राधिकरण (CGWA) का गठन पर्यावरण (संरक्षण) अधिनियम, 1986 की धारा 3(3) के तहत किया गया है। इसका उद्देश्य देश में भूजल संसाधनों के विकास और प्रबंधन को विनियमित तथा नियंत्रित करना है।",
+      "en": "The Central Ground Water Authority (CGWA) was constituted under Section 3(3) of the Environment (Protection) Act, 1986. Its objective is to regulate and control the development and management of groundwater resources in the country."
+    }
+  },
+  {
+    "id": 43,
+    "year": "2013",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "कार्टाजेना प्रोटोकॉल : जैव सुरक्षा (Biosafety)",
+        "en": "Cartagena Protocol : Biosafety"
+      },
+      {
+        "id": 2,
+        "hi": "नागोया प्रोटोकॉल : आनुवंशिक संसाधनों तक पहुँच और लाभों का उचित बँटवारा",
+        "en": "Nagoya Protocol : Access to Genetic Resources and the Fair and Equitable Sharing of Benefits"
+      },
+      {
+        "id": 3,
+        "hi": "कीगाली संशोधन : ओज़ोन क्षयकारी पदार्थों का कम उपयोग",
+        "en": "Kigali Amendment : Reduction in use of ozone depleting substances"
+      }
+    ],
+    "question": {
+      "hi": "निम्नलिखित युग्मों पर विचार कीजिये:\nउपर्युक्त युग्मों में से कौन-सा/से सही सुमेलित है/हैं?",
+      "en": "Consider the following pairs:\nWhich of the pairs given above is/are correctly matched?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 1 और 2",
+        "en": "1 and 2 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 2 और 3",
+        "en": "2 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2 और 3",
+        "en": "1, 2 and 3"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "कार्टाजेना प्रोटोकॉल 'जैव सुरक्षा' (LMOs के सुरक्षित हस्तांतरण, उपयोग) से संबंधित है (युग्म 1 सही है)। नागोया प्रोटोकॉल आनुवंशिक संसाधनों तक पहुँच और उनके उपयोग से उत्पन्न होने वाले लाभों के उचित बँटवारे से संबंधित है (युग्म 2 सही है)। कीगाली संशोधन मॉन्ट्रियल प्रोटोकॉल में किया गया एक संशोधन है जिसका उद्देश्य हाइड्रोफ्लोरोकार्बन (HFCs) के उत्पादन और उपयोग को कम करना है, जो ओज़ोन क्षयकारी नहीं हैं बल्कि शक्तिशाली ग्रीनहाउस गैसें हैं (युग्म 3 गलत है)। अतः विकल्प (b) सही है।",
+      "en": "The Cartagena Protocol is related to 'Biosafety' (safe transfer, handling and use of LMOs) (Pair 1 is correct). The Nagoya Protocol is related to access to genetic resources and the fair and equitable sharing of benefits arising from their utilization (Pair 2 is correct). The Kigali Amendment is an amendment to the Montreal Protocol aimed at phasing down the production and consumption of hydrofluorocarbons (HFCs), which are not ozone-depleting substances but are potent greenhouse gases (Pair 3 is incorrect). Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 44,
+    "year": "2013",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "'इंटरगवर्नमेंटल पैनल ऑन क्लाइमेट चेंज' (IPCC) की स्थापना किसके द्वारा की गई थी?",
+      "en": "The 'Intergovernmental Panel on Climate Change' (IPCC) was established by?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "विश्व बैंक और अंतर्राष्ट्रीय मुद्रा कोष",
+        "en": "World Bank and International Monetary Fund"
+      },
+      {
+        "id": "B",
+        "hi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP) और विश्व मौसम विज्ञान संगठन (WMO)",
+        "en": "United Nations Environment Programme (UNEP) and World Meteorological Organization (WMO)"
+      },
+      {
+        "id": "C",
+        "hi": "यूनेस्को (UNESCO) और विश्व स्वास्थ्य संगठन (WHO)",
+        "en": "UNESCO and World Health Organization (WHO)"
+      },
+      {
+        "id": "D",
+        "hi": "अंतर्राष्ट्रीय प्रकृति संरक्षण संघ (IUCN) और वर्ल्ड वाइड फंड (WWF)",
+        "en": "International Union for Conservation of Nature (IUCN) and World Wide Fund (WWF)"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "इंटरगवर्नमेंटल पैनल ऑन क्लाइमेट चेंज (IPCC) जलवायु परिवर्तन से संबंधित विज्ञान का आकलन करने वाली संयुक्त राष्ट्र की संस्था है। इसे 1988 में 'विश्व मौसम विज्ञान संगठन' (WMO) और 'संयुक्त राष्ट्र पर्यावरण कार्यक्रम' (UNEP) द्वारा संयुक्त रूप से स्थापित किया गया था।",
+      "en": "The Intergovernmental Panel on Climate Change (IPCC) is the United Nations body for assessing the science related to climate change. It was established in 1988 jointly by the World Meteorological Organization (WMO) and the United Nations Environment Programme (UNEP)."
+    }
+  },
+  {
+    "id": 45,
+    "year": "2013",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन 'राष्ट्रीय हरित अधिकरण' (NGT) के अंतर्गत सुनवाई के दायरे में नहीं आता है?",
+      "en": "Which of the following does not come under the jurisdiction of hearing by the 'National Green Tribunal' (NGT)?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "जल (प्रदूषण निवारण और नियंत्रण) अधिनियम, 1974",
+        "en": "Water (Prevention and Control of Pollution) Act, 1974"
+      },
+      {
+        "id": "B",
+        "hi": "वन (संरक्षण) अधिनियम, 1980",
+        "en": "Forest (Conservation) Act, 1980"
+      },
+      {
+        "id": "C",
+        "hi": "वन्यजीव (संरक्षण) अधिनियम, 1972",
+        "en": "Wildlife (Protection) Act, 1972"
+      },
+      {
+        "id": "D",
+        "hi": "पर्यावरण (संरक्षण) अधिनियम, 1986",
+        "en": "Environment (Protection) Act, 1986"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "राष्ट्रीय हरित अधिकरण (NGT) को 7 पर्यावरण संबंधी कानूनों के तहत सिविल मामलों की सुनवाई का अधिकार है। इनमें जल अधिनियम 1974, जल उपकर अधिनियम 1977, वन संरक्षण अधिनियम 1980, वायु अधिनियम 1981, पर्यावरण संरक्षण अधिनियम 1986, सार्वजनिक देयता बीमा अधिनियम 1991 और जैव विविधता अधिनियम 2002 शामिल हैं। लेकिन वन्यजीव (संरक्षण) अधिनियम, 1972 और वन अधिकार अधिनियम, 2006 NGT के अधिकार क्षेत्र में नहीं आते हैं। अतः विकल्प (c) सही है।",
+      "en": "The National Green Tribunal (NGT) has the jurisdiction to hear civil cases under 7 environmental laws. These include Water Act 1974, Water Cess Act 1977, Forest Conservation Act 1980, Air Act 1981, Environment Protection Act 1986, Public Liability Insurance Act 1991 and Biological Diversity Act 2002. But the Wildlife (Protection) Act, 1972 and the Forest Rights Act, 2006 do not fall under the jurisdiction of NGT. Hence, option (c) is correct."
+    }
+  },
+  {
+    "id": 46,
+    "year": "2012",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सी संस्था 'रेड डेटा बुक' (Red Data Book) प्रकाशित करती है, जिसमें संकटग्रस्त पौधों और पशु प्रजातियों की सूची होती है?",
+      "en": "Which of the following organizations publishes the 'Red Data Book', which contains a list of threatened plant and animal species?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP)",
+        "en": "United Nations Environment Programme (UNEP)"
+      },
+      {
+        "id": "B",
+        "hi": "अंतर्राष्ट्रीय प्रकृति संरक्षण संघ (IUCN)",
+        "en": "International Union for Conservation of Nature (IUCN)"
+      },
+      {
+        "id": "C",
+        "hi": "वर्ल्ड वाइड फंड फॉर नेचर (WWF)",
+        "en": "World Wide Fund for Nature (WWF)"
+      },
+      {
+        "id": "D",
+        "hi": "वन्यजीवों और वनस्पतियों के अंतर्राष्ट्रीय व्यापार पर कन्वेंशन (CITES)",
+        "en": "Convention on International Trade in Endangered Species (CITES)"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "रेड डेटा बुक एक सार्वजनिक दस्तावेज़ है जिसे अंतर्राष्ट्रीय प्रकृति संरक्षण संघ (IUCN) द्वारा प्रकाशित किया जाता है। यह विश्व भर में पौधों, जानवरों और कवक की दुर्लभ तथा लुप्तप्राय प्रजातियों का रिकॉर्ड रखता है।",
+      "en": "The Red Data Book is a public document published by the International Union for Conservation of Nature (IUCN). It keeps a record of rare and endangered species of plants, animals, and fungi across the globe."
+    }
+  },
+  {
+    "id": 47,
+    "year": "2012",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह जलवायु परिवर्तन से निपटने के लिये देशों द्वारा प्रस्तुत किया जाने वाला एक लक्ष्य है।",
+        "en": "It is a target submitted by countries to combat climate change."
+      },
+      {
+        "id": 2,
+        "hi": "यह क्योटो प्रोटोकॉल के तहत कानूनी रूप से बाध्यकारी है।",
+        "en": "It is legally binding under the Kyoto Protocol."
+      }
+    ],
+    "question": {
+      "hi": "'राष्ट्रीय स्तर पर निर्धारित योगदान (NDCs)' के संदर्भ में निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to 'Nationally Determined Contributions (NDCs)', consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "राष्ट्रीय स्तर पर निर्धारित योगदान (NDCs) पेरिस समझौते (2015) के केंद्र में हैं, न कि क्योटो प्रोटोकॉल के। ये देश-विशेष द्वारा जलवायु परिवर्तन से निपटने और वैश्विक तापमान वृद्धि को सीमित करने के लिये तय किये गए लक्ष्य हैं। अतः कथन 1 सही है और कथन 2 गलत है। अतः विकल्प (a) सही है।",
+      "en": "Nationally Determined Contributions (NDCs) are at the heart of the Paris Agreement (2015), not the Kyoto Protocol. These are country-specific targets determined by the countries themselves to combat climate change and limit global temperature rise. Hence statement 1 is correct and statement 2 is incorrect. Thus, option (a) is correct."
+    }
+  },
+  {
+    "id": 48,
+    "year": "2011",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा संगठन 'वैश्विक पर्यावरण आउटलुक (Global Environment Outlook - GEO)' रिपोर्ट प्रकाशित करता है?",
+      "en": "Which of the following organizations publishes the 'Global Environment Outlook (GEO)' report?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "संयुक्त राष्ट्र विकास कार्यक्रम (UNDP)",
+        "en": "United Nations Development Programme (UNDP)"
+      },
+      {
+        "id": "B",
+        "hi": "विश्व आर्थिक मंच (WEF)",
+        "en": "World Economic Forum (WEF)"
+      },
+      {
+        "id": "C",
+        "hi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP)",
+        "en": "United Nations Environment Programme (UNEP)"
+      },
+      {
+        "id": "D",
+        "hi": "विश्व संसाधन संस्थान (WRI)",
+        "en": "World Resources Institute (WRI)"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "वैश्विक पर्यावरण आउटलुक (GEO) संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP) की एक प्रमुख रिपोर्ट है जो वैश्विक पर्यावरण की स्थिति और प्रवृत्तियों का व्यापक मूल्यांकन प्रदान करती है।",
+      "en": "The Global Environment Outlook (GEO) is a flagship report of the United Nations Environment Programme (UNEP) that provides a comprehensive assessment of the state and trends of the global environment."
+    }
+  },
+  {
+    "id": 49,
+    "year": "2011",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "यह वन संरक्षण और उनके सतत् प्रबंधन के लिये एक कानूनी रूप से बाध्यकारी अंतर्राष्ट्रीय संधि है।",
+        "en": "It is a legally binding international treaty for forest conservation and their sustainable management."
+      },
+      {
+        "id": 2,
+        "hi": "भारत ने हाल ही में इस पर हस्ताक्षर किये हैं।",
+        "en": "India has recently signed it."
+      }
+    ],
+    "question": {
+      "hi": "UNFCCC के अंतर्गत वनों से संबंधित किसी व्यापक वैश्विक समझौते के संबंध में, निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "Regarding any comprehensive global agreement related to forests under UNFCCC, consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "hi": "वर्तमान में वनों के संरक्षण और सतत् प्रबंधन के लिये कोई भी एकल, कानूनी रूप से बाध्यकारी वैश्विक संधि मौजूद नहीं है। 'वन सिद्धांतों' (Forest Principles) को 1992 के रियो पृथ्वी शिखर सम्मेलन में अपनाया गया था, लेकिन वे गैर-बाध्यकारी हैं। REDD+ जैसे ढाँचे स्वैच्छिक हैं और बाध्यकारी नहीं हैं। इसलिये दोनों कथन गलत हैं। अतः विकल्प (d) सही है।",
+      "en": "Currently, there is no single, legally binding global treaty for the conservation and sustainable management of forests. The 'Forest Principles' were adopted at the 1992 Rio Earth Summit, but they are non-binding. Frameworks like REDD+ are voluntary and not binding. Therefore, both statements are incorrect. Hence, option (d) is correct."
+    }
+  },
+  {
+    "id": 50,
+    "year": "2011",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत में पर्यावरण (संरक्षण) अधिनियम, 1986 किस अंतर्राष्ट्रीय सम्मेलन के निर्णयों को लागू करने के लिये अधिनियमित किया गया था?",
+      "en": "In India, the Environment (Protection) Act, 1986 was enacted to implement the decisions of which international conference?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "स्टॉकहोम सम्मेलन, 1972",
+        "en": "Stockholm Conference, 1972"
+      },
+      {
+        "id": "B",
+        "hi": "रियो शिखर सम्मेलन, 1992",
+        "en": "Rio Summit, 1992"
+      },
+      {
+        "id": "C",
+        "hi": "क्योटो प्रोटोकॉल, 1997",
+        "en": "Kyoto Protocol, 1997"
+      },
+      {
+        "id": "D",
+        "hi": "वियना कन्वेंशन, 1985",
+        "en": "Vienna Convention, 1985"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "पर्यावरण (संरक्षण) अधिनियम, 1986 को 1972 में स्टॉकहोम में आयोजित मानव पर्यावरण पर संयुक्त राष्ट्र सम्मेलन (स्टॉकहोम सम्मेलन) में लिये गए निर्णयों को लागू करने के लिये भारतीय संसद द्वारा अधिनियमित किया गया था। भारत ने इस सम्मेलन में भाग लिया था और पर्यावरण की सुरक्षा व सुधार के लिये उचित कदम उठाने का संकल्प लिया था।",
+      "en": "The Environment (Protection) Act, 1986 was enacted by the Indian Parliament to implement the decisions taken at the United Nations Conference on the Human Environment held at Stockholm in 1972 (Stockholm Conference). India had participated in this conference and resolved to take appropriate steps for the protection and improvement of the human environment."
+    }
+  },
+  {
+    "id": 51,
+    "year": "2010",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "राष्ट्रीय सौर मिशन",
+        "en": "National Solar Mission"
+      },
+      {
+        "id": 2,
+        "hi": "राष्ट्रीय जल मिशन",
+        "en": "National Water Mission"
+      },
+      {
+        "id": 3,
+        "hi": "राष्ट्रीय तटीय पारिस्थितिकी तंत्र मिशन",
+        "en": "National Mission for Coastal Ecosystem"
+      },
+      {
+        "id": 4,
+        "hi": "सतत् कृषि के लिये राष्ट्रीय मिशन",
+        "en": "National Mission for Sustainable Agriculture"
+      }
+    ],
+    "question": {
+      "hi": "जलवायु परिवर्तन पर राष्ट्रीय कार्ययोजना (NAPCC) के अंतर्गत निम्नलिखित में से कौन-से मिशन शामिल हैं?\nनीचे दिये गए कूट का प्रयोग कर सही उत्तर चुनिये:",
+      "en": "Which of the following missions are included under the National Action Plan on Climate Change (NAPCC)?\nSelect the correct answer using the code given below:"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1, 2 और 4",
+        "en": "1, 2 and 4 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2, 3 और 4",
+        "en": "2, 3 and 4 only"
+      },
+      {
+        "id": "C",
+        "hi": "केवल 1 और 3",
+        "en": "1 and 3 only"
+      },
+      {
+        "id": "D",
+        "hi": "1, 2, 3 और 4",
+        "en": "1, 2, 3 and 4"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "hi": "जलवायु परिवर्तन पर राष्ट्रीय कार्ययोजना (NAPCC) को 2008 में लॉन्च किया गया था। इसमें 8 राष्ट्रीय मिशन शामिल हैं: 1. राष्ट्रीय सौर मिशन, 2. विकसित ऊर्जा दक्षता के लिये राष्ट्रीय मिशन, 3. राष्ट्रीय सतत् आवास मिशन, 4. राष्ट्रीय जल मिशन, 5. हिमालयी पारिस्थितिकी तंत्र को बनाए रखने के लिये राष्ट्रीय मिशन, 6. हरित भारत के लिये राष्ट्रीय मिशन, 7. सतत् कृषि के लिये राष्ट्रीय मिशन, और 8. जलवायु परिवर्तन हेतु रणनीतिक ज्ञान पर राष्ट्रीय मिशन। 'राष्ट्रीय तटीय पारिस्थितिकी तंत्र मिशन' इसके 8 मिशनों में शामिल नहीं है। अतः विकल्प (a) सही है।",
+      "en": "The National Action Plan on Climate Change (NAPCC) was launched in 2008. It includes 8 National Missions: 1. National Solar Mission, 2. National Mission for Enhanced Energy Efficiency, 3. National Mission on Sustainable Habitat, 4. National Water Mission, 5. National Mission for Sustaining the Himalayan Ecosystem, 6. National Mission for a Green India, 7. National Mission for Sustainable Agriculture, and 8. National Mission on Strategic Knowledge for Climate Change. 'National Mission for Coastal Ecosystem' is not included in its 8 missions. Hence, option (a) is correct."
+    }
+  },
+  {
+    "id": 52,
+    "year": "2010",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सी संस्था भारत में वन्यजीवों के अवैध व्यापार पर नियंत्रण और रोकथाम के लिये मुख्य रूप से ज़िम्मेदार है?",
+      "en": "Which of the following organizations is primarily responsible for the control and prevention of illegal trade in wildlife in India?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "राष्ट्रीय बाघ संरक्षण प्राधिकरण (NTCA)",
+        "en": "National Tiger Conservation Authority (NTCA)"
+      },
+      {
+        "id": "B",
+        "hi": "भारतीय प्राणी सर्वेक्षण (ZSI)",
+        "en": "Zoological Survey of India (ZSI)"
+      },
+      {
+        "id": "C",
+        "hi": "वन्यजीव अपराध नियंत्रण ब्यूरो (WCCB)",
+        "en": "Wildlife Crime Control Bureau (WCCB)"
+      },
+      {
+        "id": "D",
+        "hi": "पशु कल्याण बोर्ड (AWBI)",
+        "en": "Animal Welfare Board of India (AWBI)"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "वन्यजीव अपराध नियंत्रण ब्यूरो (WCCB) भारत सरकार के पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय के तहत एक वैधानिक बहु-अनुशासनात्मक निकाय है, जिसका गठन वन्यजीव संरक्षण अधिनियम, 1972 के प्रावधानों के तहत देश में संगठित वन्यजीव अपराध से निपटने के लिये किया गया है।",
+      "en": "The Wildlife Crime Control Bureau (WCCB) is a statutory multi-disciplinary body under the Ministry of Environment, Forest and Climate Change, Government of India, constituted under the provisions of the Wildlife (Protection) Act, 1972 to combat organized wildlife crime in the country."
+    }
+  },
+  {
+    "id": 53,
+    "year": "2010",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "CAMPA का उद्देश्य वन भूमि के गैर-वन उपयोग के लिये किये गए डायवर्ज़न की भरपाई के लिये वनरोपण करना है।",
+        "en": "The objective of CAMPA is to promote afforestation to compensate for the diversion of forest land for non-forest uses."
+      },
+      {
+        "id": 2,
+        "hi": "क्षतिपूरक वनीकरण कोष (CAF) अधिनियम, 2016 के तहत राष्ट्रीय और राज्य स्तर पर निधियाँ स्थापित की गई हैं।",
+        "en": "Under the Compensatory Afforestation Fund (CAF) Act, 2016, funds have been established at both the National and State levels."
+      }
+    ],
+    "question": {
+      "hi": "क्षतिपूरक वनीकरण कोष प्रबंधन और योजना प्राधिकरण (CAMPA) के संदर्भ में निम्नलिखित कथनों पर विचार कीजिये:\nउपर्युक्त कथनों में से कौन-सा/से सही है/हैं?",
+      "en": "With reference to the Compensatory Afforestation Fund Management and Planning Authority (CAMPA), consider the following statements:\nWhich of the statements given above is/are correct?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केवल 1",
+        "en": "1 only"
+      },
+      {
+        "id": "B",
+        "hi": "केवल 2",
+        "en": "2 only"
+      },
+      {
+        "id": "C",
+        "hi": "1 और 2 दोनों",
+        "en": "Both 1 and 2"
+      },
+      {
+        "id": "D",
+        "hi": "न तो 1 और न ही 2",
+        "en": "Neither 1 nor 2"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "CAMPA (Compensatory Afforestation Fund Management and Planning Authority) को वन भूमि के विकास या गैर-वन उद्देश्यों के लिये डायवर्ज़न के कारण होने वाले वन क्षेत्र के नुकसान की भरपाई (क्षतिपूरक वनीकरण) के लिये एकत्रित धन के प्रबंधन हेतु स्थापित किया गया था। अतः कथन 1 सही है। क्षतिपूरक वनीकरण कोष (CAF) अधिनियम, 2016 के तहत राष्ट्रीय क्षतिपूरक वनीकरण कोष (भारत के सार्वजनिक खाते के तहत) और राज्य क्षतिपूरक वनीकरण कोष (राज्यों के सार्वजनिक खाते के तहत) की स्थापना की गई है। अतः कथन 2 सही है। विकल्प (c) सही है।",
+      "en": "CAMPA was established to manage the funds collected to compensate (compensatory afforestation) for the loss of forest area due to the diversion of forest land for development or non-forest purposes. Hence statement 1 is correct. The Compensatory Afforestation Fund (CAF) Act, 2016 established the National Compensatory Afforestation Fund (under the Public Account of India) and the State Compensatory Afforestation Fund (under the Public Account of the States). Hence statement 2 is correct. Option (c) is correct."
+    }
+  },
+  {
+    "id": 54,
+    "year": "2009",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन-सा एक, पर्यावरण (संरक्षण) अधिनियम, 1986 के अधीन गठित किया गया है?",
+      "en": "Which one of the following has been constituted under the Environment (Protection) Act, 1986?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "केंद्रीय जल आयोग",
+        "en": "Central Water Commission"
+      },
+      {
+        "id": "B",
+        "hi": "केंद्रीय भूजल बोर्ड",
+        "en": "Central Ground Water Board"
+      },
+      {
+        "id": "C",
+        "hi": "केंद्रीय भूजल प्राधिकरण",
+        "en": "Central Ground Water Authority"
+      },
+      {
+        "id": "D",
+        "hi": "राष्ट्रीय जल विकास अभिकरण",
+        "en": "National Water Development Agency"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "केंद्रीय भूजल प्राधिकरण (CGWA) का गठन 'पर्यावरण (संरक्षण) अधिनियम, 1986' की धारा 3(3) के तहत किया गया है। इसका उद्देश्य देश में भूजल संसाधनों के विकास और प्रबंधन को विनियमित और नियंत्रित करना है।",
+      "en": "The Central Ground Water Authority (CGWA) has been constituted under Section 3(3) of the 'Environment (Protection) Act, 1986'. Its objective is to regulate and control the development and management of groundwater resources in the country."
+    }
+  },
+  {
+    "id": 55,
+    "year": "2009",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Medium",
+    "type": "mcq",
+    "statements": [
+      {
+        "id": 1,
+        "hi": "UNEP (संयुक्त राष्ट्र पर्यावरण कार्यक्रम)",
+        "en": "UNEP (United Nations Environment Programme)"
+      },
+      {
+        "id": 2,
+        "hi": "UNDP (संयुक्त राष्ट्र विकास कार्यक्रम)",
+        "en": "UNDP (United Nations Development Programme)"
+      },
+      {
+        "id": 3,
+        "hi": "WMO (विश्व मौसम विज्ञान संगठन)",
+        "en": "WMO (World Meteorological Organization)"
+      }
+    ],
+    "question": {
+      "hi": "जलवायु परिवर्तन पर अंतर-सरकारी पैनल (IPCC) की स्थापना किन दो संगठनों द्वारा की गई थी?",
+      "en": "The Intergovernmental Panel on Climate Change (IPCC) was established by which two organizations?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1 और 2",
+        "en": "1 and 2"
+      },
+      {
+        "id": "B",
+        "hi": "1 और 3",
+        "en": "1 and 3"
+      },
+      {
+        "id": "C",
+        "hi": "2 और 3",
+        "en": "2 and 3"
+      },
+      {
+        "id": "D",
+        "hi": "केवल 1",
+        "en": "1 only"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "hi": "IPCC (जलवायु परिवर्तन पर अंतर-सरकारी पैनल) की स्थापना वर्ष 1988 में संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP) और विश्व मौसम विज्ञान संगठन (WMO) द्वारा संयुक्त रूप से की गई थी। इसका मुख्य उद्देश्य जलवायु परिवर्तन, इसके प्रभावों और भविष्य के संभावित जोखिमों को समझने के लिये वैज्ञानिक जानकारी प्रदान करना है। अतः विकल्प (b) सही है।",
+      "en": "The IPCC (Intergovernmental Panel on Climate Change) was jointly established in 1988 by the United Nations Environment Programme (UNEP) and the World Meteorological Organization (WMO). Its main objective is to provide scientific information to understand climate change, its impacts and possible future risks. Hence, option (b) is correct."
+    }
+  },
+  {
+    "id": 56,
+    "year": "2009",
+    "subject": "Environment",
+    "topic": "पर्यावरण से संबंधित अंतर्राष्ट्रीय संगठन/कानून/सम्मेलन (International Organizations/Laws/Conventions related to Environment)",
+    "difficulty": "Easy",
+    "type": "mcq",
+    "question": {
+      "hi": "एजेंडा 21, जो कि पर्यावरण और विकास से संबंधित एक वैश्विक कार्य योजना है, किस वर्ष अपनाया गया था?",
+      "en": "Agenda 21, which is a global action plan related to environment and development, was adopted in which year?"
+    },
+    "options": [
+      {
+        "id": "A",
+        "hi": "1972",
+        "en": "1972"
+      },
+      {
+        "id": "B",
+        "hi": "1987",
+        "en": "1987"
+      },
+      {
+        "id": "C",
+        "hi": "1992",
+        "en": "1992"
+      },
+      {
+        "id": "D",
+        "hi": "1997",
+        "en": "1997"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "hi": "एजेंडा 21 को 1992 में ब्राज़ील के रियो डी जनेरियो में आयोजित पृथ्वी शिखर सम्मेलन (पर्यावरण और विकास पर संयुक्त राष्ट्र सम्मेलन - UNCED) में अपनाया गया था। यह 21वीं सदी में सतत् विकास को प्राप्त करने के लिये एक व्यापक खाका (ब्लूप्रिंट) है।",
+      "en": "Agenda 21 was adopted at the Earth Summit (United Nations Conference on Environment and Development - UNCED) held in Rio de Janeiro, Brazil in 1992. It is a comprehensive blueprint for achieving sustainable development in the 21st century."
+    }
+  }
+]
